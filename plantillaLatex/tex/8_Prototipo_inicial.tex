@@ -1,0 +1,16 @@
+\capitulo{8}{Prototipo inicial}
+
+Al revisar la viabilidad del proyecto se plantearon posibles dificultades que podían surgir. Tras comprender que las complicaciones eran numerosas, se decidió crear un \textbf{prototipo sencillo}, consistente en un \textit{script} en Python, que trataría de lanzar  mil peticiones de búsqueda. Esto nos permitiría establecer los límites de realizar ``web scrapping'' sobre Google Scholar .
+
+Así pues, manos a la obra, se desarrolló un \textit{script} sencillo, que solicita acceso a la página principal de Google Scholar y, mediante métodos HTTP, realiza una búsqueda (a partir de parámetros solicitados por pantalla). Finalmente, extrae el título de la página resultante tras hacer la búsqueda. 
+
+Todo esto se logra haciendo uso de la biblioteca de Python \textbf{BeautifulSoup} (ver documentación en el siguiente \href{https://beautiful-soup-4.readthedocs.io/en/latest/}{enlace}). Esta biblioteca contiene métodos centrados en la extracción de datos de archivos HTML y XML para su posterior análisis. Es fácil advertir cuán idónea resulta esta biblioteca para nuestro propósito.
+
+Tras diseñar y programar el código mencionado, se procede a su prueba. La primera ejecución del \textit{script} resultó desaletadora, ya que, a partir de la solicitud número \textbf{726}, Google Scholar detecta que un \textbf{\textit{bot}} está realizando búsquedas. A partir de ese momento, nuestra ip queda bloqueada y las solicitudes fallan sin excepción. Google Schoolar nos redirecciona a una página (figura \ref{fig:error}) donde se solicita al usuario resolver un \textit{captcha}. 
+
+\imagen{error}{Captura de reCAPTCHA de Google}{.70}
+
+El número de solicitudes exitosas es demasiado bajo para cumplir su función en nuestro proyecto, por lo que se procede a buscar una solución alternativa. 
+
+Tras distintas pruebas, se encontró una forma de superar la barrera del \textit{captcha}. A saber: añadiendo a la \textit{url} una sección extra que permite suprimir esta excepción durante un periodo concreto de tiempo. Así pues, logramos ejecutar con éxito el \textit{script} tantas veces como se desee. Ahora ya se puede decir que el proyecto es \textbf{viable}.
+

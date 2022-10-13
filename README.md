@@ -8,3 +8,8 @@ _Repositorio para el TFG sobre la estimación del factor de impacto de las publi
 * Virginia Ahedo García
 * Álvar Arnaiz González
 * Gadea Lucas Pérez
+
+## Contenido:
+* Plantilla LaTeX para realizar la memoria del TFG
+* Prototipo.py: protootipo inicial en Python para comprobar la viabilidad del proyecto
+* Readme.md
