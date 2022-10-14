@@ -16,57 +16,89 @@ import requests
 # Documentación: https://beautiful-soup-4.readthedocs.io/en/latest/
 from bs4 import BeautifulSoup
 
+# Librería para ell tratamiento de ficheros y directorios
+import os
+
 # Otros
 from datetime import datetime
 import csv
 import random
-import os
+
 
  
 ######################################################################################
 
 """
-HTTP REQUEST
+HTTP Requests
 """
+
 # Método que selecciona un "user agent" al azar
 # Código sacado de: https://www.shellhacks.com/python-requests-user-agent-web-scraping/
 def getHeather():
-    user_agents = [
-      "Mozilla/5.0 (Windows NT 10.0; rv:91.0) Gecko/20100101 Firefox/91.0",
-      "Mozilla/5.0 (Windows NT 10.0; rv:78.0) Gecko/20100101 Firefox/78.0",
-      "Mozilla/5.0 (X11; Linux x86_64; rv:95.0) Gecko/20100101 Firefox/95.0"
-      ]
+    
+    # Extraemos de una lista gratuita varios agentes
+    respuesta = requests.get('https://developers.whatismybrowser.com/useragents/explore/software_name/firefox/')
+    soup = BeautifulSoup(respuesta.content, 'html.parser')
+    
+    # Lista de posibles agentes
+    user_agents = soup.find_all("a","code")
+
+    # Selección de un agente al azar
     random_user_agent = random.choice(user_agents)
-    headers = {
-        'User-Agent': random_user_agent
-    }
+    headers = {'User-Agent': random_user_agent.text}
+    
+    # Se retorna la elección aleatoria del agente
     return headers
     
+    
+# Método para establecer un proxy (enmascaramos así nuestra ip)
+def getProxy():
 
-# Ejecución del método GET
+    #TO DO:
+    # Extraemos de una lista gratuita varios proxies
+    #respuesta = requests.get('https://free-proxy-list.net/')
+    #soup = htmlParsing(respuesta)
+    
+    # Extraemos un proxy https
+    #proxy = soup.find_all("a","code")
+    
+    # Lista de posibles user agents
+    #proxies = {'https': proxy} #,'https': proxy1}
+    
+    # lista temporal hecha a mano
+    proxies = {'http':'41.65.162.75:1981','https':'176.214.97.13:8081'}
+    return proxies 
+
+
+# Ejecución del método HTTP GET
 # Se pasa por parámetro la página web deseada y los datos de la búsqueda
 def requestGet(direccion, parametros):
-    pagina = requests.get(direccion, headers=getHeather(), params=parametros)
+    
+    #TO DO:
+    pagina = requests.get(direccion, params=parametros) #, proxies=getProxy(), headers=getHeather(),
     return pagina
 
 
-# Status code
-# El código de éxito es '200'
-# Comprobamos que se busca la URL adecuada
+# Status code (el código de éxito es '200')
+# Comprobamos que se busca la URL de forma adecuada
 def checkSuccess(indice, direccion):
+    
     if(direccion.status_code == 200):
         msg = "Llamada " + str(indice) + " a " + direccion.url + " exitosa."
+        # Imprimimos el resultado
         print(msg)
         exiTxt(msg)
         return True
+    
     else:
         msg = "Llamada " + str(indice) + " a " + direccion.url + " fallida."
+        # Imprimimos el resultado
         print(msg)
         errTxt(msg)
         return False
 
 
-# Contenido de la página copleta
+# Impresión del contenido de la página copleta
 def printContent(direccion):
     print(direccion.content)
     
@@ -99,7 +131,7 @@ def printSoup():
 # Obtener el título y sus datos
 # Nombre del tag ("title") + Título
 def getTittle(soup):
-    titulo = str(soup.title.name) + ": " + str(soup.title)
+    titulo = str(soup.title.name) + ": " + str(soup.title.text)
     return titulo
 
 
@@ -109,9 +141,28 @@ def getTittle(soup):
 Entrada y salida de datos
 """
 
-# Resultados exitosos de la búsqueda a CSV
+# Método que inicializa los ficheros de resultados
+def iniFicheros():
+    
+    # Nombres de los ficheros
+    filename1 = 'exitos.txt'
+    filename2 = 'errores.txt'
+    filename3 = 'datos.csv'
+    
+    # En caso de ya existir y estar escritos, se borran para generar los nuevos sin problemas
+    if(os.path.exists(filename1) and os.stat(filename1).st_size != 0):
+        os.remove(filename1)
+        
+    if(os.path.exists(filename2) and os.stat(filename2).st_size != 0):
+        os.remove(filename2)
+        
+    if(os.path.exists(filename3) and os.stat(filename3).st_size != 0):
+        os.remove(filename3)
+
+
+# Parámetros de los resultados exitosos de la búsqueda almacenados en un CSV
 # TO DO: incluir el resto de parámetros que interesan, no solo el título
-def addCsv(soup, indice):
+def lineCsv(soup, indice):
     
     # Se almacena el título
     titulo = getTittle(soup)
@@ -122,21 +173,10 @@ def addCsv(soup, indice):
         w = csv.writer(f)
         linea = [indice,titulo]
         w.writerow(linea)
+    
+    # Se cierra el fichero para evitar posibles errores
     f.close()
 
-# Método que inicializa los ficheros de resultados
-def iniTxt():
-    
-    # Nombres de los ficheros
-    filename1 = 'exitos.txt'
-    filename2 = 'errores.txt'
-    
-    # En caso de ya existir y estar escritos, se borran para generar los nuevos sin problemas
-    if(os.path.exists(filename1) and os.stat(filename1).st_size != 0):
-        os.remove(filename1)
-        
-    if(os.path.exists(filename2) and os.stat(filename2).st_size != 0):
-        os.remove(filename2)
     
 # Txt de solicitudes exitosas
 def exiTxt(msg):
@@ -164,6 +204,8 @@ def errTxt(msg):
     # Se cierra el fichero para evitar posibles errores
     f.close()
 
+    
+    
 # Se pide el término de búsqueda y se guarda en forma de diccionario
 # TO DO: incrementar el número de parámetros posibles (autor, citas...)
 def searchParameters():  
@@ -217,7 +259,7 @@ def main():
     direccionB = requestGet(direccionS, data)
         
     # Preparamos los ficheros donde se guardarán los resultados
-    iniTxt()
+    iniFicheros()
 
     # Hacemos 1000 solicitudes a la página
     for indice in range(1000):
@@ -226,15 +268,15 @@ def main():
         if(checkSuccess(indice + 1, direccionB)):
             # Parseamos la dirección de búsqueda
             soup = htmlParsing(direccionB)
-            # Imprimimos los resultados en un CSV
-            addCsv(soup, indice + 1)
+            # Imprimimos los datos en una linea del CSV de resultados
+            lineCsv(soup, indice + 1)
    
         # Si la IP ha sido baneada, se trata de evitar el error
-        else:
+        #else:
             # Url que suprime el error
-            direccionErr = 'https://scholar.google.com/scholar?q=' + data['q'] + '&hl=' + data['hl'] + '&as_sdt=0%2C5&google_abuse=GOOGLE_ABUSE_EXEMPTION%3DID%3D0bb1123c8648d592:TM%3D1665669239:C%3Dr:IP%3D193.146.172.152-:S%3DpYb4eD9wyC67xaXFFgTCaFs%3B+path%3D/%3B+domain%3Dgoogle.com%3B+expires%3D' + getTiempo()
+            #direccionErr = 'https://scholar.google.com/scholar?q=' + data['q'] + '&hl=' + data['hl'] + '&as_sdt=0%2C5&google_abuse=GOOGLE_ABUSE_EXEMPTION%3DID%3D0bb1123c8648d592:TM%3D1665669239:C%3Dr:IP%3D193.146.172.152-:S%3DpYb4eD9wyC67xaXFFgTCaFs%3B+path%3D/%3B+domain%3Dgoogle.com%3B+expires%3D' + getTiempo()
             # Solicitamos la nueva web
-            direccionB = requests.get(direccionErr)
+            #direccionB = requests.get(direccionErr)
             
         # Separación entre solicitudes        
         print('\n') 
