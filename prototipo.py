@@ -54,19 +54,19 @@ def getHeather():
 # Método para establecer un proxy (enmascaramos así nuestra ip)
 def getProxy():
 
-    #TO DO:
     # Extraemos de una lista gratuita varios proxies
-    #respuesta = requests.get('https://free-proxy-list.net/')
-    #soup = htmlParsing(respuesta)
+    respuesta = requests.get('https://www.proxy-list.download/HTTP')
+    soup = htmlParsing(respuesta)
     
     # Extraemos un proxy https
-    #proxy = soup.find_all("a","code")
-    
-    # Lista de posibles user agents
-    #proxies = {'https': proxy} #,'https': proxy1}
-    
-    # lista temporal hecha a mano
-    proxies = {'http':'41.65.162.75:1981','https':'176.214.97.13:8081'}
+    resp = soup.find("td")
+    ip = resp.next
+    port = resp.next.next.next.next
+    proxy = ip.strip() + ':' + port.strip()
+
+    # Lista de posible user agents
+    proxies = {'http': proxy} 
+
     return proxies 
 
 
@@ -75,7 +75,7 @@ def getProxy():
 def requestGet(direccion, parametros):
     
     #TO DO:
-    pagina = requests.get(direccion, params=parametros) #, proxies=getProxy(), headers=getHeather(),
+    pagina = requests.get(direccion, params=parametros, headers=getHeather(), proxies=getProxy() )
     return pagina
 
 
