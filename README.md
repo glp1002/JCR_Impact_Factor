@@ -11,5 +11,7 @@ _Repositorio para el TFG sobre la estimación del factor de impacto de las publi
 
 ## Contenido:
 * Plantilla LaTeX para realizar la memoria del TFG
-* Prototipo.py: protootipo inicial en Python para comprobar la viabilidad del proyecto
+* Prototipo.py: prototipo inicial en Python para comprobar la viabilidad del proyecto
+* exitos.txt: fichero con el registro de 100 000 _requests_ exitosas
 * Readme.md
+
