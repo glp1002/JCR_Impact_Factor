@@ -13,5 +13,6 @@ _Repositorio para el TFG sobre la estimación del factor de impacto de las publi
 * Plantilla LaTeX para realizar la memoria del TFG
 * Prototipo.py: prototipo inicial en Python para comprobar la viabilidad del proyecto
 * exitos.txt: fichero con el registro de 100 000 _requests_ exitosas
+* nuevo_sprint: nuevos avances temporales del _sprint_ actual
 * Readme.md
 
