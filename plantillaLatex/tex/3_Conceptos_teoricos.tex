@@ -1,83 +1,89 @@
 \capitulo{3}{Conceptos teóricos}
 
-En aquellos proyectos que necesiten para su comprensión y desarrollo de unos conceptos teóricos de una determinada materia o de un determinado dominio de conocimiento, debe existir un apartado que sintetice dichos conceptos.
+Cuando un investigador termina su trabajo, genera un artículo científico en el que plasma el resultado de su investigación. Esta documentación sirve de precedente para aquellos que posteriormente investiguen sobre temáticas relacionadas. Así pues, el artículo científico es el elemento principal en torno al que giran los estudios bibliométricos.
 
-Algunos conceptos teóricos de \LaTeX \footnote{Créditos a los proyectos de Álvaro López Cantero: Configurador de Presupuestos y Roberto Izquierdo Amo: PLQuiz}.
-
-\section{Secciones}
-
-Las secciones se incluyen con el comando section.
-
-\subsection{Subsecciones}
-
-Además de secciones tenemos subsecciones.
-
-\subsubsection{Subsubsecciones}
-
-Y subsecciones. 
+Antes de adentrarnos en más detalles, se ilustrarán algunos conceptos esenciales sobre este proyecto, para dotarlo de mayor comprensión y claridad. Así pues, en esta sección se abarcarán los conceptos de bibliometría, cienciometría e índice de impacto; conceptos relativos al avance de la ciencia y la producción de conocimientos a partir de la actividad de la investigación.
 
 
-\section{Referencias}
+\section{Bibliometría}
 
-Las referencias se incluyen en el texto usando cite \cite{wiki:latex}. Para citar webs, artículos o libros \cite{koza92}.
+Biblio (libros) - metría (medición)
+
+Ciencia que aplica métodos matemáticos para encontrar comportamientos estadísticos en la literatura científica. Estos estudios y análisis pretenden cuantificar toda la actividad científica escrita con el objetivo final de orientar sobre el impacto de una investigación.
+
+Los estudios bibliométricos tienen origen en 1960 con la aparición del Science Citation Index (Eugene Garfield) y el análisis de redes de citas (Derek John de Solla Price), que sentaron las bases fundamentales sobre bibliometría.
+
+El objetivo de los estudios bibliométricos pueden limitase solamente al análisis de la envergadura, el crecimiento y la distribución de la literatura científica, pero también son útiles a la hora de encontrar las revistas donde es más conveniente publicar un artículo o descubrir a los autores más importantes en cada ámbito, así como las nuevas tendencias.
+
+Sin embargo, la información organizada de esta forma también tiene sus limitaciones. Ejemplo de ello es el patrón de citas usado en cada área de investigación; es mucho más común incluir citas en investigaciones tecnológicas y científicas. Es decir, cada temática deberá ser tratada de forma distinta. Para ello se normalizará el índice de impacto.
+Por otro lado, también influye la base de datos utilizada, ya que cada una tiene un método de indexación distinta.
+El idioma es otro ejemplo de limitación. Ya que el inglés es el idioma predominante, será más complicado encontrar citas de documentos 	escritos en otros idiomas.
+También es preciso tener en cuenta problemas de dispersión debidos a perfiles duplicados o nombres similares. Para poder solucionar este tipo de confusiones, es recomendable crear identificadores (ORCID) para cada autor.
+De esta forma, todos los comportamientos irregulares (como las citas a uno mismo) deben tenerse en consideración.
+Por otro lado, el momento en que se realizan los estudios es también fundamental, ya que los datos pueden cambiar de un momento a otro.
+
+\subsection{Ejemplo}
+
+Un ejemplo de análisis bibliométrico podría consistir en averiguar los autores que, en cierta revista, traten un tema en concreto. Para ello se deberían anotar los siguientes datos:
+
+* Lista de identificadores de los autores (ordenados alfabéticamente) aparecidos en la revista en cuestión.
+
+* Cantidad de artículos de cada uno de estos autores en la revista.
+
+* Revistas en las que aparecen los artículos citados.
+
+* Los artículos (cantidad) que aparecen en cada una de las revistas listadas.
 
 
-\section{Imágenes}
+\section{Cienciometría}
 
-Se pueden incluir imágenes con los comandos standard de \LaTeX, pero esta plantilla dispone de comandos propios como por ejemplo el siguiente:
+Ciencio (ciencia) - metría (medición)
 
-\imagen{escudoInfor}{Autómata para una expresión vacía}
+Estudio de los metadatos e indicadores sobre la bibliografía científica con el fin de medir y analizar toda la producción científica.
+La cienciometría es útil para ordenar conocimientos científicos mediante la creación de sistemas de conceptos. También para transferir conocimientos a través de la enseñanza y la formación. A su vez, también busca comunicar conocimientos de un lenguaje a otro a través de símbolos lingüísticos. Logra resumir y sintetizar la información científica y, por último, recupera y almacena información mediante la indexación y lenguajes documentales.
+
+La cienciometría, puesta en práctica, trabaja relacionada con otras ciencias y disciplinas como las que se muestran en la figura 1 (insertar imagen en la plantilla del TFG).
+
+(Idea aproximada de la imagen)
+Figura 1: Ambos campos se superponen en gran medida
 
 
+Es decir, se trata de un concepto más amplio que engloba al anterior (bibliometría). Se podría decir que la bibliometría surge como resultado del contacto interdisciplinar de entre el conjunto de disciplinas que integran lo que se conoce como ``ciencia de la ciencia'', cuya fuente es la propia cienciometría.
+ 
 
-\section{Listas de items}
+\section{Índice de impacto}
 
-Existen tres posibilidades:
+Existe un gran abanico de índices distintos englobados dentro de la bibliometría. Sin embargo, en este caso, nos centraremos especialmente en los índices de citas o, en inglés, ``Citation Index''.
 
-\begin{itemize}
-	\item primer item.
-	\item segundo item.
-\end{itemize}
+Se trata de índices de autor con características especiales, pues no solamente citan junto a cada autor la lista de los documentos por él publicados, sino
+que añade, en cada referencia, la lista de los documentos que ha citado esta referencia en su propia bibliografía. Permiten localizar otros autores que han tratado las mismas materias y buscar también documentos más recientes que éste ya conocido.
+Contienen literatura científica de medicina, psicología, agricultura, tecnología y documentación científica en general. 
 
-\begin{enumerate}
-	\item primer item.
-	\item segundo item.
-\end{enumerate}
 
-\begin{description}
-	\item[Primer item] más información sobre el primer item.
-	\item[Segundo item] más información sobre el segundo item.
-\end{description}
-	
-\begin{itemize}
-\item 
-\end{itemize}
+\subsection{Ejemplo}
 
-\section{Tablas}
+En un índice de citas, aparecen los artículos de un mismo autor agrupados por orden cronológico. Justo debajo, aparece la lista de autores que han citado este artículo y,
+a su lado, la referencia del documento (ver figura 2).
 
-Igualmente se pueden usar los comandos específicos de \LaTeX o bien usar alguno de los comandos de la plantilla.
+	(Insertar imágen en plantilla del TFG)
 
-\tablaSmall{Herramientas y tecnologías utilizadas en cada parte del proyecto}{l c c c c}{herramientasportipodeuso}
-{ \multicolumn{1}{l}{Herramientas} & App AngularJS & API REST & BD & Memoria \\}{ 
-HTML5 & X & & &\\
-CSS3 & X & & &\\
-BOOTSTRAP & X & & &\\
-JavaScript & X & & &\\
-AngularJS & X & & &\\
-Bower & X & & &\\
-PHP & & X & &\\
-Karma + Jasmine & X & & &\\
-Slim framework & & X & &\\
-Idiorm & & X & &\\
-Composer & & X & &\\
-JSON & X & X & &\\
-PhpStorm & X & X & &\\
-MySQL & & & X &\\
-PhpMyAdmin & & & X &\\
-Git + BitBucket & X & X & X & X\\
-Mik\TeX{} & & & & X\\
-\TeX{}Maker & & & & X\\
-Astah & & & & X\\
-Balsamiq Mockups & X & & &\\
-VersionOne & X & X & X & X\\
-} 
+Es deir, bastará con saber el nombre de un solo autor que trabaje en el campo en el que se esté interesado, para obtener de forma inmediata (consultando simplemente el índice) el conjunto de documentos que traten del mismo tema.
+
+Generalmente se divide en dos subíndices: uno de autores (con referencias de documentos citados), y otro de fuentes (acompañadas de los títulos de los documentos).
+
+Otros intereses que se deducen de este índice de autores consiste en el valor que puden  tener los documentos citados debido a que el autor de un documento, especialista en un campo, a tenido interés en dar a conocer a dichos autores.
+
+\subsection{JCR}
+El JCR (\textit{Journal Citation Reports}) es uno de los 7 volúmenes de índices de impacto más importantes. Consiste en el análisis biométrico de las revistas del banco de datos ISI, con número de citas al año de cada una, revistas que citan a otras revistas, listado de abreviaturas de títulos y su desarrollo, etc.
+De entre los datos estadísticos que se obtienen, nos importa especialmente el \textbf{Factor de Impacto}, que permiten determinar de una manera sistemática y objetiva la importancia relativa de las principales revistas de investigación internacionales dentro de sus categorías temáticas. 
+La última actualización del JCR ofrece los datos del Factor de Impacto del 2021
+
+\subsection{SJR}
+
+Y subsecciones.
+
+\subsection{Hindex}
+
+Y subsecciones.
+
+

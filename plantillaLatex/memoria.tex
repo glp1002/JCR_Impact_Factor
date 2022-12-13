@@ -33,6 +33,38 @@
 \widowpenalty100000
 \clubpenalty100000
 
+% Cuadros de notas (comando propuesto por la alumna)
+% Los parámetros son:
+% 1 --> Texto de la nota
+\newcommand{\nota}[1]{
+    \begin{center}
+        \fcolorbox{blue}{white}{\textcolor{black}{
+            \begin{minipage}{0.915\linewidth}
+        	\textbf{\color{blue}NOTA}
+                \linebreak\linebreak
+                #1
+                \linebreak
+            \end{minipage}
+        }}
+    \end{center}
+}
+
+% Cuadros de WARNINGS (comando propuesto por la alumna)
+% Los parámetros son:
+% 1 --> Texto del aviso
+\newcommand{\aviso}[1]{
+    \begin{center}
+        \fcolorbox{red}{white}{\textcolor{black}{
+            \begin{minipage}{0.915\linewidth}
+        	\textbf{\color{red}AVISO}
+                \linebreak\linebreak
+                #1
+                \linebreak
+            \end{minipage}
+        }}
+    \end{center}
+}
+
 % Imágenes
 
 % Comando para insertar una imagen en un lugar concreto.
@@ -292,6 +324,8 @@
 \newcommand{\capitulo}[2]{
 	\setcounter{chapter}{#1}
 	\setcounter{section}{0}
+        \setcounter{subsection}{0}
+        \setcounter{subsubsection}{0}
 	\setcounter{figure}{0}
 	\setcounter{table}{0}
 	\chapter*{#2}
@@ -343,8 +377,9 @@
   {%
     \noindent\LARGE
     Presentado por \@author{}\\ 
-    en Universidad de Burgos --- \@date{}\\
-    Tutor: \@tutor{}\\
+    en Universidad de Burgos\\
+    a \@date{}\\
+    Tutores: \@tutor{}\\
   }%
   \end{center}%
   \null
@@ -352,12 +387,12 @@
   }
 \makeatother
 
-\newcommand{\nombre}{Nombre del alumno} %%% cambio de comando
+\newcommand{\nombre}{Gadea Lucas Pérez} %%% cambio de comando
 
 % Datos de portada
-\title{título del TFG}
+\title{Impact Factor Oracle}
 \author{\nombre}
-\tutor{nombre tutor}
+\tutor{Virginia Ahedo y Álvar Arnaiz}
 \date{\today}
 
 \begin{document}
@@ -374,11 +409,11 @@
 
 \noindent\includegraphics[width=\textwidth]{cabecera}\vspace{1cm}
 
-\noindent D. nombre tutor, profesor del departamento de nombre departamento, área de nombre área.
+\noindent Dña. Virginia Ahedo, profesora del departamento de Organización, área de (preguntar).
 
 \noindent Expone:
 
-\noindent Que el alumno D. \nombre, con DNI dni, ha realizado el Trabajo final de Grado en Ingeniería Informática titulado título de TFG. 
+\noindent Que el alumno Dña. \nombre, con DNI 71483074V, ha realizado el Trabajo final de Grado en Ingeniería Informática titulado ``Impact Factor Oracle''. 
 
 \noindent Y que dicho trabajo ha sido realizado por el alumno bajo la dirección del que suscribe, en virtud de lo cual se autoriza su presentación y defensa.
 
@@ -392,24 +427,19 @@ En Burgos, {\large \today}
 \begin{minipage}{0.45\textwidth}
 \begin{flushleft} %\large
 Vº. Bº. del Tutor:\\[2cm]
-D. nombre tutor
+Dña. Virginia Ahedo
 \end{flushleft}
 \end{minipage}
 \hfill
 \begin{minipage}{0.45\textwidth}
 \begin{flushleft} %\large
 Vº. Bº. del co-tutor:\\[2cm]
-D. nombre co-tutor
+D. Álvar Arnaiz
 \end{flushleft}
 \end{minipage}
 \hfill
 
 \vfill
-
-% para casos con solo un tutor comentar lo anterior
-% y descomentar lo siguiente
-%Vº. Bº. del Tutor:\\[2cm]
-%D. nombre tutor
 
 
 \newpage\null\thispagestyle{empty}\newpage
@@ -422,12 +452,17 @@ D. nombre co-tutor
 % Abstract en castellano
 \renewcommand*\abstractname{Resumen}
 \begin{abstract}
-En este primer apartado se hace una \textbf{breve} presentación del tema que se aborda en el proyecto.
+El factor de impacto de una publicación científica mide la frecuencia con la cual ha sido citado el artículo promedio de una revista en un año en particular. Específicamente, sirve para evaluar la importancia de una revista dentro de un determinado campo científico. Existen múltiples metodologías de cálculo y sus correspondientes métricas, siendo el JCR (Journal Citation Reports) y el SJR (Scimago Journal Rank) los dos índices de impacto más utilizados.
+Además, cabe destacar que el factor de impacto es uno de los principales criterios empleados en los procesos de acreditación y promoción interna para evaluar la calidad del trabajo científico de millones de académicos en todo el mundo.
+Por su propia naturaleza, el factor de impacto se calcula con carácter retrospectivo, i.e., sobre datos de años anteriores. Así pues, si a la hora de seleccionar la revista a la que mandarán un nuevo trabajo, los académicos quieren tener en cuenta el posible factor de impacto que tendrá la revista en el año de publicación del artículo, lo único que pueden hacer es fijarse en su índice de impacto de los años anteriores y hacer sus propias hipótesis/predicciones de futuro.
+Dado que a día de hoy la herramienta Google Scholar recoge información extremadamente actualizada sobre la publicación y citación de artículos científicos (podría decirse que se actualiza prácticamente en tiempo real), creemos que puede ser muy útil para la comunidad científica utilizar los datos de Google Scholar como inputs de modelos de aprendizaje automático para estimar el índice de impacto que tendrán las distintas revistas científicas en el año en curso.
+El output esperado del proyecto será una aplicación web de tipo open-access, la cual implementará algoritmos de aprendizaje supervisado que utilizarán los datos históricos disponibles en Google Scholar para predecir el valor del índice de impacto de todas las revistas científicas indexadas en el JCR. Dicha aplicación se dejará en un repositorio público, para así garantizar que pueda ser utilizada por toda la comunidad científica. 
+
 \end{abstract}
 
 \renewcommand*\abstractname{Descriptores}
 \begin{abstract}
-Palabras separadas por comas que identifiquen el contenido del proyecto Ej: servidor web, buscador de vuelos, android \ldots
+Bibliometría, publicación de artículos, revistas científicas, índice de impacto.
 \end{abstract}
 
 \clearpage
@@ -435,12 +470,16 @@ Palabras separadas por comas que identifiquen el contenido del proyecto Ej: serv
 % Abstract en inglés
 \renewcommand*\abstractname{Abstract}
 \begin{abstract}
-A \textbf{brief} presentation of the topic addressed in the project.
+The impact factor of a scientific publication measures the frequency with which the average article in a journal has been cited in a particular year. Specifically, it serves to evaluate the importance of a journal within a certain scientific field. There are multiple calculation methodologies and their corresponding metrics, with the JCR (Journal Citation Reports) and the SJR (Scimago Journal Rank) being the two most widely used impact index.
+In addition, it should be noted that the impact factor is one of the main criteria used in the processes of accreditation and internal promotion to assess the quality of the scientific work of millions of academics around the world.
+By its very nature, the impact factor is calculated retrospectively, i.e., based on data from previous years. Thus, if academics want to take into account the possible impact factor that the journal will have in the year of publication of the article when selecting the journal to which they will send a new article, all they can do is look at your impact index from previous years and make your own assumptions or predictions for the future.
+Nowadays the Google Scholar tool collects extremely up-to-date information on the publication and citation of scientific articles (it could be said that it is updated practically in real time), so we believe that it can be very useful for the scientific community to use Google Scholar data as inputs of machine learning models to estimate the impact index that the different scientific journals will have in the current year.
+The expected output of the project will be an open-access type web application, which will implement supervised learning algorithms that will use the historical data available in Google Scholar to predict the value of the impact index of all the scientific journals indexed in the JCR. This application will be left in a public repository, in order to guarantee its use for the entire scientific community.
 \end{abstract}
 
 \renewcommand*\abstractname{Keywords}
 \begin{abstract}
-keywords separated by commas.
+Bibliometrics, articles publication, scientific journals, impact index.
 \end{abstract}
 
 \clearpage

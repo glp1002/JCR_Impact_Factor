@@ -1,6 +1,103 @@
 \capitulo{4}{Técnicas y herramientas}
 
-Esta parte de la memoria tiene como objetivo presentar las técnicas metodológicas y las herramientas de desarrollo que se han utilizado para llevar a cabo el proyecto. Si se han estudiado diferentes alternativas de metodologías, herramientas, bibliotecas se puede hacer un resumen de los aspectos más destacados de cada alternativa, incluyendo comparativas entre las distintas opciones y una justificación de las elecciones realizadas. 
-No se pretende que este apartado se convierta en un capítulo de un libro dedicado a cada una de las alternativas, sino comentar los aspectos más destacados de cada opción, con un repaso somero a los fundamentos esenciales y referencias bibliográficas para que el lector pueda ampliar su conocimiento sobre el tema.
+En esta sección se presentarán las distintas herramientas y recursos que se han utilizado para la realización del proyecto. 
+%aquí debería venir una pequeña enumeración de lenguajes, bibliotecas, APIs, BBDD...
+
+\section{Lenguaje de programación}
+En primer lugar, nos planteamos la cuestión del lenguaje o lenguajes de programación más eficaces para nuestro objetivo. Las listas de popularidad actuales nos muestran dos entornos ganadores para proyectos de \textit{scraping}: Python y Javascript. Aunque ambos lenguajes son altamente capaces para nuestro proyecto, la enorme base de conocimientos y la diversidad de herramientas creadas en el universo \textbf{Python} decanta la balanza hacia ese lado. Quizás JavaScript permita mejores resultados usando la gestión de memoria en \textit{requests} simultáneas, pero a costa de un código más oscuro y difícil de mantener. Aunque JavaScript cuenta con un gran repertorio de paquetes Node.JS como utilidades de \textit{scraping}, en el entorno Python es difícil imaginar una tarea para la que no se haya escrito una (o más) herramientas que resuelvan eficazmente nuestro problema. Por otro lado, la comunidad de programadores de Python es inmensa y su creciente popularidad facilita el hallazgo de soluciones rápidamente, tanto en los foros como en la extensa documentación con la que cuenta. Aunque encontramos un rendimiento ligeramente inferior a otros lenguajes en ciertas búsquedas, es el precio a pagar por el tipado dinámico. Como valor añadido, Python es fácil de mantener cuando necesitamos adaptar nuestro código a las cambiantes estructuras de las páginas web. Además, sus reconocidas herramientas de análisis de datos nos permiten continuar en el mismo entorno, sin necesidad de buscar alternativas para afrontar tareas relacionadas con la \textit{data science}.
+
+\section{Bibliotecas}
+A lo largo del proyecto se ha recurrido a diversas bibliotecas de \textbf{Python}. A continuación, se presenta brevemente cada una de ellas.
+
+\subsection{Beautiful Soup}
+Beautiful Soup es una biblioteca de Python extremadamente útil para la extracción de datos de páginas HTML o XML. Actualmente se encuentra en su versión 4.8.1. En el siguiente \href{https://beautiful-soup-4.readthedocs.io/en/latest/}{enlace} se puede acceder a la documentación de su página oficial. 
+
+Esta biblioteca nos proporciona numerosos módulos para navegar a través de las páginas web y para extraer fácilmente su contenido. Puesto que gran parte del proyecto se basa en el uso de \textit{web scrapping}, se ha hecho uso intensivo de la misma para extraer los principales datos de los artículos científicos que posteriormente conformarán la BBDD del proyecto.
+
+De Beautiful Soup hay que destacar su facilidad de uso y la amplia documentación que aporta. En su página web nos aconseja utilizar el analizador \textit{lxml}, que proporciona al entorno Python la disponibilidad de las bibliotecas \textit{libxml2} y \textit{libxslt}. Allí mismo, se anima incluso a utilizar aisladamente este parser cuando el tiempo de respuesta sea una cuestión crítica. En nuestro caso, las facilidades que proporciona Beautiful Soup justifican ampliamente su uso, aunque la  rapidez de resultados no iguale la de la utilización aislada de los analizadores sobre los que trabaja.
+ 
+
+\subsection{Crossref}
+Para poder hacer uso de la \textbf{API de Crossref}, se han explorado diversas alternativas.
+
+% TO DO
+\color{red} [TO DO]: Añadir subsecciones cuando se implemente esta materia.\color{black}
+
+
+
+\section{Bases de datos}
+
+Antes de su compra por Oracle Corporation (2010), MySQL era la aplicación de base de datos más popular de código abierto para la programación web. En el momento actual. el software libre nos ofrece dos soluciones ampliamente contrastadas en gestores de bases de datos relacionales: MariaDB y PostgreSQL. Necesitaremos una herramienta de este tipo para organizar los datos recolectados. La estructura tabular de la información nos permite aplicar sobre ella el lenguaje de interrogación SQL.
+
+En realidad, MariaDB es una bifurcación de MySQL nacida para garantizar la supervivencia del proyecto como código abierto. Hoy en día, MariaDB es altamente compatible con MySQL y superior en sus últimas versiones (10.1.1), ya que la comunidad ha ido añadiendo nuevas características al proyecto original. Por otro lado, aunque no está tan extendido como MySQL, PostgreSQL es posiblemente el gestor de bases de datos de código abierto más solido y potente a día de hoy.
+
+
+\subsection{}
+\tablaSmall{Comparativa entre MariaDB y PostgreSQL}{r l}{comparativabbdd}
+{ MariaDB & PostgreSQL\\}{ 
+No totalmente compatible con SQL & Compatible con SQL estándar\\
+Soporte para tipos de datos estándar SQL & Soporta además tipos avanzados\\
+Tipos de datos flexibles & Tipos de datos estrictos \\
+Tamaño pequeño de base de datos & Tamaño grande de base de datos \\
+Sin soporte directo para JSON  & Soporte directo de JSON \\
+No índices parciales & Índices parciales \\
+No soporte para web dinámica & Soporta sitios web dinámicos\\
+} 
+
+
+\subsection{MariaDB}
+Inicialmente se consideró \href{https://mariadb.org/}{MariaDB Server} puesto que es un popular sistema de gestión de bases de datos relacionales de código abierto. MariaDB era originalmente conocido como MySQL. Sin embargo, ambos se separan cuando MySQL deja de ser un proyecto enteramente de código libre y gratuito. Se podría decir que \textbf{MariaDB garantiza que permanecerá como código abierto.}
+
+\imagen{MariaDB_icon}{Icono de MariaDB}{.40}
+
+Se basa en los valores de rendimiento, estabilidad y apertura, y la Fundación MariaDB garantiza que las contribuciones se aceptarán según el mérito técnico \cite{MariaDB.org}. Actualmente se encuentra en su versión 10.11.1.
+
+\subsection{PostgreSQL}
+Finalmente se opta por \href{https://www.postgresql.org/}{PostgreSQL}. Pese a que ambas opciones son muy similares, se ha elegido esta última debido a que ya se ha trabajado con ella anteriormente. Además, PostgreSQL posee una sólida reputación por su arquitectura comprobada, confiabilidad, integridad de datos, conjunto sólido de características, extensibilidad y la dedicación de la comunidad de código abierto detrás del software para ofrecer soluciones innovadoras y de rendimiento constante \cite{Postgresql.org}.
+
+\imagen{Postgresql_icon}{Icono de Postgres}{.20}
+
+También se denomina Postgres. Al igual que MariaDB, es un sistema de gestión de bases de datos relacional de código abierto. Así pues, está dirigido y desarrollado por una comunidad altruista de desarrolladores (PostgreSQL Global Development Group).
+PostgreSQL utiliza y amplía el lenguaje SQL combinado con muchas características que almacenan y escalan de forma segura las cargas de trabajo de datos más complicadas \cite{Postgresql.org}. 
+Su última versión y la usada para el proyecto es la versión 15.1 lanzada el 10 de noviembre de este año.
+
+
+
+
+
+
+
+
+
+
+\section{APIs}
+A lo largo del proyecto se ha recurrido a varias APIs diferentes, todas ellas de acceso gratuito.
+
+\subsection{Google Scholar}
+Se trata de una de las principales herramientas que ofrece Google a los investigadores. \href{https://scholar.google.com/}{Google Scholar} es, fundamentalmente, un buscador de contenido y bibliografía científica que permite localizar artículos de revistas especializadas ordenados por relevancia en función de las palabras clave introducidas en el buscador. También se puede  filtrar la información en función de su fecha de publicación, idioma o número de citas.
+\imagen{GoogleScholar_icon}{Icono de Google Scholar}{.20}
+
+
+\subsection{Crossref}
+\href{https://www.crossref.org/}{Crossref} es una herramienta que facilita el  acceso a la información de los artículos científicos a partir de su DOI.
+
+\nota{El DOI (\textit{Digital Object Identifier}) es el acrónimo con el que se conoce al identificador inequívoco de un artículo científico. Se trata de un enlace permanente al contenido electrónico de dicho artículo. Por lo general, un DOI tiene forma de código alfanumérico.}
+
+Crossref es una organización sin fines de lucro que pretende facilitar las conexiones académicas.
+
+\imagen{crossref_icon}{Icono de Crossref}{.20}
+
+Como ya se ha mencionado previamente, en base a la información de los DOIs la agencia de registro CrossRef es capaz de proporcionarnos aplicaciones útiles para hacer nuestro flujo de investigación más sencillo.
+Se trata de una asociación sin ánimo de lucro de editoriales científicas que no solo facilita el registro de DOIs a las editoriales, sino que también ofrece servicios y aplicaciones para el personal investigador que tienen como base estos códigos.
+
+Los DOIs que CrossRef almacena van acompañados de información que refleja las cualidades básicas de una publicación científica. Me estoy refiriendo a datos como títulos, abstracts, palabras clave, autores…
+
+CrossRef Metadata Search hace posible obtener toda esta información al instante con tan solo proporcionar el DOI asociado a una publicación, o al contrario, obtener el DOI de la publicación con tan solo introducir algunos de estos datos en su buscador.
+
+
+
+
+
+
 
 
