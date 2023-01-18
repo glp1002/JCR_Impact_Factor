@@ -6,6 +6,8 @@ from bs4 import BeautifulSoup
 import re
 # Librería para ell tratamiento de ficheros y directorios
 import os
+# Librería para extraer el DOI de Crossref
+from habanero import Crossref
 # Otras librerias
 import csv
 import random
@@ -45,10 +47,10 @@ def iniFicheros():
     # Escribimos la cabecera de cada campo
     with open('BBDD3.csv', 'a', newline = '', encoding='utf-8') as csvfile:
         my_writer = csv.writer(csvfile, delimiter = ',')
-        my_writer.writerow(["Nombre del artículo","Nomnre de la revista","Número de citas","Año de publicación","Id Artículo"])
+        my_writer.writerow(["Nombre del artículo","DOI","Nombre de la revista","Número de citas","Año de publicación","Id Artículo"])
     with open('BBDD4.csv', 'a', newline = '', encoding='utf-8') as csvfile:
         my_writer = csv.writer(csvfile, delimiter = ',')
-        my_writer.writerow(["Nombre del artículo","Nomnre de la revista","Número de citas","Año de publicación","Id Artículo"])
+        my_writer.writerow(["Nombre del artículo","DOI","Nombre de la revista","Número de citas","Año de publicación","Id Artículo"])
         
 # Inicializamos los ficheros
 iniFicheros()
@@ -91,8 +93,14 @@ for pagina in range(0, 200, 10):
             # Consigo el título del artículo
             articulo = elemento.find('h3',class_='gs_rt').find('a')
             
-            # Este "if" es imprescindible, ya que hay resultado intercalados que no hacen referencia a ningún artículo
-            if(articulo != None):         
+            # Este "if" es imprescindible, ya que hay resultadoS intercalados que no hacen referencia a ningún artículo
+            if(articulo != None): 
+                
+                # Conseguimos el DOI
+                cr = Crossref()
+                DOI = cr.works(query = articulo.text)
+                DOI = DOI['message']['items'][0]['DOI']
+                                        
                 # Consigo el número de citas
                 texto = elemento.find(class_='gs_fl').find_all('a')[2]
                 patron = ('[0-9]+')
@@ -109,11 +117,11 @@ for pagina in range(0, 200, 10):
                 indice += 1
 
                 # Relleno la lista de resultados
-                tupla = (articulo.text,revista.text,ncitas,fecha,indice)
+                tupla = (articulo.text,DOI,revista.text,ncitas,fecha,indice)
                 lista.append(tupla)
 
                 # Si la revista existe se añade junto al artículo
-                resultado = articulo.text + "," + revista.text + "," + ncitas + "," + fecha + "," + str(indice)
+                resultado = articulo.text + "," + DOI + "," + revista.text + "," + ncitas + "," + fecha + "," + str(indice)
                 # Imprimimos el resultad
                 print(resultado)
 
@@ -171,6 +179,11 @@ for pagina in range(0, 200, 10):
             articulo = elemento.find(class_='gs_rt').find('a')
 
             if(articulo != None):
+                # Conseguimos el DOI
+                cr = Crossref()
+                DOI = cr.works(query = articulo.text)
+                DOI = DOI['message']['items'][0]['DOI']
+                
                 # Consigo el número de citas
                 texto = elemento.find(class_='gs_fl').find_all('a')[2]
                 patron = ('[0-9]+')
@@ -187,11 +200,11 @@ for pagina in range(0, 200, 10):
                 indice += 1
 
                 # Relleno la lista de resultados
-                tupla = (articulo.text,revista.text,ncitas,fecha,indice)
+                tupla = (articulo.text,DOI,revista.text,ncitas,fecha,indice)
                 lista2.append(tupla)
 
                 # Si la revista existe se añade junto al artículo
-                resultado = articulo.text + "," + revista.text + "," + ncitas + "," + fecha + "," + str(indice)
+                resultado = articulo.text + "," + DOI + "," + revista.text + "," + ncitas + "," + fecha + "," + str(indice)
                 # Imprimimos el resultado
                 print(resultado)
                 
