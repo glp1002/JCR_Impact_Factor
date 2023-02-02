@@ -65,47 +65,54 @@ El objetivo es obtener información sobre el número y el tipo de hiperenlaces, 
 
 Existe un gran abanico de índices distintos englobados dentro de la bibliometría. Sin embargo, en este caso, nos centraremos especialmente en los índices de citas o, en inglés, ``Citation Index''.
 
-Se trata de índices de autor con características especiales, pues no solamente citan junto a cada autor la lista de los documentos por él publicados, sino
-que añade, en cada referencia, la lista de los documentos que ha citado esta referencia en su propia bibliografía. Permiten localizar otros autores que han tratado las mismas materias y buscar también documentos más recientes que éste ya conocido.
-Contienen literatura científica de medicina, psicología, agricultura, tecnología y documentación científica en general. 
+Se trata de índices de autor con características especiales, pues no solamente citan junto a cada autor la lista de los documentos por él publicados, sino que añade, en cada referencia, la lista de los documentos que ha citado esta referencia en su propia bibliografía. Permiten localizar otros autores que han tratado las mismas materias y buscar también documentos más recientes que éste ya conocido. \cite{Amat1989}. Contienen literatura científica de medicina, psicología, agricultura, tecnología y documentación científica en general. 
+
+A continuación, se enumeran algunos de los índices de impacto más comunes.
 
 
-\subsection{Ejemplo}
+%\subsection{Ejemplo}
 
-En un índice de citas, aparecen los artículos de un mismo autor agrupados por orden cronológico. Justo debajo, aparece la lista de autores que han citado este artículo y,
-a su lado, la referencia del documento (ver figura 2).
+%En un índice de citas, aparecen los artículos de un mismo autor agrupados por orden cronológico. Justo debajo, aparece la lista de autores que han citado este artículo y, a su lado, la referencia del documento (ver figura 2).
 
-	(Insertar imágen en plantilla del TFG)
+%	(Insertar imágen en plantilla del TFG)
 
-Es deir, bastará con saber el nombre de un solo autor que trabaje en el campo en el que se esté interesado, para obtener de forma inmediata (consultando simplemente el índice) el conjunto de documentos que traten del mismo tema.
+%Es decir, bastará con saber el nombre de un solo autor que trabaje en el campo en el que se esté interesado, para obtener de forma inmediata (consultando simplemente el índice) el conjunto de documentos que traten del mismo tema.
 
-Generalmente se divide en dos subíndices: uno de autores (con referencias de documentos citados), y otro de fuentes (acompañadas de los títulos de los documentos).
+%Generalmente se divide en dos subíndices: uno de autores (con referencias de documentos citados), y otro de fuentes (acompañadas de los títulos de los documentos).
 
-Otros intereses que se deducen de este índice de autores consiste en el valor que pueden tener los documentos citados debido a que el autor de un documento, especialista en un campo, ha tenido interés en dar a conocer a dichos autores.
+%Otros intereses que se deducen de este índice de autores consiste en el valor que pueden tener los documentos citados debido a que el autor de un documento, especialista en un campo, ha tenido interés en dar a conocer a dichos autores.
 
 
 \subsection{SJR}
 
-SJR (SCImago Journal Rank) es un indicador de calidad de revistas científicas basado en la idea de que <<más citadas son mejores>>. El indicador se calcula utilizando un algoritmo que también tiene en cuenta la importancia de la revista que hace la cita, de tal manera que una cita de una revista de alto impacto tendrá más peso que una cita de una revista de bajo impacto. Este indicador se utiliza para medir la calidad y el impacto de una revista en la comunidad científica.
+SJR (SCImago Journal Rank) es un indicador de calidad de revistas científicas basado en la idea de que \textit{cuanto más citada es una revista, mayor importancia tiene}. 
+
+Además, se entiende que \textit{no todas las citas son iguales}\cite{Svetla2022}. Es decir, el indicador se calcula utilizando un algoritmo que también tiene en cuenta la importancia de la revista que hace la cita, de tal manera que una cita hecha por una revista de alto impacto tendrá más peso que una cita de una revista de bajo impacto \cite{Svetla2022}. 
+
+Así pues, se calculan las citas \textbf{ponderadas} de los últimos tres años para determinar el SJR de cada revista.
 
 \subsection{Hindex}
-Hindex es un indicador de productividad y visibilidad de un investigador. El Hindex se calcula a partir de la cantidad de artículos publicados por un investigador y la cantidad de veces que estos artículos han sido citados. El Hindex se determina buscando el número de publicaciones con al menos ese número de citas. Por ejemplo, un investigador con un Hindex de 10 tiene al menos 10 publicaciones que han sido citadas al menos 10 veces cada una. Este indicador se utiliza para medir la importancia y el impacto de un investigador en la comunidad científica.
+Hindex es un indicador de productividad y visibilidad de un investigador. El Hindex se calcula a partir de la cantidad de artículos publicados por un autor y la cantidad de veces que estos artículos han sido citados. 
+
+El Hindex se determina buscando el número de publicaciones con al menos ese número de citas. Por ejemplo, un investigador con un Hindex de 10 tiene al menos 10 publicaciones que han sido citadas al menos 10 veces cada una \cite{Svetla2022}. 
+
+Por lo tanto, se podría decir que este indicador es una métrica a nivel de autor se utiliza para medir la importancia, la productividad y el impacto de un investigador en la comunidad científica \cite{Svetla2022}. Este índice también puede ser aplicado a un grupo de investigadores (por ejemplo, un departamento, universidad o país).
+
+Es importante mencionar que Google Scholar utiliza métricas basadas en el Hindex.
 
 \subsection{CiteScore}
 Es un indicador desarrollado por Scopus que tiene en cuenta el número de citas recibidas por una revista en un período de tres años, el número de documentos en la base de datos de Scopus y el número de documentos publicados en esa revista en ese período.
 
-\subsection{g-index}
-Es un indicador que se utiliza para medir la productividad y la impacto de un investigador. El g-index se calcula ordenando los artículos de un investigador por el número de citas y luego identificando el número más grande ``g'' tal que al menos ``g'' de los artículos han sido citados al menos ``g'' veces.
+De esta forma, el CiteScore se calcula dividiendo el número de citas que recibe una revista en un año por los documentos publicados en los tres años previos, y dividiendo este número por el número de documentos indexados en Scopus publicados en los mismos tres años \cite{Svetla2022}. 
 
-\section{JCR}
-El JCR (\textit{Journal Citation Reports}) es una base de datos desarrollada por Clarivate Analytics que proporciona información sobre revistas científicas. 
 
-Consiste en el análisis biométrico de las revistas del banco de datos ISI (\textit{Intellect Scientific Information}), con número de citas al año de cada una, revistas que citan a otras revistas, listado de abreviaturas de títulos y su desarrollo, etc. JCR proporciona información estadística sobre la frecuencia de citas de las revistas, incluyendo el \textit{Impact Factor} (IF) y el \textit{Impact Factor of a Year} (IFY) entre otros indicadores. 
+\subsection{JCR}
+El JCR (\textit{Journal Citation Reports}) es una base de datos desarrollada por Clarivate Analytics que proporciona información sobre revistas científicas.
+
+Consiste en el análisis biométrico de las revistas del banco de datos ISI (\textit{Intellect Scientific Information}), con número de citas al año de cada una, revistas que citan a otras revistas, listado de abreviaturas de títulos y su desarrollo, etc. JCR proporciona información estadística sobre la frecuencia de citas de las revistas, incluyendo el \textit{Impact Factor} (IF) y el \textit{Impact Factor of a Year} (IFY) entre otros indicadores \cite{clarivate2019}. 
 
 De entre los datos estadísticos que se obtienen, nos importa especialmente el ya mencionado \textbf{Factor de Impacto}, que permiten determinar de una manera sistemática y objetiva la importancia relativa de las principales revistas de investigación internacionales dentro de sus categorías temáticas. 
 
-JCR cubre más de 12,000 revistas de más de 80 disciplinas diferentes, lo que permite comparar el impacto y la calidad de las revistas en diferentes campos. Los datos de JCR se utilizan a menudo como un indicador de la calidad y el impacto de una revista en la comunidad científica.
+JCR cubre más de 12\,000 revistas de más de 80 disciplinas diferentes, lo que permite comparar el impacto y la calidad de las revistas en diferentes campos. Los datos de JCR se utilizan a menudo como un indicador de la calidad y el impacto de una revista en la comunidad científica \cite{clarivate2019}.
 
-La última actualización del JCR ofrece los datos del Factor de Impacto del 2022.
-
- 
+La última actualización del JCR ofrece los datos del Factor de Impacto del 2022. Este índice se calcula con un cierto retraso respecto al final del año: suele aparecer alrededor de los meses de mayo o junio del año siguiente. Esto limita el acceso a la información actualizada y justifica la importancia del trabajo que está siendo realizado, de forma que se pueda brindar información actualizada y accesible sobre el impacto de los artículos y revistas a la comunidad científica, lo cual es esencial para la toma de decisiones y la evaluación del desempeño científico.
