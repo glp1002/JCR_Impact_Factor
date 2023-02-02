@@ -1,0 +1,13 @@
+\capitulo{9}{API}
+
+Se pretende desarrollar una API REST sencilla que utilizará una arquitectura cliente-servidor de dos capas.
+
+La funcionalidad principal de la API será predecir el índice de impacto de una lista de revistas elegida por el usuario. Además, se proporcionarán gráficos e información adicional para ayudar a los usuarios a entender mejor los resultados. Por otro lado, se podrán distinguir dos perfiles de usuario: el usuario normal y el administrador. El administrador tendrá permisos para reentrenar la red que predice los índices y gestionar al resto de usuarios.
+
+El \textit{backend} se programará en Python y el \textit{frontend} con HTML, CSS y JavaScript. Para ello, se utilizará Flask, que se trata de un framework de Python para el desarrollo de aplicaciones web.
+
+Para la conexión con la base de datos, se hará uso de \textbf{psycopg2}, que es un módulo de Python que proporciona una interfaz para conectarse y interactuar con bases de datos PostgreSQL. 
+Es una de las librerías más populares y ampliamente utilizadas para trabajar con PostgreSQL en Python. Además, es compatible con la mayoría de las versiones de Python y es muy fácil de utilizar.
+
+Por otro lado, para la autenticación, se han evaluado varias opciones que ofrece Flask, a saber: Flask-Login, Flask-Security y Flask-JWT. Finalmente, se ha elegido Flask-Login debido a su sencillez y facilidad de uso. Esta opción permite al usuario iniciar sesión con un nombre de usuario y una contraseña y almacena la información de la sesión en las \textit{cookies} del navegador. Este paquete incluye la protección de rutas con decoradores.
+

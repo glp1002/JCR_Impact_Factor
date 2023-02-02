@@ -23,3 +23,19 @@ La cadena User-Agent es uno de los criterios por los cuales los rastreadores web
 usar un \textit{proxy} para ``enmascarar'' nuestra ip. La biblioteca \textbf{Request} de Python ofrece métodos para lograrlo. Dicho esto, se implementó un método que extrae \textit{proxies} de listas públicas y gratuitas de Internet (v.g.: \href{https://www.proxyscrape.com/free-proxy-list}{proxyscrape.com}). Se prueba la ejecución del prototipo una vez más y, finalmente, funciona sin inconvenientes. Ahora ya se puede decir que el proyecto es \textbf{viable}.
 
 
+
+
+
+
+...
+
+
+- Incluir doi de crossref y resultados (obteniendo unos 170 artículos en 15 minutos)
+
+Estos resultados no son eficientes, por lo que se tratará de optimizar el prototipo siguiendo dos pautas. Primero, se tratará de extraer las llamadas a Crossref de forma que solo se tenga que realizar una única llamada una vez que se han extraído el resto de detalles sobre los artículos. La segunda pauta es emplear programación concurrente para ejecutar varios hilos al mismo tiempo. 
+
+Para poder realizar ambas cosas, se separarán las peticiones a Google Schoolar y las peticiones a Crossref en dos hilos distintos. Para ello, será necesario recurrir a la librería de Python \textbf{multiprocessing}.
+
+Tras actualizar estos cambios, el prototipo obtiene resultados mucho más óptimos: artículos en 15 minutos.
+
+

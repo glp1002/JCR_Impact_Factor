@@ -409,7 +409,7 @@
 
 \noindent\includegraphics[width=\textwidth]{cabecera}\vspace{1cm}
 
-\noindent Dña. Virginia Ahedo, profesora del departamento de Organización, área de (preguntar).
+\noindent Dña. Virginia Ahedo, profesora del departamento de Ingeniería de Organización, área de Organización de Empresas.
 
 \noindent Expone:
 
@@ -452,11 +452,11 @@ D. Álvar Arnaiz
 % Abstract en castellano
 \renewcommand*\abstractname{Resumen}
 \begin{abstract}
-El factor de impacto de una publicación científica mide la frecuencia con la cual ha sido citado el artículo promedio de una revista en un año en particular. Específicamente, sirve para evaluar la importancia de una revista dentro de un determinado campo científico. Existen múltiples metodologías de cálculo y sus correspondientes métricas, siendo el JCR (Journal Citation Reports) y el SJR (Scimago Journal Rank) los dos índices de impacto más utilizados.
-Además, cabe destacar que el factor de impacto es uno de los principales criterios empleados en los procesos de acreditación y promoción interna para evaluar la calidad del trabajo científico de millones de académicos en todo el mundo.
-Por su propia naturaleza, el factor de impacto se calcula con carácter retrospectivo, i.e., sobre datos de años anteriores. Así pues, si a la hora de seleccionar la revista a la que mandarán un nuevo trabajo, los académicos quieren tener en cuenta el posible factor de impacto que tendrá la revista en el año de publicación del artículo, lo único que pueden hacer es fijarse en su índice de impacto de los años anteriores y hacer sus propias hipótesis/predicciones de futuro.
-Dado que a día de hoy la herramienta Google Scholar recoge información extremadamente actualizada sobre la publicación y citación de artículos científicos (podría decirse que se actualiza prácticamente en tiempo real), creemos que puede ser muy útil para la comunidad científica utilizar los datos de Google Scholar como inputs de modelos de aprendizaje automático para estimar el índice de impacto que tendrán las distintas revistas científicas en el año en curso.
-El output esperado del proyecto será una aplicación web de tipo open-access, la cual implementará algoritmos de aprendizaje supervisado que utilizarán los datos históricos disponibles en Google Scholar para predecir el valor del índice de impacto de todas las revistas científicas indexadas en el JCR. Dicha aplicación se dejará en un repositorio público, para así garantizar que pueda ser utilizada por toda la comunidad científica. 
+El presente proyecto se centra en el desarrollo de una aplicación web que utiliza técnicas de aprendizaje automático para predecir el factor de impacto de las revistas científicas. Esta métrica se utiliza para evaluar la importancia de una revista en un campo científico determinado. Se mide a través de la frecuencia con la que los artículos de la misma han sido citados en un año específico.
+
+El proyecto utilizará los datos históricos disponibles en Google Scholar como inputs para los algoritmos de aprendizaje automático. Estos algoritmos serán supervisados y se utilizarán para estimar el valor del índice de impacto de las revistas indexadas en el JCR (Journal Citation Reports). El objetivo final es desarrollar una aplicación web accesible y de fácil uso para la comunidad científica, que permita predecir la importancia de las revistas científicas en tiempo real.
+
+Este proyecto es relevante para la comunidad científica ya que el factor de impacto es un criterio importante en la evaluación de la calidad del trabajo científico y puede ser de gran ayuda en la selección de la revista adecuada para publicar un nuevo trabajo. Además, la aplicación web será de acceso abierto y se encontrará en un repositorio público para garantizar su disponibilidad y uso por parte de la comunidad científica. 
 
 \end{abstract}
 
@@ -470,11 +470,11 @@ Bibliometría, publicación de artículos, revistas científicas, índice de imp
 % Abstract en inglés
 \renewcommand*\abstractname{Abstract}
 \begin{abstract}
-The impact factor of a scientific publication measures the frequency with which the average article in a journal has been cited in a particular year. Specifically, it serves to evaluate the importance of a journal within a certain scientific field. There are multiple calculation methodologies and their corresponding metrics, with the JCR (Journal Citation Reports) and the SJR (Scimago Journal Rank) being the two most widely used impact index.
-In addition, it should be noted that the impact factor is one of the main criteria used in the processes of accreditation and internal promotion to assess the quality of the scientific work of millions of academics around the world.
-By its very nature, the impact factor is calculated retrospectively, i.e., based on data from previous years. Thus, if academics want to take into account the possible impact factor that the journal will have in the year of publication of the article when selecting the journal to which they will send a new article, all they can do is look at your impact index from previous years and make your own assumptions or predictions for the future.
-Nowadays the Google Scholar tool collects extremely up-to-date information on the publication and citation of scientific articles (it could be said that it is updated practically in real time), so we believe that it can be very useful for the scientific community to use Google Scholar data as inputs of machine learning models to estimate the impact index that the different scientific journals will have in the current year.
-The expected output of the project will be an open-access type web application, which will implement supervised learning algorithms that will use the historical data available in Google Scholar to predict the value of the impact index of all the scientific journals indexed in the JCR. This application will be left in a public repository, in order to guarantee its use for the entire scientific community.
+This project focuses on the development of a web application that uses machine learning techniques to predict the impact factor of scientific journals. The impact factor is a metric used to assess the importance of a journal in a given scientific field. It is measured through the frequency with which the articles of a journal have been cited in a specific year.
+
+The project will use the historical data available in Google Scholar as inputs for the machine learning algorithms. These algorithms will be supervised and used to estimate the impact index value of the journals indexed in the JCR (Journal Citation Reports). The ultimate goal is to develop an accessible and easy-to-use web application for the scientific community, which allows predicting the importance of scientific journals in real time.
+
+This project is relevant for the scientific community since the impact factor is an important criterion in the evaluation of the quality of scientific work and can be of great help in the selection of the appropriate journal to publish a new work. In addition, the web application will be open access and will be in a public repository to guarantee its availability and use by the scientific community.
 \end{abstract}
 
 \renewcommand*\abstractname{Keywords}
@@ -505,6 +505,7 @@ Bibliometrics, articles publication, scientific journals, impact index.
 \include{./tex/6_Trabajos_relacionados}
 \include{./tex/7_Conclusiones_Lineas_de_trabajo_futuras}
 \include{./tex/8_Prototipo_inicial}
+\include{./tex/9_API}
 
 
 \bibliographystyle{plain}
