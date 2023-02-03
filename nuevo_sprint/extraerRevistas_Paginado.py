@@ -11,6 +11,7 @@ from habanero import Crossref
 # Otras librerias
 import csv
 import random
+import datetime
 
 
 # Creación del objeto BeautifulSoup
@@ -19,12 +20,32 @@ def htmlParsing(direccion):
     soup = BeautifulSoup(direccion.content, 'html.parser')
     # Devolvemos el objeto con los datos sin procesar
     return soup
-def getHeather():
+# def getHeather():
+#     # Extraemos de una lista gratuita varios agentes
+#     respuesta = requests.get('https://developers.whatismybrowser.com/useragents/explore/software_name/firefox/')
+#     soup = BeautifulSoup(respuesta.content, 'html.parser')
+#     # Lista de posibles agentes
+#     user_agents = soup.find_all("a","code")
+#     # Selección de un agente al azar
+#     random_user_agent = random.choice(user_agents)
+#     headers = {'User-Agent': random_user_agent.text}
+#     # Se retorna la elección aleatoria del agente
+#     return headers
+def listHeather():
+    print("Obteniendo lista de headers...")
+    url = 'https://developers.whatismybrowser.com/useragents/explore/software_name/firefox/'
     # Extraemos de una lista gratuita varios agentes
-    respuesta = requests.get('https://developers.whatismybrowser.com/useragents/explore/software_name/firefox/')
+    respuesta = requests.get(url)
     soup = BeautifulSoup(respuesta.content, 'html.parser')
     # Lista de posibles agentes
     user_agents = soup.find_all("a","code")
+    
+    if user_agents!= None:
+        print("Lista obtenida!")
+    
+    return user_agents
+    
+def getHeather(user_agents):
     # Selección de un agente al azar
     random_user_agent = random.choice(user_agents)
     headers = {'User-Agent': random_user_agent.text}
@@ -64,6 +85,8 @@ iniFicheros()
 PRIMERA BÚSQUEDA: Revista 'chemical reviews'
 """
 
+# Lista de headers para las requests
+user_agents = listHeather()
 
 # Página de la que se extraerá información
 URL1 = 'https://scholar.google.com/scholar?start='
@@ -74,11 +97,16 @@ lista = []
 # Inicializamos el índice de resultados
 indice = 0
 
+# Comprobamos el tiempo que tarda
+initial_time = datetime.datetime.now()
+print("La hora de inicio es: ", initial_time.time())
+
+
 # Número de páginas de resultados sobre las que se quiere buscar 
 # Si se quiere buscar en 20 páginas, se deberá multiplicar por diez: 20*10=200
 for pagina in range(0, 200, 10):
     
-    html = requests.get(URL1 + str(pagina) + URL2, headers=getHeather())
+    html = requests.get(URL1 + str(pagina) + URL2, headers=getHeather(user_agents))
     soup = BeautifulSoup(html.content, 'html.parser')
             
     # Recogemos la información contenida en la sección de resultados
@@ -86,7 +114,7 @@ for pagina in range(0, 200, 10):
 
     # Realizamos la búsqueda de la revista en todos los resultados
     for elemento in elementos: 
-        # Se busca la revista (aparecerá etiquetada en negrita
+        # Se busca la revista (aparecerá etiquetada en negrita)
         revista = elemento.find(class_='gs_a').find('b')
         # Compruebo que se trata de la revista que me interesa
         if(revista != None and revista.text.lower().strip() == 'chemical reviews'):
@@ -120,15 +148,15 @@ for pagina in range(0, 200, 10):
                 tupla = (articulo.text,DOI,revista.text,ncitas,fecha,indice)
                 lista.append(tupla)
 
-                # Si la revista existe se añade junto al artículo
-                resultado = articulo.text + "," + DOI + "," + revista.text + "," + ncitas + "," + fecha + "," + str(indice)
-                # Imprimimos el resultad
-                print(resultado)
+                # # Si la revista existe se añade junto al artículo
+                # resultado = articulo.text + "," + DOI + "," + revista.text + "," + ncitas + "," + fecha + "," + str(indice)
+                # # Imprimimos el resultad
+                # print(resultado)
 
-                # SE EXTRAE EL ENLACE QUE REDIRECCIONA A LOS ARTICULOS "CITANTES"
-                citados = elemento.find(class_='gs_fl').find_all('a', href=True)[2]
-                print("URL de artículos citantes:", citados['href'])
-                print('\n')
+                # # SE EXTRAE EL ENLACE QUE REDIRECCIONA A LOS ARTICULOS "CITANTES"
+                # citados = elemento.find(class_='gs_fl').find_all('a', href=True)[2]
+                # print("URL de artículos citantes:", citados['href'])
+                # print('\n')
             
 # Escribimos los resultados en un CSV
 with open('BBDD3.csv', 'a', newline = '', encoding='utf-8') as csvfile:
@@ -136,7 +164,10 @@ with open('BBDD3.csv', 'a', newline = '', encoding='utf-8') as csvfile:
     for elemento in lista:
         my_writer.writerow(elemento)    
 
-        
+# Comprobamos el tiempo que tarda
+final_time = datetime.datetime.now()
+print("La hora de finalización es: ", final_time.time())
+print("El tiempo que ha tardado es: ", final_time-initial_time)    
 # Espacio para la siguiemte búsqueda
 print('\n\n')
 
@@ -162,7 +193,7 @@ indice = 0
 # Si se quiere buscar en 20 páginas, se deberá multiplicar por diez: 20*10=200
 for pagina in range(0, 200, 10):
     
-    html = requests.get(URL1 + str(pagina) + URL2, headers=getHeather())
+    html = requests.get(URL1 + str(pagina) + URL2, headers=getHeather(user_agents))
     soup = BeautifulSoup(html.content, 'html.parser')
 
 
