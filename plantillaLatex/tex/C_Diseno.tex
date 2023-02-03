@@ -9,3 +9,92 @@
 \section{Diseño arquitectónico}
 
 
+
+\section{Prototipo inicial}
+
+Al revisar la viabilidad del proyecto se plantearon posibles dificultades que podían surgir. Tras comprender que las complicaciones eran numerosas, se decidió crear un \textbf{prototipo sencillo}, consistente en un \textit{script} en Python, que trataría de lanzar  mil peticiones de búsqueda. Esto nos permitiría establecer los límites de realizar ``web-scrapping'' sobre Google Scholar.
+
+Así pues, manos a la obra, se desarrolló un \textit{script} sencillo, que solicita acceso a la página principal de Google Scholar y, mediante métodos HTTP, realiza una búsqueda (a partir de parámetros solicitados por pantalla). Finalmente, extrae el título de la página resultante tras hacer la búsqueda. 
+
+Todo esto se logra haciendo uso de la biblioteca de Python \textbf{BeautifulSoup} (ver documentación en el siguiente \href{https://beautiful-soup-4.readthedocs.io/en/latest/}{enlace}). Esta biblioteca contiene métodos centrados en la extracción de datos de archivos HTML y XML para su posterior análisis. Es fácil advertir cuán idónea resulta esta biblioteca para nuestro propósito.
+
+% Filtro por revistas
+
+El primer obstáculo encontrado es que Google Scholar no permite hacer búsquedas en función de la revista. Si se trata de escribir el nombre de una revista en el buscador, aparecerán artículos relacionados que mencionan esa revista, pero no siempre artículos de la revista en cuestión. En cambio, permite hacer búsquedas a partir de palabras clave.
+Sin embargo, aunque no se puede buscar directamente por revista, sí se puede extraer de los resultados encontrados tras buscar una temática concreta.
+
+\imagen{ejemploResultadoGS}{Ejemplo de búsqueda por palabra clave}
+
+Sin embargo, existe una problemática: en cada artículo se hace referencia a la revista que lo publica de forma distinta. Por ejemplo, como se puede apreciar en la siguiente imagen, la revista se encuentra ubicada en una ``etiqueta'' HTML diferente.
+
+\imagen{etiquetaDeRevista}{Localización de la revista en Google Scholar}
+
+Por ello se ha buscado una solución alternativa.
+Existe una etiqueta (<b> … </b>) que incluye aquellas palabras resaltadas en negrita en la página web. Google Scholar resalta en una búsqueda aquellas palabras que coinciden con alguno de los parámetros buscados. Así pues, si se realiza una búsqueda en Google Scholar pasando como parámetro el nombre de la revista que nos interesa, bastará con buscar en la clase ``gs\_a'' (donde se almacenan los detalles del artículo) alguna etiqueta ``b''.
+Se ha escrito un pequeño código de prueba y, en principio, parece que funciona sin problemas. Se adjunta dicho código (extraerRevistas.py) en el repositorio de GitHub.
+Este código hace dos búsquedas: una a Revista ``Alas Peruanas'' y otra a Revista ``The Lancet'' (elegidas de forma aleatoria).
+
+La salida obtenida (solo de la primera página de resultados) es la siguiente:
+
+\imagen{salidaObtenida}{Salida por consola}
+
+La salida por pantalla mostrada en la imagen anterior sigue la siguiente estructura: [‘nombre artículo’, ‘nombre de la revista’, número\_citas, fecha, id]
+
+De igual forma se recogen los resultados en los CSVs (codificados en UTF-8) con nombre: BBDD1.csv y BBDD2.csv.
+
+
+% Paginación
+
+Otra de las mejoras que se implementa en el prototipo en la capacidad de navegar a través de las distintas páginas de resultados de Google Scholar. Para ello, se incluye un nuevo campo en la \textit{query} de búsqueda que irá aumentando de 10 en 10 por cada página de resultados nueva que se consulte.
+Ahora ya se obtiene un número de resultados considerable (aproximadamente 100). Estos resultados se guardarán también en los CSVs (también codificados en UTF-8) con los siguientes nom-bres: BBDD3.csv y BBDD4.csv
+
+% CAPTCHA y proxies
+
+Tras diseñar y programar el código mencionado, se procede a su prueba. La primera ejecución del \textit{script} resultó desaletadora, ya que, a partir de la solicitud número \textbf{726}, Google Scholar detecta que un \textbf{\textit{bot}} está realizando búsquedas. A partir de ese momento, nuestra dirección IP queda bloqueada y las solicitudes fallan sin excepción. Google Schoolar nos redirecciona a una página (figura \ref{fig:error}) donde se solicita al usuario resolver un \textit{captcha}. 
+
+\imagen{error}{Captura de reCAPTCHA de Google}
+
+El número de solicitudes exitosas es demasiado bajo para cumplir su función en nuestro proyecto, por lo que se procede a buscar una solución alternativa. 
+
+Tras distintas pruebas, se encontró una forma de superar la barrera del \textit{captcha}. A saber: añadiendo a la \textit{url} una sección de texto extra que permite suprimir esta excepción durante un periodo concreto de tiempo. Así pues, logramos ejecutar con éxito el \textit{script} tantas veces como fuese necesario. Sin embargo, esta solución tampoco es válida a largo plazo. Si se intenta ejecutar de nuevo el programa, en otra sesión, la dirección vuelve a ser inválida. Además, es un remedio poco práctico, ya que se debe concatenar distintos parámetros y cadenas de texto que, dependiendo del momento y el contexto en que se ejecute, pueden no servir.
+
+Como la propuesta anterior no fue satisfactoria, se siguió buscando opciones. La siguiente propuesta consistía en usar un agente de usuario distinto para cada solicitud\footnote{Un agente de usuario es cualquier software, que actúa en nombre de un usuario, que <<recupera, presenta y facilita la interacción del usuario final con el contenido web>>. Algunos ejemplos destacados de agentes de usuario son los navegadores web. La cadena User-Agent es uno de los criterios por los cuales los rastreadores web pueden ser excluidos del acceso a ciertas partes de un sitio web utilizando el Estándar de exclusión de robots ( archivo robots.txt ).} De esta forma ``enmascaramos'' nuestra dirección IP. La biblioteca \textbf{Request} de Python ofrece métodos para lograrlo. Dicho esto, se implementó un método que extrae \textit{proxies} de listas públicas y gratuitas de Internet (v.g.: \href{https://www.proxyscrape.com/free-proxy-list}{proxyscrape.com}). Se prueba la ejecución del prototipo una vez más y, finalmente, funciona sin inconvenientes. Ahora ya se puede decir que el proyecto es \textbf{viable}.
+
+
+% DOI y Crossref
+
+La siguiente meta de nuestro prototipo es la obtención del DOI, que es un campo fundamental que funcionará a modo de clave primaria en la base de datos. De esta forma se busca evitar futuros errores a la hora de identificar un artículo o a la hora de comparar artículos para eliminar duplicados. Sin embargo, se plantea una problemática al respecto: Google Scholar no comparte el DOI de los artículos en ninguna división de su página web (si bien es cierto que algunos artículos lo incluyen al final de su URL, pero no siempre ocurre esto). Puesto que por el momento no existe una forma de obtenerlo directamente, se han propuesto varias soluciones, a saber:
+\begin{itemize}
+	\item Comprobar el porcentaje de éxito de extraer el DOI de la URL de los artículos (en aquellos casos en los que aparezca).
+	\item Acceder a la página del artículo en cuestión y extraerlo de dicha página.
+         \item Introducir el nombre del artículo en la página de \href{https://www.crossref.org/}{Crossref} o similares, que te permiten obtener el DOI del artículo cuyo nombre pases como parámetro.
+\end{itemize}
+Como conclusión, se descarta la primera opción tras hacer una breve prueba, ya que falla en seguida. Se descarta también la segunda opción, ya que cada página sitúa el DOI en un sitio haciendo muy difícil la búsqueda del mismo a través de un algoritmo. Por lo tanto, la opción más adecuada en este caso es la tercera. Aunque supone una búsqueda extra en la complejidad algorítmica del prototipo, es la única forma segura de calcular el DOI sin equivocaciones. Por lo tanto, se incluye en el bucle del prototipo un nivel extra de profundidad de búsqueda.
+
+Para hacer la búsqueda en Crossref es necesario pasar tanto el título como el año de publicación para asegurarnos de que se obtiene exactamente el artículo que deseamos y no otros similares. Además, es preciso tener en cuenta que Crossref no permite a los programas hacer búsquedas desde la misma interfaz que los usuarios (para evitar que los programas bloqueen las búsquedas de los usuarios). Por lo tanto, se realizarán las búsquedas en la dirección donde se ubica la API creada por Crossref especialmente para la extracción de datos por parte de programas (TDM).
+
+% Multihilo
+
+Con el prototipo listo, se prueba a extraer la información de los artículos de las primeras 20 páginas de resultados de Google Scholar de dos revistas. Los resultados no son muy esperanzadores: se obtienen 180 artículos de cada revista en 15 minutos. Estos resultados no son eficientes, por lo que se tratará de optimizar el prototipo siguiendo dos pautas. Primero, se tratará de extraer las llamadas a Crossref de forma que solo se tenga que realizar una única llamada una vez que se han extraído el resto de detalles sobre los artículos. La segunda pauta es emplear programación concurrente para ejecutar varios hilos al mismo tiempo. 
+
+Así, cada revista será procesada por un hilo distinto. Para ello, será necesario recurrir a la librería de Python \textbf{multiprocessing}.Tras actualizar estos cambios, el prototipo obtiene resultados mucho más óptimos: obtiene los 180 artículos de ambas revistas en tan solo 8 minutos.
+
+El próximo objetivo será determinar el número máximo de hilos que se pueden lanzar sin impactar negativamente el rendimiento del prototipo. Para ello, se llevará a cabo una prueba de estrés en el dispositivo del usuario. El resultado se presentará a través de un gráfico que ilustra la relación entre el número de hilos y el desempeño del programa.
+
+[INSERTAR GRÁFICO]
+
+
+\section{API}
+
+Se pretende desarrollar una API REST sencilla que utilizará una arquitectura cliente-servidor de dos capas.
+
+La funcionalidad principal de la API será predecir el índice de impacto de una lista de revistas elegida por el usuario. Además, se proporcionarán gráficos e información adicional para ayudar a los usuarios a entender mejor los resultados. Por otro lado, se podrán distinguir dos perfiles de usuario: el usuario normal y el administrador. El administrador tendrá permisos para ``reentrenar'' la red que predice los índices y gestionar al resto de usuarios.
+
+El \textit{backend} se programará en Python y el \textit{frontend} con HTML, CSS y JavaScript. Para ello, se utilizará Flask, que se trata de un framework de Python para el desarrollo de aplicaciones web.
+
+Para la conexión con la base de datos, se hará uso de \textit{psycopg2}, que es un módulo de Python que proporciona una interfaz para conectarse y interactuar con bases de datos PostgreSQL. 
+Es una de las librerías más populares y ampliamente utilizadas para trabajar con PostgreSQL en Python. Además, es compatible con la mayoría de las versiones de Python y es muy fácil de utilizar.
+
+Por otro lado, para la autenticación, se han evaluado varias opciones que ofrece Flask, a saber: Flask-Login, Flask-Security y Flask-JWT. 
+Finalmente, se ha elegido Flask-Login debido a su sencillez y facilidad de uso. Esta opción permite al usuario iniciar sesión con un nombre de usuario y una contraseña y almacena la información de la sesión en las \textit{cookies} del navegador. Este paquete incluye la protección de rutas con decoradores.
+

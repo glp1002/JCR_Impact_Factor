@@ -2,9 +2,17 @@
 
 \section{Introducción}
 
+
+
 \section{Estructura de directorios}
 
 \section{Manual del programador}
+
+Esta sección está destinada a proporcionar información detallada sobre cómo utilizar el programa desarrollado en el proyecto. Aquí se describen las funciones y características clave de dicho software, así como los detalles sobre la configuración y la integración del programa con otros sistemas.
+
+\subsection{Base de datos}
+Para aquellos usuarios de sistemas operativos Windows, es importante tener en cuenta un detalle en el momento de obtener información de la base de datos en PostgresSQL. Cuando se recolectan los datos en formato CSV, es necesario cambiar la ruta de generación de estos archivos a la carpeta ``Public''\footnote{Directorio que permite compartir archivos entre distintos usuarios en un mismo sistema Windows. Microsoft ha mantenido este directorio desde la versión de WindowsXP.}. Esto se debe a que el usuario por defecto que genera PostgresSQL (usuario ``postgres''), no tiene los permisos suficientes para leer e importar datos de los CSV en cuestión ya que, para ello, se utiliza el comando \textit{copy} (que solo puede ser ejecutado por ``Superusers'')\cite{Dominguez2020}. Sin embargo, la carpeta ``Public'' cuenta con los permisos necesarios para que el usuario que crea Postgres pueda acceder y leer los datos. Por lo tanto, es importante seguir este paso para garantizar que se pueda obtener correctamente la información recogida previamente.
+
 
 \section{Compilación, instalación y ejecución del proyecto}
 

@@ -113,6 +113,19 @@ Consiste en el análisis biométrico de las revistas del banco de datos ISI (\te
 
 De entre los datos estadísticos que se obtienen, nos importa especialmente el ya mencionado \textbf{Factor de Impacto}, que permiten determinar de una manera sistemática y objetiva la importancia relativa de las principales revistas de investigación internacionales dentro de sus categorías temáticas. 
 
+El Factor de Impacto se calcula para cada revista en cada categoría. Para ello, se suma el número de citas que, durante un año, han ``referenciado'' a los artículos publicados durante los dos años anteriores en dicha revista. El resultado de esa suma se divide entre el número total de artículos publicados en esos últimos dos años.
+Por ejemplo, si quisiéramos calcular el Factor de Impacto de la revista Educación en 2016, se haría de la siguiente manera:
+
+\imagen{CalculoJCR}{Cálculo del JCR}{.99}
+ 
+El resultado de esta operación se interpretará en función de si es mayor o menor que 1:
+\begin{itemize}
+	\item Mayor que 1: La revista ha tenido un mejor impacto del esperado en esa categoría.
+	\item Menor que 1: La revista ha tenido un peor impacto del esperado en esa categoría.
+\end{itemize}
+Es decir, para poder realizar los cálculos, necesitaremos extraer el número de citas de cada artículo, la revista a la que pertenece, el año de publicación y la categoría a la que se refiere el artículo.
+
+
 JCR cubre más de 12\,000 revistas de más de 80 disciplinas diferentes, lo que permite comparar el impacto y la calidad de las revistas en diferentes campos. Los datos de JCR se utilizan a menudo como un indicador de la calidad y el impacto de una revista en la comunidad científica \cite{clarivate2019}.
 
 La última actualización del JCR ofrece los datos del Factor de Impacto del 2022. Este índice se calcula con un cierto retraso respecto al final del año: suele aparecer alrededor de los meses de mayo o junio del año siguiente. Esto limita el acceso a la información actualizada y justifica la importancia del trabajo que está siendo realizado, de forma que se pueda brindar información actualizada y accesible sobre el impacto de los artículos y revistas a la comunidad científica, lo cual es esencial para la toma de decisiones y la evaluación del desempeño científico.
