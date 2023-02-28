@@ -27,22 +27,12 @@ def htmlParsing(direccion):
 
 def listHeather():
     print("Obteniendo lista de headers...")
-    #url = 'https://developers.whatismybrowser.com/useragents/explore/software_name/firefox/'
-    url='https://www.useragents.me/'
+    url = 'https://developers.whatismybrowser.com/useragents/explore/software_name/firefox/'
     # Extraemos de una lista gratuita varios agentes
     respuesta = requests.get(url)
     soup = BeautifulSoup(respuesta.content, 'html.parser')
     # Lista de posibles agentes
-    #user_agents = soup.find_all("a","code")
-    
-    table = soup.find('table', class_='dataframe')
-    table = table.find('tbody')
-    user_agents = []
-
-    for row in table.find_all('tr'):
-        if row.find_all('td')[0].text == 'Windows 10':
-            ua = row.find_all('td')[2].text
-            user_agents.append(ua)
+    user_agents = soup.find_all("a","code")
     
     if user_agents!= None:
         print("Lista obtenida!")
@@ -50,10 +40,9 @@ def listHeather():
     return user_agents
     
 def getHeather(user_agents):
-
     # Selección de un agente al azar
     random_user_agent = random.choice(user_agents)
-    headers = {'User-Agent': random_user_agent}
+    headers = {'User-Agent': random_user_agent.text}
     # Se retorna la elección aleatoria del agente
     return headers
 
@@ -109,6 +98,7 @@ def get_last_field(article_name):
     
     count = 0
     for article in citantes['message']['items']:
+        print(article)
         if article.get('type') == 'journal-article':
             count += 1
             
@@ -126,20 +116,15 @@ def write_to_csv(article_info, last_field, csv_file):
 
 
 def getRevista(URL1,URL2,user_agents,csv_file):
-    with concurrent.futures.ThreadPoolExecutor(max_workers=4) as executor:
+    with concurrent.futures.ThreadPoolExecutor(max_workers=2) as executor:
         # Número de páginas de resultados sobre las que se quiere buscar 
         # Si se quiere buscar en 20 páginas, se deberá multiplicar por diez: 20*10=200
         
         for pagina in range(0, 200, 10):
-
             html = requests.get(URL1 + str(pagina) + URL2, headers=getHeather(user_agents))
-            if not html.ok:
-                print("[ERROR] No se ha hecho la llamada correctamente.")
-
             soup = BeautifulSoup(html.content, 'html.parser')    
             # Recogemos la información contenida en la sección de resultados
             elementos = soup.find_all('div', class_='gs_ri')
-            
             # Realizamos la búsqueda de la revista en todos los resultados
             for elemento in elementos: 
                 future1 = executor.submit(get_article_info, elemento)
@@ -157,7 +142,6 @@ def main():
     URL2 = '&q=chemical+reviews&hl=es&as_sdt=0,5'
     URL3 = 'https://scholar.google.com/scholar?start='
     URL4 = '&q=the+lancet&hl=es&as_sdt=0,5'
-    
     
     # Lista de headers para las requests
     user_agents = listHeather()
@@ -180,7 +164,6 @@ def main():
     print("La hora de inicio es: ", initial_time.time())
 
     # Lanzamos 2 hilos/núcleos
-    #with concurrent.futures.ProcessPoolExecutor(max_workers=2) as executor:
     with concurrent.futures.ThreadPoolExecutor(max_workers=2) as executor:
         # 1ra revista
         executor.submit(getRevista, URL1,URL2,user_agents,csv_file1)
