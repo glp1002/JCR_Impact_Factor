@@ -8,9 +8,9 @@ En esta sección se presentarán las distintas herramientas y recursos que se ha
 En el presente proyecto, se han utilizado diversas técnicas para llevar a cabo el análisis y cálculo del índice de impacto de publicaciones científicas. Estas técnicas han sido seleccionadas con el objetivo de obtener resultados precisos y confiables, y de cubrir las necesidades específicas de este estudio.
 
 \subsection{Web-Scraping}
-Es la práctica de recopilar datos a través de un programa que interactúe con una API \cite{mitchell2018}. Más concretamente, un programa automatizado compuesto por \textit{queries} que realizan solicitudes HTTP para adquirir recursos de un sitio web específico. Esta solicitud se puede formatear en una URL que contenga una consulta GET o en un mensaje HTTP que contenga una consulta POST \cite{zhao2017}. Una vez que la petición es exitosamente recibida y manejada por el sitio web seleccionado, el recurso requerido será extraído y luego devuelto al programa de \textit{web-scraping} específico.
+Es la práctica de recopilar datos a través de un programa que interactúe con una API~\cite{mitchell2018}. Más concretamente, un programa automatizado compuesto por \textit{queries} que realizan solicitudes HTTP para adquirir recursos de un sitio web específico. Esta solicitud se puede formatear en una URL que contenga una consulta GET o en un mensaje HTTP que contenga una consulta POST~\cite{zhao2017}. Una vez que la petición es exitosamente recibida y manejada por el sitio web seleccionado, el recurso requerido será extraído y luego devuelto al programa de \textit{web-scraping} específico.
 
-El uso \textit{web-scraping} resulta ser una técnica efectiva en este proyecto debido a que permite obtener datos de Google Scholar de manera automatizada y eficiente. La información obtenida a través de esta técnica es esencial para calcular el índice de impacto (JCR), ya que Google Scholar es una de las principales fuentes de datos para su cálculo. Además, el \textit{web-scraping} permite obtener grandes cantidades de información en un corto período de tiempo, lo que resulta muy útil en proyectos en el que se requiere una gran cantidad de datos.
+El uso \textit{web-scraping} resulta ser una técnica efectiva en este proyecto debido a que permite obtener datos de las distintas fuentes web de manera automatizada y eficiente. La información obtenida a través de esta técnica es esencial para calcular el índice de impacto (JCR). Además, el \textit{web-scraping} permite obtener grandes cantidades de información en un corto período de tiempo, lo que resulta muy útil en proyectos en el que se requiere una gran cantidad de datos.
 
 
 \section{Lenguaje de programación}
@@ -45,6 +45,12 @@ Para poder hacer uso de la \textbf{API de Crossref}, se han explorado diversas a
 
 Esta biblioteca está diseñada para facilitar el acceso a las bases de datos de revistas científicas y a otras relacionadas con el ámbito académico. Ofrece una interfaz simple para recuperar información utilizando los protocolos y las API de diferentes bases de datos, incluyendo JSTOR, Unpaywall, Crossref, DataCite, etc. Además, Habanero es compatible con las normas de Open Access, lo que permite a los usuarios acceder a contenido científico gratuito y de libre acceso.
 
+\subsection{Selenium}
+
+Selenium es una biblioteca de Python de automatización de navegadores web que se utiliza para controlar el comportamiento de un navegador en tiempo real. Es una herramienta muy poderosa para realizar \textit{web scraping} de sitios web, especialmente en aquellos casos en que se necesita interactuar con la página web como si lo hiciera un usuario humano.
+
+A diferencia de otras bibliotecas de \textit{web scraping}, Selenium permite simular la navegación humana en la web, permitiendo realizar búsquedas, hacer clic en botones, llenar formularios, entre otras acciones. Esto es muy útil cuando se trata de sitios web que tienen medidas de seguridad para evitar el \textit{web scraping} y requieren de interacción humana.
+
 
 \section{Bases de datos}
 
@@ -66,11 +72,11 @@ No soporte para web dinámica & Soporta sitios web dinámicos\\
 
 
 \subsection{PostgreSQL}
-Finalmente se opta por \href{https://www.postgresql.org/}{PostgreSQL} (también denominado Postgres). Pese a que ambas opciones son muy similares, se ha elegido esta última debido a que ya se ha trabajado con ella anteriormente. Además, PostgreSQL posee una sólida reputación por su arquitectura comprobada, confiabilidad, integridad de datos, conjunto sólido de características, extensibilidad y la dedicación de la comunidad de código abierto detrás del software para ofrecer soluciones innovadoras y de rendimiento constante \cite{Postgresql.org}.
+Finalmente se opta por \href{https://www.postgresql.org/}{PostgreSQL} (también denominado Postgres). Pese a que ambas opciones son muy similares, se ha elegido esta última debido a que ya se ha trabajado con ella anteriormente. Además, PostgreSQL posee una sólida reputación por su arquitectura comprobada, confiabilidad, integridad de datos, conjunto sólido de características, extensibilidad y la dedicación de la comunidad de código abierto detrás del software para ofrecer soluciones innovadoras y de rendimiento constante~\cite{Postgresql.org}.
 
 
 Al igual que MariaDB, es un sistema de gestión de bases de datos relacional de código abierto. Así pues, está dirigido y desarrollado por una comunidad altruista de desarrolladores (PostgreSQL Global Development Group).
-PostgreSQL utiliza y amplía el lenguaje SQL combinado con muchas características que almacenan y escalan de forma segura las cargas de trabajo de datos más complicadas \cite{Postgresql.org}. 
+PostgreSQL utiliza y amplía el lenguaje SQL combinado con muchas características que almacenan y escalan de forma segura las cargas de trabajo de datos más complicadas~\cite{Postgresql.org}. 
 Su última versión y la usada para el proyecto es la versión 15.1 lanzada el 10 de noviembre de este año.
 
 
@@ -83,9 +89,8 @@ Se trata de una de las principales herramientas que ofrece Google a los investig
 
 
 \subsection{Crossref}
-\href{https://www.crossref.org/}{Crossref} es una herramienta que facilita el  acceso a la información de los artículos científicos a partir de su DOI\footnote{El DOI (\textit{Digital Object Identifier}) es el acrónimo con el que se conoce al identificador inequívoco de un artículo científico. Se trata de un enlace permanente al contenido electrónico de dicho artículo. Por lo general, un DOI tiene forma de código alfanumérico.}.
 
-Crossref es una organización sin fines de lucro que pretende facilitar las conexiones académicas.
+ Crossref es una organización sin ánimo de lucro que provee de una \href{https://www.crossref.org/}{herramienta} que facilita el acceso a la información de los artículos científicos a partir de su DOI\footnote{El DOI (\textit{Digital Object Identifier}) es el acrónimo con el que se conoce al identificador inequívoco y persistente de un objeto digital (como un artículo de revista, un libro electrónico, una imagen, etc...). Se trata de un enlace permanente al contenido electrónico de dicho objeto. Por lo general, un DOI tiene forma de código alfanumérico.}.
 
 Como ya se ha mencionado previamente, en base a la información de los DOIs la agencia de registro CrossRef es capaz de proporcionarnos aplicaciones útiles para hacer nuestro flujo de investigación más sencillo.
 Se trata de una asociación sin ánimo de lucro de editoriales científicas que no solo facilita el registro de DOIs a las editoriales, sino que también ofrece servicios y aplicaciones para el personal investigador que tienen como base estos códigos.

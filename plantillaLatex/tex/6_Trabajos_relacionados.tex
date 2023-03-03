@@ -1,12 +1,43 @@
 \capitulo{6}{Trabajos relacionados}
 
-En el campo de la evaluación de revistas científicas, existen varios trabajos y proyectos previos que han tratado de extraer datos y calcular el factor de impacto. A continuación se presenta una breve descripción de algunos de estos trabajos relacionados:
+En el campo de la evaluación de revistas científicas, existen varios trabajos y proyectos previos que han tratado de extraer datos y calcular el factor de impacto. A continuación se presenta una breve descripción de uno de los trabajos relacionados más relevante.
 
-\begin{enumerate}
- %   \item \textbf{The Journal Impact Factor: A Valid and Reliable Indicator of Journal Quality?}: Este estudio realizado por Bo-Christer Björk y Torgny Roxå en el año 2007, analiza la validez y la fiabilidad del factor de impacto como indicador de la calidad de una revista. El estudio concluye que el factor de impacto es un indicador válido y fiable, pero que debe ser utilizado con precaución y en combinación con otros indicadores.
+\section{Publish or Perish}
 
-  \item \textbf{An index to quantify an individual's scientific research output}\cite{hirsch2005}:  Este estudio realizado por Jorge E. Hirsch en el año 2005, presenta el h-index como una nueva métrica para evaluar el impacto de la investigación científica. El estudio argumenta que el h-index es más preciso que el factor de impacto y es menos sujeto a manipulación.
+Publish or Perish (PoP) es una aplicación de escritorio gratuita que se utiliza para evaluar la producción académica de un investigador o institución en base a una serie de métricas bibliométricas. Fue desarrollada por la profesora Anne-Wil Harzing en 2006 y, desde entonces, ha sido una herramienta muy exitosa entre los académicos.
 
-  \item \textbf{Modeling and Prediction of the Impact Factor of Journals Using Open-Access Databases}\cite{templ2020}: Este estudio de 2020 se enfoca en el uso de bases de datos de acceso abierto para modelar y predecir el factor de impacto de las revistas científicas. El estudio sugiere que es posible utilizar bases de datos como Google Scholar, ResearchGate y Scopus para estimar el factor de impacto de revistas nuevas, pequeñas o independientes que no están incluidas en el Science Citation Index (SCI) y que no reciben un factor de impacto de la base de datos Web of Science (WoS). El estudio también señala que los resultados obtenidos con el modelo desarrollado sugieren que es posible predecir el factor de impacto WoS utilizando bases de datos de acceso abierto alternativas.
+Como se afirma en el artículo \textit{Google Scholar: the ‘big data’ bibliographic tool}, \textit{<<If any third party tool deserves a place in Google Scholar’s Hall of Fame, this would undoubtedly be Publish or Perish [...]>>}~\cite{lopez2017}.
+
+La aplicación ha sido programada en lenguaje de programación Delphi y está disponible para su descarga gratuita en la página web de 
+\href{https://harzing.com/resources/publish-or-perish/}{Harzing}. La interfaz de usuario es sencilla y fácil de usar, lo que la hace accesible para cualquier investigador, independientemente de su nivel de experiencia en informática.
+
+La aplicación utiliza datos de las bases de datos bibliográficas Scopus, Google Scholar, Web of Science, Crossref, OpenAlex, Semantic Scholar y PubMed para obtener información sobre la producción académica de un investigador. A partir de esta información, la aplicación calcula una serie de métricas bibliométricas, como el h-index, el g-index, el número de citas y el número de artículos publicados, entre otros~\cite{harzing2010}. Además, toda esta información puede ser copiada y exportada en numerosos formatos fácilmente.
+
+\imagen{interfazPoP}{Ejemplo de búsqueda con PoP usando Google Scholar}{1}
+
+Cabe destacar que las limitaciones en la cantidad de solicitudes que se pueden hacer a las bases de datos bibliográficas (como Google Scholar) están relacionadas con la política de cada sitio y con las restricciones de las APIs que utilizan para acceder a sus datos~\cite{harzing2010}. En el caso de Publish or Perish, su autora ha seguido las políticas de cada sitio y ha utilizado las APIs proporcionadas, lo que significa que las limitaciones de búsqueda están dictadas por las fuentes de los datos, y no por la interfaz de PoP en sí misma. Es importante recordar que PoP es simplemente una interfaz para acceder a estas bases de datos y no genera los datos ni limita las búsquedas por sí misma~\cite{pop2007}.
+
+En cuanto a la seguridad, la autora asegura que la aplicación es segura y que no recopila ni almacena datos personales de los usuarios~\cite{harzing2010}. Además, la aplicación se actualiza periódicamente para corregir posibles errores y vulnerabilidades de seguridad~\cite{pop2007}.
+
+
+
+
+
+\section{Otros trabajos}
+
+Existen otros trabajos relacionados con esta temática que se enumeran a continuación:
+
+\begin{enumerate} 
+
+  \item \textbf{Scholarometer}~\cite{scholarometer2018}:  Esta es una herramienta menos conocida pero poderosa desarrollada por la Escuela de Informática y Computación de la Universidad de Indiana-Bloomington, lanzada en 2009~\cite{kaur2012}. Es una herramienta social que pretende no solo facilitar el análisis de citas, sino también facilitar el etiquetado social de recursos académicos~\cite{lopez2017}.
+  
+  Scholarometer se instala como extensión en el navegador web y su principal función es extraer datos de autores de Google Scholar Citations (GSC). Los usuarios pueden realizar búsquedas de autores a través de una barra de búsqueda o ingresando el ID del académico. Si se utiliza esta última opción, el sistema extraerá y mostrará el perfil GSC del autor, con funcionalidades y métricas adicionales como la clasificación de artículos.~\cite{lopez2017}.
+  
+
+  \item \textbf{An index to quantify an individual's scientific research output}~\cite{hirsch2005}:  Este estudio realizado por Jorge E. Hirsch en el año 2005, presenta el h-index como una nueva métrica para evaluar el impacto de la investigación científica. El estudio argumenta que el h-index es más preciso que el factor de impacto y es menos sujeto a manipulación.
+
+
+  \item \textbf{Modeling and Prediction of the Impact Factor of Journals Using Open-Access Databases}~\cite{templ2020}: Este estudio de 2020 se enfoca al uso de bases de datos de acceso abierto para modelar y predecir el factor de impacto de las revistas científicas. El estudio sugiere que es posible utilizar bases de datos como Google Scholar, ResearchGate y Scopus para estimar el factor de impacto de revistas nuevas, pequeñas o independientes que no están incluidas en el Science Citation Index (SCI) y que no reciben un factor de impacto de la base de datos Web of Science (WoS). El estudio también señala que los resultados obtenidos con el modelo desarrollado sugieren que es posible predecir el factor de impacto WoS utilizando bases de datos de acceso abierto alternativas.
+  
 \end{enumerate}
 
