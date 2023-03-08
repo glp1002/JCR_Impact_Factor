@@ -26,7 +26,7 @@ fh = logging.FileHandler('crossref.log')
 formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 fh.setFormatter(formatter)
 logger.addHandler(fh)
-logger.info('\nNew CROSSREF execution:')
+
 
 # Definición de métodos
 def journalExist(issn: str, journal: str) -> bool:
@@ -195,6 +195,7 @@ def plotBar(time_data: dict) -> None:
 
 
 def main(year_i:str, year_f:str, csv_name: str) -> int: 
+    logger.info('\nNew CROSSREF execution:')
     
     # Gráficas de tiempo 
     time_data = {}
