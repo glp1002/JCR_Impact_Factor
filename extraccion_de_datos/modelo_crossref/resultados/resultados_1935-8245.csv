@@ -1,0 +1,60 @@
+DOI,Título,Autores,Año,Citas,Revista
+10.1561/2200000019,Metric Learning: A Survey,Brian Kulis,2013,439,Foundations and Trends® in Machine Learning
+10.1561/2200000038,From Bandits to Monte-Carlo Tree Search: The Optimistic Principle Applied to Optimization and Planning,Remi Munos,2014,87,Foundations and Trends® in Machine Learning
+10.1561/2200000078-2,Data Analytics on Graphs Part II: Signals on Graphs,"Ljubiša Stanković, Danilo Mandic, Miloš Daković, Miloš Brajović, Bruno Scalzo, Shengxi Li, Anthony G. Constantinides",2020,13,Foundations and Trends® in Machine Learning
+10.1561/2200000054,Explicit-Duration Markov Switching Models,Silvia Chiappa,2014,9,Foundations and Trends® in Machine Learning
+10.1561/2200000064,Explaining the Success of Nearest Neighbor Methods in Prediction,"George H. Chen, Devavrat Shah",2018,50,Foundations and Trends® in Machine Learning
+10.1561/2200000059,Tensor Networks for Dimensionality Reduction and Large-scale Optimization: Part 1 Low-Rank Tensor Decompositions,"Andrzej Cichocki, Namgil Lee, Ivan Oseledets, Anh-Huy Phan, Qibin Zhao, Danilo P. Mandic",2016,199,Foundations and Trends® in Machine Learning
+10.1561/2200000001,"Graphical Models, Exponential Families, and Variational Inference","Martin J. Wainwright, Michael I. Jordan",2007,1061,Foundations and Trends® in Machine Learning
+10.1561/2200000008,A Survey of Statistical Network Models,Anna Goldenberg,2009,50,Foundations and Trends® in Machine Learning
+10.1561/2200000090,Minimum-Distortion Embedding,"Akshay Agrawal, Alnur Ali, Stephen Boyd",2021,7,Foundations and Trends® in Machine Learning
+10.1561/2200000026,On the Concentration Properties of Interacting Particle Processes,Pierre Del Moral,2010,9,Foundations and Trends® in Machine Learning
+10.1561/2200000092,A Unifying Tutorial on Approximate Message Passing,"Oliver Y. Feng, Ramji Venkataramanan, Cynthia Rush, Richard J. Samworth",2022,1,Foundations and Trends® in Machine Learning
+10.1561/2200000079,Spectral Methods for Data Science: A Statistical Perspective,"Yuxin Chen, Yuejie Chi, Jianqing Fan, Cong Ma",2021,13,Foundations and Trends® in Machine Learning
+10.1561/2200000098,Introduction to Riemannian Geometry and Geometric Statistics: From Basic Theory to Implementation with Geomstats,"Nicolas Guigui, Nina Miolane, Xavier Pennec",2023,0,Foundations and Trends® in Machine Learning
+10.1561/2200000057,Spectral Learning on Matrices and Tensors,"Majid Janzamin, Rong Ge, Jean Kossaifi, Anima Anandkumar",2019,8,Foundations and Trends® in Machine Learning
+10.1561/2200000039,Learning with Submodular Functions: A Convex Optimization Perspective,Francis Bach,2013,113,Foundations and Trends® in Machine Learning
+10.1561/2200000067,Tensor Networks for Dimensionality Reduction and Large-scale Optimization: Part 2 Applications and Future Perspectives,"Andrzej Cichocki, Namgil Lee, Ivan Oseledets, Anh-Huy Phan, Qibin Zhao, Masashi Sugiyama, Danilo P. Mandic",2017,92,Foundations and Trends® in Machine Learning
+10.1561/2200000015,Optimization with Sparsity-Inducing Penalties,Francis Bach,2011,459,Foundations and Trends® in Machine Learning
+10.1561/2200000055,Generalized Low Rank Models,"Madeleine Udell, Corinne Horn, Reza Zadeh, Stephen Boyd",2016,147,Foundations and Trends® in Machine Learning
+10.1561/2200000058,Non-convex Optimization for Machine Learning,"Prateek Jain, Purushottam Kar",2017,143,Foundations and Trends® in Machine Learning
+10.1561/2200000073,Computational Optimal Transport: With Applications to Data Science,"Gabriel Peyré, Marco Cuturi",2019,576,Foundations and Trends® in Machine Learning
+10.1561/2200000006,Learning Deep Architectures for AI,Y. Bengio,2009,5071,Foundations and Trends® in Machine Learning
+10.1561/2200000048,An Introduction to Matrix Concentration Inequalities,Joel A. Tropp,2015,180,Foundations and Trends® in Machine Learning
+10.1561/2200000070,A Tutorial on Thompson Sampling,"Daniel J. Russo, Benjamin Van Roy, Abbas Kazerouni, Ian Osband, Zheng Wen",2018,148,Foundations and Trends® in Machine Learning
+10.1561/2200000078-3,"Data Analytics on Graphs Part III: Machine Learning on Graphs, from Graph Topology to Applications","Ljubiša Stanković, Danilo Mandic, Miloš Daković, Miloš Brajović, Bruno Scalzo, Shengxi Li, Anthony G. Constantinides",2020,15,Foundations and Trends® in Machine Learning
+10.1561/2200000049,Convex Optimization: Algorithms and Complexity,"Mohammed Ghavamzadeh, Shie Mannor, Joelle Pineau, Aviv Tamar",2015,97,Foundations and Trends® in Machine Learning
+10.1561/2200000099,"Divided Differences, Falling Factorials, and Discrete Splines: Another Look at Trend Filtering and Related Problems",Ryan J. Tibshirani,2022,0,Foundations and Trends® in Machine Learning
+10.1561/2200000002,Dimension Reduction: A Guided Tour,Christopher J. C. Burges,2009,133,Foundations and Trends® in Machine Learning
+10.1561/2200000083,Advances and Open Problems in Federated Learning,"Peter Kairouz, H. Brendan McMahan, Brendan Avent, Aurélien Bellet, Mehdi Bennis, Arjun Nitin Bhagoji, Kallista Bonawitz, Zachary Charles, Graham Cormode, Rachel Cummings, Rafael G. L. D’Oliveira, Hubert Eichner, Salim El Rouayheb, David Evans, Josh Gardner, Zachary Garrett, Adrià Gascón, Badih Ghazi, Phillip B. Gibbons, Marco Gruteser, Zaid Harchaoui, Chaoyang He, Lie He, Zhouyuan Huo, Ben Hutchinson, Justin Hsu, Martin Jaggi, Tara Javidi, Gauri Joshi, Mikhail Khodak, Jakub Konecný, Aleksandra Korolova, Farinaz Koushanfar, Sanmi Koyejo, Tancrède Lepoint, Yang Liu, Prateek Mittal, Mehryar Mohri, Richard Nock, Ayfer Özgür, Rasmus Pagh, Hang Qi, Daniel Ramage, Ramesh Raskar, Mariana Raykova, Dawn Song, Weikang Song, Sebastian U. Stich, Ziteng Sun, Ananda Theertha Suresh, Florian Tramèr, Praneeth Vepakomma, Jianyu Wang, Li Xiong, Zheng Xu, Qiang Yang, Felix X. Yu, Han Yu, Sen Zhao",2021,358,Foundations and Trends® in Machine Learning
+10.1561/2200000091,Risk-Sensitive Reinforcement Learning via Policy Gradient Search,"Prashanth L. A., Michael C. Fu",2022,1,Foundations and Trends® in Machine Learning
+10.1561/2200000074,Elements of Sequential Monte Carlo,"Christian A. Naesseth, Fredrik Lindsten, Thomas B. Schön",2019,9,Foundations and Trends® in Machine Learning
+10.1561/2200000077,Learning in Repeated Auctions,"Thomas Nedelec, Clément Calauzènes, Noureddine El Karoui, Vianney Perchet",2022,1,Foundations and Trends® in Machine Learning
+10.1561/2200000051,"Adaptation, Learning, and Optimization over Networks",Ali Sayed,2014,403,Foundations and Trends® in Machine Learning
+10.1561/2200000045,Backward Simulation Methods for Monte Carlo Statistical Inference,Fredrik Lindsten,2013,73,Foundations and Trends® in Machine Learning
+10.1561/2200000044,Determinantal Point Processes for Machine Learning,Alex Kulesza,2012,210,Foundations and Trends® in Machine Learning
+10.1561/2200000050,Convex Optimization: Algorithms and Complexity,Sébastien Bubeck,2015,422,Foundations and Trends® in Machine Learning
+10.1561/2200000089,Dynamical Variational Autoencoders: A Comprehensive Review,"Laurent Girin, Simon Leglaive, Xiaoyu Bie, Julien Diard, Thomas Hueber, Xavier Alameda-Pineda",2021,10,Foundations and Trends® in Machine Learning
+10.1561/2200000004,Property Testing: A Learning Theory Perspective,Dana Ron,2007,69,Foundations and Trends® in Machine Learning
+10.1561/2200000016,Distributed Optimization and Statistical Learning via the Alternating Direction Method of Multipliers,Stephen Boyd,2010,10171,Foundations and Trends® in Machine Learning
+10.1561/2200000042,A Tutorial on Linear Function Approximators for Dynamic Programming and Reinforcement Learning,Alborz Geramifard,2013,56,Foundations and Trends® in Machine Learning
+10.1561/2200000068,Introduction to Multi-Armed Bandits,Aleksandrs Slivkins,2019,82,Foundations and Trends® in Machine Learning
+10.1561/2200000024,Regret Analysis of Stochastic and Nonstochastic Multi-armed Bandit Problems,Sébastien Bubeck,2012,700,Foundations and Trends® in Machine Learning
+10.1561/2200000071,An Introduction to Deep Reinforcement Learning,"Vincent François-Lavet, Peter Henderson, Riashat Islam, Marc G. Bellemare, Joelle Pineau",2018,326,Foundations and Trends® in Machine Learning
+10.1561/2200000013,An Introduction to Conditional Random Fields,Charles Sutton,2012,431,Foundations and Trends® in Machine Learning
+10.1561/2200000081,Machine Learning for Automated Theorem Proving: Learning to Solve SAT and QSAT,Sean B. Holden,2021,1,Foundations and Trends® in Machine Learning
+10.1561/2200000072,An Introduction to Wishart Matrix Moments,"Adrian N. Bishop, Pierre Del Moral, Angèle Niclas",2018,6,Foundations and Trends® in Machine Learning
+10.1561/2200000035,Randomized Algorithms for Matrices and Data,Michael W. Mahoney Boyd,2010,60,Foundations and Trends® in Machine Learning
+10.1561/2200000003,Learning Representation and Control in Markov Decision Processes: New Frontiers,Sridhar Mahadevan,2007,23,Foundations and Trends® in Machine Learning
+10.1561/2200000005,A Survey of Statistical Network Models,Anna Goldenberg,2009,390,Foundations and Trends® in Machine Learning
+10.1561/2200000087,Tensor Regression,"Jiani Liu, Ce Zhu, Zhen Long, Yipeng Liu",2021,0,Foundations and Trends® in Machine Learning
+10.1561/2200000096,Graph Neural Networks for Natural Language Processing: A Survey,"Lingfei Wu, Yu Chen, Kai Shen, Xiaojie Guo, Hanning Gao, Shucheng Li, Jian Pei, Bo Long",2023,0,Foundations and Trends® in Machine Learning
+10.1561/2200000036,Kernels for Vector-Valued Functions: A Review,"Mauricio A. Álvarez, Lorenzo Rosasco, Neil D. Lawrence",2012,254,Foundations and Trends® in Machine Learning
+10.1561/2200000052,Patterns of Scalable Bayesian Inference,"Elaine Angelino, Matthew James Johnson, Ryan P. Adams",2016,22,Foundations and Trends® in Machine Learning
+10.1561/2200000086,Model-based Reinforcement Learning: A Survey,"Thomas M. Moerland, Joost Broekens, Aske Plaat, Catholijn M. Jonker",2023,0,Foundations and Trends® in Machine Learning
+10.1561/2200000078-1,Data Analytics on Graphs Part I: Graphs and Spectra on Graphs,"Ljubiša Stanković, Danilo Mandic, Miloš Daković, Miloš Brajović, Bruno Scalzo, Shengxi Li, Anthony G. Constantinides",2020,13,Foundations and Trends® in Machine Learning
+10.1561/2200000037,Theory of Disagreement-Based Active Learning,Steve Hanneke,2014,54,Foundations and Trends® in Machine Learning
+10.1561/2200000060,Kernel Mean Embedding of Distributions: A Review and Beyond,"Krikamol Muandet, Kenji Fukumizu, Bharath Sriperumbudur, Bernhard Schölkopf",2017,107,Foundations and Trends® in Machine Learning
+10.1561/2200000076,Graph Kernels: State-of-the-Art and Future Challenges,"Karsten Borgwardt, Elisabetta Ghisu, Felipe Llinares-López, Leslie O’Bray, Bastian Rieck",2020,9,Foundations and Trends® in Machine Learning
+10.1561/2200000018,Online Learning and Online Convex Optimization,Shai Shalev-Shwartz,2011,650,Foundations and Trends® in Machine Learning
+10.1561/2200000056,An Introduction to Variational Autoencoders,"Diederik P. Kingma, Max Welling",2019,421,Foundations and Trends® in Machine Learning

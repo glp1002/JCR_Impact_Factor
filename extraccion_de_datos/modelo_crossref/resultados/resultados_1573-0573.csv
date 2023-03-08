@@ -1,0 +1,312 @@
+DOI,Título,Autores,Año,Citas,Revista
+10.1007/s10590-011-9113-x,Free/open-source machine translation: preface,"Felipe Sánchez-Martínez, Mikel L. Forcada",2011,1,Machine Translation
+10.1007/s10590-010-9071-8,Introduction to the special issue on “Automated Metrics for Machine Translation Evaluation”,"Alon Lavie, Mark Przybocki",2009,2,Machine Translation
+10.1007/s10590-019-09241-w,"Joss Moorkens, Sheila Castilho, Federico Gaspari, Stephen Doherty (eds): Translation quality assessment: from principles to practice",Sarah Bawa Mason,2019,1,Machine Translation
+10.1007/s10590-011-9099-4,Deep open-source machine translation,"Francis Bond, Stephan Oepen, Eric Nichols, Dan Flickinger, Erik Velldal, Petter Haugereid",2011,3,Machine Translation
+10.1007/s10590-009-9051-z,Morphological mismatches in machine translation,"Igor Mel’čuk, Leo Wanner",2008,6,Machine Translation
+10.1007/s10590-016-9181-z,Kaibao Hu: Introducing corpus-based translation studies,Christian Hardmeier,2016,0,Machine Translation
+10.1007/s10590-011-9122-9,Rada Mihalcea and Dragomir Radev: Graph-based natural language processing and information retrieval,David Tomás,2012,1,Machine Translation
+10.1007/s10590-011-9106-9,Methods for integrating rule-based and statistical systems for Arabic to English machine translation,"Rabih Zbib, Michael Kayser, Spyros Matsoukas, John Makhoul, Hazem Nader, Hamdy Soliman, Rami Safadi",2012,4,Machine Translation
+10.1007/s10590-011-9088-7,Linguistic measures for automatic machine translation evaluation,"Jesús Giménez, Lluís Màrquez",2010,6,Machine Translation
+10.1007/s10590-021-09292-y,Simple measures of bridging lexical divergence help unsupervised neural machine translation for low-resource languages,"Jyotsana Khatri, Rudra Murthy, Tamali Banerjee, Pushpak Bhattacharyya",2021,0,Machine Translation
+10.1007/s10590-009-9060-y,Measuring machine translation quality as semantic equivalence: A metric based on entailment features,"Sebastian Padó, Daniel Cer, Michel Galley, Dan Jurafsky, Christopher D. Manning",2009,12,Machine Translation
+10.1007/s10590-010-9081-6,Improve syntax-based translation using deep syntactic structures,"Xianchao Wu, Takuya Matsuzaki, Jun’ichi Tsujii",2010,1,Machine Translation
+10.1007/s10590-013-9136-6,Substring-based machine translation,"Graham Neubig, Taro Watanabe, Shinsuke Mori, Tatsuya Kawahara",2013,2,Machine Translation
+10.1007/s10590-008-9041-6,Pivot language approach for phrase-based statistical machine translation,"Hua Wu, Haifeng Wang",2007,53,Machine Translation
+10.1007/s10590-019-09226-9,An error analysis for image-based multi-modal neural machine translation,"Iacer Calixto, Qun Liu",2019,1,Machine Translation
+10.1007/s10590-021-09287-9,From MT to LREV: managing the transition,Maja Popović,2021,0,Machine Translation
+10.1007/s10590-021-09291-z,Investigating the roles of sentiment in machine translation,"Sainik Kumar Mahata, Dipankar Das, Sivaji Bandyopadhyay",2021,1,Machine Translation
+10.1007/s10590-011-9102-0,A comparison of segmentation methods and extended lexicon models for Arabic statistical machine translation,"Saša Hasan, Saab Mansour, Hermann Ney",2012,1,Machine Translation
+10.1007/s10590-004-2479-2,A Generic Finite State Compiler for Tagging Rules,"Wojciech Skut, Stefan Ulrich, Kathrine Hammervold",2003,2,Machine Translation
+10.1007/s10590-014-9162-z,Data-driven annotation of binary MT quality estimation corpora based on human post-editions,"Marco Turchi, Matteo Negri, Marcello Federico",2014,2,Machine Translation
+10.1007/s10590-014-9167-7,Can college students be post-editors? An investigation into employing language learners in machine translation plus post-editing settings,Masaru Yamada,2015,10,Machine Translation
+10.1007/s10590-005-6600-y,"Book Review : Harold Somers (ed.), Computers and Translation–A translator’s guide, John Benjamins Publishing Company, Amsterdam/Philadephia; 2003, xi + 349 pp.",Michael Carl,2004,1,Machine Translation
+10.1007/s10590-011-9120-y,Jane: an advanced freely available hierarchical machine translation toolkit,"David Vilar, Daniel Stein, Matthias Huck, Hermann Ney",2012,3,Machine Translation
+10.1007/s10590-021-09265-1,Introduction to the second issue on machine translation for low-resource languages,"Chao-Hong Liu, Alina Karakanta, Audrey N. Tong, Oleg Aulov, Ian M. Soboroff, Jonathan Washington, Xiaobing Zhao",2021,0,Machine Translation
+10.1007/s10590-021-09277-x,Philipp Koehn: Neural Machine Translation,"Wandri Jooste, Rejwanul Haque, Andy Way",2021,1,Machine Translation
+10.1007/s10590-008-9034-5,Methods for extracting and classifying pairs of cognates and false friends,"Ruslan Mitkov, Viktor Pekar, Dimitar Blagoev, Andrea Mulloni",2007,7,Machine Translation
+10.1007/s10590-021-09290-0,Augmenting training data with syntactic phrasal-segments in low-resource neural machine translation,"Kamal Kumar Gupta, Sukanta Sen, Rejwanul Haque, Asif Ekbal, Pushpak Bhattacharyya, Andy Way",2021,2,Machine Translation
+10.1007/s10590-004-2477-4,Finite-State Computational Morphology: An Analyzer Prototype For Zulu,"Laurette Pretorius, Sonja E. Bosch",2003,6,Machine Translation
+10.1007/s10590-007-9018-x,"Marjorie J. McShane, A Theory of Ellipsis",Daniel Hardt,2007,0,Machine Translation
+10.1007/s10590-016-9183-x,The first Automatic Translation Memory Cleaning Shared Task,"Eduard Barbu, Carla Parra Escartín, Luisa Bentivogli, Matteo Negri, Marco Turchi, Constantin Orasan, Marcello Federico",2016,4,Machine Translation
+10.1007/s10590-009-9055-8,Translating emphatic/contrastive focus from English to Mandarin Chinese,"Chen-li Kuo, Allan Ramsay",2008,0,Machine Translation
+10.1007/s10590-021-09275-z,Parallel feature weight decay algorithms for fast development of machine translation models,Ergun Biçici,2021,1,Machine Translation
+10.1007/s10590-009-9050-0,Toward communicating simple sentences using pictorial representations,"Rada Mihalcea, Chee Wee Leong",2008,31,Machine Translation
+10.1007/s10590-006-9006-6,"Walter Daelemans and Antal van den Bosch, Memory-Based Language Processing",Nicolas Stroppa,2007,0,Machine Translation
+10.1007/s10590-005-6604-7,"Book Review: Abeillé, Anne (ed.), Treebanks: Building and Using Parsed Corpora, Kluwer Academic Publishers, Dordrecht/Boston/London, 2003, xxvi + 406 pp.",Joakim Nivre,2004,0,Machine Translation
+10.1007/s10590-018-9220-z,Human versus automatic quality evaluation of NMT and PBSMT,"Dimitar Shterionov, Riccardo Superbo, Pat Nagle, Laura Casanellas, Tony O’Dowd, Andy Way",2018,16,Machine Translation
+10.1007/s10590-012-9123-3,What types of word alignment improve statistical machine translation?,"Patrik Lambert, Simon Petitrenaud, Yanjun Ma, Andy Way",2012,4,Machine Translation
+10.1007/s10590-018-9224-8,A user-study on online adaptation of neural machine translation to human post-edits,"Sariya Karimova, Patrick Simianer, Stefan Riezler",2018,7,Machine Translation
+10.1007/s10590-019-09234-9,Efficient document alignment across scenarios,"Andoni Azpeitia, Thierry Etchegoyhen",2019,1,Machine Translation
+10.1007/s10590-020-09248-8,A review of Thai–English machine translation,Séamus Lyons,2020,7,Machine Translation
+10.1007/s10590-014-9157-9,Interactive translation prediction versus conventional post-editing in practice: a study with the CasMaCat workbench,"Germán Sanchis-Trilles, Vicent Alabau, Christian Buck, Michael Carl, Francisco Casacuberta, Mercedes García-Martínez, Ulrich Germann, Jesús González-Rubio, Robin L. Hill, Philipp Koehn, Luis A. Leiva, Bartolomé Mesa-Lao, Daniel Ortiz-Martínez, Herve Saint-Amand, Chara Tsoukala, Enrique Vidal",2014,15,Machine Translation
+10.1007/s10590-019-09236-7,Neighbors helping the poor: improving low-resource machine translation using related languages,"Nima Pourdamghani, Kevin Knight",2019,19,Machine Translation
+10.1007/s10590-017-9203-5,Neural machine translation for low-resource languages without parallel corpora,"Alina Karakanta, Jon Dehdari, Josef van Genabith",2018,24,Machine Translation
+10.1007/s10590-006-9016-4,Example-based machine translation based on tree–string correspondence and statistical generation,"Zhanyi Liu, Haifeng Wang, Hua Wu",2007,8,Machine Translation
+10.1007/s10590-017-9196-0,Chinese–Spanish neural machine translation enhanced with character and word bitmap fonts,"Marta R. Costa-jussà, David Aldón, José A. R. Fonollosa",2017,5,Machine Translation
+10.1007/s10590-011-9110-0,Orthographic and morphological processing for English–Arabic statistical machine translation,"Ahmed El Kholy, Nizar Habash",2012,23,Machine Translation
+10.1007/s10590-014-9156-x,Indices of cognitive effort in machine translation post-editing,Lucas Nunes Vieira,2014,20,Machine Translation
+10.1007/s10590-011-9115-8,Translating by post-editing: is it the way forward?,Ignacio Garcia,2011,41,Machine Translation
+10.1007/s10590-018-9219-5,Language-related issues for NMT and PBMT for English–German and English–Serbian,Maja Popović,2018,4,Machine Translation
+10.1007/s10590-011-9091-z,"OpenLogos machine translation: philosophy, model, resources and customization","Anabela Barreiro, Bernard Scott, Walter Kasper, Bernd Kiefer",2011,10,Machine Translation
+10.1007/s10590-008-9037-2,"Review of Dubkjaer, Laila; Hemsen, Holmer; Minker, Wolfgang (eds) Evaluation of Text and Speech Systems",Núria Bel,2007,0,Machine Translation
+10.1007/s10590-017-9204-4,The ELISA Situation Frame extraction for low resource languages pipeline for LoReHLT’2016,"Nikolaos Malandrakis, Anil Ramakrishna, Victor Martinez, Tanner Sorensen, Dogan Can, Shrikanth Narayanan",2018,3,Machine Translation
+10.1007/s10590-020-09254-w,Investigating alignment interpretability for low-resource NMT,"Marcely Zanon Boito, Aline Villavicencio, Laurent Besacier",2020,0,Machine Translation
+10.1007/s10590-011-9095-8,The CMU-EBMT machine translation system,Ralf D. Brown,2011,6,Machine Translation
+10.1007/s10590-020-09256-8,Introduction to the Special Issue on Machine Translation for Low-Resource Languages,"Chao-Hong Liu, Alina Karakanta, Audrey N. Tong, Oleg Aulov, Ian M. Soboroff, Jonathan Washington, Xiaobing Zhao",2020,0,Machine Translation
+10.1007/s10590-010-9085-2,"Panning for EBMT gold, or “Remembering not to forget”",Andy Way,2010,2,Machine Translation
+10.1007/s10590-011-9119-4,Cardinality pruning and language model heuristics for hierarchical phrase-based translation,"David Vilar, Hermann Ney",2012,2,Machine Translation
+10.1007/s10590-011-9107-8,A $${\mathcal{O}(|G|n^6)}$$ time extension of inversion transduction grammars,Anders Søgaard,2011,0,Machine Translation
+10.1007/s10590-005-8805-5,Keyword Index,,2004,0,Machine Translation
+10.1007/s10590-006-9017-3,EBMT by tree-phrasing,"Philippe Langlais, Fabrizio Gotti",2007,10,Machine Translation
+10.1007/s10590-021-09280-2,Minako O’Hagan (ed): The Routledge Handbook of Translation and Technology,Rouhullah Nemati Parsa,2021,0,Machine Translation
+10.1007/s10590-017-9210-6,Preface,"Ian Soboroff, Audrey Tong",2018,0,Machine Translation
+10.1007/s10590-021-09286-w,From MT to LREV: managing the transition,Andy Way,2021,0,Machine Translation
+10.1007/s10590-011-9098-5,Yves Gambier and Luc Van Doorslaer (eds): Handbook of Translation Studies,Sharon O’Brien,2011,0,Machine Translation
+10.1007/s10590-009-9059-4,The Meteor metric for automatic evaluation of machine translation,"Alon Lavie, Michael J. Denkowski",2009,66,Machine Translation
+10.1007/s10590-014-9150-3,Chengqing Zong: Statistical natural language processing (second edition),Xiaojun Zhang,2014,2,Machine Translation
+10.1007/s10590-016-9182-y,"María Luisa Carrió-Pastor (ed.): Technology implementation in second language teaching and translation studies. New tools, new approaches",Adrià Martín-Mor,2016,0,Machine Translation
+10.1007/s10590-007-9026-x,"Implementing NLP projects for noncentral languages: instructions for funding bodies, strategies for developers","Oliver Streiter, Kevin P. Scannell, Mathias Stuflesser",2006,8,Machine Translation
+10.1007/s10590-013-9145-5,Quality estimation for machine translation: preface,"Lucia Specia, Radu Soricut",2013,0,Machine Translation
+10.1007/s10590-013-9140-x,A conjoint analysis framework for evaluating user preferences in machine translation,"Katrin Kirchhoff, Daniel Capurro, Anne M. Turner",2014,5,Machine Translation
+10.1007/s10590-005-2559-y,Practical Word-Sense Disambiguation Using Co-occurring Concept Codes,"Youjin Chung, Jong-Hyeok Lee",2005,1,Machine Translation
+10.1007/s10590-015-9173-4,Johann Roturier: Localizing apps: a practical guide for translators and translation students,Raymond Flournoy,2015,0,Machine Translation
+10.1007/s10590-009-9064-7,The hare and the tortoise: speed and accuracy in translation retrieval,Timothy Baldwin,2009,2,Machine Translation
+10.1007/s10590-021-09260-6,"Recent advances in Apertium, a free/open-source rule-based machine translation platform for low-resource languages","Tanmai Khanna, Jonathan N. Washington, Francis M. Tyers, Sevilay Bayatlı, Daniel G. Swanson, Tommi A. Pirinen, Irene Tang, Hèctor Alòs i Font",2021,0,Machine Translation
+10.1007/s10590-012-9134-0,Oracle decoding as a new way to analyze phrase-based machine translation,"Guillaume Wisniewski, François Yvon",2013,1,Machine Translation
+10.1007/s10590-012-9128-y,"Joseph Olive, Caitlin Christianson, John McCary (eds.): Handbook of Natural Language Processing and Machine Translation",Kimmo Rossi,2013,0,Machine Translation
+10.1007/s10590-015-9168-1,Lightly supervised word-sense translation-error detection and resolution in an interactive conversational spoken language translation system,"Sankaranarayanan Ananthakrishnan, Dennis N. Mehay, Sanjika Hewavitharana, Rohit Kumar, Matt Roy, Enoch Kan",2015,3,Machine Translation
+10.1007/s10590-019-09240-x,Chan Sin-Wai (ed): The human factor in machine translation,Sheila Castilho,2019,0,Machine Translation
+10.1007/s10590-017-9199-x,Chan Sin-wai: the future of translation technology: towards a world without Babel,Duoxiu Qian,2017,0,Machine Translation
+10.1007/s10590-006-9005-7,"Harry Bunt, John Carroll, Giorgio Satta (eds.) New Developments in Parsing Technology",Aoife Cahill,2007,0,Machine Translation
+10.1007/s10590-007-9023-0,EXTRA: a system for example-based translation assistance,"Federica Mandreoli, Riccardo Martoglia, Paolo Tiberio",2007,1,Machine Translation
+10.1007/s10590-014-9164-x,A Bayesian non-linear method for feature selection in machine translation quality estimation,"Kashif Shah, Trevor Cohn, Lucia Specia",2015,10,Machine Translation
+10.1007/s10590-009-9056-7,Symbolic-to-statistical hybridization: extending generation-heavy machine translation,"Nizar Habash, Bonnie Dorr, Christof Monz",2009,13,Machine Translation
+10.1007/s10590-013-9146-4,Maximum-entropy word alignment and posterior-based phrase extraction for machine translation,"Nadi Tomeh, Alexandre Allauzen, François Yvon",2014,3,Machine Translation
+10.1007/s10590-019-09229-6,Post-editing neural machine translation versus phrase-based machine translation for English–Chinese,"Yanfang Jia, Michael Carl, Xiangling Wang",2019,6,Machine Translation
+10.1007/s10590-009-9061-x,ATEC: automatic evaluation of machine translation via word choice and word order,"Billy Wong, Chunyu Kit",2009,7,Machine Translation
+10.1007/s10590-008-9044-3,Using target-language information to train part-of-speech taggers for machine translation,"Felipe Sánchez-Martínez, Juan Antonio Pérez-Ortiz, Mikel L. Forcada",2008,4,Machine Translation
+10.1007/s10590-021-09270-4,Special issue: Sign language translation and avatar technology,Rosalee Wolfe,2021,2,Machine Translation
+10.1007/s10590-011-9092-y,"Matxin, an open-source rule-based machine translation system for Basque","Aingeru Mayor, Iñaki Alegria, Arantza Díaz de Ilarraza, Gorka Labaka, Mikel Lersundi, Kepa Sarasola",2011,8,Machine Translation
+10.1007/s10590-006-9009-3,MT model space: statistical versus compositional versus example-based machine translation,Dekai Wu,2007,9,Machine Translation
+10.1007/s10590-019-09237-6,Improving Arabic neural machine translation via n-best list re-ranking,"Mohamed Seghir Hadj Ameur, Ahmed Guessoum, Farid Meziane",2019,4,Machine Translation
+10.1007/s10590-004-7692-5,Translation Disambiguation in Mixed Language Queries,"Percy Cheung, Pascale Fung",2004,5,Machine Translation
+10.1007/s10590-010-9073-6,Significance tests of automatic machine translation evaluation metrics,"Ying Zhang, Stephan Vogel",2010,4,Machine Translation
+10.1007/s10590-009-9054-9,Generating Arabic text in multilingual speech-to-speech machine translation framework,"Azza Abdel Monem, Khaled Shaalan, Ahmed Rafea, Hoda Baraka",2008,12,Machine Translation
+10.1007/s10590-021-09267-z,The impact of translation modality on user experience: an eye-tracking study of the Microsoft Word user interface,"Ana Guerberof Arenas, Joss Moorkens, Sharon O’Brien",2021,2,Machine Translation
+10.1007/s10590-011-9086-9,Colin de la Higuera: Grammatical inference: learning automata and grammars,Walter Daelemans,2010,4,Machine Translation
+10.1007/s10590-004-2476-5,Morphology in Machine Translation Systems: Efficient Integration of Finite State Transducers and Feature Structure Descriptions,Jan W. Amtrup,2003,5,Machine Translation
+10.1007/s10590-010-9076-3,A process study of computer-aided translation,Philipp Koehn,2009,22,Machine Translation
+10.1007/s10590-005-2467-1,Methodologies for Measuring the Correlations between Post-Editing Effort and Machine Translatability,Sharon O’Brien,2005,34,Machine Translation
+10.1007/s10590-021-09281-1,Recent advances of low-resource neural machine translation,"Rejwanul Haque, Chao-Hong Liu, Andy Way",2021,1,Machine Translation
+10.1007/s10590-017-9202-6,Cross-lingual sentiment transfer with limited resources,"Mohammad Sadegh Rasooli, Noura Farra, Axinia Radeva, Tao Yu, Kathleen McKeown",2018,10,Machine Translation
+10.1007/s10590-010-9084-3,Pushing the frontier of Statistical Machine Translation: Preface,"Lucia Specia, Nicola Cancedda",2010,0,Machine Translation
+10.1007/s10590-016-9189-4,Opera goer or Scrabble player: what makes a good translator?,"Naoto Nishio, Richard F. E. Sutcliffe",2016,0,Machine Translation
+10.1007/s10590-008-9043-4,"Kornai, András: Mathematical Linguistics",Horacio Rodríguez,2007,0,Machine Translation
+10.1007/s10590-005-6599-0,"Book Review: Lynne Bowker, Computer Aided Translation Technology: A Practical Introduction, University of Ottawa Press, Ottawa, Canada, 2002. xx + 185 pp.",Lorna Balkan,2004,0,Machine Translation
+10.1007/s10590-005-6602-9,"Book Review, Inderjeet Mani: Automatic Summarization, John Benjamins Publishing Co., Amsterdam, The Netherlands, 2001, xi + 286 pp.",Hal Daumé,2004,0,Machine Translation
+10.1007/s10590-013-9143-7,"Markus Dickinson, Chris Brew and Detmar Meurers: Language and Computers",Jörg Tiedemann,2013,0,Machine Translation
+10.1007/s10590-004-7693-4,A Morphological Tagger for Korean: Statistical Tagging Combined with Corpus-Based Morphological Rule Application,"Chung-Hye Han, Martha Palmer",2004,9,Machine Translation
+10.1007/s10590-012-9129-x,David Bellos (ed): Is that a fish in your ear: translation and the meaning of everything,Andy Way,2012,3,Machine Translation
+10.1007/s10590-021-09259-z,"Read, spot and translate","Lucia Specia, Josiah Wang, Sun Jae Lee, Alissa Ostapenko, Pranava Madhyastha",n.m.,0,Machine Translation
+10.1007/s10590-017-9207-1,Incident-Driven Machine Translation and Name Tagging for Low-resource Languages,"Ulf Hermjakob, Qiang Li, Daniel Marcu, Jonathan May, Sebastian J. Mielke, Nima Pourdamghani, Michael Pust, Xing Shi, Kevin Knight, Tomer Levinboim, Kenton Murray, David Chiang, Boliang Zhang, Xiaoman Pan, Di Lu, Ying Lin, Heng Ji",2018,5,Machine Translation
+10.1007/s10590-012-9131-3,Jörg Tiedemann: Bitext alignment,Pavel Pecina,2013,0,Machine Translation
+10.1007/s10590-008-9042-5,Chan Sin-wai (ed) A Topical Bibliography of Computer (-Aided) Translation,Duoxiu Qian,2007,0,Machine Translation
+10.1007/s10590-015-9174-3,Miguel Á. Bernal-Merino: Translation and localisation in video games: making entertainment software global,Johann Roturier,2015,0,Machine Translation
+10.1007/s10590-017-9193-3,Improving retrieval performance of translation memories using morphosyntactic analyses and generalized suffix arrays,Melanie Weitz,2017,1,Machine Translation
+10.1007/s10590-019-09231-y,Editors’ foreword to the special issue on human factors in neural machine translation,"Sheila Castilho, Federico Gaspari, Joss Moorkens, Maja Popović, Antonio Toral",2019,2,Machine Translation
+10.1007/s10590-016-9186-7,Combining off-the-shelf components to clean a translation memory,Friedel Wolff,2016,1,Machine Translation
+10.1007/s10590-021-09288-8,Word reordering on multiple pivots for the Japanese and Indonesian language pair,"Sari Dewi Budiwati, Masayoshi Aritsugi",2021,2,Machine Translation
+10.1007/s10590-009-9058-5,MaxSim: performance and effects of translation fluency,"Yee Seng Chan, Hwee Tou Ng",2009,1,Machine Translation
+10.1007/s10590-017-9209-z,Word from the editors,"Constantin Orăsan, Marcello Federico",2017,0,Machine Translation
+10.1007/s10590-015-9172-5,Complexity of alignment and decoding problems: restrictions and approximations,"Noah Fleming, Antonina Kolokolova, Renesa Nizamee",2015,0,Machine Translation
+10.1007/s10590-014-9151-2,"Miguel A. Jiménez-Crespo: Translation and Web Localization, Routledge, 2013, xii + 233 pp, ISBN: 978-0 41564316-0",Ana Guerberof Arenas,2014,0,Machine Translation
+10.1007/s10590-010-9078-1,The application of structured learning in natural language processing,"Yizhao Ni, Craig Saunders, Sandor Szedmak, Mahesan Niranjan",2010,1,Machine Translation
+10.1007/s10590-010-9074-5,Exploiting syntactic relationships in a phrase-based decoder: an exploration,"Tim Hunter, Philip Resnik",2010,3,Machine Translation
+10.1007/s10590-012-9132-2,N-gram posterior probability confidence measures for statistical machine translation: an empirical study,"Adrià de Gispert, Graeme Blackwood, Gonzalo Iglesias, William Byrne",2013,2,Machine Translation
+10.1007/s10590-005-6601-x,"Book Review, Falk, Yehuda N., Lexical-Functional Grammar – An Introduction to Parallel Constraint-Based Syntax, Lecture Notes No. 126 (CSLI-LN), Center for the Study of Language and Information, Stanford, 2001, xv + 237 pp.",Veit Reuer,2004,1,Machine Translation
+10.1007/s10590-014-9148-x,Anders Søgaard: Semi-Supervised Learning and Domain Adaptation in Natural Language Processing,Steven Abney,2014,1,Machine Translation
+10.1007/s10590-011-9087-8,"Nizar Y. Habash, Introduction to Arabic natural language processing (Synthesis lectures on human language technologies)",Khaled Shaalan,2010,3,Machine Translation
+10.1007/s10590-020-09257-7,Cross-lingual embedding for cross-lingual question retrieval in low-resource community question answering,"Shahrzad HajiAminShirazi, Saeedeh Momtazi",2020,1,Machine Translation
+10.1007/s10590-014-9160-1,Quality evaluation in community post-editing,"Linda Mitchell, Sharon O’Brien, Johann Roturier",2014,9,Machine Translation
+10.1007/s10590-014-9158-8,"Sharon O’Brien, Laura Winther Balling, Michael Carl, Michel Simard and Lucia Specia: Post-editing of machine translation: processes and applications",Debbie Folaron,2015,2,Machine Translation
+10.1007/s10590-017-9200-8,Overview of the NIST 2016 LoReHLT evaluation,"Audrey Tong, Lukas Diduch, Jonathan Fiscus, Yasaman Haghpanah, Shudong Huang, David Joy, Kay Peterson, Ian Soboroff",2018,3,Machine Translation
+10.1007/s10590-012-9130-4,Alejandro Moreno-Ramos et al.: Mox—illustrated guide to freelance translation,Marco Cevoli,2013,0,Machine Translation
+10.1007/s10590-018-9215-9,Induction of latent domains in heterogeneous corpora: a case study of word alignment,"Hoang Cuong, Khalil Sima’an",2017,0,Machine Translation
+10.1007/s10590-005-2403-4,The Long-Term Forecast for Weather Bulletin Translation,"Philippe Langlais, Simona Gandrabur, Thomas Leplus, Guy Lapalme",2005,2,Machine Translation
+10.1007/s10590-017-9213-3,Segment-based interactive-predictive machine translation,"Miguel Domingo, Álvaro Peris, Francisco Casacuberta",2017,8,Machine Translation
+10.1007/s10590-017-9206-2,BBN’s low-resource machine translation for the LoReHLT 2016 evaluation,"Hendra Setiawan, Zhongqiang Huang, Rabih Zbib",2018,2,Machine Translation
+10.1007/s10590-016-9184-9,A novel and robust approach for pro-drop language translation,"Longyue Wang, Zhaopeng Tu, Xiaojun Zhang, Siyou Liu, Hang Li, Andy Way, Qun Liu",2017,4,Machine Translation
+10.1007/s10590-021-09274-0,Improving bilingual word embeddings mapping with monolingual context information,"Shaolin Zhu, Chenggang Mi, Tianqi Li, Fuhua Zhang, Zhifeng Zhang, Yu Sun",2021,0,Machine Translation
+10.1007/s10590-006-9013-7,Syntactic mismatches in machine translation,"Igor Mel’čuk, Leo Wanner",2007,8,Machine Translation
+10.1007/s10590-021-09289-7,Joint source–target encoding with pervasive attention,"Maha Elbayad, Laurent Besacier, Jakob Verbeek",2021,0,Machine Translation
+10.1007/s10590-020-09244-y,Improving neural machine translation through phrase-based soft forced decoding,"Jingyi Zhang, Masao Utiyama, Eiichro Sumita, Graham Neubig, Satoshi Nakamura",2020,2,Machine Translation
+10.1007/s10590-019-09233-w,Evaluation of the impact of controlled language on neural machine translation compared to other MT architectures,"Shaimaa Marzouk, Silvia Hansen-Schirra",2019,7,Machine Translation
+10.1007/s10590-018-9214-x,Quantitative fine-grained human evaluation of machine translation systems: a case study on English to Croatian,"Filip Klubička, Antonio Toral, Víctor M. Sánchez-Cartagena",2018,12,Machine Translation
+10.1007/s10590-006-9004-8,Translators and TM: An investigation of translators’ perceptions of translation memory adoption,"Sarah Dillon, Janet Fraser",2007,15,Machine Translation
+10.1007/s10590-013-9137-5,Investigating the contribution of linguistic information to quality estimation,"Mariano Felice, Lucia Specia",2013,2,Machine Translation
+10.1007/s10590-018-9223-9,Reassessing the proper place of man and machine in translation: a pre-translation scenario,"Julia Ive, Aurélien Max, François Yvon",2018,3,Machine Translation
+10.1007/s10590-020-09249-7,A roadmap to neural automatic post-editing: an empirical approach,"Dimitar Shterionov, Félix do Carmo, Joss Moorkens, Murhaf Hossari, Joachim Wagner, Eric Paquin, Dag Schmidtke, Declan Groves, Andy Way",2020,6,Machine Translation
+10.1007/s10590-008-9036-3,Semi-supervised model adaptation for statistical machine translation,"Nicola Ueffing, Gholamreza Haffari, Anoop Sarkar",2007,13,Machine Translation
+10.1007/s10590-007-9029-7,Finding translations for low-frequency words in comparable corpora,"Viktor Pekar, Ruslan Mitkov, Dimitar Blagoev, Andrea Mulloni",2006,14,Machine Translation
+10.1007/s10590-019-09232-x,Post-editing neural machine translation versus translation memory segments,"Pilar Sánchez-Gijón, Joss Moorkens, Andy Way",2019,12,Machine Translation
+10.1007/s10590-020-09251-z,Analysing terminology translation errors in statistical and neural machine translation,"Rejwanul Haque, Mohammed Hasanuzzaman, Andy Way",2020,6,Machine Translation
+10.1007/s10590-011-9094-9,“This sentence is wrong.” Detecting errors in machine-translated sentences,"Sylvain Raybaud, David Langlois, Kamel Smaïli",2011,10,Machine Translation
+10.1007/s10590-021-09261-5,ThamizhiMorph: A morphological parser for the Tamil language,"Kengatharaiyer Sarveswaran, Gihan Dias, Miriam Butt",2021,3,Machine Translation
+10.1007/s10590-014-9155-y,Correlations between productivity and quality when post-editing in a professional context,Ana Guerberof Arenas,2014,10,Machine Translation
+10.1007/s10590-011-9093-x,Translation practice in the workplace: contextual analysis and implications for machine translation,"Nikiforos Karamanis, Saturnino Luz, Gavin Doherty",2011,14,Machine Translation
+10.1007/s10590-021-09268-y,Motion synthesis and editing for the generation of new sign language content,"Lucie Naert, Caroline Larboulette, Sylvie Gibet",2021,3,Machine Translation
+10.1007/s10590-017-9197-z,Zero-resource machine translation by multimodal encoder–decoder network with multimedia pivot,"Hideki Nakayama, Noriki Nishida",2017,22,Machine Translation
+10.1007/s10590-014-9153-0,A hybrid machine translation architecture guided by syntax,"Gorka Labaka, Cristina España-Bonet, Lluís Màrquez, Kepa Sarasola",2014,13,Machine Translation
+10.1007/s10590-021-09273-1,Improving realism in automated fingerspelling of American sign language,Souad Baowidan,2021,0,Machine Translation
+10.1007/s10590-011-9116-7,Efficient accurate syntactic direct translation models: one tree at a time,"Hany Hassan, Khalil Sima’an, Andy Way",2012,1,Machine Translation
+10.1007/s10590-017-9194-2,The representational geometry of word meanings acquired by neural machine translation models,"Felix Hill, Kyunghyun Cho, Sébastien Jean, Yoshua Bengio",2017,10,Machine Translation
+10.1007/s10590-021-09271-3,Sign boundary and hand articulation feature recognition in Sign Language videos,"Ioannis Koulierakis, Georgios Siolas, Eleni Efthimiou, Stavroula-Evita Fotinea, Andreas-Georgios Stafylopatis",2021,0,Machine Translation
+10.1007/s10590-004-2480-9,"Design, Implementation and Evaluation of an Inflectional Morphology Finite State Transducer for Irish","Uí Dhonnchadha, Caoilfhionn Nic Pháidín, Josef Van Genabith",2003,1,Machine Translation
+10.1007/s10590-014-9152-1,Translation project adaptation for MT-enhanced computer assisted translation,"Mauro Cettolo, Nicola Bertoldi, Marcello Federico, Holger Schwenk, Loïc Barrault, Christophe Servan",2014,3,Machine Translation
+10.1007/s10590-021-09266-0,An in-depth analysis of the individual impact of controlled language rules on machine translation output: a mixed-methods approach,Shaimaa Marzouk,2021,3,Machine Translation
+10.1007/s10590-019-09235-8,A user study of neural interactive translation prediction,"Rebecca Knowles, Marina Sanchez-Torron, Philipp Koehn",2019,15,Machine Translation
+10.1007/s10590-021-09283-z,Jointly learning bilingual word embeddings and alignments,"Zhenqiao Song, Xiaoqing Zheng, Xuanjing Huang",2021,0,Machine Translation
+10.1007/s10590-010-9075-4,"Kam-Fai Wong, Wenjie Li, Ruifeng Xu and Zheng-sheng Zhang: Introduction to Chinese natural language processing",Yanjun Ma,2010,0,Machine Translation
+10.1007/s10590-012-9124-2,"Alexander Clark, Chris Fox and Shalom Lappin (eds): Handbook of computational linguistics and natural language processing",Pratyush Banerjee,2012,0,Machine Translation
+10.1007/s10590-008-9040-7,Automatic extraction of translations from web-based bilingual materials,"Qibo Zhu, Diana Inkpen, Ash Asudeh",2007,0,Machine Translation
+10.1007/s10590-011-9112-y,Improved Arabic-to-English statistical machine translation by reordering post-verbal subjects for word alignment,"Marine Carpuat, Yuval Marton, Nizar Habash",2012,6,Machine Translation
+10.1007/s10590-005-2412-3,A Methodology for Evaluating Arabic Machine Translation Systems,"Ahmed Guessoum, Rached Zantout",2004,6,Machine Translation
+10.1007/s10590-006-9000-z,Toward Practical Spoken Language Translation,"Chengqing Zong, Mark Seligman",2005,5,Machine Translation
+10.1007/s10590-011-9109-6,Cunei: open-source machine translation with relevance-based models of each translation instance,Aaron B. Phillips,2011,7,Machine Translation
+10.1007/s10590-016-9179-6,New directions in empirical translation process research exploring the CRITT TPR-DB,Miquel Esplà-Gomis,2016,0,Machine Translation
+10.1007/s10590-019-09242-9,Addressing data sparsity for neural machine translation between morphologically rich languages,"Mercedes García-Martínez, Walid Aransa, Fethi Bougares, Loïc Barrault",2020,3,Machine Translation
+10.1007/s10590-010-9072-7,Metric and reference factors in minimum error rate training,"Yifan He, Andy Way",2010,3,Machine Translation
+10.1007/s10590-021-09279-9,Generalizing a model for animating adverbs of manner in American Sign Language,Robyn Moncrief,2021,0,Machine Translation
+10.1007/s10590-006-9015-5,Hybrid data-driven models of machine translation,"Declan Groves, Andy Way",2007,6,Machine Translation
+10.1007/s10590-013-9138-4,Predicting sentence translation quality using extrinsic and language independent features,"Ergun Biçici, Declan Groves, Josef van Genabith",2013,7,Machine Translation
+10.1007/s10590-009-9053-x,"Andrew Radford, Martin Atkinson, David Britain, Harald Clahsen, Andrew Spencer: Linguistics: an introduction",Paul Bennett,2009,0,Machine Translation
+10.1007/s10590-009-9049-6,"Khurshid Ahmad, Christopher Brewster, Mark Stevenson (Eds), Words and Intelligence I: Selected Papers by Yorick Wilks",Joseba Abaitua,2008,0,Machine Translation
+10.1007/s10590-007-9030-1,Albert Branchadell and Lovell Margaret West (eds): Less Translated Languages,Michael Cronin,2007,0,Machine Translation
+10.1007/s10590-017-9198-y,Editorial,"Qun Liu, Xiaodong He, Hermann Ney",2017,0,Machine Translation
+10.1007/s10590-007-9027-9,Automatic induction of bilingual resources from aligned parallel corpora: application to shallow-transfer machine translation,"Helena M. Caseli, Maria das Graças V. Nunes, Mikel L. Forcada",2006,10,Machine Translation
+10.1007/s10590-011-9111-z,Soft syntactic constraints for Arabic–English hierarchical phrase-based translation,"Yuval Marton, David Chiang, Philip Resnik",2012,7,Machine Translation
+10.1007/s10590-017-9191-5,Automatic translation memory cleaning,"Matteo Negri, Duygu Ataman, Masoud Jalili Sabet, Marco Turchi, Marcello Federico",2017,1,Machine Translation
+10.1007/s10590-011-9108-7,Syntactic discriminative language model rerankers for statistical machine translation,"Simon Carter, Christof Monz",2011,4,Machine Translation
+10.1007/s10590-005-6603-8,"Book Review: Brian James Baer, Geoffrey S. Koby (eds), Beyond the Ivory Tower: Rethinking Translation Pedagogy. John Benjamins Publishing Co., Amsterdam/Philadelphia, 2003, xvi + 258 pp.",Mike L. Forcada,2004,0,Machine Translation
+10.1007/s10590-021-09276-y,MSVD-Turkish: a comprehensive multimodal video dataset for integrated vision and language research in Turkish,"Begum Citamak, Ozan Caglayan, Menekse Kuyu, Erkut Erdem, Aykut Erdem, Pranava Madhyastha, Lucia Specia",2021,0,Machine Translation
+10.1007/s10590-005-1403-8,Controlled Translation in an Example-based Environment: What do Automatic Evaluation Metrics Tell Us?,"Andy Way, Nano Gough",2005,5,Machine Translation
+10.1007/s10590-018-9216-8,A survey of domain adaptation for statistical machine translation,"Hoang Cuong, Khalil Sima’an",2017,2,Machine Translation
+10.1007/s10590-006-9010-x,Purest ever example-based machine translation: Detailed presentation and assessment,"Yves Lepage, Etienne Denoual",2007,23,Machine Translation
+10.1007/s10590-004-6612-z,"Book Review: Douglas Robinson. Performative Linguistics: Speaking and Translating as Doing Things with Words. New York/London: Routledge, 2003. ix+260pp.",Minako O’hagan,2004,0,Machine Translation
+10.1007/s10590-013-9144-6,Sentence-level ranking with quality estimation,Eleftherios Avramidis,2013,2,Machine Translation
+10.1007/s10590-008-9048-z,METIS-II: low resource machine translation,"Michael Carl, Maite Melero, Toni Badia, Vincent Vandeghinste, Peter Dirix, Ineke Schuurman, Stella Markantonatou, Sokratis Sofianopoulos, Marina Vassiliou, Olga Yannoutsou",2008,7,Machine Translation
+10.1007/s10590-017-9195-1,A comparison of discriminative training criteria for continuous space translation models,"Alexandre Allauzen, Quoc Khanh Do, François Yvon",2017,0,Machine Translation
+10.1007/s10590-020-09246-w,"Lore Vandevoorde, Joke Daems, and Bart Defrancq (eds.): New Empirical Perspectives on Translation and Interpreting",Alessandra Rossetti,2020,0,Machine Translation
+10.1007/s10590-008-9045-2,Bilingual LSA-based adaptation for statistical machine translation,"Yik-Cheung Tam, Ian Lane, Tanja Schultz",2007,9,Machine Translation
+10.1007/s10590-014-9166-8,Introduction to special issue on post-editing,"Sharon O’Brien, Michel Simard",2014,6,Machine Translation
+10.1007/s10590-015-9176-1,Survey of data-selection methods in statistical machine translation,"Sauleh Eetemadi, William Lewis, Kristina Toutanova, Hayder Radha",2015,8,Machine Translation
+10.1007/s10590-021-09278-w,Computer-assisted sign language translation: a study of translators’ practice to specify CAT software,"Marion Kaczmarek, Michael Filhol",2021,0,Machine Translation
+10.1007/s10590-006-9001-y,An NLP Lexicon as a Largely Language-Independent Resource,"Marjorie McShane, Sergei Nirenburg, Stephen Beale",2005,11,Machine Translation
+10.1007/s10590-019-09230-z,Interactive adaptive SMT versus interactive adaptive NMT: a user experience evaluation,"Joke Daems, Lieve Macken",2019,9,Machine Translation
+10.1007/s10590-008-9046-1,Regression for machine translation evaluation at the sentence level,"Joshua S. Albrecht, Rebecca Hwa",2008,7,Machine Translation
+10.1007/s10590-013-9141-9,Quality estimation for machine translation: some lessons learned,"Guillaume Wisniewski, Anil Kumar Singh, François Yvon",2013,4,Machine Translation
+10.1007/s10590-010-9077-2,Machine translation evaluation versus quality estimation,"Lucia Specia, Dhwaj Raj, Marco Turchi",2010,35,Machine Translation
+10.1007/s10590-011-9090-0,Apertium: a free/open-source platform for rule-based machine translation,"Mikel L. Forcada, Mireia Ginestí-Rosell, Jacob Nordfalk, Jim O’Regan, Sergio Ortiz-Rojas, Juan Antonio Pérez-Ortiz, Felipe Sánchez-Martínez, Gema Ramírez-Sánchez, Francis M. Tyers",2011,84,Machine Translation
+10.1007/s10590-016-9188-5,How do measures of cognitive effort relate to each other? A multivariate analysis of post-editing process data,Lucas Nunes Vieira,2016,10,Machine Translation
+10.1007/s10590-020-09255-9,Neural machine translation with a polysynthetic low resource language,"John E. Ortega, Richard Castro Mamani, Kyunghyun Cho",2020,10,Machine Translation
+10.1007/s10590-011-9096-7,Towards predicting post-editing productivity,Sharon O’Brien,2011,39,Machine Translation
+10.1007/s10590-010-9079-0,A kernel regression framework for SMT,"Zhuoran Wang, John Shawe-Taylor",2010,2,Machine Translation
+10.1007/s10590-010-9080-7,Monte Carlo techniques for phrase-based translation,"Abhishek Arun, Barry Haddow, Philipp Koehn, Adam Lopez, Chris Dyer, Phil Blunsom",2010,2,Machine Translation
+10.1007/s10590-015-9177-0,Labeling hierarchical phrase-based models without linguistic resources,"Gideon Maillette de Buy Wenniger, Khalil Sima’an",2015,2,Machine Translation
+10.1007/s10590-011-9114-9,Parallel sentence generation from comparable corpora for improved SMT,"Sadaf Abdul Rauf, Holger Schwenk",2011,20,Machine Translation
+10.1007/s10590-021-09262-4,Context based machine translation with recurrent neural network for English–Amharic translation,"Yeabsira Asefa Ashengo, Rosa Tsegaye Aga, Surafel Lemma Abebe",2021,5,Machine Translation
+10.1007/s10590-014-9161-0,Improving MT post-editing productivity with adaptive confidence estimation for document-specific translation model,"Fei Huang, Jian-Ming Xu, Abraham Ittycheriah, Salim Roukos",2014,0,Machine Translation
+10.1007/s10590-007-9020-3,"Uwe Reinke, Translation Memories. Systeme – Konzepte – Linguistische Optimierung",Dorothy Kenny,2006,0,Machine Translation
+10.1007/s10590-009-9067-4,"Yorick Wilks, Machine Translation: Its Scope and Limits",Sara Morrissey,2009,0,Machine Translation
+10.1007/s10590-017-9190-6,"Shay Cohen: Bayesian analysis in natural language processing. Morgan and Claypool, San Rafael, California, 2016, xxvii + 246 pp, ISBN 9781627058735",Germán Sanchis-Trilles,2017,0,Machine Translation
+10.1007/s10590-011-9121-x,Mona Baker and Gabriela Saldanha (eds.): Routledge Encyclopedia of Translation Studies,Dimitra Anastasiou,2012,1,Machine Translation
+10.1007/s10590-012-9127-z,Keiran J. Dunne and Elena S. Dunne (eds.): Translation and localization project management: the art of the possible,Aram Morera Mesa,2013,0,Machine Translation
+10.1007/s10590-011-9118-5,Special issue on Machine Translation for Arabic: Preface,"Nizar Habash, Hany Hassan",2012,1,Machine Translation
+10.1007/s10590-013-9142-8,Weakly supervised approaches for quality estimation,"Erwan Moreau, Carl Vogel",2013,1,Machine Translation
+10.1007/s10590-012-9126-0,Generalizing sampling-based multilingual alignment,"Adrien Lardilleux, François Yvon, Yves Lepage",2013,2,Machine Translation
+10.1007/s10590-011-9105-x,Evaluation of 2-way Iraqi Arabic–English speech translation systems using automated metrics,"Sherri Condon, Mark Arehart, Dan Parvaz, Gregory Sanders, Christy Doran, John Aberdeen",2012,4,Machine Translation
+10.1007/s10590-008-9032-7,A method of creating new valency entries,"Sanae Fujita, Francis Bond",2007,2,Machine Translation
+10.1007/s10590-017-9208-0,Combining rule-based and statistical mechanisms for low-resource named entity recognition,"Ryan Gabbard, Jay DeYoung, Constantine Lignos, Marjorie Freedman, Ralph Weischedel",2018,7,Machine Translation
+10.1007/s10590-008-9047-0,Simultaneous translation of lectures and speeches,"Christian Fügen, Alex Waibel, Muntsin Kolss",2007,18,Machine Translation
+10.1007/s10590-019-09228-7,"A product and process analysis of post-editor corrections on neural, statistical and rule-based machine translation output","Maarit Koponen, Leena Salmi, Markku Nikulin",2019,12,Machine Translation
+10.1007/s10590-015-9171-6,Deyi Xiong and Min Zhang: Linguistically motivated statistical machine translation: models and algorithms,Vincent Vandeghinste,2015,0,Machine Translation
+10.1007/s10590-014-9154-z,Online discriminative learning for machine translation with binary-valued feedback,"Avneesh Saluja, Ying Zhang",2014,0,Machine Translation
+10.1007/s10590-010-9070-9,Eye tracking as an MT evaluation technique,"Stephen Doherty, Sharon O’Brien, Michael Carl",2010,57,Machine Translation
+10.1007/s10590-020-09252-y,A review of the state-of-the-art in automatic post-editing,"Félix do Carmo, Dimitar Shterionov, Joss Moorkens, Joachim Wagner, Murhaf Hossari, Eric Paquin, Dag Schmidtke, Declan Groves, Andy Way",2021,6,Machine Translation
+10.1007/s10590-007-9025-y,"Emanuela Cresti and Massimo Moneglia (Eds.), C-ORAL-ROM. Integrated Reference Corpora for Spoken Romance Languages",Thomas Koller,2006,0,Machine Translation
+10.1007/s10590-017-9205-3,The ARIEL-CMU situation frame detection pipeline for LoReHLT16: a model translation approach,"Patrick Littell, Tian Tian, Ruochen Xu, Zaid Sheikh, David Mortensen, Lori Levin, Francis Tyers, Hiroaki Hayashi, Graham Horwood, Steve Sloto, Emily Tagtow, Alan Black, Yiming Yang, Teruko Mitamura, Eduard Hovy",2018,0,Machine Translation
+10.1007/s10590-006-9003-9,Example-based machine translation: a review and commentary,John Hutchins,2007,14,Machine Translation
+10.1007/s10590-014-9159-7,Online adaptation to post-edits for phrase-based statistical machine translation,"Nicola Bertoldi, Patrick Simianer, Mauro Cettolo, Katharina Wäschle, Marcello Federico, Stefan Riezler",2014,5,Machine Translation
+10.1007/s10590-006-9008-4,Dependency treelet translation: the convergence of statistical and example-based machine-translation?,"Christopher Quirk, Arul Menezes",2007,8,Machine Translation
+10.1007/s10590-006-9007-5,"Hristo Georgiev: English Algorithmic Grammar. London/New York: Continuum, 2006. viii + 256 pp",Tracy Holloway King,2007,0,Machine Translation
+10.1007/s10590-017-9211-5,Illinois CCG LoReHLT 2016 named entity recognition and situation frame systems,"Chen-Tse Tsai, Stephen Mayhew, Yangqiu Song, Mark Sammons, Dan Roth",2018,0,Machine Translation
+10.1007/s10590-018-9218-6,Automatic quality estimation for speech translation using joint ASR and MT features,"Ngoc-Tien Le, Benjamin Lecouteux, Laurent Besacier",2018,2,Machine Translation
+10.1007/s10590-021-09272-2,Natural synthesis of productive forms from structured descriptions of sign language,"John McDonald, Michael Filhol",2021,1,Machine Translation
+10.1007/s10590-007-9022-1,Improving phrase-based statistical machine translation with morphosyntactic transformation,"Thai Phuong Nguyen, Akira Shimazu",2007,3,Machine Translation
+10.1007/s10590-020-09253-x,Transfer learning and subword sampling for asymmetric-resource one-to-many neural translation,"Stig-Arne Grönroos, Sami Virpioja, Mikko Kurimo",2020,2,Machine Translation
+10.1007/s10590-016-9180-0,Improving translation memory matching and retrieval using paraphrases,"Rohit Gupta, Constantin Orăsan, Marcos Zampieri, Mihaela Vela, Josef van Genabith, Ruslan Mitkov",2016,4,Machine Translation
+10.1007/s10590-015-9170-7,Pushpak Bhattacharyya: Machine translation,Annette Hautli-Janisz,2015,3,Machine Translation
+10.1007/s10590-014-9163-y,Automatic machine translation error identification,"Débora Beatriz de Jesus Martins, Helena de Medeiros Caseli",2015,8,Machine Translation
+10.1007/s10590-008-9038-1,Evaluating machine translation with LFG dependencies,"Karolina Owczarzak, Josef van Genabith, Andy Way",2007,14,Machine Translation
+10.1007/s10590-021-09269-x,Towards enhanced visual clarity of sign language avatars through recreation of fine facial detail,Ronan Johnson,2021,2,Machine Translation
+10.1007/s10590-015-9169-0,A linguistically motivated taxonomy for Machine Translation error analysis,"Ângela Costa, Wang Ling, Tiago Luís, Rui Correia, Luísa Coheur",2015,8,Machine Translation
+10.1007/s10590-011-9103-z,Machine translation between Hebrew and Arabic,"Reshef Shilon, Nizar Habash, Alon Lavie, Shuly Wintner",2012,5,Machine Translation
+10.1007/s10590-011-9101-1,The impact of Arabic morphological segmentation on broad-coverage English-to-Arabic statistical machine translation,"Hassan Al-Haj, Alon Lavie",2012,6,Machine Translation
+10.1007/s10590-011-9089-6,TransSearch: from a bilingual concordancer to a translation finder,"Julien Bourdaillet, Stéphane Huet, Philippe Langlais, Guy Lapalme",2010,10,Machine Translation
+10.1007/s10590-015-9175-2,Correlations of perceived post-editing effort with measurements of actual effort,"Joss Moorkens, Sharon O’Brien, Igor A. L. da Silva, Norma B. de Lima Fonseca, Fabio Alves",2015,29,Machine Translation
+10.1007/s10590-007-9028-8,"Nadja Nesselhauf, Collocations in a Learner Corpus",Joachim Wagner,2006,1,Machine Translation
+10.1007/s10590-017-9192-4,Word from the editors,"Constantin Orăsan, Marcello Federico",2016,0,Machine Translation
+10.1007/s10590-021-09264-2,Semantic and syntactic information for neural machine translation,"Jordi Armengol-Estapé, Marta R. Costa-jussà",2021,2,Machine Translation
+10.1007/s10590-010-9083-4,"Philipp Koehn, Statistical machine translation","Felipe Sánchez-Martínez, Juan Antonio Pérez-Ortiz",2010,1,Machine Translation
+10.1007/s10590-009-9052-y,"Sylviane Cardey, Peter Greenfield, Séverine Vienney (eds): Machine Translation, Controlled Languages and Specialised Languages","Iñaki Alegria, Kepa Sarasola",2008,0,Machine Translation
+10.1007/s10590-011-9097-6,GREAT: open source software for statistical machine translation,"Jorge González, Francisco Casacuberta",2011,1,Machine Translation
+10.1007/s10590-016-9187-6,Combining translation memories and statistical machine translation using sparse features,"Liangyou Li, Carla Parra Escartín, Andy Way, Qun Liu",2016,2,Machine Translation
+10.1007/s10590-009-9057-6,Expected dependency pair match: predicting translation quality with expected syntactic structure,"Jeremy G. Kahn, Matthew Snover, Mari Ostendorf",2009,3,Machine Translation
+10.1007/s10590-007-9019-9,"Mark Johnson, Sanjeev P. Khudanpur, Mari Ostendorf and Roni Rosenfeld (eds) Mathematical Foundations of Speech and Language Processing",Marcello Federico,2007,1,Machine Translation
+10.1007/s10590-006-9012-8,A system-theoretical view of EBMT,Michael Carl,2007,2,Machine Translation
+10.1007/s10590-020-09245-x,Roy Youdale: Using computers in the translation of literary style: challenges and opportunities,James Hadley,2020,0,Machine Translation
+10.1007/s10590-016-9178-7,Learning local word reorderings for hierarchical phrase-based statistical machine translation,"Jingyi Zhang, Masao Utiyama, Eiichro Sumita, Hai Zhao, Graham Neubig, Satoshi Nakamura",2016,2,Machine Translation
+10.1007/s10590-006-9011-9,Introduction to special issue on example-based machine translation,"Michael Carl, Andy Way",2007,1,Machine Translation
+10.1007/s10590-005-8804-6,Contents of Volume 17,,2004,0,Machine Translation
+10.1007/s10590-008-9035-4,"Ruslan Mitkov, Anaphora Resolution",Keh-Yih Su,2007,0,Machine Translation
+10.1007/s10590-008-9039-0,Capturing practical natural language transformations,Kevin Knight,2007,8,Machine Translation
+10.1007/s10590-014-9147-y,Peter Spyns and Jan Odijk (eds): Essential speech and language technology for Dutch: results by the STEVIN programme,Antal van den Bosch,2014,1,Machine Translation
+10.1007/s10590-019-09239-4,"Ruslan Mitkov, Johanna Monti, Gloria Corpas Pastor, and Violeta Seretan (eds): Multiword units in machine translation and translation technology","Rejwanul Haque, Mohammed Hasanuzzaman, Andy Way",2019,2,Machine Translation
+10.1007/s10590-006-9002-x,The Language Translation Interface: A Perspective from the Users,Dominique Estival,2005,3,Machine Translation
+10.1007/s10590-009-9063-8,Edit distances with block movements and error rate confidence estimates,"Gregor Leusch, Hermann Ney",2009,2,Machine Translation
+10.1007/s10590-021-09285-x,Enhanced encoder for non-autoregressive machine translation,"Shuheng Wang, Shumin Shi, Heyan Huang",2021,0,Machine Translation
+10.1007/s10590-009-9068-3,Automatically generated parallel treebanks and their exploitability in machine translation,"John Tinsley, Andy Way",2009,3,Machine Translation
+10.1007/s10590-005-8803-7,Author Index,,2004,2,Machine Translation
+10.1007/s10590-011-9117-6,Nitin Indurkhya and Fred J. Damerau (eds): Handbook of Natural Language Processing (second edition),Sandipan Dandapat,2011,2,Machine Translation
+10.1007/s10590-018-9217-7,An end-to-end model for cross-lingual transformation of paralinguistic information,"Takatomo Kano, Shinnosuke Takamichi, Sakriani Sakti, Graham Neubig, Tomoki Toda, Satoshi Nakamura",2018,1,Machine Translation
+10.1007/s10590-011-9104-y,Chunk-lattices for verb reordering in Arabic–English statistical machine translation,"Arianna Bisazza, Daniele Pighin, Marcello Federico",2012,3,Machine Translation
+10.1007/s10590-007-9021-2,"Chiew Kin Quah, Translation and Technology",Dorothy Kenny,2006,0,Machine Translation
+10.1007/s10590-014-9149-9,Emily M. Bender: Linguistic fundamentals for natural language processing: 100 essentials from morphology and syntax,Francis Morton Tyers,2014,0,Machine Translation
+10.1007/s10590-013-9139-3,Dimensionality reduction methods for machine translation quality estimation,"Jesús González-Rubio, J. Ramón Navarro-Cerdán, Francisco Casacuberta",2013,6,Machine Translation
+10.1007/s10590-009-9066-5,Metrics for MT evaluation: evaluating reordering,"Alexandra Birch, Miles Osborne, Phil Blunsom",2010,9,Machine Translation
+10.1007/s10590-017-9201-7,A system for terminology extraction and translation equivalent detection in real time,Antoni Oliver,2017,4,Machine Translation
+10.1007/s10590-012-9135-z,Kirsten Malmkjær and Kevin Windle (eds.): The Oxford handbook of translation studies,Lucia Specia,2013,0,Machine Translation
+10.1007/s10590-020-09258-6,Extremely low-resource neural machine translation for Asian languages,"Raphael Rubino, Benjamin Marie, Raj Dabre, Atushi Fujita, Masao Utiyama, Eiichiro Sumita",2020,3,Machine Translation
+10.1007/s10590-010-9069-2,"Review of Cyril Goutte, Nicola Cancedda, Marc Dymetman, and George Foster (eds): Learning machine translation",Philipp Koehn,2009,0,Machine Translation
+10.1007/s10590-020-09250-0,Multimodal machine translation through visuals and speech,"Umut Sulubacak, Ozan Caglayan, Stig-Arne Grönroos, Aku Rouhe, Desmond Elliott, Lucia Specia, Jörg Tiedemann",2020,11,Machine Translation
+10.1007/s10590-010-9082-5,Factored bilingual n-gram language models for statistical machine translation,"Josep M. Crego, François Yvon",2010,2,Machine Translation
+10.1007/s10590-019-09238-5,Towards an open platform for machine translation of spoken languages into sign languages,"Rostand E. O. Costa, Tiago M. U. de Araújo, Manuella A. C. B. Lima, Vinícius M. Veríssimo, Renan S. de Andrade, Suanny F. Vieira, Alexandre Santos, Guido L. Souza Filho, Marília K. Soares, Vitor Hanael",2019,4,Machine Translation
+10.1007/s10590-019-09227-8,Multi-modal indicators for estimating perceived cognitive load in post-editing of machine translation,"Nico Herbig, Santanu Pal, Mihaela Vela, Antonio Krüger, Josef van Genabith",2019,9,Machine Translation
+10.1007/s10590-007-9024-z,Improving statistical MT by coupling reordering and decoding,"Josep Maria Crego, José B. Mariño",2007,17,Machine Translation
+10.1007/s10590-014-9165-9,Quality estimation-guided supplementary data selection for domain adaptation of statistical machine translation,"Pratyush Banerjee, Raphael Rubino, Johann Roturier, Josef van Genabith",2015,1,Machine Translation
+10.1007/s10590-021-09282-0,Dual contextual module for neural machine translation,"Isaac Kojo Essel Ampomah, Sally McClean, Glenn Hawe",2021,1,Machine Translation
+10.1007/s10590-011-9100-2,Integrating source-language context into phrase-based statistical machine translation,"Rejwanul Haque, Sudip Kumar Naskar, Antal van den Bosch, Andy Way",2011,7,Machine Translation
+10.1007/s10590-009-9065-6,"The NIST 2008 Metrics for machine translation challenge—overview, methodology, metrics, and results","Mark Przybocki, Kay Peterson, Sébastien Bronsart, Gregory Sanders",2009,13,Machine Translation
+10.1007/s10590-012-9133-1,Manual labour: tackling machine translation for sign languages,"Sara Morrissey, Andy Way",2013,17,Machine Translation
+10.1007/s10590-016-9185-8,Self-selection bias of similarity metrics in translation memory evaluation,"Friedel Wolff, Laurette Pretorius, Loïc Dugast, Paul Buitelaar",2016,1,Machine Translation
+10.1007/s10590-012-9125-1,"Analysis, preparation, and optimization of statistical sign language machine translation","Daniel Stein, Christoph Schmidt, Hermann Ney",2012,14,Machine Translation
+10.1007/s10590-018-9221-y,Evaluating MT for massive open online courses,"Sheila Castilho, Joss Moorkens, Federico Gaspari, Rico Sennrich, Andy Way, Panayota Georgakopoulou",2018,10,Machine Translation
+10.1007/s10590-018-9222-x,Editors’ foreword to the invited issue on SMT and NMT,"Andy Way, Mikel L. Forcada",2018,3,Machine Translation
+10.1007/s10590-019-09243-8,Optimizing segmentation granularity for neural machine translation,"Elizabeth Salesky, Andrew Runge, Alex Coda, Jan Niehues, Graham Neubig",2020,4,Machine Translation
+10.1007/s10590-009-9062-9,"TER-Plus: paraphrase, semantic, and alignment enhancements to Translation Edit Rate","Matthew G. Snover, Nitin Madnani, Bonnie Dorr, Richard Schwartz",2009,38,Machine Translation
+10.1007/s10590-021-09284-y,Tag-less back-translation,"Idris Abdulmumin, Bashir Shehu Galadanci, Garba Aliyu",2021,0,Machine Translation
+10.1007/s10590-006-9014-6,Inducing translation templates with type constraints,Ilyas Cicekli,2007,2,Machine Translation
+10.1007/s10590-021-09263-3,Experience of neural machine translation between Indian languages,"Shubham Dewangan, Shreya Alva, Nitish Joshi, Pushpak Bhattacharyya",2021,4,Machine Translation
+10.1007/s10590-017-9212-4,Overview of the DARPA LORELEI Program,"Caitlin Christianson, Jason Duncan, Boyan Onyshkevych",2018,5,Machine Translation
+10.1007/s10590-008-9033-6,Power shifts in web-based translation memory,Ignacio Garcia,2007,11,Machine Translation
