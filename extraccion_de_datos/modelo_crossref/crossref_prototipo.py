@@ -48,7 +48,6 @@ def journalExist(issn: str, journal: str) -> bool:
         [WARNING] La revista Nonexistent Journal no existe.
         False
     """
-        
     # Especifica los parámetros de búsqueda de la API de Crossref
     url = f"https://api.crossref.org/journals/{issn}"
     
@@ -68,6 +67,12 @@ def journalExist(issn: str, journal: str) -> bool:
     else:
         logger.error(f'Error para "{journal}" al realizar la solicitud: {response.status_code}')
         
+# def getReferences(doi: str) -> None|int:
+#     response = requests.get(f'http://api.crossref.org/works/{doi}')
+#     if response.ok:
+#         pass
+#     else:
+#         return None
         
 def getArticles(issn: str, year_i: str, year_f: str) -> list[dict[str, str]]:
     """
@@ -99,12 +104,17 @@ def getArticles(issn: str, year_i: str, year_f: str) -> list[dict[str, str]]:
                 article = {
                     "DOI": item.get('DOI', ''),
                     "Título": formatData(item.get('title', ['n.m.'])[0]),
-                    "Autores": formatData(', '.join(author.get('given', 'n.m.') + ' ' + author.get('family', 'n.m.') for author in item.get('author', []))),
-                    "Año": item.get('published-print', {}).get('date-parts', [["n.m."]])[0][0],
+                    "Autores": formatData(' and '.join(author.get('given', 'n.m.') + ' ' + author.get('family', 'n.m.') for author in item.get('author', []))),
+                    "Año": item.get('published-print', {}).get('date-parts', item.get('created', {}).get('date-parts',[['n.m.']]))[0][0],
                     "Citas": item.get('is-referenced-by-count', 0),
                     "Revista": item.get('container-title', ["n.m."])[0]
                 }
                 articles.append(article)
+                # Llamamos a la función que extrae las referencias o citas del artículo
+                # citas_jcr = getReferences(article.get('DOI', ''))
+                # if citas_jcr != None:
+                #     article["Citas"] = citas_jcr
+                
             if data['message']['total-results'] - len(articles) == 0:
                 cursor = ''
             else:
@@ -130,7 +140,7 @@ def formatData(data: str) -> str:
     # Eliminamos espacios en blanco y las retornos de línea
     format_data = re.sub('\s\s*', ' ', format_data.strip()).replace('\n', '').replace('\r', '')
     # Eliminamos las comas seguidas (campos vacíos)
-    format_data = format_data.replace(',,', ',n.m.,')
+    format_data = re.sub(',,', ',n.m.,', format_data.strip())
     
     return format_data
 
@@ -216,7 +226,7 @@ def main(year_i:str, year_f:str, csv_name: str) -> int:
             # Transformamos los datos a CSV
             # NOTA: en un futuro irá directamente a la BBDD
             df = pd.DataFrame(data)
-            df.to_csv('resultados_'+ issn +'.csv', index=False, encoding='utf-8')
+            df.to_csv('resultados/resultados_'+ issn +'.csv', index=False, encoding='utf-8')
 
             # Comprobamos el tiempo que tarda -> FIN
             final_time = datetime.datetime.now()
@@ -230,8 +240,7 @@ def main(year_i:str, year_f:str, csv_name: str) -> int:
    
 
 if __name__ == '__main__':
-    main()
-    
+    main("2000", "2023", r'JCR_JournalResults_01_2023_ComputerScience_AI.csv')
    
     
 

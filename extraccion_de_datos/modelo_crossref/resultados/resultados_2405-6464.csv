@@ -1,206 +1,206 @@
 DOI,Título,Autores,Año,Citas,Revista
 10.3233/web-160333,Predicting political conflicts from polarized social media,Masoud Makrehchi,2016,0,Web Intelligence
-10.3233/web-150326,Learning and relearning of target decision strategies in continuous coordinated cleaning tasks with shallow coordination1,"Keisuke Yoneda, Ayumi Sugiyama, Chihiro Kato, Toshiharu Sugawara",2015,8,Web Intelligence
-10.3233/web-210478,Conflict detection in Task Heterogeneous Information Networks,"Zhonghui Hu, Rui Zhang, Xichang Li, Zhipei Yu, Xiaojie Li, Wenfeng Zhao, Xudong Zhang, Lin Li",2022,0,Web Intelligence
-10.3233/web-170361,Impact of social influence on trust management within communities of agents,"Reda Yaich, Olivier Boissier, Gauthier Picard, Philippe Jaillon",2017,1,Web Intelligence
-10.3233/web-170367,Using online data sources to make query suggestions for children,"Maria Soledad Pera, Yiu-Kai Ng",2017,0,Web Intelligence
-10.3233/web-170359,"Virtual communities, a typology","Pierre Maret, Rajendra Akerkar, Laurent Vercouter",2017,0,Web Intelligence
-10.3233/web-210452,A hybrid threat model for system-centric and attack-centric for effective security design in SDLC,"Ganesh Viswanathan, Prabhu J",2021,0,Web Intelligence
+10.3233/web-170361,Impact of social influence on trust management within communities of agents,Reda Yaich and Olivier Boissier and Gauthier Picard and Philippe Jaillon,2017,1,Web Intelligence
+10.3233/web-170367,Using online data sources to make query suggestions for children,Maria Soledad Pera and Yiu-Kai Ng,2017,0,Web Intelligence
+10.3233/web-170359,"Virtual communities, a typology",Pierre Maret and Rajendra Akerkar and Laurent Vercouter,2017,0,Web Intelligence
+10.3233/web-210452,A hybrid threat model for system-centric and attack-centric for effective security design in SDLC,Ganesh Viswanathan and Prabhu J,2021,0,Web Intelligence
 10.3233/web-200435,Research on distributed data stream mining algorithms based on matrix weighted association rules,Dong Xu,2020,1,Web Intelligence
-10.3233/web-150305,Preface,"Yue Xu, Gabriella Pasi",2015,0,Web Intelligence
+10.3233/web-150305,Preface,Yue Xu and Gabriella Pasi,2015,0,Web Intelligence
 10.3233/web-210463,Research on complex attribute big data classification based on iterative fuzzy clustering algorithm,Li Qian,2021,0,Web Intelligence
-10.3233/web-150325,Multi-mode Natural Language Processing for human-robot interaction,"Jiongkun Xie, Xiaoping Chen, Jianmin Ji",2015,2,Web Intelligence
-10.3233/web-210479,MLIM: A CTR prediction model describing evolution law of user interest,"Zilong Jiang, Wei Deng, Wei Dai",2022,0,Web Intelligence
-10.3233/web-200432,Fault-tolerant technology for big data cluster in distributed flow processing system,Zhicheng Jia,2020,2,Web Intelligence
-10.3233/web-170351,Discovery of dependency relations in sequential data flow,"Abdulelah Aldahami, Yuefeng Li, Taizan Chan",2017,0,Web Intelligence
-10.3233/web-180380,Special issue: Mobile web data analytics (part I),"Zili Zhang, Li Liu, Li Li, Xiangliang Zhang",2018,0,Web Intelligence
-10.3233/web-160335,Accurate and efficient query clustering via top ranked search results,"Yuan Hong, Jaideep Vaidya, Haibing Lu, Wen Ming Liu",2016,3,Web Intelligence
-10.3233/web-220019,The mobile edge computing task offloading in wireless networks based on improved genetic algorithm,"Zhanlei Shang, Chenxu Zhao",2022,0,Web Intelligence
-10.3233/web-180392,Special issue: Trust management,"Babak Esfandiari, Jan-Philipp Steghöfer",2018,0,Web Intelligence
-10.3233/web-180384,Recognizing diseases from physiological time series data,"Danni Wang, Lin Zhou, Li Liu",2018,0,Web Intelligence
-10.3233/web-170362,Tracking millions of query intents with StarrySky and its applications,"Qi Ye, Feng Wang, Bo Li, Zhimin Liu, Gang Li",2017,0,Web Intelligence
-10.3233/web-150317,Review mining for estimating users’ ratings and weights for product aspects,"Feng Wang, Li Chen",2015,4,Web Intelligence
-10.3233/web-160339,Uncertainty reasoning for smart homes: An ontological decision network based approach,"Abdul-Wahid Mohammed, Yang Xu, Ming Liu, Brighter Agyemang",2016,2,Web Intelligence
-10.3233/web-160338,Query aspects approach to web search,"Daniel Crabtree, Xiaoying Gao, Peter Andreae",2016,0,Web Intelligence
+10.3233/web-150325,Multi-mode Natural Language Processing for human-robot interaction,Jiongkun Xie and Xiaoping Chen and Jianmin Ji,2015,2,Web Intelligence
+10.3233/web-210479,MLIM: A CTR prediction model describing evolution law of user interest,Zilong Jiang and Wei Deng and Wei Dai,2022,0,Web Intelligence
+10.3233/web-170351,Discovery of dependency relations in sequential data flow,Abdulelah Aldahami and Yuefeng Li and Taizan Chan,2017,0,Web Intelligence
+10.3233/web-180380,Special issue: Mobile web data analytics (part I),Zili Zhang and Li Liu and Li Li and Xiangliang Zhang,2018,0,Web Intelligence
+10.3233/web-160335,Accurate and efficient query clustering via top ranked search results,Yuan Hong and Jaideep Vaidya and Haibing Lu and Wen Ming Liu,2016,3,Web Intelligence
+10.3233/web-220019,The mobile edge computing task offloading in wireless networks based on improved genetic algorithm,Zhanlei Shang and Chenxu Zhao,2022,0,Web Intelligence
+10.3233/web-220081,An efficient load balancing technique using CAViaR-HHO enabled VM migration and replica management in cloud computing,Shelly Shiju George and R. Suji Pramila,2023,0,Web Intelligence
+10.3233/web-180392,Special issue: Trust management,Babak Esfandiari and Jan-Philipp Steghöfer,2018,0,Web Intelligence
+10.3233/web-180384,Recognizing diseases from physiological time series data,Danni Wang and Lin Zhou and Li Liu,2018,0,Web Intelligence
+10.3233/web-150326,Learning and relearning of target decision strategies in continuous coordinated cleaning tasks with shallow coordination1,Keisuke Yoneda and Ayumi Sugiyama and Chihiro Kato and Toshiharu Sugawara,2015,8,Web Intelligence
+10.3233/web-170362,Tracking millions of query intents with StarrySky and its applications,Qi Ye and Feng Wang and Bo Li and Zhimin Liu and Gang Li,2017,0,Web Intelligence
+10.3233/web-150317,Review mining for estimating users’ ratings and weights for product aspects,Feng Wang and Li Chen,2015,4,Web Intelligence
+10.3233/web-160339,Uncertainty reasoning for smart homes: An ontological decision network based approach,Abdul-Wahid Mohammed and Yang Xu and Ming Liu and Brighter Agyemang,2016,2,Web Intelligence
+10.3233/web-160338,Query aspects approach to web search,Daniel Crabtree and Xiaoying Gao and Peter Andreae,2016,0,Web Intelligence
 10.3233/web-190402,The universal theory of passionarity,Alexander V. Sosnitsky,2019,3,Web Intelligence
-10.3233/web-210464,Research on information classification and storage in cloud computing data center based on group collaboration intelligent clustering,"Linlin Zhang, Sujuan Zhang",2021,0,Web Intelligence
+10.3233/web-210464,Research on information classification and storage in cloud computing data center based on group collaboration intelligent clustering,Linlin Zhang and Sujuan Zhang,2021,0,Web Intelligence
 10.3233/web-210470,A secure encryption method of communication channel based on cloud computing technology,Weiwei Wu,2021,0,Web Intelligence
 10.3233/web-210472,Research on dynamic and secure storage of financial data based on cloud platform,Jingyi Li,2022,1,Web Intelligence
-10.3233/web-210483,Secure retrieval method of network space data based on block chain technology,"Yaping Gao, Huimin Wang",2022,0,Web Intelligence
-10.3233/web-210489,Financial risk evaluation method of blockchain digital currency based on CART algorithm,"Xiuling Fan, Haiyang Lv",2022,0,Web Intelligence
-10.3233/web-210484,Intelligent retrieval method of library document information based on hidden topic mining,"Yujie An, Yuwei Yan",2022,0,Web Intelligence
-10.3233/web-180372,Mining heterogeneous terrorist attack network using personalized PageRank,"Akash Anil, Sanasam Ranbir Singh, Ranjan Sarmah",2018,1,Web Intelligence
-10.3233/web-220046,Aquila optimized feedback artificial tree for detection of fake news and impact identification,"B. Venkateswarlu, V. Viswanath Shenoi, Praveen Tumuluru",2022,0,Web Intelligence
-10.3233/web-150308,Assisting web document retrieval with topic identification in tourism domain,"Rajendra Prasath, Vijai Kumar, Sudeshna Sarkar",2015,4,Web Intelligence
-10.3233/web-210448,Active learning strategies for solving the cold user problem in model-based recommender systems,"Tomas Geurts, Stelios Giannikis, Flavius Frasincar",2021,1,Web Intelligence
-10.3233/web-190413,Detecting depression from Internet behaviors by time-frequency features,"Changye Zhu, Baobin Li, Ang Li, Tingshao Zhu",2019,5,Web Intelligence
-10.3233/web-150313,Gen-Meta: Generating metaphors by combining AI and corpus-based modeling,"Andrew Gargett, John Barnden",2015,3,Web Intelligence
-10.3233/web-200439,Knowledge discovery and management on online social networks and media,"Xiaohui Tao, Haoran Xie, Yongrui (Louie) Qin, Xujuan Zhou, Yi Cai",2020,1,Web Intelligence
-10.3233/web-150321,Modelling human emotion in interactive environments: Physiological ensemble and grounded approaches for synthetic agents,"Pedro A. Nogueira, Rui Rodrigues, Eugénio Oliveira, Lennart E. Nacke",2015,5,Web Intelligence
-10.3233/web-220036,A detection method of wormhole attack in power communication sensor networks based on hops,"Jie Yuan, Binyuan Yan",2022,0,Web Intelligence
-10.3233/web-210457,Understanding the link between audience engagement metrics and the perceived quality of online news using machine learning,"Catherine Sotirakou, Damian Trilling, Panagiotis Germanakos, Dimitrios Alexandros Sinis, Constantinos Mourlas",2021,0,Web Intelligence
-10.3233/web-220081,An efficient load balancing technique using CAViaR-HHO enabled VM migration and replica management in cloud computing,"Shelly Shiju George, R. Suji Pramila",2023,0,Web Intelligence
-10.3233/web-150312,Card-type tool to support divergent thinking for embodying benefits of inconvenience,"Yuichi Hasebe, Hiroshi Kawakami, Toshihiro Hiraoka, Kosuke Naito",2015,6,Web Intelligence
-10.3233/web-190401,"Tracking a leader’s humility and its emotions from body, face and voice","Francesca D’Errico, Isabella Poggi",2019,13,Web Intelligence
-10.3233/web-150310,Social media gerontology: Understanding social media usage among older adults,"C.J. Hutto, Caroline Bell, Sarah Farmer, Cara Fausset, Linda Harley, Julie Nguyen, Brad Fain",2015,57,Web Intelligence
-10.3233/web-170354,Research dataset discovery from research publications using web context,"Ayush Singhal, Jaideep Srivastava",2017,5,Web Intelligence
-10.3233/web-220021,Clustering method of unbalanced large data density based on dynamic grid,Yang Wang,2022,0,Web Intelligence
-10.3233/web-190422,Chatbots for online banking services,"Dana Doherty, Kevin Curran",2019,7,Web Intelligence
-10.3233/web-200431,Special issue on big data networking-challenges and applications,"Zhixiang Hou, Chong Shen",2020,0,Web Intelligence
-10.3233/web-170357,A survey of agent-oriented programming from software engineering perspective,"Xinjun Mao, Qiuzhen Wang, Sen Yang",2017,5,Web Intelligence
-10.3233/web-150323,Privacy preserving data release for tagging recommender systems,"Tianqing Zhu, Gang Li, Yongli Ren, Wanlei Zhou, Ping Xiong",2015,0,Web Intelligence
-10.3233/web-210476,A federated learning based semi-supervised credit prediction approach enhanced by multi-layer label mean,"Lin Li, Sijie Long, Jianxiu Bi, Guowei Wang, Jianwei Zhang, Xiaohui Tao",2022,1,Web Intelligence
-10.3233/web-210486,A power information security partition storage method based on multidimensional data mining,"Ling Li, Yan Fang",2022,0,Web Intelligence
-10.3233/web-190404,Special issue on big data for IoT cloud computing convergence,"Z.X. Hou, Y. Xiao",2019,0,Web Intelligence
-10.3233/web-190417,Website user content navigation behavior modeling using time series neural networks,"Esmaeel Rezaee, S. Alireza Hashemi Golpayegani",2019,0,Web Intelligence
+10.3233/web-210483,Secure retrieval method of network space data based on block chain technology,Yaping Gao and Huimin Wang,2022,0,Web Intelligence
+10.3233/web-210489,Financial risk evaluation method of blockchain digital currency based on CART algorithm,Xiuling Fan and Haiyang Lv,2022,0,Web Intelligence
+10.3233/web-210484,Intelligent retrieval method of library document information based on hidden topic mining,Yujie An and Yuwei Yan,2022,0,Web Intelligence
+10.3233/web-180372,Mining heterogeneous terrorist attack network using personalized PageRank,Akash Anil and Sanasam Ranbir Singh and Ranjan Sarmah,2018,1,Web Intelligence
+10.3233/web-220046,Aquila optimized feedback artificial tree for detection of fake news and impact identification,B. Venkateswarlu and V. Viswanath Shenoi and Praveen Tumuluru,2022,0,Web Intelligence
+10.3233/web-150308,Assisting web document retrieval with topic identification in tourism domain,Rajendra Prasath and Vijai Kumar and Sudeshna Sarkar,2015,4,Web Intelligence
+10.3233/web-210448,Active learning strategies for solving the cold user problem in model-based recommender systems,Tomas Geurts and Stelios Giannikis and Flavius Frasincar,2021,1,Web Intelligence
+10.3233/web-150321,Modelling human emotion in interactive environments: Physiological ensemble and grounded approaches for synthetic agents,Pedro A. Nogueira and Rui Rodrigues and Eugénio Oliveira and Lennart E. Nacke,2015,5,Web Intelligence
+10.3233/web-200439,Knowledge discovery and management on online social networks and media,Xiaohui Tao and Haoran Xie and Yongrui (Louie) Qin and Xujuan Zhou and Yi Cai,2020,1,Web Intelligence
+10.3233/web-150312,Card-type tool to support divergent thinking for embodying benefits of inconvenience,Yuichi Hasebe and Hiroshi Kawakami and Toshihiro Hiraoka and Kosuke Naito,2015,6,Web Intelligence
+10.3233/web-220036,A detection method of wormhole attack in power communication sensor networks based on hops,Jie Yuan and Binyuan Yan,2022,0,Web Intelligence
+10.3233/web-190413,Detecting depression from Internet behaviors by time-frequency features,Changye Zhu and Baobin Li and Ang Li and Tingshao Zhu,2019,5,Web Intelligence
+10.3233/web-210478,Conflict detection in Task Heterogeneous Information Networks,Zhonghui Hu and Rui Zhang and Xichang Li and Zhipei Yu and Xiaojie Li and Wenfeng Zhao and Xudong Zhang and Lin Li,2022,0,Web Intelligence
+10.3233/web-210457,Understanding the link between audience engagement metrics and the perceived quality of online news using machine learning,Catherine Sotirakou and Damian Trilling and Panagiotis Germanakos and Dimitrios Alexandros Sinis and Constantinos Mourlas,2021,0,Web Intelligence
+10.3233/web-200432,Fault-tolerant technology for big data cluster in distributed flow processing system,Zhicheng Jia,2020,2,Web Intelligence
+10.3233/web-190401,"Tracking a leader’s humility and its emotions from body, face and voice",Francesca D’Errico and Isabella Poggi,2019,13,Web Intelligence
+10.3233/web-150313,Gen-Meta: Generating metaphors by combining AI and corpus-based modeling,Andrew Gargett and John Barnden,2015,3,Web Intelligence
+10.3233/web-150310,Social media gerontology: Understanding social media usage among older adults,C.J. Hutto and Caroline Bell and Sarah Farmer and Cara Fausset and Linda Harley and Julie Nguyen and Brad Fain,2015,57,Web Intelligence
+10.3233/web-160344,Performance evaluation of Twitter datasets on SQL and NoSQL DBMS,Franklin Leung and Bing Zhou,2016,0,Web Intelligence
+10.3233/web-190417,Website user content navigation behavior modeling using time series neural networks,Esmaeel Rezaee and S. Alireza Hashemi Golpayegani,2019,0,Web Intelligence
+10.3233/web-200425,Real-time visualization to improve quality in computer mediated communication,Brian Thoms and Evren Eryilmaz and Nicole Dubin and Rafael Hernandez and Sara Colon-Cerezo,2020,1,Web Intelligence
+10.3233/web-170354,Research dataset discovery from research publications using web context,Ayush Singhal and Jaideep Srivastava,2017,5,Web Intelligence
+10.3233/web-200431,Special issue on big data networking-challenges and applications,Zhixiang Hou and Chong Shen,2020,0,Web Intelligence
+10.3233/web-150323,Privacy preserving data release for tagging recommender systems,Tianqing Zhu and Gang Li and Yongli Ren and Wanlei Zhou and Ping Xiong,2015,0,Web Intelligence
+10.3233/web-210449,Adversarial auto-encoder for rating prediction with ratings and reviews,Jin Yi and Jiajin Huang and Jin Qin,2021,0,Web Intelligence
+10.3233/web-190404,Special issue on big data for IoT cloud computing convergence,Z.X. Hou and Y. Xiao,2019,0,Web Intelligence
 10.3233/web-210469,An anti-tampering model of sensitive data in link network based on blockchain technology,Xianghong Li,2021,0,Web Intelligence
-10.3233/web-210473,Exponential Ant-Lion Rider Optimization for Privacy Preservation in Cloud Computing,"Nagaraju Pamarthi, N. Nagamalleswara Rao",2022,0,Web Intelligence
+10.3233/web-210454,Rider and Sunflower optimization-driven neural network for image classification,Hanumantha Rao Nadendla and A. Srikrishna and K. Gangadhara Rao,2021,0,Web Intelligence
+10.3233/web-160336,Bimodal traffic regulation system: A multi-agent approach,Flavien Balbo and Neïla Bhouri and Suzanne Pinson,2016,4,Web Intelligence
+10.3233/web-180385,Automatic domain terminology extraction and its evaluation for domain knowledge graph construction,Zhiwei Luo and Rong Xie and Wen Chen and Zetao Ye,2018,0,Web Intelligence
+10.3233/web-220021,Clustering method of unbalanced large data density based on dynamic grid,Yang Wang,2022,0,Web Intelligence
+10.3233/web-180381,Special issue: Mobile web data analytics (part II),Zili Zhang and Li Liu and Li Li and Xiangliang Zhang,2018,0,Web Intelligence
+10.3233/web-210473,Exponential Ant-Lion Rider Optimization for Privacy Preservation in Cloud Computing,Nagaraju Pamarthi and N. Nagamalleswara Rao,2022,0,Web Intelligence
 10.3233/web-210467,Integrity protection method for trusted data of IoT nodes based on transfer learning,Lin Tang,2021,0,Web Intelligence
-10.3233/web-150307,Semantic web based learning styles identification for social learning environments personalization,"Khaled Halimi, Hassina Seridi-Bouchelaghem",2015,8,Web Intelligence
-10.3233/web-160344,Performance evaluation of Twitter datasets on SQL and NoSQL DBMS,"Franklin Leung, Bing Zhou",2016,0,Web Intelligence
-10.3233/web-180375,Hot time periods discovery for facility proportioning in urban commercial districts using POIs and mobile phone data,"Rong Xie, Hongyi Zhang, Chao Gong",2018,2,Web Intelligence
-10.3233/web-200425,Real-time visualization to improve quality in computer mediated communication,"Brian Thoms, Evren Eryilmaz, Nicole Dubin, Rafael Hernandez, Sara Colon-Cerezo",2020,1,Web Intelligence
-10.3233/web-210449,Adversarial auto-encoder for rating prediction with ratings and reviews,"Jin Yi, Jiajin Huang, Jin Qin",2021,0,Web Intelligence
-10.3233/web-180385,Automatic domain terminology extraction and its evaluation for domain knowledge graph construction,"Zhiwei Luo, Rong Xie, Wen Chen, Zetao Ye",2018,0,Web Intelligence
-10.3233/web-180381,Special issue: Mobile web data analytics (part II),"Zili Zhang, Li Liu, Li Li, Xiangliang Zhang",2018,0,Web Intelligence
-10.3233/web-210454,Rider and Sunflower optimization-driven neural network for image classification,"Hanumantha Rao Nadendla, A. Srikrishna, K. Gangadhara Rao",2021,0,Web Intelligence
-10.3233/web-220004,A multi-agent approach for on-demand transportation problem in cities,"Anas Malas, Salah El Falou, Mohamad El Falou, Mohammad Hussein",2022,0,Web Intelligence
-10.3233/web-160328,An interaction-based approach to detecting highly interactive Twitter communities using tweeting links,"Kwan Hui Lim, Amitava Datta",2016,15,Web Intelligence
-10.3233/web-160336,Bimodal traffic regulation system: A multi-agent approach,"Flavien Balbo, Neïla Bhouri, Suzanne Pinson",2016,4,Web Intelligence
-10.3233/web-190397,Automating facial emotion recognition,"Osvaldo Gervasi, Valentina Franzoni, Matteo Riganelli, Sergio Tasso",2019,21,Web Intelligence
-10.3233/web-220016,Hybrid tree model for root cause analysis of wireless network fault localization,"Bin Chen, Li Yu, Weiyi Luo, Chizhong Wu, Manyu Li, Hai Tan, Jiajin Huang, Zhijiang Wan",2022,1,Web Intelligence
-10.3233/web-180391,Improvement of fusion algorithm using cascade method and implementation on proxy server for replacing negative content on a porn site,"Yosua Alvin Adi Soetrisno, Selo Sulistyo, Ridi Ferdiana, Teguh Bharata Adji",2018,1,Web Intelligence
-10.3233/web-160330,IR based Task-Model Learning: Automating the hierarchical structuring of tasks,"Yusuke Fukazawa, Mark Kröll, Markus Strohmaier, Jun Ota",2016,0,Web Intelligence
-10.3233/web-170366,Applying ontologies to the development and execution of Multi-Agent Systems,"Artur Freitas, Alison R. Panisson, Lucas Hilgert, Felipe Meneguzzi, Renata Vieira, Rafael H. Bordini",2017,6,Web Intelligence
-10.3233/web-170350,A modular architecture for intelligent agents in the evented web,"J. Fernando Sánchez-Rada, Carlos A. Iglesias, Miguel Coronado",2017,2,Web Intelligence
-10.3233/web-160343,Special issue on knowledge management of web social media,"Xiaohui Tao, Wei Huang, Xiangming Mu, Haoran Xie",2016,2,Web Intelligence
-10.3233/web-160341,Quality improvement by worker filtering and development in crowdsourcing,"Masayuki Ashikawa, Takahiro Kawamura, Akihiko Ohsuga",2016,0,Web Intelligence
+10.3233/web-180375,Hot time periods discovery for facility proportioning in urban commercial districts using POIs and mobile phone data,Rong Xie and Hongyi Zhang and Chao Gong,2018,2,Web Intelligence
+10.3233/web-170357,A survey of agent-oriented programming from software engineering perspective,Xinjun Mao and Qiuzhen Wang and Sen Yang,2017,5,Web Intelligence
+10.3233/web-220004,A multi-agent approach for on-demand transportation problem in cities,Anas Malas and Salah El Falou and Mohamad El Falou and Mohammad Hussein,2022,0,Web Intelligence
+10.3233/web-210486,A power information security partition storage method based on multidimensional data mining,Ling Li and Yan Fang,2022,0,Web Intelligence
+10.3233/web-160328,An interaction-based approach to detecting highly interactive Twitter communities using tweeting links,Kwan Hui Lim and Amitava Datta,2016,15,Web Intelligence
+10.3233/web-190397,Automating facial emotion recognition,Osvaldo Gervasi and Valentina Franzoni and Matteo Riganelli and Sergio Tasso,2019,21,Web Intelligence
+10.3233/web-190422,Chatbots for online banking services,Dana Doherty and Kevin Curran,2019,7,Web Intelligence
+10.3233/web-150307,Semantic web based learning styles identification for social learning environments personalization,Khaled Halimi and Hassina Seridi-Bouchelaghem,2015,8,Web Intelligence
+10.3233/web-220016,Hybrid tree model for root cause analysis of wireless network fault localization,Bin Chen and Li Yu and Weiyi Luo and Chizhong Wu and Manyu Li and Hai Tan and Jiajin Huang and Zhijiang Wan,2022,1,Web Intelligence
+10.3233/web-210476,A federated learning based semi-supervised credit prediction approach enhanced by multi-layer label mean,Lin Li and Sijie Long and Jianxiu Bi and Guowei Wang and Jianwei Zhang and Xiaohui Tao,2022,1,Web Intelligence
+10.3233/web-180391,Improvement of fusion algorithm using cascade method and implementation on proxy server for replacing negative content on a porn site,Yosua Alvin Adi Soetrisno and Selo Sulistyo and Ridi Ferdiana and Teguh Bharata Adji,2018,1,Web Intelligence
+10.3233/web-160343,Special issue on knowledge management of web social media,Xiaohui Tao and Wei Huang and Xiangming Mu and Haoran Xie,2016,2,Web Intelligence
+10.3233/web-170350,A modular architecture for intelligent agents in the evented web,J. Fernando Sánchez-Rada and Carlos A. Iglesias and Miguel Coronado,2017,2,Web Intelligence
+10.3233/web-160341,Quality improvement by worker filtering and development in crowdsourcing,Masayuki Ashikawa and Takahiro Kawamura and Akihiko Ohsuga,2016,0,Web Intelligence
 10.3233/web-200433,Research on the integration of library e-book borrowing history data based on big data technology,Hao Wang,2020,1,Web Intelligence
-10.3233/web-190418,Comparative evaluation of two approaches for retweet clustering: A text-based method and graph-based method,"Kazuki Uchida, Fujio Toriumi, Takeshi Sakaki",2019,2,Web Intelligence
-10.3233/web-210460,Fast mining method of network heterogeneous fault tolerant data based on K-means clustering,"Haiyang Huang, Zhanlei Shang",2021,0,Web Intelligence
-10.3233/web-170358,The strategy and architecture of a winner broker in a renowned agent-based smart grid competition,"Serkan Ozdemir, Rainer Unland",2017,2,Web Intelligence
-10.3233/web-170364,Enriching how-to guides with actionable phrases and linked data,"Nikolaos Lagos, Matthias Gallé, Alexandr Chernov, Ágnes Sándor",2017,0,Web Intelligence
-10.3233/web-190405,Combine availability with user preferences for efficient WSC,"Xiaofeng Han, Liejun Wang, Jiwei Qin",2019,0,Web Intelligence
-10.3233/web-200429,A literature review of the current applications of machine learning and their practical implications,"Beatriz N.R. Chagas, Julio Viana, Olaf Reinhold, Fábio M.F. Lobato, Antonio F.L. Jacob, Rainer Alt",2020,6,Web Intelligence
-10.3233/web-210461,A bit-object-based method for mining maximum frequent patterns in intensive cloud computing data,"Chen Chen, Li Yang, Xunan Jia",2021,0,Web Intelligence
+10.3233/web-210460,Fast mining method of network heterogeneous fault tolerant data based on K-means clustering,Haiyang Huang and Zhanlei Shang,2021,0,Web Intelligence
+10.3233/web-170358,The strategy and architecture of a winner broker in a renowned agent-based smart grid competition,Serkan Ozdemir and Rainer Unland,2017,2,Web Intelligence
+10.3233/web-170364,Enriching how-to guides with actionable phrases and linked data,Nikolaos Lagos and Matthias Gallé and Alexandr Chernov and Ágnes Sándor,2017,0,Web Intelligence
+10.3233/web-190405,Combine availability with user preferences for efficient WSC,Xiaofeng Han and Liejun Wang and Jiwei Qin,2019,0,Web Intelligence
+10.3233/web-210461,A bit-object-based method for mining maximum frequent patterns in intensive cloud computing data,Chen Chen and Li Yang and Xunan Jia,2021,0,Web Intelligence
 10.3233/web-210455,Path coverage enhancement in wireless sensor networks based on CVT model,Guangxu Yu,2021,0,Web Intelligence
-10.3233/web-210474,A comprehensive survey on container resource allocation approaches in cloud computing: State-of-the-art and research challenges,"Vhatkar Kapil Netaji, G.P. Bhole",2022,0,Web Intelligence
-10.3233/web-200436,Accelerated algorithm for intelligent mining of communication data in cloud computing environment,"Xiao-Ling Jiang, Hui Zhang",2020,2,Web Intelligence
-10.3233/web-220017,The node deployment of wireless sensor networks based on mobile edge computing,"Fangrong Zhou, Hemeng Yang, Yi Ma, Yanfang Chen, Gang Wen, Yansheng Cheng",2022,0,Web Intelligence
+10.3233/web-170365,Mining the information architecture of the WWW using automated website boundary detection,Ayesh Alshukri and Frans Coenen,2017,0,Web Intelligence
+10.3233/web-210474,A comprehensive survey on container resource allocation approaches in cloud computing: State-of-the-art and research challenges,Vhatkar Kapil Netaji and G.P. Bhole,2022,0,Web Intelligence
+10.3233/web-200436,Accelerated algorithm for intelligent mining of communication data in cloud computing environment,Xiao-Ling Jiang and Hui Zhang,2020,2,Web Intelligence
+10.3233/web-220017,The node deployment of wireless sensor networks based on mobile edge computing,Fangrong Zhou and Hemeng Yang and Yi Ma and Yanfang Chen and Gang Wen and Yansheng Cheng,2022,0,Web Intelligence
+10.3233/web-190424,Combining semantic graph and probabilistic topic models for discovering coherent topics,Mehdi Allahyari and Seyedamin Pouriyeh and Krys Kochut,2019,0,Web Intelligence
+10.3233/web-200437,Intelligent detection method for abnormal big data in heterogeneous networks based on Bayesian classification,Ruijing Liu and Xiaoting Luo,2020,1,Web Intelligence
+10.3233/web-170353,A composite greedy seller strategy in decentralized many-to-many negotiation,Mohamed Raouf Habes and Habiba Belleili-Souici and Laurent Vercouter,2017,0,Web Intelligence
+10.3233/web-150327,On the emergence of semantic agreement among rational agents,Golnaz Vakili and Thanasis G. Papaioannou and Karl Aberer,2015,0,Web Intelligence
+10.3233/web-210446,A measure based pricing framework for data products,Yazhen Ye and Yao Zhang and Guohua Liu and Yangyong Zhu,2021,1,Web Intelligence
+10.3233/web-160330,IR based Task-Model Learning: Automating the hierarchical structuring of tasks,Yusuke Fukazawa and Mark Kröll and Markus Strohmaier and Jun Ota,2016,0,Web Intelligence
+10.3233/web-170366,Applying ontologies to the development and execution of Multi-Agent Systems,Artur Freitas and Alison R. Panisson and Lucas Hilgert and Felipe Meneguzzi and Renata Vieira and Rafael H. Bordini,2017,6,Web Intelligence
+10.3233/web-190418,Comparative evaluation of two approaches for retweet clustering: A text-based method and graph-based method,Kazuki Uchida and Fujio Toriumi and Takeshi Sakaki,2019,2,Web Intelligence
+10.3233/web-210447,Correlation alignment with attention mechanism for unsupervised domain adaptation,Rong Chen and Chongguang Ren,2021,1,Web Intelligence
+10.3233/web-150319,Reinforcement social learning of social optimality with influencer agents,Jianye Hao and Ho-Fung Leung,2015,1,Web Intelligence
+10.3233/web-190411,A fast optimal node locating algorithm for MIMO system communication based on link balance control,Kun Zhang and Chong Shen and Gao Qian and Hanwen Li,2019,5,Web Intelligence
 10.3233/web-220026,An accurate fault location method for wireless sensor network based on random matrix theory,Qi Wang,2022,0,Web Intelligence
-10.3233/web-170365,Mining the information architecture of the WWW using automated website boundary detection,"Ayesh Alshukri, Frans Coenen",2017,0,Web Intelligence
-10.3233/web-190424,Combining semantic graph and probabilistic topic models for discovering coherent topics,"Mehdi Allahyari, Seyedamin Pouriyeh, Krys Kochut",2019,0,Web Intelligence
-10.3233/web-200437,Intelligent detection method for abnormal big data in heterogeneous networks based on Bayesian classification,"Ruijing Liu, Xiaoting Luo",2020,1,Web Intelligence
-10.3233/web-170353,A composite greedy seller strategy in decentralized many-to-many negotiation,"Mohamed Raouf Habes, Habiba Belleili-Souici, Laurent Vercouter",2017,0,Web Intelligence
-10.3233/web-150327,On the emergence of semantic agreement among rational agents,"Golnaz Vakili, Thanasis G. Papaioannou, Karl Aberer",2015,0,Web Intelligence
-10.3233/web-190411,A fast optimal node locating algorithm for MIMO system communication based on link balance control,"Kun Zhang, Chong Shen, Gao Qian, Hanwen Li",2019,5,Web Intelligence
-10.3233/web-200428,Deep text classification of Instagram data using word embeddings and weak supervision1,"Kim Hammar, Shatha Jaradat, Nima Dokoohaki, Mihhail Matskin",2020,2,Web Intelligence
-10.3233/web-180382,Speech emotion recognition of Chinese elderly people,"Kunxia Wang, Zongbao Zhu, Jian Zhang, Lifei Chen",2018,2,Web Intelligence
-10.3233/web-200427,Cross-platform personality exploration system for online social networks: Facebook vs. Twitter,"Raad Bin Tareaf, Philipp Berger, Patrick Hennig, Christoph Meinel",2020,5,Web Intelligence
+10.3233/web-170349,Directional prediction of stock prices using breaking news on Twitter,Hana Alostad and Hasan Davulcu,2017,3,Web Intelligence
 10.3233/web-210488,A fast encryption method for enterprise financial data based on blockchain,Lingmei Kong,2022,0,Web Intelligence
-10.3233/web-220045,A fast classification method of mass data in Internet of things based on fuzzy clustering maximum tree algorithm,"Zhixia Duan, Shuai Tang",2022,0,Web Intelligence
-10.3233/web-210446,A measure based pricing framework for data products,"Yazhen Ye, Yao Zhang, Guohua Liu, Yangyong Zhu",2021,1,Web Intelligence
-10.3233/web-200443,Image inspired Chinese couplet generation,"Shengqiong Yuan, Luo Zhong, Lin Li",2020,0,Web Intelligence
-10.3233/web-190403,Stress estimation in pedestrian crowds: Experimental data and simulations results,"Andrea Gorrini, Luca Crociani, Giuseppe Vizzari, Stefania Bandini",2019,5,Web Intelligence
-10.3233/web-180394,State of the art of reputation-enhanced recommender systems,"Christian Richthammer, Michael Weber, Günther Pernul",2018,3,Web Intelligence
-10.3233/web-210447,Correlation alignment with attention mechanism for unsupervised domain adaptation,"Rong Chen, Chongguang Ren",2021,1,Web Intelligence
-10.3233/web-150319,Reinforcement social learning of social optimality with influencer agents,"Jianye Hao, Ho-Fung Leung",2015,1,Web Intelligence
-10.3233/web-180373,CAMF: Context Aware Matrix Factorization for Social Recommendation,"Yulong Gu, Jiaxing Song, Weidong Liu, Lixin Zou, Yuan Yao",2018,6,Web Intelligence
-10.3233/web-150306,A normal-distribution based rating aggregation method for generating product reputations,"Ahmad Abdel-Hafez, Yue Xu, Audun Jøsang",2015,15,Web Intelligence
-10.3233/web-170349,Directional prediction of stock prices using breaking news on Twitter,"Hana Alostad, Hasan Davulcu",2017,3,Web Intelligence
-10.3233/web-190409,Trip mode recognition using smartphone sensor data under different sampling frequencies,"Jian Shen, Haihang Jiang, Fei Yang, Zhenxing Yao",2019,1,Web Intelligence
-10.3233/web-200442,A survey on text classification and its applications,"Xujuan Zhou, Raj Gururajan, Yuefeng Li, Revathi Venkataraman, Xiaohui Tao, Ghazal Bargshady, Prabal D. Barua, Srinivas Kondalsamy-Chennakesavan",2020,7,Web Intelligence
-10.3233/web-190400,‘You will be judged by the music I hear’: A study on the influence of music on moral judgement,"Alessandro Ansani, Francesca D’Errico, Isabella Poggi",2019,5,Web Intelligence
-10.3233/web-160342,Stochastic Petri net-based modeling and formal analysis of fault tolerant Contract Net Protocol,"Djamila Boukredera, Ramdane Maamri, Samir Aknine",2016,2,Web Intelligence
-10.3233/web-190410,Data forwarding mechanism based on node function and node centricity,"Hua Liang, Feng Zeng",2019,0,Web Intelligence
-10.3233/web-210465,Trends in web data extraction using machine learning,"Sudhir Kumar Patnaik, C. Narendra Babu",2021,1,Web Intelligence
-10.3233/web-200445,Document classification using convolutional neural networks with small window sizes and latent semantic analysis,"Eren Gultepe, Mehran Kamkarhaghighi, Masoud Makrehchi",2020,1,Web Intelligence
-10.3233/web-170352,Life aspect inference of tweets based on probability distribution,"Shuhei Yamamoto, Noriko Kando, Tetsuji Satoh",2017,0,Web Intelligence
-10.3233/web-210456,A novel gateway node reconfiguration method of IOT based on hierarchical coding particle swarm optimization,"Wei Shu, Dajiang He, Jun Shu",2021,0,Web Intelligence
+10.3233/web-220045,A fast classification method of mass data in Internet of things based on fuzzy clustering maximum tree algorithm,Zhixia Duan and Shuai Tang,2022,0,Web Intelligence
+10.3233/web-190403,Stress estimation in pedestrian crowds: Experimental data and simulations results,Andrea Gorrini and Luca Crociani and Giuseppe Vizzari and Stefania Bandini,2019,5,Web Intelligence
+10.3233/web-200443,Image inspired Chinese couplet generation,Shengqiong Yuan and Luo Zhong and Lin Li,2020,0,Web Intelligence
+10.3233/web-190400,‘You will be judged by the music I hear’: A study on the influence of music on moral judgement,Alessandro Ansani and Francesca D’Errico and Isabella Poggi,2019,5,Web Intelligence
+10.3233/web-180382,Speech emotion recognition of Chinese elderly people,Kunxia Wang and Zongbao Zhu and Jian Zhang and Lifei Chen,2018,2,Web Intelligence
+10.3233/web-200427,Cross-platform personality exploration system for online social networks: Facebook vs. Twitter,Raad Bin Tareaf and Philipp Berger and Patrick Hennig and Christoph Meinel,2020,5,Web Intelligence
+10.3233/web-190409,Trip mode recognition using smartphone sensor data under different sampling frequencies,Jian Shen and Haihang Jiang and Fei Yang and Zhenxing Yao,2019,1,Web Intelligence
+10.3233/web-150306,A normal-distribution based rating aggregation method for generating product reputations,Ahmad Abdel-Hafez and Yue Xu and Audun Jøsang,2015,15,Web Intelligence
+10.3233/web-180394,State of the art of reputation-enhanced recommender systems,Christian Richthammer and Michael Weber and Günther Pernul,2018,3,Web Intelligence
+10.3233/web-180373,CAMF: Context Aware Matrix Factorization for Social Recommendation,Yulong Gu and Jiaxing Song and Weidong Liu and Lixin Zou and Yuan Yao,2018,6,Web Intelligence
+10.3233/web-200442,A survey on text classification and its applications,Xujuan Zhou and Raj Gururajan and Yuefeng Li and Revathi Venkataraman and Xiaohui Tao and Ghazal Bargshady and Prabal D. Barua and Srinivas Kondalsamy-Chennakesavan,2020,7,Web Intelligence
+10.3233/web-200429,A literature review of the current applications of machine learning and their practical implications,Beatriz N.R. Chagas and Julio Viana and Olaf Reinhold and Fábio M.F. Lobato and Antonio F.L. Jacob and Rainer Alt,2020,6,Web Intelligence
+10.3233/web-200428,Deep text classification of Instagram data using word embeddings and weak supervision1,Kim Hammar and Shatha Jaradat and Nima Dokoohaki and Mihhail Matskin,2020,2,Web Intelligence
+10.3233/web-160346,A topical diversity-based approach to detecting similar question groups from collaborative question-answering archives,Tianyong Hao and Chengtao Li and Wanqing Liang and Yingying Qu,2016,1,Web Intelligence
+10.3233/web-180386,Stochastic gradient descent with variance reduction technique,Jinjing Zhang and Fei Hu and Xiaofei Xu and Li Li,2018,0,Web Intelligence
+10.3233/web-190410,Data forwarding mechanism based on node function and node centricity,Hua Liang and Feng Zeng,2019,0,Web Intelligence
+10.3233/web-200445,Document classification using convolutional neural networks with small window sizes and latent semantic analysis,Eren Gultepe and Mehran Kamkarhaghighi and Masoud Makrehchi,2020,1,Web Intelligence
+10.3233/web-160342,Stochastic Petri net-based modeling and formal analysis of fault tolerant Contract Net Protocol,Djamila Boukredera and Ramdane Maamri and Samir Aknine,2016,2,Web Intelligence
+10.3233/web-170352,Life aspect inference of tweets based on probability distribution,Shuhei Yamamoto and Noriko Kando and Tetsuji Satoh,2017,0,Web Intelligence
+10.3233/web-180388,An interview with Professor Raj Reddy on Web Intelligence (WI) and Computational Social Science (CSS),Ning Zhong and Jiming Liu and Yong Shi and Yiyu Yao,2018,5,Web Intelligence
+10.3233/web-190398,Emotion and attention: Audiovisual models for group-level skin response recognition in short movies,Álvaro García-Faura and Alejandro Hernández-García and Fernando Fernández-Martínez and Fernando Díaz-de-María and Rubén San-Segundo,2019,1,Web Intelligence
+10.3233/web-170356,Overlapping community detection and temporal analysis on Q&amp;A sites,Zide Meng and Fabien Gandon and Catherine Faron Zucker,2017,0,Web Intelligence
+10.3233/web-210459,A prison term prediction model based on fact descriptions by capturing long historical information,Xuetao Mao and Wei Duan and Lin Li and Jianwei Zhang,2021,0,Web Intelligence
+10.3233/web-190414,Energy efficient opportunistic edge computing for the Internet of Things,Teemu Leppänen and Jukka Riekki,2019,1,Web Intelligence
 10.3233/web-160337,Normative positions in multi-agent systems,Magnus Hjelmblom,2016,2,Web Intelligence
-10.3233/web-170363,Automatic detection of multiple account deception in social media,"Zaher Yamak, Julien Saunier, Laurent Vercouter",2017,1,Web Intelligence
-10.3233/web-180377,Content tracking by leveraging hashtag and time information in Twitter social media,"Xiaofei Xu, Li Li, Jinjing Zhang, Jing Wang, Shuo He",2018,1,Web Intelligence
-10.3233/web-190398,Emotion and attention: Audiovisual models for group-level skin response recognition in short movies,"Álvaro García-Faura, Alejandro Hernández-García, Fernando Fernández-Martínez, Fernando Díaz-de-María, Rubén San-Segundo",2019,1,Web Intelligence
-10.3233/web-210459,A prison term prediction model based on fact descriptions by capturing long historical information,"Xuetao Mao, Wei Duan, Lin Li, Jianwei Zhang",2021,0,Web Intelligence
-10.3233/web-170355,Learning the sentiment of soccer fans from data on bets and social nets,"Rafael Bomfim, Vasco Furtado",2017,0,Web Intelligence
-10.3233/web-180388,An interview with Professor Raj Reddy on Web Intelligence (WI) and Computational Social Science (CSS),"Ning Zhong, Jiming Liu, Yong Shi, Yiyu Yao",2018,5,Web Intelligence
-10.3233/web-160346,A topical diversity-based approach to detecting similar question groups from collaborative question-answering archives,"Tianyong Hao, Chengtao Li, Wanqing Liang, Yingying Qu",2016,1,Web Intelligence
-10.3233/web-170360,A model for the behaviors and incentives of users in a decentralized data-sharing network,"Babak Esfandiari, Ali Reza Farid Amin, El Hachemi Kadri, Andre Telfer",2017,1,Web Intelligence
-10.3233/web-170356,Overlapping community detection and temporal analysis on Q&amp;A sites,"Zide Meng, Fabien Gandon, Catherine Faron Zucker",2017,0,Web Intelligence
-10.3233/web-190414,Energy efficient opportunistic edge computing for the Internet of Things,"Teemu Leppänen, Jukka Riekki",2019,1,Web Intelligence
-10.3233/web-180386,Stochastic gradient descent with variance reduction technique,"Jinjing Zhang, Fei Hu, Xiaofei Xu, Li Li",2018,0,Web Intelligence
+10.3233/web-180383,Determining senior wellness status using an intelligent system based on wireless sensor network and bioinformation,Yuan Wu and Li Liu and Lingling Li and Min Lu and Lian Li,2018,1,Web Intelligence
+10.3233/web-220015,Study on secure distribution of vehicle road collaborative data based on attribute-based encryption,Heniguli Wumaier and Jin Zhou and Jian Gao,2022,0,Web Intelligence
+10.3233/web-220002,Applying interrater reliability measure for user credibility assessment in reputation-oriented service discovery,Arnab Paul and Sourish Dhar and Sudipta Roy,2022,0,Web Intelligence
+10.3233/web-210465,Trends in web data extraction using machine learning,Sudhir Kumar Patnaik and C. Narendra Babu,2021,1,Web Intelligence
+10.3233/web-180389,Transferring sentiment knowledge between words and tweets,Felipe Bravo-Marquez and Eibe Frank and Bernhard Pfahringer,2018,4,Web Intelligence
+10.3233/web-180377,Content tracking by leveraging hashtag and time information in Twitter social media,Xiaofei Xu and Li Li and Jinjing Zhang and Jing Wang and Shuo He,2018,1,Web Intelligence
+10.3233/web-170355,Learning the sentiment of soccer fans from data on bets and social nets,Rafael Bomfim and Vasco Furtado,2017,0,Web Intelligence
+10.3233/web-190423,Sentiment analysis of customer data,Katarzyna A. Tarnowska and Zbigniew W. Ras,2019,11,Web Intelligence
+10.3233/web-180370,Exploiting item–item relations to improve review-based rating prediction1,Jian Wang and Jiajin Huang and Ning Zhong,2018,3,Web Intelligence
+10.3233/web-170363,Automatic detection of multiple account deception in social media,Zaher Yamak and Julien Saunier and Laurent Vercouter,2017,1,Web Intelligence
+10.3233/web-210456,A novel gateway node reconfiguration method of IOT based on hierarchical coding particle swarm optimization,Wei Shu and Dajiang He and Jun Shu,2021,0,Web Intelligence
 10.3233/web-220020,Privacy information protection algorithm of ultra dense network nodes based on edge computing,Hua Wang,2022,0,Web Intelligence
 10.3233/web-220022,Scheduling control method of Internet of things data uplink based on TS algorithm,Zhao-Long Wang,2022,0,Web Intelligence
-10.3233/web-180378,Finger gesture recognition using a smartwatch with integrated motion sensors,"Yande Li, Ning Yang, Lian Li, Li Liu, Yi Yang",2018,7,Web Intelligence
-10.3233/web-180389,Transferring sentiment knowledge between words and tweets,"Felipe Bravo-Marquez, Eibe Frank, Bernhard Pfahringer",2018,4,Web Intelligence
-10.3233/web-220002,Applying interrater reliability measure for user credibility assessment in reputation-oriented service discovery,"Arnab Paul, Sourish Dhar, Sudipta Roy",2022,0,Web Intelligence
-10.3233/web-210480,A comprehensive study of data intelligence in the context of big data analytics,"Chitrakant Banchhor, N. Srinivasu",2022,0,Web Intelligence
-10.3233/web-210481,Impact of self adaptive-elephant herding optimization towards neural network for facial emotion recognition,"Bhagyashri Devi, M. Mary Synthuja Jain Preetha",2022,0,Web Intelligence
-10.3233/web-180383,Determining senior wellness status using an intelligent system based on wireless sensor network and bioinformation,"Yuan Wu, Li Liu, Lingling Li, Min Lu, Lian Li",2018,1,Web Intelligence
-10.3233/web-220015,Study on secure distribution of vehicle road collaborative data based on attribute-based encryption,"Heniguli Wumaier, Jin Zhou, Jian Gao",2022,0,Web Intelligence
-10.3233/web-190399,A functional data analysis approach for continuous 2-D emotion annotations,"Karan Sharma, Marius Wagner, Claudio Castellini, Egon L. van den Broek, Freek Stulp, Friedhelm Schwenker",2019,3,Web Intelligence
-10.3233/web-180376,A point of interest recommendation method using user similarity,"Jun Zeng, Xin He, Yinghua Li, Junhao Wen, Wei Zhou",2018,2,Web Intelligence
-10.3233/web-180370,Exploiting item–item relations to improve review-based rating prediction1,"Jian Wang, Jiajin Huang, Ning Zhong",2018,3,Web Intelligence
+10.3233/web-180378,Finger gesture recognition using a smartwatch with integrated motion sensors,Yande Li and Ning Yang and Lian Li and Li Liu and Yi Yang,2018,7,Web Intelligence
+10.3233/web-210480,A comprehensive study of data intelligence in the context of big data analytics,Chitrakant Banchhor and N. Srinivasu,2022,0,Web Intelligence
+10.3233/web-210481,Impact of self adaptive-elephant herding optimization towards neural network for facial emotion recognition,Bhagyashri Devi and M. Mary Synthuja Jain Preetha,2022,0,Web Intelligence
+10.3233/web-190399,A functional data analysis approach for continuous 2-D emotion annotations,Karan Sharma and Marius Wagner and Claudio Castellini and Egon L. van den Broek and Freek Stulp and Friedhelm Schwenker,2019,3,Web Intelligence
 10.3233/web-200434,Research on interest reading recommendation method of intelligent library based on big data technology,Hui Sun,2020,4,Web Intelligence
-10.3233/web-190395,Emotional machines: The next revolution,"Valentina Franzoni, Alfredo Milani, Daniele Nardi, Jordi Vallverdú",2019,28,Web Intelligence
-10.3233/web-190423,Sentiment analysis of customer data,"Katarzyna A. Tarnowska, Zbigniew W. Ras",2019,11,Web Intelligence
-10.3233/web-190396,Sentiment analysis of Kazakh text and their polarity,"Banu Yergesh, Gulmira Bekmanova, Altynbek Sharipbay",2019,10,Web Intelligence
-10.3233/web-190419,Processing of association rules with ontology in distributed NoSQL systems,"Djilali Dahmani, Ghalem Belalem, Sidi Ahmed Rahal",2019,1,Web Intelligence
-10.3233/web-150315,Rank correlation analysis of RITE datasets and evaluation metrics – an observation on NTCIR-10 RITE Chinese subtasks,"Chuan-Jie Lin, Cheng-Wei Lee, Cheng-Wei Shih, Wen-Lian Hsu",2015,1,Web Intelligence
-10.3233/web-180390,Pancake graphs for lookup acceleration and optimization in P2P networks,"Mourad Amad, Djamil Aïssani, Ahmed Meddahi, Aimed Merabet, Noureddine Sekhriou",2018,0,Web Intelligence
-10.3233/web-170369,Mobile agents path planning based on an extension of Bug-Algorithms and applied to the pursuit-evasion game,"Mohammed El Habib Souidi, Songhao Piao, Guo Li",2017,3,Web Intelligence
-10.3233/web-160332,A bottom-up search algorithm for size-constrained partitioning of modules to generate configurations in modular robots,"Ayan Dutta, Prithviraj Dasgupta, Carl Nelson",2016,1,Web Intelligence
-10.3233/web-210468,Packet loss rate monitoring model of IoT based on differential evolution algorithm,"Yinghua Feng, Wei Yang",2021,0,Web Intelligence
-10.3233/web-150316,Editorial,"Yuefeng Li, Vijay V. Raghavan",2015,0,Web Intelligence
-10.3233/web-210485,Privacy protection data mining algorithm in blockchain based on decision tree classification,"Yu Cao, Wei Wei, Jin Zhou",2022,0,Web Intelligence
-10.3233/web-210487,An automatic classification method of library archives data based on data mining,Li Qiao,2022,0,Web Intelligence
-10.3233/web-200438,Redundancy evaluation method of massive heterogeneous data in Internet of Things based on attributes and relations,Ying Li,2020,1,Web Intelligence
-10.3233/web-190406,A task scheduling algorithm based on priority list and task duplication in cloud computing environment,"Xiaozhong Geng, Lan Yu, Jie Bao, Geji Fu",2019,7,Web Intelligence
-10.3233/web-160334,An automatic approach for tagging Web services using machine learning techniques1,"Maria Lin, David W. Cheung",2016,2,Web Intelligence
-10.3233/web-200441,Exploring propagation factors of social media moods for stock prices prediction,"Hongxun Jiang, Xiaotong Wang, Mengjun Zhu",2020,0,Web Intelligence
-10.3233/web-150314,Automatic generation of visual story for fairy tales with digital narrative,"Cheng-Te Li, Chieh-Jen Huang, Man-Kwan Shan",2015,1,Web Intelligence
-10.3233/web-150320,A BDI-based agent architecture for social competent agents,"Inon Zuckerman, Meirav Hadad",2015,0,Web Intelligence
-10.3233/web-220048,The multi-dimensional power big data mining based on improved grey clustering algorithm,"Hui Li, Guangqian Lu",2022,0,Web Intelligence
+10.3233/web-170360,A model for the behaviors and incentives of users in a decentralized data-sharing network,Babak Esfandiari and Ali Reza Farid Amin and El Hachemi Kadri and Andre Telfer,2017,1,Web Intelligence
+10.3233/web-180376,A point of interest recommendation method using user similarity,Jun Zeng and Xin He and Yinghua Li and Junhao Wen and Wei Zhou,2018,2,Web Intelligence
+10.3233/web-190396,Sentiment analysis of Kazakh text and their polarity,Banu Yergesh and Gulmira Bekmanova and Altynbek Sharipbay,2019,10,Web Intelligence
+10.3233/web-190395,Emotional machines: The next revolution,Valentina Franzoni and Alfredo Milani and Daniele Nardi and Jordi Vallverdú,2019,28,Web Intelligence
+10.3233/web-190419,Processing of association rules with ontology in distributed NoSQL systems,Djilali Dahmani and Ghalem Belalem and Sidi Ahmed Rahal,2019,1,Web Intelligence
+10.3233/web-150315,Rank correlation analysis of RITE datasets and evaluation metrics – an observation on NTCIR-10 RITE Chinese subtasks,Chuan-Jie Lin and Cheng-Wei Lee and Cheng-Wei Shih and Wen-Lian Hsu,2015,1,Web Intelligence
+10.3233/web-180390,Pancake graphs for lookup acceleration and optimization in P2P networks,Mourad Amad and Djamil Aïssani and Ahmed Meddahi and Aimed Merabet and Noureddine Sekhriou,2018,0,Web Intelligence
+10.3233/web-150316,Editorial,Yuefeng Li and Vijay V. Raghavan,2015,0,Web Intelligence
+10.3233/web-220048,The multi-dimensional power big data mining based on improved grey clustering algorithm,Hui Li and Guangqian Lu,2022,0,Web Intelligence
 10.3233/web-190415,Improving collaborative filtering recommender system results and performance using satisfaction degree and emotions of users,Bushra Alhijawi,2019,4,Web Intelligence
-10.3233/web-160345,A topic-based sentiment analysis model to predict stock market price movement using Weibo mood,"Wenhao Chen, Yi Cai, Kinkeung Lai, Haoran Xie",2016,17,Web Intelligence
-10.3233/web-210490,Big data clustering using fractional sail fish-sparse fuzzy C-means and particle whale optimization based MapReduce framework,"Omkaresh Kulkarni, Ravi Sankar Vadali",2022,0,Web Intelligence
+10.3233/web-200438,Redundancy evaluation method of massive heterogeneous data in Internet of Things based on attributes and relations,Ying Li,2020,1,Web Intelligence
+10.3233/web-170369,Mobile agents path planning based on an extension of Bug-Algorithms and applied to the pursuit-evasion game,Mohammed El Habib Souidi and Songhao Piao and Guo Li,2017,3,Web Intelligence
+10.3233/web-160334,An automatic approach for tagging Web services using machine learning techniques1,Maria Lin and David W. Cheung,2016,2,Web Intelligence
+10.3233/web-200441,Exploring propagation factors of social media moods for stock prices prediction,Hongxun Jiang and Xiaotong Wang and Mengjun Zhu,2020,0,Web Intelligence
+10.3233/web-150314,Automatic generation of visual story for fairy tales with digital narrative,Cheng-Te Li and Chieh-Jen Huang and Man-Kwan Shan,2015,1,Web Intelligence
+10.3233/web-210490,Big data clustering using fractional sail fish-sparse fuzzy C-means and particle whale optimization based MapReduce framework,Omkaresh Kulkarni and Ravi Sankar Vadali,2022,0,Web Intelligence
 10.3233/web-210491,"A survey of semantic web (Web 3.0), its applications, challenges, future and its relation with Internet of things (IoT)",Adeem Ali Anwar,2022,0,Web Intelligence
-10.3233/web-190412,The importance of unexpectedness: Discovering buzzing stories in anomalous temporal graphs,"Francesco Bonchi, Ilaria Bordino, Francesco Gullo, Giovanni Stilo",2019,1,Web Intelligence
-10.3233/web-150324,Top-N recommendations in the presence of sparsity: An NCD-based approach,"Athanasios N. Nikolakopoulos, John D. Garofalakis",2015,3,Web Intelligence
-10.3233/web-210458,Graph-based knowledge tracing: Modeling student proficiency using graph neural networks,"Hiromi Nakagawa, Yusuke Iwasawa, Yutaka Matsuo",2021,1,Web Intelligence
-10.3233/web-220088,Research on agricultural product quality traceability system based on blockchain technology,"Fang Zheng, Siyuan Huang, Xiong Zhou, Shujun Ta, Xujuan Zhou, Ka Ching Chan, Raj Gururajan",2023,0,Web Intelligence
-10.3233/web-220052,An early warning method of abnormal state of laboratory equipment based on Internet of things and running big data,"Guokai Zheng, Luxia Yi",2023,0,Web Intelligence
-10.3233/web-210471,Advanced ant colony algorithm for high dimensional abnormal data mining in Internet of things,"Huixian Wang, Hongjiang Zheng",2022,0,Web Intelligence
-10.3233/web-200444,ITIL process management to mitigate operations risk in cloud architecture infrastructure for banking and financial services industry,"Abhishek Mahalle, Jianming Yong, Xiaohui Tao",2020,1,Web Intelligence
+10.3233/web-210468,Packet loss rate monitoring model of IoT based on differential evolution algorithm,Yinghua Feng and Wei Yang,2021,0,Web Intelligence
+10.3233/web-150320,A BDI-based agent architecture for social competent agents,Inon Zuckerman and Meirav Hadad,2015,0,Web Intelligence
+10.3233/web-220088,Research on agricultural product quality traceability system based on blockchain technology,Fang Zheng and Siyuan Huang and Xiong Zhou and Shujun Ta and Xujuan Zhou and Ka Ching Chan and Raj Gururajan,2023,0,Web Intelligence
+10.3233/web-210487,An automatic classification method of library archives data based on data mining,Li Qiao,2022,0,Web Intelligence
+10.3233/web-210485,Privacy protection data mining algorithm in blockchain based on decision tree classification,Yu Cao and Wei Wei and Jin Zhou,2022,0,Web Intelligence
+10.3233/web-210458,Graph-based knowledge tracing: Modeling student proficiency using graph neural networks,Hiromi Nakagawa and Yusuke Iwasawa and Yutaka Matsuo,2021,1,Web Intelligence
+10.3233/web-190412,The importance of unexpectedness: Discovering buzzing stories in anomalous temporal graphs,Francesco Bonchi and Ilaria Bordino and Francesco Gullo and Giovanni Stilo,2019,1,Web Intelligence
+10.3233/web-150324,Top-N recommendations in the presence of sparsity: An NCD-based approach,Athanasios N. Nikolakopoulos and John D. Garofalakis,2015,3,Web Intelligence
+10.3233/web-160332,A bottom-up search algorithm for size-constrained partitioning of modules to generate configurations in modular robots,Ayan Dutta and Prithviraj Dasgupta and Carl Nelson,2016,1,Web Intelligence
+10.3233/web-220052,An early warning method of abnormal state of laboratory equipment based on Internet of things and running big data,Guokai Zheng and Luxia Yi,2023,0,Web Intelligence
+10.3233/web-190406,A task scheduling algorithm based on priority list and task duplication in cloud computing environment,Xiaozhong Geng and Lan Yu and Jie Bao and Geji Fu,2019,7,Web Intelligence
+10.3233/web-160345,A topic-based sentiment analysis model to predict stock market price movement using Weibo mood,Wenhao Chen and Yi Cai and Kinkeung Lai and Haoran Xie,2016,17,Web Intelligence
+10.3233/web-210471,Advanced ant colony algorithm for high dimensional abnormal data mining in Internet of things,Huixian Wang and Hongjiang Zheng,2022,0,Web Intelligence
+10.3233/web-200444,ITIL process management to mitigate operations risk in cloud architecture infrastructure for banking and financial services industry,Abhishek Mahalle and Jianming Yong and Xiaohui Tao,2020,1,Web Intelligence
 10.3233/web-150322,Properties of a new adaptive sampling method with applications to scalable learning,Jianhua Chen,2015,0,Web Intelligence
-10.3233/web-200430,Interactive minutes generation system based on hierarchical discussion structure,"Hiroya Miura, Yoshinari Takegawa, Asuka Terai, Keiji Hirata",2020,0,Web Intelligence
-10.3233/web-210475,Trust-based federated learning for network anomaly detection,"Naiyue Chen, Yi Jin, Yinglong Li, Luxin Cai",2022,0,Web Intelligence
-10.3233/web-150311,"Intelligent interaction, reasoning, and applications","Chao-Lin Liu, Mitsunori Matsushita, Yasufumi Takama, Min-Yuh Day, Vincent Shin-Mu Tseng",2015,0,Web Intelligence
-10.3233/web-160331,Paraconsistent argumentation schemes1,"Barbara Dunin-Kęplicz, Alina Strachocka",2016,3,Web Intelligence
-10.3233/web-220044,Communication information exchange and transmission method of industrial Internet of things based on audio information hiding,"Yinlei Tian, Haiyan Wang",2022,0,Web Intelligence
-10.3233/web-190421,Proposal of grade training method for quality improvement in microtask crowdsourcing,"Masayuki Ashikawa, Takahiro Kawamura, Akihiko Ohsuga",2019,0,Web Intelligence
-10.3233/web-210466,Research on internal network data security monitoring method based on NB-IoT,"Yuanyuan Li, Jidong Sha, Rongna Geng",2021,0,Web Intelligence
-10.3233/web-200426,2SRM: Learning social signals for predicting relevant search results,Ismail Badache,2020,1,Web Intelligence
-10.3233/web-190420,Recommend interesting items: How can social curiosity help?,"Qiong Wu, Siyuan Liu, Chunyan Miao",2019,0,Web Intelligence
+10.3233/web-200430,Interactive minutes generation system based on hierarchical discussion structure,Hiroya Miura and Yoshinari Takegawa and Asuka Terai and Keiji Hirata,2020,0,Web Intelligence
+10.3233/web-210475,Trust-based federated learning for network anomaly detection,Naiyue Chen and Yi Jin and Yinglong Li and Luxin Cai,2022,0,Web Intelligence
+10.3233/web-150311,"Intelligent interaction, reasoning, and applications",Chao-Lin Liu and Mitsunori Matsushita and Yasufumi Takama and Min-Yuh Day and Vincent Shin-Mu Tseng,2015,0,Web Intelligence
+10.3233/web-160331,Paraconsistent argumentation schemes1,Barbara Dunin-Kęplicz and Alina Strachocka,2016,3,Web Intelligence
+10.3233/web-220044,Communication information exchange and transmission method of industrial Internet of things based on audio information hiding,Yinlei Tian and Haiyan Wang,2022,0,Web Intelligence
+10.3233/web-190421,Proposal of grade training method for quality improvement in microtask crowdsourcing,Masayuki Ashikawa and Takahiro Kawamura and Akihiko Ohsuga,2019,0,Web Intelligence
+10.3233/web-210466,Research on internal network data security monitoring method based on NB-IoT,Yuanyuan Li and Jidong Sha and Rongna Geng,2021,0,Web Intelligence
 10.3233/web-190407,Design of complex wind power generation parameter control system based on embedded control combined with Internet of Things,Bin Dai,2019,0,Web Intelligence
-10.3233/web-160340,Review of intelligent microblog short text processing,"Wei Huang, Zongke Li, Libiao Zhang, Yuefeng Li",2016,1,Web Intelligence
-10.3233/web-150318,DIKEA: Exploiting Wikipedia for keyphrase extraction,"David X. Wang, Xiaoying Gao, Peter Andreae",2015,2,Web Intelligence
-10.3233/web-150309,Sentiment analysis of texts by capturing underlying sentiment patterns,"Seyed Ali Bahrainian, Andreas Dengel",2015,4,Web Intelligence
+10.3233/web-200426,2SRM: Learning social signals for predicting relevant search results,Ismail Badache,2020,1,Web Intelligence
+10.3233/web-190420,Recommend interesting items: How can social curiosity help?,Qiong Wu and Siyuan Liu and Chunyan Miao,2019,0,Web Intelligence
+10.3233/web-160340,Review of intelligent microblog short text processing,Wei Huang and Zongke Li and Libiao Zhang and Yuefeng Li,2016,1,Web Intelligence
+10.3233/web-150318,DIKEA: Exploiting Wikipedia for keyphrase extraction,David X. Wang and Xiaoying Gao and Peter Andreae,2015,2,Web Intelligence
+10.3233/web-150309,Sentiment analysis of texts by capturing underlying sentiment patterns,Seyed Ali Bahrainian and Andreas Dengel,2015,4,Web Intelligence
 10.3233/web-190408,Higher mathematics teaching resource scheduling system based on cloud computing,Tiejun Chen,2019,9,Web Intelligence
-10.3233/web-210462,Feature mining method of information system operation and maintenance big data based on window function,"Ruohan Sun, Meihui Hu, Jinping Cao, Wanxing Xiao, Xinying Guo",2021,0,Web Intelligence
-10.3233/web-180379,uGait: A platform for automated quantitative gait analysis and its application to Parkinson’s disease,"Xi Wu, Chen Tang, Xu Chen, Shengqiang Xu, Nan Cheng, Ning An",2018,1,Web Intelligence
-10.3233/web-200440,From traceability to provenance of agricultural products through blockchain,"Xiong Zhou, Fang Zheng, Xujuan Zhou, Ka Ching Chan, Raj Gururajan, Zhangguang Wu, Enxing Zhou",2020,5,Web Intelligence
-10.3233/web-180374,Collaborative ensemble learning under differential privacy,"Tao Xiang, Yang Li, Xiaoguo Li, Shigang Zhong, Shui Yu",2018,8,Web Intelligence
-10.3233/web-220054,M2GCF: A multi-mixing strategy for graph neural network based collaborative filtering,"Jianan Xu, Jiajin Huang, Jian Yang, Ning Zhong",2022,0,Web Intelligence
-10.3233/web-210477,Causal inference for the impact of economic policy on financial and labour markets amid the COVID-19 pandemic,"Nhi N.Y. Vo, Guandong Xu, Dat Anh Le",2022,0,Web Intelligence
-10.3233/web-180387,Automatic Chinese character similarity measurement,"Ming Liu, Vasile Rus, Yue Li, Chuqian Sheng, Li Liu",2018,1,Web Intelligence
+10.3233/web-210462,Feature mining method of information system operation and maintenance big data based on window function,Ruohan Sun and Meihui Hu and Jinping Cao and Wanxing Xiao and Xinying Guo,2021,0,Web Intelligence
+10.3233/web-180379,uGait: A platform for automated quantitative gait analysis and its application to Parkinson’s disease,Xi Wu and Chen Tang and Xu Chen and Shengqiang Xu and Nan Cheng and Ning An,2018,1,Web Intelligence
+10.3233/web-200440,From traceability to provenance of agricultural products through blockchain,Xiong Zhou and Fang Zheng and Xujuan Zhou and Ka Ching Chan and Raj Gururajan and Zhangguang Wu and Enxing Zhou,2020,5,Web Intelligence
+10.3233/web-180374,Collaborative ensemble learning under differential privacy,Tao Xiang and Yang Li and Xiaoguo Li and Shigang Zhong and Shui Yu,2018,8,Web Intelligence
+10.3233/web-220054,M2GCF: A multi-mixing strategy for graph neural network based collaborative filtering,Jianan Xu and Jiajin Huang and Jian Yang and Ning Zhong,2022,0,Web Intelligence
+10.3233/web-210477,Causal inference for the impact of economic policy on financial and labour markets amid the COVID-19 pandemic,Nhi N.Y. Vo and Guandong Xu and Dat Anh Le,2022,0,Web Intelligence
+10.3233/web-180387,Automatic Chinese character similarity measurement,Ming Liu and Vasile Rus and Yue Li and Chuqian Sheng and Li Liu,2018,1,Web Intelligence
 10.3233/web-220035,Research on data fusion of power wireless sensor networks based on Kalman filter,Haoran Wang,2022,0,Web Intelligence
-10.3233/web-160347,Factors to be considered in cloud computing adoption,"Omar Ali, Jeffrey Soar, Jianming Yong, Xiaohui Tao",2016,9,Web Intelligence
-10.3233/web-220018,A data cube modeling method for longitudinal cohort study,"Xin Li, Huadong Liang, Lin Li",2022,0,Web Intelligence
-10.3233/web-220028,An automatic generation of software test data based on improved Markov model,"Jiali Chen, Xiaojie Chen, Tao Zan, Mengjia Lian",2022,0,Web Intelligence
-10.3233/web-180371,A graph-based approach for resolving incoherent ontology mappings,"Weizhuo Li, Songmao Zhang, Guilin Qi",2018,9,Web Intelligence
-10.3233/web-220063,Performance evaluation and comparative analysis of CrowWhale-energy and trust aware multicast routing algorithm,"Dipali K. Shende, Yogesh S. Angal",2023,0,Web Intelligence
-10.3233/web-190416,Modelling meme adoption pattern on online social networks,"Sarah Elsharkawy, Ghada Hassan, Tarek Nabhan, Mohamed Roushdy",2019,5,Web Intelligence
-10.3233/web-160329,"Real-time, scalable, content-based Twitter users recommendation","Julien Subercaze, Christophe Gravier, Frédérique Laforest",2016,5,Web Intelligence
-10.3233/web-160348,An intelligent recommender system based on predictive analysis in telehealthcare environment,"Raid Lafta, Ji Zhang, Xiaohui Tao, Yan Li, Vincent S. Tseng, Yonglong Luo, Fulong Chen",2016,18,Web Intelligence
-10.3233/web-180393,Negative trust for conflict resolution in software management,"Giuseppe Primiero, Jaap Boender",2018,7,Web Intelligence
+10.3233/web-160347,Factors to be considered in cloud computing adoption,Omar Ali and Jeffrey Soar and Jianming Yong and Xiaohui Tao,2016,9,Web Intelligence
+10.3233/web-220018,A data cube modeling method for longitudinal cohort study,Xin Li and Huadong Liang and Lin Li,2022,0,Web Intelligence
+10.3233/web-220028,An automatic generation of software test data based on improved Markov model,Jiali Chen and Xiaojie Chen and Tao Zan and Mengjia Lian,2022,0,Web Intelligence
+10.3233/web-220063,Performance evaluation and comparative analysis of CrowWhale-energy and trust aware multicast routing algorithm,Dipali K. Shende and Yogesh S. Angal,2023,0,Web Intelligence
+10.3233/web-190416,Modelling meme adoption pattern on online social networks,Sarah Elsharkawy and Ghada Hassan and Tarek Nabhan and Mohamed Roushdy,2019,5,Web Intelligence
+10.3233/web-160329,"Real-time, scalable, content-based Twitter users recommendation",Julien Subercaze and Christophe Gravier and Frédérique Laforest,2016,5,Web Intelligence
+10.3233/web-180393,Negative trust for conflict resolution in software management,Giuseppe Primiero and Jaap Boender,2018,7,Web Intelligence
+10.3233/web-160348,An intelligent recommender system based on predictive analysis in telehealthcare environment,Raid Lafta and Ji Zhang and Xiaohui Tao and Yan Li and Vincent S. Tseng and Yonglong Luo and Fulong Chen,2016,18,Web Intelligence
+10.3233/web-180371,A graph-based approach for resolving incoherent ontology mappings,Weizhuo Li and Songmao Zhang and Guilin Qi,2018,9,Web Intelligence

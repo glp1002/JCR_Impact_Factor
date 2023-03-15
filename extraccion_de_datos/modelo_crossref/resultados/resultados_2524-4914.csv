@@ -1,100 +1,100 @@
 DOI,Título,Autores,Año,Citas,Revista
-10.1007/s42484-020-00034-6,Methods for accelerating geospatial data processing using quantum computers,"Max Henderson, Jarred Gallina, Michael Brett",2021,7,Quantum Machine Intelligence
-10.1007/s42484-022-00067-z,Continuous-variable optimization with neural network quantum states,"Yabin Zhang, David Gorsich, Paramsothy Jayakumar, Shravan Veerapaneni",2022,0,Quantum Machine Intelligence
-10.1007/s42484-020-00032-8,Sparse quantum Gaussian processes to counter the curse of dimensionality,"Gaweł I. Kuś, Sybrand van der Zwaag, Miguel A. Bessa",2021,0,Quantum Machine Intelligence
-10.1007/s42484-019-00006-5,Quantum machine intelligence,Giovanni Acampora,2019,22,Quantum Machine Intelligence
-10.1007/s42484-019-00005-6,On quantum implication,"Yousef Younes, Ingo Schmitt",2019,2,Quantum Machine Intelligence
-10.1007/s42484-022-00084-y,Computational complexity in high-dimensional quantum computing,"Koji Nagata, Do Ngoc Diep, Tadao Nakamura",2022,0,Quantum Machine Intelligence
-10.1007/s42484-022-00087-9,Overfitting in quantum machine learning and entangling dropout,"Masahiro Kobayashi, Kouhei Nakaji, Naoki Yamamoto",2022,0,Quantum Machine Intelligence
+10.1007/s42484-020-00034-6,Methods for accelerating geospatial data processing using quantum computers,Max Henderson and Jarred Gallina and Michael Brett,2021,7,Quantum Machine Intelligence
+10.1007/s42484-020-00012-y,Quanvolutional neural networks: powering image recognition with quantum circuits,Maxwell Henderson and Samriddhi Shakya and Shashindra Pradhan and Tristan Cook,2020,83,Quantum Machine Intelligence
+10.1007/s42484-019-00003-8,A hybrid machine learning algorithm for designing quantum experiments,L. O’Driscoll and R. Nichols and P. A. Knott,2019,30,Quantum Machine Intelligence
 10.1007/s42484-022-00080-2,Simplified quantum algorithm for the oracle identification problem,Leila Taghavi,2022,0,Quantum Machine Intelligence
-10.1007/s42484-019-00003-8,A hybrid machine learning algorithm for designing quantum experiments,"L. O’Driscoll, R. Nichols, P. A. Knott",2019,30,Quantum Machine Intelligence
-10.1007/s42484-019-00010-9,Nondestructive classification of quantum states using an algorithmic quantum computer,"D. V. Babukhin, A. A. Zhukov, W. V. Pogosov",2019,4,Quantum Machine Intelligence
-10.1007/s42484-021-00045-x,Smooth input preparation for quantum and quantum-inspired machine learning,"Zhikuan Zhao, Jack K. Fitzsimons, Patrick Rebentrost, Vedran Dunjko, Joseph F. Fitzsimons",2021,2,Quantum Machine Intelligence
-10.1007/s42484-023-00099-z,Feature selection on quantum computers,"Sascha Mücke, Raoul Heese, Sabine Müller, Moritz Wolter, Nico Piatkowski",2023,0,Quantum Machine Intelligence
-10.1007/s42484-020-00012-y,Quanvolutional neural networks: powering image recognition with quantum circuits,"Maxwell Henderson, Samriddhi Shakya, Shashindra Pradhan, Tristan Cook",2020,83,Quantum Machine Intelligence
-10.1007/s42484-021-00061-x,Quantum convolutional neural network for classical data classification,"Tak Hur, Leeseok Kim, Daniel K. Park",2022,19,Quantum Machine Intelligence
-10.1007/s42484-022-00090-0,Quantum density peak clustering,"Duarte Magano, Lorenzo Buffoni, Yasser Omar",2023,0,Quantum Machine Intelligence
-10.1007/s42484-021-00048-8,Compiling basic linear algebra subroutines for quantum computers,"Liming Zhao, Zhikuan Zhao, Patrick Rebentrost, Joseph Fitzsimons",2021,5,Quantum Machine Intelligence
-10.1007/s42484-022-00079-9,Learning with density matrices and random features,"Fabio A. González, Alejandro Gallego, Santiago Toledo-Cortés, Vladimir Vargas-Calderón",2022,3,Quantum Machine Intelligence
+10.1007/s42484-022-00084-y,Computational complexity in high-dimensional quantum computing,Koji Nagata and Do Ngoc Diep and Tadao Nakamura,2022,0,Quantum Machine Intelligence
+10.1007/s42484-022-00087-9,Overfitting in quantum machine learning and entangling dropout,Masahiro Kobayashi and Kouhei Nakaji and Naoki Yamamoto,2022,0,Quantum Machine Intelligence
+10.1007/s42484-019-00006-5,Quantum machine intelligence,Giovanni Acampora,2019,22,Quantum Machine Intelligence
+10.1007/s42484-022-00067-z,Continuous-variable optimization with neural network quantum states,Yabin Zhang and David Gorsich and Paramsothy Jayakumar and Shravan Veerapaneni,2022,0,Quantum Machine Intelligence
+10.1007/s42484-020-00032-8,Sparse quantum Gaussian processes to counter the curse of dimensionality,Gaweł I. Kuś and Sybrand van der Zwaag and Miguel A. Bessa,2021,0,Quantum Machine Intelligence
+10.1007/s42484-019-00010-9,Nondestructive classification of quantum states using an algorithmic quantum computer,D. V. Babukhin and A. A. Zhukov and W. V. Pogosov,2019,4,Quantum Machine Intelligence
+10.1007/s42484-019-00005-6,On quantum implication,Yousef Younes and Ingo Schmitt,2019,2,Quantum Machine Intelligence
+10.1007/s42484-021-00045-x,Smooth input preparation for quantum and quantum-inspired machine learning,Zhikuan Zhao and Jack K. Fitzsimons and Patrick Rebentrost and Vedran Dunjko and Joseph F. Fitzsimons,2021,2,Quantum Machine Intelligence
+10.1007/s42484-023-00099-z,Feature selection on quantum computers,Sascha Mücke and Raoul Heese and Sabine Müller and Moritz Wolter and Nico Piatkowski,2023,0,Quantum Machine Intelligence
+10.1007/s42484-021-00061-x,Quantum convolutional neural network for classical data classification,Tak Hur and Leeseok Kim and Daniel K. Park,2022,19,Quantum Machine Intelligence
+10.1007/s42484-021-00039-9,Optimizing the optimizer: decomposition techniques for quantum annealing,Gideon Bass and Maxwell Henderson and Joshua Heath and Joseph Dulny,2021,3,Quantum Machine Intelligence
+10.1007/s42484-022-00090-0,Quantum density peak clustering,Duarte Magano and Lorenzo Buffoni and Yasser Omar,2023,0,Quantum Machine Intelligence
+10.1007/s42484-019-00001-w,Reverse quantum annealing approach to portfolio optimization problems,Davide Venturelli and Alexei Kondratyev,2019,70,Quantum Machine Intelligence
+10.1007/s42484-022-00079-9,Learning with density matrices and random features,Fabio A. González and Alejandro Gallego and Santiago Toledo-Cortés and Vladimir Vargas-Calderón,2022,3,Quantum Machine Intelligence
 10.1007/s42484-021-00052-y,Training Gaussian boson sampling by quantum machine learning,Claudio Conti,2021,1,Quantum Machine Intelligence
-10.1007/s42484-022-00062-4,Quantum transfer learning for breast cancer detection,"Vanda Azevedo, Carla Silva, Inês Dutra",2022,5,Quantum Machine Intelligence
-10.1007/s42484-021-00042-0,Semi-supervised time series classification method for quantum computing,"Sheir Yarkoni, Andrii Kleshchonok, Yury Dzerin, Florian Neukart, Marc Hilbert",2021,4,Quantum Machine Intelligence
+10.1007/s42484-021-00048-8,Compiling basic linear algebra subroutines for quantum computers,Liming Zhao and Zhikuan Zhao and Patrick Rebentrost and Joseph Fitzsimons,2021,5,Quantum Machine Intelligence
+10.1007/s42484-021-00042-0,Semi-supervised time series classification method for quantum computing,Sheir Yarkoni and Andrii Kleshchonok and Yury Dzerin and Florian Neukart and Marc Hilbert,2021,4,Quantum Machine Intelligence
+10.1007/s42484-022-00072-2,Using Shor’s algorithm on near term Quantum computers: a reduced version,Martina Rossi and Luca Asproni and Davide Caputo and Stefano Rossi and Alice Cusinato and Remo Marini and Andrea Agosti and Marco Magagnini,2022,2,Quantum Machine Intelligence
 10.1007/s42484-021-00060-y,Bipolar fuzzy attribute implications,Prem Kumar Singh,2022,4,Quantum Machine Intelligence
-10.1007/s42484-022-00069-x,Mixer-phaser Ansätze for quantum optimization with hard constraints,"Ryan LaRose, Eleanor Rieffel, Davide Venturelli",2022,2,Quantum Machine Intelligence
-10.1007/s42484-023-00097-1,Grammar-aware sentence classification on quantum computers,"Konstantinos Meichanetzidis, Alexis Toumi, Giovanni de Felice, Bob Coecke",2023,0,Quantum Machine Intelligence
-10.1007/s42484-020-00017-7,Implementation of a Hamming distance–like genomic quantum classifier using inner products on ibmqx2 and ibmq_16_melbourne,"Kunal Kathuria, Aakrosh Ratan, Michael McConnell, Stefan Bekiranov",2020,10,Quantum Machine Intelligence
-10.1007/s42484-021-00039-9,Optimizing the optimizer: decomposition techniques for quantum annealing,"Gideon Bass, Maxwell Henderson, Joshua Heath, Joseph Dulny",2021,3,Quantum Machine Intelligence
 10.1007/s42484-023-00096-2,Stationary states of a dissipative two-qubit quantum channel and their applications for quantum machine learning,E. Ghasemian,2023,0,Quantum Machine Intelligence
-10.1007/s42484-022-00072-2,Using Shor’s algorithm on near term Quantum computers: a reduced version,"Martina Rossi, Luca Asproni, Davide Caputo, Stefano Rossi, Alice Cusinato, Remo Marini, Andrea Agosti, Marco Magagnini",2022,2,Quantum Machine Intelligence
-10.1007/s42484-019-00001-w,Reverse quantum annealing approach to portfolio optimization problems,"Davide Venturelli, Alexei Kondratyev",2019,70,Quantum Machine Intelligence
-10.1007/s42484-020-00022-w,Optimizing quantum heuristics with meta-learning,"Max Wilson, Rachel Stromswold, Filip Wudarski, Stuart Hadfield, Norm M. Tubman, Eleanor G. Rieffel",2021,14,Quantum Machine Intelligence
-10.1007/s42484-021-00059-5,Mode connectivity in the loss landscape of parameterized quantum circuits,"Kathleen E. Hamilton, Emily Lynn, Raphael C. Pooser",2022,0,Quantum Machine Intelligence
-10.1007/s42484-020-00026-6,K-spin Hamiltonian for quantum-resolvable Markov decision processes,"Eric B. Jones, Peter Graf, Eliot Kapit, Wesley Jones",2020,1,Quantum Machine Intelligence
-10.1007/s42484-022-00095-9,Decohering tensor network quantum machine learning models,"Haoran Liao, Ian Convy, Zhibo Yang, K. Birgitta Whaley",2023,0,Quantum Machine Intelligence
+10.1007/s42484-022-00062-4,Quantum transfer learning for breast cancer detection,Vanda Azevedo and Carla Silva and Inês Dutra,2022,5,Quantum Machine Intelligence
+10.1007/s42484-020-00022-w,Optimizing quantum heuristics with meta-learning,Max Wilson and Rachel Stromswold and Filip Wudarski and Stuart Hadfield and Norm M. Tubman and Eleanor G. Rieffel,2021,14,Quantum Machine Intelligence
+10.1007/s42484-020-00017-7,Implementation of a Hamming distance–like genomic quantum classifier using inner products on ibmqx2 and ibmq_16_melbourne,Kunal Kathuria and Aakrosh Ratan and Michael McConnell and Stefan Bekiranov,2020,10,Quantum Machine Intelligence
+10.1007/s42484-022-00069-x,Mixer-phaser Ansätze for quantum optimization with hard constraints,Ryan LaRose and Eleanor Rieffel and Davide Venturelli,2022,2,Quantum Machine Intelligence
+10.1007/s42484-023-00097-1,Grammar-aware sentence classification on quantum computers,Konstantinos Meichanetzidis and Alexis Toumi and Giovanni de Felice and Bob Coecke,2023,0,Quantum Machine Intelligence
+10.1007/s42484-022-00068-y,Quantum reinforcement learning: the maze problem,Nicola Dalla Pozza and Lorenzo Buffoni and Stefano Martina and Filippo Caruso,2022,0,Quantum Machine Intelligence
+10.1007/s42484-022-00095-9,Decohering tensor network quantum machine learning models,Haoran Liao and Ian Convy and Zhibo Yang and K. Birgitta Whaley,2023,0,Quantum Machine Intelligence
 10.1007/s42484-020-00029-3,A note on implication operators of quantum logic,Songsong Dai,2020,4,Quantum Machine Intelligence
-10.1007/s42484-022-00086-w,Equivariant quantum graph circuits: constructions for universal approximation over graphs,"Péter Mernyei, Konstantinos Meichanetzidis, İsmail İlkan Ceylan",2023,0,Quantum Machine Intelligence
-10.1007/s42484-020-00019-5,Quantum-classical reinforcement learning for decoding noisy classical parity information,"Daniel K. Park, Jonghun Park, June-Koo Kevin Rhee",2020,1,Quantum Machine Intelligence
-10.1007/s42484-022-00070-4,Quantum neural network autoencoder and classifier applied to an industrial case study,"Stefano Mangini, Alessia Marruzzo, Marco Piantanida, Dario Gerace, Daniele Bajoni, Chiara Macchiavello",2022,1,Quantum Machine Intelligence
-10.1007/s42484-020-00030-w,Learning adiabatic quantum algorithms over optimization problems,"Davide Pastorello, Enrico Blanzieri, Valter Cavecchia",2021,3,Quantum Machine Intelligence
-10.1007/s42484-022-00077-x,Computing graph edit distance on quantum devices,"Massimiliano Incudini, Fabio Tarocco, Riccardo Mengoni, Alessandra Di Pierro, Antonio Mandarino",2022,0,Quantum Machine Intelligence
-10.1007/s42484-022-00083-z,A quantum generative adversarial network for distributions,"Amine Assouel, Antoine Jacquier, Alexei Kondratyev",2022,0,Quantum Machine Intelligence
-10.1007/s42484-022-00068-y,Quantum reinforcement learning: the maze problem,"Nicola Dalla Pozza, Lorenzo Buffoni, Stefano Martina, Filippo Caruso",2022,0,Quantum Machine Intelligence
-10.1007/s42484-021-00053-x,Quantum semi-supervised kernel learning,"Seyran Saeedi, Aliakbar Panahi, Tom Arodz",2021,2,Quantum Machine Intelligence
+10.1007/s42484-022-00086-w,Equivariant quantum graph circuits: constructions for universal approximation over graphs,Péter Mernyei and Konstantinos Meichanetzidis and İsmail İlkan Ceylan,2023,0,Quantum Machine Intelligence
+10.1007/s42484-020-00019-5,Quantum-classical reinforcement learning for decoding noisy classical parity information,Daniel K. Park and Jonghun Park and June-Koo Kevin Rhee,2020,1,Quantum Machine Intelligence
+10.1007/s42484-020-00026-6,K-spin Hamiltonian for quantum-resolvable Markov decision processes,Eric B. Jones and Peter Graf and Eliot Kapit and Wesley Jones,2020,1,Quantum Machine Intelligence
+10.1007/s42484-020-00030-w,Learning adiabatic quantum algorithms over optimization problems,Davide Pastorello and Enrico Blanzieri and Valter Cavecchia,2021,3,Quantum Machine Intelligence
+10.1007/s42484-022-00083-z,A quantum generative adversarial network for distributions,Amine Assouel and Antoine Jacquier and Alexei Kondratyev,2022,0,Quantum Machine Intelligence
+10.1007/s42484-021-00053-x,Quantum semi-supervised kernel learning,Seyran Saeedi and Aliakbar Panahi and Tom Arodz,2021,2,Quantum Machine Intelligence
+10.1007/s42484-020-00024-8,Quantum bandits,Balthazar Casalé and Giuseppe Di Molfetta and Hachem Kadri and Liva Ralaivola,2020,7,Quantum Machine Intelligence
+10.1007/s42484-022-00077-x,Computing graph edit distance on quantum devices,Massimiliano Incudini and Fabio Tarocco and Riccardo Mengoni and Alessandra Di Pierro and Antonio Mandarino,2022,0,Quantum Machine Intelligence
+10.1007/s42484-022-00070-4,Quantum neural network autoencoder and classifier applied to an industrial case study,Stefano Mangini and Alessia Marruzzo and Marco Piantanida and Dario Gerace and Daniele Bajoni and Chiara Macchiavello,2022,1,Quantum Machine Intelligence
 10.1007/s42484-022-00091-z,Non-IID quantum federated learning with one-shot communication complexity,Haimeng Zhao,2023,0,Quantum Machine Intelligence
-10.1007/s42484-020-00023-9,On the convergence of projective-simulation–based reinforcement learning in Markov decision processes,"W. L. Boyajian, J. Clausen, L. M. Trenkwalder, V. Dunjko, H. J. Briegel",2020,2,Quantum Machine Intelligence
-10.1007/s42484-019-00011-8,An evolutionary strategy for finding effective quantum 2-body Hamiltonians of p-body interacting systems,"G. Acampora, V. Cataudella, P. R. Hegde, P. Lucignano, G. Passarelli, A. Vitiello",2019,11,Quantum Machine Intelligence
-10.1007/s42484-019-00009-2,A continuous-variable quantum-inspired algorithm for classical image segmentation,"Akram Youssry, Ahmed El-Rafei, Ri-Gui Zhou",2019,3,Quantum Machine Intelligence
-10.1007/s42484-020-00024-8,Quantum bandits,"Balthazar Casalé, Giuseppe Di Molfetta, Hachem Kadri, Liva Ralaivola",2020,7,Quantum Machine Intelligence
+10.1007/s42484-021-00059-5,Mode connectivity in the loss landscape of parameterized quantum circuits,Kathleen E. Hamilton and Emily Lynn and Raphael C. Pooser,2022,0,Quantum Machine Intelligence
+10.1007/s42484-019-00009-2,A continuous-variable quantum-inspired algorithm for classical image segmentation,Akram Youssry and Ahmed El-Rafei and Ri-Gui Zhou,2019,3,Quantum Machine Intelligence
+10.1007/s42484-020-00023-9,On the convergence of projective-simulation–based reinforcement learning in Markov decision processes,W. L. Boyajian and J. Clausen and L. M. Trenkwalder and V. Dunjko and H. J. Briegel,2020,2,Quantum Machine Intelligence
+10.1007/s42484-019-00011-8,An evolutionary strategy for finding effective quantum 2-body Hamiltonians of p-body interacting systems,G. Acampora and V. Cataudella and P. R. Hegde and P. Lucignano and G. Passarelli and A. Vitiello,2019,11,Quantum Machine Intelligence
 10.1007/s42484-021-00037-x,A projective simulation scheme for partially observable multi-agent systems,Rasoul Kheiri,2021,0,Quantum Machine Intelligence
-10.1007/s42484-020-00016-8,A reinforcement learning approach for quantum state engineering,"Jelena Mackeprang, Durga B. Rao Dasari, Jörg Wrachtrup",2020,17,Quantum Machine Intelligence
-10.1007/s42484-022-00074-0,Optimisation-free density estimation and classification with quantum circuits,"Vladimir Vargas-Calderón, Fabio A. González, Herbert Vinck-Posada",2022,0,Quantum Machine Intelligence
-10.1007/s42484-022-00065-1,Implementable hybrid quantum ant colony optimization algorithm,"M. Garcia de Andoin, J. Echanobe",2022,0,Quantum Machine Intelligence
-10.1007/s42484-021-00051-z,Quantum circuit design search,"Mohammad Pirhooshyaran, Tamás Terlaky",2021,4,Quantum Machine Intelligence
-10.1007/s42484-019-00002-9,Batched quantum state exponentiation and quantum Hebbian learning,"Thomas R. Bromley, Patrick Rebentrost",2019,0,Quantum Machine Intelligence
-10.1007/s42484-020-00015-9,Decoding surface code with a distributed neural network–based decoder,"Savvas Varsamopoulos, Koen Bertels, Carmen G. Almudever",2020,8,Quantum Machine Intelligence
-10.1007/s42484-022-00066-0,Learning the noise fingerprint of quantum devices,"Stefano Martina, Lorenzo Buffoni, Stefano Gherardini, Filippo Caruso",2022,4,Quantum Machine Intelligence
-10.1007/s42484-022-00094-w,Meta-variational quantum Monte Carlo,"Tianchen Zhao, James Stokes, Shravan Veerapaneni",2023,0,Quantum Machine Intelligence
-10.1007/s42484-022-00092-y,Boosting the performance of quantum annealers using machine learning,"Jure Brence, Dragan Mihailović, Viktor V. Kabanov, Ljupčo Todorovski, Sašo Džeroski, Jaka Vodeb",2023,0,Quantum Machine Intelligence
-10.1007/s42484-021-00041-1,A quantum search decoder for natural language processing,"Johannes Bausch, Sathyawageeswar Subramanian, Stephen Piddock",2021,1,Quantum Machine Intelligence
-10.1007/s42484-021-00057-7,The physics of energy-based models,"Patrick Huembeli, Juan Miguel Arrazola, Nathan Killoran, Masoud Mohseni, Peter Wittek",2022,3,Quantum Machine Intelligence
-10.1007/s42484-020-00014-w,Accuracy and minor embedding in subqubo decomposition with fully connected large problems: a case study about the number partitioning problem,"Luca Asproni, Davide Caputo, Blanca Silva, Giovanni Fazzi, Marco Magagnini",2020,4,Quantum Machine Intelligence
-10.1007/s42484-023-00098-0,SARS-CoV-2 spike and ACE2 entanglement-like binding,"Massimo Pregnolato, Paola Zizzi",2023,0,Quantum Machine Intelligence
-10.1007/s42484-021-00054-w,Charged particle tracking with quantum annealing optimization,"Alexander Zlokapa, Abhishek Anand, Jean-Roch Vlimant, Javier M. Duarte, Joshua Job, Daniel Lidar, Maria Spiropulu",2021,6,Quantum Machine Intelligence
-10.1007/s42484-021-00055-9,Hybrid quantum classical graph neural networks for particle track reconstruction,"Cenk Tüysüz, Carla Rieger, Kristiane Novotny, Bilge Demirköz, Daniel Dobos, Karolos Potamianos, Sofia Vallecorsa, Jean-Roch Vlimant, Richard Forster",2021,7,Quantum Machine Intelligence
-10.1007/s42484-020-00027-5,Pseudo-dimension of quantum circuits,"Matthias C. Caro, Ishaun Datta",2020,16,Quantum Machine Intelligence
-10.1007/s42484-020-00018-6,On quantum ensembles of quantum classifiers,"Amira Abbas, Maria Schuld, Francesco Petruccione",2020,11,Quantum Machine Intelligence
-10.1007/s42484-023-00100-9,Continuous-variable neural network quantum states and the quantum rotor model,"James Stokes, Saibal De, Shravan Veerapaneni, Giuseppe Carleo",2023,0,Quantum Machine Intelligence
-10.1007/s42484-019-00008-3,Application of machine intelligence for osteoarthritis classification: a classical implementation and a quantum perspective,"Serafeim Moustakidis, Eirini Christodoulou, Elpiniki Papageorgiou, Christos Kokkotis, Nikos Papandrianos, Dimitrios Tsaopoulos",2019,18,Quantum Machine Intelligence
-10.1007/s42484-021-00047-9,Quantum-assisted associative adversarial network: applying quantum annealing in deep learning,"Max Wilson, Thomas Vandal, Tad Hogg, Eleanor G. Rieffel",2021,10,Quantum Machine Intelligence
-10.1007/s42484-021-00040-2,Robust implementation of generative modeling with parametrized quantum circuits,"Vicente Leyton-Ortega, Alejandro Perdomo-Ortiz, Oscar Perdomo",2021,7,Quantum Machine Intelligence
-10.1007/s42484-020-00031-9,Investigating the Chinese postman problem on a quantum annealer,"Ilaria Siloi, Virginia Carnevali, Bibek Pokharel, Marco Fornari, Rosa Di Felice",2021,5,Quantum Machine Intelligence
-10.1007/s42484-022-00071-3,A hybrid quantum image edge detector for the NISQ era,"Alexander Geng, Ali Moghiseh, Claudia Redenbach, Katja Schladitz",2022,0,Quantum Machine Intelligence
-10.1007/s42484-022-00082-0,Pairwise classification using quantum support vector machine with Kronecker kernel,"Taisei Nohara, Satoshi Oyama, Itsuki Noda",2022,0,Quantum Machine Intelligence
-10.1007/s42484-022-00078-w,Quantum algorithms for structured prediction,"Behrooz Sepehry, Ehsan Iranmanesh, Michael P. Friedlander, Pooya Ronagh",2022,0,Quantum Machine Intelligence
-10.1007/s42484-021-00058-6,Exploring quantum perceptron and quantum neural network structures with a teacher-student scheme,"Aikaterini Gratsea, Patrick Huembeli",2022,2,Quantum Machine Intelligence
-10.1007/s42484-021-00049-7,Quantum-accessible reinforcement learning beyond strictly epochal environments,"A. Hamann, V. Dunjko, S. Wölk",2021,2,Quantum Machine Intelligence
-10.1007/s42484-021-00046-w,QDNN: deep neural networks with quantum layers,"Chen Zhao, Xiao-Shan Gao",2021,8,Quantum Machine Intelligence
-10.1007/s42484-021-00050-0,Quantum computing methods for supervised learning,"Viraj Kulkarni, Milind Kulkarni, Aniruddha Pant",2021,8,Quantum Machine Intelligence
+10.1007/s42484-020-00016-8,A reinforcement learning approach for quantum state engineering,Jelena Mackeprang and Durga B. Rao Dasari and Jörg Wrachtrup,2020,17,Quantum Machine Intelligence
+10.1007/s42484-022-00074-0,Optimisation-free density estimation and classification with quantum circuits,Vladimir Vargas-Calderón and Fabio A. González and Herbert Vinck-Posada,2022,0,Quantum Machine Intelligence
+10.1007/s42484-022-00065-1,Implementable hybrid quantum ant colony optimization algorithm,M. Garcia de Andoin and J. Echanobe,2022,0,Quantum Machine Intelligence
+10.1007/s42484-021-00051-z,Quantum circuit design search,Mohammad Pirhooshyaran and Tamás Terlaky,2021,4,Quantum Machine Intelligence
+10.1007/s42484-019-00002-9,Batched quantum state exponentiation and quantum Hebbian learning,Thomas R. Bromley and Patrick Rebentrost,2019,0,Quantum Machine Intelligence
+10.1007/s42484-020-00015-9,Decoding surface code with a distributed neural network–based decoder,Savvas Varsamopoulos and Koen Bertels and Carmen G. Almudever,2020,8,Quantum Machine Intelligence
+10.1007/s42484-022-00066-0,Learning the noise fingerprint of quantum devices,Stefano Martina and Lorenzo Buffoni and Stefano Gherardini and Filippo Caruso,2022,4,Quantum Machine Intelligence
+10.1007/s42484-022-00094-w,Meta-variational quantum Monte Carlo,Tianchen Zhao and James Stokes and Shravan Veerapaneni,2023,0,Quantum Machine Intelligence
+10.1007/s42484-022-00092-y,Boosting the performance of quantum annealers using machine learning,Jure Brence and Dragan Mihailović and Viktor V. Kabanov and Ljupčo Todorovski and Sašo Džeroski and Jaka Vodeb,2023,0,Quantum Machine Intelligence
+10.1007/s42484-021-00041-1,A quantum search decoder for natural language processing,Johannes Bausch and Sathyawageeswar Subramanian and Stephen Piddock,2021,1,Quantum Machine Intelligence
+10.1007/s42484-021-00057-7,The physics of energy-based models,Patrick Huembeli and Juan Miguel Arrazola and Nathan Killoran and Masoud Mohseni and Peter Wittek,2022,3,Quantum Machine Intelligence
+10.1007/s42484-020-00014-w,Accuracy and minor embedding in subqubo decomposition with fully connected large problems: a case study about the number partitioning problem,Luca Asproni and Davide Caputo and Blanca Silva and Giovanni Fazzi and Marco Magagnini,2020,4,Quantum Machine Intelligence
+10.1007/s42484-023-00098-0,SARS-CoV-2 spike and ACE2 entanglement-like binding,Massimo Pregnolato and Paola Zizzi,2023,0,Quantum Machine Intelligence
+10.1007/s42484-019-00008-3,Application of machine intelligence for osteoarthritis classification: a classical implementation and a quantum perspective,Serafeim Moustakidis and Eirini Christodoulou and Elpiniki Papageorgiou and Christos Kokkotis and Nikos Papandrianos and Dimitrios Tsaopoulos,2019,18,Quantum Machine Intelligence
+10.1007/s42484-021-00054-w,Charged particle tracking with quantum annealing optimization,Alexander Zlokapa and Abhishek Anand and Jean-Roch Vlimant and Javier M. Duarte and Joshua Job and Daniel Lidar and Maria Spiropulu,2021,6,Quantum Machine Intelligence
+10.1007/s42484-021-00055-9,Hybrid quantum classical graph neural networks for particle track reconstruction,Cenk Tüysüz and Carla Rieger and Kristiane Novotny and Bilge Demirköz and Daniel Dobos and Karolos Potamianos and Sofia Vallecorsa and Jean-Roch Vlimant and Richard Forster,2021,7,Quantum Machine Intelligence
+10.1007/s42484-020-00027-5,Pseudo-dimension of quantum circuits,Matthias C. Caro and Ishaun Datta,2020,16,Quantum Machine Intelligence
+10.1007/s42484-020-00018-6,On quantum ensembles of quantum classifiers,Amira Abbas and Maria Schuld and Francesco Petruccione,2020,11,Quantum Machine Intelligence
+10.1007/s42484-023-00100-9,Continuous-variable neural network quantum states and the quantum rotor model,James Stokes and Saibal De and Shravan Veerapaneni and Giuseppe Carleo,2023,0,Quantum Machine Intelligence
+10.1007/s42484-021-00047-9,Quantum-assisted associative adversarial network: applying quantum annealing in deep learning,Max Wilson and Thomas Vandal and Tad Hogg and Eleanor G. Rieffel,2021,10,Quantum Machine Intelligence
+10.1007/s42484-021-00040-2,Robust implementation of generative modeling with parametrized quantum circuits,Vicente Leyton-Ortega and Alejandro Perdomo-Ortiz and Oscar Perdomo,2021,7,Quantum Machine Intelligence
+10.1007/s42484-020-00031-9,Investigating the Chinese postman problem on a quantum annealer,Ilaria Siloi and Virginia Carnevali and Bibek Pokharel and Marco Fornari and Rosa Di Felice,2021,5,Quantum Machine Intelligence
+10.1007/s42484-022-00071-3,A hybrid quantum image edge detector for the NISQ era,Alexander Geng and Ali Moghiseh and Claudia Redenbach and Katja Schladitz,2022,0,Quantum Machine Intelligence
+10.1007/s42484-022-00082-0,Pairwise classification using quantum support vector machine with Kronecker kernel,Taisei Nohara and Satoshi Oyama and Itsuki Noda,2022,0,Quantum Machine Intelligence
+10.1007/s42484-022-00078-w,Quantum algorithms for structured prediction,Behrooz Sepehry and Ehsan Iranmanesh and Michael P. Friedlander and Pooya Ronagh,2022,0,Quantum Machine Intelligence
+10.1007/s42484-021-00058-6,Exploring quantum perceptron and quantum neural network structures with a teacher-student scheme,Aikaterini Gratsea and Patrick Huembeli,2022,2,Quantum Machine Intelligence
+10.1007/s42484-021-00049-7,Quantum-accessible reinforcement learning beyond strictly epochal environments,A. Hamann and V. Dunjko and S. Wölk,2021,2,Quantum Machine Intelligence
+10.1007/s42484-021-00046-w,QDNN: deep neural networks with quantum layers,Chen Zhao and Xiao-Shan Gao,2021,8,Quantum Machine Intelligence
+10.1007/s42484-021-00050-0,Quantum computing methods for supervised learning,Viraj Kulkarni and Milind Kulkarni and Aniruddha Pant,2021,8,Quantum Machine Intelligence
 10.1007/s42484-022-00081-1,Deep tensor networks with matrix product operators,Bojan Žunkovič,2022,1,Quantum Machine Intelligence
-10.1007/s42484-022-00063-3,A continuous variable Born machine,"Ieva Čepaitė, Brian Coyle, Elham Kashefi",2022,1,Quantum Machine Intelligence
-10.1007/s42484-020-00033-7,Variational quantum Boltzmann machines,"Christa Zoufal, Aurélien Lucchi, Stefan Woerner",2021,26,Quantum Machine Intelligence
-10.1007/s42484-019-00004-7,Bayesian deep learning on a quantum computer,"Zhikuan Zhao, Alejandro Pozas-Kerstjens, Patrick Rebentrost, Peter Wittek",2019,24,Quantum Machine Intelligence
-10.1007/s42484-020-00013-x,Quantum learning with noise and decoherence: a robust quantum neural network,"Nam H. Nguyen, Elizabeth C. Behrman, James E. Steck",2020,15,Quantum Machine Intelligence
-10.1007/s42484-022-00075-z,Hybrid classical-quantum autoencoder for anomaly detection,"Alona Sakhnenko, Corey O’Meara, Kumar J. B. Ghosh, Christian B. Mendl, Giorgio Cortiana, Juan Bernabé-Moreno",2022,2,Quantum Machine Intelligence
-10.1007/s42484-020-00025-7,Universal discriminative quantum neural networks,"H. Chen, L. Wossnig, S. Severini, H. Neven, M. Mohseni",2021,24,Quantum Machine Intelligence
-10.1007/s42484-019-00007-4,Kernel methods in Quantum Machine Learning,"Riccardo Mengoni, Alessandra Di Pierro",2019,18,Quantum Machine Intelligence
-10.1007/s42484-020-00020-y,Analysis and synthesis of feature map for kernel-based quantum classifier,"Yudai Suzuki, Hiroshi Yano, Qi Gao, Shumpei Uno, Tomoki Tanaka, Manato Akiyama, Naoki Yamamoto",2020,10,Quantum Machine Intelligence
-10.1007/s42484-022-00089-7,Quantum image representation: a review,"Marina Lisnichenko, Stanislav Protasov",2023,0,Quantum Machine Intelligence
-10.1007/s42484-022-00088-8,Dimension-adaptive machine learning-based quantum state reconstruction,"Sanjaya Lohani, Sangita Regmi, Joseph M. Lukens, Ryan T. Glasser, Thomas A. Searles, Brian T. Kirby",2023,0,Quantum Machine Intelligence
-10.1007/s42484-022-00073-1,Learning classical readout quantum PUFs based on single-qubit gates,"Niklas Pirnay, Anna Pappa, Jean-Pierre Seifert",2022,1,Quantum Machine Intelligence
-10.1007/s42484-022-00076-y,Quantum algorithms for SVD-based data representation and analysis,"Armando Bellante, Alessandro Luongo, Stefano Zanero",2022,0,Quantum Machine Intelligence
-10.1007/s42484-022-00085-x,Correction to: Mixer‑phaser ansätze for quantum optimization with hard constraints,"Ryan LaRose, Eleanor Riefel, Davide Venturelli",2022,0,Quantum Machine Intelligence
+10.1007/s42484-022-00063-3,A continuous variable Born machine,Ieva Čepaitė and Brian Coyle and Elham Kashefi,2022,1,Quantum Machine Intelligence
+10.1007/s42484-020-00033-7,Variational quantum Boltzmann machines,Christa Zoufal and Aurélien Lucchi and Stefan Woerner,2021,26,Quantum Machine Intelligence
+10.1007/s42484-020-00013-x,Quantum learning with noise and decoherence: a robust quantum neural network,Nam H. Nguyen and Elizabeth C. Behrman and James E. Steck,2020,15,Quantum Machine Intelligence
+10.1007/s42484-022-00075-z,Hybrid classical-quantum autoencoder for anomaly detection,Alona Sakhnenko and Corey O’Meara and Kumar J. B. Ghosh and Christian B. Mendl and Giorgio Cortiana and Juan Bernabé-Moreno,2022,2,Quantum Machine Intelligence
+10.1007/s42484-020-00025-7,Universal discriminative quantum neural networks,H. Chen and L. Wossnig and S. Severini and H. Neven and M. Mohseni,2021,24,Quantum Machine Intelligence
+10.1007/s42484-019-00007-4,Kernel methods in Quantum Machine Learning,Riccardo Mengoni and Alessandra Di Pierro,2019,18,Quantum Machine Intelligence
+10.1007/s42484-019-00004-7,Bayesian deep learning on a quantum computer,Zhikuan Zhao and Alejandro Pozas-Kerstjens and Patrick Rebentrost and Peter Wittek,2019,24,Quantum Machine Intelligence
+10.1007/s42484-020-00028-4,Mapping graph coloring to quantum annealing,Carla Silva and Ana Aguiar and Priscila M. V. Lima and Inês Dutra,2020,4,Quantum Machine Intelligence
 10.1007/s42484-021-00043-z,Binary classification with classical instances and quantum labels,Matthias C. Caro,2021,0,Quantum Machine Intelligence
-10.1007/s42484-021-00038-w,"Evaluation of parameterized quantum circuits: on the relation between classification accuracy, expressibility, and entangling capability","Thomas Hubregtsen, Josef Pichlmeier, Patrick Stecher, Koen Bertels",2021,21,Quantum Machine Intelligence
-10.1007/s42484-021-00044-y,A fuzzy approach using asymmetrical triangular distribution in a two-person zero-sum game for a multi-criteria decision-making problem,"Sarin Abraham, M. Punniyamoorthy",2021,3,Quantum Machine Intelligence
-10.1007/s42484-020-00028-4,Mapping graph coloring to quantum annealing,"Carla Silva, Ana Aguiar, Priscila M. V. Lima, Inês Dutra",2020,4,Quantum Machine Intelligence
-10.1007/s42484-021-00056-8,An introduction to quantum machine learning: from quantum logic to quantum deep learning,"Leonardo Alchieri, Davide Badalotti, Pietro Bonardi, Simone Bianco",2021,8,Quantum Machine Intelligence
-10.1007/s42484-020-00035-5,Facial expression recognition on a quantum computer,"Riccardo Mengoni, Massimiliano Incudini, Alessandra Di Pierro",2021,4,Quantum Machine Intelligence
-10.1007/s42484-020-00021-x,Error-mitigated data-driven circuit learning on noisy quantum hardware,"Kathleen E. Hamilton, Raphael C. Pooser",2020,9,Quantum Machine Intelligence
+10.1007/s42484-020-00021-x,Error-mitigated data-driven circuit learning on noisy quantum hardware,Kathleen E. Hamilton and Raphael C. Pooser,2020,9,Quantum Machine Intelligence
+10.1007/s42484-021-00038-w,"Evaluation of parameterized quantum circuits: on the relation between classification accuracy, expressibility, and entangling capability",Thomas Hubregtsen and Josef Pichlmeier and Patrick Stecher and Koen Bertels,2021,21,Quantum Machine Intelligence
+10.1007/s42484-021-00044-y,A fuzzy approach using asymmetrical triangular distribution in a two-person zero-sum game for a multi-criteria decision-making problem,Sarin Abraham and M. Punniyamoorthy,2021,3,Quantum Machine Intelligence
+10.1007/s42484-020-00035-5,Facial expression recognition on a quantum computer,Riccardo Mengoni and Massimiliano Incudini and Alessandra Di Pierro,2021,4,Quantum Machine Intelligence
+10.1007/s42484-021-00056-8,An introduction to quantum machine learning: from quantum logic to quantum deep learning,Leonardo Alchieri and Davide Badalotti and Pietro Bonardi and Simone Bianco,2021,8,Quantum Machine Intelligence
+10.1007/s42484-022-00073-1,Learning classical readout quantum PUFs based on single-qubit gates,Niklas Pirnay and Anna Pappa and Jean-Pierre Seifert,2022,1,Quantum Machine Intelligence
+10.1007/s42484-022-00076-y,Quantum algorithms for SVD-based data representation and analysis,Armando Bellante and Alessandro Luongo and Stefano Zanero,2022,0,Quantum Machine Intelligence
+10.1007/s42484-022-00085-x,Correction to: Mixer‑phaser ansätze for quantum optimization with hard constraints,Ryan LaRose and Eleanor Riefel and Davide Venturelli,2022,0,Quantum Machine Intelligence
+10.1007/s42484-022-00088-8,Dimension-adaptive machine learning-based quantum state reconstruction,Sanjaya Lohani and Sangita Regmi and Joseph M. Lukens and Ryan T. Glasser and Thomas A. Searles and Brian T. Kirby,2023,0,Quantum Machine Intelligence
+10.1007/s42484-022-00089-7,Quantum image representation: a review,Marina Lisnichenko and Stanislav Protasov,2023,0,Quantum Machine Intelligence
+10.1007/s42484-020-00020-y,Analysis and synthesis of feature map for kernel-based quantum classifier,Yudai Suzuki and Hiroshi Yano and Qi Gao and Shumpei Uno and Tomoki Tanaka and Manato Akiyama and Naoki Yamamoto,2020,10,Quantum Machine Intelligence
 10.1007/s42484-022-00064-2,Quantum information distance based on classical descriptions,Songsong Dai,2022,1,Quantum Machine Intelligence
-10.1007/s42484-020-00036-4,Layerwise learning for quantum neural networks,"Andrea Skolik, Jarrod R. McClean, Masoud Mohseni, Patrick van der Smagt, Martin Leib",2021,72,Quantum Machine Intelligence
+10.1007/s42484-020-00036-4,Layerwise learning for quantum neural networks,Andrea Skolik and Jarrod R. McClean and Masoud Mohseni and Patrick van der Smagt and Martin Leib,2021,73,Quantum Machine Intelligence
