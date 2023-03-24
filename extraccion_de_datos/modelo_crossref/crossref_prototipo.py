@@ -20,12 +20,14 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Configuración del archivo de "log"
-logger = logging.getLogger('crossref_log')
+logger = logging.getLogger('resultados2/crossref_log')
 logger.setLevel(logging.DEBUG)
-fh = logging.FileHandler('crossref.log')
+fh = logging.FileHandler('resultados2/crossref.log')
 formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 fh.setFormatter(formatter)
 logger.addHandler(fh)
+
+CATEGORIA = "COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE"
 
 
 # Definición de métodos
@@ -63,16 +65,11 @@ def journalExist(issn: str, journal: str) -> bool:
             return True
         else:
             logger.warning(f'La revista {journal} no existe.')
-            return False
     else:
         logger.error(f'Error para "{journal}" al realizar la solicitud: {response.status_code}')
-        
-# def getReferences(doi: str) -> None|int:
-#     response = requests.get(f'http://api.crossref.org/works/{doi}')
-#     if response.ok:
-#         pass
-#     else:
-#         return None
+    
+    return False
+
         
 def getArticles(issn: str, year_i: str, year_f: str) -> list[dict[str, str]]:
     """
@@ -163,13 +160,17 @@ def loadData(csv_name: str) -> list:
         reader = csv.reader(csvfile, delimiter=',', quotechar='"')
 
         # Saltar las filas iniciales que no contienen información de revistas
-        for i in range(3):
-            next(reader)
+        next(reader)
 
         # Iterar sobre las filas restantes y extraer el nombre del journal y el ISSN
         for row in reader:
-            if len(row) > 1:
-                journal_list.append((row[0], row[3]))
+            if len(row) > 1 and row[4].startswith(CATEGORIA) and row[6] != "" :
+                if row[2] != "" and row[2] != "N/A":
+                    issn = row[2]
+                else:
+                    issn = row[3]
+                    
+                journal_list.append((row[0], issn))
     return journal_list
 
 def plotBar(time_data: dict) -> None:
@@ -197,7 +198,7 @@ def plotBar(time_data: dict) -> None:
             plt.subplots_adjust(bottom=0.20)
             
             # Guardar la gráfica en un archivo de imagen
-            plt.savefig('grafica_tiempos.png')
+            plt.savefig('resultados2/grafica_tiempos.png')
     else:
         logger.warning(f'No hay datos para graficar.')
 
@@ -212,13 +213,13 @@ def main(year_i:str, year_f:str, csv_name: str) -> int:
     
     # Especifica los parámetros de búsqueda de la API de Crossref
     for (journal,issn) in loadData(csv_name):
-        
+
         # Comprobamos que la revista en cuestión existe
         if journalExist(issn, journal):
 
             # Comprobamos el tiempo que tarda -> INICIO
             initial_time = datetime.datetime.now()
-            logger.info(f"[TIME] La hora de comienzo es: {initial_time.time()}")
+            logger.info(f"[TIME] Hora de comienzo.")
 
             # Realizamos la búsqueda de los artículos (a partir de cualquiera de sus dos ISSN)
             data = getArticles(issn, year_i, year_f)
@@ -226,11 +227,11 @@ def main(year_i:str, year_f:str, csv_name: str) -> int:
             # Transformamos los datos a CSV
             # NOTA: en un futuro irá directamente a la BBDD
             df = pd.DataFrame(data)
-            df.to_csv('resultados/resultados_'+ issn +'.csv', index=False, encoding='utf-8')
+            df.to_csv('resultados2/resultados_'+ issn +'.csv', index=False, encoding='utf-8')
 
             # Comprobamos el tiempo que tarda -> FIN
             final_time = datetime.datetime.now()
-            logger.info(f"[TIME] La hora de finalización es: {final_time.time()}")
+            logger.info(f"[TIME] La hora de finalizacion.")
             logger.info(f"[TIME] El tiempo que ha tardado es: {final_time-initial_time}")
             time_data[issn] = int(final_time.timestamp()) - int(initial_time.timestamp())
             
@@ -240,7 +241,7 @@ def main(year_i:str, year_f:str, csv_name: str) -> int:
    
 
 if __name__ == '__main__':
-    main("2000", "2023", r'JCR_JournalResults_01_2023_ComputerScience_AI.csv')
+    main("2000", "2023", r'JCR_AI_2021.csv')
    
     
 

@@ -1,0 +1,836 @@
+DOI,Título,Autores,Año,Citas,Revista
+10.18280/ts.370404,Determination of the Appropriate Kernel Structure in Electroencephalography Analysis of Alcoholic Subjects,Omer Akgun,2020,0,Traitement du Signal
+10.18280/ts.380610,A Framework for Cross-Modality Guided Contrast Enhancement of CT Liver Using MRI,Ahmed Elaraby and Ayman Taha,2021,0,Traitement du Signal
+10.18280/ts.380525,FAFNet: A False Alarm Filter Algorithm for License Plate Detection Based on Deep Neural Network,Hui Huang and Zhe Li,2021,0,Traitement du Signal
+10.3166/ts.30.343-365,Capteur d’images à grande dynamique et compression intégrée pour technologie 3D,Fadoua Guezzi-Messaoud and Antoine Dupret and Arnaud Peizerat and Yves Blanchard,2013,0,Traitement du signal
+10.3166/ts.32.417-442,Contrôle gestuel de la synthèse vocale. Les instruments Cantor Digitalis et Digitartic,Lionel Feugère and Christophe D'Allesandro and Adrien Bartoli,2015,1,Traitement du signal
+10.18280/ts.380511,Deep Learning Based Super Resolution and Classification Applications for Neonatal Thermal Images,Fatih M. Senalp and Murat Ceylan,2021,4,Traitement du Signal
+10.18280/ts.370105,Human Action Recognition in Video Sequences Using Deep Belief Networks,Mehrez Abdellaoui and Ali Douik,2020,12,Traitement du Signal
+10.18280/ts.380214,A New Approach for Eye-Blink to Speech Conversion by Dynamic Time Warping,Güneş Ekim and Ayten Atasoy and Nuri İkizler,2021,3,Traitement du Signal
+10.18280/ts.360602,Novel Method for Brain Tumor Classification Based on Use of Image Entropy and Seven Hu’s Invariant Moments,Salim Ouchtati and Abdelhakim Chergui and Sébastien Mavromatis and Belmeguenai Aissa and Djemili Rafik and Jean Sequeira,2019,10,Traitement du Signal
+10.18280/ts.360612,Robust Optimized Discrete Wavelet Transform-Singular Value Decomposition Based Video Watermarking,Swaraja Kuraparthi and Meenakshi Kollati and Padmavathi Kora,2019,21,Traitement du Signal
+10.3166/ts.27.161-187,"Parallélisation d'opérateurs de TI : multi-cœurs, Cell ou GPU ?",Antoine Pédron and Florence Laguzet and Tarik Saidani and Pierre Courbin and Lionel Lacassagne and Michèle Gouiffrès,2010,2,Traitement du signal
+10.18280/ts.390123,A Novel Ensemble Bagging Classification Method for Breast Cancer Classification Using Machine Learning Techniques,Naga Deepti Ponnaganti and Raju Anitha,2022,0,Traitement du Signal
+10.3166/ts.29.123-142,Contours actifs avec a priori de forme basé sur la transformée de Fourier-Mellin analytique,Slim M'Hiri and Mohamed Amine Mezghich and Malek Sellami,2012,0,Traitement du signal
+10.3166/ts.35.183-198,Forward modelling of circular loop source and calculation of whole area apparent resistivity based on TEM,Jun ZHANG and Yanging WU and Hongchun YI,2018,1,Traitement du signal
+10.3166/ts.28.375-416,EFIDIR : extraction et fusion d’informations pour la mesure de déplacements par imagerie rad,Emmanuel Trouvé,2011,0,Traitement du signal
+10.3166/ts.33.385-402,Une solution analytique pour l’identification aveugle au second ordre d’un système à deux entrées et deux sorties,Abdelfettah MEZIANE and Bentahar MEZIANE and Abdeldjalil AISSA-EL-BEY and Thierry CHONAVEL and Adel BELOUCHRANI,2016,0,Traitement du signal
+10.18280/ts.390221,Image Target Recognition Based on Multiregional Features under Hybrid Attention Mechanism,Hui Zhao,2022,0,Traitement du Signal
+10.18280/ts.390229,New Feature Extraction Approaches Based on Spatial Points for Visual-Only Lip-Reading,Hamdullah Tung and Ramazan Tekin,2022,0,Traitement du Signal
+10.18280/ts.390222,Emotion Recognition from Speech Utterances with Hybrid Spectral Features Using Machine Learning Algorithms,Kogila Raghu and Manchala Sadanandam,2022,0,Traitement du Signal
+10.18280/ts.390211,Driver Drowsiness Detection and Alert System Development Using Object Detection,Jian-Da Wu and Chia-Hsin Chang,2022,0,Traitement du Signal
+10.18280/ts.380408,Hemispheric Coherence Analysis of Wide Band EEG Signals for Characterization of Post-Stroke Patients with Dementia,Sugondo Hadiyoso and Hasballah Zakaria and Paulus Anam Ong and Tati Latifah E.R. Mengko,2021,0,Traitement du Signal
+10.18280/ts.390135,Detection of Sugarcane Mosaic Diseases Using Deep Learning Architecture to Avoid Annealing Temperature of PCR Primer in Laboratory Testing,Thamarai Muthusamy and Gomathi Eswaran,2022,0,Traitement du Signal
+10.3166/ts.28.57-79,Introduction au STAP : 3. Les données du club STAP,Stéphane Bidon and Marc Montécot and Laurent Savy,2011,0,Traitement du signal
+10.18280/ts.390604,WaveTexNeT: Ensemble Based Wavelet-Xception Deep Neural Network Architecture for Color Texture Classification,Philomina Simon and Uma Vijayasundaram,2022,0,Traitement du Signal
+10.18280/ts.390633,Noise Signal Recognition and Noise Reduction Algorithm of Ships,Xuehai Pan,2022,0,Traitement du Signal
+10.18280/ts.390622,An Improved Transfer Learning Approach for Classification of Types of Cancer,Deepak Mane and Rashmi Ashtagi and Prashant Kumbharkar and Sandeep Kadam and Dipmala Salunkhe and Gopal Upadhye,2022,0,Traitement du Signal
+10.18280/ts.370209,Automatic Detection of Schizophrenia by Applying Deep Learning over Spectrogram Images of EEG Signals,Zülfikar Aslan and Mehmet Akin,2020,41,Traitement du Signal
+10.18280/ts.370305,Big Data-Driven Feature Extraction and Clustering Based on Statistical Methods,Venkata Maddumala and R Arunkumar,2020,9,Traitement du Signal
+10.18280/ts.360305,Image Transformation Technique Using Steganography Methods Using LWT Technique,Singamaneni Kumar and Pallela Reddy and Gajula Ramesh and Venkata Maddumala,2019,19,Traitement du Signal
+10.3166/ts.27.389-419,Méthodes d'optimisation du système PCL. Réseau d'antennes à chevauchement d'éléments pour la détection passive cohérente d'échos radar à faible puissance,Louis-Philippe Gill and Dominic Grenier and Jean-Yves Chouinard,2010,0,Traitement du signal
+10.18280/ts.370210,Satellite Image Enhancement Using an Ameliorated Balance Contrast Enhancement Technique,Zohair Al-Ameen,2020,0,Traitement du Signal
+10.18280/ts.380403,Label Importance Ranking with Entropy Variation Complex Networks for Structured Video Captioning,Wenjia Tian and Yanzhu Hu,2021,0,Traitement du Signal
+10.3166/ts.27.541-562,Markov-MJPEG2000 pour la surveillance vidéo sur des réseaux de capteurs sans fils,David Faura and Khalil Hachicha and Olivier Romain and Patrick Garda,2010,0,Traitement du signal
+10.18280/ts.360609,Wavelet-Based Self-adaptive Hierarchical Thresholding Algorithm and Its Application in Image Denoising,Jianhua Zhang and Qiang Zhu and Lin Song,2019,2,Traitement du Signal
+10.3166/ts.34.33-44,Microbubble generation and trapping induced by femtosecond laser and acoustic signal analysis,Kun YANG and Linyan XUE and Kang YIN and Shuang LIU and Jie MENG,2017,0,Traitement du signal
+10.18280/ts.360307,A New Post-whitening Transform Domain LMS Algorithm,Laid Chergui and Saad Bouguezel,2019,0,Traitement du Signal
+10.18280/ts.380620,Investigating the Effect of COVID-19 Infection on P300 Based BCI Application Performance,Onur Erdem Korkmaz and Onder Aydemir and Emin Argun Oral and Ibrahim Yucel Ozbek,2021,0,Traitement du Signal
+10.3166/ts.29.307-332,Détection et localisation d’objets stationnaires par une paire de caméras PTZ,Constant Guillot and Quoc-Cuong Pham and Patrick Sayd and Christophe Tilmant and Jean-Marc Lavest,2012,0,Traitement du signal
+10.18280/ts.390110,A Closed-Loop Detection Algorithm for Indoor Simultaneous Localization and Mapping Based on You Only Look Once v3,Fuchun Jiang and Hongyi Zhang and Chenwei Feng and Chen Zhu,2022,0,Traitement du Signal
+10.18280/ts.360206,Chinese Alt Text Writing Based on Deep Learning,Jinbao Xie and Ruitong Li and Shiwei Lv and Yujing Wang and Qiangyan Wang and Yury Vorotnitsky,2019,3,Traitement du Signal
+10.18280/ts.380415,Disparity Computation Through PDE and Data-Driven CeNN Technique,Mahima Lakra and Sanjeev Kumar,2021,0,Traitement du Signal
+10.18280/ts.380622,Detection and Classification of Potato Diseases Potato Using a New Convolution Neural Network Architecture,Ali Arshaghi and Mohsen Ashourin and Leila Ghabeli,2021,2,Traitement du Signal
+10.3166/ts.33.53-72,Utilisation de warping temporel pour étendre le domaine de fonctionnement d’un procédé d’inversion géoacoustique passive,Amélie Barazzutti and Cédric Gervaise and Jérôme Mars,2016,1,Traitement du signal
+10.18280/ts.390131,Analysis of Regenerative Raw Signals Using Variational Mode Decomposition,Yogesh Shrivastava and Eram Neha and Bhagat Singh and Prashant Kumar Shrivastava and K.V.S.R. Murthy and Durgesh Nandan,2022,0,Traitement du Signal
+10.18280/ts.380631,"A Perspective Study on Speech Emotion Recognition: Databases, Features and Classification Models",Kogila Raghu and Manchala Sadanandam,2021,0,Traitement du Signal
+10.18280/ts.370310,Finger Vein Recognition by Combining Anisotropic Diffusion and a New Feature Extraction Method,Fatih Titrek and Ömer Baykan,2020,1,Traitement du Signal
+10.18280/ts.360109,Signal Separation of Phase-sensitive Optical Time-domain Reflectometry Considering Thermo-mechanical Coupling and 3D Data Matching,Song Wang and Yanzhu Hu and Na Liu,2019,1,Traitement du Signal
+10.18280/ts.370518,Retrieval of Multiple Spatiotemporally Correlated Images on Tourist Attractions Based on Image Processing,Shuang Lu and Qian Zhang and Yi Liu and Lei Liu and Qing Zhu and Ke Jing,2020,0,Traitement du Signal
+10.18280/ts.390141,"Detection, Estimation and Radiation Formation Using Smart Antennas for the Spatial Location",Feroz Morab and Rajeshwari Hegde and Veena N. Hegde,2022,0,Traitement du Signal
+10.18280/ts.360101,Real Time Implementation of Type-2 Fuzzy Backstepping Sliding Mode Controller for Twin Rotor MIMO System (TRMS),Benyettou Loutfi and Zeghlache Samir and Djerioui Ali and Ghellab Mohammed Zinelaabidine,2019,7,Traitement du Signal
+10.18280/ts.380215,Comparative Analysis of Texture Patterns on Mammograms for Classification,Nagadevi Darapureddy and Nagaprakash Karatapu and Tirumala Krishna Battula,2021,1,Traitement du Signal
+10.18280/ts.380613,Deep Multi-View Breast Cancer Detection: A Multi-View Concatenated Infrared Thermal Images Based Breast Cancer Detection System Using Deep Transfer Learning,Devanshu Tiwari and Manish Dixit and Kamlesh Gupta,2021,3,Traitement du Signal
+10.18280/ts.380212,Self-Supervised Speech Enhancement for Arabic Speech Recognition in Real-World Environments,Bilal Dendani and Halima Bahi and Toufik Sari,2021,3,Traitement du Signal
+10.18280/ts.380219,Filter Bank Multi Carrier Signal System for Frequency Selective Channels,Sarala Patchala and Sailaja Maruvada,2021,0,Traitement du Signal
+10.3166/ts.31.107-141,Stéréophotométrie non calibrée en présence d’écarts au modèle lambertien,Yvain Quéau and Jean-Denis Durou and Bastien Durix and Vincent Charmillat,2014,0,Traitement du signal
+10.18280/ts.360202,New Analog Processing Technique in Multichannel Neural Signal Recording with Reduce Data Rate and Reduce Power Consumption,Meghdad Rad and Majid Nejad,2019,0,Traitement du Signal
+10.3166/ts.31.363-381,Identification de modèles de rayonnement solaire en zone tropicale par critères d’information,Laurent Linguet and Yannis Pousset and Christian Olivier,2014,0,Traitement du signal
+10.18280/ts.390132,A Novel Deep Learning Algorithm for Optical Disc Segmentation for Glaucoma Diagnosis,Geethalakshmi Rakes and Vani Rajamanickam,2022,0,Traitement du Signal
+10.18280/ts.380109,Abnormal Behavior Recognition in Classroom Pose Estimation of College Students Based on Spatiotemporal Representation Learning,Yunfang Xie and Su Zhang and Yingdi Liu,2021,5,Traitement du Signal
+10.3166/ts.34.117-135,An analysis of feature identification for tool wear monitoring by using acoustic emission,D KONDALA RAO and Kolla SRINIVAS,2017,4,Traitement du signal
+10.18280/ts.360607,Spinal Cord Based Kidney Segmentation Using Connected Component Labeling and K-Means Clustering Algorithm,Seda Tuncer and Ahmet Alkan,2019,15,Traitement du Signal
+10.18280/ts.390133,Emoji-Integrated Polyseme Probabilistic Analysis Model: Sentiment Analysis of Short Review Texts on Library Service Quality,Xuan Zheng and Wei Chen and Haijun Zhou and Zhe Li and Tianfan Zhang and Qi Yuan,2022,0,Traitement du Signal
+10.3166/ts.35.75-84,"Classification of healthy, inter-ictal and seizure signal using various classification techniques",HEMANT CHOUBEY and ALPANA PANDEY,2018,3,Traitement du signal
+10.18280/ts.370112,Cryptanalysis of a Pixel Permutation Based Image Encryption Technique Using Chaotic Map,Abdelaziz Mokhnache and Lahcene Ziet,2020,1,Traitement du Signal
+10.3166/ts.35.153-168,Radiation pattern of reconfigurable antenna design for portable device applications,"Rekha S. KADAM, Anju KULKARNI KADAM and Anju KULKARNI",2018,0,Traitement du signal
+10.18280/ts.360302,Design and Application of an Adaptive Slow Feature Extraction Algorithm for Natural Images Based on Visual Invariance,Yanming Zhao,2019,2,Traitement du Signal
+10.3166/ts.33.273-320,Estimation robuste et matrices aléatoires,Romain Couillet,2016,0,Traitement du signal
+10.18280/ts.380504,Color Based Object Categorization Using Histograms of Oriented Hue and Saturation,Rabah Hamdini and Nacira Diffellah and Abderrahmane Namane,2021,0,Traitement du Signal
+10.18280/ts.380524,EfficientNet-B0 Based Monocular Dense-Depth Map Estimation,Yasasvy Tadepalli and Meenakshi Kollati and Swaraja Kuraparthi and Padmavathi Kora,2021,2,Traitement du Signal
+10.18280/ts.390318,Embedded Implementation of Social Distancing Detector Based on One Stage Convolutional Neural Network Detector,Yahia Said and Riadh Ayachi,2022,0,Traitement du Signal
+10.18280/ts.390309,Feature Extraction of Hyperspectral Images Based on Subspace Band Selection and Transform-Domain Recursive Filtering,Zhi Cui and Zhenhua Cai,2022,0,Traitement du Signal
+10.18280/ts.390322,Novel Dominant Color Subband Image Encryption in Visual Sensor Network for Smart Military Surveillance System,Rajendiran Nithya and Devaraj Dhanasekaran,2022,0,Traitement du Signal
+10.18280/ts.390326,Android Device Malware Classification Framework Using Multistep Image Feature Extraction and Multihead Deep Neural Ensemble,Hamad Naeem and Amjad Alsirhani and Mohammed Mujib Alshahrani and Abdullah Alomari,2022,0,Traitement du Signal
+10.18280/ts.3903,n.m.,,2022,0,Traitement du Signal
+10.18280/ts.380119,Feature Extraction and Retrieval of Ecommerce Product Images Based on Image Processing,Zhenfeng Wei and Xiaohua Zhang,2021,2,Traitement du Signal
+10.18280/ts.380216,Recognition of Electromyographic Signal Time Series on Daily Hand Motions Based on Long Short-Term Memory Network,Jin Hua and Qinkun Xiao and Li Wang and Yixin Liu and Xuhui Ning,2021,2,Traitement du Signal
+10.18280/ts.370604,A New Hybrid Diagnosis of Bearing Faults Based on Time-Frequency Images and Sparse Representation,Ilhan Aydin and Seyfullah Kaner,2020,1,Traitement du Signal
+10.18280/ts.360113,A Novel Indoor Positioning Algorithm for Wireless Sensor Network Based on Received Signal Strength Indicator Filtering and Improved Taylor Series Expansion,Jin Ren and Songyang Huan and Wei Song and Jun Han,2019,6,Traitement du Signal
+10.18280/ts.370414,A Vehicle Recognition Algorithm Based on Deep Convolution Neural Network,Yang Yang,2020,3,Traitement du Signal
+10.18280/ts.380305,Comparative Study Based on De-Occlusion and Reconstruction of Face Images in Degraded Conditions,Laila Ouannes and Anouar Ben Khalifa and Najoua Essoukri Ben Amara,2021,1,Traitement du Signal
+10.18280/ts.380412,SVM Prediction Model Interface for Plant Contaminates,Shilpi Aggarwal and Madhulika Bhatia and Rosy Madaan and Hari Mohan Pandey,2021,1,Traitement du Signal
+10.3166/ts.34.57-75,Registration method for three-dimensional point cloud in rough and fine registrations based on principal component analysis and iterative closest point algorithm,Heqiang TIAN and Xiaoqing DANG and Jihu WANG and Dongmei WU,2017,1,Traitement du signal
+10.18280/ts.370502,Image Fusion of Noisy Images Based on Simultaneous Empirical Wavelet Transform,Akram Isvand Rahmani and Mohammad Almasi and Nastaran Saleh and Moosa Katouli,2020,4,Traitement du Signal
+10.18280/ts.380201,Multi-Focus Image Fusion with Multi-Scale Transform Optimized by Metaheuristic Algorithms,Asan Ihsan Abas and Nurdan Akhan Baykan,2021,4,Traitement du Signal
+10.18280/ts.380404,Comparison of the Effectiveness of Deep Learning Methods for Face Mask Detection,Onur Gedik and Ayşe Demirhan,2021,4,Traitement du Signal
+10.18280/ts.380222,Convolutional Neural Networks-Based Approach to Detect Neonatal Respiratory System Anomalies with Limited Thermal Image,Saim Ervural and Murat Ceylan,2021,2,Traitement du Signal
+10.18280/ts.380502,Explainable Artificial Intelligence (XAI): Classification of Medical Thermal Images of Neonates Using Class Activation Maps,Ahmet H. Ornek and Murat Ceylan,2021,2,Traitement du Signal
+10.18280/ts.360608,Compressive Sensing Based Two-Dimensional DOA Estimation Using L-Shaped Array in a Hostile Environment,Saurav Ganguly and Jayanta Ghosh and Kankanala Srinivas and Puli Kumar and Mainak Mukhopadhyay,2019,3,Traitement du Signal
+10.18280/ts.380612,GameEmo-CapsNet: Emotion Recognition from Single-Channel EEG Signals Using the 1D Capsule Networks,Suat Toraman and Ömer Osman Dursun,2021,4,Traitement du Signal
+10.18280/ts.360610,A Comparative Study of Object Classification Methods Using 3D Zernike Moment on 3D Point Clouds,Erdal Özbay and Ahmet Çınar,2019,5,Traitement du Signal
+10.18280/ts.370116,Implementation of Effective Hybrid Window Function for E.C.G Signal Denoising,Maumita Das and Roshan Kumar and Bikas Sahana,2020,6,Traitement du Signal
+10.18280/ts.380416,A Hybrid Method Based on LSTM and Optimized SVM for Diagnosis of Novel Coronavirus (COVID-19),Jamal Mhawesh Challab and Farhad Mardukhi,2021,1,Traitement du Signal
+10.18280/ts.380628,MRI Image Based Classification Model for Lung Tumor Detection Using Convolutional Neural Networks,Makineni Siddardha Kumar and Kasukurthi Venkata Rao and Gona Anil Kumar,2021,1,Traitement du Signal
+10.18280/ts.390423,Effects of Different Visual Feedback Types on Perception of Online Wait,Nianli Fang and Tao Hu and Mengdi Shi and Zhenghong Liu,2022,0,Traitement du Signal
+10.18280/ts.390437,A Deep Learning- Image Based Approach for Detecting Cracks in Buildings,Priyadarshini Jayaraju and Karthiyaini Somasundaram and Adapala Sunny Suprakash and Shanmugasundaram Muthusamy,2022,0,Traitement du Signal
+10.18280/ts.390416,A Semantic Segmentation Method for Road Environment Images Based on Hybrid Convolutional Auto-Encoder,Xiaona Song and Haichao Liu and Lijun Wang and Song Wang and Yunyu Cao and Donglai Xu and Shenfeng Zhang,2022,0,Traitement du Signal
+10.18280/ts.390419,Computer Graphic and Photographic Image Classification Using Transfer Learning Approach,Chanthini Baskar and Guga Priya Govindasamy and Sasithradevi Anbalagan and Sindha Mohamed Mansoor Roomi,2022,0,Traitement du Signal
+10.18280/ts.370603,Video Data Extraction and Processing for Investigation of Vehicles’ Impact on the Asphalt Deformation Through the Prism of Computational Algorithms,Sabahudin Vrtagić and Edis Softić and Mirza Ponjavić and Željko Stević and Marko Subotić and Aditya Gmanjunath and Jasmin Kevric,2020,3,Traitement du Signal
+10.18280/ts.370606,A Face Detection Method Based on Skin Color Model and Improved AdaBoost Algorithm,Xiaoying Yang and Nannan Liang and Wei Zhou and Hongmei Lu,2020,3,Traitement du Signal
+10.18280/ts.360312,Pairwise Error Probability Analysis of Dual Hop Relaying Network over Time Selective Nakagami-m Fading Channel with Imperfect CSI and Node Mobility,Ravi Shankar and Indrajeet Kumar and Ritesh Mishra,2019,8,Traitement du Signal
+10.18280/ts.380619,Early-Stage Brown Spot Disease Recognition in Paddy Using Image Processing and Deep Learning Techniques,Santosh Kumar Upadhyay and Avadhesh Kumar,2021,5,Traitement du Signal
+10.18280/ts.380117,Classification of Pneumonia Cell Images Using Improved ResNet50 Model,Ahmet Çınar and Muhammed Yıldırım and Yeşim Eroğlu,2021,16,Traitement du Signal
+10.18280/ts.370608,Blind Digital Watermarking Framework Based on DTCWT and NSCT for Telemedicine Application,Nadhir Nouioua and Ali Seddiki and Abdelkrim Ghaz,2020,7,Traitement du Signal
+10.3166/ts.34.7-20,Ensembling: Model of histogram of oriented gradient based handwritten devanagari character recognition system,S. P. DEORE and A. PRAVIN,2017,10,Traitement du signal
+10.18280/ts.380332,Performance Analysis of Deep Learning Models for Detection of Autism Spectrum Disorder from EEG Signals,Menaka Radhakrishnan and Karthik Ramamurthy and Kaustav Kumar Choudhury and Daehan Won and Thanga Aarthy Manoharan,2021,6,Traitement du Signal
+10.18280/ts.370204,Detection of Skin Cancer Image by Feature Selection Methods Using New Buzzard Optimization (BUZO) Algorithm,Ali Arshaghi and Mohsen Ashourian and Leila Ghabeli,2020,4,Traitement du Signal
+10.18280/ts.370316,A Novel Detection Method for Weak Harmonic Signal with Chaotic Noise,Huadong Wang,2020,2,Traitement du Signal
+10.18280/ts.390402,Determining the Type of Document Read Using Eye Movement Properties by Hybrid CNN Method,Dilber Çetintaş and Taner Tuncer,2022,1,Traitement du Signal
+10.18280/ts.390541,Pedestrian Identification Method Based on Multi-Scale Feature Learning in Surveillance Video Images,Aihua Li and Ling Pang and Lei An and Zihui Che,2022,0,Traitement du Signal
+10.18280/ts.390529,HayCAM: A Novel Visual Explanation for Deep Convolutional Neural Networks,Ahmet H. Ornek and Murat Ceylan,2022,0,Traitement du Signal
+10.18280/ts.390525,Traffic Lights Detection and Recognition with New Benchmark Datasets Using Deep Learning and TensorFlow Object Detection API,Irfan Kilic and Galip Aydin,2022,0,Traitement du Signal
+10.18280/ts.390507,Graph Convolution Algorithm Based on Visual Selectivity and Point Cloud Analysis Application,Yanming Zhao and Guoan Su and Hong Yang and Tianshuai Zhao and Songwen Jin and Jianing Yang,2022,0,Traitement du Signal
+10.18280/ts.390515,Human Gender Prediction Based on Deep Transfer Learning from Panoramic Dental Radiograph Images,Isa Ataş,2022,0,Traitement du Signal
+10.18280/ts.390533,Entropy Based Secure and Robust Image Watermarking Using Lifting Wavelet Transform and Multi-Level-Multiple Image Scrambling Technique,Sanjay Patsariya and Manish Dixit,2022,0,Traitement du Signal
+10.18280/ts.390538,A Hybrid Iterative Algorithm of Amplitude Weighting and Phase Gradient Descent for Generating Phase-Only Fourier Hologram,Min Fan and Jin Yang and Chengtao Du and Jie Fang and Haibo Wang and Chenlu Li,2022,0,Traitement du Signal
+10.18280/ts.390506,Continuous Heartbeat Prediction Using a Face Recognition Algorithm,Ahmed A. Alsheikhy and Yahia F. Said and Tawfeeq Shawly,2022,0,Traitement du Signal
+10.18280/ts.370513,End Image Defect Detection of Float Glass Based on Faster Region-Based Convolutional Neural Network,Dabing Jin and Shiqing Xu and Lianjie Tong and Linyu Wu and Shimin Liu,2020,3,Traitement du Signal
+10.18280/ts.380114,Conventional and Subspace Algorithms for Mobile Source Detection and Radiation Formation,Sadiya Thazeen and S Mallikarjunaswamy and G K Siddesh and N Sharmila,2021,4,Traitement du Signal
+10.18280/ts.360407,Identification of Microscopic Damage Law of Rocks Through Digital Image Processing of Computed Tomography Images,Zhe Qin and Yu Zhang and Sheng Zhang and Jingwei Zhao and Tengfei Wang and Ke Shen,2019,5,Traitement du Signal
+10.18280/ts.370107,Comparison of the Effects of Mel Coefficients and Spectrogram Images via Deep Learning in Emotion Classification,Semiye Demircan and Humar Kahramanlı Örnek,2020,10,Traitement du Signal
+10.18280/ts.360204,Visual Positioning and Recognition of Gangues Based on Scratch Feature Detection,Huadong Zou and Ruiqing Jia,2019,6,Traitement du Signal
+10.18280/ts.360404,GKP Signal Processing Using Deep CNN and SVM for Tongue-Machine Interface,Kutlucan Gorur and Mehmet Bozkurt and Muhammet Bascil and Feyzullah Temurtas,2019,20,Traitement du Signal
+10.18280/ts.390232,A Robust Automatic Fingerprint Recognition System Using Multi-Connection Hopfield Neural Network,Jay Kant Pratap Singh Yadav and Laxman Singh and Zainul Abdin Jaffrey,2022,1,Traitement du Signal
+10.18280/ts.370221,A Crop Disease Image Recognition Algorithm Based on Feature Extraction and Image Segmentation,Chuanzhong Mao and Weili Meng and Chunying Shi and Cuicui Wu and Jin Zhang,2020,9,Traitement du Signal
+10.18280/ts.370516,Low-Cost Brain-Computer Interface Using the Emotiv Epoc Headset Based on Rotating Vanes,Mesut Melek and Negin Manshouri and Temel Kayikcioglu,2020,3,Traitement du Signal
+10.18280/ts.380218,Investigation of Timbral Qualities of Guitar Using Wavelet Analysis,Şafak Ekmen and Can Karadoğan and Şahin Serhat Şeker,2021,0,Traitement du Signal
+10.3166/ts.32.311-333,Détection simultanée de l’ombre et de la végétation sur des images aériennes couleur en haute résolution,Tran-Than Ngo and Christophe Collet and Vincent Mazet,2015,1,Traitement du signal
+10.3166/ts.33.161-222,Introduction à la théorie des grandes matrices aléatoires,Jamal Najim,2016,1,Traitement du signal
+10.18280/ts.380325,Signed Convex Combination of Fast Convergence Algorithm to Generalized Sidelobe Canceller Beamformer for Multi-Channel Speech Enhancement,Siva Priyanka S and Kishore Kumar T,2021,0,Traitement du Signal
+10.18280/ts.370610,Integrated Fault Evaluation Through Fusion Algorithm Supported by Kalman Filter,Sadra Mousavi and Duygu Bayram Kara and Sahin Serhat Seker,2020,1,Traitement du Signal
+10.3166/ts.29.51-63,Un ensemble d’invariants bipolaires pour les surfaces de R3. Application à la description du visage par une approche 3D,Majdi Jribi and Faouzi Ghorbel,2012,3,Traitement du signal
+10.18280/ts.380623,Dialect Identification in Telugu Language Speech Utterance Using Modified Features with Deep Neural Network,Shivaprasad Satla and Sadanandam Manchala,2021,0,Traitement du Signal
+10.18280/ts.370506,Design and Implementation of a Lossless Compression System for Hyperspectral Images,Qizhi Fang and Yuxuan Liu and Lili Zhang,2020,1,Traitement du Signal
+10.3166/ts.27.297-324,Réidentification des personnes à travers un réseau de caméras,Dun Nghi Truong Cong and Catherine Achard and Louadhi Khoudour,2010,0,Traitement du signal
+10.18280/ts.380,n.m.,,2021,0,Traitement du Signal
+10.3166/ts.35.85-95,Vector control of brushless double fed generator based on control winding orientation on smooth switch from standalone mode to grid-tied mode,MIN LU and Yefei ZHANG and QIN XIE and Xinhong CAI,2018,2,Traitement du signal
+10.18280/ts.380322,Automatic Extraction of Color Features from Landscape Images Based on Image Processing,Cong Tan and Shaoyu Yang,2021,1,Traitement du Signal
+10.3166/ts.31.197-219,Estimation des cartes du temps de collision (TTC) basée sur le flot optique en vision para-catadioptrique,Fatina Zahra Benamar and Sanaa El Fkihi and Cédric Demonceaux and El Mustapha Mouaddib and Driss Aboutadjine,2014,1,Traitement du signal
+10.3166/ts.35.137-151,A classification method for wood vibration signals of Chinese musical instruments based on GMM and SVM,Yinglai HUANG and Shiyu MENG and Xiaoshuang LI and Wenyi FAN,2018,2,Traitement du signal
+10.3166/ts.32.195-213,Cadre générique pour le recalage dense combinant un coût dense et un coût basé sur des correspondances de primitives,Jim Braux-Zin and Romain Dupont and Adrien Bartoli,2015,0,Traitement du signal
+10.3166/ts.35.277-288,Orientation holes positioning of printed board based on LS-Power spectrum density algorithm,Xiaxia ZENG and Zhenhua SONG and Wenzhong LIN and Haibo LUO,2018,0,Traitement du signal
+10.18280/ts.370520,Image Based Group Classifier for Brain Tumor Detection Using Machine Learning Technique,Putta Rama Krishnaveni and Gattim Naveen Kishore,2020,2,Traitement du Signal
+10.18280/ts.360103,A Novel Frequent Pattern Mining Algorithm for Real-time Radar Data Stream,Fang Huang and Ningning Zheng,2019,2,Traitement du Signal
+10.18280/ts.370117,Novel Image Steganography Based on Preprocessing of Secrete Messages to Attain Enhanced Data Security and Improved Payload Capacity,Laeeq Aslam and Ahmad Saeed and Ijaz Qureshi and Muhammad Amir and Waseem Khan,2020,0,Traitement du Signal
+10.18280/ts.390314,A Deep Learning Powered System to Lie Detection While Online Study,Le Quang Thao and Duong Duc Cuong and Nguyen Nhan Nhi and Nguyen Duc Tam,2022,1,Traitement du Signal
+10.18280/ts.390235,Speaker Identification Based on Physical Variation of Speech Signal,Durgesh Nandan and Mahesh Kumar Singh and Sanjeev Kumar and Harendra Kumar Yadav,2022,1,Traitement du Signal
+10.3166/ts.33.113-130,TPT-Dance&amp;Actions : un corpus multimodal d’activités humaines,Aymeric Masurelle and Ahmed Rida Sekkat and Slim Essid and Gaël Richard,2016,0,Traitement du signal
+10.3166/ts.32.287-310,Détection de spots avec sélection d’échelle automatique et seuillage adaptatif en microscopie de ﬂuorescence,Antoine Basset and Jérôme Boulanger and Patrick Bouthemy and Charles Kervrann and Jean Salamero,2015,0,Traitement du signal
+10.18280/ts.3701,n.m.,,2020,0,Traitement du Signal
+10.18280/ts.380436,Impulse Noise Removal Based on Hybrid Genetic Algorithm,Nail Alaoui and Arwa Mashat and Amel Baha Houda Adamou-Mitiche and Lahcène Mitiche and Aicha Djalab and Sara Daoudi and Lakhdar Bouhamla,2021,0,Traitement du Signal
+10.18280/ts.360301,Amplitude Modulation Index as Feature in a Brain Computer Interface,Oana Eva and Anca Lazar,2019,0,Traitement du Signal
+10.18280/ts.3604,n.m.,,2019,0,Traitement du Signal
+10.18280/ts.380513,Accurate Brain Tumor Recognition Using Double-Weighted Feature Extraction Labelling Model with Priority Weighted Feature Selection,Revathi Vankayalapati and Akka Lakshmi Muddana,2021,0,Traitement du Signal
+10.18280/ts.360106,Secure Transfer of Color Images Using Horizontal and Vertical Scan,Berrak Oulaya and Belmeguenai Aissa and Ouchtati Salim,2019,2,Traitement du Signal
+10.18280/ts.380232,HMM Based Language Identification from Speech Utterances of Popular Indic Languages Using Spectral and Prosodic Features,Manchala Sadanandam,2021,2,Traitement du Signal
+10.18280/ts.380213,Machine Learning-Based Emotional Recognition in Surveillance Video Images in the Context of Smart City Safety,Pan Li and Zhaojun Zhou and Qingjie Liu and Xiaoye Sun and Fuming Chen and Wei Xue,2021,2,Traitement du Signal
+10.18280/ts.370219,Moving Vehicle Detection and Tracking Based on Video Sequences,Yue Wang,2020,2,Traitement du Signal
+10.3166/ts.28.35-56,Introduction au STAP : 2. Modèle des signaux et principe du filtrage,Stéphane Bidon,2011,0,Traitement du signal
+10.18280/ts.380328,Contrast Enhancement of Poor-Quality Satellite Images Through Morphological Operations,Gutta Srinivasa Rao and Atluri Srikrishna,2021,0,Traitement du Signal
+10.3166/ts.30.309-342,Algorithmes de reconnaissance NCTR et parallélisation sur GPU,Thomas Boulay and Nicolas Gac and Ali Mohammad-Djafari and Julien Lagoutte,2013,0,Traitement du signal
+10.3166/ts.31.57-80,Fusion d’informations pour la compréhension de scènes,Philippe Xu and Franck Davoine and Jean-Baptiste Bordes and Thierry Denœux,2014,1,Traitement du signal
+10.18280/ts.380107,Signal Dynamics Analysis for Epileptic Seizure Classification on EEG Signals,Sugondo Hadiyoso and Inung Wijayanto and Annisa Humairani,2021,1,Traitement du Signal
+10.18280/ts.380308,A DWT Based Novel Multimodal Image Fusion Method,Sumanth Kumar Panguluri and Laavanya Mohan,2021,0,Traitement du Signal
+10.3166/ts.29.333-358,Segmentation semi-automatique de signes à partir de corpus vidéo en langue des signes,Mathilde Gonzalez and Christophe Collet,2012,0,Traitement du signal
+10.3166/ts.30.9-34,Approche bayésienne pour la décomposition conjointe d’une séquence de spectres de photo-électrons,Vincent Mazet and Sylvain Faisan and Antoine Masson and Marc-André Gaveau and Lionel Poisson and Jean-Michel Mesdagh,2013,0,Traitement du signal
+10.3166/ts.30.149-168,Débruitage et séparation dans le plan temps-fréquence des contributions sonores de navires en mouvement,Yann Le Gall and Julien Bonnel,2013,1,Traitement du signal
+10.18280/ts.3801,n.m.,,2021,0,Traitement du Signal
+10.18280/ts.370623,A Hybrid Classifier for Handwriting Recognition on Multi-domain Financial Bills Based on DCNN and SVM,Shuaiwen Wang and Bei Yuan and Di Wu,2020,3,Traitement du Signal
+10.18280/ts.390120,An Image Decompression Model with Reversible Pixel Interchange Decryption Model Using Data Deduplication,Naga Raju Hari Manikyam and Munisamy Shyamala Devi,2022,0,Traitement du Signal
+10.18280/ts.390542,AIAVRT: 5.0 Transformation in Medical Education with Next Generation AI- 3D Animation and VR Integrated Computer Graphics Imagery,Abhishek Kumar and Abdul Khader Jilani Saudagar and Mohammed AlKhathami and Badr Alsamani and Mozaherul Hoque Abul Hasanat and Muhammad Badruddin Khan and Ankit Kumar and Kamred Udham Singh,2022,1,Traitement du Signal
+10.18280/ts.360107,Surface Modelling of Jun Ware Based on Ordinary Differential Equations,Hui Liang and Qian Zhang and Chang Fu and Fei Liang and Yusheng Sun,2019,2,Traitement du Signal
+10.3166/ts.29.205-228,Odométrie radar par analyse de la distorsion. Applications à la navigation de véhicules terrestres et nautiques,Damien Vivet and Paul Checchin and Roland Chappuis,2012,0,Traitement du signal
+10.18280/ts.390136,Automated Recognition of Sleep Apnea-Hypopnea Syndrome Using Continuous Wavelet Transform-Based Multiscale Dispersion Entropy of Single-Lead ECG Signal,Hadj Abdelkader Benghenia and Hadj Slimane Zine-Eddine and Andrade Alexandre,2022,0,Traitement du Signal
+10.18280/ts.370219x,Moving Vehicle Detection and Tracking Based on Video Sequences,Xue Wang,2020,0,Traitement du Signal
+10.18280/ts.390220,Investigation of the Effect of eSport on HRV Signal by Using Poincaré Plot Analysis,Serdar Gündoğdu and Ömer Halil Çolak and Övünç Polat,2022,0,Traitement du Signal
+10.18280/ts.390217,Roll Rate Estimation for Cylindrical Spinning Vehicle Based on Pseudorange Observations,Lu Feng and Peng Wu and Linhua Zheng,2022,0,Traitement du Signal
+10.18280/ts.390234,Automatic Classification and Identification of Road Garbage Images and Evaluation of Environmental Health Based on UNet++,Wei Chen and Xuan Zheng and Haijun Zhou and Zhe Li,2022,0,Traitement du Signal
+10.18280/ts.380126,Classification of Glaucoma Optical Coherence Tomography (OCT) Images Based on Blood Vessel Identification Using CNN and Firefly Optimization,Komanduri Venkata Sesha Sai Rama Krishna and Kosaraju Chaitanya and Pedalanka Poorna Saraswathi Subhashini and Rajesh Yamparala and Satya Sandeep Kanumalli,2021,3,Traitement du Signal
+10.18280/ts.390311,Diagnosis of Paratuberculosis in Histopathological Images Based on Explainable Artificial Intelligence and Deep Learning,Tuncay Yiğit and Nilgün Şengöz and Özlem Özmen and Jude Hemanth and Ali Hakan Işık,2022,1,Traitement du Signal
+10.3166/ts.30.119-148,Segmentation des images sonar latéral assurant l’invariance en rasance,Ahmed Nait-Chabane and Benoit Zerr and Gilles Le Chenadec,2013,3,Traitement du signal
+10.18280/ts.380101,A Profile Analysis of User Interaction in Social Media Using Deep Learning,Hafzullah İş and Taner Tuncer,2021,0,Traitement du Signal
+10.3166/ts.28.143-170,"STAP à rang réduit, robuste et persymétrique",Guillaume Ginolhac and Philippe Forster and Jean-Philippe Orvalez and Frédéric Pascal,2011,1,Traitement du signal
+10.3166/ts.28.477-513,egmentation multi-échelle. Injection d'a priori spatial dans la construction d'une hiérarchie optimale de régions,Jean Pierre Coquerez and Karim Yousfi,2011,0,Traitement du signal
+10.18280/ts.390325,Multi-Scale Edge Detection of Crack in Extra-High Arch Dam Based on Orthogonal Wavelet Construction,Jianhua Zhang and Qiang Zhu and Fei Song and Lingchao Zhang and Juan Wang and Changjun Liu,2022,0,Traitement du Signal
+10.18280/ts.390313,Non-Local Retinex Based Dehazing and Low Light Enhancement of Images,Hari Unnikrishnan and Ruhan Bevi Azad,2022,0,Traitement du Signal
+10.18280/ts.390327,EEG-Based Anamoly Detection for Autistic Kids – A Pilot Study,Menaka Radhakrishnan and Swagata Boruah and Karthik Ramamurthy,2022,0,Traitement du Signal
+10.3166/ts.33.441-460,Classification automatique de la densité des tissus mammaires,Mohamed EL HABIB BOUKHOBZA and Malika MIMI,2016,0,Traitement du signal
+10.18280/ts.370103,"Automated Analysis of Leaf Shape, Texture, and Color Features for Plant Classification",Mohammad Keivani and Jalil Mazloum and Ezatollah Sedaghatfar and Mohammad Tavakoli,2020,9,Traitement du Signal
+10.18280/ts.390536,Threshold Values of Different Classical Edge Detection Algorithms,İsa Avcı,2022,0,Traitement du Signal
+10.18280/ts.390539,MRI and CT Image Based Breast Tumor Detection Framework with Boundary Detection Technique,Velpula Nagi Reddy and Peram Subba Rao,2022,0,Traitement du Signal
+10.18280/ts.390528,Identification and Analysis of Non-Stationary Time Series Signals Based on Data Preprocessing and Deep Learning,Li Duan and Jianxian Cai and Juan Liang and Danqi Chen and Xiaoye Sun,2022,0,Traitement du Signal
+10.18280/ts.390523,A New Early Warning Method for Human-Computer Interaction of Alzheimer's Disease Patients Based on Deep Learning,Yujia Wang and Chen Wang and Bo Wu and Tong Chen and Hengge Xie and Atsushi Ogihara and Xiaowen Ma and Siyu Zhou and Shouqiang Huang and Shuwu Li and Jiakang Liu and Kai Li,2022,0,Traitement du Signal
+10.18280/ts.390505,A New Approach of Combining Optical Mapping Algorithm with Adaptive Kalman Filter to Achieve Fast and Early Detection of Cardiac Arrests: A Parallel Implementation,Amin Jarrah and Abedalmuhdi Almomany and Ali Alkhafaji,2022,0,Traitement du Signal
+10.18280/ts.390527,Non-Invasive Machine Learning-Based Classification of Bone Health,Sanvi Pranav Bhise and Raviraj Havaldar,2022,0,Traitement du Signal
+10.3166/ts.27.53-78,A priori par normes mixtes pour les problèmes inverses. Application à la localisation de sources en M/EEG,Matthieu Kowalski and Alexandre Gramfort,2010,0,Traitement du signal
+10.18280/ts.370515,Detection of Head Raising Rate of Students in Classroom Based on Head Posture Recognition,Qiang Guo,2020,6,Traitement du Signal
+10.18280/ts.380202,Multi-Sessions Outcome for EEG Feature Extraction and Classification Methods in a Motor Imagery Task,Oana-Diana Hrisca-Eva and Anca Mihaela Lazar,2021,0,Traitement du Signal
+10.3166/ts.30.219-242,Décomposition parcimonieuse des chants de cétacés pour leur suivi,Yann Doh and Joseph Razik and Sébastien Paris and Olivier Adam and Hervé Glotin,2013,0,Traitement du signal
+10.18280/ts.360510,Image Based Tumor Cells Identification Using Convolutional Neural Network and Auto Encoders,Mohammed Wajeed and Vallamchetty Sreenivasulu,2019,10,Traitement du Signal
+10.18280/ts.390438,Effective Screening and Texture Segmentation of Green Vegetation Cover Based on UAV Images,Tong Zhao and Lihao Huang and Junpu Wang and Bocheng Cui and Xiaohu Li and Xicun Zhu,2022,0,Traitement du Signal
+10.18280/ts.390415,Monitoring and Prediction of the Urmia Lake Drying Trend Based on Time-Series Remotely Sensed Images and Artificial Neural Networks,Vahid Sadeghi,2022,0,Traitement du Signal
+10.18280/ts.390411,Improving Medical Video Coding Using Multi Scale Quincunx Lattice: From Low Bitrate to High Quality,Yassine Habchi and Ameur Fethi Aimer and Jamel Baili and Mustafa Inc and Younes Menni and Giulio Lorenzini,2022,0,Traitement du Signal
+10.18280/ts.390405,An Approach for Enhancement of MR Images of Brain Tumor,Hare Krishna Mishra and Manpreet Kaur,2022,0,Traitement du Signal
+10.18280/ts.390413,Low-Light Image Enhancement and Target Detection Based on Deep Learning,Zhuo Yao,2022,0,Traitement du Signal
+10.18280/ts.390,n.m.,,2022,0,Traitement du Signal
+10.18280/ts.390421,Morphological and Otsu’s Technique Based Mammography Mass Detection and Deep Neural Network Classifier Based Prediction,Shaila Chugh and Sachin Goyal and Anjana Pandey and Sunil Joshi,2022,0,Traitement du Signal
+10.18280/ts.390401,An Ensemble Deep Learning Network in Classifying the Early CT Slices of Ischemic Stroke Patients,Kanchana Rajendran and Menaka Radhakrishnan and Sethuraman Viswanathan,2022,0,Traitement du Signal
+10.18280/ts.390435,A Comprehensive Survey on COVID-19 Detection and Classification Using Chest-X-Ray Images,Madhavi Katamaneni and A.V.R. Mayuri,2022,0,Traitement du Signal
+10.18280/ts.390439,Detection of Parkinson’s Disease in Alzheimer’s Patients Utilizing Brain Imaging,Madhulika Bhatia and Amrinder Kaur and Shaveta Bhatia and n.m. Mridula and Pallavi Dwivedi,2022,0,Traitement du Signal
+10.18280/ts.390430,A Novel Fusion Approach to Detect Brain Tumor Using Machine Learning for MRI Images,Srisabarimani Kaliannan and Arthi Rengaraj and Alex Prabhu Daniel,2022,0,Traitement du Signal
+10.18280/ts.3901,n.m.,,2022,0,Traitement du Signal
+10.18280/ts.370113,Query Rewriting and Semantic Annotation in Semantic-Based Image Retrieval under Heterogeneous Ontologies of Big Data,Baoxian Jia and Bin Meng and Wunong Zhang and Jia Liu,2020,4,Traitement du Signal
+10.18280/ts.390329,On Image-Processing-Based Identification Method of Express Logistics Information,Lin Zhu and Xin Sheng,2022,0,Traitement du Signal
+10.18280/ts.390335,Dual-Layer Ranking Feature Selection Method Based on Statistical Formula for Driver Fatigue Detection of EMG Signals,Faradila Naim and Mahfuzah Mustafa and Norizam Sulaiman and Zarith Liyana Zahari,2022,0,Traitement du Signal
+10.18280/ts.380331,Analysis of Classroom Learning Behaviors Based on Internet of Things and Image Processing,Jiaying Yu and Xiaojing Bai,2021,2,Traitement du Signal
+10.18280/ts.380314,"Hybrid CNN Based Computer-Aided Diagnosis System for Choroidal Neovascularization, Diabetic Macular Edema, Drusen Disease Detection from OCT Images",Seda Arslan Tuncer and Ahmet Çınar and Murat Fırat,2021,1,Traitement du Signal
+10.18280/ts.3905,n.m.,,2022,0,Traitement du Signal
+10.18280/ts.360501,GA-Based Optimization of SURF Algorithm and Realization Based on Vivado-HLS,Hüseyin Özdemir and Refik Sever and Övünç Polat,2019,4,Traitement du Signal
+10.18280/ts.380608,Precise Inspection of Geometric Parameters for Polyvinyl Chloride Pipe Section Based on Computer Vision,Qilin Bi and Minling Lai and Huiling Tang and Yanyao Guo and Jinyuan Li and Xinhong Zeng and Zhijun Liu,2021,1,Traitement du Signal
+10.18280/ts.390304,Creating Color Image Features Based on Morphology Image Processing,Mua’ad Abu-Faraj and Ziad. Alqadi and Mohammad Zubi,2022,1,Traitement du Signal
+10.18280/ts.390117,"Simple, Efficient, Highly Secure, and Multiple Purposed Method on Data Cryptography",Mua’ad M. Abu-Faraj and Khaled Aldebei and Ziad A. Alqadi,2022,2,Traitement du Signal
+10.18280/ts.360108,Outage Probability Analysis of MIMO-OSTBC Relaying Network Over Nakagami-m Fading Channel Conditions,Ravi Shankar and Indrajeet Kumar and Ritesh Kumar Mishra,2019,13,Traitement du Signal
+10.18280/ts.380304,Gesture Recognition of Somatosensory Interactive Acupoint Massage Based on Image Feature Deep Learning Model,Yukun Jia and Rongtao Ding and Wei Ren and Jianfeng Shu and Aixiang Jin,2021,1,Traitement du Signal
+10.3166/ts.35.103-120,An investigation of wireless S-DF hybrid satellite terrestrial relaying network over time selective fading channel,INDRAJEET KUMAR and VIKASH SACHAN and Ravi SHANKAR and RITESH KUMAR MISHRA,2018,8,Traitement du signal
+10.18280/ts.380223,Real-Time Obstacle Detection Based on Image Semantic Segmentation and Fusion Network,Wei Liu,2021,5,Traitement du Signal
+10.18280/ts.380206,Modeling Fingerprint Presentation Attack Detection Through Transient Liveness Factor-A Person Specific Approach,Akhilesh Verma and Vijay Kumar Gupta and Savita Goel and n.m. Akbar and Arun Kumar Yadav and Divakar Yadav,2021,2,Traitement du Signal
+10.18280/ts.370408,Recognition and Analysis of Behavior Features of School-Age Children Based on Video Image Processing,Zhen Wang,2020,4,Traitement du Signal
+10.18280/ts.370214,Comparison of Classification Models Using Entropy Based Features from Sub-bands of EEG,Arshpreet Kaur and Karan Verma and Amol Bhondekar and Kumar Shashvat,2020,4,Traitement du Signal
+10.18280/ts.390608,Performance Analysis of Machine Learning and Deep Learning Models for Classification of Alzheimer’s Disease from Brain MRI,Illakiya Thayumanasamy and Karthik Ramamurthy,2022,0,Traitement du Signal
+10.18280/ts.390606,Design of a Reconfigurable Intelligent Surface Algorithm Based on Multiple-Input Multiple-Output,Fuchun Jiang and Weiming Lin and Hongyi Zhang and Xinhua Lin and Chenwei Feng,2022,0,Traitement du Signal
+10.18280/ts.390617,Contribution to Single-Channel Fetal Electrocardiogram Identification,Said Ziani,2022,0,Traitement du Signal
+10.18280/ts.390623,Time-Frequency Complexity Maps for EEG-Based Diagnosis of Alzheimer’s Disease Using a Lightweight Deep Neural Network,Hasan Polat,2022,0,Traitement du Signal
+10.18280/ts.390638,Research on the Real-Time Detection Method for Image Processing – Based Civil Structure Crack,Weiming Luo and Jianhu Sun and Yu Liao and Zhenyu Zhang,2022,0,Traitement du Signal
+10.18280/ts.390626,Research on Digital Image Intelligent Recognition Method for Industrial Internet of Things Production Data Acquisition,Jianbiao He and Changqing Li,2022,0,Traitement du Signal
+10.18280/ts.390607,"A New UAV-Based Social Distance Detector for COVID-19 Outbreaks Reduction, Using IoT, Computer Vision and Deep Learning Technologies",Nashwan Adnan Othman and Ilhan Aydin,2022,0,Traitement du Signal
+10.18280/ts.390603,A Road Extraction Method of a High-Resolution Remote Sensing Image Based on Multi-Feature Fusion and the Attention Mechanism,Na Jiang and Jiyuan Li and Jingyu Yang and Junting Lin and Baopeng Lu,2022,0,Traitement du Signal
+10.18280/ts.390240,Combined Spatial-Spectral Hyperspectral Image Classification Based on Adaptive Guided Filtering,Liang Huang and Shenkai Nong and Xiaofeng Wang and Xiaohang Zhao and Chaoran Wen and Ting Nie,2022,1,Traitement du Signal
+10.18280/ts.390534,Investigating Transfer Learning Performances of Deep Learning Models for Classification of GPR B-Scan Images,Mehmet Dikmen,2022,0,Traitement du Signal
+10.18280/ts.390543,Recognizing Chinese Predicate Heads Based on Textual Bounding Boxes,Lijuan Liu and Xiao Guo,2022,0,Traitement du Signal
+10.18280/ts.390139,YOLO Object Detector and Inception-V3 Convolutional Neural Network for Improved Brain Tumor Segmentation,Muhammad Shoaib and Nasir Sayed,2022,2,Traitement du Signal
+10.18280/ts.380320,Analysis of Normal and Adventitious Lung Sound Signals Using Empirical Mode Decomposition and Central Tendency Measure,Sibghatullah I. Khan and Ganjikunta Ganesh Kumar and Pandya Vyomal Naishadkumar and Sarvade Pedda Subba Rao,2021,1,Traitement du Signal
+10.18280/ts.380118,Empirical Mode Decomposition and Grey Level Difference for Lung Sound Classification,Sugondo Hadiyoso and Achmad Rizal,2021,1,Traitement du Signal
+10.18280/ts.360408,Brain Tumour Segmentation Using U-net Based Adversarial Networks,Satyanarayana Teki and Mohan Varma and Anjana Yadav,2019,5,Traitement du Signal
+10.18280/ts.370303,Infrared Small Target Detection Based on Four-Direction Overlapping Group Sparse Total Variation,Liqiong Zhang and Min Li and Xiaohua Qiu and Ying Zhu,2020,3,Traitement du Signal
+10.18280/ts.370510,Clustering-Based Band Selection Using Structural Similarity Index and Entropy for Hyperspectral Image Classification,Arsalan Ghorbanian and Yasser Maghsoudi and Ali Mohammadzadeh,2020,6,Traitement du Signal
+10.18280/ts.380521,Development of Real-Time Fuzzy Synchronization of Chaos Based System for Image Encryption,Hasan Guler,2021,2,Traitement du Signal
+10.18280/ts.370615,Detection of Lung Cancer Tumor in CT Scan Images Using Novel Combination of Super Pixel and Active Contour Algorithms,Farzaneh Shafiei and Shervan Fekri-Ershad,2020,16,Traitement du Signal
+10.18280/ts.360401,Implementation of X-Parameters Principle for Non-linear Vibroacoustic Membrane Using Two-Port Measurement,Reza Moezzi and Jaroslav Hlava and Trieu Vu,2019,2,Traitement du Signal
+10.18280/ts.360406,Lung Cancer Detection Based on CT Scan Images by Using Deep Transfer Learning,Tulasi Sajja and Retz Devarapalli and Hemantha Kalluri,2019,23,Traitement du Signal
+10.3166/ts.33.223-248,Tutoriel sur les matrices aléatoires. Introduction aux équivalents déterministes,Axel Müller and Mérouane Debbah,2016,3,Traitement du signal
+10.18280/ts.360505,A Tweakable Image Encryption Algorithm Using an Improved Logistic Chaotic Map,Djamel Herbadji and Nadir Derouiche and Aissa Belmeguenai and Abderrahmane Herbadji and Selma Boumerdassi,2019,11,Traitement du Signal
+10.18280/ts.390241,Enhancement of Gain and Reduction of Backward Radiation Using Metasurface Antenna for Energy Harvesting Applications,Mullangi Vinod Kumar and Dinesh Sharma,2022,1,Traitement du Signal
+10.18280/ts.390108,A Modified Ultraspherical Window and Its Application for Speech Enhancement,Aloui Noureddine and Mohamed Boussif and Cherif Adnane,2022,1,Traitement du Signal
+10.18280/ts.380601,Age Estimation from Left-Hand Radiographs with Deep Learning Methods,Cüneyt Ozdemir and Mehmet Ali Gedik and Yılmaz Kaya,2021,2,Traitement du Signal
+10.18280/ts.380407,Design of a Groundwater Level Monitoring System Based on Internet of Things and Image Recognition,Qiuyu Bo and Wuqun Cheng,2021,1,Traitement du Signal
+10.18280/ts.360512,Automatic Recognition of Rock Images Based on Convolutional Neural Network and Discrete Cosine Transform,Yan Li and Danling Shi and Fengju Bu,2019,9,Traitement du Signal
+10.18280/ts.380203,"3D Human Activity Classification with 3D Zernike Moment Based Convolutional, LSTM-Deep Neural Networks",Erdal Özbay and Ahmet Çınar and Feyza Altunbey Özbay,2021,2,Traitement du Signal
+10.18280/ts.370313,A Deep Learning Based Hybrid Approach for COVID-19 Disease Detections,Muhammed Yildirim and Ahmet Cinar,2020,21,Traitement du Signal
+10.18280/ts.370613,Feature Extraction and Image Retrieval of Landscape Images Based on Image Processing,Zhe Li and Xiao Han and Liya Wang and Tongyi Zhu and Futian Yuan,2020,5,Traitement du Signal
+10.18280/ts.360409,Performance Analysis of Massive Multi-input and Multi-output with Imperfect Channel State Information,Tasher Sheikh and Joyatri Bora and Anwar Hussain,2019,3,Traitement du Signal
+10.18280/ts.390128,Optimal Squeeze Net with Deep Neural Network-Based Arial Image Classification Model in Unmanned Aerial Vehicles,Minu M S and Aroul Canessane R and Subashka Ramesh S S,2022,13,Traitement du Signal
+10.18280/ts.360502,WPT-ANN and Belief Theory Based EEG/EMG Data Fusion for Movement Identification,Fazia Sbargoud and Mohamed Djeha and Mohamed Guiatni and Noureddine Ababou,2019,11,Traitement du Signal
+10.18280/ts.370109,An Adaptive Filtering Algorithm for Non-Gaussian Signals in Alpha-Stable Distribution,Baohai Yang,2020,2,Traitement du Signal
+10.18280/ts.380507,Diagnosis of Melanoma Lesion Using Neutrosophic and Deep Learning,Shubhendu Banerjee and Sumit Kumar Singh and Avishek Chakraborty and Sharmistha Basu and Atanu Das and Rajib Bag,2021,5,Traitement du Signal
+10.18280/ts.370614,Clustering-Based Plane Refitting of Non-planar Patches for Voxel-Based 3D Point Cloud Segmentation Using K-Means Clustering,Ali Saglam and Hasan B. Makineci and Ömer K. Baykan and Nurdan Akhan Baykan,2020,7,Traitement du Signal
+10.18280/ts.380208,Three-Dimensional Target Detection Based on RGB-D Data,Fuchun Jiang and Hongyi Zhang and Chen Zhu,2021,2,Traitement du Signal
+10.18280/ts.370611,Glioma Segmentation and Classification System Based on Proposed Texture Features Extraction Method and Hybrid Ensemble Learning,Kirti Raj Bhatele and Sarita Singh Bhadauria,2020,11,Traitement du Signal
+10.18280/ts.380227,Secure Transmission of EEG Data Using Watermarking Algorithm for the Detection of Epileptical Seizures,Akash Kumar Gupta and Chinmay Chakraborty and Bharat Gupta,2021,12,Traitement du Signal
+10.18280/ts.390302,Detection of Copy-Move Forgery Using Euclidean Distance and Texture Features,Ankit Kumar and Kamred Udham Singh and Chetan Swarup and Teekam Singh and Linesh Raja and Abhishek Kumar,2022,1,Traitement du Signal
+10.3166/ts.28.643-663,Estimation de mouvement par décalage de phase et maillage déformable appliquée à des séquences cardiaques d’IRM marquées,Adrian Basarab and Patrick Clarysse and Theo Arts and Christian Cachard and Pierre Croisille and Philippe Delachartre,2011,2,Traitement du signal
+10.3166/ts.31.81-106,Colorisation de nuages de points 3D par recalage dense d’images numériques,Nathan Crombez and Guillaume Caron and El Mustapha Mouaddib,2014,0,Traitement du signal
+10.18280/ts.370509,Key-Frame Detection and Video Retrieval Based on DC Coefficient-Based Cosine Orthogonality and Multivariate Statistical Tests,Gowrisankar Kalakoti and Prabakaran G,2020,1,Traitement du Signal
+10.18280/ts.380433,Polycystic Ovarian Syndrome Detection by Using Two-Stage Image Denoising,Shruti Bhargava Choubey and Abhishek Choubey and Durgesh Nandan and Anurag Mahajan,2021,2,Traitement du Signal
+10.3166/ts.35.223-242,A novel vehicle feature extraction algorithm based on wavelet moment,Xiaoru SONG and Song GAO and Chaobo CHEN,2018,6,Traitement du signal
+10.18280/ts.3804,n.m.,,2021,0,Traitement du Signal
+10.18280/ts.380316,Identification and Analysis of Limb Rehabilitation Signal Based on Wavelet Transform,Chao Zhang and Ji Zou and Zhongjing Ma,2021,1,Traitement du Signal
+10.18280/ts.380426,Propagation Features of Channel Wave Signal in Coal Seam with Scouring Zone,Hongyu Sun and Yuerui Qi and Wenlei Tian and Geng Chen and Yana Wang,2021,0,Traitement du Signal
+10.3166/ts.33.33-51,Estimation modale large bande avec une petite antenne horizontale,Florent Le Courtois and Julien Bonnel,2016,0,Traitement du signal
+10.3166/ts.30.35-59,Algorithme primal-dual de points intérieurs pour l’estimation pénalisée des cartes d’abondances en imagerie hyperspectrale,Emilie Chouzenoux and Saïd Moussaoui and Maxime Legendre and Jérôme Idier,2013,2,Traitement du signal
+10.3166/ts.27.421-441,Codage par compétition des vecteurs mouvements : que doit-on vraiment transmettre ?,Guillaume Laroche and Joël Jung and Béatrice Pesquet-Popescu,2010,0,Traitement du signal
+10.18280/ts.390545,New Informed Non-Blind Medical Image Watermarking Based on Local Binary Pattern,Lamri Laouamer,2022,0,Traitement du Signal
+10.18280/ts.390509,Dealing with Imbalanced Sleep Apnea Data Using DCGAN,Pandu Wicaksono and Samuel Philip and Islam Nur Alam and Sani M. Isa,2022,0,Traitement du Signal
+10.18280/ts.390510,A Lightweight Convolutional Neural Network-Based Method for Cotton Mosaic Disease Identification,Zhuo Chen and Yonghao Wu and Chang Liu,2022,0,Traitement du Signal
+10.18280/ts.390517,Analysis and Comparison of Performance of Interline Power Flow Controller with Various Control Algorithms under Various Power Stability Problems,Bhavya Kanchanapalli and Rama Rao Pokanati Veera Vekata and Ravi Srinivas Lanka,2022,0,Traitement du Signal
+10.18280/ts.390530,Thermal Image Diseases Identification Using Hybrid Genetic Algorithm with Relevance Vector Machine Classification,Kesavan Anitha and Subramanian Srinivasan,2022,0,Traitement du Signal
+10.18280/ts.390521,Driver Identification System Using Finger Vein and YOLO Object Detection,Jian-Da Wu and Hsing-Yueh Sun,2022,0,Traitement du Signal
+10.18280/ts.380303,Detection and Cooperative Communications for Deployment Sensor Networks,Bedr-Eddine Benaissa and Fedoua Lahfa and Khatir Naima and Giulio Lorenzini and Mustafa Inc and Younes Menni,2021,0,Traitement du Signal
+10.18280/ts.380514,Differential Privacy Protection of Face Images Based on Region Growing,Chao Liu and Jing Yang and Weinan Zhao and Yining Zhang and Cuiping Shi and Fengjuan Miao and Jinsong Zhang,2021,2,Traitement du Signal
+10.18280/ts.380509,Contrast Enhancement of Images Using Meta-Heuristic Algorithm,Sunkavalli Jaya Prakash and Manna Sheela Rani Chetty and Jayalakshmi A,2021,0,Traitement du Signal
+10.3166/ts.32.121-145,étalonnage automatique d’un système d’acquisition caméras - centrale inertielle lidar 3D,Clément Deymier and Céline Teulière and Thierry Chateau,2015,2,Traitement du signal
+10.18280/ts.370401,TLBO Optimization Algorithm Based-Type2 Fuzzy Adaptive Filter for ECG Signals Denoising,Mohammed Assam Ouali and Mouna Ghanai and Kheireddine Chafaa,2020,0,Traitement du Signal
+10.3166/ts.29.521-551,Vers une méthodologie de reconstruction 3D de scènes sous-marines par caméras. Problématiques et études préliminaires,Naouraz Brahim and Sylvie Daniel and Didier Guériot and Basel Solaiman,2012,0,Traitement du signal
+10.3166/ts.35.35-45,Acoustic radiation features and structuralacoustic sensitivity of channel beam,Jinbo SONG and Rui SONG and Zhi XIONG,2018,0,Traitement du signal
+10.18280/ts.380510,Depth Estimation of Single Defocused Images Based on Multi-Feature Fusion,Fengyun Cao,2021,0,Traitement du Signal
+10.3166/ts.29.463-492,Projet IMPALA. Radar panoramique hyperfréquence pour la localisation et la cartographie simultanées en environnement extérieur,Marie-Odile Monod and Roland Chapuis and Philippe Gosset and Raphaël Rouveure and Damien Vivet and Franck Gérossier and Patrick Faure and Paul Checchin and Laurie Moiroux and Pierre Guérin and Thierry Humbert and Joël Morillon,2012,2,Traitement du signal
+10.3166/ts.29.383-407,Sélection de caractéristiques géométriques pour la reconnaissance faciale 3D,Lahoucine Ballihi and Boulbaba Ben Amor and Mohamed Daoudi and Anouj Srivastava and Driss Aboutadjine,2012,0,Traitement du signal
+10.18280/ts.3703,n.m.,,2020,0,Traitement du Signal
+10.18280/ts.3802,n.m.,,2021,0,Traitement du Signal
+10.18280/ts.390230,Compressed High Resolution Satellite Image Processing to Detect Water Bodies with Combined Bilateral Filtering and Threshold Techniques,Chatragadda Rajyalakshmi and Koritepati Ram Mohan Rao and Ramisetty Rajeswara Rao,2022,1,Traitement du Signal
+10.18280/ts.390116,Image Based Edge Weighted Linked Segmentation Model Using Deep Learning for Detection of Diabetic Retinopathy,Mazar Pasha Lubna Taranum and Jangam Siddamallaiah Rajashekar,2022,0,Traitement du Signal
+10.3166/ts.35.243-252,An improved mixed gaussian-based background modelling method for fast gesture segmentation of mobile terminals,Chengfeng JIAN and Tao LU and Xiaoyu XIANG and Meiyu ZHANG,2018,1,Traitement du signal
+10.18280/ts.380103,Classification of Remote Sensing Images Through Reweighted Sparse Subspace Representation Using Compressed Data,Jianchen Zhu and Shengjie Zhao and Di Wu,2021,0,Traitement du Signal
+10.3166/ts.30.61-86,Approches géométriques pour l’estimation des fractions d’abondance en traitement de données hyperspectrales. Extensions aux modèles de mélange non linéaires,Paul Honeine and Cédric Richard and Nguyeng Hoang Nguyeng,2013,1,Traitement du signal
+10.18280/ts.380217,Fault Diagnosis of Rolling Bearings Based on Improved Empirical Mode Decomposition and Fuzzy C-Means Algorithm,Hailun Wang and Fei Wu and Lu Zhang,2021,4,Traitement du Signal
+10.3166/ts.29.9-28,Segmentation d’images par modèle de mélange conjoint non gaussien,Stéphane Derrode and Wojciech Piecynski,2012,0,Traitement du signal
+10.18280/ts.380231,An Image Sharpness Enhancement Algorithm Based on Green Function,Qiuhe Huang,2021,0,Traitement du Signal
+10.18280/ts.380508,Acoustic Analysis of Voice Signal of Patients with Unilateral Laryngeal Paralysis a View to Objective Evaluation after Rehabilitation,Mahraz Kabache and Mhania Guerti,2021,0,Traitement du Signal
+10.3166/ts.27.109-119,Des moindres carrés aux moindres déviations,Jean-Jacques Fuchs,2010,0,Traitement du signal
+10.18280/ts.380621,Image Segmentation for Review of Cerebral Apoplexy,Na Jiang,2021,0,Traitement du Signal
+10.18280/ts.380512,An Integrated Signal Allocation Model with Effective Collision Resolution Model for Performance Enhancement of Wireless Sensor Networks,Aswani Lalitha and Gangireddy Harinatha Reddy,2021,0,Traitement du Signal
+10.18280/ts.3706,n.m.,,2020,0,Traitement du Signal
+10.18280/ts.3601,n.m.,,2019,0,Traitement du Signal
+10.18280/ts.370622,A Novel Convolutional Neural Network Based Model for Recognition and Classification of Apple Leaf Diseases,Divakar Yadav and n.m. Akanksha and Arun Kumar Yadav,2020,9,Traitement du Signal
+10.18280/ts.390210,Vision Based Crack Detection in Concrete Structures Using Cutting-Edge Deep Learning Techniques,Nirmala Paramanandham and Deepali Koppad and Sasithradevi Anbalagan,2022,1,Traitement du Signal
+10.18280/ts.380123,Recognition of Student Classroom Behaviors Based on Moving Target Detection,Bin Wu and Chunmei Wang and Wei Huang and Da Huang and Hang Peng,2021,7,Traitement du Signal
+10.18280/ts.370619,Mitigating the Interference Caused by Pilot Contamination in Multi-cell Massive Multiple Input Multiple Output Systems Using Low Density Parity Check Codes in Uplink Scenario,Lokesh Bhardwaj and Ritesh Kumar Mishra,2020,1,Traitement du Signal
+10.18280/ts.380417,Detection of Various Types of Metal Surface Defects Based on Image Processing,Peng Xue and Changhong Jiang and Huanli Pang,2021,2,Traitement du Signal
+10.3166/ts.31.279-291,Indexation d’objets 3D par spectre de formes géodésiques 3D (SFG3D),Fatem Chaieb and Wieme Gadacha and Faouzi Ghorbel,2014,0,Traitement du signal
+10.18280/ts.380326,Target Positioning and Sorting Strategy of Fruit Sorting Robot Based on Image Processing,Jianhong Yu and Weijie Miao and Guangben Zhang and Kai Li and Yinggang Shi and Li Liu,2021,0,Traitement du Signal
+10.18280/ts.380120,An Efficient Multi-stage Object-Based Classification to Extract Urban Building Footprints from HR Satellite Images,Gopala Krishna VSSN Pendyala and Hemantha Kumar Kalluri and Venkateswara C. Rao,2021,0,Traitement du Signal
+10.18280/ts.370317,A New Framework for Recognizing Normal and Epileptic Seizure from Eye Movement Signals Using Genetic Based Convolutional Neural Network,Veeramosu Priyanka Brahmaiah and Yarlagadda Padma Sai and Mahendra N. Giriprasad,2020,4,Traitement du Signal
+10.3166/ts.29.359-382,Un nouvel ensemble de descripteurs de Fourier Clifford pour les images couleur. Les GCFD3,José Mennesson and Christophe Saint Jean and Laurent Mascarilla,2012,1,Traitement du signal
+10.3166/ts.32.7-37,Récepteurs SIMO MLSE Widely Linear. Structures et performances en présence d’interférences non circulaires,Jean-Pierre Delmas and Pascal Chevalier and Soumaya Sallem and Sadok Mustapha,2015,0,Traitement du signal
+10.18280/ts.380431,Subsampled Circulant Matrix Based Wideband Spectrum Sensing Using Fusion Based Recovery Algorithm,T V N L Aswini and Padma K Raju and Leela B Kumari,2021,0,Traitement du Signal
+10.18280/ts.3704,n.m.,,2020,0,Traitement du Signal
+10.18280/ts.380315,An Approach of Detecting the Age of a Human by Extracting the Face Parts and Applying the Hierarchical Methods,Mohan Goud Kathi and Jakeer Hussain Shaik,2021,1,Traitement du Signal
+10.18280/ts.390101,Interaction Model of the Cabin of Combined Sugarcane Harvesters,Sha Liu and Yu Tan and Chunyang Wu,2022,0,Traitement du Signal
+10.18280/ts.3805,n.m.,,2021,0,Traitement du Signal
+10.18280/ts.3605,n.m.,,2019,0,Traitement du Signal
+10.18280/ts.390231,Recognition of Cheating Behaviors Based on Finetuning of Model Parameters,Fengyun Cao and Shijie Lu and Jin Zhong,2022,0,Traitement du Signal
+10.18280/ts.390216,"A Representation of 3GPP 5G-V2X Sidelink Enhancements in Releases 14, 15, 16, and 17",Sa'adatu Abubakar and Azizulrahman Bin Mohd Shariﬀ and Khuzairi Mohd Zaini and Suzi Iryanti Fadilah,2022,0,Traitement du Signal
+10.18280/ts.390205,Biological Image Identity Detection and Authentication in the Field of Financial Payment Security,Haibo Gao and Zhujun Wang and Xialong Sun,2022,0,Traitement du Signal
+10.18280/ts.390208,Obstructive Sleep Apnea (OSA) Classification Based on Heart Rate Variability (HRV) on Electrocardiogram (ECG) Signal Using Support Vector Machine (SVM),Achmad Rizal and Fauzan Dizki Alif Azmi Siregar and Hilman Tresna Fauzi,2022,0,Traitement du Signal
+10.18280/ts.390213,Low-Light Face Recognition and Identity Verification Based on Image Enhancement,Qiuju Lu and Peipei Gan,2022,0,Traitement du Signal
+10.3166/ts.35.61-73,Design of moving target detection and tracking system based on cortex-A7 and openCV,Xingli HUANG and TIANFAN ZHANG and ZHENGHONG DENG and ZHE LI,2018,3,Traitement du signal
+10.18280/ts.380624,Image Recognition of Standard Actions in Sports Videos Based on Feature Fusion,Songjiao Wu,2021,1,Traitement du Signal
+10.3166/ts.32.265-286,Analyse multi-échelle de trajectoires de points critiques pour la reconnaissance d’actions humaines,Cyrille Beaudry and Renaud Péteri and Laurent Mascarilla,2015,0,Traitement du signal
+10.18280/ts.380418,Novel Implementations of Clutter and Target Discrimination Using Threshold Skewness Method,Thottempudi Pardhu and Vijay Kumar,2021,0,Traitement du Signal
+10.18280/ts.370320,Identification and Classification of Surface Cracks on Concrete Members Based on Image Processing,Xiaoping Cao and Tao Li and Jiawei Bai and Zhikai Wei,2020,3,Traitement du Signal
+10.18280/ts.390317,A Hybrid Model Particle Swarm Optimization Based Mammogram Classification Using Kernel Support Vector Machine,Thiyagarajan Annamalai and Murukesh Chinnasamy and Mary Joans Samuel Soundara Pandian,2022,0,Traitement du Signal
+10.18280/ts.390333,A Positive-Unlabeled Generative Adversarial Network for Super-Resolution Image Reconstruction Using a Charbonnier Loss,Shuhua Xu and Mingming Qi and Xianming Wang and Hanli Zhao and Zhongyi Hu and Hongyu Sun,2022,0,Traitement du Signal
+10.18280/ts.390308,Envelope Detection by Shannon Energy Calculation in DCT Domain and DFS-Based Notch Filter for Interference Mitigation in GNSS Receivers,Zaki Aissam Khezzar and Redha Benzid and Lamir Saidi and Mostafa Kamel Smail,2022,0,Traitement du Signal
+10.18280/ts.390319,A Deep Learning-Based Cluster Analysis Method for Large-Scale Multi-Label Images,Yanping Xu,2022,0,Traitement du Signal
+10.3166/ts.28.203-229,STAP fondé sur une modélisation autorégressive (AR) des interférences. Estimation des paramètres AR par filtrage de Kalman,Julien Petitjean and Eric Grivel,2011,0,Traitement du signal
+10.3166/ts.28.231-256,Stop-Band APES : traitement STAP sur données fortement hétérogènes. Une formulation étendue du Maximum Likehood Estimation Detector,Laurent Savy and Jean-François Degurse,2011,3,Traitement du signal
+10.18280/ts.370202,Adaptive and Feature-Preserving Bilateral Filters for Three-Dimensional Models,Nannan Li and Shaoyang Yue and Bo Jiang,2020,1,Traitement du Signal
+10.3166/ts.32.391-416,Lutherie virtuelle et interaction instrumentale. Une approche physique de l'instrument de musique numérique,James Leonard and Claude Cadoz and Nicolas Castagne and Annie Luciani,2015,1,Traitement du signal
+10.18280/ts.380633,Upper Limb Action Identification Based on Physiological Signals and Its Application in Limb Rehabilitation Training,Chao Zhang and Ji Zou and Zhongjing Ma and Qian Wu and Zhaogang Sheng and Zhen Yan,2021,0,Traitement du Signal
+10.3166/ts.33.131-151,TPT-Dance&amp;Actions : un corpus multimodal d’activités humaines,Aymeric Masurelle and Ahmed Rida Sekkat and Slim Essid and Gaël Richard,2016,2,Traitement du signal
+10.3166/ts.32.245-264,Autoencodeurs discriminants pour la détection et la reconnaissance de véhicules en imagerie aérienne,Sébastien Razakarinovy and Frédéric Jurie,2015,0,Traitement du signal
+10.18280/ts.380125,Analysis on Food Crispness Based on Time and Frequency Domain Features of Acoustic Signal,Li Chen and Jianfeng Ding,2021,1,Traitement du Signal
+10.18280/ts.380307,A Multi-Feature Motion Posture Recognition Model Based on Genetic Algorithm,Yuanguo Liu and Ying Wu,2021,0,Traitement du Signal
+10.18280/ts.380330,An Efficient Signal Processing Model for Malicious Signal Identification and Energy Consumption Reduction for Improving Data Transmission Rate,Yaswanth Kumar Alapati and Suban Ravichandran,2021,1,Traitement du Signal
+10.18280/ts.390315,An Improved BM3D-Canny-Zernike Algorithm for Micro-Size Detection of Electronic Connectors,Zhenyu Wang and Mingshun Yang and Leijie Ren and Jiali Han and Yirou Liu and Xingbai Zhao and Yangang Feng,2022,1,Traitement du Signal
+10.18280/ts.360306,An Image Classification Method Based on Optimized Fuzzy Bag-of-words Model,Zilong Li and Yong Zhou and Rong Bao,2019,8,Traitement du Signal
+10.18280/ts.380207,A Framework for Multi-Threshold Image Segmentation of Low Contrast Medical Images,Ahmed Elaraby and Ismail Elansary,2021,4,Traitement du Signal
+10.18280/ts.390121,A Scoping Review on COVID-19's Early Detection Using Deep Learning Model and Computed Tomography and Ultrasound,Ali Abdulqader Bin-Salem and Haider Dhia Zubaydi and Mahmood Alzubaidi and Zain Ul Abideen Tariq and Hamad Naeem,2022,1,Traitement du Signal
+10.18280/ts.380515,Challenges and Limitations in Human Action Recognition on Unmanned Aerial Vehicles: A Comprehensive Survey,Nashwan Adnan Othman and Ilhan Aydin,2021,2,Traitement du Signal
+10.18280/ts.380209,Facial Expression Recognition Using 3D Points Aware Deep Neural Network,Imen Hamrouni Trimech and Ahmed Maalej and Najoua Essoukri Ben Amara,2021,1,Traitement du Signal
+10.18280/ts.370218,An Automatic Method for Unsupervised Feature Selection of Hyperspectral Images Based on Fuzzy Clustering of Bands,Behnam Beirami and Mehdi Mokhtarzade,2020,5,Traitement du Signal
+10.18280/ts.390640,Research on State Detection Method of Electrical Equipment Based on Wireless Sensor Network Signal Processing,Chunhui Liang and Chao Ding and Jinfa Li and Xiaoyang Zuo,2022,0,Traitement du Signal
+10.18280/ts.390610,Conical Differential Range Based Back-Projection Algorithm for Concealed Object Detection with Three-Dimensional mmW Imaging,Huseyin Duysak and Enes Yiğit and Levent Seyfi,2022,0,Traitement du Signal
+10.18280/ts.390613,An Industrial Application Towards Classification and Optimization of Multi-Class Tile Surface Defects Based on Geometric and Wavelet Features,Huseyin Coskun and Tuncay Yiğit and İsmail Serkan Üncü and Mevlüt Ersoy and Ali Topal,2022,0,Traitement du Signal
+10.18280/ts.390618,Research on Industrial Production Defect Detection Method Based on Machine Vision Technology in Industrial Internet of Things,Limin Jia and Yang Wang,2022,0,Traitement du Signal
+10.18280/ts.390636,Pneumonia Detection with Chest-Caps,Ahmet Solak and Rahime Ceylan,2022,0,Traitement du Signal
+10.18280/ts.390625,A Hybrid Model: Multiple Feature Selection Approach Using Transfer Learning for Bacteria Classification,Ömer Faruk Nasip and Kenan Zengin,2022,0,Traitement du Signal
+10.18280/ts.390611,An Attention-Based Deep Regional Learning Model for Enhanced Finger Vein Identification,Dawlat Mustafa Sulaiman and Adnan Mohsin Abdulazeez and Dilovan Asaad Zeba and Diyar Qader Zeebaree and Salama A. Mostafa and Shereen Saleem Sadiq,2022,0,Traitement du Signal
+10.18280/ts.3904,n.m.,,2022,0,Traitement du Signal
+10.18280/ts.390420,Image Information Recognition and Classification of Warehoused Goods in Intelligent Logistics Based on Machine Vision Technology,Shouhui He and Yan Wang and Hongda Liu,2022,0,Traitement du Signal
+10.18280/ts.390127,"Authentication of NIfTI Neuroimages Using Lifting Wavelet Transform, Arnold Cat Map, Z-Transform, and Hessenberg Decomposition",Kamred Udham Singh and Sun-Yuan Hsieh and Chetan Swarup and Teekam Singh,2022,2,Traitement du Signal
+10.18280/ts.380526,Road Identification Through Efficient Edge Segmentation Based on Morphological Operations,Bandi Mary Sowbhagya Rani and Vasumathi Devi Majety and Chandra Shaker Pittala and Vallabhuni Vijay and Kanumalli Satya Sandeep and Siripuri Kiran,2021,1,Traitement du Signal
+10.18280/ts.390432,An Adaptive Image Fusion Algorithm in the NSST Based on CDF 9/7 for Neurodegenerative Diseases,Bengana Abdelfatih and Boukli Hacene Ismail,2022,0,Traitement du Signal
+10.18280/ts.390433,Cuckoo Search Constrained Gamma Masking for MRI Image Detail Enhancement,Muktesh Kumar Ojha and Amrita Rai and Anshuman Prakash and Priyesh Tiwari and Dhiraj Gupta,2022,0,Traitement du Signal
+10.18280/ts.380401,Respiratory and Motion Artefacts Removal from ICG Signal Using Denoising Techniques for Hemodynamic Parameters Monitoring,Hadjer Benabdallah and Salim Kerai,2021,2,Traitement du Signal
+10.18280/ts.380121,Location Identification and Personalized Recommendation of Tourist Attractions Based on Image Processing,Qian Zhang and Yi Liu and Lei Liu and Shuang Lu and Yuxue Feng and Xiao Yu,2021,4,Traitement du Signal
+10.18280/ts.370505,Retinex-Based Multiphase Algorithm for Low-Light Image Enhancement,Mohammad Abid Al-Hashim and Zohair Al-Ameen,2020,3,Traitement du Signal
+10.18280/ts.380105,Face Recognition by Using 2D Orthogonal Subspace Projections,Semih Ergin and Sahin Isik and Mehmet Bilginer Gulmezoglu,2021,3,Traitement du Signal
+10.18280/ts.370211,Fusion Between Shape Prior and Graph Cut for Vehicle Image Segmentation,Hao Wu and Xiaoyan Sun and Yanan Liu and Dagang Wang and Bing Wei,2020,1,Traitement du Signal
+10.18280/ts.370602,Contactless Multi-biometric System Using Fingerprint and Palmprint Selfies,Abderrahmane Herbadji and Noubeil Guermat and Lahcene Ziet and Zahid Akhtar and Mohamed Cheniti and Djamel Herbadji,2020,2,Traitement du Signal
+10.18280/ts.380312,Efficient Multi-Organ Multi-Center Cell Nuclei Segmentation Method Based on Deep Learnable Aggregation Network,Loay Hassan and Adel Saleh and Mohamed Abdel-Nasser and Osama A. Omer and Domenec Puig,2021,1,Traitement du Signal
+10.18280/ts.380108,Comparison of Plant Leaf Classification Using Modified AlexNet and Support Vector Machine,Shivali Amit Wagle and Harikrishnan R,2021,13,Traitement du Signal
+10.3166/ts.35.289-302,A novel asphalt pavement crack detection algorithm based on multi-feature test of cross-section image,Lili HE and Han ZHU and Zhanxu GAO,2018,2,Traitement du signal
+10.18280/ts.360511,Statistical Analysis of Lower and Raised Pitch Voice Signal and Its Efficiency Calculation,Mahesh Singh and Durgesh Nandan and Sanjeev Kumar,2019,27,Traitement du Signal
+10.18280/ts.380410,Identify Attractive and Unattractive Individuals Based on Geometric Features Using Neural Network,Shakiba Ahmadimehr and Mohammad Karimi Moridani,2021,3,Traitement du Signal
+10.18280/ts.390107,Ensemble Residual Network Features and Cubic-SVM Based Tomato Leaves Disease Classification System,Fatih Özyurt and Eser Sert and Derya Avci,2022,1,Traitement du Signal
+10.18280/ts.370212,Muscle Noise Cancellation from ECG Signal Using Self Correcting Leaky Normalized Least Mean Square Adaptive Filter under Varied Step Size and Leakage Coefficient,Anissa Khiter and Amel Mitiche and Lahcene Mitiche,2020,3,Traitement du Signal
+10.18280/ts.370508,Three-Dimensional Mirror Surface Measurement Based on Local Blur Analysis of Phase Measuring Deflectometry System,Hongyu Sun and Le Wang and Zhan Song and Geng Chen,2020,1,Traitement du Signal
+10.18280/ts.370521,Gesture Feature Extraction and Recognition Based on Image Processing,Yingnan Wang and Yueming Yang and Peiye Zhang,2020,9,Traitement du Signal
+10.18280/ts.390203,A Novel Approach in Bio-Medical Image Segmentation for Analyzing Brain Cancer Images with U-NET Semantic Segmentation and TPLD Models Using SVM,Stephen Neal Joshua Eali and Debnath Bhattacharyya and Thirupathi Rao Nakka and Seng-Phil Hong,2022,10,Traitement du Signal
+10.3166/ts.34.153-173,A novel human behaviour information coding method based on eye-tracking technology,Tao HU and Jian LV and Kang YIN and QINGSHENG XIE and Hui SUN and QINGNI YUAN,2017,2,Traitement du signal
+10.18280/ts.370307,A Novel Metaheuristic Algorithm for Edge Detection Based on Artificial Bee Colony Technique,Mourad Moussa and Wissal Guedri and Ali Douik,2020,4,Traitement du Signal
+10.3166/ts.34.93-110,An improved particle swarm optimization algorithm for parameter optimization of proportional–integral–derivative controller,Changhong JIANG and Chao ZHANG and Yongheng ZHANG and Hong XU,2017,3,Traitement du signal
+10.18280/ts.390316,"Diagnosis of Heart Diseases Using Heart Sound Signals with the Developed Interpolation, CNN, and Relief Based Model",Muhammed Yildirim,2022,3,Traitement du Signal
+10.18280/ts.380211,Weed Detection in Images of Carrot Fields Based on Improved YOLO v4,Boyu Ying and Yuancheng Xu and Shuai Zhang and Yinggang Shi and Li Liu,2021,14,Traitement du Signal
+10.18280/ts.390106,An Improved Saliency Detection Algorithm Based on Edge Boxes and Bayesian Model,Lei Feng and Haibin Li and Defang Cheng and Wenming Zhang and Cunjun Xiao,2022,1,Traitement du Signal
+10.18280/ts.360310,An Optic Disc Segmentation Method Based on Active Contour Tracking,Zhongliang Luo and Yingbiao Jia and Jiazhong He,2019,4,Traitement du Signal
+10.18280/ts.370205,A Novel Image Fusion Method for Water Body Extraction Based on Optimal Band Combination,Xiaohong Xiao and Jiangang Xie and Jiping Niu and Wei Cao,2020,4,Traitement du Signal
+10.18280/ts.390112,An Effective Medical Image Classification: Transfer Learning Enhanced by Auto Encoder and Classified with SVM,Omer Sevinc and Mehrube Mehrubeoglu and Mehmet Serdar Guzel and Iman Askerzade,2022,2,Traitement du Signal
+10.18280/ts.390238,Deep Learning Application in Detecting Glass Defects with Color Space Conversion and Adaptive Histogram Equalization,Filiz Sari and Ali Burak Ulas,2022,2,Traitement du Signal
+10.18280/ts.390422,"Classification of OME with Eardrum Otoendoscopic Images Using Hybrid-Based Deep Models, NCA, and Gaussian Method",Harun Bingol,2022,2,Traitement du Signal
+10.18280/ts.380625,Classification of Image and Text Data Using Deep Learning-Based LSTM Model,Praveen Kumar Yechuri and Suguna Ramadass,2021,2,Traitement du Signal
+10.3166/ts.30.195-218,Désentrelacement de clics par analyse du rythme,Olivier Le Bot and Cédric Gervaise and Julien Bonnel and Jérôme I Mars,2013,0,Traitement du signal
+10.18280/ts.370405,A Synchronous Transmission Method for Array Signals of Sensor Network under Resonance Technology,Huadong Wang,2020,0,Traitement du Signal
+10.18280/ts.390138,Classification of Image Spam Using Convolution Neural Network,Ayyappa Chakravarthi Metlapalli and Thillaikarasi Muthusamy and Bhanu Prakash Battula,2022,0,Traitement du Signal
+10.18280/ts.380110,Sampling Rate Optimization for Improving the Cascaded Integrator Comb Filter Characteristics,Raouf Amrane and Youcef Brik and Samir Zeghlache and Mohamed Ladjal and Djamel Chicouche,2021,0,Traitement du Signal
+10.3166/ts.35.303-316,Reconstruction of 3D building model based on the information in floor plan,Qingshuang WU and Peng MENG and Gang LIU,2018,1,Traitement du signal
+10.18280/ts.380428,Brain Tumor Classification of MRI Images Using Deep Convolutional Neural Network,Swaraja Kuraparthi and Madhavi K. Reddy and C.N. Sujatha and Himabindu Valiveti and Chaitanya Duggineni and Meenakshi Kollati and Padmavathi Kora and V. Sravan,2021,9,Traitement du Signal
+10.18280/ts.380422,Spectral Graph Wavelet Based Image Steganography Using SVD and Arnold Transform,Shikha Chaudhary and Saroj Hiranwal and Chandra Prakash Gupta,2021,0,Traitement du Signal
+10.3166/ts.29.157-177,Bouclage de pertinence négatif pour la recherche des images à base de descripteurs de sous-bandes d’ondelettes,Abir Gallas and Walid Barhouni and Ezzedine Zagrouba,2012,0,Traitement du signal
+10.18280/ts.380204,Monte Carlo Optimization of a Combined Image Quality Assessment for Compressed Images Evaluation,Ahmed Bouida and Mustapha Khelifi and Mohammed Beladgham and Fatima-Zohra Hamlili,2021,0,Traitement du Signal
+10.3166/ts.29.101-121,Reconnaissance supervisée et non supervisée de lois à partir d’échantillons finis,Olivier Alata and Christian Olivier and Zhan Jin and Yannis Pousset,2012,0,Traitement du signal
+10.18280/ts.390209,Pointing Cursor Interaction in Virtual Reality from the Perspective of Distance Perception,Mengdi Shi and Tao Hu and Jiawen Yu,2022,0,Traitement du Signal
+10.18280/ts.390228,Expression Identification and Emotional Classification of Students in Job Interviews Based on Image Processing,Lingling Cui and Weigong Kong and Yiming Sun and Lin Shao,2022,0,Traitement du Signal
+10.18280/ts.390239,Orchard Boumans Algorithm and MRF Approach Based on Full Threshold Segmentation for Dental X-Ray Images,Vikram Rajpoot and Rahul Dubey and Safdar Sardar Khan and Saumil Maheshwari and Abhishek Dixit and Arpit Deo and Nitika Vats Doohan,2022,0,Traitement du Signal
+10.18280/ts.390224,Disease Feature Recognition of Hydroponic Lettuce Images Based on Support Vector Machine,Wenzhe Deng and Feiyang Zhou and Zheng Gong and Yongjie Cui and Li Liu and Qian Chi,2022,0,Traitement du Signal
+10.18280/ts.390223,Auditory Evoked Potential-Based Hearing Loss Level Recognition Using Fully Convolutional Neural Networks,Ramzi Maalmi and Amine Ben Slama and Hanene Sahli and Hedi Trabelsi,2022,0,Traitement du Signal
+10.18280/ts.390206,Automated COVID-19 Detection from WBC-DIFF Scattergram Images with Hybrid CNN Model Using Feature Selection,Hakan Ayyıldız and Mehmet Kalaycı and Seda Arslan Tuncer and Ahmet Çınar and Taner Tuncer,2022,0,Traitement du Signal
+10.18280/ts.390202,MAF-DeepLab: A Multiscale Attention Fusion Network for Semantic Segmentation,Ning Chen and Yupeng Chen and Qinfeng Wang and Shaopeng Wu and Hongyi Zhang,2022,0,Traitement du Signal
+10.18280/ts.390126,Classification of COVID-19 Cases from X-Ray Images Based on a Modified VGG-16 Model,Omar Sedqi Kareem and Ahmed Khorsheed Al-Sulaifanie,2022,0,Traitement du Signal
+10.18280/ts.390630,Multimodal Human Facial Emotion Recognition Using DenseNet-161 and Image Feature Stabilization Algorithm,Angeline R and Alice Nithya A,2022,0,Traitement du Signal
+10.18280/ts.390605,A Comparative Approach for Facial Expression Recognition in Higher Education Using Hybrid-Deep Learning from Students' Facial Images,Muhammed Usame Abdullah and Ahmet Alkan,2022,0,Traitement du Signal
+10.18280/ts.390632,Effect of DNN Approximation for Channel Estimation and Signal Detection on OFDM Applications,Bircan Çalışır,2022,0,Traitement du Signal
+10.18280/ts.390631,Fast Target Recognition Method Based on Multi-Scale Fusion and Deep Learning,Guangming Sun and Bo Kuang and Yunkai Zhang,2022,0,Traitement du Signal
+10.18280/ts.370403,Phishing Website Detection Using Machine Learning Classifiers Optimized by Feature Selection,Dželila Mehanović and Jasmin Kevrić,2020,4,Traitement du Signal
+10.18280/ts.360403,Method and Implementation of Improving the Pointing Accuracy of an Optical Remote Sensor Using a Star Sensor,Qiang Liu and Xin He and Fengwei Guan and Yuchen Zhao and Fan Jiang and Fuxiang Tian and Shuxin Wang,2019,3,Traitement du Signal
+10.18280/ts.370418,An Image Recognition Algorithm of Bolt Loss in Underground Pipelines Based on Local Binary Pattern Operator,Xiaodong Yan and Xiaogang Song,2020,1,Traitement du Signal
+10.18280/ts.390114,Application of Image Processing and Identification Technology for Digital Archive Information Management,Zhen Zhang and Xiang Xie,2022,1,Traitement du Signal
+10.18280/ts.370203,New Thresholding Technique in DCT Domain for Interference Mitigation in GNSS Receivers,Zaki Aissam Khezzar and Redha Benzid and Lamir Saidi,2020,2,Traitement du Signal
+10.3166/ts.27.515-540,Sélection de capteurs pour interfaces cerveau-ordinateur de type P300,Hubert Cecotti and Bertrand Rivet and Marco Congedo and Christian Jutten and Olivier Bertrand and Emmanuel Maby and Jérémie Mattout,2010,0,Traitement du signal
+10.18280/ts.390115,A Modified Extrema Pattern with Multilinear Matrix Decomposition Based RLC Scheme for Efficient Serial Remote Sensing Images Mining,Angelin Preethi Rajakumar and Anandharaj Ganesan,2022,0,Traitement du Signal
+10.18280/ts.380614,Double Thresholding with Sine Entropy for Thermal Image Segmentation,Manikanta Prahlad Manda and Daijoon Hyun,2021,0,Traitement du Signal
+10.18280/ts.390236,Deep Residual CNN with Contrast Limited Adaptive Histogram Equalization for Weed Detection in Soybean Crops,Velpula Sekhara Babu and Nidumolu Venkat Ram,2022,1,Traitement du Signal
+10.3166/ts.31.383-400,Critères BIC et AIC pour les chaînes de Markov cachées. Application aux communications numériques,Noura Dridi and Yves Delignon and Wadih Sawaya,2014,0,Traitement du signal
+10.3166/ts.30.243-271,étude statistique du fouillis de mer à partir de lois alpha-stables,Anthony Fiche and Ali Khenchaf and Jean-Christophe Cenxus and Arnaud Martin and Maud Rochdi,2013,0,Traitement du signal
+10.3166/ts.28.329-374,OPTIMED : optimisation itérative pour la résolution de problèmes inverses de grande taille,Lofti Chaari and Emilie Chouzenoux and Nelly Pustelnick and Caroline Chaux and Saïd Moussaoui,2011,0,Traitement du signal
+10.18280/ts.380605,Synthesis and Comparison of Improved Edge Detection Technique Based on Metaheuristic and Intelligent Algorithm Optimization,Mourad Moussa and Ali Douik,2021,0,Traitement du Signal
+10.3166/ts.33.415-440,Echantillonnage compressé des signaux passe-bande à taux d'innovation fini. Application pour l’estimation du canal ultra-large bande et la localisation de précision en environnement intérieur,Tina YAACOUB and Ana Maria PISTEA and Roua YOUSSEF and Emmanuel RADOI and Gilles BUREL,2016,0,Traitement du signal
+10.18280/ts.360105,Faults Detection and Diagnosis of Multilevel Inverter Based on Signal Processing,Benyettou Loutfi,2019,1,Traitement du Signal
+10.18280/ts.370111,A Deep Learning Model for Striae Identification in End Images of Float Glass,Dabing Jin and Shiqing Xu and Lianjie Tong and Linyu Wu and Shimin Liu,2020,0,Traitement du Signal
+10.18280/ts.390103,Image Description Using the Relation Between Color and Texture in Retrieval Task,Kevin Salvador Aguilar-Domínguez and Raúl Pinto-Elías and Juan Gabriel González-Serna and Andrea Magadán-Salazar,2022,0,Traitement du Signal
+10.18280/ts.390404,Image Denoising Based on Implementing Threshold Techniques in Multi-Resolution Wavelet Domain and Spatial Domain Filters,Ahmed Abdulmaged Ismael and Muhammet Baykara,2022,0,Traitement du Signal
+10.18280/ts.390403,Vibration Signal Features Prediction of GIS Equipment Based on Improved Slime Mold Optimization Algorithm Optimizing CNN-BiLSTM,Xiping Jiang and Qian Wang and Yingkai Long and Shiling Zhang and Yun Fang and Dong Hu,2022,0,Traitement du Signal
+10.18280/ts.390409,SpiCoNET: A Hybrid Deep Learning Model to Diagnose COVID-19 and Pneumonia Using Chest X-Ray Images,Vedat Tümen,2022,0,Traitement du Signal
+10.18280/ts.390436,A Novel Sobel Edge Detection Accelerator Based on Reconfigurable Architecture,Li Xu and Dechun Zheng,2022,0,Traitement du Signal
+10.18280/ts.390412,Automatic COVID-19 Diagnosis System Based on Deep Convolutional Neural Networks,Sajja Tulasi Krishna and Hemantha Kumar Kalluri,2022,0,Traitement du Signal
+10.18280/ts.390407,A Novel Detection Method Using YOLOv5 for Vehicle Target under Complex Situation,Yue Zhai and Weijia Zeng and Nan Li,2022,0,Traitement du Signal
+10.18280/ts.390417,Evaluation of PV Panel Power Loss Using Gabor Filter Bank,Kerim Karadag,2022,0,Traitement du Signal
+10.18280/ts.390410,Remote Sensing Image Information Extraction and Application Based on Improved Pixel Exchange Algorithm,Luo Qiu and Qiuhua He and Deqing Yu and Junde Xie,2022,0,Traitement du Signal
+10.18280/ts.390426,Recognition of Student Emotions in Classroom Learning Based on Image Processing,Pei Wang and Peng Li and Maria C. Cuntapay,2022,0,Traitement du Signal
+10.18280/ts.390425,Enhancement of Images with Very Low Light by Using Modified Brightness Low Lightness Areas Algorithm Based on Sigmoid Function,Noor Jabbar Abraham and Hazim G. Daway and Rafid Abbas Ali,2022,0,Traitement du Signal
+10.18280/ts.390215,Implementation of Visual Clustering Strategy in Self-Organizing Map for Wear Studies Samples Printed Using FDM,Latchoumi Thamarai Pugazhendhi and Raja Kothandaraman and Balamurugan Karnan,2022,3,Traitement du Signal
+10.18280/ts.370501,A Novel Spatio-Temporal Violence Classification Framework Based on Material Derivative and LSTM Neural Network,Wafa Lejmi and Anouar Ben Khalifa and Mohamed Ali Mahjoub,2020,6,Traitement du Signal
+10.18280/ts.370206,Hand-Crafted Features vs Deep Learning for Pedestrian Detection in Moving Camera,Bilel Tarchoun and Anouar Khalifa and Selma Dhifallah and Imen Jegham and Mohamed Mahjou,2020,5,Traitement du Signal
+10.18280/ts.360613,A Fast Recognition Algorithm of Online Social Network Images Based on Deep Learning,Weili Meng and Chuanzhong Mao and Jin Zhang and Jing Wen and Dehua Wu,2019,13,Traitement du Signal
+10.18280/ts.380529,Design and Application of a Slow Feature Algorithm Coupling Visual Selectivity and Multiple Long Short-Term Memory Networks,Yanming Zhao and Hong Yang and Guoan Su,2021,1,Traitement du Signal
+10.18280/ts.380630,Evaluation of Logistics Service Quality: Sentiment Analysis of Comment Text Based on Multi-Level Graph Neural Network,Wei Chen and Xuan Zheng and Haijun Zhou and Zhe Li,2021,1,Traitement du Signal
+10.18280/ts.370406,Simple and Efficient Double-Talk-Detector for Acoustic Echo Cancellation,Mourad Benziane and Mohamed Bouamar and Mouldi Makdir,2020,1,Traitement du Signal
+10.3166/ts.32.443-475,TPT-Dance&amp;Actions : un corpus multimodal d’activités humaines,Aymeric Masurelle and Ahmed Rida Sekkat and Slim Essid and Gaël Richard,2015,0,Traitement du signal
+10.3166/ts.28.309-328,Kameleon : masse de données anatomiques pour l’étude des structures squelettiques des petits vertébrés,Lionel Revéret and Estelle Duveau and Marc Herbin and Franck Multon and Pierre-Paul Vidal,2011,0,Traitement du signal
+10.18280/ts.370605,Projected Wirtinger Gradient Descent for Digital Waves Reconstruction,Suhui Liu and Lelai Shi and Weiyu Xu,2020,0,Traitement du Signal
+10.18280/ts.380115,Automatic Detection of COVID-19 Disease by Using Transfer Learning of Light Weight Deep Learning Model,Fatih Özyurt,2021,1,Traitement du Signal
+10.18280/ts.380321,Throughput Optimization of Parallel Sensing and Energy Harvesting Cognitive Radio Network,Anitha Bujunuru and Srinivasulu Tadisetty,2021,0,Traitement du Signal
+10.3166/ts.30.169-194,Inversion géoacoustique passive en milieux petits fonds à partir de signaux représentatifs des émissions de cétacés,Amélie Barazzutti and Cédric Gervaise and Yann Stéphan and Florian Dadouchi and Jean-Pierre Sessarego,2013,0,Traitement du signal
+10.3166/ts.27.27-51,Identification de modèles de Volterra basée sur la décomposition PARAFAC de leurs noyaux et le filtre de Kalman étendu,Favier Gérard and Bouilloc Thomas,2010,2,Traitement du signal
+10.3166/ts.27.491-514,Une nouvelle méthode d'élagage d'ensemble de classifieurs basée sur le concept de marge,Li guo and Samia Boukir,2010,0,Traitement du signal
+10.18280/ts.370311,A Computationally Efficient Estimation Algorithm for Direction of Arrival in Double Parallel Linear Array,Guicai Yu,2020,0,Traitement du Signal
+10.18280/ts.380405,Improving Parotid Gland Tumor Segmentation and Classification Using Geometric Active Contour Model and Deep Neural Network Framework,Amine Ben Slama and Zouhair Mbarki and Hassen Seddik and Jihene Marrakchi and Seif Boukriba and Salam Labidi,2021,1,Traitement du Signal
+10.18280/ts.370517,Application of Empirical Wavelet Transform in Digital Image Watermarking,Mohammad Keivani and Amir Mahdi Sazdar and Jalil Mazloum and Akram Esvand Rahmani,2020,1,Traitement du Signal
+10.18280/ts.380327,Frontal Cortex Neuron Type Classification with Deep Learning and Recurrence Plot,Fatma Özcan and Ahmet Alkan,2021,1,Traitement du Signal
+10.18280/ts.380113,An Electronic Bill Encryption Algorithm Based on Multiple Watermark Encryption,Chuan Lin and Xinpeng Xu,2021,1,Traitement du Signal
+10.18280/ts.360207,Continuous Wavelet Technique for Detection of Broken Bar Faults in Induction Machine,Ibrahim Chouidira and Djalal Khodja and Salim Chakroune,2019,4,Traitement du Signal
+10.18280/ts.390119,Classification of Bird Sound Using High-and Low-Complexity Convolutional Neural Networks,Aymen Saad and Javed Ahmed and Ahmed Elaraby,2022,0,Traitement du Signal
+10.18280/ts.380419,Vehicle Classification and Counting System Using YOLO Object Detection Technology,Jian-Da Wu and Bo-Yuan Chen and Wen-Jye Shyr and Fan-Yu Shih,2021,1,Traitement du Signal
+10.18280/ts.370309,A Novel Face Recognition Algorithm for Imbalanced Small Samples,Xiaoru Song and Song Gao and Chaobo Chen and Siling Wang,2020,2,Traitement du Signal
+10.18280/ts.370314,A Target Positioning Method for Industrial Robot Based on Multiple Visual Sensors,Nan Xiao and Xinyue Zhang,2020,2,Traitement du Signal
+10.3166/ts.28.691-716,Stationnarité relative et approches connexes,Patrick Flandrin and Cédric Richard and Pierre-Olivier Amblard and Pierre Borgnat,2011,0,Traitement du signal
+10.18280/ts.370417,Dynamic Increased Capacity Approach Steganography in Spatial Domain,Aqsa Rashid and Nadeem Salamat and V.B. Surya Prasath,2020,0,Traitement du Signal
+10.18280/ts.390324,Hybrid Transform Based Speech Band Width Enhancement Using Data Hiding,Sunil Kumar Koduri and Kishore Kumar T,2022,0,Traitement du Signal
+10.18280/ts.390306,Scoliosis Detection Based on Feature Extraction from Region-of-Interest,Yang Tang and Chenping Xi and Zhen Gong and Lin Li,2022,0,Traitement du Signal
+10.18280/ts.390305,Optimized Piccolo Lightweight Block Cipher: Area Efficient Implementation,Ayoub Mhaouch and Wajdi Elhamzi and Abdessalem Ben Abdelali and Mohamed Atri,2022,0,Traitement du Signal
+10.18280/ts.390323,Artificial Intelligence Based Social Distance Monitoring in Public Areas,Abdulkadir Albayrak,2022,0,Traitement du Signal
+10.18280/ts.390331,Hand Gesture Recognizing Model Using Optimized Capsule Neural Network,Suni S S and K Gopakumar,2022,0,Traitement du Signal
+10.18280/ts.390301,Synthesis of a Radiating Elements for Side Lobe Reduction Using a Hybrid Beamforming Technique Based on Non-Linear Programming and Stochastic Optimization,Mohamed Brahimi and Mustafa Inc and Hijaz Ahmad and Younes Menni and Giulio Lorenzini,2022,0,Traitement du Signal
+10.18280/ts.380618,Color Enhancement of Low Illumination Garden Landscape Images,Qian Zhang and Shuang Lu and Lei Liu and Yi Liu and Jing Zhang and Daoyuan Shi,2021,0,Traitement du Signal
+10.18280/ts.380409,Pipeline of Optimization Techniques for Multi-Level Thresholding in Medical Image Compression Using 2D Histogram,Vimala Kumari Gollu and Ganta Usha Sravani and Mandru Sunil Prakash and Ganta Srikanth,2021,0,Traitement du Signal
+10.18280/ts.380338,Recognition and Classification of Concrete Cracks under Strong Interference Based on Convolutional Neural Network,Ningyu Zhao and Yang Jiang and Yi Song,2021,0,Traitement du Signal
+10.18280/ts.380319,An Object Detection Framework Based on Deep Features and High-Quality Object Locations,Yurong Guan and Muhammad Aamir and Zhihua Hu and Zaheer Ahmed Dayo and Ziaur Rahman and Waheed Ahmed Abro and Permanand Soothar,2021,0,Traitement du Signal
+10.18280/ts.370217,Cross-Recurrence Plots and Quantification of Glottal Signal for Pathological Voice Assessment,Mohamed Dahmani and Mhania Guerti,2020,0,Traitement du Signal
+10.18280/ts.380626,Sound Visualization and Convolutional Neural Network in Fault Diagnosis of Electric Motorbike,Jian-Da Wu and Che-Yuan Hsieh and Wen-Jun Luo,2021,0,Traitement du Signal
+10.3166/ts.29.553-574,Proposition d’une famille de courbes remplissant l’espace de niveau de localité comparable à la courbe de Hilbert,Giap Nguyen and Patrick Franco and Rémy Mullot and Jean-Marc Ogier,2012,0,Traitement du signal
+10.3166/ts.31.9-38,4DGVF : segmentation variationnelle pour images 3D multicomposantes,Vincent Jaouen and Paulo Gonzales and Simon Stute and Denis Guilloteau and Sylvie Chalon and Irène Buvat and Clovis Tauber,2014,0,Traitement du signal
+10.3166/ts.32.345-363,Interaction musicale mumérique. Recréer les signaux du contrôle,Florent Berthaut and Myriam Desainte-Catherine,2015,0,Traitement du signal
+10.18280/ts.380124,Classification of Pitch and Gender of Speakers for Forensic Speaker Recognition from Disguised Voices Using Novel Features Learned by Deep Convolutional Neural Networks,Athulya M. Swamidasan Unni Nair and Sathidevi P. Savithri,2021,0,Traitement du Signal
+10.18280/ts.380309,A Hybrid Capsule Network for Pneumonia Detection Using Image Augmentation Based on Generative Adversarial Network,Kazim Firildak and Muhammed Fatih Talu,2021,0,Traitement du Signal
+10.3166/ts.27.79-108,"SAlgorithmes bayésiens pour le démélange supervisé, semi-supervisé et non-supervisé d’images hyperspectrales",Nicolas Dobigeon and Saïd Moussaoui and Martial Coulon and Jean-Yves Tourneret and Alfred O. Hero,2010,1,Traitement du signal
+10.3166/ts.29.29-49,Mesure de similarité entre sous-parties de nuages de points 2D,Christophe Palmann and Sébastien Mavromatis and Jean Sequeira,2012,0,Traitement du signal
+10.3166/ts.29.255-281,Flot de scène,Antoine Letouzey and Benjamin Petit and Edmond Boyer,2012,0,Traitement du signal
+10.18280/ts.360209,SVM-PUK Kernel Based MRI-brain Tumor Identification Using Texture and Gabor Wavelets,Siva Chinnam and Venkatramaphanikumar Sistla and Venkata Kolli,2019,10,Traitement du Signal
+10.18280/ts.380609,Effect of Data Augmentation in the Classification and Validation of Tomato Plant Disease with Deep Learning Methods,Shivali Amit Wagle and Harikrishnan R and Jahariah Sampe and Faseehuddin Mohammad and Sawal Hamid Md Ali,2021,5,Traitement du Signal
+10.18280/ts.390113,Downlink Processing of Massive MIMO-NOMA Networks Using Cell Sectored Approach for 5G Communication,Lokesh Bhardwaj and Ritesh Kumar Mishra,2022,0,Traitement du Signal
+10.18280/ts.370319,An Improved R-Peaks Marking Method Using Fourier Decomposition and Teager Energy Operator,Harikrishna Ponnam and Jakeer Shaik,2020,0,Traitement du Signal
+10.18280/ts.370306,A Face Detection Method Based on Image Processing and Improved Adaptive Boosting Algorithm,Wanli Zhang and Xianwei Li and Qixiang Song and Wei Lu,2020,3,Traitement du Signal
+10.18280/ts.370416,Handwritten Gurmukhi Digit Recognition System for Small Datasets,Gurpartap Singh and Sunil Agrawal and Balwinder Singh Sohi,2020,2,Traitement du Signal
+10.3166/ts.35.331-340,A novel video target tracking method based on lie group manifold,Haohai FU and Jun XU and Hua ZHANG and Min ZHANG and Xinxin XU,2018,1,Traitement du signal
+10.3166/ts.33.351-376,Perspectives en matrices aléatoires et grands réseaux,Romain Couillet and Gilles Wainrib,2016,0,Traitement du signal
+10.18280/ts.390518,A New Feature Extraction Method for EMG Signals,Yusuf Sevim,2022,0,Traitement du Signal
+10.18280/ts.390526,Micro-Expression Recognition by Using CNN Features with PSO Algorithm and SVM Methods,Mehmet Zahit Uzun and Yuksel Celik and Erdal Basaran,2022,0,Traitement du Signal
+10.18280/ts.390540,CT Image Denoising Model Using Image Segmentation for Image Quality Enhancement for Liver Tumor Detection Using CNN,Venkateswarlu Gavini and Gurusamy Ramasamy Jothi Lakshmi,2022,0,Traitement du Signal
+10.18280/ts.390516,Image Segmentation and Target Extraction of Preschool Educational Activity Space for Improving Children's Concentration,Ting Jin and Zhuang Ma and Jinfang Niu and Peng Su,2022,0,Traitement du Signal
+10.18280/ts.390535,Classroom Video Image Emotion Analysis Method for Online Teaching Quality Evaluation,Shunye Wang and Limin Cheng and Dayong Liu and Junqiao Qin and Guohua Hu,2022,0,Traitement du Signal
+10.18280/ts.390544,Effect of 3D Paradigm on Event-Related Potentials,Onur Erdem Korkmaz,2022,0,Traitement du Signal
+10.18280/ts.390520,Implementation of Omar Pigeon Space-Time (OPST) Algorithm to Mitigate the Interference and Peak-to-Average Power Ratio (PAPR) Using RPR Mobile and HST-HM in the 5G,Kumutha Duraisamy and Tamilvizhi Thanarajan and Meshal Alharbi,2022,0,Traitement du Signal
+10.18280/ts.390503,Emotion Recognition of College Students Based on Audio and Video Image,Chenjie Zhu and Ting Ding and Xue Min,2022,0,Traitement du Signal
+10.3166/ts.35.121-136,Automatic ranking of image thresholding techniques using consensus of ground truth,Susant KUMAR PANIGRAHI and Supratim GUPTA,2018,8,Traitement du signal
+10.18280/ts.370410,Tourist Behavior Recognition Through Scenic Spot Image Retrieval Based on Image Processing,Shizhen Bai and Fuli Han,2020,4,Traitement du Signal
+10.3166/ts.34.21-32,A new student-teacher mentoring algorithm for online feedback using statistical signal processing,Ghanashyam ROUT and Jibendu Sekhar ROY,2017,0,Traitement du signal
+10.3166/ts.29.493-520,Correction non supervisée d’images sous-marines couleur par inversion du modèle de propagation de la lumière,Frédéric Petit and Anne-Sophie Capelle-Laizé and Jean-Christophe burie and Christine Fernandez-Maloigne,2012,0,Traitement du signal
+10.18280/ts.390129,A Comparative Analysis for Optical Character Recognition for Text Extraction from Images Using Artificial Neural Network Fuzzy Inference System,Srikanth Bhyrapuneni and Anandan Rajendran,2022,0,Traitement du Signal
+10.18280/ts.390614,Deep Learning Based Semantic Segmentation Technique for Anomaly Detection on Metal Surfaces Using High Calibre U- Shaped Network,Reshma P Vengaloor and Roopa Muralidhar,2022,0,Traitement du Signal
+10.18280/ts.390635,Signal Feature Extraction of Music Melody Based on Deep Learning,Jinwen Jiang,2022,0,Traitement du Signal
+10.18280/ts.390634,Detection of Breast Cancer Using Modified Markov Model,Chettukrindi Mohammad Aslam and Donti Satya Narayana and Kesari Padma Priya,2022,0,Traitement du Signal
+10.18280/ts.390615,Quality Inspection Method of Agricultural Products Based on Image Processing,Liping Liu and Guangqiang Luo,2022,0,Traitement du Signal
+10.18280/ts.390601,Optimized FPGA-Based Implementation of Brain Tumor Detection by Combining K-Means and Grey Wolf Optimization Algorithms,Amin Jarrah and Sereen Amri,2022,0,Traitement du Signal
+10.18280/ts.390637,A Novel Architecture for Feature Extraction and Convolution for Image Segmentation of Pathology Detection from Chest X-Ray Images,Sarada Nakka and Thirupathi Rao Komati and Sudha Sree Chekuri,2022,0,Traitement du Signal
+10.3166/ts.30.273-300,Signature électromagnétigue des vagues déferlantes observées en configuration bistatique et en bande X,Slah-Edine Ben Kadrah and Ali Khenchaf,2013,0,Traitement du signal
+10.3166/ts.28.171-201,"STAP à rang réduit, récursif en distance et utilisant un développement de Taylor",Sylvie Marcos and Sophie Beau,2011,1,Traitement du signal
+10.18280/ts.360508,Design and Analysis of Rectangular Microstrip Antenna (RMSA) for Millimeter Wave Communication Applications,Umar Farooq and Ghulam Rather,2019,1,Traitement du Signal
+10.18280/ts.390214,A New Hybrid Breast Cancer Diagnosis Model Using Deep Learning Model and ReliefF,Kadir Can Burçak and Harun Uğuz,2022,2,Traitement du Signal
+10.18280/ts.380334,Removal of Power-Line Interference from ECG Using Decomposition Methodologies and Kalman Filter Framework: A Comparative Study,Roshan M. Bodile and Venkata K.H.R. Talari,2021,3,Traitement du Signal
+10.3166/ts.29.229-254,Méthodologie de conception de motifs dirigée par la distance de Hamming et la géométrie épipolaire en lumière structurée,Xavier Maurice and Christophe Doignon,2012,0,Traitement du signal
+10.3166/ts.31.339-361,Filtrage statistique optimal rapide dans des systèmes linéaires à sauts non stationnaires,Noufel Abbassi and Stéphane Derrode and François Desbouvies and Yohann Petetin,2014,0,Traitement du signal
+10.3166/ts.27.127-146,Décodage EM du code de Tardos pour le fingerprinting,Ana Charpentier and Caroline Fontaine and Teddy Furon,2010,0,Traitement du signal
+10.18280/ts.380530,Investigations of Medical Image Segmentation Methods with Inclusion Mathematical Morphological Operations,Bokka Sridhar,2021,1,Traitement du Signal
+10.18280/ts.390548,A Novel Deep Convolutional Neural Network for Diagnosis of Skin Disease,Koteswara Rao Kodepogu and Jagadeeswara Rao Annam and Aruna Vipparla and Bala Venkata Naga Vudata Suresh Krishna and Naresh Kumar and Ramya Viswanathan and Lalitha Kumari Gaddala and Suresh Kumar Chandanapalli,2022,1,Traitement du Signal
+10.18280/ts.370402,"A Hybrid Method of Face Feature Extraction, Classification Based on MLBP and Layered-Recurrent Network",Aws Al-Qaisi and Mokhled S. AlTarawneh and AbdElRahman ElSaid and Ziad Alqadi,2020,3,Traitement du Signal
+10.18280/ts.380505,Deep Att-ResGAN: A Retinal Vessel Segmentation Network for Color Fundus Images,Jie Zhao and Qianjin Feng,2021,1,Traitement du Signal
+10.18280/ts.390125,Emotional Analysis and Annotation of Tourism Landscape Images Based on Tourist Experience,Yi Liu and Qian Zhang and Shuang Lu and Lei Liu and Jing Zhang and Shuai Ma,2022,1,Traitement du Signal
+10.18280/ts.380310,Predictions for Central Lymph Node Metastasis of Papillary Thyroid Carcinoma via CNN-Based Fusion Modeling of Ultrasound Images,Yong Chen and Yanyan Wang and Zihong Cai and Mian Jiang,2021,1,Traitement du Signal
+10.18280/ts.380413,Classification of Drones Using Edge-Enhanced Micro-Doppler Image Based on CNN,Ashish Kumar Singh and Yong-Hoon Kim,2021,1,Traitement du Signal
+10.18280/ts.390330,Deepfakes Classification of Faces Using Convolutional Neural Networks,Jatin Sharma and Sahil Sharma and Vijay Kumar and Hany S. Hussein and Hammam Alshazly,2022,1,Traitement du Signal
+10.18280/ts.380632,Detection of Hidden Facial Surface Masking in Stored and Real Time Captured Images: A Deep Learning Perspective in Covid Time,Ruchi Jayaswal and Manish Dixit,2021,2,Traitement du Signal
+10.18280/ts.370216,Key Technologies for Dynamic Imaging of Disaster-Causing Concealed Water Bodies in Underground Coalmines Based on Transient Electromagnetic Method,Yunbo Li,2020,2,Traitement du Signal
+10.18280/ts.370411,A Facial Expression Recognition Model Based on Texture and Shape Features,Aihua Li and Lei An and Zihui Che,2020,2,Traitement du Signal
+10.3166/ts.27.221-229,"K-produits, un critère de classification pour le traitement du signal",Michel Terré and Luc Féty and Nicolas Paul,2010,1,Traitement du signal
+10.3166/ts.34.209-226,An automatic camera calibration method based on checkerboard,QILIN BI and ZHIJUN LIU and MIAOHUI WANG and MINLING LAI and LEMING XIAO and YIPU YAN and XIAOGUANG LIU,2017,2,Traitement du signal
+10.18280/ts.380220,Fast Job Recognition and Sorting Based on Image Processing,He Yujie,2021,1,Traitement du Signal
+10.18280/ts.380102,Depression Detection Based on Geometrical Features Extracted from SODP Shape of EEG Signals and Binary PSO,Hesam Akbari and Muhammad Tariq Sadiq and Malih Payan and Somayeh Saraf Esmaili and Hourieh Baghri and Hamed Bagheri,2021,12,Traitement du Signal
+10.18280/ts.370512,Odor and Subject Identification Using Electroencephalography Reaction to Olfactory,Onder Aydemir,2020,5,Traitement du Signal
+10.18280/ts.370108,"A Novel Geometrical Method for Discrimination of Normal, Interictal and Ictal EEG Signals",Hesam Akbari and Somayeh Esmaili,2020,6,Traitement du Signal
+10.18280/ts.360112,Design and Application of Ultrasonic Measurement Systems for Akashiwo Sanguinea,Jieli Qin and Shaoping Shang,2019,1,Traitement du Signal
+10.18280/ts.380615,Three-Dimensional Image Reconstruction for Virtual Talent Training Scene,Tanbo Zhu and Die Wang and Yuhua Li and Wenjie Dong,2021,1,Traitement du Signal
+10.18280/ts.360503,Point Cloud Denoising with Principal Component Analysis and a Novel Bilateral Filter,Feng Zhang and Chao Zhang and Huamin Yang and Lin Zhao,2019,7,Traitement du Signal
+10.18280/ts.360604,Identification of Vortex Structures in Flow Field Images Based on Convolutional Neural Network and Dynamic Mode Decomposition,Zhixian Ye and Qian Chen and Yang Zhang and Jianfeng Zou and Yao Zheng,2019,8,Traitement du Signal
+10.18280/ts.360611,A Micro-expression Recognition Algorithm for Students in Classroom Learning Based on Convolutional Neural Network,Jiayin Pei and Peng Shan,2019,25,Traitement du Signal
+10.18280/ts.380402,Function to Flatten Gesture Data for Specific Feature Selection Methods to Improve Classification,Marilú Cervantes Salgado and Raúl Pinto Elías and Andrea Magadán Salazar,2021,0,Traitement du Signal
+10.18280/ts.380111,Design and Optimization of a Finite Element Model for Electrical Resistance Tomography of Human Lungs,Liqing Xiao,2021,0,Traitement du Signal
+10.18280/ts.380329,Single Sample Discriminant Analysis Based on Gabor Transform,Wenying Ma,2021,0,Traitement du Signal
+10.18280/ts.360210,"Assessment of Combined Shape, Color and Textural Features for Video Duplication",Gottumukkala HimaBindu and Chinta Anuradha and Patnala Murty,2019,2,Traitement du Signal
+10.18280/ts.390212,A New Framework Containing Convolution and Pooling Circuits for Image Processing and Deep Learning Applications with Quantum Computing Implementation,Hasan Yetiş and Mehmet Karaköse,2022,0,Traitement du Signal
+10.18280/ts.390237,Time-Frequency Analysis and Type Identification of High-Density Communication Countermeasure Electronic Signals,Hangfei Yuan and Liang Huang and Guoliang Si and You Lv and Ting Nie and Chunxiang Liu,2022,0,Traitement du Signal
+10.18280/ts.390233,HFD and MCFET Based Feature Extraction Technique for Detection of Epilepsy Using ANN Classifier,Hemant Choubey and Sandeep Sharma and Rajendra Bahadur Singh and Vimlesh Kumar Ray,2022,0,Traitement du Signal
+10.18280/ts.370215,Brain Tumor Diagnosis in MRI Images Using Image Processing Techniques and Pixel-Based Clustering,Moosa Katouli and Akram Rahmani,2020,2,Traitement du Signal
+10.3166/ts.35.7-21,An automatic diagnosis method for an open switch fault in unified power quality conditioner based on artificial neural,TABBAKH MOSTEFA and BENSLIMANE TARAK and GLAOUI HACHEMI,2018,6,Traitement du signal
+10.3166/ts.35.317-330,A brain nuclear magnetic resonance image segmentation algorithm based on non-rigid registration,Lei PENG,2018,3,Traitement du signal
+10.18280/ts.380528,Investigating EEG Signals of Autistic Individuals Using Detrended Fluctuation Analysis,Menaka Radhakrishnan and Karthik Ramamurthy and Avantika Kothandaraman and Gauri Madaan and Harini Machavaram,2021,1,Traitement du Signal
+10.18280/ts.360504,Spatial-Spectral Random Patches Network for Classification of Hyperspectral Images,Behnam Beirami and Mehdi Mokhtarzade,2019,5,Traitement du Signal
+10.18280/ts.380317,A Deep Learning-Based Approach in Classification and Validation of Tomato Leaf Disease,Shivali Amit Wagle and Harikrishnan R,2021,5,Traitement du Signal
+10.18280/ts.380522,A Home Efficacy Multi-Modal Intelligent Evaluation System for Wearable Treatment Equipment of Insomnia Through Integration Between Traditional Chinese Medicine and Modern Medicine,Guihong Zhang and Atsushi Ogihara and Siyu Zhou and Xiaotong Yang and Yujia Wang and Xiaowen Ma and Shuwu Li and Kai Li,2021,0,Traitement du Signal
+10.18280/ts.380335,Epilepsy and Seizure Detection Using JLTM Based ICFFA and Multiclass SVM Classifier,Vijaykumar Janga and Srinivasa Reddy Edara,2021,0,Traitement du Signal
+10.18280/ts.370618,An Image Classification Algorithm of Financial Instruments Based on Convolutional Neural Network,Jingfei Dong and Xun Li,2020,2,Traitement du Signal
+10.3166/ts.29.179-192,Norme MPEG pour la compression multirésolution de maillages tridimensionnels,Faten Chaieb and Khaled Mammou and Christophe Dehais,2012,0,Traitement du signal
+10.18280/ts.380306,Implementation of Artifact Removal Algorithms in Gait Signals for Diagnosis of Parkinson Disease,Erdoğan Özel and Ramazan Tekin and Yılmaz Kaya,2021,2,Traitement du Signal
+10.18280/ts.380432,A Visual Tracking Algorithm Based on Estimation of Regression Probability Distribution,Xu Han and Shang Jiang and Jia Yu and Feng Zhang,2021,0,Traitement du Signal
+10.18280/ts.370315,Sequences with Perfect Periodic Auto and Cross Correlation Properties,Tara Bhatt,2020,0,Traitement du Signal
+10.3166/ts.29.409-432,Extraction et analyse de l’impact émotionnel des images,Syntiche Gbèhounou and François Lecellier and Christine Fernandez-Maloigne,2012,1,Traitement du signal
+10.18280/ts.380629,Euclidean Distance Versus Manhattan Distance for New Representative SFA Skin Samples for Human Skin Segmentation,Ouarda Soltani and Souad Benabdelkader,2021,0,Traitement du Signal
+10.18280/ts.380318,Analysis Methods Used to Extract Fingerprints Features,Mohammad S. Khrisat and Rushdi. S. Abu Zneit and Hatim Ghazi Zaini and Ziad A. Alqadi,2021,0,Traitement du Signal
+10.18280/ts.370104,A Salient Object Detection Algorithm Based on Hierarchical Cognitive Mechanism,Xiao Tang and Ting Zeng and Benxiang Ding and Yang Tan,2020,1,Traitement du Signal
+10.3166/ts.29.143-155,Un estimateur de la L2-mesure de dépendance probabiliste pour la réduction de dimension vectorielle. Cas multiclasse,Wissal Drira and Faouzi Ghorbel,2012,1,Traitement du signal
+10.18280/ts.380301,A Novel Multi-Level Pyramid Co-Variance Operators for Estimation of Personality Traits and Job Screening Scores,Hichem Telli and Salim Sbaa and Salah Eddine Bekhouche and Fadi Dornaika and Abdelmalik Taleb-Ahmed and Miguel Bordallo López,2021,0,Traitement du Signal
+10.3166/ts.28.665-689,Décompositions en éléments sonores et applications musicales,Mathieu Lagrange and Roland Badeau and Bertrand David and Nancy Bertin and Olivier Derrien and Sylvain Marchand and Laurent Daudet,2011,0,Traitement du signal
+10.3166/ts.35.209-222,A novel image enhancement technique for tunnel leakage image detection,Chunquan DAI and Yunlong LV and Yanxia LONG and Hongtao SUI,2018,1,Traitement du signal
+10.18280/ts.3705,n.m.,,2020,0,Traitement du Signal
+10.18280/ts.380122,Using a Deep Learning System That Classifies Hypertensive Retinopathy Based on the Fundus Images of Patients of Wide Age,Süleyman Burçin Şüyun and Şakir Taşdemir and Serkan Biliş and Alexandru Milea,2021,1,Traitement du Signal
+10.18280/ts.380233,Dance Action Recognition and Pose Estimation Based on Deep Convolutional Neural Network,Fengling Zhu and Ruichao Zhu,2021,1,Traitement du Signal
+10.18280/ts.380518,Application of Deep Learning and Brain Images in Diagnosis of Alzheimer’s Patients,Yu Jiang,2021,0,Traitement du Signal
+10.18280/ts.370609,Multiple Linear Regression of Multi-class Images in Devices of Internet of Things,Dan Chen,2020,4,Traitement du Signal
+10.18280/ts.370504,Design and Application of a Greedy Pursuit Algorithm Adapted to Overcomplete Dictionary for Sparse Signal Recovery,Shengjie Zhao and Jianchen Zhu and Di Wu,2020,0,Traitement du Signal
+10.18280/ts.390334,Mango Plant Disease Detection System Using Hybrid BBHE and CNN Approach,Vikram Rajpoot and Rahul Dubey and Praveen Kumar Mannepalli and Parcha Kalyani and Saumil Maheshwari and Abhishek Dixit and Akash Saxena,2022,0,Traitement du Signal
+10.18280/ts.390303,Image Segmentation of the Continuous Action of Spiking in Volleyball Based on Spatial Neighborhood Information,Jie Yang,2022,0,Traitement du Signal
+10.3166/ts.35.253-276,"Binocular visual positioning under inhomogeneous, transforming and fluctuating media",Song WANG and Yanzhu HU,2018,2,Traitement du signal
+10.3166/ts.29.65-82,Limitations et comparaisons d’ordonnancement utilisant des distances couleur,Audrey Ledoux and Noël Richard and Anne-Sophie Capelle-Laizé,2012,11,Traitement du signal
+10.18280/ts.360606,An Innovative Beam Hardening Correction Method for Computed Tomography Systems,Guoyi Xiu and Chunying Yuan and Xiaohua Chen and Xuesong Li,2019,2,Traitement du Signal
+10.3166/ts.27.265-296,Détection des panneaux de signalisation routière par accumulation bivariée,Rachid Belaroussi and Jean-Philippe Tarel,2010,7,Traitement du signal
+10.18280/ts.360208,Self-adaptive Hierarchical Threshold Denoising Based on Parametric Construction of Fixed-length Tight-supported Biorthogonal Wavelets,Jianhua Zhang and Qiang Zhu and Lin Song,2019,0,Traitement du Signal
+10.3166/ts.28.15-34,Introduction au STAP : 1. Contexte radar et enjeu du filtrage,Marc Montécot and François Le Chevalier and Stéphane Bidon,2011,0,Traitement du signal
+10.3166/ts.32.215-243,Modèles déformables contraints en reconstruction tomographique par temps de première arrivée,Gil Gaullier and Pierre Charbonnier and Fabrice Heitz and Philippe Côte,2015,0,Traitement du signal
+10.18280/ts.380611,Non-Global Privacy Protection Facing Sensitive Areas in Face Images,Chao Liu and Jing Yang and Yining Zhang and Xuan Zhang and Weinan Zhao and Fengjuan Miao and Yukun Shao,2021,1,Traitement du Signal
+10.18280/ts.370507,Evaluation of Textural Degradation in Compressed Medical and Biometric Images by Analyzing Image Texture Features and Edges,Ahmed Bouida and Mohammed Beladgham and Abdesselam Bassou and Ismahane Benyahia and Abdelmalek Ahmed-Taleb and Imene Haouam and Miloud Kamline,2020,1,Traitement du Signal
+10.18280/ts.3602,n.m.,,2019,0,Traitement du Signal
+10.3166/ts.34.77-91,"Feature extraction and classification using deep convolutional neural networks, PCA and SVC for face recognition",Mohammed Kamel BENKADDOUR and Abdennacer BOUNOUA,2017,10,Traitement du signal
+10.3166/ts.32.147-167,Construction précise de bases d’amers géo-référencés pour la localisation d’un véhicule en milieu urbain,Dorra Laranaout and Vincent Gay-Bellile and Steve Bourgeois and Michel Dhome,2015,0,Traitement du signal
+10.3166/ts.34.183-196,A novel signal processing technique for travelling detection pulse radar in 3D geographic scene,Ju WANG and Rui DING and YUDAN PAN and SU WU,2017,0,Traitement du signal
+10.18280/ts.380604,Slow Feature Extraction Algorithm Based on Visual Selection Consistency Continuity and Its Application,Hong Yang and Yanming Zhao and Guoan Su and Xiuyun Liu and Songwen Jin and Haoyang Fan and Yuhui Shang,2021,0,Traitement du Signal
+10.3166/ts.28.113-142,Traitement STAP et modélisation SIRV : robustesse et persymétrie,Jean-Philippe Orvalez and Frédéric Pascal and Philippe Forster and Guillaume Ginolhac and Mélanie Mahot,2011,0,Traitement du signal
+10.3166/ts.31.221-243,Trois approches de planification de vue automatiques et intelligentes pour la numérisation 3D d’objets inconnus,Souhaiel Khalfaoui and Ralph Seulin and Yohan Fougerolle and David Fofi,2014,0,Traitement du signal
+10.18280/ts.390137,Acupoint Selection for Autonomous Massage Based on Infrared Thermography,Jianfeng Shu and Rongtao Ding and Aixiang Jin and Hui Zhu and Shu Chen,2022,0,Traitement du Signal
+10.3166/ts.27.325-348,Orientation relative à partir de 3 points homologues et de la direction verticale. Une approche directe,Mahzad Kalantari and Amir Hashemi and Franck Jung and Jean Pierre Guedon,2010,0,Traitement du signal
+10.3166/ts.33.321-349,Théorie des matrices aléatoires robustes et applications à la détection rad,Fréderic Pascal and Abbla Kammoun,2016,1,Traitement du signal
+10.18280/ts.380501,Random Subspace K-NN Based Ensemble Classifier for Driver Fatigue Detection Utilizing Selected EEG Channels,Mamunur Rashid and Mahfuzah Mustafa and Norizam Sulaiman and Nor Rul Hasma Abdullah and Rosdiyana Samad,2021,1,Traitement du Signal
+10.18280/ts.370101,Kinship Verification Through Facial Images Using CNN-Based Features,Abdelhakim Chergui and Salim Ouchtati and Sébastien Mavromatis and Salah Bekhouche and Mohamed Lashab and Jean Sequeira,2020,6,Traitement du Signal
+10.18280/ts.380337,Deep Learning Models for Pneumonia Identification and Classification Based on X-Ray Images,Veeranjaneyulu Naralasetti and Reshmi Khadherbhi Shaik and Gayatri Katepalli and Jyostna Devi Bodapati,2021,1,Traitement du Signal
+10.18280/ts.380424,DenseResUNet: An Architecture to Assess Water-Stressed Sugarcane Crops from Sentinel-2 Satellite Imagery,Shyamal S. Virnodkar and Vinod K. Pachghare and Virupakshagouda C. Patil and Sunil Kumar Jha,2021,0,Traitement du Signal
+10.18280/ts.380627,Image Feature Analysis and Dynamic Measurement of Plantar Pressure Based on Fusion Feature Extraction,Ji Zou and Chao Zhang and Zhongjing Ma and Lei Yu and Kaiwen Sun and Tengfei Liu,2021,0,Traitement du Signal
+10.3166/ts.30.401-429,Détection de changements structurels sur des images satellite haute résolution. Application en milieu forestier,Samia Boukir and Camille Orny and Nesrine Chehata and Dominique Guyon and Jean-Pierre Wigneron,2013,1,Traitement du signal
+10.18280/ts.390321,Approximate Position Estimation Method of Weak-Signal Receiver of Global Navigation Satellite Systems Assisted by Barometric Altimeter,Peng Wu and Lu Feng and Haibo Tong and Zhuxian Zhang,2022,0,Traitement du Signal
+10.18280/ts.380210,Seizure Detection Based on Adaptive Feature Extraction by Applying Extreme Learning Machines,Muhammet Baykara and Awf Abdulrahman,2021,9,Traitement du Signal
+10.18280/ts.380411,Extraction and Classification of Mouth Shape Features in Oral English Teaching Based on Image Processing,Qian Zhang and Liyan Xiao and Yanfang Shi,2021,0,Traitement du Signal
+10.18280/ts.380527,"Simple, Flexible Method to Extract Digital Image Features",Mohammad S. Khrisat and Hatim Ghazi Zaini and Ziad A. Alqadi,2021,0,Traitement du Signal
+10.18280/ts.3902,n.m.,,2022,0,Traitement du Signal
+10.18280/ts.370412,A Miniaturized CPW-Fed Reconfigurable Antenna with a Single-Dual Band and an Asymmetric Ground Plane for Switchable Band Wireless Applications,Abdessalam El Yassini and Mohammed Ali Jallal and Saida Ibnyaich and Abdelouhab Zeroual and Samira Chabaa,2020,0,Traitement du Signal
+10.3166/ts.29.283-305,Suivi par ré-identiﬁcation dans un réseau de caméras à champs disjoints,Boris Meden and Frédéric Lerasle and Patrick Sayd,2012,0,Traitement du signal
+10.18280/ts.380423,Elderly Depression Recognition Based on Facial Micro-Expression Extraction,Wei Huang,2021,1,Traitement du Signal
+10.18280/ts.360309,Simulation and Control of Surge Phenomenon in Centrifugal Compressors,Mohammadali Shafieian and Mohammad Zavar and Mojdeh Rahmanian,2019,9,Traitement du Signal
+10.18280/ts.390134,Infrared Thermal Image Enhancement in Cold Spot Detection of Condenser Air Ingress,Neethu M Sathyan and Sashi Rekha Karthikeyan,2022,0,Traitement du Signal
+10.3166/ts.28.575-603,Vers un système de détection et caractérisation par caméra de conditions météo critiques pour la sécurité routière,Nicolas Hautière and Jérémie Bossu and Erwan Bigorgne and Didier Aubert,2011,0,Traitement du signal
+10.3166/ts.31.293-305,Problématique de l’idempotence pour les images couleurs et multivaluées,Rania Goutali and Noël Richard and Audrey Ledoux and Noureddine Ellouze,2014,2,Traitement du signal
+10.3166/ts.30.87-106,Concept SAIC/MAIC Alamouti. Interprétation géométrique et performances,Florian Dupuy and Pascal Chevalier,2013,0,Traitement du signal
+10.18280/ts.360110,A Robust mRMR Based Pedestrian Detection Approach Using Shape Descriptor,Kaushal Kumar and Ritesh Kumar Mishra,2019,4,Traitement du Signal
+10.18280/ts.380506,Comparative Experimental Investigation of Deep Convolutional Neural Networks for Latent Fingerprint Pattern Classification,Hidir Selcuk Nogay,2021,3,Traitement du Signal
+10.3166/ts.31.245-269,Concept SAIC/MAIC Alamouti. Interprétation géométrique et performances,Florian Dupuy and Pascal Chevalier,2014,0,Traitement du signal
+10.18280/ts.380205,A Logarithmic Function-Based Novel Representation Algorithm for Image Classification,Haiyue Zhang and Daoyun Xu and Yongbin Qin,2021,1,Traitement du Signal
+10.3166/ts.35.23-33,Texture feature-based image searching system using wavelet transform approach,B RENUKA DEVI,2018,4,Traitement du signal
+10.18280/ts.360308,A Novel Co-planar Waveguide-fed Direct Current Wide Band Printed Dipole Antenna,Yanghua Gao and Hailiang Lu,2019,3,Traitement du Signal
+10.18280/ts.390218,A Hybrid System for Handwritten Character Recognition with High Robustness,Abhisek Sethy and Prashanta Kumar Patra and Soumya Ranjan Nayak,2022,1,Traitement du Signal
+10.18280/ts.370415,Reverse Synchronous Transmission of Electrical Signals Based on Parallel Injection and Series Pickup,Hong Zhang and Xinxin Lu and Xiuye Yin,2020,1,Traitement du Signal
+10.3166/ts.33.73-94,Détection et classification automatique de signaux acoustiques de baleines à bec,Odile Gérard and Craig Carthel and Stefano Coraluppi,2016,0,Traitement du signal
+10.18280/ts.370201,Identification of Apnea-Hypopnea Index Subgroups Based on Multifractal Detrended Fluctuation Analysis and Nasal Cannula Airflow Signals,Fatma Z. Göğüş and Gülay Tezel and Seral Özşen and Serkan Küççüktürk and Hülya Vatansev and Yasin Koca,2020,3,Traitement du Signal
+10.18280/ts.370208,Prediction of Graphic Interaction Time of Virtual Reality System Based on Improved Fitts’ Law,Zhenghong Liu and Jian Lyu and Huiliang Zhao and Jie Liu,2020,0,Traitement du Signal
+10.18280/ts.370620,Spatial Pyramid Pooling in Deep Convolutional Networks for Automatic Tuberculosis Diagnosis,Pike Msonda and Sait Ali Uymaz and Seda Soğukpınar Karaağaç,2020,13,Traitement du Signal
+10.18280/ts.390537,Hybrid Deep Model for Automated Detection of Tomato Leaf Diseases,Hande Yuksel Bayram and Harun Bingol and Bilal Alatas,2022,0,Traitement du Signal
+10.18280/ts.390519,A Traffic Parameter Detection Algorithm Based on Double Coils,Hao Wu and Xiaoyan Sun and Jin Zhong and Fengyun Cao,2022,0,Traitement du Signal
+10.18280/ts.390522,Chaos Based Pseudo Random Bit Generator Design and Its Application in Secure Image Encryption,Esra İnce and Barış Karakaya and Mustafa Türk,2022,0,Traitement du Signal
+10.18280/ts.390547,An Image Classification and Retrieval Algorithm for Product Display in E-Commerce Transactions,Yu Zhang and Zhenfeng Wei,2022,0,Traitement du Signal
+10.18280/ts.390532,A Neighborhood Impact Driven K-Medoid Clustering and Fuzzy Logic Blended Approach for High Density Impulse Noise Detection and Removal,Aritra Bandyopadhyay and Kaustuv Deb and Avishek Chakraborty and Atanu Das and Rajib Bag,2022,0,Traitement du Signal
+10.18280/ts.390502,An Outlook of Medical Image Analysis via Transfer Learning Approaches,Mallela Siva Nagaraju and Battula Srinivasa Rao,2022,0,Traitement du Signal
+10.18280/ts.390524,Efficient Feature Based Melanoma Skin Image Classification Using Machine Learning Approaches,Maniraj Subramanian Pitchiah and Thamizhamuthu Rajamanickam,2022,0,Traitement du Signal
+10.18280/ts.390546,Data Compression and Noise Reduction in Smart Grid Using Discrete Wavelet Transform,Rakhi Y. Jadhav and Anurag Mahajan,2022,0,Traitement du Signal
+10.18280/ts.390531,Application of Signal Imaging Analysis Technology in Prediction and Treatment of Water Inrush in Diversion Tunnel,Jun Yao and Yuan Wang and Di Feng,2022,0,Traitement du Signal
+10.18280/ts.390508,Deep and Statistical Features Classification Model for Electroencephalography Signals,Mucahit Karaduman and Ali Karci,2022,0,Traitement du Signal
+10.18280/ts.390513,Seedlings Supplement Device and Seedling Recognition Based on Convolution Neural Network,Yong Zhang,2022,0,Traitement du Signal
+10.18280/ts.380106,Detection of Dense Small Rigid Targets Based on Convolutional Neural Network and Synthetic Images,Xianrong Zhang and Gang Chen,2021,2,Traitement du Signal
+10.18280/ts.370318,An Automatic Recognition Method for Students’ Classroom Behaviors Based on Image Processing,Wei Huang and Ning Li and Zhijun Qiu and Na Jiang and Bin Wu and Bo Liu,2020,8,Traitement du Signal
+10.18280/ts.380523,Wavelet Based and Statistical EEG Analysis in Patients with Schizophrenia,Musa Yilmaz,2021,2,Traitement du Signal
+10.18280/ts.380617,ConvNet: 1D-Convolutional Neural Networks for Cardiac Arrhythmia Recognition Using ECG Signals,Amine Ben Slama and Hanene Sahli and Ramzi Maalmi and Hedi Trabelsi,2021,1,Traitement du Signal
+10.18280/ts.370409,"Classification of Medical Thermograms Belonging Neonates by Using Segmentation, Feature Engineering and Machine Learning Algorithms",Ahmet H. Ornek and Saim Ervural and Murat Ceylan and Murat Konak and Hanifi Soylu and Duygu Savasci,2020,2,Traitement du Signal
+10.18280/ts.390434,Robust Identification of Subtypes in Non-Small Cell Lung Cancer Using Radiomics,Ke Wang and Ying An and Ni Li and Jiancun Zhou and Xianlai Chen,2022,0,Traitement du Signal
+10.18280/ts.390418,Reliable Scene Recognition Approach for Mobile Robots with Limited Resources Based on Deep Learning and Neuro-Fuzzy Inference,Aditya Singh and Padmakar Pandey and Domenec Puig and Gora Chand Nandi and Mohammed Abdel-Nasser,2022,0,Traitement du Signal
+10.18280/ts.390406,Design and Study of a Microstrip Patch Antenna for GPS Application,Mouloud Ayad and Kamel Saoudi and Turki E.A. Alharbi and Mohammed S. Alzaidi and Mourad Benziane and Souhil Mouassa and Sherif S.M. Ghoneim,2022,0,Traitement du Signal
+10.18280/ts.390429,Medical Signal Processing via Digital Filter and Transmission Reception Using Cognitive Radio Technology,M. Premkumar and S. Sathiyapriya and M. Arun and Vikash Sachan,2022,0,Traitement du Signal
+10.18280/ts.390424,Cast Shadow Angle Detection in Morphological Aerial Images Using Faster R-CNN,Sana Pavan Kumar Reddy and Jonnadula Harikiran,2022,0,Traitement du Signal
+10.18280/ts.390408,A New Block Based Non-Blind Hybrid Color Image Watermarking Approach Using Lifting Scheme and Chaotic Encryption Based on Arnold Cat Map,Sanjay Patsariya and Manish Dixit,2022,0,Traitement du Signal
+10.18280/ts.360102,Facial Emotion Recognition Using NLPCA and SVM,Chirra Venkata Rami Reddy and Uyyala Srinivasulu Reddy and Kolli Venkata Krishna Kishore,2019,8,Traitement du Signal
+10.18280/ts.370301,UC-Merced Image Classification with CNN Feature Reduction Using Wavelet Entropy Optimized with Genetic Algorithm,Fatih Özyurt and Engin Avcı and Eser Sert,2020,1,Traitement du Signal
+10.18280/ts.390204,Multi-Layer Co-Occurrence Matrices for Person Identification from ECG Signals,Necati Demir and Melih Kuncan and Yılmaz Kaya and Fatma Kuncan,2022,3,Traitement du Signal
+10.18280/ts.380420,Thermal Fault Diagnosis of Electrical Equipment in Substations Based on Image Fusion,Mingshu Lu and Haiting Liu and Xipeng Yuan,2021,1,Traitement du Signal
+10.18280/ts.380437,Integration Between Cascade Region-Based Convolutional Neural Network and Bi-Directional Feature Pyramid Network for Live Object Tracking and Detection,Lehai Zhong and Jiao Li and Feifan Zhou and Xiaoan Bao and Weiyin Xing and Zhengyong Han and Jinsheng Luo,2021,3,Traitement du Signal
+10.18280/ts.370213,An Improved Semantic Segmentation Method for Remote Sensing Images Based on Neural Network,Na Jiang and Jiyuan Li,2020,7,Traitement du Signal
+10.18280/ts.370207,A Multi-class SVM Based Content Based Image Retrieval System Using Hybrid Optimization Techniques,Dannina Kishore and Chanamallu Rao,2020,4,Traitement du Signal
+10.18280/ts.380104,Contrast Enhancement of Digital Images Using an Improved Type-II Fuzzy Set-Based Algorithm,Zohair Al-Ameen,2021,3,Traitement du Signal
+10.18280/ts.380406,The Detection of Brain Tumors Using Chan-Vese Active Contour Without Edges Method in Magnetic Resonance (MR) Images,Makbule Hilal Mütevelli and Semih Ergin,2021,1,Traitement du Signal
+10.18280/ts.370102,Spectral and Statistical Analysis for Damage Detection in Ceramic Materials,Omer Akgun,2020,1,Traitement du Signal
+10.18280/ts.380302,Brain Tumor Detection Based on Features Extracted and Classified Using a Low-Complexity Neural Network,Vasileios Papageorgiou,2021,5,Traitement du Signal
+10.18280/ts.380603,Plant Leaf Classification and Comparative Analysis of Combined Feature Set Using Machine Learning Techniques,Sujith Ariyapadath,2021,2,Traitement du Signal
+10.18280/ts.390109,Improving Depression Prediction Accuracy Using Fisher Score-Based Feature Selection and Dynamic Ensemble Selection Approach Based on Acoustic Features of Speech,Naulegari Janardhan and Nandhini Kumaresh,2022,3,Traitement du Signal
+10.18280/ts.360114,Frequency Domain Steganography with Reversible Texture Combination,Thulasi Bikku and Radhika Paturi,2019,4,Traitement du Signal
+10.18280/ts.390104,Heart Disease Detection Based on Feature Fusion Technique with Augmented Classification Using Deep Learning Technology,Kayam Saikumar and Vullanki Rajesh and Bulepe Sankara Babu,2022,3,Traitement du Signal
+10.18280/ts.370519,Efficient Segmentation and Registration of Retinal Image Using Gumble Probability Distribution and BRISK Feature,Nagendra Pratap Singh and Vibhav Prakash Singh,2020,5,Traitement du Signal
+10.18280/ts.390620,Collaborative Colorectal Cancer Classification on Highly Class Imbalanced Data Setting via Federated Neural Style Transfer Based Data Augmentation,Mehmet Nergiz,2022,0,Traitement du Signal
+10.18280/ts.390602,Evaluation of Machine Learning Models for Plant Disease Classification Using Modified GLCM and Wavelet Based Statistical Features,Amer Tabbakh and Soubhagya Sankar Barpanda,2022,0,Traitement du Signal
+10.18280/ts.390616,"A Hybrid Fault Diagnosis Method Using Translation Invariant Wavelet Denoising, Hierarchical Entropy, and Support Vector Machine with PSO Algorithm",Arvind Singh Tomar and Pratesh Jayaswal,2022,0,Traitement du Signal
+10.18280/ts.390629,Salient Target Detection Method of Video Images Based on Convolution Neural Network,Zhuo Yao and Li Guo,2022,0,Traitement du Signal
+10.18280/ts.390628,Systematical Analysis and Pathological Classification of Breast Cancer from Mammographic Images with Using Specific Machine Learning Methods,Ali Berkan Ural,2022,0,Traitement du Signal
+10.18280/ts.380221,Detection of Sleep Apnea Based on the Analysis of Sleep Stages Data Using Single Channel EEG,Vijayakumar Gurrala and Padmasai Yarlagadda and Padmaraju Koppireddi,2021,5,Traitement du Signal
+10.18280/ts.380533,An Alzheimer’s Disease Identification and Classification Model Based on the Convolutional Neural Network with Attention Mechanisms,Yin Chen,2021,1,Traitement du Signal
+10.18280/ts.380517,A New Approach for Automatic Sleep Staging: Siamese Neural Networks,Enes Efe and Seral Özşen,2021,2,Traitement du Signal
+10.18280/ts.380324,Forest Fire Recognition Based on Feature Extraction from Multi-View Images,Di Wu and Chunjiong Zhang and Li Ji and Rong Ran and Huaiyu Wu and Yanmin Xu,2021,91,Traitement du Signal
+10.18280/ts.380225,Design of Automated Visual Inspection System for Beverage Industry Production Line,Subhransu Padhee and Durgesh Nandan,2021,3,Traitement du Signal
+10.18280/ts.360506,A Footprint Extraction and Recognition Algorithm Based on Plantar Pressure,Chao Zhang and Su Pan and Yaowu Qi and Yudan Yang,2019,7,Traitement du Signal
+10.18280/ts.390130,Recognition and Detection of Greenhouse Tomatoes in Complex Environment,Guohua Gao and Shuangyou Wang and Ciyin Shuai and Zihua Zhang and Shuo Zhang and Yongbing Feng,2022,4,Traitement du Signal
+10.18280/ts.380311,Digital Image Denoising Techniques Based on Multi-Resolution Wavelet Domain with Spatial Filters: A Review,Ahmed Abdulmaged Ismael and Muhammet Baykara,2021,3,Traitement du Signal
+10.18280/ts.390105,ECG - Based Emotion Detection via Parallel - Extraction of Temporal and Spatial Features Using Convolutional Neural Network,Dhiyaa Salih Hammad and Hamed Monkaresi,2022,1,Traitement du Signal
+10.18280/ts.360605,Gender Classification in Human Face Images for Smart Phone Applications Based on Local Texture Information and Evaluated Kullback-Leibler Divergence,Shervan Fekri-Ershad,2019,18,Traitement du Signal
+10.18280/ts.370321,A Comprehensive Review of Blind Deconvolution Techniques for Image Deblurring,Pooja Satish and Mallikarjunaswamy Srikantaswamy and Nataraj Ramaswamy,2020,9,Traitement du Signal
+10.18280/ts.3803,n.m.,,2021,0,Traitement du Signal
+10.18280/ts.390140,Analysis on Chlorophyll Diagnosis of Wheat Leaves Based on Digital Image Processing and Feature Selection,Yufei Song and Shiwu Li and Zhiguo Liu and Yuekui Zhang and Nan Shen,2022,0,Traitement du Signal
+10.3166/ts.32.36-64,Indexation multimédia par dictionnaires visuels en environnement décentralisé. Une approche par protocoles Gossip,Jérôme Fellus and David Picard and Philippe-Henri Gosselin,2015,0,Traitement du signal
+10.18280/ts.370118,An Evaluation Algorithm for the Interoperability of Global Navigation Satellite Systems,Xiaobo Chen and Lin Zhao and Yong Hao and Lianhua Yu and Chengcai Lv,2020,1,Traitement du Signal
+10.18280/ts.380313,Multi-Source Data Fusion and Target Tracking of Heterogeneous Network Based on Data Mining,Xunzhong Quan and Jie Chen,2021,0,Traitement du Signal
+10.3166/ts.28.275-307,MARIO : modélisation de l’anatomie normale et pathologique pour le recalage non linéaire entre images TDM et TEP en oncologie,Sylvie Chambon and Antonio Moreno and Anand Santhanam and Jannick Rolland and Isabelle Bloch,2011,0,Traitement du signal
+10.3166/ts.29.433-454,Interpolation par assimilation variationnelle de séquences multimodales d’images satellitaires de l’océan,Sylène O. Ba and Thomas Corpetti and Bertrand Chapron and Ronan Fablet,2012,0,Traitement du signal
+10.18280/ts.380112,Investigation of Ideal Number User Terminals with Spectrum Efficiency in Next Generation Wireless Communication Systems,Osman Dikmen and Selman Kulaç,2021,1,Traitement du Signal
+10.18280/ts.370308,Study the Influence of Gender and Age in Recognition of Emotions from Algerian Dialect Speech,Horkous Houari and Mhania Guerti,2020,2,Traitement du Signal
+10.18280/ts.360205,Uplink Sum Rate and Capacity of Hybrid Precoding mmWave Massive MIMO System,Vikash Sachan and Ritesh Mishra,2019,0,Traitement du Signal
+10.18280/ts.390102,Partial Update Simplified Fast Transversal Filter Algorithms for Acoustic Echo Cancellation,Mohamed Amine Ramdane and Ahmed Benallal and Mountassar Maamoun and Islam Hassani,2022,1,Traitement du Signal
+10.18280/ts.360104,A Secure Image Encryption Algorithm Based on Composite Chaos Theory,Qiuru Cai,2019,7,Traitement du Signal
+10.18280/ts.370220,Depth Perception in a Single RGB Camera Using Body Dimensions and Centroid Property,P.J.A. Alphonse and K.V. Sriharsha,2020,2,Traitement du Signal
+10.18280/ts.380520,Design a Framework for Content Based Image Retrieval Using Hybrid Features Analysis,Ankit Kumar and Kamred Udham Singh and Linesh Raja and Teekam Singh and Chetan Swarup and Abhishek Kumar,2021,0,Traitement du Signal
+10.3166/ts.27.443-482,Un arbre de Markov sélectif en fréquence pour la détection de signaux transitoires à faible rapport signal à bruit,Steven Le Cam and Christophe Chollet and Fabien Salzenstein,2010,0,Traitement du signal
+10.18280/ts.3603,n.m.,,2019,0,Traitement du Signal
+10.3166/ts.32.365-390,"Analyse de modèles physiques, modèles physiques d’analyse. Synthèse sonore et analyse fréquentielle à l’aide des réseaux masses-interactions CORDIS-ANIMA",Jérôme Villeneuve and Claude Cadoz and Nicolas Castagne and Annie Luciani,2015,0,Traitement du signal
+10.18280/ts.3606,n.m.,,2019,0,Traitement du Signal
+10.18280/ts.390118,A Multi-Scale Image Enhancement Algorithm Based on Deep Learning and Illumination Compensation,Dianru Jia and Jianju Yang,2022,0,Traitement du Signal
+10.3166/ts.34.175-181,Protected strength approach for image steganography,A PEDA GOPIL and V LAKSHMAN NARAYANA,2017,0,Traitement du signal
+10.18280/ts.380414,Three-Dimensional Image Quality Evaluation and Optimization Based on Convolutional Neural Network,Xiujuan Luo,2021,1,Traitement du Signal
+10.18280/ts.370304,A New Approach for Extracting and Characterizing Fetal Electrocardiogram,Ziani Said and Youssef El Hassouani,2020,3,Traitement du Signal
+10.18280/ts.380607,An Improved Medical Image Watermarking Technique Based on Weber’s Law Descriptors,KVSV Trinadh Reddy and S. Narayana Reddy,2021,1,Traitement du Signal
+10.3166/ts.28.515-545,Théorie de l’évidence pour suivi de visage,Francis Faux and Franck Luthon,2011,1,Traitement du signal
+10.18280/ts.370312,An Illumination Insensitive Normalization Approach to Face Recognition Using Locality Sensitive Discriminant Analysis,Anu Bala and Asha Rani and Sanjeev Kumar,2020,4,Traitement du Signal
+10.18280/ts.390310,Circulate Matrix and Compression Sensing Based Multi-Level Image Encryption,Ranjeet Kumar Singh and Ganesh Gupta and Tej Singh and Kalka Dubey and Anjula Mehto,2022,0,Traitement du Signal
+10.18280/ts.390328,An Enhanced Identification and Classification Algorithm for Plant Leaf Diseases Based on Deep Learning,Umamageswari Arasakumaran and Shiny Duela Johnson and Dioline Sara and Raja Kothandaraman,2022,0,Traitement du Signal
+10.18280/ts.390332,"High Resolution Detection, Estimation and Location Using GTF DoA Method for Smart Antenna System",Feroz Morab and Rajeshwari Hegde and Veena N. Hegde,2022,0,Traitement du Signal
+10.18280/ts.390320,Static Hand Gesture Angle Recognition via Aggregated Channel Features (ACF) Detector,Nabeel M. Mirza and Duaa A. Taban and Ali J. Karam and Anwar H. Al-Saleh and Ali A. Al-Zuky,2022,0,Traitement du Signal
+10.18280/ts.390122,Artificial Intelligence Registration of Image Series Based on Multiple Features,Zhixin Li and Degang Kong and Yongchun Zheng,2022,0,Traitement du Signal
+10.3166/ts.31.143-173,Détection radiale de visages sur images omnidirectionnelles,Yohan Dupuis and Xavier Sabatier and Jean-Yves Ertaud and Pascal Vasseur,2014,0,Traitement du signal
+10.18280/ts.360303,Multi-modal Biometric Protection System Using SURF Filter with BioHashing Algorithm,Bedad Fatima and Adjoudj Réda,2019,1,Traitement du Signal
+10.3166/ts.28.417-468,Sample Orchestrator : gestion par le contenu d’échantillons sonores,Hughes Vinet,2011,0,Traitement du signal
+10.3166/ts.31.307-319,Renormalisation couleur d’une image de peau pour l’imagerie dermatologique,Marc Rodriguez and Noël Richard and Anne-Sophie Capelle-Laizé,2014,0,Traitement du signal
+10.18280/ts.3702,n.m.,,2020,0,Traitement du Signal
+10.3166/ts.30.367-400,Capteurs infrarouge intelligents,Mathieu Denoual and Mathieu Puliquen and Gilles Allègre,2013,0,Traitement du signal
+10.18280/ts.360601,Robust Local Descriptor for Color Object Recognition,Rabah Hamdini and Nacira Diffellah and Abderrahmane Namane,2019,1,Traitement du Signal
+10.18280/ts.370115,A Malicious Webpage Detection Algorithm Based on Image Semantics,Xiangjun Li and Sifan Li and Shengnan Liu and Lingfeng Liu and Daojing He,2020,0,Traitement du Signal
+10.3166/ts.34.197-208,Visual cryptography for gray scale images with enhanced security mechanisms,V LAKSHMAN NARAYANA and A PEDA GOPIL,2017,0,Traitement du signal
+10.3166/ts.34.137-151,Deep belief networks for phoneme recognition in continuous Tamil speech–an analysis,Laxmi SREE BASKARAN RAGURAM and Vijaya MADHAYA SHANMUGAM,2017,2,Traitement du signal
+10.18280/ts.390124,A Rapid Advancing Image Segmentation Approach in Dental to Predict Cryst,Prasath Sivasankaran and Karthigarani Dhanaraj,2022,0,Traitement du Signal
+10.18280/ts.370114,Performance Optimization of LS/LMMSE Using Swarm Intelligence in 3D MIMO-OFDM Systems,Dinesh Bhange and Chandrashekhar Dethe,2020,1,Traitement du Signal
+10.3166/ts.31.401-419,Probability-possibility hybrids ystems for merging technical indices,Alya Itani and Jean-Marc Le Caillec and Bassel Solaiman and Ali Hamié,2014,0,Traitement du signal
+10.18280/ts.370612,Detection of Unusual Targets in Traffic Images Based on One-Class Extreme Machine Learning,Lei Yu and Binglin Zhang and Rui Li,2020,1,Traitement du Signal
+10.18280/ts.360410,A Target Tracking Model for Enterprise Production Monitoring System Based on Spatial Information and Appearance Model,Xun Li and Chuan Lin and Xinpeng Xu,2019,5,Traitement du Signal
+10.18280/ts.390242,Image Segmentation with Priority Based Apposite Feature Extraction Model for Detection of Multiple Sclerosis in MR Images Using Deep Learning Technique,Kalpana Narayan Rode and Rajashekar Jangam Siddamallaiah,2022,0,Traitement du Signal
+10.18280/ts.360115,Spectrum Signals Handoff in LTE Cognitive Radio Networks Using Reinforcement Learning,Kolluru Babu and Srikanth Vemuru,2019,2,Traitement du Signal
+10.3166/ts.34.45-55,Robust and indiscernible multimedia watermarking using light weight mutational methodology,Rayi SAILAJA and Ch RUPA and A.S.N CHAKRAVARTHY,2017,1,Traitement du signal
+10.18280/ts.390427,A New Rail Surface Defects Detection Approach Using 3D Laser Cameras Based on ResNet50,Yunus Santur and Merve Yilmazer and Mehmet Karakose and Erhan Akin,2022,0,Traitement du Signal
+10.18280/ts.390431,Automatic Recognition for IoT Supervision Images Based on Modal Decomposition,Yang Wang and Yifeng Wang and Shengyu Zhang and Shimei Lin and Chao Chen,2022,0,Traitement du Signal
+10.18280/ts.390428,MRI Liver Image Assisted Diagnosis Based on Improved Faster R-CNN,Minjie Tao and Jianshe Lou and Li Wang,2022,0,Traitement du Signal
+10.18280/ts.390414,Signal Processing Algorithms Like Ensemble Empirical Mode Decomposition and Statistical Analysis-Based Tool Chatter Severity Prediction,Yogesh Shrivastava and Prashant Kumar Shrivastava and Durgesh Nandan,2022,0,Traitement du Signal
+10.3166/ts.33.249-272,Une méthode MUSIC adaptée aux grands réseaux de capteurs,Pascal Vallet and Philippe Loubaton and Xavier Mestre,2016,0,Traitement du signal
+10.18280/ts.380519,The Enhancement on Stress Levels Based on Physiological Signal and Self-Stress Assessment,Zarith Liyana Zahari and Mahfuzah Mustafa and Zaridah Mat Zain and Rafiuddin Abdubrani and Faradila Naim,2021,0,Traitement du Signal
+10.3166/ts.33.11-33,Approximation tensorielle sous contrainte d’existence. Application au traitement d’antennes,Souleymen Sahoun and Pierre Comon,2016,0,Traitement du signal
+10.3166/ts.27.189-219,Régularité et parcimonie pour les problèmes inverses en imagerie. Algorithmes et comparaisons,Mikael Carlavan and Pierre Weiss and Laure Blanc-féraud,2010,3,Traitement du signal
+10.18280/ts.380323,Quantitative Analysis of EEG Slow Wave Activity Based on MinPeakProminence Method,Sema Yildirim and Hasan Erdinc Kocer and Ahmet Hakan Ekmekci,2021,0,Traitement du Signal
+10.18280/ts.360509,Design and Application of an Image Classification Algorithm Based on Semantic Discrimination,Hui Li and Xun Ge,2019,1,Traitement du Signal
+10.18280/ts.380427,Accurate and Efficient Differentiation Between Normal and Epileptic Seizure of Eyes Using 13 Layer Convolution Neural Network,Veeramosu Priyanka Brahmaiah and Yarlagadda Padma Sai and Mahendra N. Giri Prasad,2021,1,Traitement du Signal
+10.18280/ts.380333,Online Learning Behavior Analysis Based on Image Emotion Recognition,Shunye Wang,2021,4,Traitement du Signal
+10.18280/ts.380516,Image Based Classification of Rumor Information from the Social Network Platform,Vallamchetty Sreenivasulu and Mohammed Abdul Wajeed,2021,0,Traitement du Signal
+10.18280/ts.380429,Integration of Two-Dimensional Kernel Principal Component Analysis Plus Two-Dimensional Linear Discriminant Analysis with Convolutional Neural Network for Finger Vein Recognition,Zhitao Gao and Jianxian Cai and Yanan Shi and Li Hong and Fenfen Yan and Mengying Zhang,2021,0,Traitement du Signal
+10.3166/ts.32.169-194,Simulation de point de vue pour la mise en correspondance et la localisation,Pierre Rolin and Marie-Odile Berger and Frédéric Sur,2015,1,Traitement du signal
+10.3166/ts.33.403-414,Positivité d'une covariance de type MA(2) ou MA(3),Bernard PICINBONO,2016,0,Traitement du signal
+10.18280/ts.380229,An Investigation of Spectral Efficiency in Linear MRC and MMSE Detectors with Perfect and Imperfect CSI for Massive MIMO Systems,Indrajeet Kumar and Ritesh Kumar Mishra,2021,1,Traitement du Signal
+10.18280/ts.390227,Face Mask Detection Using Lightweight Deep Learning Architecture and Raspberry Pi Hardware: An Approach to Reduce Risk of Coronavirus Spread While Entrance to Indoor Spaces,Fatih Özyurt and Ahmet Mira and Ayşe Çoban,2022,1,Traitement du Signal
+10.18280/ts.380421,Lung Cancer Classification Using Squeeze and Excitation Convolutional Neural Networks with Grad Cam++ Class Activation Function,Eali Stephen Neal Joshua and Debnath Bhattacharyya and Midhun Chakkravarthy and Hye-Jin Kim,2021,9,Traitement du Signal
+10.3166/ts.28.547-574,Sélection adaptative de caractéristiques pertinentes et classification hiérarchique des images dans les bases hétérogènes,Rostom Kachouri and Khalifa Djemal and Hichem Maaref and Caroline Chaux and Saïd Moussaoui,2011,0,Traitement du signal
+10.3166/ts.33.95-111,Utilisation d’une source laser pulsée à haute energie comme source acoustique large bande en milieu liquide,Jean-Pierre Sessarego and Régine Guillermin and Amélie Jarnac and Aurélien Hourad and Yohann Brelet and Jérôme Carbonnel and Yves-Bernard André and André Mysykrowicz and Dominique Fattaccioli,2016,0,Traitement du signal
+10.3166/ts.35.341-354,An improved fingerprint image matching and multi-view fingerprint recognition algorithm,Dewen SENG and Hanggi ZHANG and Xujian FANG and Xuefeng ZHANG and Jing CHEN,2018,1,Traitement du signal
+10.18280/ts.370621,Recognition and Difference Analysis of Human Walking Gaits Based on Intelligent Processing of Video Images,Yingnan Wang and Yueming Yang and Yan Li,2020,2,Traitement du Signal
+10.18280/ts.390312,Image Feature Extraction and Retrieval Optimization of Book Pages Based on Convolutional Neural Network,Xuan Zheng and Lei Wang and Haijun Zhou,2022,0,Traitement du Signal
+10.18280/ts.380606,A Deep Learning Based System for the Detection of Human Violence in Video Data,Muhammad Shoaib and Nasir Sayed,2021,0,Traitement du Signal
+10.18280/ts.380531,Marine Distributed Radar Signal Identification and Classification Based on Deep Learning,Chang Liu and Ruslan Antypenko and Iryna Sushko and Oksana Zakharchenko and Ji Wang,2021,0,Traitement du Signal
+10.3166/ts.31.39-56,Classification d’images à grande échelle avec des SVM,Tranh-Nghi Doan and Tranh-Nghi Do and François Poulet,2014,0,Traitement du signal
+10.3166/ts.31.175-195,Caméras virtuelles pour l’étalonnage d’un système de réalité augmentée sur affichage semi-transparent,Jim Braux-Zim and Adrien Bartoli and Romain Dupont and Mohamed Tamaazousti,2014,0,Traitement du signal
+10.18280/ts.380602,Facial Expressions Recognition Based on Delaunay Triangulation of Landmark and Machine Learning,Farid Ayeche and Adel Alti,2021,0,Traitement du Signal
+10.3166/ts.32.65-86,Détection de différence de mise au point lors des prises de vues stéréoscopiques,Sergi Pujades and Frédéric Devernay,2015,0,Traitement du signal
+10.3166/ts.28.611-641,Implémentation et évaluation d’un modèle d'attention pour la vision adaptative,Matthieu Perreira Da Silva and Vincent Courboulay,2011,0,Traitement du signal
+10.3166/ts.35.47-60,Analysis of transmit antenna selection based selective decode forward cooperative communication protocol,VIKASH SACHAN and INDRAJEET KUMAR and Ravi SHANKAR and RITESH KUMAR MISHRA,2018,5,Traitement du signal
+10.3166/ts.27.147-160,Le code spatio-temporel d'Aladin-Pythagore,Joseph J Boutros and Hughues RandriamBololona,2010,0,Traitement du signal
+10.18280/ts.3806,n.m.,,2021,0,Traitement du Signal
+10.3166/ts.32.87-108,Restitution 3D de monuments historiques à partir de plans anciens,Christophe Riedeger and Heidi Tabia and Michel Jordan,2015,0,Traitement du signal
+10.18280/ts.360405,Reconstruction Algorithm for Polychromatic Computed Tomography Images Based on Equivalent Tissue Length,Kun Yang and Ziteng Yang and Weina Yan and Jiankang Zhao and Yu Du and Shuang Liu and Kun Liu,2019,2,Traitement du Signal
+10.3166/ts.29.83-100,Recherche en temps réel de séquences vidéo similaires par le contenu,Gwénolé Quellec and Mathieu Lamard and Guy Cazugel and Zakarya Quellec and Béatrice Cochener and Christian Roux,2012,0,Traitement du signal
+10.3166/ts.31.321-338,Extension de l’algorithme plug-in pour l’optimisation du paramètre de lissage de l’estimateur du noyau-difféomorphisme,Molka Troudi and Faouzi Ghorbel,2014,0,Traitement du signal
+10.3166/ts.28.81-112,Synthèse des traitements STAP pour la détection en environnement hétérogène,Stéphane Bidon and Olivier Besson and Jean-Yves Tourneret,2011,0,Traitement du signal
+10.18280/ts.370601,Boosting up Source Scanner Identification Using Wavelets and Convolutional Neural Networks,Chaima Ben Rabah and Gouenou Coatrieux and Riadh Abdelfattah,2020,2,Traitement du Signal
+10.18280/ts.380228,A Region-Based Efficient Network for Accurate Object Detection,Yurong Guan and Muhammad Aamir and Zhihua Hu and Waheed Ahmed Abro and Ziaur Rahman and Zaheer Ahmed Dayo and Shakeel Akram,2021,2,Traitement du Signal
+10.18280/ts.390219,Role of Deep Learning in Improving the Performance of Driver Fatigue Alert System,Islam A. Fouad and Fatma El-Zahraa M. Labib,2022,0,Traitement du Signal
+10.18280/ts.390226,Speech Enhancement for Robust Speech Recognition Using Weighted Low Rank and Sparse Decomposition Models under Low SNR Conditions,Venkata Sridhar K and Kishore Kumar T,2022,0,Traitement du Signal
+10.18280/ts.390201,Prediction of Human Movement in Open Public Spaces: Case Study of Sarajevo,Dželila Mehanović and Emina Zejnilović and Erna Husukić and Zerina Mašetić,2022,0,Traitement du Signal
+10.18280/ts.390207,A Novel Fast Responding Driver Assistance Technique with Efficient Lane Detection and Collision Avoidance Using Dynamic Feature Extraction in Any Environment,Sagar Sahebrao Tikar and Rajendrakumar A. Patil,2022,0,Traitement du Signal
+10.18280/ts.390514,ResNet and LSTM Based Accurate Approach for License Plate Detection and Recognition,Naaman Omar,2022,0,Traitement du Signal
+10.18280/ts.390511,A Deep Transfer Learning Based Visual Complexity Evaluation Approach to Mobile User Interfaces,Eren Akça and Ömer Özgür Tanrıöver,2022,0,Traitement du Signal
+10.18280/ts.390512,"CFLHCF: Simultaneous Detection of the Optic Disc and Exudates Using Color Features, Local Homogeneity and Contextual Features",Kittipol Wisaeng,2022,0,Traitement du Signal
+10.18280/ts.390501,A New Encryption Algorithm Based on Fibonacci Polynomials and Matrices,Orhan Dişkaya and Erdinç Avaroğlu and Hamza Menken and Ahmet Emsal,2022,0,Traitement du Signal
+10.18280/ts.390504,Beat-by-Beat ECG Monitoring from Photoplythmography Based on Scattering Wavelet Transform,Osama A. Omer and Mostafa Salah and Ammar M. Hassan and Ahmed S. Mubarak,2022,0,Traitement du Signal
+10.18280/ts.380425,An Efficient Image Based Feature Extraction and Feature Selection Model for Medical Data Clustering Using Deep Neural Networks,Mohammed Zaheer Ahmed and Chitraivel Mahesh,2021,1,Traitement du Signal
+10.18280/ts.380224,Object Recognition in Remote Sensing Images Based on Modified Backpropagation Neural Network,Manthena Narasimha Raju and Kumaran Natarajan and Chandra Sekhar Vasamsetty,2021,1,Traitement du Signal
+10.18280/ts.360203,Denoising Ultrasonic Echo Signals with Generalized S Transform and Singular Value Decomposition,Yanling Zhu and Chunguang Xu and Dingguo Xiao,2019,4,Traitement du Signal
+10.18280/ts.370514,Superpixel-Based Minimum Noise Fraction Feature Extraction for Classification of Hyperspectral Images,Behnam Asghari Beirami and Mehdi Mokhtarzade,2020,2,Traitement du Signal
+10.18280/ts.370616,Automatic Segmentation of Remote Sensing Images on Water Bodies Based on Image Enhancement,Jie Zhang and Minquan Feng and Yu Wang,2020,1,Traitement du Signal
+10.18280/ts.380435,Image Recognition of Modern Agricultural Fruit Maturity Based on Internet of Things,Dan Chen and Jiali Tang and Haixu Xi and Xiaorong Zhao,2021,1,Traitement du Signal
+10.3166/ts.35.169-182,Deep learning based conventional neural network architecture for medical image classification,Ramesh NEELAPU and Golagani LAVANYA DEVI and Kurapati SRINIVASA RAO,2018,21,Traitement du signal
+10.18280/ts.370407,Deep Neural Networks with Transfer Learning Model for Brain Tumors Classification,Premamayudu Bulla and Lakshmipathi Anantha and Subbarao Peram,2020,7,Traitement du Signal
+10.18280/ts.360111,Recognition of Lung Cancer Using Machine Learning Mechanisms with Fuzzy Neural Networks,Ummadi Janardhan Reddy and Busi Reddy Venkata Ramana Reddy and Bodi Eswara Reddy,2019,14,Traitement du Signal
+10.18280/ts.390307,A Novel Hyperparameter Optimization Aided Hand Gesture Recognition Framework Based on Deep Learning Algorithms,Abdullah Asim Yilmaz,2022,1,Traitement du Signal
+10.18280/ts.380226,Recognition and Positioning of Container Lock Holes for Intelligent Handling Terminal Based on Convolutional Neural Network,Xue Wang,2021,1,Traitement du Signal
+10.18280/ts.370413,Chaotic Systems Based Real-Time Implementation of Visual Cryptography Using LabVIEW,Gülden Günay Bulut and Mehmet Cem Çatalbaş and Hasan Güler,2020,5,Traitement du Signal
+10.18280/ts.380230,An Image Classification Algorithm for Plantar Pressure Based on Convolutional Neural Network,Ji Zou and Chao Zhang and Zhongjing Ma,2021,1,Traitement du Signal
+10.18280/ts.380336,Extraction and Classification of Image Features for Fire Recognition Based on Convolutional Neural Network,Ruiyang Qi and Zhiqiang Liu,2021,1,Traitement du Signal
+10.18280/ts.360603,Evaluation of the EEG Signals and Eye Tracker Data for Working Different N-Back Modes,Serdar Gündoğdu and Ebru Doğan and Evrim Gülbetekin and Ömer Çolak and Övünç Polat,2019,3,Traitement du Signal
+10.18280/ts.370106,An Image Recognition Algorithm for Defect Detection of Underground Pipelines Based on Convolutional Neural Network,Xiaodong Yan and Xiaogang Song,2020,7,Traitement du Signal
+10.18280/ts.380430,"A Comprehensive Review for Emotion Detection Based on EEG Signals: Challenges, Applications, and Open Issues",Awf Abdulrahman and Muhammet Baykara,2021,5,Traitement du Signal
+10.18280/ts.370110,An Efficient Antilogarithmic Converter by Using Correction Scheme for DSP Processor,Durgesh Nandan,2020,3,Traitement du Signal
+10.18280/ts.370503,A New Early Stage Diabetic Retinopathy Diagnosis Model Using Deep Convolutional Neural Networks and Principal Component Analysis,Mali Mohammedhasan and Harun Uğuz,2020,8,Traitement du Signal
+10.18280/ts.380616,Early Detection of Hemorrhagic Stroke Using a Lightweight Deep Learning Neural Network Model,Bandi Vamsi and Debnath Bhattacharyya and Divya Midhunchakkravarthy and Jung-yoon Kim,2021,1,Traitement du Signal
+10.18280/ts.370302,Extraction of Dynamical Information and Classification of Heart Rate Variability Signals Using Scale Based Permutation Entropy Measures,Syed Shah and Nazneen Habib and Malik Nadeem and Abdulrahman Alshdadi and Mohammed Alqarni and Wajid Aziz,2020,4,Traitement du Signal
+10.18280/ts.390627,An Effective Kalman Based Hybrid Beamforming for Millimeter Wave Massive MIMO System by Using 2D Overlapped Partially Connected Sub-Array Structure,Gayatri D. Londhe and Vaibhav S. Hendre,2022,0,Traitement du Signal
+10.18280/ts.390612,Intelligent Recognition of Key Frame Target Behavior in Video Surveillance Based on Lightweight Convolution Neural Network,Chuanzhong Mao and Cuicui Wu and Xiangqun Sun and Ronghua Ji and Jin Zhang,2022,0,Traitement du Signal
+10.18280/ts.390624,Visual Image Recognition of Basketball Turning and Dribbling Based on Feature Extraction,Bowen Zhang and Tianqi Wang,2022,0,Traitement du Signal
+10.18280/ts.390621,Classification and Retrieval of Commodity Images Oriented to Internet Marketing,Shijiao Yuan,2022,0,Traitement du Signal
+10.18280/ts.390639,Development of Medical Image Analytics by Deep Learning Model for Prediction and Classification of CT Image Diseases,Praveen Kumar Pachala and Polaiah Bojja,2022,0,Traitement du Signal
+10.18280/ts.390609,A Pose Estimation Algorithm for Multimodal Data Fusion,Ning Chen and Shaopeng Wu and Yupeng Chen and Zhanghua Wang and Ziqian Zhang,2022,0,Traitement du Signal
+10.18280/ts.3906,n.m.,,2022,0,Traitement du Signal
+10.18280/ts.390619,Wavelet Scattering Transform and Deep Learning Networks based Autism Spectrum Disorder Identification using EEG Signals,Qaysar Mohi ud Din and Anavai K. Jayanthy,2022,0,Traitement du Signal
+10.18280/ts.360402,Generating Random Numbers from Biological Signals in LabVIEW Environment and Statistical Analysis,Duygu Kaya and Seda Tuncer,2019,2,Traitement du Signal
+10.18280/ts.360201,Diagnosis of an Inverter IGBT Open-circuit Fault by Hilbert-Huang Transform Application,Bilal Cherif and Azeddine Bendiabdellah and Mostefa Tabbakh,2019,9,Traitement du Signal
+10.18280/ts.390225,Exponentially-Weighted Based Dynamic Pilot Power Allocation in Massive MIMO Systems,Muhammet Pakyürek and Osman Dikmen and Selman Kulaç,2022,1,Traitement du Signal
+10.18280/ts.390111,"Comparative Analysis of OpenPose, PoseNet, and MoveNet Models for Pose Estimation in Mobile Devices",BeomJun Jo and SeongKi Kim,2022,6,Traitement du Signal
+10.18280/ts.380532,Diagnosis of Pulpitis from Dental Panoramic Radiograph Using Histogram of Gradients with Discrete Wavelet Transform and Multilevel Neural Network Techniques,Antony Vigil and Subbiah Bharathi,2021,1,Traitement du Signal
+10.18280/ts.370511,An Automatic Insect Recognition Algorithm in Complex Background Based on Convolution Neural Network,Xianrong Zhang and Gang Chen,2020,3,Traitement du Signal
+10.18280/ts.380434,An Effective Turkey Marble Classification System: Convolutional Neural Network with Genetic Algorithm -Wavelet Kernel - Extreme Learning Machine,Derya Avci and Eser Sert,2021,2,Traitement du Signal
+10.18280/ts.360304,A Dynamic Swarm Firefly Algorithm Based on Chaos Theory and Max-Min Distance Algorithm,Xinmiao Lu and Qiong Wu and Ying Zhou and Yao Ma and Chaochen Song and Chi Ma,2019,4,Traitement du Signal
+10.18280/ts.360311,Autoregressive Modeling Based Empirical Mode Decomposition (EMD) for Epileptic Seizures Detection Using EEG Signals,Djemili Rafik and Boubchir Larbi,2019,10,Traitement du Signal
+10.18280/ts.370607,Design and Realization of a Hyperchaotic Memristive System for Communication System on FPGA,Muhammet Emin Sahin and Hasan Guler and Serdar Ethem Hamamci,2020,6,Traitement du Signal
+10.18280/ts.370617,Preictal and Interictal Recognition for Epileptic Seizure Prediction Using Pre-trained 2D-CNN Models,Suat Toraman,2020,8,Traitement du Signal
+10.18280/ts.360507,Monitoring of Epileptical Patients Using Cloud-Enabled Health-IoT System,Akash Gupta and Chinmay Chakraborty and Bharat Gupta,2019,20,Traitement du Signal
+10.18280/ts.380503,A Hybrid Lightweight 1D CNN-LSTM Architecture for Automated ECG Beat-Wise Classification,Yusra Obeidat and Ali Mohammad Alqudah,2021,8,Traitement du Signal
+10.18280/ts.380116,Recognition of Teaching Features and Behaviors in Online Open Courses Based on Image Processing,Sheliang Li and Huaqi Chai,2021,2,Traitement du Signal

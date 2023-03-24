@@ -32,10 +32,10 @@ class TestJournalExist(unittest.TestCase):
         with tempfile.NamedTemporaryFile(mode='w', delete=False) as f:
             writer = csv.writer(f)
             writer.writerows([] for i in range(3))
-            writer.writerow(['Intelligent Decision Technologies-Netherlands', 'INTELL DECIS TECHNOL', '1872-4981', '1875-8843', 'COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE - ESCI', '210', 'N/A', 'N/A', '0.11', '0.71%'])
+            writer.writerow(["CONNECTION SCIENCE","CONNECT SCI","0954-0091","1360-0494","COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE - SCIE","921","N/A","N/A","0.7","29.37%"])
         # Llamar a la función loadData() y comprobar que devuelve los datos correctos
         data = cr.loadData(f.name)
-        self.assertEqual(data, [('Intelligent Decision Technologies-Netherlands', '1875-8843')])
+        self.assertEqual(data, [('CONNECTION SCIENCE', '0954-0091')])
         # Eliminar el archivo CSV temporal
         os.remove(f.name)
         
@@ -98,8 +98,8 @@ class TestJournalExist(unittest.TestCase):
         
     def test_main(self):
         # Ejecución completa del prototipo -> requisito: CSV de entrada de datos
-        cr.main("2000", "2023", 'JCR_JournalResults_01_2023_ComputerScience_AI.csv')
-
+        cr.main("2000", "2023", r'JCR_AI_2021.csv')
+   
         # Caso de prueba 14: Se genera una gráfica al finalizar el proceso
         self.assertTrue(os.path.isfile('grafica_tiempos.png'))
 

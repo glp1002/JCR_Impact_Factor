@@ -1,0 +1,406 @@
+DOI,Título,Autores,Año,Citas,Revista
+10.1145/3584731,A Genetic Programming-based Framework for Semi-automated Multi-agent Systems Engineering,Nicola Mc Donnell and Jim Duggan and Enda Howley,2023,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2382570,n.m.,,2012,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1352789,n.m.,,2008,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1740600,n.m.,,2010,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2451248.2451253,Learning user preferences for adaptive pervasive environments,Sarah Gallacher and Eliza Papadopoulou and Nick K. Taylor and M. Howard Williams,2013,10,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2676689,n.m.,,2014,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3320018,n.m.,,2019,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1186778.1186782,A survey of autonomic communications,Simon Dobson and Spyros Denazis and Antonio Fernández and Dominique Gaïti and Erol Gelenbe and Fabio Massacci and Paddy Nixon and Fabrice Saffre and Nikita Schmidt and Franco Zambonelli,2006,435,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2555613,Adaptive Epidemic Dynamics in Networks,Shouhuai Xu and Wenlian Lu and Li Xu and Zhenxin Zhan,2014,61,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2819320,n.m.,,2015,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2733379,Crowdsourcing through Cognitive Opportunistic Networks,Matteo Mordacchini and Andrea Passarella and Marco Conti and Stuart M. Allen and Martin J. Chorley and Gualtiero B. Colombo and Vlad Tanasescu and Roger M. Whitaker,2015,15,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2994150,e-Sampling,Md Zakirul Alam Bhuiyan and Jie Wu and Guojun Wang and Tian Wang and Mohammad Mehedi Hassan,2017,71,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2348832.2348836,A method fragments approach to methodologies for engineering self-organizing systems,Mariachiara Puviani and Giovanna Di Marzo Serugendo and Regina Frei and Giacomo Cabri,2012,9,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2903146,A Game-Theoretic Approach for Elastic Distributed Data Stream Processing,Gabriele Mencagli,2016,18,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3317604,TSLAM,Wenjuan Li and Jian Cao and Shiyou Qian and Rajkumar Buyya,2018,6,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2491465.2491470,"Fast, Accurate Event Classification on Resource-Lean Embedded Sensors",Hao Jiang and Jason O. Hallstrom,2013,3,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3105748,Engineering Self-Adaptive Software Systems,Konstantinos Angelopoulos and Alessandro V. Papadopoulos and Vítor E. Silva Souza and John Mylopoulos,2018,22,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3149180,Flexible and Efficient Decision-Making for Proactive Latency-Aware Self-Adaptation,Gabriel A. Moreno and Javier Cámara and David Garlan and Bradley Schmerl,2018,23,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3328730,SimCA*,Stepan Shevtsov and Danny Weyns and Martina Maggio,2018,19,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3349607,n.m.,,2019,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2168260,n.m.,,2012,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1278460.1278463,Network intrusion detection through Adaptive Sub-Eigenspace Modeling in multiagent systems,Mei-Ling Shyu and Thiago Quirino and Zongxing Xie and Shu-Ching Chen and Liwu Chang,2007,28,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2451248.2451249,Editorial,Manish Parashar and Franco Zambonelli,2013,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2746346,Computing Swarms for Self-Adaptiveness and Self-Organization in Floating-Point Array Processing,Danilo Pani and Carlo Sau and Francesca Palumbo and Luigi Raffo,2015,1,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2700326,A Generic Holonic Control Architecture for Heterogeneous Multiscale and Multiobjective Smart Microgrids,Sylvain Frey and Ada Diaconescu and David Menga and Isabelle Demeure,2015,16,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2629664,The Complexity of Adding Multitolerance,Jingshu Chen and Ali Ebnenasir and Sandeep Kulkarni,2014,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1186778.1186780,Reactive provisioning of backend databases in shared dynamic content server clusters,Gokul Soundararajan and Cristiana Amza,2006,11,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1452001.1452008,Logarithmic keying,Ehab S. Elmallah and Mohamed G. Gouda and Sandeep S. Kulkarni,2008,7,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1242060.1242061,Pervasive pheromone-based interaction with RFID tags,Marco Mamei and Franco Zambonelli,2007,45,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1740600.1740604,Interoperable and adaptive fuzzy services for ambient intelligence applications,Giovanni Acampora and Matteo Gaeta and Vincenzo Loia and Athanasios V. Vasilakos,2010,71,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2019591.2019593,Effective Usage of Computational Trust Models in Rational Environments,Le-Hung Vu and Karl Aberer,2011,5,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3124644,Hierarchical Optimal Control Method for Controlling Large-Scale Self-Organizing Networks,Naomi Kuze and Daichi Kominami and Kenji Kashima and Tomoaki Hashimoto and Masayuki Murata,2017,1,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2934686,Online Adaptive Anomaly Detection for Augmented Network Flows,Dennis Ippoliti and Changjun Jiang and Zhijun Ding and Xiaobo Zhou,2016,5,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3018658,Introduction to the Special Section on Best Papers from SEAMS 2015,,2017,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2744203,Distributed Spatiotemporal Gesture Recognition in Sensor Arrays,Homa Hosseinmardi and Akshay Mysore and Nicholas Farrow and Nikolaus Correll and Richard Han,2015,6,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1552297.1552298,Introduction to the special issue on self-adaptive and self-organizing wireless networking systems,Michael Lemmon and Christian Poellabauer and Liqiang Zhang and Xiaobo Zhou,2009,1,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1636665.1636671,TAAS reviewers 2009,,2009,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1636665.1636668,An immunologically-inspired autonomic framework for self-organizing and evolvable network applications,Chonho Lee and Junichi Suzuki,2009,7,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1867713.1867714,Autonomous vehicle coordination with wireless sensor and actuator networks,Mihai Marin-Perianu and Stephan Bosch and Raluca Marin-Perianu and Hans Scholten and Paul Havinga,2010,4,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1921641.1921644,Network Service Description and Discovery for High-Performance Ubiquitous and Pervasive Grids,Qiang Duan,2011,4,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2019591.2019592,The Price of Anonymity,François Bonnet and Michel Raynal,2011,11,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2019583.2019589,An adaptive and predictive approach for autonomic multirate multicast networks,Naixue Xiong and Athanasios V. Vasilakos and Laurence T. Yang and Ekram Hossain,2011,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1837909.1837910,Editorial,Rolf P. Würtz and Kirstie L. Bellman and Hartmut Schmeck and Christian Igel,2010,1,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1278460.1278465,Ranking factors in peer-to-peer overlay networks,Kenichi Watanabe and Yoshio Nakajima and Tomoya Enokido and Makoto Takizawa,2007,72,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1242060.1242062,The multilevel hypernetwork dynamics of complex systems of robot soccer agents,Jeffrey H. Johnson and Pejman Iravani,2007,10,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3139291,Effective Capacity Modulation as an Explicit Control Knob for Public Cloud Profitability,Cheng Wang and Bhuvan Urgaonkar and George Kesidis and Aayush Gupta and Lydia Y. Chen and Robert Birke,2018,9,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3368087,Controlling Interactions with Libraries in Android Apps Through Runtime Enforcement,Oliviero Riganelli and Daniela Micucci and Leonardo Mariani,2019,7,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1921641.1921649,AutoHome,Johann Bourcier and Ada Diaconescu and Philippe Lalanda and Julie A. McCann,2011,15,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2382570.2382575,Axiomatization of Socio-Economic Principles for Self-Organizing Institutions,Jeremy Pitt and Julia Schaumeier and Alexander Artikis,2012,56,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3412370,Finding the Largest Successful Coalition under the Strict Goal Preferences of Agents,Zhaopin Su and Guofu Zhang and Feng Yue and Jindong He and Miqing Li and Bin Li and Xin Yao,2019,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3460959,Enki,Michael Austin Langford and Betty H. C. Cheng,2020,1,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3502724,Dynamic Evaluation of Microservice Granularity Adaptation,Sara Hassan and Rami Bahsoon and Leandro Minku and Nour Ali,2021,1,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3487919,REACT-ION: A Model-based Runtime Environment for Situation-aware Adaptations,Martin Pfannemüller and Martin Breitbach and Markus Weckesser and Christian Becker and Bradley Schmerl and Andy Schürr and Christian Krupitzer,2020,1,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2644819,Multiagent Reinforcement Social Learning toward Coordination in Cooperative Multiagent Systems,Jianye Hao and Ho-Fung Leung and Zhong Ming,2015,11,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2979680,Topology Control for Self-Adaptation in Wireless Sensor Networks with Temporary Connection Impairment,Arijit Roy and Sudip Misra and Pushpendu Kar and Ayan Mondal,2017,7,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2870637,Modeling Robot Swarms Using Integrals of Birth-Death Processes,Yara Khaluf and Marco Dorigo,2016,8,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1462187.1462192,Complexity results in revising UNITY programs,Borzoo Bonakdarpour and Ali Ebnenasir and Sandeep S. Kulkarni,2009,16,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2555611,A Systematic Survey of Self-Protecting Software Systems,Eric Yuan and Naeem Esfahani and Sam Malek,2014,80,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3380782,UAVs vs. Pirates,Ruiwen Zhang and Tom Holvoet and Bifeng Song and Yang Pei,2019,2,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2019583.2019584,Spatial hardware implementation for sparse graph algorithms in GraphStep,Michael Delorimier and Nachiket Kapre and Nikil Mehta and André Dehon,2011,15,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3105758,Self-Adaptation to Device Distribution in the Internet of Things,Jacob Beal and Mirko Viroli and Danilo Pianini and Ferruccio Damiani,2017,25,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3157087,Viable Algorithmic Options for Designing Reactive Robot Swarms,Todd Wareham and Andrew Vardy,2018,5,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2714568,A Distributed Algorithm for Large-Scale Graph Partitioning,Fatemeh Rahimian and Amir H. Payberah and Sarunas Girdzijauskas and Mark Jelasity and Seif Haridi,2015,22,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1380422.1380426,A new class of nature-inspired algorithms for self-adaptive peer-to-peer computing,Steven Y. Ko and Indranil Gupta and Yookyung Jo,2008,22,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2348832.2348835,Push- and pull-based epidemic spreading in networks,Shouhuai Xu and Wenlian Lu and Li Xu,2012,48,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1342171.1342172,Agile dynamic provisioning of multi-tier Internet applications,Bhuvan Urgaonkar and Prashant Shenoy and Abhishek Chandra and Pawan Goyal and Timothy Wood,2008,268,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2821512,Privacy Policy Negotiation in Social Media,Jose M. Such and Michael Rovatsos,2016,49,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3132618,A Stepwise Auto-Profiling Method for Performance Optimization of Streaming Applications,Xunyun Liu and Amir Vahid Dastjerdi and Rodrigo N. Calheiros and Chenhao Qu and Rajkumar Buyya,2017,17,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2641573,A uto P lacer,João Paiva and Pedro Ruivo and Paolo Romano and Luís Rodrigues,2015,20,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2168260.2168261,Decentralized approaches for self-adaptation in agent organizations,Ramachandra Kota and Nicholas Gibbins and Nicholas R. Jennings,2012,40,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2700327,Reliable Task Allocation with Load Balancing in Multiplex Networks,Yichuan Jiang and Yifeng Zhou and Yunpeng Li,2015,17,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1452001,n.m.,,2008,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1867713,n.m.,,2010,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2578044,n.m.,,2014,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1216895.1216898,A performance analysis method for autonomic computing systems,Marin Litoiu,2007,35,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1352789.1352791,A control theoretical approach to self-optimizing block transfer in Web service grids,Anastasios Gounaris and Christos Yfoulis and Rizos Sakellariou and Marios D. Dikaiakos,2008,14,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2952298,n.m.,,2016,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1380422,n.m.,,2008,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3058592,Integrating Reinforcement Learning with Multi-Agent Techniques for Adaptive Service Composition,Hongbign Wang and Xin Chen and Qin Wu and Qi Yu and Xingguo Hu and Zibin Zheng and Athman Bouguettaya,2017,21,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1342171,n.m.,,2008,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3050439,Autonomous Mobile Sensor Placement in Complex Environments,Novella Bartolini and Tiziana Calamoneri and Stefano Ciavarella and Thomas La Porta and Simone Silvestri,2017,7,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2019591,n.m.,,2011,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3368391,n.m.,,2019,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3547350,Dynamic System Diversification for Securing Cloud-based IoT Subnetworks,Hussain Almohri and Layne Watson and David Evans and Stephen Billups,2022,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1552297,n.m.,,2009,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1342171.1342174,Ant-based distributed constrained steiner tree algorithm for jointly conserving energy and bounding delay in ad hoc multicast routing,Chien-Chung Shen and Ke Li and Chaiporn Jaikaeo and Vinay Sridhara,2008,12,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1452001.1452007,Self-stabilizing device drivers,Shlomi Dolev and Reuven Yagel,2008,1,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1462187.1462188,"Introduction to special issue on stabilization, safety, and security of distributed systems",,2009,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1380422.1380423,ViSAGE,Jeffrey Baumes and Hung-Ching (Justin) Chen and Matthew Francisco and Mark Goldberg and Malik Magdon-Ismail and William Wallace,2008,1,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2555614,CAAC -- An Adaptive and Proactive Access Control Approach for Emergencies in Smart Infrastructures,Krishna K. Venkatasubramanian and Tridib Mukherjee and Sandeep K. S. Gupta,2014,13,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1186778,n.m.,,2006,1,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3143529,n.m.,,2017,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2891451,n.m.,,2016,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1152934.1152939,Automated Facial Expression Classification and affect interpretation using infrared measurement of facial skin temperature variations,Masood Mehmood Khan and Michael Ingleby and Robert D. Ward,2006,50,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2567926,Mitigating DoS Attacks Using Performance Model-Driven Adaptive Algorithms,Cornel Barna and Mark Shtern and Michael Smit and Vassilios Tzerpos and Marin Litoiu,2014,8,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2774222,Analyzing Latency-Aware Self-Adaptation Using Stochastic Games and Simulations,Javier Cámara and Gabriel A. Moreno and David Garlan and Bradley Schmerl,2016,25,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2019591.2019595,Primate-Inspired Communication Methods for Mobile and Static Sensors and RFID Tags,Yang Xiao and Yanping Zhang and Xiannuan Liang,2011,12,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1516533.1516537,Exploiting user location for load balancing WLANs and improving wireless QoS,George Alyfantis and Stathes Hadjiefthymiades and Lazaros Merakos,2009,3,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1452001.1452002,"Introduction to special issue on stabilization, safety, and security of distributed systems",,2008,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1968513.1968514,Spatial Computing,Jacob Beal and Olivier Michel and Ulrik Pagh Schultz,2011,10,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1867713.1867716,A self-organization mechanism based on cross-entropy method for P2P-like applications,Gang Chen and Abdolhossein Sarrafzadeh and Chor Ping Low and Liang Zhang,2010,2,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2168260.2168273,Introduction to the special section on self-adaptive systems,Abdelhamid Bouchachia and Nadia Nedjah,2012,3,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2644820,Distributed Data-Centric Adaptive Sampling for Cyber-Physical Systems,Eun Kyung Lee and Hariharasudhan Viswanathan and Dario Pompili,2015,3,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2555615,A Host-Based Approach for Unknown Fast-Spreading Worm Detection and Containment,Songqing Chen and Lei Liu and Xinyuan Wang and Xinwen Zhang and Zhao Zhang,2014,1,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2240166.2240173,A shared-secret free security infrastructure for wireless networks,Lifeng Sang and Anish Arora,2012,1,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2491465.2491467,Conditional Safety Certification of Open Adaptive Systems,Daniel Schneider and Mario Trapp,2013,59,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1216895.1216897,Socio-technical defense against voice spamming,Prakash Kolan and Ram Dantu,2007,56,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2240166.2240168,Adaptare,Mônica Dixit and António Casimiro and Paolo Lollini and Andrea Bondavalli and Paulo Verissimo,2012,3,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1740600.1740602,Self-organized service placement in ambient intelligence environments,Klaus Herrmann,2010,14,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3024188,Control Strategies for Self-Adaptive Software Systems,Antonio Filieri and Martina Maggio and Konstantinos Angelopoulos and Nicolás D’ippolito and Ilias Gerostathopoulos and Andreas Berndt Hempel and Henry Hoffmann and Pooyan Jamshidi and Evangelia Kalyvianaki and Cristian Klein and Filip Krikava and Sasa Misailovic and Alessandro V. Papadopoulos and Suprio Ray and Amir M. Sharifloo and Stepan Shevtsov and Mateusz Ujma and Thomas Vogel,2017,44,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2348832.2348837,Design and evaluation of decentralized online clustering,Andres Quiroz and Manish Parashar and Nathan Gnanasambandam and Naveen Sharma,2012,11,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3183340,Self-Organizing Control Mechanism Based on Collective Decision-Making for Information Uncertainty,Naomi Kuze and Daichi Kominami and Kenji Kashima and Tomoaki Hashimoto and Masayuki Murata,2018,3,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2910584,Distributed Multirobot Formation and Tracking Control in Cluttered Environments,Muhammad Umer Khan and Shuai Li and Qixin Wang and Zili Shao,2016,16,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3199656,Editorial,,2018,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2797141,Fault Monitoring with Sequential Matrix Factorization,Dawei Feng and Cecile Germain,2015,1,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3463369,SARDE,Johannes Grohmann and Simon Eismann and André Bauer and Simon Spinner and Johannes Blum and Nikolas Herbst and Samuel Kounev,2020,2,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3355488,Supporting Dynamic Workflows with Automatic Extraction of Goals from BPMN,Luca Sabatucci and Massimo Cossentino,2019,8,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3502725,Loosening Control—A Hybrid Approach to Controlling Heterogeneous Swarms,Lukas Esterle and David W. King,2021,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3335547,A Measure of Added Value in Groups,Bedoor K. Alshebli and Tomasz P. Michalak and Oskar Skibski and Michael Wooldridge and Talal Rahwan,2018,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3275521,SOD,Marco Brocanelli and Xiaorui Wang,2018,1,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2491465.2491468,Autonomic Provisioning with Self-Adaptive Neural Fuzzy Control for Percentile-Based Delay Guarantee,Palden Lama and Xiaobo Zhou,2013,19,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1552297.1552299,Agilla,Chien-Liang Fok and Gruia-Catalin Roman and Chenyang Lu,2009,124,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2720024,Online Automated Synthesis of Compact Normative Systems,Javier Morales and Maite López-sánchez and Juan A. Rodriguez-Aguilar and Wamberto Vasconcelos and Michael Wooldridge,2015,14,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1342171.1342175,Admission of QoS aware users in a smart network,Erol Gelenbe and Georgia Sakellari and Maurizio D'arienzo,2008,26,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2168260.2168276,Techniques for knowledge acquisition in dynamically changing environments,Dominik Fisch and Dominik Fisch and Martin Jänicke and Edgar Kalkowski and Bernhard Sick,2012,10,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2019583.2019588,Behavior-based adaptive call predictor,Santi Phithakkitnukoon and Ram Dantu and Rob Claxton and Nathan Eagle,2011,30,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2843945,An Auction Mechanism for Cloud Spot Markets,Adel Nadjaran Toosi and Kurt Vanmechelen and Farzad Khodadadi and Rajkumar Buyya,2016,42,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2451248.2451252,Adapting scientific workflow structures using multi-objective optimization strategies,Irfan Habib and Ashiq Anjum and Richard Mcclatchey and Omer Rana,2013,12,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2700321,Engineering Pervasive Service Ecosystems,Gabriella Castelli and Marco Mamei and Alberto Rosi and Franco Zambonelli,2015,19,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1380422.1380424,Interactive access control for autonomic systems,Hristo Koshutanski and Fabio Massacci,2008,15,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2957760,Designing Self-Stabilizing Systems Using Game Theory,Li-Hsing Yen and Jean-Yao Huang and Volker Turau,2016,4,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2997654,Characterizing and Adapting the Consistency-Latency Tradeoff in Distributed Key-Value Stores,Muntasir Raihan Rahman and Lewis Tseng and Son Nguyen and Indranil Gupta and Nitin Vaidya,2017,17,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3469440,Applying Machine Learning in Self-adaptive Systems,Omid Gheibi and Danny Weyns and Federico Quin,2020,25,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1186778.1186779,Cooperation through self-assembly in multi-robot systems,Elio Tuci and Roderich Groß and Vito Trianni and Francesco Mondada and Michael Bonani and Marco Dorigo,2006,67,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2720023,Self-Tuning Batching with DVFS for Performance Improvement and Energy Efficiency in Internet Servers,Dazhao Cheng and Yanfei Guo and Changjun Jiang and Xiaobo Zhou,2015,5,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1452001.1452005,An exercise in selfish stabilization,Johanne Cohen and Anurag Dasgupta and Sukumar Ghosh and Sébastien Tixeuil,2008,11,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1516533.1516536,Semantics-based context-aware dynamic service composition,Keita Fujii and Tatsuya Suda,2009,67,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1671948,n.m.,,2010,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1968513.1968515,Gabriel Graphs in Arbitrary Metric Space and their Cellular Automaton for Many Grids,Luidnel Maignan and Frédéric Gruau,2011,7,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2491465,n.m.,,2013,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2517328,Robust Regulation Adaptation in Multi-Agent Systems,Jordi Campos and Maite Lopez-Sanchez and Maria Salamó and Pedro Avila and Juan A. Rodríguez-Aguilar,2013,10,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2240166.2240177,First step towards automatic correction of firewall policy faults,Fei Chen and Alex X. Liu and Jeehyun Hwang and Tao Xie,2012,15,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1452001.1452010,A general characterization of indulgence,R. Guerraoui and N. Lynch,2008,11,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2597760,n.m.,,2014,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1216895,n.m.,,2007,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1242060,n.m.,,2007,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2240166,n.m.,,2012,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3208359,n.m.,,2018,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1837909,n.m.,,2010,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3092815,Hyper-Learning Algorithms for Online Evolution of Robot Controllers,Fernando Silva and Luís Correia and Anders Lyhne Christensen,2017,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3149484,Farewell Editorial,,2017,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3019597,Decentralised Detection of Emergence in Complex Adaptive Systems,Eamonn O'toole and Vivek Nallur and Siobhán Clarke,2017,3,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3050438,On Service Migrations in the Cloud for Mobile Accesses,Yang Wang and Bharadwaj Veeravalli and Chen-Khong Tham and Shuibing He and Chengzhong Xu,2017,2,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3226028,Understanding Crowdsourcing Systems from a Multiagent Perspective and Approach,Jiuchuan Jiang and Bo An and Yichuan Jiang and Donghui Lin and Zhan Bu and Jie Cao and Zhifeng Hao,2018,8,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2168260.2168275,A morphogenetic framework for self-organized multirobot pattern formation and boundary coverage,Hongliang Guo and Yaochu Jin and Yan Meng,2012,16,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2847420,Introduction to the Special Section on Best Papers from SEAMS 2014,,2016,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2816820,Connectivity Reestablishment in Self-Organizing Sensor Networks with Dumb Nodes,Pushpendu Kar and Arijit Roy and Sudip Misra,2016,15,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2967499,Attributed Graph Rewriting for Complex Event Processing Self-Management,Wilson A. Higashino and Cédric Eichler and Miriam A. M. Capretz and Luiz F. Bittencourt and Thierry Monteil,2016,3,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3038460,n.m.,,2017,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3071074,n.m.,,2017,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2451248,n.m.,,2013,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3582080,Model-driven Cluster Resource Management for AI Workloads in Edge Clouds,Qianlin Liang and Walid A. Hanafy and Ahmed Ali-Eldin and Prashant Shenoy,2023,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1921641,n.m.,,2011,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2240166.2240174,Designing and optimizing swarming in a distributed base station network,Philippe Leroux and Sébastien Roy,2012,2,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2723771,Game-Theoretic Mechanisms to Increase Data Availability in Decentralized Storage Systems,Krzysztof Rzadca and Anwitaman Datta and Gunnar Kreitz and Sonja Buchegger,2015,6,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2746345,Autonomous Orchestration of Distributed Discrete Event Simulations in the Presence of Resource Uncertainty,Zhiquan Sui and Matthew Malensek and Neil Harvey and Shrideep Pallickara,2015,4,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1352789.1352790,So-Grid,Agostino Forestiero and Carlo Mastroianni and Giandomenico Spezzano,2008,24,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2518017.2518019,Performance Modeling and Optimization of Deadline-Driven Pig Programs,Zhuoyao Zhang and Ludmila Cherkasova and Abhishek Verma and Boon Thau Loo,2013,10,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2451248.2451254,A state-dependent time evolving multi-constraint routing algorithm,Abdelhamid Mellouk and Said Hoceini and Sherali Zeadally,2013,4,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2168260.2168263,Efficiency of optimistic fair exchange using trusted devices,Mohammad Torabi Dashti,2012,3,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2168260.2168274,Decentralized and optimal control of shared resource pools,Emerson Loureiro and Paddy Nixon and Simon Dobson,2012,6,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2168260.2168264,Host selection through collective decision,Fabrice Saffre and Aistis Simaitis,2012,7,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2240166.2240176,Anonymous transactions in computer networks,Shlomi Dolev and Marina Kopeetsky,2012,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2168260.2168262,Self-organizing virtual macro sensors,Nicola Bicocchi and Marco Mamei and Franco Zambonelli,2012,23,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2619999,Programming Urban-Area Applications by Exploiting Public Transportation,Dries Harnie and Elisa Gonzalez Boix and Theo D’hondt and Wolfgang De Meuter,2014,3,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2240166.2240178,RelaxDHT,Sergey Legtchenko and Sébastien Monnet and Pierre Sens and Gilles Muller,2012,17,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3440119,Information Reuse and Stochastic Search,Cody Kinneer and David Garlan and Claire Le Goues,2020,6,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1152934.1152937,Design patterns from biology for distributed computing,Ozalp Babaoglu and Geoffrey Canright and Andreas Deutsch and Gianni A. Di Caro and Frederick Ducatelle and Luca M. Gambardella and Niloy Ganguly and Márk Jelasity and Roberto Montemanni and Alberto Montresor and Tore Urnes,2006,205,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1293731.1293736,High variability design for software agents,Loris Penserini and Anna Perini and Angelo Susi and John Mylopoulos,2007,44,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1152934.1152940,Reviewers,n.m. ACM Transactions on Autonomous and Adaptive Systems staff,2006,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1968513.1968516,Detecting Locally Distributed Predicates,Michael De Rosa and Seth Copen Goldstein and Peter Lee and Jason Campbell and Padmanabhan S. Pillai,2011,5,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1968513.1968519,Macro Programming a Spatial Computer with Bayesian Networks,Marco Mamei,2011,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1921641.1921650,Formal Specification and Verification of Ubiquitous and Pervasive Systems,Antonio Coronato and Giuseppe De Pietro,2011,16,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1636665.1636666,Editorial to the special issue,,2009,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1740600.1740601,Editorial,Vincenzo Loia and Athanasios V. Vasilakos,2010,1,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1921641.1921645,Dynamic User Task Composition Based on User Preferences,Hamid Mukhtar and Djamel Belaïd and Guy Bernard,2011,6,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1921641.1921642,Special Issue,Mohamed Bakhouya,2011,1,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1921641.1921651,Action Selection Algorithms for Autonomous System in Pervasive Environment,Jaafar Gaber,2011,4,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3529162,Systematic Scalability Modeling of QoS-aware Dynamic Service Composition,Leticia Duboc and Rami Bahsoon and Faisal Alrebeish and Carlos Mera-Gómez and Vivek Nallur and Rick Kazman and Philip Bianco and Ali Babar and Rajkumar Buyya,2021,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3487918,Behavioural Plasticity Can Help Evolving Agents in Dynamic Environments but at the Cost of Volatility,Chloe M. Barnes and Anikó Ekárt and Kai Olav Ellefsen and Kyrre Glette and Peter R. Lewis and Jim Tørresen,2020,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3488903,Computing Contingent Plan Graphs using Online Planning,Shlomi Maliah and Radimir Komarnitski and Guy Shani,2021,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3364220,"Argumentation-Based Reasoning about Plans, Maintenance Goals, and Norms",Zohreh Shams and Marina De Vos and Nir Oren and Julian Padget,2019,3,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3313799,Adaptive Behavior Modeling in Logistic Systems with Agents and Dynamic Graphs,Thibaut Démare and Cyrille Bertelle and Antoine Dutot and Dominique Fournier,2018,2,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3530191,HAMLET: A Hierarchical Agent-based Machine Learning Platform,Ahmad Esmaeili and John C. Gallagher and John A. Springer and Eric T. Matson,2021,1,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3557898,Modeling and Analysis of Explanation for Secure Industrial Control Systems,Sridhar Adepu and Nianyu Li and Eunsuk Kang and David Garlan,2022,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2856424,Controlling Large-Scale Self-Organized Networks with Lightweight Cost for Fast Adaptation to Changing Environments,Naomi Kuze and Daichi Kominami and Kenji Kashima and Tomoaki Hashimoto and Masayuki Murata,2016,8,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2767133,SMT-Based Synthesis of Distributed Self-Stabilizing Systems,Fathiyeh Faghih and Borzoo Bonakdarpour,2015,6,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1352789.1352792,Agent clustering based on semantic negotiation,Salvatore Garruzzo and Domenico Rosaci,2008,24,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1462187.1462190,Chowkidar,S. Bapat and W. Leal and T. Kwon and P. Wei and A. Arora,2009,4,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2019583.2019587,Cooperative evolution of services in ubiquitous computing environments,David Tacconi and Daniele Miorandi and Iacopo Carreras and Francesco De Pellegrini and Imrich Chlamtac,2011,2,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2517329,Achieving Socially Optimal Outcomes in Multiagent Systems with Reinforcement Social Learning,Jianye Hao and Ho-Fung Leung,2013,9,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2451248.2451250,Robust convention emergence in social networks through self-reinforcing structures dissolution,Daniel Villatoro and Jordi Sabater-Mir and Sandip Sen,2013,12,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2382570.2382572,Comparison of Decision-Making Strategies for Self-Optimization in Autonomic Computing Systems,Martina Maggio and Henry Hoffmann and Alessandro V. Papadopoulos and Jacopo Panerati and Marco D. Santambrogio and Anant Agarwal and Alberto Leva,2012,58,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1380422.1380425,An adaptive automatically tuning intrusion detection system,Zhenwei Yu and Jeffrey J. P. Tsai and Thomas Weigert,2008,47,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3568680,Self-Aware Optimization of Adaptation Planning Strategies,Veronika Lesch and Marius Hadry and Samuel Kounev and Christian Krupitzer,2022,1,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2168260.2168270,3PC,Marcus Handte and Gregor Schiele and Verena Matjuntke and Christian Becker and Pedro José Marrón,2012,22,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3124677,On Ordering Multi-Robot Task Executions within a Cyber Physical System,Tushar Semwal and Shashi Shekhar Jha and Shivashankar B. Nair,2017,11,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2629567,Distributive Justice for Self-Organised Common-Pool Resource Management,Jeremy Pitt and Dídac Busquets and Sam Macbeth,2014,28,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1293731.1293735,Specifying protocols for multi-agent systems interaction,Stefan Poslad,2007,89,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3070861,Prediction-Based Multi-Agent Reinforcement Learning in Inherently Non-Stationary Environments,Andrei Marinescu and Ivana Dusparic and Siobhán Clarke,2017,30,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2168260.2168272,Reflective pervasive systems,Nikola Serbedzija and Stephen Fairclough,2012,11,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1342171.1342173,An adaptative agent architecture for holonic multi-agent systems,Vincent Hilaire and Abder Koukam and Sebastian Rodriguez,2008,22,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1462187.1462193,Light enabling snap-stabilization of fundamental protocols,Alain Cournier and Stephane Devismes and Vincent Villain,2009,24,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2620000,Improving the Effectiveness of Testing Pervasive Software via Context Diversity,Huai Wang and W. K. Chan and T. H. Tse,2014,17,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2790303,User-Centric Adaptation Analysis of Multi-Tenant Services,Jesús García-galán and Liliana Pasquale and Pablo Trinidad and Antonio Ruiz-Cortés,2016,5,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2695594,n.m.,,2015,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1293731.1293732,Introduction to the special issue,Paolo Petta and Andrea Omicini and Terry Payne and Peter McBurney,2007,1,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1293731.1293737,Reviewers 2007,,2007,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2668130,Reinforcement Learning of Informed Initial Policies for Decentralized Planning,Landon Kraemer and Bikramjit Banerjee,2015,4,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2719648,A Reinforcement Learning Approach for Interdomain Routing with Link Prices,Peter Vrancx and Pasquale Gurzi and Abdel Rodriguez and Kris Steenhaut and Ann Nowé,2015,2,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2628613,Best ACM SAC Articles on Coordination and Self-Adaptation,Jose Luis Fernandez-Marquez and Mirko Viroli and Gabriella Castelli,2014,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2240166.2240172,An erasure-resilient encoding system for flexible reading and writing in storage networks,Mario Mense and Christian Schindelhauer,2012,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2019591.2019598,Editorial,,2011,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1462187.1462191,Optimal message-driven implementations of omega with mute processes,Martin Biely and Josef Widder,2009,9,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1968513.1968518,Infrastructureless Spatial Storage Algorithms,Jose Luis Fernandez-Marquez and Giovanna Di Marzo Serugendo and Josep Lluis Arcos,2011,5,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2019583.2019586,Self-organizing and self-reconfigurable event routing in ad hoc networks with causal dependency awareness,Guanhong Pei and Binoy Ravindran and E. Douglas Jensen,2011,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1740600.1740603,A multi-society-based intelligent association discovery and selection for ambient intelligence environments,Hakan Duman and Hani Hagras and Victor Callaghan,2010,7,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1278460.1278464,The role of roles in supporting reconfigurability and fault localizations for open distributed and embedded systems,Shangping Ren and Yue Yu and Nianen Chen and Jeffrey J.-P. Tsai and Kevin Kwiat,2007,3,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2382570.2382571,Bio-Inspired P2P Systems,Raffaele Giordanelli and Carlo Mastroianni and Michela Meo,2012,8,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1516533.1516535,On the use of memory and resources in minority games,Ricardo M. Araujo and Luis C. Lamb,2009,3,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1152934,n.m.,,2006,1,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3155314,n.m.,,2018,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3127498,Efficient and Robust Emergence of Norms through Heuristic Collective Learning,Jianye Hao and Jun Sun and Guangyong Chen and Zan Wang and Chao Yu and Zhong Ming,2017,7,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3502199,Gist Trace-based Learning: Efficient Convention Emergence from Multilateral Interactions,Shuyue Hu and Chin-Wing Leung and Ho-Fung Leung and Jiamou Liu,2021,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2790463,n.m.,,2015,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3000604,n.m.,,2016,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3243657,n.m.,,2018,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3487921,Uncertainty in Self-adaptive Systems: A Research Community Perspective,Sara M. Hezavehi and Danny Weyns and Paris Avgeriou and Radu Calinescu and Raffaela Mirandola and Diego Perez-Palacin,2020,10,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3584364,Enforcing Resilience in Cyber-physical Systems via Equilibrium Verification at Runtime,Matteo Camilli and Raffaela Mirandola and Patrizia Scandurra,2023,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1921641.1921646,Trustworthy Service Selection and Composition,Chung-Wei Hang and Munindar P. Singh,2011,53,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3580492,"Modeling, Replicating, and Predicting Human Behavior: A Survey",Andrew Fuchs and Andrea Passarella and Marco Conti,2023,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1671948.1671950,Structured overlay for heterogeneous environments,Šarūnas Girdzijauskas and Anwitaman Datta and Karl Aberer,2010,9,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2882967,Group Norms for Multi-Agent Organisations,Huib Aldewereld and Virginia Dignum and Wamberto W. Vasconcelos,2016,11,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2168260.2168268,FORMS,Danny Weyns and Sam Malek and Jesper Andersson,2012,120,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2555612,Model-Driven Engineering of Self-Adaptive Software with EUREMA,Thomas Vogel and Holger Giese,2014,76,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2240166.2240171,Centralized and distributed task allocation in multi-robot teams via a stochastic clustering auction,Kai Zhang and Emmanuel G. Collins and Dongqing Shi,2012,61,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1837909.1837911,Adaptivity and self-organization in organic computing systems,Hartmut Schmeck and Christian Müller-Schloer and Emre Çakar and Moez Mnif and Urban Richter,2010,59,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2491465.2491469,Adaptive Composition of Distributed Pervasive Applications in Heterogeneous Environments,Stephan Schuhmann and Klaus Herrmann and Kurt Rothermel and Yazan Boshmaf,2013,9,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1636665.1636669,Machine learning in disruption-tolerant MANETs,Bo Xu and Ouri Wolfson and Channah Naiman,2009,11,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3092691,"Defining Emergent Software Using Continuous Self-Assembly, Perception, and Learning",Roberto Rodrigues Filho and Barry Porter,2017,17,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1867713.1867717,The MACODO organization model for context-driven dynamic agent organizations,Danny Weyns and Robrecht Haesevoets and Alexander Helleboogh,2010,22,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1293731.1293733,Awareness in collaborative ubiquitous environments,Marco P. Locatelli and Giuseppe Vizzari,2007,11,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2700325,SHõ WA,João Paulo Magalhães and Luis Moura Silva,2015,16,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2856035,Inferring Software Component Interaction Dependencies for Adaptation Support,Naeem Esfahani and Eric Yuan and Kyle R. Canavera and Sam Malek,2016,12,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2168260.2168267,"A formalized, taxonomy-driven approach to cross-layer application adaptation",Razvan Popescu and Athanasios Staikopoulos and Antonio Brogi and Peng Liu and Siobhán Clarke,2012,12,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1671948.1671951,The MACODO middleware for context-driven dynamic agent organizations,Danny Weyns and Robrecht Haesevoets and Alexander Helleboogh and Tom Holvoet and Wouter Joosen,2010,33,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3404197,Human Feedback as Action Assignment in Interactive Reinforcement Learning,Syed Ali Raza and Mary-Anne Williams,2019,6,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1968513.1968517,Spatial Coordination of Pervasive Services through Chemical-Inspired Tuple Spaces,Mirko Viroli and Matteo Casadei and Sara Montagna and Franco Zambonelli,2011,53,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3507658,An Autonomous System for Efficient Control of PTZ Cameras,Sina G. Davani and Musab S. Al-Hadrusi and Nabil J. Sarhan,2021,1,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1671948.1671949,Particle swarm optimizer with adaptive tabu and mutation,Yu-Xuan Wang and Qiao-Liang Xiang and Zhen-Dong Zhao,2010,10,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2518017.2518018,Design and Performance Evaluation of Data Dissemination Systems for Opportunistic Networks Based on Cognitive Heuristics,Marco Conti and Matteo Mordacchini and Andrea Passarella,2013,18,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2831237,Using Imitation to Build Collaborative Agents,Saleha Raza and Sajjad Haider,2016,2,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2816819,Self-Stabilized Fast Gossiping Algorithms,Stefan Dulman and Eric Pauwels,2016,1,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2890507,Controlling Negative Emergent Behavior by Graph Analysis at Runtime,Jan Kantert and Sven Tomforde and Melanie Kauder and Richard Scharrer and Sarah Edenhofer and Jörg Hähner and Christian Müller-Schloer,2016,2,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2897373,Transparent and Efficient Parallelization of Swarm Algorithms,Franco Cicirelli and Agostino Forestiero and Andrea Giordano and Carlo Mastroianni,2016,18,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3145453,Software Adaptation in Wireless Sensor Networks,Mikhail Afanasov and Luca Mottola and Carlo Ghezzi,2017,5,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2168260.2168271,Autonomic multi-policy optimization in pervasive systems,Ivana Dusparic and Vinny Cahill,2012,20,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3337795,An Innovative Approach for Ad Hoc Network Establishment in Disaster Environments by the Deployment of Wireless Mobile Agents,Xing Su and Minjie Zhang and Quan Bai,2018,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3309539,Improving Data-Analytics Performance Via Autonomic Control of Concurrency and Resource Units,Gil Jae Lee and José A. B. Fortes,2018,6,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3345319,Mutual Influence-aware Runtime Learning of Self-adaptation Behavior,Stefan Rudolph and Sven Tomforde and Jörg Hähner,2019,7,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3347269,Self-awareness in Software Engineering,Abdessalam Elhabbash and Maria Salama and Rami Bahsoon and Peter Tino,2019,4,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2700318,Property-Driven Design for Robot Swarms,Manuele Brambilla and Arne Brutschy and Marco Dorigo and Mauro Birattari,2015,40,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3014430,Topology Management-Based Distributed Camera Actuation in Wireless Multimedia Sensor Networks,Goutam Mali and Sudip Misra,2017,4,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3513091,Assured Mission Adaptation of UAVs,Sebastián A. Zudaire and Leandro Nahabedian and Sebastián Uchitel,2021,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2928273,Topology Control for Diverse Coverage in Underwater Wireless Sensor Networks,Linfeng Liu and Jingli Du and Ye Liu,2016,8,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3019596,Modeling and Extracting Load Intensity Profiles,Jóakim Von Kistowski and Nikolas Herbst and Samuel Kounev and Henning Groenda and Christian Stier and Sebastian Lehrig,2017,7,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3337800,Runtime Monitoring and Resolution of Probabilistic Obstacles to System Goals,Antoine Cailliau and Axel Van Lamsweerde,2019,6,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2567928,Fostering Cooperation through Dynamic Coalition Formation and Partner Switching,Ana Peleteiro and Juan C. Burguillo and Josep Ll. Arcos and Juan A. Rodriguez-Aguilar,2014,11,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2626290,Adaptive Resource Provisioning for Virtualized Servers Using Kalman Filters,Evangelia Kalyvianaki and Themistoklis Charalambous and Steven Hand,2014,22,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1452001.1452003,Self-stabilizing population protocols,Dana Angluin and James Aspnes and Michael J. Fischer and Hong Jiang,2008,61,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2845085,Managing Server Clusters on Renewable Energy Mix,Chao Li and Rui Wang and Depei Qian and Tao Li,2016,14,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1462187.1462196,Using eventually consistent compasses to gather memory-less mobile robots with limited visibility,Samia Souissi and Xavier Défago and Masafumi Yamashita,2009,49,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2518017,n.m.,,2013,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1452001.1452006,Circle formation of weak mobile robots,Yoann Dieudonné and Ouiddad Labbani-Igbida and Franck Petit,2008,35,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3179994,Adaptive Opportunistic Airborne Sensor Sharing,Jacob Beal and Kyle Usbeck and Joseph Loyall and Mason Rowe and James Metzler,2018,11,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2815624,Enhancing Reliability of Workflow Execution Using Task Replication and Spot Instances,Deepak Poola and Kotagiri Ramamohanarao and Rajkumar Buyya,2016,47,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2744297,n.m.,,2015,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1278460,n.m.,,2007,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1636665.1636670,M-AID,Zonghua Zhang and Hong Shen,2009,7,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3366372,Human-centric Data Dissemination in the IoP,Matteo Mordacchini and Marco Conti and Andrea Passarella and Raffaele Bruno,2019,7,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3380965,Improving Scalability and Reward of Utility-Driven Self-Healing for Large Dynamic Architectures,Sona Ghahremani and Holger Giese and Thomas Vogel,2019,9,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2629577,An Intelligent Agent for Bilateral Negotiation with Unknown Opponents in Continuous-Time Domains,Siqi Chen and Gerhard Weiss,2014,10,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2382570.2382573,The XtreemOS Resource Selection Service,Corina Stratan and Jan Sacha and Jeff Napper and Paolo Costa and Guillaume Pierre,2012,2,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2348832.2348834,Heterogeneity playing key role,Yufeng Wang and Akihiro Nakao and Athanasios V. Vasilakos,2012,12,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2240166.2240175,Choosing partners based on availability in P2P networks,Stevens Le Blond and Fabrice Le Fessant and Erwan Le Merrer,2012,5,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2240166.2240167,On modeling of coevolution of strategies and structure in autonomous overlay networks,Yufeng Wang and Akihiro Nakao and Athanasios V. Vasilakos,2012,9,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3084541,Feature Construction for Controlling Swarms by Visual Demonstration,Karan K. Budhraja and John Winder and Tim Oates,2017,5,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3095891,Performance and Cost Considerations for Providing Geo-Elasticity in Database Clouds,Tian Guo and Prashant Shenoy,2017,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3127332,SASO 2016,Giacomo Cabri and Gauthier Picard and Niranjan Suri,2017,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3124642,Electronic Social Capital for Self-Organising Multi-Agent Systems,Patricio E. Petruzzi and Jeremy Pitt and Dídac Busquets,2017,7,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2872308,n.m.,,2016,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2019583,n.m.,,2011,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3555315,Formally Verified Scalable Look Ahead Planning For Cloud Resource Management,Farzin Zaker and Marin Litoiu and Mark Shtern,2022,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3540202,Prosocial Norm Emergence in Multi-agent Systems,Mehdi Mashayekhi and Nirav Ajmeri and George F. List and Munindar P. Singh,2022,1,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3349594,n.m.,,2019,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2764460,"Static, Dynamic, and Adaptive Heterogeneity in Distributed Smart Camera Networks",Peter R. Lewis and Lukas Esterle and Arjun Chandra and Bernhard Rinner and Jim Torresen and Xin Yao,2015,18,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1516533.1516534,Isolation points,Mohamed S. Mansour and Karsten Schwan and Sameh Abdelaziz,2009,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1452001.1452009,Safe peer-to-peer self-downloading,Kajari Ghosh Dastidar and Ted Herman and Colette Johnen,2008,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1671948.1671952,Cooperation through self-similar social networks,Stuart M. Allen and Gualtiero Colombo and Roger M. Whitaker,2010,26,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1462187.1462195,On bootstrapping topology knowledge in anonymous networks,Toshimitsu Masuzawa and Sébastien Tixeuil,2009,8,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3376923,A Bike-sharing Optimization Framework Combining Dynamic Rebalancing and User Incentives,Federico Chiariotti and Chiara Pielli and Andrea Zanella and Michele Zorzi,2019,15,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2019591.2019594,Bird Flight-Inspired Routing Protocol for Mobile Ad Hoc Networks,Sudip Misra and Gopidi Rajesh,2011,7,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3337796,Knowledge Management for Self-Organised Resource Allocation,David Burth Kurka and Jeremy Pitt and Josiah Ober,2019,6,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3431390,SecRET,Sudip Misra and Tamoghna Ojha and Madhusoodhanan P,2020,6,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2724719,MAPE-K Formal Templates to Rigorously Design Behaviors for Self-Adaptive Systems,Didac Gil De La Iglesia and Danny Weyns,2015,68,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3127499,MARC,Matteo Ferroni and Andrea Corna and Andrea Damiani and Rolando Brondolin and John D. Kubiatowicz and Donatella Sciuto and Marco D. Santambrogio,2017,5,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2939206,SASO 2014,Mirko Viroli and Ada Diaconescu and Nagarajan Kandasamy,2016,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3337797,"Designing Robot Teams for Distributed Construction, Repair, and Maintenance",Todd Wareham,2019,4,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3463368,Resilient Team Formation with Stabilisability of Agent Networks for Task Allocation,Jose Barambones and Florian Richoux and Ricardo Imbert and Katsumi Inoue,2020,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3492340,Introduction to the Special Issue with Selected Papers of The International Conference on Autonomic Computing and Self-Organizing Systems (ACSOS) 2020,Sven Tomforde and Timothy Wood and Jan-Philipp Steghöfer,2020,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3502200,A Flexible Framework for Diverse Multi-Robot Task Allocation Scenarios Including Multi-Tasking,Muhammad Usman Arif and Sajjad Haider,2021,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3465630,Optimizing the Performance of Containerized Cloud Software Systems Using Adaptive PID Controllers,Mikael Sabuhi and Nima Mahmoudi and Hamzeh Khazaei,2020,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3424344,PSINES,Julien Cumin and Grégoire Lefebvre and Fano Ramparany and James L. Crowley,2020,1,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2019583.2019585,ScatterD,Jules White and Brian Dougherty and Chris Thompson and Douglas C. Schmidt,2011,5,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2651423,Utility-Based Mechanism for Structural Self-Organization in Service-Oriented MAS,Elena Del Val and Miguel Rebollo and Mateo Vasirani and Alberto Fernández,2014,4,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2491465.2491466,An Analysis of Language-Level Support for Self-Adaptive Software,Guido Salvaneschi and Carlo Ghezzi and Matteo Pradella,2013,17,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1278460.1278462,Adaptive correctness monitoring for wireless sensor networks using hierarchical distributed run-time invariant checking,Douglas Herbert and Vinaitheerthan Sundaram and Yung-Hsiang Lu and Saurabh Bagchi and Zhiyuan Li,2007,20,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2822896,Designing Adaptive Applications Deployed on Cloud Environments,Parisa Zoghi and Mark Shtern and Marin Litoiu and Hamoun Ghanbari,2016,18,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1867713.1867715,Evidence-based trust,Yonghong Wang and Munindar P. Singh,2010,64,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1462187.1462189,Fault tolerance measures for large-scale wireless sensor networks,Habib M. Ammari and Sajal K. Das,2009,21,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3139290,From DevOps to BizOps,Marios Fokaefs and Cornel Barna and Marin Litoiu,2017,2,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1278460.1278461,Introduction,,2007,1,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1552297.1552301,On the convergence and stability of data-driven link estimation and routing in sensor networks,Hongwei Zhang and Lifeng Sang and Anish Arora,2009,3,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2567929,A Cooperative Predictive Control Approach to Improve the Reconfiguration Stability of Adaptive Distributed Parallel Applications,Gabriele Mencagli and Marco Vanneschi and Emanuele Vespa,2014,21,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2818713,Just-in-Time Adaptive Algorithm for Optimal Parameter Setting in 802.15.4 WSNs,Simone Brienza and Manuel Roveri and Domenico De Guglielmo and Giuseppe Anastasi,2016,8,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3124643,Evolved Control of Natural Plants,Daniel Nicolas Hofstadler and Mostafa Wahby and Mary Katherine Heinrich and Heiko Hamann and Payam Zahadat and Phil Ayres and Thomas Schmickl,2017,8,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1921641.1921647,SeDiM,Carlos Flores and Paul Grace and Gordon S. Blair,2011,9,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2240166.2240169,Conceptual modeling of flexible temporal workflows,Carlo Combi and Matteo Gozzi and Roberto Posenato and Giuseppe Pozzi,2012,23,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1293731.1293734,A Framework for Web service negotiation,Shamimabi Paurobally and Valentina Tamma and Michael Wooldrdige,2007,41,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1242060.1242063,Adaptive selection of necessary and sufficient checkpoints for dynamic verification of temporal constraints in grid workflow systems,Jinjun Chen and Yun Yang,2007,72,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3041036,Budget-Driven Scheduling of Scientific Workflows in IaaS Clouds with Fine-Grained Billing Periods,Maria A. Rodriguez and Rajkumar Buyya,2017,32,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1152934.1152936,Division of labor in a group of robots inspired by ants' foraging behavior,Thomas H. Labella and Marco Dorigo and Jean-Louis Deneubourg,2006,132,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1293731,n.m.,,2007,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1452001.1452004,MiniMax equilibrium of networked differential games,Hui Cao and Emre Ertin and Anish Arora,2008,16,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1636665,n.m.,,2009,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3099619,n.m.,,2017,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3355562,Collective Adaptation through Multi-Agents Ensembles,Antonio Bucchiarone,2019,14,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1216895.1216896,Properties and mechanisms of self-organizing MANET and P2P systems,Bartosz Biskupski and Jim Dowling and Jan Sacha,2007,37,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2700322,Superdiffusive Dispersion and Mixing of Swarms,Jacob Beal,2015,7,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2746344,SASO 2013,Jeremy Pitt and Tom Holvoet,2015,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2567925,Modeling and Defending against Adaptive BitTorrent Worms in Peer-to-Peer Networks,Jiaqing Luo and Bin Xiao and Qingjun Xiao and Jiannong Cao and Minyi Guo,2014,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2382570.2382574,A Lightweight Method for Automated Design of Convergence in Network Protocols,Aly Farahat and Ali Ebnenasir,2012,7,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2555610,Introduction to the Special Section on Best Papers from SEAMS 2012,Luciano Baresi and Hausi Müller,2014,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2567924,"Bionic Autonomic Nervous Systems for Self-Defense against DoS, Spyware, Malware, Virus, and Fishing",Y. S. Dai and Y. P. Xiang and Y. Pan,2014,6,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1462187,n.m.,,2009,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2019591.2019597,From Autonomic to Self-Self Behaviors,Sara Bouchenak and Fabienne Boyer and Benoit Claudel and Noel De Palma and Olivier Gruber and Sylvain Sicard,2011,9,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2642710,n.m.,,2014,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2348832,n.m.,,2012,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1968513,n.m.,,2011,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2839302,Trust-Based Decision Making in a Self-Adaptive Agent Organization,Kamilia Ahmadi and Vicki H. Allan,2016,3,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2168260.2168269,Introduction to the special section on pervasive adaptation,Franco Zambonelli and Ben Paechter,2012,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2451248.2451251,Convergence results for ant routing algorithms via stochastic approximation,Punyaslok Purkayastha and John S. Baras,2013,1,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2240166.2240170,Improving differential evolution algorithm by synergizing different improvement mechanisms,Musrrat Ali and Millie Pant and Ajith Abraham,2012,10,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2168260.2168265,Efficient load balancing in partitioned queries under random perturbations,Anastasios Gounaris and Christos A. Yfoulis and Norman W. Paton,2012,5,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2240166.2240179,Control-based p-persistent adaptive communication protocol,Franco Blanchini and Daniele De Caneva and Pier Luca Montessoro and Davide Pierattoni,2012,4,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3226027,Adaptive Process Migrations in Coupled Applications for Exchanging Data in Local File Cache,Jianwei Liao and Zhigang Cai and Francois Trahay and Jun Zhou and Guoqiang Xiao,2018,1,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2932704,A Support System for Clustering Data Streams with a Variable Number of Clusters,Jonathan de Andrade Silva and Eduardo Raul Hruschka,2016,5,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2897372,Artificial Immunology for Collective Adaptive Systems Design and Implementation,Nicola Capodieci and Emma Hart and Giacomo Cabri,2016,5,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3514251,Risk-aware Collection Strategies for Multirobot Foraging in Hazardous Environments,Kai Di and Yifeng Zhou and Jiuchuan Jiang and Fuhan Yan and Shaofu Yang and Yichuan Jiang,2021,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3530192,Deep Learning for Effective and Efficient Reduction of Large Adaptation Spaces in Self-adaptive Systems,Danny Weyns and Omid Gheibi and Federico Quin and Jeroen Van Der Donckt,2022,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3447268,A Q-values Sharing Framework for Multi-agent Reinforcement Learning under Budget Constraint,Changxi Zhu and Ho-Fung Leung and Shuyue Hu and Yi Cai,2020,1,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3487920,Developing Action Policies with Q-Learning and Shallow Neural Networks on Reconfigurable Embedded Devices,Alwyn Burger and Gregor Schiele and David W. King,2020,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3487292,AT-DIFC + : Toward Adaptive and Trust-Aware Decentralized Information Flow Control,Charilaos Skandylas and Narges Khakpour and Jesper Andersson,2020,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3310090,Probabilistic Policy Reuse for Safe Reinforcement Learning,Javier García and Fernando Fernández,2018,3,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1552297.1552300,Self-stabilizing robot formations over unreliable networks,Seth Gilbert and Nancy Lynch and Sayan Mitra and Tina Nolte,2009,18,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2746347,Distributed Binary Consensus in Networks with Disturbances,Alexander Gogolev and Nikolaj Marchenko and Lucio Marcenaro and Christian Bettstetter,2015,6,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3580282,Distributed Size-Constrained Clustering Algorithm for Modular Robot-Based Programmable Matter,Jad Bassil and Abdallah Makhoul and Benoît Piranda and Julien Bourgeois,2023,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2619998,A Formal Approach to Autonomic Systems Programming,Rocco De Nicola and Michele Loreti and Rosario Pugliese and Francesco Tiezzi,2014,92,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1516533,n.m.,,2009,2,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1921641.1921648,A Decentralized Self-Organizing Service Composition for Autonomic Entities,Ibrahim Al-Oqily and Ahmed Karmouch,2011,8,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2019591.2019596,Scalable Stealth Mode P2P Overlays of Very Small Constant Degree,Márk Jelasity and Vilmos Bilicki,2011,1,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1837909.1837913,Parsimonious rule generation for a nature-inspired approach to self-assembly,Alexander Grushin and James A. Reggia,2010,3,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1921641.1921643,Design and Implementation of an Anycast Services Discovery in Mobile Ad Hoc Networks,Shyr-Kuen Chen and Pi-Chung Wang,2011,6,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1452001.1452011,Reviewers 2008,,2008,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1186778.1186781,A reactive agent-based problem-solving model,Franck Gechter and Vincent Chevrier and François Charpillet,2006,8,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1186778.1186783,Reviewers,,2006,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1152934.1152935,Introduction,,2006,1,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1152934.1152938,A software retrieval service based on adaptive knowledge-driven agents for wireless environments,Eduardo Mena and Arantza Illarramendi and Jose A. Royo and Alfredo GoñI,2006,5,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1462187.1462194,Self-stabilizing philosophers with generic conflicts,Praveen Danturi and Mikhail Nesterenko and Sébastien Tixeuil,2009,4,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3168446,Model-Based Response Planning Strategies for Autonomic Intrusion Protection,Stefano Iannucci and Sherif Abdelwahed,2018,17,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2700323,Cooperative Resource Allocation in Open Systems of Systems,Gerrit Anders and Alexander Schiendorfer and Florian Siefert and Jan-Philipp Steghöfer and Wolfgang Reif,2015,13,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3277668,Decentralized Collective Learning for Self-managed Sharing Economies,Evangelos Pournaras and Peter Pilgerstorfer and Thomas Asikis,2018,31,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2168260.2168266,Introduction to special section on formal methods in pervasive computing,Mohamed Bakhouya and Roy Campbell and Antonio Coronato and Giuseppe de Pietro and Anand Ranganathan,2012,16,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1636665.1636667,An autonomic framework for reliable multicast,Markos P. Anastasopoulos and Athanasios V. Vasilakos and Panayotis G. Cottis,2009,4,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1552297.1552302,Self-organizing fault-tolerant topology control in large-scale three-dimensional wireless networks,Yu Wang and Lijuan Cao and Teresa A. Dahlberg and Fan Li and Xinghua Shi,2009,22,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3547145,A Collective Adaptive Approach to Decentralised k-Coverage in Multi-robot Systems,Danilo Pianini and Federico Pettinari and Roberto Casadei and Lukas Esterle,2022,1,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2348832.2348833,Self-organizing synchronization with inhibitory-coupled oscillators,Johannes Klinglmayr and Christian Bettstetter,2012,30,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2620001,Transactional Auto Scaler,Diego Didona and Paolo Romano and Sebastiano Peluso and Francesco Quaglia,2014,15,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3582696,On Understanding Context Modelling for Adaptive Authentication Systems,Anne Bumiller and Stéphanie Challita and Benoit Combemale and Olivier Barais and Nicolas Aillery and Gael Le Lan,2023,0,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/2662112,Multi-Cloud Provisioning and Load Distribution for Three-Tier Applications,Nikolay Grozev and Rajkumar Buyya,2014,50,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3056460,Tight Analysis of a Collisionless Robot Gathering Algorithm,Gokarna Sharma and Costas Busch and Supratik Mukhopadhyay and Charles Malveaux,2017,6,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3019598,Formal Design and Verification of Self-Adaptive Systems with Decentralized Control,Paolo Arcaini and Elvinia Riccobene and Patrizia Scandurra,2017,40,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1516533.1516538,Self-adaptive software,Mazeiar Salehie and Ladan Tahvildari,2009,797,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/1837909.1837912,Empowered by wireless communication,Sándor P. Fekete and Christiane Schmidt and Axel Wegener and Horst Hellbrück and Stefan Fischer,2010,8,ACM Transactions on Autonomous and Adaptive Systems
+10.1145/3281032,SDN Flow Entry Management Using Reinforcement Learning,Ting-Yu Mu and Ala Al-Fuqaha and Khaled Shuaib and Farag M. Sallabi and Junaid Qadir,2018,29,ACM Transactions on Autonomous and Adaptive Systems

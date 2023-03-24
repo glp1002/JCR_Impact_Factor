@@ -1,0 +1,776 @@
+DOI,Título,Autores,Año,Citas,Revista
+10.1609/aimag.v39i2.2793,Pedagogical Agents: Back to the Future,W. Lewis Johnson and James C. Lester,2018,18,AI Magazine
+10.1609/aimag.v35i4.2478,A Review of Real-Time Strategy Game AI,Glen Robertson and Ian Watson,2017,43,AI Magazine
+10.1609/aimag.v40i2.2847,A Survey of Game Theoretic Approaches for Adversarial Machine Learning in Cybersecurity Tasks,Prithviraj Dasgupta and Joseph Collins,2019,19,AI Magazine
+10.1002/aaai.12037,A biomedical open knowledge network harnesses the power of AI to understand deep human biology,Sergio E. Baranzini and Katy Börner and John Morris and Charlotte A. Nelson and Karthik Soman and Erica Schleimer and Michael Keiser and Mark Musen and Roger Pearce and Tahsin Reza and Brett Smith and Bruce W. Herr and Boris Oskotsky and Angela Rizk‐Jackson and Katherine P. Rankin and Stephan J. Sanders and Riley Bove and Peter W. Rose and Sharat Israni and Sui Huang,2022,2,AI Magazine
+10.1609/aimag.v32i3.2369,Recommendation Technologies for Configurable Products,Andreas Falkner and Alexander Felfernig and Albert Haag,2017,43,AI Magazine
+10.1609/aimag.v37i2.2656,Humans and Machines in the Evolution of AI in Korea,Byoung-Tak Zhang,2017,4,AI Magazine
+10.1609/aimag.v33i4.2438,Machine Learning for Personalized Medicine: Predicting Primary Myocardial Infarction from Electronic Health Records,Jeremy C. Weiss and Sriraam Natarajan and Peggy L. Peissig and Catherine A. McCarty and David Page,2017,42,AI Magazine
+10.1609/aimag.v37i3.2669,Answer Set Programming: An Introduction to the Special Issue,Gerhard Brewka and Thomas Eiter and Miroslaw Truszczynski,2017,26,AI Magazine
+10.1609/aimag.v41i1.5302,Report on the 2019 IJCAI Explainable Artificial Intelligence Workshop,Tim Miller and Rosina Weber and Daniele Magazenni,2020,2,AI Magazine
+10.1609/aimag.v41i1.5291,What I Wish I Had Known Early in Graduate School but Didn’t,Sven Koenig,2020,1,AI Magazine
+10.1609/aimag.v38i4.2761,Towards the AI Index,Yoav Shoham,2017,5,AI Magazine
+10.1609/aimag.v39i4.2858,AAAI Conferences Calendar,Managing Editor,2018,1,AI Magazine
+10.1609/aimag.v39i4.2825,Human Computation for Image and Video Analysis,Kurt Luther,2018,0,AI Magazine
+10.1609/aimag.v41i1.5195,Addressing the Challenges of Government Service Provision with AI,Yongqing Zheng and Han Yu and Lizhen Cui and Chunyan Miao and Cyril Leung and Yang Liu and Qiang Yang,2020,2,AI Magazine
+10.1609/aimag.v40i2.2887,Reports of the 2018 AAAI Fall Symposium,Managing Editor and Aaron Adler and Prithviraj Dasgupta and Nick DePalma and Mohammed Eslami and Richard Freedman and John Laird and Christian Lebiere and Katrin Lohan and Ross Mead and Mark Roberts and Paul Rosenbloom and Emmanuel Senft and Frank Stein and Tom Williams and Kyle Hollins Wray and Fusun Yaman and Shlomo Zilberstein,2019,1,AI Magazine
+10.1609/aimag.v40i2.2856,Addressing Autonomy in Conceptual Design,Robert Morris and Anjan Chakrabarty,2019,1,AI Magazine
+10.1609/aimag.v41i1.5288,The 27th International Conference on Case-Based Reasoning,Klaus-Dieter Althoff and Kerstin Bach and Ralph Bergmann and Cindy Marling,2020,0,AI Magazine
+10.1609/aimag.v41i2.5301,The Defense Advanced Research Projects Agency's Artificial Intelligence Vision,Peter Highnam,2020,0,AI Magazine
+10.1609/aimag.v41i4.7385,Remembering Nils Nilsson,Karen Myers,2021,0,AI Magazine
+10.1609/aimag.v32i4.2381,Toward Humanlike Task-Based Dialogue Processing for Human Robot Interaction,Matthias Scheutz and Rehj Cantrell and Paul Schermerhorn,2017,25,AI Magazine
+10.1609/aimag.v35i2.2538,Reports on the 2013 AAAI Fall Symposium Series,Gully Burns and Yolanda Gil and Yan Liu and Natalia Villanueva-Rosales and Sebastian Risi and Joel Lehman and Jeff Clune and Christian Lebiere and Paul S. Rosenbloom and Frank Van Harmelen and James A. Hendler and Pascal Hitzler and Krzysztof Janowic and Samarth Swarup,2017,0,AI Magazine
+10.1609/aimag.v32i4.2375,Introduction to the Special Issue on Dialog with Robots,Dan Bohus and Eric Horvitz and Takayuki Kanda and Bilge Mutlu and Antoine Raux,2017,1,AI Magazine
+10.1609/aimag.v30i4.2274,Understanding and Dealing With Usability Side Effects of Intelligent Processing,Anthony David Jameson,2017,24,AI Magazine
+10.1609/aimag.v32i3.2317,Report on the AAAI 2010 Robot Exhibition,Monica Anderson and Sonia Chernova and Zachary Dodds and Andrea L. Thomaz and David Touretsky,2017,1,AI Magazine
+10.1609/aimag.v35i3.2561,Computational Sustainability: Editorial Introduction to the Summer and Fall Issues,Eric Eaton and Carla Gomes and Brian C. Williams,2017,0,AI Magazine
+10.1609/aimag.v31i4.2311,"The State of Solving Large Incomplete-Information Games, and Application to Poker",Tuomas Sandholm,2017,33,AI Magazine
+10.1609/aimag.v35i1.2503,A Constraint-Based Dental School Timetabling System,Hadrien Cambazard and Barry O'Sullivan and Helmut Simonis,2017,1,AI Magazine
+10.1609/aimag.v30i1.2151,Report on the First Conference on Artificial General Intelligence (AGI-08),Hugo Roland De Garis and Ben Goertzel,2017,1,AI Magazine
+10.1609/aimag.v31i4.2310,Algorithmic Game Theory and Artificial Intelligence,Edith Elkind and Kevin Leyton-Brown,2017,2,AI Magazine
+10.1609/aimag.v36i3.2622,AI Conferences Calendar,Managing Editor,2017,0,AI Magazine
+10.1609/aimag.v33i1.2391,Reports of the AAAI 2011 Fall Symposia,Sam Blisard and Ted Carmichael and Li Ding and Tim Finin and Wende Frost and Arthur Graesser and Mirsad Hadzikadic and Lalana Kagal and Geert-Jan M. Kruijff and Pat Langley and James Lester and Deborah L. McGuinness and Jack Mostow and Panagiotis Papadakis and Fiora Pirri and Rashmi Prasad and Svetlana Stoyanchev and Pradeep Varakantham,2017,0,AI Magazine
+10.1609/aimag.v29i4.2198,Multiobjective Optimization,Matthias Ehrgott,2017,25,AI Magazine
+10.1609/aimag.v36i2.2585,Activity-Based Computing: Computational Management of Activities Reflecting Human Intention,Jakob E. Bardram and Steven Jeuris and Steven Houben,2017,6,AI Magazine
+10.1609/aimag.v38i3.2717,Certifiable Trust in Autonomous Systems: Making the Intractable Tangible,Joseph B. Lyons and Matthew A. Clark and Alan R. Wagner and Matthew J. Schuelke,2017,16,AI Magazine
+10.1609/aimag.v38i3.2747,The Value of AI Tools: Some Lessons Learned,Steven N. Minton,2017,1,AI Magazine
+10.1609/aimag.v39i3.2815,"Integrating Artificial and Human Intelligence in Complex, Sensitive Problem Domains: Experiences from Mental Health",Munmun De Choudhury and Emre Kiciman,2018,11,AI Magazine
+10.1609/aimag.v39i4.2836,Technological Advances in Applied Intelligence (IEA/AIE-2018),Malek Mouhoub and Samira Sadaoui and Otmaine Ait Mohamed and Moonis Ali,2018,0,AI Magazine
+10.1609/aimag.v39i1.2789,Robust Intelligence,Edwina L. Rissland,2018,0,AI Magazine
+10.1609/aimag.v39i2.2820,AAAI News,Carol Hamilton,2018,1,AI Magazine
+10.1609/aimag.v38i3.2774,AAAI Conferences Calendar,Managing Editor,2017,0,AI Magazine
+10.1609/aimag.v38i3.2752,Design and Intelligent Machines,William C. Regli,2017,1,AI Magazine
+10.1609/aimag.v39i2.2806,The Low Cost Evolution of AI in Domestic Floor Cleaning Robots,Alexander Kleiner,2018,0,AI Magazine
+10.1609/aimag.v32i2.2344,Introduction to the Articles on Innovative Applications of Artificial Intelligence,Nestor Rychtyckyj and Daniel Shapiro,2017,0,AI Magazine
+10.1609/aimag.v37i1.2636,My Computer Is an Honor Student — but How Intelligent Is It? Standardized Tests as a Measure of AI,Peter Clark and Oren Etzioni,2017,21,AI Magazine
+10.1609/aimag.v33i2.2407,Design and Deployment of a Personalized News Service,Mark Stefik and Lange Good,2017,1,AI Magazine
+10.1609/aimag.v31i4.2315,Using Mechanism Design to Prevent False-Name Manipulations,Vincent Conitzer and Makoto Yokoo,2017,6,AI Magazine
+10.1609/aimag.v33i2.2411,"The Glass Infrastructure: Using Common Sense to Create a Dynamic, Place-Based Social Information System",Catherine Havasi and Richard Borovoy and Boris Kizelshteyn and Polychronis Ypodimatopoulos and Jon Ferguson and Henry Holtzman and Andrew Lippman and Dan Schultz and Matthew Blackshaw and Greg Elliott,2017,3,AI Magazine
+10.1609/aimag.v37i1.2642,Artificial Intelligence to Win the Nobel Prize and Beyond: Creating the Engine for Scientific Discovery,Hiroaki Kitano,2017,55,AI Magazine
+10.1609/aimag.v34i2.2471,Speaking Louder than Words with Pictures Across Languages,Andrew Finch and Wei Song and Kumiko Tanaka-Ishii and Eiichiro Sumita,2017,0,AI Magazine
+10.1609/aimag.v31i2.2308,AAAI Leadership Transition,Martha Pollack and Henry Kautz,2017,1,AI Magazine
+10.1609/aimag.v33i2.2358,The Best of AI in Japan — Prologue,Toyoaki Nishida,2017,1,AI Magazine
+10.1609/aimag.v38i3.2748,A New AI Evaluation Cosmos: Ready to Play the Game?,José Hérnandez-Orallo and Marco Baroni and Jordi Bieger and Nader Chmait and David L. Dowe and Katja Hofmann and Fernando Martínez-Plumed and Claes Strannegård and Kristinn R. Thórisson,2017,12,AI Magazine
+10.1609/aimag.v37i4.2685,"Turn-Taking, Children, and the Unpredictability of Fun",Jill Fain Lehman and Iolanda Leite,2017,4,AI Magazine
+10.1609/aimag.v34i1.2457,Reports on the 2012 AAAI Fall Symposium Series,Rezarta Islamaj Dogan and Yolanda Gil and Haym Hirsh and Narayanan C. Krishnan and Michael Lewis and Cetin Mericli and Parisa Rashidi and Victor Raskin and Samarth Swarup and Wei Sun and Julia M. Taylor and Lana Yeganova,2017,1,AI Magazine
+10.1609/aimag.v37i4.2693,A Short History of the RecSys Challenge,Alan Said,2017,1,AI Magazine
+10.1609/aimag.v31i2.2261,PIM: A Novel Architecture for Coordinating Behavior of Distributed Systems,Kenneth M. Ford and James Allen and Niranjan Suri and Patrick J. Hayes and Robert Morris,2017,4,AI Magazine
+10.1609/aimag.v37i1.2645,Why We Need a Physically Embodied Turing Test and What It Might Look Like,"Charles L. Ortiz, Jr",2017,7,AI Magazine
+10.1609/aimag.v37i2.2635,"Qualitative Reasoning: Everyday, Pervasive, and Moving Forward — A Report on QR-15",Scott Friedman and Ann Kate Lockwood,2017,1,AI Magazine
+10.1609/aimag.v34i4.2520,AAAI News,Carol Hamilton,2017,0,AI Magazine
+10.1609/aimag.v35i4.2574,AAAI News,Carol Hamilton,2017,0,AI Magazine
+10.1609/aimag.v38i2.2733,Keeping it Real: Using Real-World Problems to Teach AI to Diverse Audiences,Nicole Sintov and Debarun Kar and Thanh Nguyen and Fei Fang and Kevin Hoffman and Arnaud Lyet and Milind Tambe,2017,2,AI Magazine
+10.1609/aimag.v33i4.2401,PROTECT -- A Deployed Game Theoretic System for Strategic Security Allocation for the United States Coast Guard,Bo An and Eric Shieh and Milind Tambe and Rong Yang and Craig Baldwin and Joseph DiRenzo and Ben Maule and Garrett Meyer,2017,13,AI Magazine
+10.1609/aimag.v36i2.2591,AI in Switzerland,Jean-Daniel Dessimoz and Jana Koehler and Thilo Stadelmann,2017,1,AI Magazine
+10.1609/aimag.v37i3.2673,Modeling and Language Extensions,Martin Gebser and Torsten Schaub,2017,7,AI Magazine
+10.1609/aimag.v33i4.2402,Decision Making in Complex Multiagent Contexts: A Tale of Two Frameworks,Prashant J. Doshi,2017,5,AI Magazine
+10.1609/aimag.v34i2.2469,Learning Compact Visual Descriptors for Low Bit Rate Mobile Landmark Search,Ling-Yu Duan and Jie Chen and Rongrong Ji and Tiejun Huang and Wen Gao,2017,4,AI Magazine
+10.1609/aimag.v37i4.2684,Collaborative Language Grounding Toward Situated Human-Robot Dialogue,Joyce Y. Chai and Rui Fang and Changsong Liu and Lanbo She,2017,8,AI Magazine
+10.1609/aimag.v37i4.2676,Hedging the Risk of Delays in Multimodal Journey Planning,Adi Botea,2017,1,AI Magazine
+10.1609/aimag.v29i4.2202,Preferences in Constraint Satisfaction and Optimization,Francesca Rossi and Kristen Brent Venable and Toby Walsh,2017,14,AI Magazine
+10.1609/aimag.v34i3.2514,AAAI Conferences Calendar,Managing Editor,2017,0,AI Magazine
+10.1609/aimag.v30i4.2244,Report on the 2nd International Conference on Artificial General Intelligence (AGI-09),Hugo De Garis and Ben Goertzel,2017,1,AI Magazine
+10.1609/aimag.v33i3.2429,Distributed Problem Solving,William Yeoh and Makoto Yokoo,2017,35,AI Magazine
+10.1609/aimag.v37i3.2671,The Answer Set Programming Paradigm,Tomi Janhunen and Ilkka Nimelä,2017,20,AI Magazine
+10.1609/aimag.v36i2.2584,Platys: From Position to Place-Oriented Mobile Computing,Laura Zavala and Pradeep K. Murukannaiah and Nithyananthan Poosamani and Tim Finin and Anupam Joshi and Injong Rhee and Munindar P. Singh,2017,5,AI Magazine
+10.1609/aimag.v34i4.2506,The Eighth International Workshop on Planning and Scheduling for Space (IWPSS),Robert Morris and Steve A. Chien,2017,0,AI Magazine
+10.1609/aimag.v37i3.2699,Passing the Torch,David B. Leake,2017,0,AI Magazine
+10.1609/aimag.v34i1.2467,AAAI Conferences Calendar,Managing Editor,2017,0,AI Magazine
+10.1609/aimag.v36i4.2617,What Do You Need to Know to Use a Search Engine? Why We Still Need to Teach Research Skills,Daniel M. Russell,2017,2,AI Magazine
+10.1609/aimag.v38i1.2739,Editorial: Expository AI Applications,Ashok Goel,2017,1,AI Magazine
+10.1609/aimag.v37i3.2679,First Order Logic with Inductive Definitions for Model-Based Problem Solving,Maurice Bruynooghe and Marc Denecker and Miroslaw Truszczynski,2017,4,AI Magazine
+10.1609/aimag.v38i2.2728,Artificial Intelligence Education: Editorial Introduction,Michael Wollowski and Todd Neller and James Boerkoel,2017,4,AI Magazine
+10.1609/aimag.v36i3.2623,AAAI News,Carol Hamilton,2017,0,AI Magazine
+10.1609/aimag.v30i4.2264,Mixed-Initiative Interface Personalization as a Case Study in Usable AI,Andrea Bunt and Cristina Conati and Joanna McGrenere,2017,8,AI Magazine
+10.1609/aimag.v35i3.2550,Reports of the 2014 AAAI Spring Symposium Series,Manish Jain and Albert Xin Jiang and Takashi Kiddo and Keiki Takadama and Eric G. Mercer and Neha Rungta and Mark Waser and Alan Wagner and Jennifer Burke and Don Sofge and William Lawless and Mohan Sridharan and Nick Hawes and Tim Hwang,2017,0,AI Magazine
+10.1609/aimag.v37i4.2689,Reports on the 2016 IJCAI Workshop Series,Biplav Srivastava and Gita Sukthankar,2017,0,AI Magazine
+10.1609/aimag.v36i3.2598,Introduction to the Special Issue on Innovative Applications of Artificial Intelligence 2014,David J. Stracuzzi and David Gunning,2017,0,AI Magazine
+10.1609/aimag.v34i1.2443,Reports on the Workshops Held at the Sixth International AAAI Conference on Weblogs and Social Media,Daniel Archambault and Ruben Bouwmeester and Cosmin Cabulea and Elizabeth M. Daly and Giusy Di Lorenzo and Maarten De Rijke and Martin Harrigan and Eser Kandogan and Michael Muller and Mor Naaman and Daniele Quercia and Damiano Spina and Markus Strohmaier and Arkaitz Zubiaga,2017,0,AI Magazine
+10.1609/aimag.v37i1.2640,Summary Report of The First International Competition on Computational Models of Argumentation,Matthias Thimm and Serena Villata and Federico Cerutti and Nir Oren and Hannes Strass and Mauro Vallati,2017,24,AI Magazine
+10.1609/aimag.v34i1.2436,Applying Automated Language Translation at a Global Enterprise Level,Nestor Rychtyckyj and Craig Plesco,2017,2,AI Magazine
+10.1609/aimag.v38i1.2712,Ontology Re-Engineering: A Case Study from the Automotive Industry,Nestor Rychtyckyj and Venkatesh Raman and Baskaran Sankaranarayanan and P. Sreenivasa Kuma and Deepak Khemani,2017,1,AI Magazine
+10.1609/aimag.v29i3.2156,The Age of Analog Networks,Claudio Mattiussi and Daniel Marbach and Peter Dürr and Dario Floreano,2017,13,AI Magazine
+10.1609/aimag.v31i2.2306,AAAI News,Carol M. Hamilton,2017,1,AI Magazine
+10.1609/aimag.v39i1.2779,The Taboo Challenge Competition,Michael Rovatsos and Dagmar Gromann and Gábor Bella,2018,3,AI Magazine
+10.1609/aimag.v42i2.15097,Day-Ahead Forecasting of Losses in the Distribution Network,Nisha Dalal and Martin Mølna and Mette Herrem and Magne Røen and Odd Erik Gundersen,2022,0,AI Magazine
+10.1002/aaai.12038,Infrastructure for rapid open knowledge network development,Michael Cafarella and Michael Anderson and Iz Beltagy and Arie Cattan and Sarah Chasins and Ido Dagan and Doug Downey and Oren Etzioni and Sergey Feldman and Tian Gao and Tom Hope and Kexin Huang and Sophie Johnson and Daniel King and Kyle Lo and Yuze Lou and Matthew Shapiro and Dinghao Shen and Shivashankar Subramanian and Lucy Lu Wang and Yuning Wang and Yitong Wang and Daniel S. Weld and Jenny Vo‐Phamhi and Anna Zeng and Jiayun Zou,2022,1,AI Magazine
+10.1002/aaai.12034,"Decoding human behavior with big data? Critical, constructive input from the decision sciences",Konstantinos V. Katsikopoulos and Marc C. Canellas,2022,1,AI Magazine
+10.1002/aaai.12054,The multisided complexity of fairness in recommender systems,Nasim Sonboli and Robin Burke and Michael Ekstrand and Rishabh Mehrotra,2022,2,AI Magazine
+10.1002/aaai.12030,The success of Conversational AI and the AI evaluation challenge it reveals,Ian Beaver,2022,0,AI Magazine
+10.1609/aimag.v43i1.19119,"Knowledge Graphs: Introduction, History and, Perspectives",Vinay Chaudhri and Chaitanya Baru and Naren Chittar and Xin Dong and Michael Genesereth and James Hendler and Aditya Kalyanpur and Douglas Lenat and Juan Sequeda and Denny Vrandečić and Kuansan Wang,2022,0,AI Magazine
+10.1609/aimag.v43i1.18601,The Success of Conversational AI and the AI Evaluation Challenge It Reveals,Ian Beaver,2022,0,AI Magazine
+10.1002/aaai.12071,Is AI at human parity yet? A case study on speech recognition,Ian Beaver,2022,0,AI Magazine
+10.1002/aaai.12068,Search and learning for unsupervised text generation,Lili Mou,2022,0,AI Magazine
+10.1609/aimag.v29i3.2158,The Information Ecology of Social Media and Online Communities,Tim Finin and Anupam Joshi and Pranam Kolari and Akshay Java and Anubhav Kale and Amit Karandikar,2017,21,AI Magazine
+10.1609/aimag.v29i3.2161,The Fractal Nature of the Semantic Web,Tim Berners-Lee and Lalana Kagal,2017,20,AI Magazine
+10.1609/aimag.v38i2.2715,WatsonPaths: Scenario-Based Question Answering and Inference over Unstructured Information,Adam Lally and Sugato Bagchi and Michael A. Barborak and David W. Buchanan and Jennifer Chu-Carroll and David A. Ferrucci and Michael R. Glass and Aditya Kalyanpur and Erik T. Mueller and J. William Murdock and Siddharth Patwardhan and John M. Prager,2017,22,AI Magazine
+10.1609/aimag.v30i3.2251,Can Computers Create Humor?,Graeme Ritchie,2017,12,AI Magazine
+10.1609/aimag.v37i3.2680,Reports of the 2016 AAAI Workshop Program,Stefano Albrecht and Bruno Bouchard and John S. Brownstein and David L. Buckeridge and Cornelia Caragea and Kevin M. Carter and Adnan Darwiche and Blaz Fortuna and Yannick Francillette and Sébastien Gaboury and C. Lee Giles and Marko Grobelnik and Estevam R. Hruschka and Jeffrey O. Kephart and Parisa Kordjamshidi and Viliam Lisy and Daniele Magazzeni and Joao Marques-Silva and Pierre Marquis and David Martinez and Martin Michalowski and Arash Shaban-Nejad and Zeinab Noorian and Enrico Pontelli and Alex Rogers and Stephanie Rosenthal and Dan Roth and Arunesh Sinha and William Streilein and Sylvie Thiebaux and Son Cao Tran and Byron C. Wallace and Toby Walsh and Michael Witbrock and Jie Zhang,2017,1,AI Magazine
+10.1609/aimag.v35i3.2562,AAAI Conferences Calendar,Managing Editor,2017,0,AI Magazine
+10.1609/aimag.v35i4.2557,ACTIVE-ating Artificial Intelligence: Integrating Active Learning in an Introductory Course,Marie DesJardins,2017,0,AI Magazine
+10.1609/aimag.v33i1.2415,AAAI Conferences Calendar,Managing Editor,2017,0,AI Magazine
+10.1609/aimag.v35i3.2563,AAAI News,Carol Hamilton,2017,0,AI Magazine
+10.1609/aimag.v38i2.2729,Ask Me Anything about MOOCs,Doug Fisher and Charles Isbell and Michael L. Littman and Michael Wollowski and Todd W. Neller and Jim Boerkoel,2017,1,AI Magazine
+10.1609/aimag.v34i3.2387,On-Line Reconfigurable Machines,Lara S. Crawford and Minh Binh Do and Wheeler S. Ruml and Haitham Hindi and Craig Eldershaw and Rong Zhou and Lukas Kuhn and Markus P. J. Fromherz and David Biegelsen and Johan De Kleer and Daniel Larner,2017,1,AI Magazine
+10.1609/aimag.v36i4.2616,Extending the Diagnostic Capabilities of Artificial Intelligence-Based Instructional Systems,Santosh Mathan and Nick Yeung,2017,1,AI Magazine
+10.1609/aimag.v33i4.2440,"David L Waltz, in Memoriam",Richard P. Gabriel and Tim Finin and Ron Sun,2017,0,AI Magazine
+10.1609/aimag.v36i4.2612,"Human-Centered Cognitive Orthoses: Artificial Intelligence for, Rather than Instead of, the People",Peter Neuhaus and Anil Raj and William J. Clancey,2017,1,AI Magazine
+10.1609/aimag.v36i4.2654,AI Conferences Calendar,Managing Editor,2017,0,AI Magazine
+10.1609/aimag.v36i1.2575,Reports of the AAAI 2014 Conference Workshops,Stefano V. Albrecht and André M. S. Barreto and Darius Braziunas and David L. Buckeridge and Heriberto Cuayáhuitl and Nina Dethlefs and Markus Endres and Amir-massoud Farahmand and Mark Fox and Lutz Frommberger and Sam Ganzfried and Yolanda Gil and Sébastien Guillet and Lawrence E. Hunter and Arnav Jhala and Kristian Kersting and George Konidaris and Freddy Lecue and Sheila McIlraith and Sriraam Natarajan and Zeinab Noorian and David Poole and Rémi Ronfard and Alessandro Saffiotti and Arash Shaban-Nejad and Biplav Srivastava and Gerald Tesauro and Rosario Uceda-Sosa and Guy Van den Broeck and Martijn Van Otterlo and Byron C. Wallace and Paul Weng and Jenna Wiens and Jie Zhang,2017,0,AI Magazine
+10.1609/aimag.v32i4.2384,Approaching the Symbol Grounding Problem with Probabilistic Graphical Models,Stefanie Tellex and Thomas Kollar and Steven Dickerson and Matthew R. Walter and Ashis Gopal Banerjee and Seth Teller and Nicholas Roy,2017,63,AI Magazine
+10.1609/aaai.12027,Will AI Write Scientific Papers in the Future?,Yolanda Gil,2023,0,AI Magazine
+10.1609/aaai.12024,On the Care and Feeding of Virtual Assistants: Automating Conversation Review with AI,Ian Beaver and Abdullah Mueen,2023,0,AI Magazine
+10.1609/aimag.v42i3.15109,Summary Report for the Third International Competition On Computational Models of Argumentation,Stefano Bistarelli and Lars Kotthoﬀ and Francesco Santini and Carlo Taticchi,2022,2,AI Magazine
+10.1609/aimag.v42i2.15099,Improving Search Engine Efficiency through Contextual Factor Selection,Anxiang Zeng and Han Yu and Qing Da and Yusen Zhan and Yang Yu and Jingren Zhou and Chunyan Miao,2022,0,AI Magazine
+10.1609/aaai.12021,Agents of Exploration and Discovery,Pat Langley,2023,0,AI Magazine
+10.1609/aimag.v42i4.7390,Avoiding Negative Side Effects Due to Incomplete Knowledge of AI Systems,Sandhya Saisubramanian and Shlomo Zilberstein and Ece Kamar,2022,0,AI Magazine
+10.1609/aimag.v33i4.2432,TRUSTS: Scheduling Randomized Patrols for Fare Inspection in Transit Systems Using Game Theory,Zhengyu Yin and Albert Xin Jiang and Milind Tambe and Christopher Kiekintveld and Kevin Leyton-Brown and Tuomas Sandholm and John P. Sullivan,2017,64,AI Magazine
+10.1609/aimag.v40i1.2842,No AI Is an Island: The Case for Teaming Intelligence,Matthew Johnson and Alonso Vera,2019,49,AI Magazine
+10.1002/aaai.12065,Neurocompositional computing: From the Central Paradox of Cognition to a new generation of AI systems,Paul Smolensky and Richard Thomas McCoy and Roland Fernandez and Matthew Goldrick and Jianfeng Gao,2022,5,AI Magazine
+10.1609/aimag.v32i1.2332,Transfer Learning through Analogy in Games,Thomas Hinrichs and Kenneth D. Forbus,2017,11,AI Magazine
+10.1609/aimag.v30i1.2114,Preference Handling - An Introductory Tutorial,Ronen Brafman and Carmel Domshlak,2017,57,AI Magazine
+10.1609/aimag.v39i4.2795,The Agile Robotics for Industrial Automation Competition,William Harrison and Anthony Downs and Craig Schlenoff,2018,3,AI Magazine
+10.1609/aimag.v34i1.2434,A Real-Time Decision Support System for High Cost Oil-Well Drilling Operations,Odd Erik Gundersen and Frode Sørmo and Agnar Aamodt and Pål Skalle,2017,18,AI Magazine
+10.1609/aimag.v34i2.2450,Seven Challenges in Parallel SAT Solving,Youssef Hamadi and Christoph Wintersteiger,2017,23,AI Magazine
+10.1609/aimag.v33i3.2419,Real-Time Strategy Game Competitions,Michael Buro and David Churchill,2017,25,AI Magazine
+10.1002/aaai.12076,An AI decision‐making framework for business value maximization,Naveen Gudigantala and Sreedhar Madhavaram and Pelin Bicen,2023,0,AI Magazine
+10.1609/aimag.v36i1.2564,Truth Is a Lie: Crowd Truth and the Seven Myths of Human Annotation,Lora Aroyo and Chris Welty,2017,63,AI Magazine
+10.1609/aimag.v35i3.2534,Sustainable Policy Making: A Strategic Challenge for Artificial Intelligence,Michela Milano and Barry O’Sullivan and Marco Gavanelli,2017,14,AI Magazine
+10.1609/aimag.v35i3.2529,Computational Sustainability and Artificial Intelligence in the Developing World,John Quinn and Vanessa Frias-Martinez and Lakshminarayan Subramanian,2017,16,AI Magazine
+10.1609/aimag.v40i2.2846,Hierarchical Classification Using Binary Data,Denali Molitor and Deanna Needell,2019,3,AI Magazine
+10.1609/aimag.v42i3.18146,Recommending News in Traditional Media Companies,Jon Gulla and Rolf Svendsen and Lemei Zhang and Agnes Stenbom and Jørgen Frøland,2022,2,AI Magazine
+10.1609/aimag.v35i4.2513,Power to the People: The Role of Humans in Interactive Machine Learning,Saleema Amershi and Maya Cakmak and William Bradley Knox and Todd Kulesza,2017,394,AI Magazine
+10.1609/aimag.v34i4.2487,Virtual Humans for Learning,William Swartout and Ron Artstein and Eric Forbell and Susan Foutz and H. Chad Lane and Belinda Lange and Jacquelyn Ford Morie and Albert Skip Rizzo and David Traum,2017,31,AI Magazine
+10.1609/aimag.v35i4.2554,Science Autonomy for Rover Subsurface Exploration of the Atacama Desert,David Wettergreen and Greydon Foil and Michael Furlong and David R. Thompson,2017,10,AI Magazine
+10.1609/aimag.v33i1.2322,Mapping the Landscape of Human-Level Artificial General Intelligence,Sam Adams and Itmar Arel and Joscha Bach and Robert Coop and Rod Furlan and Ben Goertzel and J. Storrs Hall and Alexei Samsonovich and Matthias Scheutz and Matthew Schlesinger and Stuart C. Shapiro and John Sowa,2017,70,AI Magazine
+10.1609/aimag.v38i2.2722,The ICON Challenge on Algorithm Selection,Lars Kotthoff and Barry Hurley and Barry O'Sullivan,2017,2,AI Magazine
+10.1609/aimag.v32i2.2347,NPCEditor: Creating Virtual Human Dialogue Using Information Retrieval Techniques,Anton Leuski and David Traum,2017,43,AI Magazine
+10.1609/aimag.v40i1.2852,Artificial Intelligence — An Enabler of Naval Tactical Decision Superiority,Bonnie Johnson and William A. Treadway,2019,2,AI Magazine
+10.1002/aaai.12036,The third AI summer: AAAI Robert S. Engelmore Memorial Lecture,Henry A. Kautz,2022,1,AI Magazine
+10.1002/aaai.12077,Toward AI assistants that let designers design,Sebastiaan De Peuter and Antti Oulasvirta and Samuel Kaski,2023,0,AI Magazine
+10.1609/aimag.v31i4.2314,AI’s War on Manipulation: Are We Winning?,Piotr Faliszewski and Ariel D. Procaccia,2017,50,AI Magazine
+10.1609/aimag.v32i4.2379,Turn-Taking Based on Information Flow for Fluent Human-Robot Interaction,Andrea L. Thomaz and Crystal Chao,2017,22,AI Magazine
+10.1609/aimag.v30i3.2254,Computer Models of Creativity,Margaret A. Boden,2017,136,AI Magazine
+10.1609/aimag.v41i4.5312,Escaping the McNamara Fallacy: Towards more Impactful Recommender Systems Research,Dietmar Jannach and Christine Bauer,2021,12,AI Magazine
+10.1609/aimag.v37i2.2624,Introduction to the Special Issue on Innovative Applications of Artificial Intelligence 2015,David Gunning and Peter Z. Yeh,2017,3,AI Magazine
+10.1609/aimag.v30i3.2250,Computational Approaches to Storytelling and Creativity,Pablo Gervas,2017,61,AI Magazine
+10.1609/aimag.v30i3.2252,Converging on the Divergent: The History (and Future) of the International Joint Workshops in Computational Creativity,Amílcar Cardoso and Tony Veale and Geraint A. Wiggins,2017,36,AI Magazine
+10.1002/aaai.12056,Explainability in music recommender systems,Darius Afchar and Alessandro B. Melchiorre and Markus Schedl and Romain Hennequin and Elena V. Epure and Manuel Moussallam,2022,5,AI Magazine
+10.1609/aimag.v29i4.2203,Elicitation of Factored Utilities,Darius Braziunas and Craig Boutilier,2017,14,AI Magazine
+10.1609/aimag.v38i3.2702,The Singularity May Never Be Near,Toby Walsh,2017,11,AI Magazine
+10.1609/aimag.v34i2.2475,The International General Game Playing Competition,Michael Genesereth and Yngvi Björnsson,2017,23,AI Magazine
+10.1609/aimag.v40i4.5289,A Year in K-12 AI Education,David Touretzky and Christina Gardner-McCune and Cynthia Breazeal and Fred Martin and Deborah Seehorn,2020,24,AI Magazine
+10.1609/aimag.v41i3.5307,Scaling Up Data-Driven Pilot Projects,Mikael Berndtsson and AnnMarie Ericsson and Thomas Svahn,2020,1,AI Magazine
+10.1609/aimag.v40i2.2888,Report on the Second International Joint Conference on Rules and Reasoning,Christoph Benzmüller and Xavier Parent and Francesco Ricca,2019,0,AI Magazine
+10.1609/aimag.v40i2.2913,AAAI Conferences Calendar,Managing Editor,2019,0,AI Magazine
+10.1609/aimag.v40i4.5186,Reflections on Successful Research in Artificial Intelligence: An Interview with Yolanda Gil,Yolanda Gil and Biplav Srivastava and Ching-Hua Chen and Oshani Seneviratne,2020,0,AI Magazine
+10.1609/aimag.v40i4.5188,Reflections on Successful Research in Artificial Intelligence: An Introduction,Ching-Hua Chen and James Hendler and Sabbir Rashid and Oshani Seneviratne and Daby Sow and Biplav Srivastava,2020,0,AI Magazine
+10.1609/aimag.v39i2.2782,Low-Power Image Recognition Challenge,Yung-Hsiang Lu and Alexander C. Berg and Yiran Chen,2018,3,AI Magazine
+10.1609/aimag.v40i3.4981,Reports of the Workshops Held at the 2019 AAAI Conference on Artificial Intelligence,Guy Barash and Mauricio Castillo-Effen and Niyati Chhaya and Peter Clark and Huáscar Espinoza and Eitan Farchi and Christopher Geib and Odd Erik Gundersen and Seán HÉigeartaigh and José Hernández-Orallo and Chiori Hori and Xiaowei Huang and Kokil Jaidka and Pavan Kapanipathi and Sarah Keren and Seokhwan Kim and Marc Lanctot and Danny Lange and Julian McAuley and David Martinez and Marwan Mattar and n.m. Mausam and Martin Michalowski and Reuth Mirsky and Roozbeh Mottaghi and Joseph Osborn and Julien Perolat and Martin Schmid and Arash Shaban-Nejad and Onn Shehory and Biplav Srivastava and William Streilein and Kartik Talamadupula and Julian Togelius and Koichiro Yoshino and Quanshi Zhang and Imed Zitouni,2019,0,AI Magazine
+10.1609/aimag.v40i1.2854,Moral Orthoses: A New Approach to Human and Machine Ethics,Yorick Wilks,2019,0,AI Magazine
+10.1609/aimag.v40i1.2855,Nicolas de Condorcet and the First Intelligence Explosion Hypothesis,Mahendra Prasad,2019,0,AI Magazine
+10.1609/aimag.v41i4.5296,Artificial Intelligence for Social Impact: Learning and Planning in the Data-to-Deployment Pipeline,Andrew Perrault and Fei Fang and Arunesh Sinha and Milind Tambe,2021,2,AI Magazine
+10.1609/aimag.v42i3.15092,Engagement during Pandemic Teaching: Report of The Eaai-21 Panel on Teaching Online and Blended AI Courses,Michael Wollowski,2022,0,AI Magazine
+10.1002/aaai.12040,Intelligent links: AI‐supported connections between employers and colleges,Robby Robson and Elaine Kelsey and Ashok Goel and Sazzad M. Nasir and Elliot Robson and Myk Garn and Matt Lisle and Jeanne Kitchens and Spencer Rugaber and Fritz Ray,2022,0,AI Magazine
+10.1609/aimag.v40i4.5187,Reflections on the Ingredients for Success in AI Research: An Interview with Arvind Gupta,Arvind Gupta and Biplav Srivastava and Daby Sow and Ching-Hua Chen and Oshani Seneviratne,2020,0,AI Magazine
+10.1002/aaai.12051,Offline recommender system evaluation: Challenges and new directions,Pablo Castells and Alistair Moffat,2022,3,AI Magazine
+10.1609/aimag.v43i1.19120,"Know, Know Where, Knowwheregraph: A Densely Connected, Cross-Domain Knowledge Graph and Geo-Enrichment Service Stack for Applications in Environmental Intelligence",Krzysztof Janowicz and Pascal Hitzler and Wenwen Li and Dean Rehberger and Mark Schildhauer and Rui Zhu and Cogan Shimizu and Colby Fisher and Ling Cai and Gengchen Mai and Joseph Zalewski and Lu Zhou and Shirly Stephen and Seila Gonzalez and Bryce Mecum and Anna Carr and Andrew Schroeder and Dave Smith and Dawn Wright and Sizhe Wang and Yuanyuan Tian and Zilong Liu and Meilin Shi and Anthony D’Onofrio and Zhining Gu and Kitty Currier,2022,1,AI Magazine
+10.1002/aaai.12059,Conversational recommendation: A grand AI challenge,Dietmar Jannach and Li Chen,2022,1,AI Magazine
+10.1002/aaai.12052,"Looking back, looking ahead: Humans, ethics, and AI",Ashok K. Goel,2022,0,AI Magazine
+10.1002/aaai.12061,The return of intelligent textbooks,Peter Brusilovsky and Sergey Sosnovsky and Khushboo Thaker,2022,0,AI Magazine
+10.1002/aaai.12074,The New Faculty Highlights Program at AAAI‐21,Kevin Leyton‐Brown and n.m. Mausam and Qiang Yang,2022,0,AI Magazine
+10.1002/aaai.12063,Transformative research focus considered harmful,Michael Cooper and John Licato,2022,0,AI Magazine
+10.1002/aaai.v43.4,n.m.,,2022,0,AI Magazine
+10.1002/aaai.12064,Advanced artificial agents intervene in the provision of reward,Michael K. Cohen and Marcus Hutter and Michael A. Osborne,2022,0,AI Magazine
+10.1609/aimag.v30i2.2232,An AI Framework to Teach English as a Foreign Language: CSIEC,Jiyou Jia,2017,12,AI Magazine
+10.1609/aimag.v38i3.2749,Artificial Intelligence Research in Singapore: Assisting the Development of a Smart Nation,Pradeep Varakantham and Bo An and Bryan Low and Jie Zhang,2017,8,AI Magazine
+10.1609/aimag.v41i2.5295,Knowledge Representation and Reasoning — A History of DARPA Leadership,Richard Fikes and Tom Garvey,2020,0,AI Magazine
+10.1609/aimag.v41i2.5316,"Two Workshops, a Report, and a 100-Year Study of AI and Society",Lara Streiff,2020,0,AI Magazine
+10.1609/aimag.v41i2.5317,Adaptive Learning Technologies,Nicola Capuano and Santi Caballé,2020,5,AI Magazine
+10.1609/aimag.v39i4.2857,AAAI News,Managing Editor and Carol M. Hamilton,2018,0,AI Magazine
+10.1609/aimag.v41i1.5189,Sketch Worksheets in STEM Classrooms: Two Deployments,Kenneth Forbus and Bridget Garnier and Basil Tikoff and Wayne Marko and Madeline Usher and Matthew McLure,2020,0,AI Magazine
+10.1609/aimag.v40i3.5198,AAAI News,Managing Editor and Carol Hamilton,2019,0,AI Magazine
+10.1609/aimag.v41i1.5256,Ascend by Evolv: AI-Based Massively Multivariate Conversion Rate Optimization,Risto Miikulainen and Myles Brundage and Jonathan Epstein and Tyler Foster and Babak Hodjat and Neil Iscoe and Jingbo Jiang and Diego Legrand and Sam Nazari and Xin Qiu and Michael Scharff and Cory Schoolland and Robert Severn and Aaron Shagrin,2020,2,AI Magazine
+10.1609/aimag.v35i1.2499,AI Challenge Problem: Scalable Models for Patterns of Life,J. T. Folsom-Kovarik and Sae Schatz and Randolph M. Jones and Kathleen Bartlett and Robert E. Wray,2017,3,AI Magazine
+10.1609/aimag.v33i2.2413,Innovative Applications of Artificial Intelligence 2011: Introduction to the Special Issue,Daniel G. Shapiro and Markus Fromherz,2017,0,AI Magazine
+10.1609/aimag.v36i3.2608,Reports on the 2015 AAAI Spring Symposium Series,Nitin Agarwal and Sean Andrist and Dan Bohus and Fei Fang and Laurie Fenstermacher and Lalana Kagal and Takashi Kido and Christopher Kiekintveld and W. F. Lawless and Huan Liu and Andrew McCallum and Hemant Purohit and Oshani Seneviratne and Keiki Takadama and Gavin Taylor,2017,0,AI Magazine
+10.1609/aimag.v30i3.2276,AAAI News,Carol M. Hamilton,2017,0,AI Magazine
+10.1609/aimag.v29i3.2160,Networks and Natural Language Processing,Dragomir R. Radev and Rada Mihalcea,2017,9,AI Magazine
+10.1609/aimag.v37i4.2700,Turn-Taking and Coordination in Human-Machine Interaction,Sean Andrist and Dan Bohus and Bilge Mutlu and David Schlangen,2017,3,AI Magazine
+10.1609/aimag.v37i1.2637,How to Write Science Questions that Are Easy for People and Hard for Computers,Ernest Davis,2017,4,AI Magazine
+10.1609/aimag.v31i3.2299,Harnessing Cyc to Answer Clinical Researchers' Ad Hoc Queries,Douglas Lenat and Michael Witbrock and David Baxter and Eugene Blackstone and Chris Deaton and Dave Schneider and Jerry Scott and Blake Shepard,2017,10,AI Magazine
+10.1609/aimag.v31i1.2296,AAAI News,Carol M. Hamilton,2017,0,AI Magazine
+10.1609/aimag.v34i3.2491,On-Line Reconfigurable Machines,Lara S. Crawford,2017,0,AI Magazine
+10.1609/aimag.v31i2.2227,Report on the 2008 Reinforcement Learning Competition,Shimon Whiteson and Brian Tanner and Adam White,2017,20,AI Magazine
+10.1609/aimag.v36i4.2615,Cognitive Prosthetics for Fostering Learning: A View from the Learning Sciences,Janet L. Kolodner,2017,0,AI Magazine
+10.1609/aimag.v1i1.87,Research in Progress at the Massachusetts Institute of Technology Artificial Intelligence Laboratory,Berthold K. P. Horn and David Marr and John Hollerbach and Gerald J. Sussman and Patrick H. Winston and Randall Davis and Marvin L. Minsky,2017,0,AI Magazine
+10.1609/aimag.v29i3.2159,Solving Multiagent Networks using Distributed Constraint Optimization,Jonathan P. Pearce and Milind Tambe and Rajiv Maheswaran,2017,10,AI Magazine
+10.1609/aimag.v30i1.2215,The 2008 Scheduling and Planning Applications Workshop (SPARK'08),Luis Castillo and Gabriella Cortellessa and Neil Yorke-Smith,2017,0,AI Magazine
+10.1609/aimag.v29i4.2229,AAAI News,Carol M. Hamilton,2017,0,AI Magazine
+10.1609/aimag.v33i1.2398,The AAAI 2011 Robot Exhibition,Sonia Chernova and Zachary Dodds and Mike Stilman and Dave Touretzky and Andrea L. Thomaz,2017,1,AI Magazine
+10.1609/aimag.v35i2.2536,Workshops Held at the Ninth Annual AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment (AIIDE): A Report,Antonios Liapis and Michael Cook and Adam M. Smith and Gillian Smith and Alexander Zook and Mei Si and Marc Cavazza and Philippe Pasquier,2017,0,AI Magazine
+10.1609/aimag.v36i1.2589,AAAI Conferences Calendar,Managing Editor,2017,0,AI Magazine
+10.1609/aimag.v32i3.2370,Reports of the AAAI 2011 Spring Symposia,Mark Buller and Paul Cuddihy and Ernest Davis and Patrick Doherty and Finale Doshi-Velez and Esra Erdem and Douglas Fisher and Nancy Green and Knut Hinkelmann and Mary Lou Maher and James McLurkin and Rajiv Maheswaran and Sara Rubinelli and Nathan Schurr and Donia Scott and Dylan Shell and Pedro Szekely and Barbara Thönssen and Arnold B. Urken,2017,0,AI Magazine
+10.1609/aimag.v32i2.2371,AAAI News,Carol Hamilton,2017,0,AI Magazine
+10.1609/aimag.v33i3.2428,Reports of the AAAI 2012 Spring Symposia,Harith Alani and Bo An and Manish Jain and Takashi Kido and George Konidaris and William Lawless and David Martin and Caroline Pantofaru and Donald Sofge and Keiki Takadama and Milind Tambe and Tomas Vitvar,2017,0,AI Magazine
+10.1609/aimag.v36i2.2596,AAAI Conferences Calendar,Managing Editor,2017,0,AI Magazine
+10.1609/aimag.v30i4.2290,AAAI News,Carol M. Hamilton,2017,0,AI Magazine
+10.1609/aimag.v36i3.2599,A Deployed People-to-People Recommender System in Online Dating,Wayne Wobcke and Alfred Krzywicki and Yang Sok Kim and Xiongcai Cai and Michael Bain and Paul Compton and Ashesh Mahidadia,2017,5,AI Magazine
+10.1609/aimag.v31i1.2289,Reports of the AAAI 2009 Fall Symposia,Roger Azevedo and Trevor Bench-Capon and Gautam Biswas and Ted Carmichael and Nancy Green and Mirsad Hadzikadic and Oluwasanmi Koyejo and Unmesh Kurup and Simon Parsons and Roberto Pirrone and Henry Prakken and Alexei Samsonovich and Donia Scott and Richard Souvenir,2017,0,AI Magazine
+10.1609/aimag.v30i1.2218,The AAAI 2008 Robotics and Creativity Workshop,Youngmoo E Kim and Paul Oh and Odest Chadwicke Jenkins,2017,0,AI Magazine
+10.1609/aimag.v32i2.2335,Transfer Learning by Reusing Structured Knowledge,Qiang Yang and Vincent W. Zheng and Bin Li and Hankz Hankui Zhuo,2017,4,AI Magazine
+10.1609/aimag.v31i2.2292,"SARA 2009: The Eighth Symposium on Abstraction, Reformulation and Approximation",Vadim Bulitko and J. Christopher Beck,2017,0,AI Magazine
+10.1609/aimag.v30i1.2211,Report on the Fourth International Conference on Knowledge Capture (K-CAP 2007),Derek Sleeman and Ken Barker and David Corsar,2017,1,AI Magazine
+10.1609/aimag.v41i3.5319,Large Scale Personalized Categorization of Financial Transactions,Christopher Lesner and Alexander Ran and Marko Rukonic and Wei Wang,2020,0,AI Magazine
+10.1609/aimag.v41i3.5318,The Reproducibility Crisis Is Real,Odd Erik Gundersen,2020,1,AI Magazine
+10.1609/aimag.v40i2.2885,"Deep Models, Machine Learning, and Artificial Intelligence Applications in National and International Security",Ying Zhao and Arjuna Flenner,2019,0,AI Magazine
+10.1609/aimag.v40i2.2914,AAAI News,Carol Hamilton,2019,0,AI Magazine
+10.1609/aimag.v37i2.2657,StarCraft AI Competition Report,Sehar Shahzad Farooq and In-Suk Oh and Man-Jae Kim and Kyung Joong Kim,2017,7,AI Magazine
+10.1609/aimag.v38i4.2768,Report on the 24th International Conference on Case-Based Reasoning Research and Development (ICCBR-2016),Belen Diaz-Agudo and Ashok K. Goel,2017,2,AI Magazine
+10.1609/aimag.v39i2.2801,AI in Greece: The Case of Research on Linked Geospa al Data,Manolis Koubarakis and George Vouros and Georgios Chalkiadakis and Vassilis Plagianakos and Christos Tjortjis and Ergina Kavallieratou and Dimitris Vrakas and Nikolaos Mavridis and Georgios Petasis and Konstantinos Blekas and Anastasia Krithara,2018,1,AI Magazine
+10.1609/aimag.v39i1.2784,Report on the Eighth International Conference on Computational Creativity,Alison Pease and Anna Jordanous,2018,0,AI Magazine
+10.1609/aimag.v39i2.2803,Creation of the National Artificial Intelligence Research and Development Strategic Plan,Lynne E. Parker,2018,15,AI Magazine
+10.1609/aimag.v38i4.2791,AAAI News,Carol Hamilton,2017,0,AI Magazine
+10.1609/aimag.v39i4.2837,The AI Bookie,Kurt Bollacker and Praveen Paritosh and Chris Welty,2018,0,AI Magazine
+10.1609/aimag.v39i2.2819,AAAI Conferences Calendar,Managing Editor,2018,0,AI Magazine
+10.1609/aimag.v39i4.2838,Hybrid Reasoning for Intelligent Systems: A Focus of KR Research in Germany,Gerhard Brewka and Gerhard Lakemeyer,2018,1,AI Magazine
+10.1609/aimag.v37i4.2686,Real-Time Coordination in Human-Robot Interaction Using Face and Voice,Gabriel Skantze,2017,5,AI Magazine
+10.1609/aimag.v36i1.2569,Entity Type Recognition for Heterogeneous Semantic Graphs,Jennifer Sleeman and Tim Finin and Anupam Joshi,2017,4,AI Magazine
+10.1609/aimag.v37i4.2696,Rethinking AI Magazine,Ashok K. Goel,2017,0,AI Magazine
+10.1609/aimag.v37i1.2648,Software Social Organisms: Implications for Measuring AI Progress,Kenneth D. Forbus,2017,6,AI Magazine
+10.1609/aimag.v30i4.2263,Mediating between AI and highly specialized users,Daniela Petrelli and Aba-Sah Dadzie and Vitaveska Lanfranchi,2017,3,AI Magazine
+10.1609/aimag.v35i4.2556,Multirobot Coordination for Space Exploration,Logan Yliniemi and Adrian K. Agogino and Kagan Tumer,2017,16,AI Magazine
+10.1609/aimag.v37i3.2697,AAAI News,Carol Hamilton,2017,1,AI Magazine
+10.1609/aimag.v33i1.2416,AAAI News,Carol M. Hamilton,2017,0,AI Magazine
+10.1609/aimag.v34i4.2519,AAAI Conferences Calendar,Managing Editor,2017,0,AI Magazine
+10.1609/aimag.v37i1.2646,"Principles for Designing an AI Competition, or Why the Turing Test Fails as an Inducement Prize",Stuart M. Shieber,2017,3,AI Magazine
+10.1609/aimag.v37i1.2634,A Report on the Ninth International Web Rule Symposium,Adrian Paschke,2017,0,AI Magazine
+10.1609/aimag.v37i1.2641,Turing++ Questions: A Test for the Science of (Human) Intelligence,Tomaso Poggio and Ethan Meyers,2017,1,AI Magazine
+10.1609/aimag.v31i1.2237,Robotics: Science and Systems,Jeff Trinkle and Yoky Matsuoka,2017,2,AI Magazine
+10.1609/aimag.v36i1.2565,Exploiting Semantics for Big Data Integration,Craig A. Knoblock and Pedro Szekely,2017,45,AI Magazine
+10.1609/aimag.v38i2.2740,Editorial: AI Education for the World,Ashok Goel,2017,6,AI Magazine
+10.1609/aimag.v36i3.2603,Advice Provision for Energy Saving in Automobile Climate-Control System,Amos Azaria and Ariel Rosenfeld and Sarit Kraus and Claudia V. Goldman and Omer Tsimhoni,2017,3,AI Magazine
+10.1609/aimag.v31i1.2280,Exceptional Data Quality using Intelligent Matching and Retrieval,Clint R. Bidlack and Michael P Wellman,2017,1,AI Magazine
+10.1609/aimag.v32i4.2380,Crowdsourcing Real World Human-Robot Dialog and Teamwork through Online Multiplayer Games,Sonia Chernova and Nick DePalma and Cynthia Breazeal,2017,12,AI Magazine
+10.1609/aimag.v33i1.2356,A Perspective on AI Research in India,Deepak Khemani,2017,2,AI Magazine
+10.1609/aimag.v30i1.2765,"Robots and Avatars as Hosts, Advisors, Companions, and Jesters",Charles Rich and Candace L. Sidner,2017,16,AI Magazine
+10.1609/aimag.v30i1.2174,"Agents, Bodies, Constraints, Dynamics, and Evolution",Alan K. Mackworth,2017,1,AI Magazine
+10.1609/aimag.v37i2.2630,"Graph Analysis for Detecting Fraud, Waste, and Abuse in Healthcare Data",Juan Liu and Eric Bier and Aaron Wilson and John Alexis Guerra-Gomez and Tomonori Honda and Kumar Sricharan and Leilani Gilpin and Daniel Davies,2017,31,AI Magazine
+10.1609/aimag.v36i4.2618,Cognition as a Service: An Industry Perspective,Jim Spohrer and Guruduth Banavar,2017,32,AI Magazine
+10.1609/aimag.v37i2.2626,Helping Novices Avoid the Hazards of Data: Leveraging Ontologies to Improve Model Generalization Automatically with Online Data Sources,Sasin Janpuangtong and Dylan A. Shell,2017,1,AI Magazine
+10.1609/aimag.v37i4.2694,Four Decades of AI in Portugal,Rodrigo Ventura,2017,0,AI Magazine
+10.1609/aimag.v38i1.2713,Automated Volumetric Intravascular Plaque Classification Using Optical Coherence Tomography,Ronny Shalev and Daisuke Nakamura and Setsu Nishino and Andrew Rollins and Hiram Bezerra and David Wilson and Soumya Ray,2017,5,AI Magazine
+10.1609/aimag.v32i2.2351,Recap of the 2010 AI and Interactive Digital Entertainment Conference,G. Michael Youngblood and Vadim Bulitko and Ben Weber,2017,0,AI Magazine
+10.1609/aimag.v33i3.2427,Logics for Multiagent Systems,Wiebe Van der Hoek and Michael Wooldridge,2017,4,AI Magazine
+10.1609/aimag.v33i4.2433,Towards Adapting Cars to their Drivers,Avi Rosenfeld and Zevi Bareket and Claudia V. Goldman and Sarit Kraus and David J. LeBlanc and Omer Tsimhoni,2017,3,AI Magazine
+10.1609/aimag.v34i1.2466,AAAI News,Carol M. Hamilton,2017,0,AI Magazine
+10.1609/aimag.v32i3.2373,Recommendation in the Social Web,Robin Burke and Jonathan Gemmell and Andreas Hotho and Robert Jäschke,2017,1,AI Magazine
+10.1609/aimag.v37i3.2658,The International Competition of Distributed and Multiagent Planners (CoDMAP),Antonín Komenda and Michal Stolba and Daniel L. Kovacs,2017,10,AI Magazine
+10.1609/aimag.v37i1.2639,"Planning, Executing, and Evaluating the Winograd Schema Challenge",Leora Morgenstern and Ernest Davis and Charles L. Ortiz,2017,12,AI Magazine
+10.1609/aimag.v35i2.2535,The Ninth Annual AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment (AIIDE): A Report,Gita Sukthankar and Ian Horswill,2017,0,AI Magazine
+10.1609/aimag.v32i2.2348,AI-Based Software Defect Predictors: Applications and Benefits in a Case Study,Ayse Tosun Misirli and Ayse Bener and Resat Kale,2017,21,AI Magazine
+10.1609/aimag.v35i4.2573,AAAI Conferences Calendar,Managing Editor,2017,0,AI Magazine
+10.1609/aimag.v30i4.2269,Five Challenges for Intelligent Text Entry Methods,Per Ola Kristensson,2017,35,AI Magazine
+10.1609/aimag.v32i2.2345,Cancer: A Computational Disease that AI Can Cure,Jay M. Tenenbaum and Jeff Shrager,2017,10,AI Magazine
+10.1609/aimag.v37i3.2675,"Systems, Engineering Environments, and Competitions",Yuliya Lierler and Marco Maratea and Francesco Ricca,2017,17,AI Magazine
+10.1609/aimag.v30i4.2268,Design Space and Evaluation Challenges of Adaptive Graphical User Interfaces,Leah Findlater and Krzysztof Z. Gajos,2017,34,AI Magazine
+10.1609/aimag.v37i2.2631,Capturing Planned Protests from Open Source Indicators,Sathappan Muthiah and Bert Huang and Jaime Arredondo and David Mares and Lise Getoor and Graham Katz and Naren Ramakrishnan,2017,2,AI Magazine
+10.1609/aimag.v37i3.2665,Automated Process Planning for CNC Machining,Christian Fritz,2017,5,AI Magazine
+10.1609/aimag.v38i3.2704,Towards Artificial Argumentation,Katie Atkinson and Pietro Baroni and Massimiliano Giacomin and Anthony Hunter and Henry Prakken and Chris Reed and Guillermo Simari and Matthias Thimm and Serena Villata,2017,60,AI Magazine
+10.1609/aimag.v43i1.19122,The Third AI Summer: AAAI Robert S. Engelmore Memorial Lecture,Henry Kautz,2022,2,AI Magazine
+10.1609/aimag.v40i2.2850,DARPA’s Explainable Artificial Intelligence (XAI) Program,David Gunning and David Aha,2019,290,AI Magazine
+10.1609/aimag.v29i3.2157,Collective Classification in Network Data,Prithviraj Sen and Galileo Namata and Mustafa Bilgic and Lise Getoor and Brian Galligher and Tina Eliassi-Rad,2017,1006,AI Magazine
+10.1609/aimag.v38i3.2741,European Union Regulations on Algorithmic Decision-Making and a “Right to Explanation”,Bryce Goodman and Seth Flaxman,2017,578,AI Magazine
+10.1609/aimag.v42i4.15090,Do We Need a Hippocratic Oath for Artificial Intelligence Scientists?,Nikolaos Siafakas,2022,1,AI Magazine
+10.1609/aimag.v42i4.15102,Feedback-Based Self-Learning in Large-Scale Conversational AI Agents,Pragaash Ponnusamy and Alireza Ghias and Yi Yi and Benjamin Yao and Chenlei Guo and Ruhi Sarikaya,2022,1,AI Magazine
+10.1609/aimag.v42i4.18149,Will AI Write Scientific Papers in the Future?,Yolanda Gil,2022,0,AI Magazine
+10.1609/aimag.v35i2.2539,The MiniZinc Challenge 2008–2013,Peter J. Stuckey and Thibaut Feydy and Andreas Schutt and Guido Tack and Julien Fischer,2017,45,AI Magazine
+10.1609/aimag.v41i4.5304,From ‘F’ to ‘A’ on the N.Y. Regents Science Exams: An Overview of the Aristo Project,Peter Clark and Oren Etzioni and Tushar Khot and Daniel Khashabi and Bhavana Mishra and Kyle Richardson and Ashish Sabharwal and Carissa Schoenick and Carissa Schoenick and Oyvind Tafjord and Niket Tandon and Sumithra Bhakthavatsalam and Dirk Groeneveld and Michal Guerquin and Michael Schmitz,2021,8,AI Magazine
+10.1609/aimag.v40i3.2865,Integrating Context into Artificial Intelligence: Research from the Robotics Collaborative Technology Alliance,Kristin E. Schaefer and Jean Oh and Derya Aksaray and Daniel Barber,2019,9,AI Magazine
+10.1609/aimag.v31i3.2302,Project Halo Update—Progress Toward Digital Aristotle,David Gunning and Vinay K. Chaudhri and Peter E. Clark and Ken Barker and Shaw-Yi Chaw and Mark Greaves and Benjamin Grosof and Alice Leung and David D. McDonald and Sunil Mishra and John Pacheco and Bruce Porter and Aaron Spaulding and Dan Tecuci and Jing Tien,2017,20,AI Magazine
+10.1002/aaai.12042,Enabling AI innovation via data and model sharing: An overview of the NSF Convergence Accelerator Track D,Chaitanya Baru and Michael Pozmantier and Ilkay Altintas and Stephen Baek and Jonathan Cohen and Laura Condon and Giulia Fanti and Raul Castro Fernandez and Ethan Jackson and Upmanu Lall and Bennett Landman and Hai Helen Li and Claudia Marin and Beatriz Martinez Lopez and Dimitris Metaxas and Bradley Olsen and Grier Page and Jingbo Shang and Yelda Turkan and Peng Zhang,2022,1,AI Magazine
+10.1609/aimag.v29i4.2200,User-Involved Preference Elicitation for Product Search and Recommender Systems,Pearl Pu and Li Chen,2017,39,AI Magazine
+10.1609/aimag.v31i1.2284,Lessons Learned from Virtual Humans,William Swartout,2017,16,AI Magazine
+10.1609/aimag.v33i4.2444,Reports of the AAAI 2012 Conference Workshops,Vikas Agrawal and Jorge Baier and Kostas Bekris and Yiling Chen and Artur S. D'Avila Garcez and Pascal Hitzler and Patrik Haslum and Dietmar Jannach and Edith Law and Freddy Lecue and Luis C. Lamb and Cynthia Matuszek and Hector Palacios and Biplav Srivastava and Lokendra Shastri and Nathan Sturtevant and Roni Stern and Stefanie Tellex and Stavros Vassos,2017,1,AI Magazine
+10.1609/aimag.v31i2.2287,Pushing the Limits of Rational Agents: The Trading Agent Competition for Supply Chain Management,John Collins and Wolfgang Ketter and Norman Sadeh,2017,24,AI Magazine
+10.1609/aimag.v30i4.2266,"User Interface Goals, AI Opportunities",Henry Lieberman,2017,16,AI Magazine
+10.1609/aimag.v36i4.2614,Control Strategies and Artificial Intelligence in Rehabilitation Robotics,Domen Novak and Robert Riener,2017,15,AI Magazine
+10.1609/aimag.v35i1.2500,An Antimicrobial Prescription Surveillance System that Learns from Experience,Mathieu Beaudoin and Froduald Kabanza and Vincent Nault and Louis Valiquette,2017,7,AI Magazine
+10.1609/aimag.v37i1.2647,Measuring Machine Intelligence Through Visual Question Answering,C. Lawrence Zitnick and Aishwarya Agrawal and Stanislaw Antol and Margaret Mitchell and Dhruv Batra and Devi Parikh,2017,13,AI Magazine
+10.1609/aimag.v32i3.2364,Context-Aware Recommender Systems,Gediminas Adomavicius and Bamshad Mobasher and Francesco Ricci and Alexander Tuzhilin,2017,211,AI Magazine
+10.1609/aimag.v1i1.86,Utterance and Objective: Issues in Natural Language Communication,Barbara J. Grosz,2017,5,AI Magazine
+10.1609/aimag.v31i4.2313,Designing Markets for Prediction,Yiling Chen and David M. Pennock,2017,30,AI Magazine
+10.1609/aimag.v35i2.2533,Crowdsourcing Meets Ecology: Hemisphere-Wide Spatiotemporal Species Distribution Models,Daniel Fink and Theodoros Damoulas and Nicholas E. Bruns and Frank A. La Sorte and Wesley M. Hochachka and Carla P. Gomes and Steve Kelling,2017,35,AI Magazine
+10.1609/aimag.v31i3.2303,Building Watson: An Overview of the DeepQA Project,David Ferrucci and Eric Brown and Jennifer Chu-Carroll and James Fan and David Gondek and Aditya A. Kalyanpur and Adam Lally and J. William Murdock and Eric Nyberg and John Prager and Nico Schlaefer and Chris Welty,2017,604,AI Magazine
+10.1609/aimag.v38i4.2744,"A Standard Model of the Mind: Toward a Common Computational Framework across Artificial Intelligence, Cognitive Science, Neuroscience, and Robotics",John E. Laird and Christian Lebiere and Paul S. Rosenbloom,2017,128,AI Magazine
+10.1002/aaai.12031,Editorial introduction,Vinay K. Chaudhri and Chaitanya Baru,2022,0,AI Magazine
+10.1609/aimag.v42i3.18141,Recommendations as Treatments,Thorsten Joachims and Ben London and Yi Su and Adith Swaminathan and Lequn Wang,2022,1,AI Magazine
+10.1002/aaai.v43.1,n.m.,,2022,0,AI Magazine
+10.1002/aaai.12058,Designing for human–AI complementarity in K‐12 education,Kenneth Holstein and Vincent Aleven,2022,1,AI Magazine
+10.1609/aimag.v42i2.15093,Editorial Introduction,Ruchir Puri and Neil Yorke-Smith,2022,0,AI Magazine
+10.1609/aimag.v43i1.19128,Intelligent Links: AI-Supported Connections between Employers and Colleges,Robby Robson and Elaine Kelsey and Ashok Goel and Sazzad Nasir and Elliot Robson and Myk Garn and Matt Lisle and Jeanne Kitchens and Spencer Rugaber and Fritz Ray,2022,0,AI Magazine
+10.1609/aimag.v40i4.4811,Identifying Critical Contextual Design Cues Through a Machine Learning Approach,Mary Cummings and Alexander Stimpson,2020,1,AI Magazine
+10.1609/aimag.v34i3.2483,"Student Modeling: Supporting Personalized Instruction, from Problem Solving to Exploratory Open Ended Activities",Cristina Conati and Samad Kardan,2017,18,AI Magazine
+10.1609/aimag.v33i1.2357,A Brief Overview of Artiﬁcial Intelligence in South Africa,Alexander Ferrein and Thomas Meyer,2017,5,AI Magazine
+10.1609/aimag.v36i4.2653,AAAI News,Carol Hamilton,2017,0,AI Magazine
+10.1609/aimag.v1i1.83,Welcome to AI Magazine,Alan M. Thompson,2017,0,AI Magazine
+10.1609/aimag.v37i3.2677,Remembering Marvin Minsky,Kenneth D. Forbus and Benjamin Kuipers and Henry Lieberman,2017,2,AI Magazine
+10.1609/aimag.v38i2.2721,Reflections on the First Man versus Machine No-Limit Texas Hold ‘em Competition,Sam Ganzfried,2017,1,AI Magazine
+10.1609/aimag.v31i4.2316,Dynamic Incentive Mechanisms,David C. Parkes and Ruggiero Cavallo and Florin Constantin and Satinder Singh,2017,6,AI Magazine
+10.1609/aimag.v36i4.2621,Letter to the Editor: Research Priorities for Robust and Beneficial Artificial Intelligence: An Open Letter,Stuart Russell and Tom Dietterich and Eric Horvitz and Bart Selman and Francesca Rossi and Demis Hassabis and Shane Legg and Mustafa Suleyman and Dileep George and Scott Phoenix,2017,11,AI Magazine
+10.1609/aimag.v38i2.2813,Reports of the AAAI 2017 Fall Symposium Series,Arjuna Flenner and Marlena R. Fraune and Laura M. Hiatt and Tony Kendall and John E. Laird and Christian Lebiere and Paul S. Rosenbloom and Frank Stein and Elin A. Topp and Vaibhav V. Unhelkar and Ying Zhao,2018,0,AI Magazine
+10.1609/aimag.v39i2.2797,The 25th International Conference on Case-Based Reasoning,David W. Aha and Kerstin Bach and Odd Erik Gundersen and Jean Lieber,2018,1,AI Magazine
+10.1609/aimag.v39i2.2796,Evaluating Visual Reasoning through Grounded Language Understanding,Alane Suhr and Mike Lewis and James Yeh and Yoav Artzi,2018,0,AI Magazine
+10.1609/aimag.v40i1.2867,AAAI News,Carol Hamilton,2019,0,AI Magazine
+10.1609/aimag.v40i3.5196,AI Bookie,Don Sofge and William Lawless and Ranjeev Mittu,2019,5,AI Magazine
+10.1609/aimag.v40i3.4814,The Case for Teamwork,Philip Cohen and Barbara Grosz and Candace Sidner and Liz Sonenberg and Matthew Johnson and Alonso Vera,2019,0,AI Magazine
+10.1609/aimag.v40i3.2866,"Artificial intelligence, Autonomy, and Human-Machine Teams — Interdependence, Context, and Explainable AI",William F. Lawless and Ranjeev Mittu and Don Sofge and Laura Hiatt,2019,21,AI Magazine
+10.1609/aimag.v40i3.4810,Context-Driven Proactive Decision Support for Hybrid Teams,Manisha Mishra and Pujitha Mannaru and David Sidoti and Adam Bienkowski and Lingyi Zhang and Krishna Pattipati,2019,1,AI Magazine
+10.1609/aimag.v40i4.5202,Current Approaches in Applied Artificial Intelligence: The 2019 IEA/AIE Conference,Franz Wotawa and Gerhard Friedrich and Ingo Pill and Roxane Koitz-Hristov and Moonis Ali,2020,0,AI Magazine
+10.1609/aimag.v40i4.5293,AAAI News,Carol Hamilton,2020,0,AI Magazine
+10.1609/aimag.v40i4.2863,Truly Autonomous Machines Are Ethical,John Hooker and Tae Wan Kim,2020,4,AI Magazine
+10.1609/aimag.v39i1.2776,Learning with Weak Supervision from Physics and Data-Driven Constraints,Hongyu Ren and Russell Stewart and Jiaming Song and Volodymyr Kuleshov and Stefano Ermon,2018,11,AI Magazine
+10.1609/aimag.v38i4.2763,The 2016 Computational Analogy Workshop at ICCBR,Joseph Blass and Tesca Fitzgerald,2017,0,AI Magazine
+10.1609/aimag.v32i1.2342,Automatic Discovery and Transfer of Task Hierarchies in Reinforcement Learning,Neville Mehta and Soumya Ray and Prasad Tadepalli and Thomas Dietterich,2017,6,AI Magazine
+10.1609/aimag.v41i2.5294,DARPA’s Impact on Artificial Intelligence,Scott Fouse and Stephen Cross and Zachary Lapin,2020,2,AI Magazine
+10.1609/aimag.v41i1.5303,Patrick Henry Winston — Two Reflections,Kenneth Forbus and Mark Finlayson,2020,0,AI Magazine
+10.1609/aimag.v41i1.5306,AAAI Conferences Calendar,Managing Editor,2020,0,AI Magazine
+10.1609/aimag.v42i2.15110,Rethinking AI Magazine Again,Ashok Goel,2022,0,AI Magazine
+10.1002/aaai.12045,CORRIGENDUM,,2022,0,AI Magazine
+10.1609/aimag.v39i3.2829,AAAI Conferences Calendar,Managing Editor,2018,0,AI Magazine
+10.1609/aimag.v41i3.7389,AAAI News,Carol Hamilton,2020,0,AI Magazine
+10.1609/aimag.v41i4.7374,What Happens When AI Invents: Is the Invention Patentable?,Stan Gibson and Jessica Newman,2021,0,AI Magazine
+10.1002/aaai.12033,"Knowledge graphs: Introduction, history, and perspectives",Vinay K. Chaudhri and Chaitanya Baru and Naren Chittar and Xin Luna Dong and Michael Genesereth and James Hendler and Aditya Kalyanpur and Douglas B. Lenat and Juan Sequeda and Denny Vrandečić and Kuansan Wang,2022,1,AI Magazine
+10.1609/aimag.v43i1.19126,Infrastructure for Rapid Open Knowledge Network Development,Michael Cafarella and Michael Anderson and Iz Beltagy and Arie Cattan and Sarah Chasins and Ido Dagan and Doug Downey and Oren Etzioni and Sergey Feldman and Tian Gao and Tom Hope and Kexin Huang and Sophie Johnson and Daniel King and Kyle Lo and Yuze Lou and Matthew Shapiro and Dinghao Shen and Shivashankar Subramanian and Lucy Wang and Yuning Wang and Yitong Wang and Daniel Weld and Jenny Vo-Phamhi and Anna Zeng and Jiayun Zou,2022,0,AI Magazine
+10.1002/aaai.v43.2,n.m.,,2022,0,AI Magazine
+10.1609/aimag.v42i3.18139,"Recommender Systems: Past, Present, Future",Dietmar Jannach and Pearl Pu and Francesco Ricci and Markus Zanker,2022,2,AI Magazine
+10.1609/aimag.v42i2.15095,Federated Learning-Powered Visual Object Detection for Safety Monitoring,Yang Liu and Anbu Huang and Yun Luo and He Huang and Youzhi Liu and Yuanyuan Chen and Lican Feng and Tianjian Chen and Han Yu and Qiang Yang,2022,0,AI Magazine
+10.1002/aaai.12066,Artificial intelligence and auditing in small‐ and medium‐sized firms: Expectations and applications,Pall Rikhardsson and Kristinn R. Thórisson and Gudmundur Bergthorsson and Catherine Batt,2022,0,AI Magazine
+10.1609/aimag.v43i1.19130,Enabling AI Innovation via Data and Model Sharing: An Overview of the Nsf Convergence Accelerator Track D,Chaitanya Baru and Michael Pozmantier and Ilkay Altintas and Stephen Baek and Jonathan Cohen and Laura Condon and Giulia Fanti and Raul Fernandez and Ethan Jackson and Upmanu Lall and Bennett Landman and Hai Li and Claudia Marin and Beatriz Martinez-Lopez and Dimitris Metaxas and Bradley Olsen and Grier Page and Yelda Turkan and Jingbo Zhang and Peng Zhang,2022,0,AI Magazine
+10.1002/aaai.12039,The Promise of AI in an Open Justice System,Adam R Pah and David L Schwartz and Sarath Sanga and Charlotte S Alexander and Kristian J Hammond and Luís A.N. Amaral and n.m. n.m.,2022,1,AI Magazine
+10.1609/aimag.v35i4.2553,Enhanced Telemetry Monitoring with Novelty Detection,José-Antonio Martínez-Heras and Alessandro Donati,2017,23,AI Magazine
+10.1609/aimag.v38i2.2730,Teaching Integrated AI through Interdisciplinary Project-Driven Courses,Eric Eaton,2017,9,AI Magazine
+10.1609/aimag.v36i1.2583,AAAI News,Carol Hamilton,2017,0,AI Magazine
+10.1609/aimag.v34i3.2482,Intelligent Learning Technologies: Applications of Artificial Intelligence to Contemporary and Emerging Educational Challenges,Vinay K. Chaudhri and H. Chad Lane and Dave Gunning and Jeremy Roschelle,2017,3,AI Magazine
+10.1609/aimag.v30i2.2259,AAAI Conferences Calendar,Managing Editor,2017,0,AI Magazine
+10.1609/aimag.v30i4.2265,The Design and Evaluation of User Interfaces for the RADAR Learning Personal Assistant,Andrew Faulring and Ken Mohnkern and Aaron Steinfeld and Brad Myers,2017,2,AI Magazine
+10.1609/aimag.v36i3.2602,THink: Inferring Cognitive Status from Subtle Behaviors,Randall Davis and David Libon and Roda Au and David Pitman and Dana Penney,2017,14,AI Magazine
+10.1609/aimag.v37i1.2662,AAAI News,Carol Hamilton,2017,0,AI Magazine
+10.1609/aimag.v35i4.2558,The Dialog State Tracking Challenge Series,Jason D. Williams and Matthew Henderson and Antoine Raux and Blaise Thomson and Alan Black and Deepak Ramachandran,2017,12,AI Magazine
+10.1609/aimag.v31i4.2325,AAAI Conferences Calendar,Managing Editor,2017,0,AI Magazine
+10.1609/aimag.v30i1.2236,Calendar of Events,Managing Editor,2017,0,AI Magazine
+10.1609/aimag.v32i1.2330,Deep Transfer: A Markov Logic Approach,Jesse Davis and Pedro Domingos,2017,6,AI Magazine
+10.1609/aimag.v34i4.2517,Announcing the New App for AI Magazine,David Leake,2017,1,AI Magazine
+10.1609/aimag.v30i1.2199,The Fourth International Conference on Intelligent Environments (IE 08): A Report,Hani Hagras and Vic Callaghan and Diane J. Cook and Abselsalam (Sumi) Helal,2017,0,AI Magazine
+10.1609/aimag.v34i3.2515,AAAI News,Carol Hamilton,2017,0,AI Magazine
+10.1609/aimag.v35i2.2532,The Diagnostic Competitions,Alexander Feldman and Johan De Kleer and Tolga Kurtoglu and Sriram Narasimhan and Scott Poll and David Garcia and Lukas Kuhn and Arjan J. C. Van Gemund,2017,1,AI Magazine
+10.1609/aimag.v34i2.2472,User-Centric Indoor Air Quality Monitoring on Mobile Devices,Yifei Jiang and Kun Li and Ricardo Piedrahita and Xiang Yun and Lei Tian and Omkar M. Mansata and Qin Lv and Robert P. Dick and Michael Hannigan and Li Shang,2017,7,AI Magazine
+10.1609/aimag.v32i3.2363,"If You Like Radiohead, You Might Like This Article",Oscar Celma and Paul Lamere,2017,11,AI Magazine
+10.1609/aimag.v34i4.2489,DynaLearn – An Intelligent Learning Environment for Learning Conceptual Knowledge,Bert Bredeweg and Jochem Liem and Wouter Beek and Floris Linnebank and Jorge Gracia and Esther Lozano and Michael Wißner and René Bühling and Paulo Salles and Richard Noble and Andreas Zitek and Petya Borisova and David Mioduser,2017,13,AI Magazine
+10.1609/aimag.v30i4.2272,Usability Engineering Methods for Interactive Intelligent Systems,Aaron Spaulding and Julie Sage Weber,2017,1,AI Magazine
+10.1609/aimag.v30i4.2291,AAAI Conferences Calendar,Managing Editor,2017,0,AI Magazine
+10.1609/aimag.v37i4.2691,Reports of the AAAI 2016 Spring Symposium Series,Christopher Amato and Ofra Amir and Joanna Bryson and Barbara Grosz and Bipin Indurkhya and Emre Kiciman and Takashi Kido and W. F. Lawless and Miao Liu and Braden McDorman and Ross Mead and Frans A. Oliehoek and Andrew Specian and Georgi Stojanov and Keiki Takadama,2017,1,AI Magazine
+10.1609/aimag.v34i1.2468,Deployed Innovative Applications of Artificial Intelligence 2012,Marcus Fromherz and Hector Muñoz-Avila,2017,0,AI Magazine
+10.1609/aimag.v39i4.2824,Reports on the 2018 AAAI Spring Symposium Series,Christopher Amato and Haitham Bou Ammar and Elizabeth Churchill and Erez Karpas and Takashi Kido and Mike Kuniavsky and W. F. Lawless and Francesca Rossi and Frans A. Oliehoek and Stephen Russell and Keiki Takadama and Siddharth Srivastava and Karl Tuyls and Philip Van Allen and K. Brent Venable and Peter Vrancx and Shiqi Zhang,2018,0,AI Magazine
+10.1609/aimag.v38i4.2759,Guest Editors' Note,Sergei Nirenburg and Micah Clark,2017,1,AI Magazine
+10.1609/aimag.v38i4.2734,The First Winograd Schema Challenge at IJCAI-16,Ernest Davis and Leora Morgenstern and Charles L. Ortiz,2017,6,AI Magazine
+10.1609/aimag.v39i4.2823,Reports of the Workshops of the 32nd AAAI Conference on Artificial Intelligence,Bruno Bouchard and Kevin Bouchard and Noam Brown and Niyati Chhaya and Eitan Farchi and Sebastien Gaboury and Christopher Geib and Amelie Gyrard and Kokil Jaidka and Sarah Keren and Roni Khardon and Parisa Kordjamshidi and David Martinez and Nicholas Mattei and Martin Michalowski and Reuth Mirsky and Joseph Osborn and Cem Sahin and Onn Shehory and Arash Shaban-Nejad and Amit Sheth and Ilan Shimshoni and Howie Shrobe and Arunesh Sinha and Atanu R. Sinha and Biplav Srivastava and William Streilein and Georgios Theocharous and K. Brent Venable and Neal Wagner and Anna Zamansky,2018,1,AI Magazine
+10.1609/aimag.v31i3.2319,AAAI Conferences Calendar,Managing Editor,2017,0,AI Magazine
+10.1609/aimag.v31i4.2312,Computational Pool: A New Challenge for Game Theory Pragmatics,Christopher Archibald and Alon Altman and Michael Greenspan and Yoav Shoham,2017,6,AI Magazine
+10.1609/aimag.v30i1.2196,AAAI 2008 Workshop Reports,Sarabjot Singh Anand and Razvan C. Bunescu and Vitor R. Carvalho and Jan Chomicki and Vincent Conitzer and Michael T. Cox and Virginia Dignum and Zachary Dodds and Mark Dredze and David Furcy and Evgeniy Gabrilovich and Mehmet H. Göker and Hans Werner Guesgen and Haym Hirsh and Dietmar Jannach and Ulrich Junker and Wolfgang Ketter and Alfred Kobsa and Sven Koenig and Tessa Lau and Lundy Lewis and Eric Matson and Ted Metzler and Rada Mihalcea and Bamshad Mobasher and Joelle Pineau and Pascal Poupart and Anita Raja and Wheeler Ruml and Norman M. Sadeh and Guy Shani and Daniel Shapiro and Trey Smith and Matthew E. Taylor and Kiri Wagstaff and William Walsh and Ron Zhou,2017,0,AI Magazine
+10.1609/aimag.v33i2.2409,Learning by Demonstration for a Collaborative Planning Environment,Karen Myers and Jake Kolojejchic and Carl Angiolillo and Tim Cummings and Tom Garvey and Matt Gaston and Melinda Gervasio and Will Haines and Chris Jones and Kellie Keifer and Janette Knittel and David Morley and William Ommert and Scott Potter,2017,3,AI Magazine
+10.1609/aimag.v35i3.2540,Energy and Uncertainty: Models and Algorithms for Complex Energy Systems,Warren Powell,2017,2,AI Magazine
+10.1609/aimag.v30i3.2253,Reports of the AAAI 2009 Spring Symposia,Jie Bao and Uldis Bojars and Ranzeem Choudhury and Li Ding and Mark Greaves and Ashish Kapoor and Sandy Louchart and Manish Mehta and Bernhard Nebel and Sergei Nirenburg and Tim Oates and David L. Roberts and Antonio Sanfilippo and Nenad Stojanovic and Kristen Stubbs and Andrea L. Thomaz and Katherine Tsui and Stefan Woelfl,2017,0,AI Magazine
+10.1609/aimag.v36i4.2613,Human-Centered Design of Wearable Neuroprostheses and Exoskeletons,Jose L. Contreras-Vidal and Atilla Kilicarslan and He (Helen) Huang and Robert G. Grossman,2017,19,AI Magazine
+10.1609/aimag.v33i2.2408,Machine Learning and Sensor Fusion for Estimating Continuous Energy Expenditure,Nisarg Vyas and Jonathan Farringdon and David Andre and John Ivo Stivoric,2017,18,AI Magazine
+10.1609/aimag.v38i2.2750,AAAI News,Carol Hamilton,2017,0,AI Magazine
+10.1609/aimag.v34i1.2435,Statistical Anomaly Detection for Train Fleets,Anders Holst and Markus Bohlin and Jan Ekman and Ola Sellin and Björn Lindström and Stefan Larsen,2017,5,AI Magazine
+10.1609/aimag.v34i4.2510,Report on the 2013 Affective Computing and Intelligent Interaction Conference (ACII 2013),Thierry Pun and Anton Nijholt,2017,0,AI Magazine
+10.1609/aimag.v36i3.2601,CiteSeerX: AI in a Digital Library Search Engine,Jian Wu and Kyle Mark Williams and Hung-Hsuan Chen and Madian Khabsa and Cornelia Caragea and Suppawong Tuarob and Alexander G. Ororbia and Douglas Jordan and Prasenjit Mitra and C. Lee Giles,2017,38,AI Magazine
+10.1609/aimag.v33i3.2421,Negotiating Agents,Catholijn M. Jonker and Koen V. Hindriks and Pascal Wiggers and Joost Broekens,2017,15,AI Magazine
+10.1609/aimag.v38i3.2753,Report on the Thirtieth International Florida Artificial Intelligence Research Society Conference (FLAIRS-30),Vasile Rus and Zdravko Markov and Ingrid Russell,2017,0,AI Magazine
+10.1609/aimag.v33i1.2393,Reports on the Fourth Artificial Intelligence for Interactive Digital Entertainment Conference Workshops,David Elson and Jonathan Rowe and Adam M. Smith and Gillian Smith and Emmett Tomai,2017,0,AI Magazine
+10.1609/aimag.v38i1.2738,AAAI Conferences Calendar,Managing Editor,2017,0,AI Magazine
+10.1609/aimag.v36i1.2559,Semantics for Big Data,Frank Van Harmelen and James A. Hendler and Pascal Hitzler and Krzysztof Janowicz,2017,2,AI Magazine
+10.1609/aimag.v30i4.2273,Introduction to the Special Issue on “Usable AI”,Anthony David Jameson and Aaron Spaulding and Neil Yorke-Smith,2017,4,AI Magazine
+10.1609/aimag.v33i2.2406,NewsFinder: Automating an AI News Service,Joshua Eckroth and Liang Dong and Reid G. Smith and Bruce G. Buchanan,2017,0,AI Magazine
+10.1609/aimag.v33i4.2439,The Multi-Agent Programming Contest,Tristan Behrens and Mehdi Dastani and Jürgen Dix and Jomi Hübner and Michael Köster and Peter Novák and Federico Schlesinger,2017,10,AI Magazine
+10.1609/aimag.v34i2.2480,AAAI News,Carol Hamilton,2017,0,AI Magazine
+10.1609/aimag.v37i4.2724,AAAI News,Carol Hamilton,2017,0,AI Magazine
+10.1609/aimag.v35i1.2541,AAAI News,Carol M. Hamilton,2017,0,AI Magazine
+10.1609/aimag.v30i2.2258,AAAI News,Carol M. Hamilton,2017,0,AI Magazine
+10.1609/aimag.v30i3.2255,Deus Ex Machina — A Higher Creative Species in the Game of Chess,Shay Bushinsky,2017,4,AI Magazine
+10.1609/aimag.v31i1.2281,RealScape: Metropolitan Fixed Assets Change Judgment by Pixel-by-pixel Stereo Processing of Aerial Photographs,Hirokazu Koizumi and Hiroyuki Yagyu and Kazuaki Hashizume and Toshiyuki Kamiya and Kazuo Kunieda and Hideo Shimazu,2017,0,AI Magazine
+10.1609/aimag.v33i4.2452,Emerging Innovative Applications of Artificial Intelligence 2012,Markus Fromherz and Hector Muñoz-Avila,2017,0,AI Magazine
+10.1609/aimag.v32i3.2362,Recommendation as Collaboration in Web Search,Barry Smyth and Jill Freyne and Maurice Coyle and Peter Briggs,2017,3,AI Magazine
+10.1609/aimag.v36i4.2619,Reports of the 2015 Workshops Held at the International AAAI Conference on Web and Social Media,David Garcia and Germaine Halegoua and Yelena Mejova and Nicola Perra and Jürgen Pfeffer and Derek Ruths and Ingmar Weber and Robert West and Leila Zia,2017,0,AI Magazine
+10.1609/aimag.v30i4.2262,Why Programming-By-Demonstration Systems Fail: Lessons Learned for Usable AI,Tessa Lau,2017,26,AI Magazine
+10.1609/aimag.v31i2.2295,Computational Models of Narrative: Review of a Workshop,Mark A. Finlayson and Whitman Richards and Patrick Henry Winston,2017,5,AI Magazine
+10.1609/aimag.v36i2.2590,Reports on the 2015 AAAI Workshop Program,Stefano V. Albrecht and J. Christopher Beck and David L. Buckeridge and Adi Botea and Cornelia Caragea and Chi-hung Chi and Theodoros Damoulas and Bistra Dilkina and Eric Eaton and Pooyan Fazli and Sam Ganzfried and C. Lee Giles and Sébastian Guillet and Robert Holte and Frank Hutter and Thorsten Koch and Matteo Leonetti and Marius Lindauer and Marlos C. Machado and Yui Malitsky and Gary Marcus and Sebastiaan Meijer and Francesca Rossi and Arash Shaban-Nejad and Sylvie Thiebaux and Manuela Veloso and Toby Walsh and Can Wang and Jie Zhang and Yu Zheng,2017,0,AI Magazine
+10.1609/aimag.v31i3.2294,Report on the Third Conference on Artificial General Intelligence,Ben Goertzel and Marcus Hutter,2017,0,AI Magazine
+10.1609/aimag.v37i4.2725,AAAI Conferences Calendar,Managing Editor,2017,0,AI Magazine
+10.1609/aimag.v29i3.2194,AAAI News,Carol M. Hamilton,2017,1,AI Magazine
+10.1609/aimag.v36i3.2571,The 2014 International Planning Competition: Progress and Trends,Mauro Vallati and Lukas Chrpa and Marek Grześ and Thomas Leo McCluskey and Mark Roberts and Scott Sanner and Managing Editor,2017,42,AI Magazine
+10.1609/aimag.v34i3.2484,New Potentials for Data-Driven Intelligent Tutoring System Development and Optimization,Kenneth R. Koedinger and Emma Brunskill and Ryan S.J.d. Baker and Elizabeth A. McLaughlin and John Stamper,2017,64,AI Magazine
+10.1609/aimag.v34i1.2431,A Human/Computer Learning Network to Improve Biodiversity Conservation and Research,Steve Kelling and Jeff Gerbracht and Daniel Fink and Carl Lagoze and Weng-Keen Wong and Jun Yu and Theodoros Damoulas and Carla Gomes,2017,33,AI Magazine
+10.1609/aimag.v41i1.5290,Smart Infrastructure for Future Urban Mobility,Stephen Smith,2020,3,AI Magazine
+10.1609/aimag.v38i2.2731,Ethical Considerations in Artificial Intelligence Courses,Emanuelle Burton and Judy Goldsmith and Sven Koenig and Benjamin Kuipers and Nicholas Mattei and Toby Walsh,2017,52,AI Magazine
+10.1609/aimag.v34i4.2488,Serious Games Get Smart: Intelligent Game-Based Learning Environments,James C. Lester and Eun Y. Ha and Seung Y. Lee and Bradford W. Mott and Jonathan P. Rowe and Jennifer L. Sabourin,2017,34,AI Magazine
+10.1609/aimag.v39i3.2810,Alexa Prize — State of the Art in Conversational AI,Chandra Khatri and Anu Venkatesh and Behnam Hedayatnia and Raefer Gabriel and Ashwin Ram and Rohit Prasad,2018,14,AI Magazine
+10.1609/aimag.v37i2.2651,Robot Planning in the Real World: Research Challenges and Opportunities,Ron Alterovitz and Sven Koenig and Maxim Likhachev,2017,39,AI Magazine
+10.1609/aimag.v32i1.2331,The Case for Case-Based Transfer Learning,Matthew Klenk and David W. Aha and Matt Molineaux,2017,6,AI Magazine
+10.1609/aimag.v38i4.2769,Intelligence Systems: Trends and Challenges,Salem Benferhat and Karim Tabia and Moonis Ali,2017,0,AI Magazine
+10.1609/aimag.v34i4.2497,Report on the 21st International Conference on Case-Based Reasoning,Santiago Ontanon and Sarah Jane Delany and William E. Cheetham,2017,0,AI Magazine
+10.1609/aimag.v30i4.2248,Report on the 22nd International FLAIRS Conference,Hans Werner Guesgen,2017,0,AI Magazine
+10.1609/aimag.v33i1.2403,Introducing Worldwide AI,Maria Fox and Manuela Veloso and Eric Horvitz,2017,0,AI Magazine
+10.1609/aimag.v36i2.2597,AAAI News,Carol Hamilton,2017,0,AI Magazine
+10.1609/aimag.v35i2.2516,Report on the Thirty-Fifth Annual Cognitive Science Conference,Anna Belardinelli and Martin V. Butz,2017,2,AI Magazine
+10.1609/aimag.v37i3.2672,Grounding and Solving in Answer Set Programming,Benjamin Kaufmann and Nicola Leone and Simona Perri and Torsten Schaub,2017,32,AI Magazine
+10.1609/aimag.v34i3.2486,Inquire Biology: A Textbook that Answers Questions,Vinay K. Chaudhri and Britte Cheng and Adam Overtholtzer and Jeremy Roschelle and Aaron Spaulding and Peter Clark and Mark Greaves and Dave Gunning,2017,16,AI Magazine
+10.1609/aimag.v30i1.2235,AAAI News,Carol M. Hamilton,2017,0,AI Magazine
+10.1609/aimag.v29i3.2163,Introduction to the Special Issue on AI and Networks,Marie Des Jardins and Matthew E. Gaston and Dragomir R. Radev,2017,1,AI Magazine
+10.1609/aimag.v32i4.2389,AAAI News,Carol M. Hamilton,2017,0,AI Magazine
+10.1609/aimag.v38i1.2710,PAWS — A Deployed Game-Theoretic Application to Combat Poaching,Fei Fang and Thanh H. Nguyen and Rob Pickles and Wai Y. Lam and Gopalasamy R. Clements and Bo An and Amandeep Singh and Brian C. Schwedock and Milin Tambe and Andrew Lemieux,2017,18,AI Magazine
+10.1609/aimag.v35i2.2545,AAAI News,Carol M. Hamilton,2017,0,AI Magazine
+10.1609/aimag.v32i4.2377,How People Talk with Robots: Designing Dialog to Reduce User Uncertainty,Kerstin Fischer,2017,26,AI Magazine
+10.1609/aimag.v35i2.2526,Sequential Decision Making in Computational Sustainability via Adaptive Submodularity,Andreas Krause and Daniel Golovin and Sarah Converse,2017,4,AI Magazine
+10.1609/aimag.v34i4.2507,Reports on the 2013 Workshop Program of the Seventh International AAAI Conference on Weblogs and Social Media,Daniel Archambault and Fabio Celli and Elizabeth M. Daly and Ingrid Erickson and Werner Geyer and Germaine Halegoua and Brian Keegan and David R. Millen and Raz Schwartz and N. Sadat Shami,2017,0,AI Magazine
+10.1609/aimag.v36i1.2567,Early Steps Towards Web Scale Information Extraction with LODIE,Anna Lisa Gentile and Ziqi Zhang and Fabio Ciravegna,2017,2,AI Magazine
+10.1609/aimag.v32i3.2386,AAAI Conferences Calendar,Managing Editor,2017,0,AI Magazine
+10.1609/aimag.v42i4.15089,Agents of Exploration and Discovery,Pat Langley,2022,0,AI Magazine
+10.1002/aaai.12060,Issue Information,,2022,0,AI Magazine
+10.1609/aimag.v43i1.19129,Human-Centered Intelligent Training for Emergency Responders,Ranjana Mehta and Jason Moats and Rohith Karthikeyan and Joseph Gabbard and Divya Srinivasan and Eric Du and Alexander Leonessa and Garret Burks and Andrew Stephenson and Ron Fernandes,2022,0,AI Magazine
+10.1002/aaai.12050,Recommender systems: Trends and frontiers,Dietmar Jannach and Pearl Pu and Francesco Ricci and Markus Zanker,2022,1,AI Magazine
+10.1609/aimag.v42i2.15100,Clarity 2.0: Improved Assessment of Product Competitiveness from Online Content,Yufeng Huang and Mariana Bernagozzi and Michelle Morales and Sheema Usmani and Biplav Srivastava and Michelle Mullins,2022,0,AI Magazine
+10.1609/aimag.v41i4.7384,Conversational Agents for Complex Collaborative Tasks,James Allen and Lucian Galescu and Choh Man Teng and Ian Perera,2021,0,AI Magazine
+10.1609/aimag.v41i4.5309,Evolution of a Robust AI System: A Case Study of AAAI’s AI-Alert,Joshua Eckroth,2021,0,AI Magazine
+10.1609/aimag.v40i1.2845,"Deep Models, Machine Learning, and Artificial Intelligence Applications in National and International Security",Ying Zhao and Arjuna Flenner,2019,0,AI Magazine
+10.1609/aimag.v35i4.2552,Automated Scheduling for NASA's Deep Space Network,Mark D. Johnston and Daniel Tran and Belinda Arroyo and Sugi Sorensen and Peter Tay and Butch Carruth and Adam Coffman and Mike Wallace,2017,5,AI Magazine
+10.1609/aimag.v29i4.2201,Preference Handling in Combinatorial Domains: From AI to Social Choice,Yann Chevaleyre and Ulle Endriss and Jérôme Lang and Nicolas Maudet,2017,17,AI Magazine
+10.1609/aimag.v41i4.7383,The AI Bookie — Place Your Bets: Will Machine Learning Outgrow Human Labeling?,Mike Schaekermann and Christopher Homan and Lora Aroyo and Praveen Paritosh and Kurt Bollacker and Chris Welty,2021,0,AI Magazine
+10.1609/aimag.v42i2.15096,Optimizing Smart Grid Operations from the Demand Side,Yongqing Zheng and Han Yu and Yuliang Shi and Kun Zhang and Shuai Zhen and Lizhen Cui and Cyril Leung and Chunyan Miao,2022,0,AI Magazine
+10.1609/aimag.v42i3.18600,Letter from the Editors: AI Magazine in the New Era of AI,Kristen Venable and Odd Erik Gundersen,2022,0,AI Magazine
+10.1609/aimag.v42i2.15094,Deploying an Artificial Intelligence-Based Defect Finder for Manufacturing Quality Management,Kyoung Jun Lee and Jun Woo Kwon and Soohong Min and Jungho Yoon,2022,0,AI Magazine
+10.1609/aaai.12026,"Looking Back, Looking Ahead: Symbolic versus Connectionist AI",Ashok Goel,2023,0,AI Magazine
+10.1002/aaai.12072,In memory of Drew V. McDermott,,2022,0,AI Magazine
+10.1002/aaai.12075,Issue Information,,2022,0,AI Magazine
+10.1002/aaai.12067,Issue Information,,2022,0,AI Magazine
+10.1609/aimag.v41i3.5324,Conversational Intelligence Challenge: Accelerating Research with Crowd Science and Open Source,Mikhail Burtsev and Varvara Logacheva,2020,1,AI Magazine
+10.1609/aimag.v41i2.5299,Vision and Robotics,Thomas Strat and Rama Chellappa and Vishal Patel,2020,1,AI Magazine
+10.1609/aimag.v39i3.2812,Year One of the IBM Watson AI XPRIZE: Case Studies in “AI for Good”,Sean McGregor and Amir Banifatemi,2018,0,AI Magazine
+10.1609/aimag.v41i2.5298,DARPA’s Role in Machine Learning,Joshua Alspector and Thomas Dietterich,2020,1,AI Magazine
+10.1609/aimag.v32i2.2340,The Sixth International Conference on Intelligent Environments (IE 10): A Report,Vic Callaghan and Simon Egerton and Achilles Kameas and Ichiro Satoh,2017,0,AI Magazine
+10.1609/aimag.v31i3.2304,Reports of the AAAI 2010 Spring Symposia,Thomas Barkowsky and Sven Bertel and Frank Broz and Vinay K. Chaudhri and Nathan Eagle and Michael Genesereth and Harry Halpin and Emily Hamner and Gabe Hoffmann and Christoph Hölscher and Eric Horvitz and Tom Lauwers and Deborah L. McGuinness and Marek Michalowski and Emily Mower and Thomas F. Shipley and Kristen Stubbs and Roland Vogl and Mary-Anne Williams,2017,0,AI Magazine
+10.1609/aimag.v32i2.2334,Knowledge Transfer between Automated Planners,Susana Fernandez and Ricardo Aler and Daniel Borrajo,2017,1,AI Magazine
+10.1609/aimag.v1i1.84,AAAI President's Message,Allen Newell,2017,5,AI Magazine
+10.1609/aimag.v33i1.2367,Challenges and Opportunities in Applied Machine Learning,Carla E. Brodley and Umaa Rebbapragada and Kevin Small and Byron Wallace,2017,16,AI Magazine
+10.1609/aimag.v37i4.2683,Developing Decision Aids to Enable Human Spaceflight Autonomy,Jeremy D. Frank and Kerry McGuire and Haifa R. Moses and Jerri Stephenson,2017,4,AI Magazine
+10.1609/aimag.v33i4.2441,What Question Would Turing Pose Today?,Barbara Grosz,2017,10,AI Magazine
+10.1609/aimag.v38i1.2718,The Evolution of Scheduling Applications and Tools,Mark Boddy,2017,0,AI Magazine
+10.1609/aimag.v37i1.2644,WWTS (What Would Turing Say?),Douglas B. Lenat,2017,4,AI Magazine
+10.1609/aimag.v31i3.2300,Introduction to the Special Issue on Question Answering,David Gunning and Vinay K. Chaudhri and Chris Welty,2017,3,AI Magazine
+10.1609/aimag.v31i4.2309,The 2008 Classic Paper Award: Summary and Significance,Peter Friedland,2017,0,AI Magazine
+10.1609/aimag.v31i2.2307,AAAI Conferences Calendar,Managing Editor,2017,0,AI Magazine
+10.1609/aimag.v31i1.2297,AAAI Conferences Calendar,Managing Editor,2017,0,AI Magazine
+10.1609/aimag.v30i2.2240,Tactical Language and Culture Training Systems: Using AI to Teach Foreign Languages and Cultures,W. Lewis Johnson and Andre Valente,2017,56,AI Magazine
+10.1609/aimag.v31i1.2282,Semantics for Digital Engineering Archives Supporting Engineering Design Education,William C. Regli and Joseph B. Kopena and Michael Grauer and Timothy W. Simpson and Robert B. Stone and Kemper Lewis and Matt R. Bohm and David Wilkie and Martin Piecyk and Jordan Osecki,2017,4,AI Magazine
+10.1609/aimag.v38i1.2719,The Fifth International Competition on Knowledge Engineering for Planning and Scheduling: Summary and Trends,Lukás Chrpa and Thomas L. McCluskey and Mauro Vallati and Tiago Vaquero,2017,6,AI Magazine
+10.1609/aimag.v32i4.2376,Designing Embodied Cues for Dialog with Robots,Bilge Mutlu,2017,27,AI Magazine
+10.1609/aimag.v32i3.2360,The Big Promise of Recommender Systems,Francisco J. Martin and Justin Donaldson and Adam Ashenfelter and Marc Torrens and Rick Hangartner,2017,7,AI Magazine
+10.1609/aimag.v34i3.2464,Melomics: A Case-Study of AI in Spain,Carlos Sánchez Quintana and Francisco Moreno Arcas and David Albarracín Molina and José David Fernández Rodriguez and Francisco J. Vico,2017,12,AI Magazine
+10.1609/aimag.v32i3.2385,AAAI News,Carol M. Hamilton,2017,0,AI Magazine
+10.1609/aimag.v36i4.2609,"The Automated Negotiating Agents Competition, 2010–2015",Tim Baarslag and Reyhan Aydoğan and Koen V. Hindriks and Katsuhide Fujita and Takayuki Ito and Catholijn M. Jonker,2017,19,AI Magazine
+10.1609/aimag.v33i2.2417,AAAI News,Carol Hamilton,2017,0,AI Magazine
+10.1609/aimag.v35i3.2548,The Reinforcement Learning Competition 2014,Christos Dimitrakakis and Guangliang Li and Nikoalos Tziortziotis,2017,5,AI Magazine
+10.1609/aimag.v35i1.2502,Natural Language Access to Enterprise Data,Ulli Waltinger and Dan Tecuci and Mihaela Olteanu and Vlad Mocanu and Sean Sullivan,2017,2,AI Magazine
+10.1609/aimag.v36i3.2606,A Summary of the Twenty-Ninth AAAI Conference on Artificial Intelligence,Robert Morris and Blai Bonet and Marc Cavazza and Marie DesJardins and Ariel Felner and Nick Hawes and Brad Knox and Sven Koenig and George Konidaris and Jérôme Lang and Carlos Linares López and Daniele Magazzeni and Amy McGovern and Sriraam Natarajan and Nathan R. Sturtevant and Michael Thielscher and William Yeoh and Sebastian Sardina and Kiri Wagstaff,2017,0,AI Magazine
+10.1609/aimag.v31i1.2286,Searching for Gas Turbine Maintenance Schedules,Markus Bohlin and Kivanc Doganay and Per Kreuger and Rebecca Steinert and Mathias Warja,2017,3,AI Magazine
+10.1609/aimag.v33i4.2453,AAAI Conferences Calendar,Managing Editor,2017,0,AI Magazine
+10.1609/aimag.v36i3.2604,An End-to-End Conversational Second Screen Application for TV Program Discovery,Peter Z. Yeh and Deepak Ramachandran and Benjamin Douglas and Adwait Ratnaparkhi and William Jarrold and Ronald Provine and Peter F. Patel-Schneider and Stephen Laverty and Nirvana Tikku and Sean Brown and Jeremy Mendel and Adam Emfield,2017,1,AI Magazine
+10.1609/aimag.v1i1.89,The Stanford Heuristic Programming Project: Goals and Activities,Bruce G. Buchanan and Edward A. Feigenbaum,2017,1,AI Magazine
+10.1609/aimag.v34i4.2509,Report on the Sixth Conference on Artificial General Intelligence,Kai-Uwe Kühnberger and Sebastian Rudolph and Pei Wang,2017,1,AI Magazine
+10.1609/aimag.v38i2.2751,AAAI Conferences Calendar,Managing Editor,2017,0,AI Magazine
+10.1609/aimag.v33i1.2404,The Diversity of AI,David B. Leake,2017,0,AI Magazine
+10.1609/aimag.v32i4.2388,AAAI Conferences Calendar,Managing Editor,2017,0,AI Magazine
+10.1609/aimag.v38i2.2723,Deploying Constraint Programming for Testing ABB’s Painting Robots,Morten Mossige and Arnaud Gotlieb and Hein Meling,2017,2,AI Magazine
+10.1609/aimag.v35i4.2555,Leveraging Multiple Artificial Intelligence Techniques to Improve the Responsiveness in Operations Planning: ASPEN for Orbital Express,Russell Knight and Caroline Chouinard and Grailing Jones and Daniel Tran,2017,4,AI Magazine
+10.1609/aimag.v38i3.2727,Design and Intelligent Machines,William C. Regli,2017,0,AI Magazine
+10.1609/aimag.v39i4.2826,Report on the Thirty-First International Florida Artificial Intelligence Research Society Conference (FLAIRS-31),Keith Brawner and Vasile Rus and Roman Barták and Zdravko Markov,2018,0,AI Magazine
+10.1609/aimag.v38i3.2736,Solving Mathematical Puzzles: A Challenging Competition for AI,Federico Chesani and Paola Mello and Michela Milano,2017,6,AI Magazine
+10.1609/aimag.v38i4.2770,Danny Bobrow: A Personal Recollection,Rusty (Robert J.) Bobrow,2017,0,AI Magazine
+10.1609/aimag.v38i3.2755,Reports of the Workshops of the Thirty-First AAAI Conference on Artificial Intelligence,Monica Anderson and Roman Barták and John S. Brownstein and David L. Buckeridge and Hoda Eldardiry and Christopher Geib and Maria Gini and Aaron Isaksen and Sarah Keren and Robert Laddaga and Viliam Lisy and Rodney Martin and David R. Martinez and Martin Michalowski and Loizos Michael and Reuth Mirsky and Thanh Nguyen and Michael J. Paul and Enrico Pontelli and Scott Sanner and Arash Shaban-Nejad and Arunesh Sinha and Shirin Sohrabi and Kumar Sricharan and Biplav Srivastava and Mark Stefik and William W. Streilein and Nathan Sturtevant and Kartik Talamadupula and Michael Thielscher and Julian Togelius and So Cao Tran and Long Tran-Thanh and Neal Wagner and Byron C. Wallace and Szymon Wilk and Jichen Zhu,2017,1,AI Magazine
+10.1609/aimag.v38i3.2773,AAAI News,Carol Hamilton,2017,0,AI Magazine
+10.1609/aimag.v39i4.2821,"Report on the Technology, Mind, and Society Conference",Amber L. Story,2018,0,AI Magazine
+10.1609/aimag.v39i2.2788,"You, Me, or Us: Balancing Individuals’ and Societies’ Moral Needs and Desires in Autonomous Systems",Joseph A. Blass,2018,0,AI Magazine
+10.1609/aimag.v38i2.2799,To Serve AI (It's a Cookbook),James Hendler,2018,0,AI Magazine
+10.1609/aimag.v39i4.2835,Reports of the Workshops Held at the 2018 International AAAI Conference on Web and Social Media,Managing Editor and Jisun An and Rumi Chunara and David J. Crandall and Darian Frajberg and Megan French and Bernard J. Jansen and Juhi Kulshrestha and Yelena Mejova and Daniel M. Romero and Joni Salminen and Amit Sharma and Amit Sheth and Chenhao Tan and Samuel Hardman Taylor and Sanjaya Wijeratne,2018,0,AI Magazine
+10.1609/aimag.v38i4.2742,There Is No Agency Without Attention,Paul Bello and Will Bridewell,2017,2,AI Magazine
+10.1609/aimag.v38i4.2745,"Natural Language Understanding (NLU, not NLP) in Cognitive Systems",Marjorie McShane,2017,8,AI Magazine
+10.1609/aimag.v40i2.2853,Building Bridges Between AI and Cognitive Psychology,Stephen Reed,2019,4,AI Magazine
+10.1609/aimag.v40i4.4813,Methods of AI for Multimodal Sensing and Action for Complex Situations,Erik Blasch and Robert Cruise and Alexander Aved and Uttam Majumder and Todd Rovito,2020,21,AI Magazine
+10.1609/aimag.v39i1.2785,Phase Mapper: Accelerating Materials Discovery with AI,Junwen Bai and Yexiang Xue and Johan Bjorck and Ronan Le Bras and Brendan Rappazzo and Richard Bernstein and Santosh K. Suram and Robert Bruce Van Dover and John M. Gregoire and Carla P. Gomes,2018,12,AI Magazine
+10.1609/aimag.v39i1.2780,Constructing Temporal Abstractions Autonomously in Reinforcement Learning,Pierre-Luc Bacon and Doina Precup,2018,3,AI Magazine
+10.1609/aimag.v40i1.2848,"Artificial Intelligence, Robotics, Ethics, and the Military: A Canadian Perspective",Sherry Wasilow and Joelle B. Thorpe,2019,5,AI Magazine
+10.1609/aimag.v39i2.2802,Managing Data through the Lens of an Ontology,Maurizio Lenzerini,2018,4,AI Magazine
+10.1609/aimag.v39i1.2807,AAAI News,Carol Hamilton,2018,0,AI Magazine
+10.1002/aaai.12043,"Know, Know Where, KnowWhereGraph: A densely connected, cross‐domain knowledge graph and geo‐enrichment service stack for applications in environmental intelligence",Krzysztof Janowicz and Pascal Hitzler and Wenwen Li and Dean Rehberger and Mark Schildhauer and Rui Zhu and Cogan Shimizu and Colby K. Fisher and Ling Cai and Gengchen Mai and Joseph Zalewski and Lu Zhou and Shirly Stephen and Seila Gonzalez and Bryce Mecum and Anna Lopez‐Carr and Andrew Schroeder and David Smith and Dawn Wright and Sizhe Wang and Yuanyuan Tian and Zilong Liu and Meilin Shi and Anthony D'Onofrio and Zhining Gu and Kitty Currier,2022,5,AI Magazine
+10.1002/aaai.12035,Knowledge graphs to support real‐time flood impact evaluation,J. Michael Johnson and Tom Narock and Justin Singh‐Mohudpur and Doug Fils and Keith C. Clarke and Siddharth Saksena and Adam Shepherd and Sankar Arumugam and Lilit Yeghiazarian,2022,2,AI Magazine
+10.1609/aimag.v35i2.2537,Workshops Held at the First AAAI Conference on Human Computation and Crowdsourcing: A Report,Tatiana Josephy and Matt Lease and Praveen Paritosh and Markus Krause and Mihai Georgescu and Michael Tjalve and Daniela Braga,2017,7,AI Magazine
+10.1609/aimag.v42i4.15101,On the Care and Feeding of Virtual Assistants: Automating Conversation Review with AI,Ian Beaver and Abdullah Mueen,2022,0,AI Magazine
+10.1609/aimag.v34i3.2485,Recent Advances in Conversational Intelligent Tutoring Systems,Vasile Rus and Sidney D’Mello and Xiangen Hu and Arthur Graesser,2017,70,AI Magazine
+10.1609/aimag.v32i3.2366,Recommender Systems in Requirements Engineering,Bamshad Mobasher and Jane Cleland-Huang,2017,11,AI Magazine
+10.1002/aaai.12053,A survey of knowledge‐based sequential decision‐making under uncertainty,Shiqi Zhang and Mohan Sridharan,2022,1,AI Magazine
+10.1609/aimag.v35i1.2504,GRADE: Machine Learning Support for Graduate Admissions,Austin Waters and Risto Miikkulainen,2017,25,AI Magazine
+10.1609/aimag.v34i1.2449,Interactive Narrative: An Intelligent Systems Approach,Mark Owen Riedl and Vadim Bulitko,2017,93,AI Magazine
+10.1609/aimag.v36i1.2560,Why the Data Train Needs Semantic Rails,Krzysztof Janowicz and Frank Van Harmelen and James A. Hendler and Pascal Hitzler,2017,32,AI Magazine
+10.1609/aimag.v32i3.2365,A Taxonomy for Generating Explanations in Recommender Systems,Gerhard Friedrich and Markus Zanker,2017,77,AI Magazine
+10.1609/aimag.v35i3.2460,Algorithm Selection for Combinatorial Search Problems: A Survey,Lars Kotthoff,2017,86,AI Magazine
+10.1609/aimag.v41i3.5257,Challenges of Human-Aware AI Systems,Subbarao Kambhampati,2020,7,AI Magazine
+10.1609/aimag.v34i4.2518,Intelligent Learning Technologies Part 2: Applications of Artificial Intelligence to Contemporary and Emerging Educational Challenges,Vinay K. Chaudhri and H. Chad Lane and Dave Gunning and Jeremy Roschelle,2017,6,AI Magazine
+10.1609/aimag.v37i3.2670,Answer Sets and the Language of Answer Set Programming,Vladimir Lifschitz,2017,6,AI Magazine
+10.1609/aimag.v33i3.2426,"Multiagent Learning: Basics, Challenges, and Prospects",Karl Tuyls and Gerhard Weiss,2017,84,AI Magazine
+10.1609/aimag.v38i1.2709,"Building AI Applications: Yesterday, Today, and Tomorrow",Reid G. Smith and Joshua Eckroth,2017,15,AI Magazine
+10.1002/aaai.12044,Issue Information,,2022,0,AI Magazine
+10.1609/aimag.v43i1.19118,The NSF Convergence Accelerator Program,Chaitanya Baru and Lara Campbell and Aurali Dade and Pradeep Fulay and Alex Loewi and Douglas Maughan and Ibrahim Mohedas and Linda Molnar and Michael Pozmantier and Michael Reksulak and Shelby Smith and Nicole Tehrani,2022,0,AI Magazine
+10.1609/aaai.12025,Feedback-Based Self-Learning in Large-Scale Conversational AI Agents,Pragaash Ponnusamy and Alireza Ghias and Yi Yi and Benjamin Yao and Chenlei Guo and Ruhi Sarikaya,2023,0,AI Magazine
+10.1002/aaai.v43.3,n.m.,,2022,0,AI Magazine
+10.1609/aimag.v43i1.19125,A Biomedical Open Knowledge Network Harnesses the Power of AI to Understand Deep Human Biology,Sergio Baranzini and Katy Börner and John Morris and Charlotte Nelson and Karthik Soman and Erica Schleimer and Michael Keiser and Mark Musen and Roger Pearce and Tahsin Reza and Brett Smith and Bruce Herr II and Boris Oskotsky and Angela Rizk-Jackson and Katherine Rankin and Stephan Sanders and Riley Bove and Peter Rose and Sharat Israni and Sui Huang,2022,0,AI Magazine
+10.1002/aaai.12032,The NSF Convergence Accelerator program,Chaitanya Baru and Lara Campbell and Aurali Dade and Pradeep Fulay and Alex Loewi and Douglas Maughan and Ibrahim Mohedas and Linda Molnar and Michael Pozmantier and Michael Reksulak and Shelby Smith and Nicole Tehrani,2022,0,AI Magazine
+10.1609/aimag.v43i1.19127,The Promise of AI in an Open Justice System,Adam Pah and David Schwartz and Sarath Sanga and Charlotte Alexander and Kristian Hammond and Luis Amaral and SCALES OKN Consortium,2022,0,AI Magazine
+10.1609/aimag.v30i2.2233,Local Search for Optimal Global Map Generation Using Mid-Decadal Landsat Images,Lina Khatib and Robert A. Morris and John Gasch,2017,1,AI Magazine
+10.1609/aimag.v30i2.2212,Optimal Crops Selection using Multiobjective Evolutionary Algorithms,Ricardo Brunelli and Christian Von Lücken,2017,3,AI Magazine
+10.1609/aimag.v29i4.2228,Calendar of Events,Managing Editor AAAI,2017,0,AI Magazine
+10.1609/aimag.v29i3.2155,Intelligent Peer Networks for Collaborative Web Search,Filippo Menczer and Le-Shin Wu and Ruj Akavipat,2017,2,AI Magazine
+10.1609/aimag.v30i2.2231,Reports of the AAAI 2008 Fall Symposia,Jacob Beal and Paul A. Bello and Nicholas Cassimatis and Michael H. Coen and Paul R. Cohen and Alex Davis and Mark T. Maybury and Alexei Samsonovich and Andrew Shilliday and Marjorie Skubic and Joshua Taylor and Sharon Walter and Patrick Winston and Beverly Park Woolf,2017,0,AI Magazine
+10.1609/aimag.v1i1.90,"Research In Progress at the Artificial Intelligence Center, SRI International",Peter Hart and Earl Sacerdoti and Charles Untulis,2017,0,AI Magazine
+10.1609/aimag.v35i2.2544,AAAI Conferences Calendar,Managing Editor,2017,0,AI Magazine
+10.1609/aimag.v34i1.2456,The Eighth AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment,Mark Riedl and Gita Reese Sukthankar and Arnav Jhala and Jichen Zhu and Santiago Ontanon Villar and Michael Buro and David Churchill,2017,2,AI Magazine
+10.1609/aimag.v37i1.2643,I-athlon: Towards A Multidimensional Turing Test,Sam S. Adams and Guruduth Banavar and Murray Campbell,2017,8,AI Magazine
+10.1609/aimag.v38i2.2735,Reports on the 2016 AAAI Fall Symposium Series,Patrícia Alves-Oliveira and Richard G. Freedman and Dan Grollman and Laura Herlant and Laura Humphrey and Fei Liu and Ross Mead and Frank Stein and Tom Williams and Shomir Wilson,2017,0,AI Magazine
+10.1609/aimag.v36i2.2582,A General Context-Aware Framework for Improved Human-System Interactions,Stacy Lovell Pfautz and Gabriel Ganberg and Adam Fouse and Nathan Schurr,2017,4,AI Magazine
+10.1609/aimag.v34i2.2481,AAAI Conferences Calendar,Managing Editor,2017,0,AI Magazine
+10.1609/aimag.v31i2.2243,An Analysis of Current Trends in CBR Research Using Multi-View Clustering,Derek Greene and Jill Freyne and Barry Smyth and Pádraig Cunningham,2017,3,AI Magazine
+10.1609/aimag.v36i1.2566,Semantics-Empowered Big Data Processing with Applications,Krishnaprasad Thirunarayan and Amit Sheth,2017,3,AI Magazine
+10.1609/aimag.v34i4.2508,Educational Advances in Artificial Intelligence,Laura E. Brown and David Kauchak,2017,2,AI Magazine
+10.1609/aimag.v32i4.2382,The Curious Robot as a Case-Study for Comparing Dialog Systems,Julia Peltason and Britta Wrede,2017,9,AI Magazine
+10.1609/aimag.v40i3.5197,AAAI Conferences Calendar,Managing Editor,2019,0,AI Magazine
+10.1609/aimag.v39i4.2843,A Recap of the AAAI and IAAI 2018 Conferences and the EAAI Symposium,Sheila McIlraith and Kilian Weinberger and G. Michael Youngblood and Karen Myers and Eric Eaton and Michael Wollowski,2018,0,AI Magazine
+10.1609/aimag.v40i4.5287,Reports of the Workshops Held at the 2019 International AAAI Conference on Web and Social Media,Diego Alburez-Gutierrez and Eshwar Chandrasekharan and Rumi Chunara and Sofia Gil-Clavel and Aniko Hannak and Roberto Interdonato and Kenneth Joseph and Kyriaki Kalimeri and Momin Malik and Katja Mayer and Yelena Mejova and Daniela Paolotti and Emilio Zagheni,2020,0,AI Magazine
+10.1609/aimag.v42i4.15098,Large Scale Multilingual Sticker Recommendation In Messaging Apps,Abhishek Laddha and Mohamed Hanoosh and Debdoot Mukherjee and Parth Patwa and Ankur Narang,2022,0,AI Magazine
+10.1609/aimag.v43i1.7381,"Decoding Human Behavior with Big Data? Critical, Constructive Input from the Decision Sciences",Konstantinos Katsikopoulos and Marc Canellas,2022,1,AI Magazine
+10.1609/aimag.v43i1.19117,Editorial Introduction,Vinay Chaudhri and Chaitanya Baru,2022,0,AI Magazine
+10.1609/aimag.v40i1.2849,Artificial Intelligence and Game Theory Models for Defending Critical Networks with Cyber Deception,Sunny Fugate and Kimberly Ferguson-Walter,2019,6,AI Magazine
+10.1609/aimag.v34i2.2455,A Virtual Archive for the History of AI,Bruce G. Buchanan and Joshua Eckroth and Reid Smith,2017,2,AI Magazine
+10.1609/aimag.v36i1.2568,Using Semantics and Statistics to Turn Data into Knowledge,Jay Pujara and Hui Miao and Lise Getoor and William W. Cohen,2017,10,AI Magazine
+10.1609/aimag.v33i3.2422,"I Have a Robot, and I’m Not Afraid to Use It!",Gal A. Kaminka,2017,0,AI Magazine
+10.1609/aimag.v35i2.2523,ICAIL 2013: The Fourteenth International Conference on Artificial Intelligence and Law,Bart Verheij and Enrico Francesconi and Anne Gardner,2017,0,AI Magazine
+10.1609/aimag.v34i4.2511,The AAAI-13 Conference Workshops,Vikas Agrawal and Christopher Archibald and Mehul Bhatt and Hung Bui and Diane J. Cook and Juan Cortés and Christopher Geib and Vibhav Gogate and Hans W. Guesgen and Dietmar Jannach and Michael Johanson and Kristian Kersting and George Konidaris and Lars Kotthoff and Martin Michalowski and Sriraam Natarajan and Barry O'Sullivan and Marc Pickett and Vedran Podobnik and David Poole and Lokendra Shastri and Amarda Shehu and Gita Sukthankar,2017,0,AI Magazine
+10.1609/aimag.v31i1.2260,The IJCAI-09 Workshop on Learning Structural Knowledge From Observations (STRUCK-09),Ugur Kuter and Hector Munoz-Avila,2017,0,AI Magazine
+10.1609/aimag.v33i4.2405,Playing with Cases: Rendering Expressive Music with Case-Based Reasoning,Ramon López de Mántaras,2017,2,AI Magazine
+10.1609/aimag.v32i1.2352,AAAI News,Carol Hamilton,2017,0,AI Magazine
+10.1609/aimag.v29i3.2195,Calendar of Events,Managing Editor,2017,0,AI Magazine
+10.1609/aimag.v33i1.2390,Reports of the AAAI 2011 Conference Workshops,Noa Agmon and Vikas Agrawal and David W. Aha and Yiannis Aloimonos and Donagh Buckley and Prashant Doshi and Christopher Geib and Floriana Grasso and Nancy Green and Benjamin Johnston and Burt Kaliski and Christopher Kiekintveld and Edith Law and Henry Lieberman and Ole J. Mengshoel and Ted Metzler and Joseph Modayil and Douglas W. Oard and Nilufer Onder and Barry O'Sullivan and Katerina Pastra and Doina Precup and Sowmya Ramachandran and Chris Reed and Sanem Sariel-Talay and Ted Selker and Lokendra Shastri and Stephen F. Smith and Satinder Singh and Siddharth Srivastava and Gita Sukthankar and David C. Uthus and Mary-Anne Williams,2017,0,AI Magazine
+10.1609/aimag.v32i1.2338,Reports of the AAAI 2010 Fall Symposia,Roger Azevedo and Gautam Biswas and Dan Bohus and Ted Carmichael and Mark Finlayson and Mirsad Hadzikadic and Catherine Havasi and Eric Horvitz and Takayuki Kanda and Oluwasanmi Koyejo and William Lawless and Doug Lenat and Felipe Meneguzzi and Bilge Mutlu and Jean Oh and Roberto Pirrone and Antoine Raux and Donald Sofge and Gita Sukthankar and Benjamin Van Durme,2017,0,AI Magazine
+10.1609/aimag.v29i3.2162,The Seventeenth International Conference on Automated Planning and Scheduling (ICAPS-07),Mark Boddy and Maria Fox and Sylvie Thiébaux,2017,1,AI Magazine
+10.1609/aimag.v30i4.2278,Robotics: Science and Systems IV,Oliver Brock and Jeff Trinkle and Fabio Ramos,2017,0,AI Magazine
+10.1609/aimag.v32i1.2333,Transfer Learning Progress and Potential,Ted E. Senator,2017,3,AI Magazine
+10.1609/aimag.v38i4.2760,Cognitive Systems: Toward Human-Level Functionality,Sergei Nirenburg,2017,4,AI Magazine
+10.1609/aimag.v38i4.2743,Analogy and Relational Representations in the Companion Cognitive Architecture,Kenneth D. Forbus and Thomas Hinrich,2017,2,AI Magazine
+10.1609/aimag.v38i1.2737,AAAI News,Carol Hamilton,2017,0,AI Magazine
+10.1609/aimag.v31i3.2301,Report on the Twenty-Third International Florida Artificial Intelligence Research Society Conference (FLAIRS-23),R. Charles Murray and Hans W. Guesgen,2017,1,AI Magazine
+10.1609/aimag.v32i1.2328,The Special Issue of AI Magazine on Structured Knowledge Transfer,Daniel G. Shapiro and Hector Munoz-Avila and David Stracuzzi,2017,2,AI Magazine
+10.1609/aimag.v39i4.2834,Reports of the Workshops Held at the Sixth AAAI Conference on Human Computation and Crowdsourcing,Lora Aroyo and Anca Dumitrache and Jeffrey V. Nickerson and Matthew Lease and Pietro Michelucci,2018,1,AI Magazine
+10.1609/aimag.v39i3.2762,AI Rebel Agents,Alexandra Coman and David W. Aha,2018,1,AI Magazine
+10.1609/aimag.v40i4.4812,Uncertain Context: Uncertainty Quantification in Machine Learning,Brian Jalaian and Michael Lee and Stephen Russell,2020,1,AI Magazine
+10.1609/aimag.v40i4.5199,Report on the Thirty-Second International Florida Artificial Intelligence Research Society Conference (FLAIRS-32),Roman Barták and Eric Bell and Keith Brawner and Vasile Rus,2020,0,AI Magazine
+10.1609/aimag.v41i2.6598,AAAI News,Carol Hamilton,2020,0,AI Magazine
+10.1609/aimag.v41i1.5305,AAAI News,Carol Hamilton,2020,0,AI Magazine
+10.1609/aimag.v41i1.5191,Research Updates from the Deployed Applications of the 2018 Innovative Applications of Artificial Intelligence Conference (IAAI-18),Michael Youngblood and Karen Myers,2020,0,AI Magazine
+10.1609/aimag.v41i2.5300,Integrated AI Systems,Ronald Brachman and David Gunning and Murray Burke,2020,1,AI Magazine
+10.1609/aimag.v40i1.2875,AAAI Conferences Calendar,Managing Editor,2019,0,AI Magazine
+10.1609/aimag.v38i4.2792,AAAI Conferences Calendar,Managing Editor,2017,0,AI Magazine
+10.1609/aimag.v39i2.2800,"Goal Reasoning: Foundations, Emerging Applications, and Prospects",David W. Aha,2018,17,AI Magazine
+10.1609/aimag.v39i4.2822,"The 1st International Workshop on Virtual, Augmented, and Mixed Reality for Human-Robot Interaction",Tom Williams and Daniel Szafir and Tathagata Chakraborti and Heni Ben Amor,2018,9,AI Magazine
+10.1609/aimag.v39i4.2840,Report on the Second Annual Workshop on Naval Applications of Machine Learning,Managing Editor and Katie Rainey and Josh Harguess,2018,0,AI Magazine
+10.1609/aimag.v39i1.2783,Research Challenges of Digital Misinformation: Toward a Trustworthy Web,Giovanni Luca Ciampaglia and Alexios Mantzarlis and Gregory Maus and Filippo Menczer,2018,13,AI Magazine
+10.1609/aimag.v35i1.2498,Innovative Applications of Artificial Intelligence 2013,Héctor Muñoz-Avila and David Stracuzzi,2017,1,AI Magazine
+10.1609/aimag.v37i2.2661,The 2015 AAAI Fall Symposium Series Reports,Nisar Ahmed and Paul Bello and Selmer Bringsjord and Micah Clark and Bradley Hayes and Christopher Miller and Frans Oliehoek and Frank Stein and Matthijs Spaan,2017,1,AI Magazine
+10.1609/aimag.v33i1.2399,Recap of the Seventh AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment (AIIDE),Vadim Bulitko and Mark Riedl and Arnav Jhala and Michael Buro and Nathan Sturtevant,2017,3,AI Magazine
+10.1609/aimag.v33i4.2442,"McCarthy as Scientist and Engineer, with Personal Recollections",Edward Feigenbaum,2017,0,AI Magazine
+10.1609/aimag.v33i1.2394,Report on the Eighteenth International Conference on Case-Based Reasoning,Isabelle Bichindaritz and Stefania Montani,2017,4,AI Magazine
+10.1609/aimag.v33i2.2396,Competitive Benchmarking: Lessons Learned from the Trading Agent Competition,Wolfgang Ketter and Andreas Symeonidis,2017,4,AI Magazine
+10.1609/aimag.v33i3.2447,AAAI News,Carol M. Hamilton,2017,0,AI Magazine
+10.1609/aimag.v36i2.2588,The Angry Birds AI Competition,Jochen Renz and Xiaoyu Ge and Stephen Gould and Peng Zhang,2017,9,AI Magazine
+10.1609/aimag.v34i3.2492,The Mario AI Championship 2009-2012,Julian Togelius and Noor Shaker and Sergey Karakovskiy and Georgios N. Yannakakis,2017,37,AI Magazine
+10.1609/aimag.v35i3.2546,Leveraging AI Teaching in the Cloud for AI Teaching on Campus,Douglas H. Fisher,2017,1,AI Magazine
+10.1609/aimag.v36i3.2600,Deploying CommunityCommands: A Software Command Recommender System Case Study,Wei Li and Justin Matejka and Tovi Grossmann and George Fitzmaurice,2017,1,AI Magazine
+10.1609/aimag.v35i3.2549,RoboCup Soccer Leagues,Daniele Nardi and Itsuk Noda and Fernando Ribeiro and Peter Stone and Oskar Von Stryk and Manuela Veloso,2017,9,AI Magazine
+10.1609/aimag.v35i3.2524,A Survey of Artificial Intelligence Research at the IIIA,Ramon Lopez de Mantaras,2017,0,AI Magazine
+10.1609/aimag.v33i2.2410,Emerging Applications for Intelligent Diabetes Management,Cindy Marling and Matthew Wiley and Razvan Bunescu and Jay Shubrook and Frank Schwartz,2017,17,AI Magazine
+10.1609/aimag.v37i2.2660,The AIIDE 2015 Workshop Program,Camille Barot and Michael Buro and Michael Cook and Mirjam Palosaari Eladhari and Boyang “Albert” Li and Antonios Liapis and Magnus Johansson and Josh McCoy and Santiago Ontañón and Jonathan Rowe and Emmett Tomai and Harko Verhagen and Alexander Zook,2017,0,AI Magazine
+10.1609/aimag.v36i2.2587,Report on the Twenty-Second International Conference on Case-Based Reasoning,Derek Bridge and Luc Lamontagne and Enric Plaza,2017,0,AI Magazine
+10.1609/aimag.v37i2.2668,AAAI Conferences Calendar,Managing Editor,2017,0,AI Magazine
+10.1609/aimag.v32i4.2378,The Seventh International Conference on Intelligent Environments (IE 11): A Report,Juan Carlos Augusto and Sean Hanna and Achilles Kameas and Ahmad Lotfi,2017,0,AI Magazine
+10.1609/aimag.v34i2.2479,Announcing the Digital Edition of AI Magazine,David Leake,2017,0,AI Magazine
+10.1609/aimag.v33i1.2395,The International SAT Solver Competitions,Matti Järvisalo and Daniel Le Berre and Olivier Roussel and Laurent Simon,2017,49,AI Magazine
+10.1609/aimag.v33i3.2446,AAAI Conference Calendar,Managing Editor,2017,0,AI Magazine
+10.1609/aimag.v42i3.18142,"Human-Centered Recommender Systems: Origins, Advances, Challenges, and Opportunities",Joseph Konstan and Loren Terveen,2022,5,AI Magazine
+10.1609/aimag.v42i3.15108,Betting on Bets,Chris Welty and Praveen Paritosh and Kurt Bollacker,2022,0,AI Magazine
+10.1609/aimag.v37i3.2698,AAAI Conferences Calendar,Managing Editor,2017,0,AI Magazine
+10.1609/aimag.v35i2.2525,Computational Sustainability,Eric Eaton and Carla P. Gomes and Brian Williams,2017,1,AI Magazine
+10.1609/aimag.v33i3.2423,Ten Years of AAMAS: Introduction to the Special Issue,Liz Sonenberg and Peter Stone and Kagan Tumer and Pinar Yolum,2017,0,AI Magazine
+10.1609/aimag.v37i2.2659,The Amazon Picking Challenge,Peter Wurman and Joseph Romano,2017,5,AI Magazine
+10.1609/aimag.v35i2.2522,"A History of AI Research and Development in Thailand: Three Periods, Three Directions",Asanee Kawtrakul and Prasong Praneetpolgrang,2017,5,AI Magazine
+10.1609/aimag.v34i3.2493,Reports of the 2013 AAAI Spring Symposium Series,Vita Markman and Georgi Stojanov and Bipin Indurkhya and Takashi Kido and Keiki Takadama and George Konidaris and Eric Eaton and Naohiro Matsumura and Renate Fruchter and Donald Sofge and William Lawless and Omid Madani and Rahul Sukthankaris,2017,1,AI Magazine
+10.1609/aimag.v35i2.2530,Active Learning in Lecture with Peer Instruction,Cynthia Bailey Lee,2017,0,AI Magazine
+10.1609/aimag.v33i2.2412,A Machine Learning Approach to the Detection of Fetal Hypoxia during Labor and Delivery,Philip A. Warrick and Emily F. Hamilton and Robert E. Kearney and Doina Precup,2017,9,AI Magazine
+10.1609/aimag.v31i1.2283,"An Integrated Modeling Environment to Study the Co-evolution of Networks, Individual Behavior and Epidemics",Christopher Barrett and Keith Bisset and Jonathan Leidig and Achla Marathe and Madhav V. Marathe,2017,15,AI Magazine
+10.1609/aimag.v31i2.2214,Applying Software Engineering to Agent Development,Mark A. Cohen and Frank E. Ritter and Steven R Haynes,2017,6,AI Magazine
+10.1609/aimag.v36i2.2586,A Semantic Infrastructure for Personalisable Context-Aware Environments,Simon Scerri and Jeremy Debattista and Judie Attard and Ismael Rivera,2017,3,AI Magazine
+10.1609/aimag.v30i3.2275,AAAI Conferences Calendar,Managing Editor,2017,0,AI Magazine
+10.1609/aimag.v36i2.2580,Parallelizing Plan Recognition,Christopher W. Geib and Christopher E. Swetenham,2017,0,AI Magazine
+10.1609/aimag.v36i4.2629,Cognitive Orthoses: Toward Human-Centered AI,Kenneth M. Ford and Patrick J. Hayes and Clark Glymour and James Allen,2017,12,AI Magazine
+10.1609/aimag.v37i2.2666,After Seventeen Years and 70 Issues ...,David B. Leake,2017,1,AI Magazine
+10.1609/aimag.v30i3.2256,Essay in the Style of Douglas Hofstadter,Douglas Hofstadter,2017,0,AI Magazine
+10.1609/aimag.v36i2.2581,Reducing Friction for Knowledge Workers with Task Context,Mik Kersten and Gail C. Murphy,2017,0,AI Magazine
+10.1609/aimag.v35i1.2542,AAAI Conferences Calendar,Managing Editor,2017,0,AI Magazine
+10.1609/aimag.v31i3.2293,AI Theory and Practice: A Discussion on Hard Challenges and Opportunities Ahead,Eric Horvitz and Lise Getoor and Carlos Guestrin and James Hendler and Joseph Konstan and Devika Subramanian and Michael Wellman and Henry Kautz,2017,1,AI Magazine
+10.1609/aimag.v32i1.2339,Enabling Intelligence through Middleware: Report of the AAAI 2010 Workshop,Monica Anderson and Andrea L. Thomaz,2017,0,AI Magazine
+10.1609/aimag.v37i1.2649,"Toward a Comprehension Challenge, Using Crowdsourcing as a Tool",Praveen Paritosh and Gary Marcus,2017,2,AI Magazine
+10.1609/aimag.v37i1.2650,Beyond the Turing Test,Gary Marcus and Francesca Rossi and Manuela Veloso,2017,22,AI Magazine
+10.1609/aimag.v30i1.2173,Using Game Theory for Los Angeles Airport Security,James Pita and Manish Jain and Fernando Ordóñez and Christopher Portway and Milind Tambe and Craig Western and Praveen Paruchuri and Sarit Kraus,2017,56,AI Magazine
+10.1609/aimag.v32i3.2361,Recommender Systems: An Overview,Robin Burke and Alexander Felfernig and Mehmet H. Göker,2017,75,AI Magazine
+10.1609/aimag.v32i2.2349,Providing Decision Support for Cosmogenic Isotope Dating,Laura Rassbach and Elizabeth Bradley and Ken Anderson,2017,2,AI Magazine
+10.1609/aimag.v42i4.15111,"Looking Back, Looking Ahead: Symbolic versus Connectionist AI",Ashok Goel,2022,3,AI Magazine
+10.1609/aimag.v41i3.5322,Adaptable Conversational Machines,Nurul Lubis and Michael Heck and Carel Van Niekerk and Milica Gasic,2020,0,AI Magazine
+10.1609/aimag.v41i3.5320,Improving the Accuracy and Transparency of Underwriting with AI to Transform the Life Insurance Industry,Marc Maier and Hayley Carlotto and Sara Saperstein and Freddie Sanchez and Sherriff Balogun and Sears Merritt,2020,4,AI Magazine
+10.1609/aimag.v38i2.2732,Using AI to Teach AI: Lessons from an Online AI Class,Ashok K. Goel and David A. Joyner,2017,25,AI Magazine
+10.1609/aimag.v34i4.2512,Any-Angle Path Planning,Alex Nash and Sven Koenig,2017,36,AI Magazine
+10.1609/aimag.v30i3.2249,YQX Plays Chopin,Gerhard Widmer and Sebastian Flossmann and Maarten Grachten,2017,19,AI Magazine
+10.1609/aimag.v30i3.2257,Computational Creativity: Coming of Age,Simon Colton and Ramon Lopez de Mantaras and Oliviero Stock,2017,45,AI Magazine
+10.1609/aimag.v42i3.18140,Deep Learning for Recommender Systems: A Netflix Case Study,Harald Steck and Linas Baltrunas and Ehtsham Elahi and Dawen Liang and Yves Raimond and Justin Basilico,2022,11,AI Magazine
+10.1002/aaai.12069,Intelligent planning for large‐scale multi‐agent systems,Hang Ma,2022,0,AI Magazine
+10.1002/aaai.12057,Building effective recommender systems for tourists,David Massimo and Francesco Ricci,2022,2,AI Magazine
+10.1609/aimag.v33i4.2448,The Answer Set Programming Competition,Francesco Calimeri and Giovambattista Ianni and Thomas Krennwallner and Francesco Ricca,2017,12,AI Magazine
+10.1609/aimag.v41i2.5259,On Crashing the Barrier of Meaning in Artificial Intelligence,Melanie Mitchell,2020,5,AI Magazine
+10.1609/aimag.v29i4.2197,Preferences in Interactive Systems: Technical Challenges and Case Studies,Bart Peintner and Paolo Viappiani and Neil Yorke-Smith,2017,17,AI Magazine
+10.1609/aimag.v38i3.2756,Steps Toward Robust Artificial Intelligence,Thomas G. Dietterich,2017,49,AI Magazine
+10.1609/aimag.v40i3.2864,Recent Trends in Context Exploitation for Information Fusion and AI,Lauro Snidaro and Jesús García Herrero and James Llinas and Erik Blasch,2019,8,AI Magazine
+10.1609/aimag.v38i1.2711,Deploying nEmesis: Preventing Foodborne Illness by Data Mining Social Media,Adam Sadilek and Henry Kautz and Lauren DiPrete and Brian Labus and Eric Portman and Jack Teitel and Vincent Silenzio,2017,24,AI Magazine
+10.1609/aimag.v29i4.2204,Planning with Preferences,"Jorge A, Baier and Sheila A. McIlraith",2017,29,AI Magazine
+10.1609/aimag.v38i4.2746,The Case for Explicit Ethical Agents,Matthias Scheutz,2017,15,AI Magazine
+10.1609/aimag.v34i4.2490,AI Grand Challenges for Education,Beverly Park Woolf and H. Chad Lane and Vinay K. Chaudhri and Janet L. Kolodner,2017,55,AI Magazine
+10.1609/aimag.v30i2.2238,Autonomous Driving in Traffic: Boss and the Urban Challenge,Chris Urmson and Chris Baker and John Dolan and Paul Rybski and Bryan Salesky and William Whittaker and Dave Ferguson and Michael Darms,2017,77,AI Magazine
+10.1609/aimag.v32i3.2368,Recommender Systems in Commercial Use,Susan E. Aldrich,2017,8,AI Magazine
+10.1609/aimag.v32i2.2336,An Application of Transfer to American Football: From Observation of Raw Video to Control in a Simulated Environment,David J. Stracuzzi and Alan Fern and Kamal Ali and Robin Hess and Jervis Pinto and Nan Li and Tolga Konik and Daniel G. Shapiro,2017,15,AI Magazine
+10.1609/aimag.v38i1.2716,Shakey: From Conception to History,Benjamin Kuipers and Edward A. Feigenbaum and Peter E. Hart and Nils J. Nilsson,2017,14,AI Magazine
+10.1609/aimag.v40i3.5181,Reports of the AAAI 2019 Spring Symposium Series,Ioana Baldini and Clark Barrett and Antonio Chella and Carlos Cinelli and David Gamez and Leilani Gilpin and Knut Hinkelmann and Dylan Holmes and Takashi Kido and Murat Kocaoglu and William Lawless and Alessio Lomuscio and Jamie Macbeth and Andreas Martin and Ranjeev Mittu and Evan Patterson and Donald Sofge and Prasad Tadepalli and Keiki Takadama and Shomir Wilson,2019,0,AI Magazine
+10.1609/aimag.v41i1.5201,Experiences and Insights for Collaborative Industry-Academic Research in Artificial Intelligence,Lisa Amini and Ching-Hua Chen and David Cox and Aude Oliva and Antonio Torralba,2020,1,AI Magazine
+10.1609/aimag.v41i2.6599,AAAI Conferences Calendar,Managing Editor,2020,0,AI Magazine
+10.1609/aimag.v41i2.5297,Human Language Technology,Mark Liberman and Charles Wayne,2020,3,AI Magazine
+10.1609/aimag.v41i4.7398,The Association for the Advancement of Artificial Intelligence 2020 Workshop Program,Grace Bang and Guy Barash and Ryan Bea and Jacques Cali and Mauricio Castillo-Effen and Xin Chen and Niyati Chhaya and Rachel Cummings and Rohan Dhoopar and Sebastijan Dumanci and Huáscar Espinoza and Eitan Farchi and Ferdinando Fioretto and Raquel Fuentetaja and Christopher Geib and Odd Erik Gundersen and José Hernández-Orallo and Xiaowei Huang and Kokil Jaidka and Sarah Keren and Seokhwan Kim and Michel Galley and Xiaomo Liu and Tyler Lu and Zhiqiang Ma and Richard Mallah and John McDermid and Martin Michalowski and Reuth Mirsky and Seán Ó hÉigeartaigh and Deepak Ramachandran and Javier Segovia-Aguas and Onn Shehory and Arash Shaban-Nejad and Vered Shwartz and Siddharth Srivastava and Kartik Talamadupula and Jian Tang and Pascal Van Hentenryck and Dell Zhang and Jian Zhang,2021,0,AI Magazine
+10.1609/aimag.v40i1.2861,The AI Bookie,Chris Welty and Lora Aroyo and Eric Horvitz,2019,0,AI Magazine
+10.1609/aimag.v40i1.2844,"Reinforcement Learning: Connections, Surprises, and Challenge",Andrew G. Barto,2019,2,AI Magazine
+10.1609/aimag.v39i3.2828,AAAI News,Carol Hamilton,2018,0,AI Magazine
+10.1609/aimag.v39i3.2809,Learning from Artificial Intelligence’s Previous Awakenings: The History of Expert Systems,David C. Brock,2018,7,AI Magazine
+10.1609/aimag.v40i4.2868,Experiments in Social Media,Toby Walsh,2020,0,AI Magazine
+10.1609/aimag.v40i4.5292,AAAI Conferences Calendar,Managing Editor,2020,0,AI Magazine
+10.1609/aimag.v41i1.5200,"Governance, Risk, and Artificial Intelligence",Aaron Mannes,2020,6,AI Magazine
+10.1609/aimag.v39i1.2778,A Retrospective on Mutual Bootstrapping,Ellen Riloff and Rosie Jones,2018,4,AI Magazine
+10.1609/aimag.v40i4.5185,Standing on the Feet of Giants — Reproducibility in AI,Odd Erik Gundersen,2020,2,AI Magazine
+10.1609/aimag.v41i3.5321,Automated Assignment of Helpdesk Email Tickets: An AI Lifecycle Case Study,Shivali Agarwal and Jayachandu Bandlamudi and Atri Mandal and Anupama Ray and Giriprasad Sridhara,2020,0,AI Magazine
+10.1609/aimag.v31i4.2318,Reports of the AAAI 2010 Conference Workshops,David W. Aha and Mark Boddy and Vadim Bulitko and Artur S. D'Avila Garcez and Prashant Doshi and Stefan Edelkamp and Christopher Geib and Piotr Gmytrasiewicz and Robert P. Goldman and Pascal Hitzler and Charles Isbell and Darsana Josyula and Leslie Pack Kaelbling and Kristian Kersting and Maithilee Kunda and Luis C. Lamb and Bhaskara Marthi and Keith McGreggor and Vivi Nastase and Gregory Provan and Anita Raja and Ashwin Ram and Mark Riedl and Stuart Russell and Ashish Sabharwal and Jan-Georg Smaus and Gita Sukthankar and Karl Tuyls and Ron Van der Meyden and Alon Halevy and Lilyana Mihalkova and Sriraam Natarajan,2017,0,AI Magazine
+10.1609/aimag.v32i1.2323,EAAI-10: The First Symposium on Educational Advances in Artificial Intelligence,Marie DesJardins and Mehran Sahami and Kiri Wagstaff,2017,0,AI Magazine
+10.1609/aimag.v37i1.2633,Fifteenth International Conference on Artificial Intelligence and Law (ICAIL 2015),Katie Atkinson and Jack Conrad and Anne Gardner and Ted Sichelman,2017,0,AI Magazine
+10.1609/aimag.v32i2.2337,Toward a Computational Model of Transfer,Daniel Oblinger,2017,1,AI Magazine
+10.1609/aimag.v30i1.2208,The Seventeenth Annual AAAI Robot Exhibition and Manipulation and Mobility Workshop,Monica Anderson and Odest Chadwicke Jenkins and Paul Oh,2017,0,AI Magazine
+10.1609/aimag.v32i1.2353,AAAI Conferences Calendar,Managing Editor,2017,0,AI Magazine
+10.1609/aimag.v31i3.2320,AAAI News,Carol M. Hamilton,2017,0,AI Magazine
+10.1609/aimag.v30i2.2239,SmartChoice: An Online Recommender System to Support Low-Income Families in Public School Choice,David C. Wilson and Suzanne Leland and Kenneth Godwin and Andrew Baxter and Ashley Levy and Jamie Smart and Nadia Najjar and Jayakrishnan Andaparambil,2017,4,AI Magazine
+10.1609/aimag.v29i3.2148,AAAI 2008 Spring Symposia Reports,Marcello Balduccini and Chitta Baral and Boyan Brodaric and Simon Colton and Peter Fox and David Gutelius and Knut Hinkelmann and Ian Horswill and Bernardo Huberman and Eva Hudlicka and Kristina Lerman and Christine Lisetti and Deborah L. McGuinness and Mary Lou Maher and Mark A. Musen and Mehran Sahami and Derek Sleeman and Barbara Thönssen and Juan D. Velasquez and Dan Ventura,2017,0,AI Magazine
+10.1002/aaai.12073,Hierarchical planning and reasoning about partially ordered plans—From theory to practice,Pascal Bercher,2022,0,AI Magazine
+10.1002/aaai.12041,Human‐centered intelligent training for emergency responders,Ranjana K. Mehta and Jason Moats and Rohith Karthikeyan and Joseph L. Gabbard and Divya Srinivasan and Eric Jing Du and Alexander Leonessa and Garret Burks and Andrew Stephenson and Ron Fernandes,2022,0,AI Magazine
+10.1609/aimag.v42i2.7484,Considerations on Creating Conversational Agents For Multiple Environments and Users,Javier Cebrián and Ramón Martínez-Jiménez and Natalia Rodriguez and Luis Fernando D’Haro,2022,1,AI Magazine
+10.1609/aimag.v42i3.18145,Progress in Recommender Systems Research: Crisis? What Crisis?,Paolo Cremonesi and Dietmar Jannach,2022,2,AI Magazine
+10.1002/aaai.12055,"Recommender systems, ground truth, and preference pollution",Gediminas Adomavicius and Jesse C. Bockstedt and Shawn P. Curley and Jingjing Zhang,2022,1,AI Magazine
+10.1002/aaai.12062,The AI field needs translational Ethical AI research,Jana Schaich Borg,2022,0,AI Magazine
+10.1609/aimag.v34i2.2474,The Annual Computer Poker Competition,Nolan Bard and John Hawkin and Jonathan Rubin and Martin Zinkevich,2017,3,AI Magazine
+10.1609/aimag.v39i3.2816,"On Reproducible AI: Towards Reproducible Research, Open Science, and Digital Scholarship in AI Publications",Odd Erik Gundersen and Yolanda Gil and David W. Aha,2018,17,AI Magazine
+10.1609/aimag.v30i2.2241,Beyond Audio and Video: Using Claytronics to Enable Pario,Seth Copen Goldstein and Todd C. Mowry and Jason D. Campbell and Michael P Ashley-Rollman and Michael De Rosa and Stanislav Funiak and James F. Hoburg and Mustafa E. Karagozler and Brian Kirby and Peter Lee and Padmanabhan Pillai and J. Robert Reid and Daniel D. Stancil and Michael P. Weller,2017,13,AI Magazine
+10.1609/aimag.v39i1.2775,Large-Scale Occupational Skills Normalization for Online Recruitment,Phuong Hoang and Thomas Mahoney and Faizan Javed and Matt McNair,2018,7,AI Magazine
+10.1609/aimag.v38i3.2754,Reports on the 2017 AAAI Spring Symposium Series,Jeannette Bohg and Xavier Boix and Nancy Chang and Elizabeth F. Churchill and Vivian Chu and Fei Fang and Jerome Feldman and Avelino J. González and Takashi Kido and William F. Lawless and José L. Montaña and Santiago Ontañón and Jivko Sinapov and Don Sofge and Luc Steels and Molly Wright Steenson and Keiki Takadama and Amulya Yadav,2017,1,AI Magazine
+10.1609/aimag.v38i4.2726,Will There Be Superintelligence and Would It Hate Us?,Yorick Wilks,2017,2,AI Magazine
+10.1609/aimag.v39i4.2781,Summary Report of the Second International Competition on Computational Models of Argumentation,Sara A. Gaggl and Thomas Linsbichler and Marco Maratea and Stefan Woltran,2018,7,AI Magazine
+10.1609/aimag.v38i4.2767,Daniel G. Bobrow: In Memoriam,Johann DeKleer,2017,0,AI Magazine
+10.1609/aimag.v32i1.2341,AAAI-10 Classic Paper Award: Systematic Nonlinear Planning A Commentary,Daniel S. Weld,2017,3,AI Magazine
+10.1609/aimag.v39i4.2841,Report on the 2018 International AAAI Conference on Web and Social Media,Kate Starbird and Ingmar Weber,2018,1,AI Magazine
+10.1609/aimag.v29i4.2180,Preference Handling for Artificial Intelligence,Judy Goldsmith and Ulrich Junker,2017,49,AI Magazine
+10.1609/aimag.v1i1.88,"Research in Progress at the Information Sciences Institute, University of Southern California",Robert Balzer and Lee Erman and Martin Feather and Neil Goldman and Philip London and David Wile and David Wilczynski and Robert Lingard and William Mark and William Mann and James Moore and Mel Pirtle and David Dyer and William Rizzi and Danny Cohen and Jeff Barnett and Iris Kameny and Yechiam Yemini,2017,0,AI Magazine
+10.1609/aimag.v32i2.2346,Optimizing Limousine Service with AI,Andy Hon Wai Chun,2017,1,AI Magazine
+10.1609/aimag.v34i2.2473,Thinking Fast and Slow: An Approach to Energy-Efficient Human Activity Recognition on Mobile Devices,Yifei Jiang and Du Li and Qin Lv,2017,2,AI Magazine
+10.1609/aimag.v37i1.2638,The Social-Emotional Turing Challenge,William Jarrold and Peter Z. Yeh,2017,1,AI Magazine
+10.1609/aimag.v35i1.2505,Using Analogy to Cluster Hand-Drawn Sketches for Sketch-Based Educational Software,Maria D. Chang and Kenneth D. Forbus,2017,2,AI Magazine
+10.1609/aimag.v38i1.2720,RuleML (Web Rule Symposium) 2016 Report,Paul Foder and Guido Governatori and José Júlio Alfers and Leopoldo Bertossi,2017,0,AI Magazine
+10.1609/aimag.v31i4.2326,AAAI News,Carol M. Hamilton,2017,0,AI Magazine
+10.1609/aimag.v39i4.2839,Report on the Sixth AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2018),Yiling Chen and Gabriella Kazai,2018,1,AI Magazine
+10.1609/aimag.v39i2.2794,Machine Theorem Discovery,Fangzhen Lin,2018,0,AI Magazine
+10.1609/aimag.v39i1.2771,Holistic Conversational Assistants,Charles L. Ortiz,2018,2,AI Magazine
+10.1609/aimag.v39i2.2798,The 13th AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment,Brian Magerko and Julio César Bahamón and Michael Buro and Rossana Damiano and Jo Mazeika and Santiago Ontañón and Justus Robertson and James Ryan and Kristin Siu,2018,0,AI Magazine
+10.1609/aimag.v39i1.2790,Accentuating the Magazine in AI Magazine,Ashok Goel,2018,0,AI Magazine
+10.1609/aimag.v39i1.2777,The First microRTS Artificial Intelligence Competition,Santiago Ontañón and Nicolas A. Barriga and Cleyton R. Silva and Rubens O. Moraes and Levi H. S. Lelis,2018,13,AI Magazine
+10.1609/aimag.v39i1.2808,AAAI Conferences Calendar,Managing Editor,2018,0,AI Magazine
+10.1609/aimag.v38i4.2772,Reports of the Workshops Held at the 2017 International AAAI Conference on Web and Social Media,Jisun An and Giovanni Luca Ciampaglia and Nir Grinberg and Kenneth Joseph and Alexios Mantzarlis and Gregory Maus and Filippo Menczer and Nicholas Proferes and Brooke Foucault Welles,2017,2,AI Magazine
+10.1609/aimag.v35i1.2501,Integrating Digital Pens in Breast Imaging for Instant Knowledge Acquisition,Daniel Sonntag and Markus Weber and Alexander Cavallaro and Matthias Hammon,2017,15,AI Magazine
+10.1609/aimag.v36i4.2528,DiversiNews: Surfacing Diversity in Online News,Mitja Trampuš and Flavio Fuart and Daniele Pighin and Tadej Štajner and Jan Berčič and Blaz Novak and Delia Rusu and Luka Stopar and Marko Grobelnik,2017,4,AI Magazine
+10.1609/aimag.v37i2.2632,PSINET: Assisting HIV Prevention Amongst Homeless Youth by Planning Ahead,Amulya Yadav and Leandro Soriano Marcolino and Eric Rice and Robin Petering and Hailey Winetrobe and Harmony Rhoades and Milind Tambe and Heather Carmichael,2017,0,AI Magazine
+10.1609/aimag.v34i1.2437,Mechanix: A Sketch-Based Tutoring and Grading System for Free-Body Diagrams,Stephanie Valentine and Francisco Vides and George Lucchese and David Turner and Hong-hoe Kim and Wenzhe Li and Julie Linsey and Tracy Hammond,2017,13,AI Magazine
+10.1609/aimag.v34i2.2470,Artificial Intelligence on Mobile Devices: An Introduction to the Special Issue,Qiang Yang and Feng Zhao,2017,0,AI Magazine
+10.1609/aimag.v30i4.2267,Designing for Usability of an Adaptive Time Management Assistant,Julie Sage Weber and Neil Yorke-Smith,2017,0,AI Magazine
+10.1609/aimag.v30i4.2277,The Fifth International Conference on Intelligent Environments (IE 09): A Report,Vic Callaghan and Achilles Kameas and Dolors Royo and Angelica Reyes and Leandro Navarro,2017,0,AI Magazine
+10.1609/aimag.v37i4.2695,Harold Cohen and AARON,Paul Cohen,2017,7,AI Magazine
+10.1609/aimag.v33i3.2430,AI@NICTA,Nick Barnes and Peter Baumgartner and Tiberio Caetano and Hugh Durrant-Whyte and Gerwin Klein and Penelope Sanderson and Abdul Sattar and Peter Stuckey and Sylvie Thiebaux and Pascal Van Hentenryck and Toby Walsh,2017,0,AI Magazine
+10.1609/aimag.v31i3.2298,True Knowledge: Open-Domain Question Answering Using Structured Knowledge and Inference,William Tunstall-Pedoe,2017,16,AI Magazine
+10.1609/aimag.v37i4.2690,Report on the 29th International Florida Artificial Intelligence Research Society Conference (FLAIRS-29),Zdravko Markov and Ingrid Russell and Bill Eberle,2017,0,AI Magazine
+10.1609/aimag.v36i2.2579,Plan Recognition for Exploratory Learning Environments Using Interleaved Temporal Search,Oriel Uzan and Reuth Dekel and Or Seri and Ya’akov (Kobi) Gal,2017,7,AI Magazine
+10.1609/aimag.v32i2.2372,AAAI Conferences Calendar,Managing Editor,2017,0,AI Magazine
+10.1609/aimag.v33i3.2420,"An Overview of Recent Application Trends at the AAMAS Conference: Security, Sustainability and Safety",Manish Jain and Bo An and Milind Tambe,2017,9,AI Magazine
+10.1609/aimag.v37i2.2620,The CADE ATP System Competition — CASC,Geoff Sutcliffe,2017,27,AI Magazine
+10.1609/aimag.v34i1.2458,RoboCup Rescue Robot and Simulation Leagues,H. Levent Akin and Nobuhiro Ito and Adam Jacoff and Alexander Kleiner and Johannes Pellenz and Arnoud Visser,2017,28,AI Magazine
+10.1609/aimag.v37i4.2692,Reports of the Workshops Held at the 2016 International AAAI Conference on Web and Social Media,Jisun An and David J. Crandall and Roman Fedorov and Casey Fiesler and Fabio Giglietto and Bahareh Heravi and Jessica Pater and Konstantinos Pelechrinis and Daniele Quercia and Katrin Weller and Arkaitz Zubiaga,2017,0,AI Magazine
+10.1609/aimag.v35i2.2527,Reconstructing Velocities of Migrating Birds from Weather Radar – A Case Study in Computational Sustainability,Andrew Farnsworth and Daniel Sheldon and Jeffrey Geevarghese and Jed Irvine and Benjamin Van Doren and Kevin Webb and Thomas G. Dietterich and Steve Kelling,2017,11,AI Magazine
+10.1609/aimag.v37i3.2628,Symbiotic Cognitive Computing,Robert G. Farrell and Jonathan Lenchner and Jeffrey O. Kephjart and Alan M. Webb and MIchael J. Muller and Thomas D. Erikson and David O. Melville and Rachel K.E. Bellamy and Daniel M. Gruen and Jonathan H. Connell and Danny Soroker and Andy Aaron and Shari M. Trewin and Maryam Ashoori and Jason B. Ellis and Brian P. Gaucher and Dario Gil,2017,15,AI Magazine
+10.1609/aimag.v36i2.2578,Architectures for Activity Recognition and Context-Aware Computing,Christopher Geib and Vikas Agrawal and Gita Sukthankar and Lokendra Shastri and Hung Bui,2017,1,AI Magazine
+10.1609/aimag.v37i3.2674,The Israeli AI Community,Ariel Felner,2017,1,AI Magazine
+10.1609/aimag.v33i4.2454,AAAI News,Carol M. Hamilton,2017,0,AI Magazine
+10.1609/aimag.v36i1.2576,Reports of the Workshops Held at the Tenth AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment,Tiffany Barnes and Oliver Bown and Michael Buro and Michael Cook and Arne Eigenfeldt and Héctor Muñoz-Avila and Santiago Ontañón and Philippe Pasquier and Noriko Tomuro and R. Michael Young and Alexander Zook,2017,2,AI Magazine
+10.1609/aimag.v30i2.2242,Introduction to the Special Issue on IAAI 2008,Mehmet H. Goker and Karen Zita Haigh,2017,0,AI Magazine
+10.1609/aimag.v37i2.2667,AAAI News,Carol Hamilton,2017,0,AI Magazine
+10.1609/aimag.v38i1.2714,Using Global Constraints to Automate Regression Testing,Arnaud Gotlieb and Dusica Marijan,2017,3,AI Magazine
+10.1609/aimag.v37i4.2688,Twenty-Five Years of Successful Application of Constraint Technologies at Siemens,Andreas Falkner and Gerhard Friedrich and Alois Haselböck and Gottfried Schenner and Herwig Schreiner,2017,7,AI Magazine
+10.1609/aimag.v34i1.2459,Reports on the 2012 AIIDE Workshops,Oliver Bown and Arne Eigenfeldt and Rania Hodhod and Philippe Pasquier and Reid Swanson and Stephen G. Ware and Jichen Zhu,2017,0,AI Magazine
+10.1609/aimag.v30i1.2234,AAAI-08 and IAAI-08 Conferences Provide Focal Point for AI,Sara Reese Hedberg,2017,0,AI Magazine
+10.1609/aimag.v1i1.85,Natural Language Understanding,Avron Barr,2017,3,AI Magazine
+10.1609/aimag.v31i1.2288,The Third Competition on Knowledge Engineering for Planning and Scheduling,Roman Bartak and Simone Fratini and Lee McCluskey,2017,0,AI Magazine
+10.1609/aimag.v36i3.2607,Reports on the 2014 AAAI Fall Symposium Series,Adam B. Cohen and Sonia Chernova and James Giordano and Frank Guerin and Kris Hauser and Bipin Indurkhya and Matteo Leonetti and Larry Medsker and Martin Michalowski and Daniel Sonntag and Georgi Stojanov and Dan G. Tecuci and Andrea Thomaz and Tony Veale and Ulli Waltinger,2017,0,AI Magazine
+10.1609/aimag.v33i2.2418,AAAI Conferences Calendar,Managing Editor,2017,0,AI Magazine
+10.1609/aimag.v37i2.2625,Activity Planning for a Lunar Orbital Mission,John L. Bresina,2017,1,AI Magazine
+10.1609/aimag.v38i1.2708,Editorial Introduction: Innovative Applications of Artificial Intelligence 2016,Peter Yeh and James Crawford,2017,1,AI Magazine
+10.1609/aimag.v35i3.2547,The Grid-Based Path Planning Competition,Nathan R. Sturtevant,2017,6,AI Magazine
+10.1609/aimag.v35i4.2551,Space Applications of Artificial Intelligence,Steve Chien and Robert Morris,2017,5,AI Magazine
+10.1609/aimag.v37i1.2663,AAAI Conferences Calendar,Managing Editor,2017,0,AI Magazine
+10.1609/aimag.v29i4.2179,Preferences and Nonmonotonic Reasoning,Gerhard Brewka and Ilkka Niemela and Miroslaw Truszczynski,2017,23,AI Magazine
+10.1609/aaai.12028,Avoiding Negative Side Effects Due to Incomplete Knowledge of AI Systems,Sandhya Saisubramanian and Shlomo Zilberstein and Ece Kamar,2023,0,AI Magazine
+10.1002/aaai.12070,Learning causality with graphs,Jing Ma and Jundong Li,2022,0,AI Magazine
+10.1609/aimag.v41i3.7391,AAAI Conferences Calendar,Managing Editor,2020,0,AI Magazine
+10.1609/aaai.12022,Do We Need a Hippocratic Oath for Artificial Intelligence Scientists?,Nikolaos Siafakas,2023,0,AI Magazine
+10.1609/aaai.12023,Large Scale Multilingual Sticker Recommendation In Messaging Apps,Abhishek Laddha and Mohamed Hanoosh and Debdoot Mukherjee and Parth Patwa and Ankur Narang,2023,0,AI Magazine
+10.1609/aimag.v32i1.2329,An Introduction to Intertask Transfer for Reinforcement Learning,Matthew E. Taylor and Peter Stone,2017,27,AI Magazine
+10.1609/aimag.v37i4.2687,Challenges in Building Highly-Interactive Dialog Systems,Nigel G. Ward and David DeVault,2017,11,AI Magazine
+10.1609/aimag.v33i1.2392,A Survey of the Seventh International Planning Competition,Amanda Coles and Andrew Coles and Angel García Olaya and Sergio Jiménez and Carlos Linares López and Scott Sanner and Sungwook Yoon,2017,29,AI Magazine
+10.1609/aimag.v33i3.2425,Agent-Based Modeling and Simulation,Franziska Klügl and Ana L. C. Bazzan,2017,54,AI Magazine
+10.1609/aimag.v37i3.2678,Applications of Answer Set Programming,Esra Erdem and Michael Gelfond and Nicola Leone,2017,89,AI Magazine
+10.1609/aimag.v41i1.5204,"Patterns and Anti-Patterns, Principles and Pitfalls: Accountability and Transparency in AI",Jeanna Matthews,2020,4,AI Magazine
+10.1609/aimag.v36i4.2577,Research Priorities for Robust and Beneficial Artificial Intelligence,Stuart Russell and Daniel Dewey and Max Tegmark,2017,218,AI Magazine
+10.1609/aimag.v30i4.2271,AI and HCI: Two Fields Divided by a Common Focus,Jonathan Grudin,2017,41,AI Magazine
+10.1609/aimag.v31i3.2305,Adapting Open Information Extraction to Domain-Specific Relations,Stephen Soderland and Brendan Roof and Bo Qin and Shi Xu and - Mausam and Oren Etzioni,2017,30,AI Magazine
+10.1609/aimag.v32i4.2383,Believable Robot Characters,Reid Simmons and Maxim Makatchev and Rachel Kirby and Min Kyung Lee and Imran Fanaswala and Brett Browning and Jodi Forlizzi and Majd Sakr,2017,37,AI Magazine
