@@ -1,0 +1,828 @@
+DOI,Título,Autores,Año,Citas,Revista
+10.1017/s1351324905003943,Automated extraction of Tree-Adjoining Grammars from treebanks,JOHN CHEN and SRINIVAS BANGALORE and K. VIJAY-SHANKER,2006,8,Natural Language Engineering
+10.1017/s1351324902002942,Robust methods in analysis of natural language data,AFZAL BALLIM and VINCENZO PALLOTTA,2002,0,Natural Language Engineering
+10.1017/s1351324916000103,Preface,REINHARD RAPP and SERGE SHAROFF and PIERRE ZWEIGENBAUM,2016,0,Natural Language Engineering
+10.1017/s1351324904213432,Spotting and Discovering Terms through Natural Language Processing by Christian Jacquemin. The MIT Press. 2001. ISBN 0-262-10085-1. 36.50. 378 pages,John I. Tait,2004,0,Natural Language Engineering
+10.1017/s1351324911000210,Exploring patterns in dictionary definitions for synonym extraction,TONG WANG and GRAEME HIRST,2012,7,Natural Language Engineering
+10.1017/s1351324901002601,Natural language interface to video database,T. R. GAYATRI and S. RAMAN,2001,1,Natural Language Engineering
+10.1017/s1351324919000482,NLE volume 25 issue 5 Cover and Back matter,,2019,0,Natural Language Engineering
+10.1017/s135132491500025x,NLE volume 21 issue 4 Cover and Back matter,,2015,0,Natural Language Engineering
+10.1017/s1351324921000255,NLE volume 27 issue 5 Cover and Back matter,,2021,0,Natural Language Engineering
+10.1017/s1351324915000376,Mapping Arabic WordNet synsets to Wikipedia articles using monolingual and bilingual features,ABDULGABBAR SAIF and MOHD JUZAIDDIN AB AZIZ and NAZLIA OMAR,2017,5,Natural Language Engineering
+10.1017/s1351324914000059,NLE volume 20 issue 3 Cover and Back matter,,2014,0,Natural Language Engineering
+10.1017/s1351324918000086,From image to language and back again,A. BELZ and T.L. BERG and L. YU,2018,0,Natural Language Engineering
+10.1017/s1351324913000296,Densification: Semantic document analysis using Wikipedia,IUSTIN DORNESCU and CONSTANTIN ORĂSAN,2014,2,Natural Language Engineering
+10.1017/s1351324920000388,Focus of negation: Its identification in Spanish,Mariona Taulé and Montserrat Nofre and Mónica González and Maria Antònia Martí,2021,5,Natural Language Engineering
+10.1017/s1351324917000158,Dropped personal pronoun recovery in Chinese SMS,CHRIS GIANNELLA and RANSOM WINDER and STACY PETERSEN,2017,4,Natural Language Engineering
+10.1017/s1351324903213292,"Jean-Claude Junqa and Gertjan van Noord, editors. Robustness in Language and Speech Technology. Kluwer Academic Publishers. 2001. ISBN 0-7923-6790-1 Price $100 (hardback). x + 269 pages",Miles Osborne,2003,0,Natural Language Engineering
+10.1017/s1351324913000077,Karen Spärck Jones Award – Nominations for the 2013 award invited,John Tait,2013,0,Natural Language Engineering
+10.1017/s1351324905223720,"Ali Farghlay, editor. Handbook for Language Engineers (CSLI Lecture Notes, No. 164). CSLI Publications, Stanford, California. ISBN 1-57586-395-2 £17.50/$25 (paperback), 1-57586-390-0 £44/$62.50 (hardback). xi + 422 pages",Mark Stevenson,2005,0,Natural Language Engineering
+10.1017/s135132492200050x,Parameter-efficient feature-based transfer for paraphrase identification,Xiaodong Liu and Rafal Rzepka and Kenji Araki,2022,0,Natural Language Engineering
+10.1017/s1351324910000318,Assessing user simulation for dialog systems using human judges and automatic evaluation measures,HUA AI and DIANE LITMAN,2011,1,Natural Language Engineering
+10.1017/s1351324920000273,NLE volume 26 issue 4 Cover and Back matter,,2020,0,Natural Language Engineering
+10.1017/s1351324918000311,NLE volume 24 issue 5 Cover and Back matter,,2018,0,Natural Language Engineering
+10.1017/s1351324905004067,Dialogue act recognition under uncertainty using Bayesian networks,SIMON KEIZER and RIEKS OP DEN AKKER,2007,8,Natural Language Engineering
+10.1017/s1351324903003115,Recursion by optimization: on the complexity of bidirectional optimality theory,GERHARD JÄGER,2003,2,Natural Language Engineering
+10.1017/s1351324902002887,Robustness beyond shallowness: incremental deep parsing,S. AÏT-MOKHTAR and J.-P. CHANOD and C. ROUX,2002,85,Natural Language Engineering
+10.1017/s1351324910000185,"An information-theoretic, vector-space-model approach to cross-language information retrieval",PETER A. CHEW and BRETT W. BADER and STEPHEN HELMREICH and AHMED ABDELALI and STEPHEN J. VERZI,2011,11,Natural Language Engineering
+10.1017/s1351324922000237,Emerging trends: General fine-tuning (gft),Kenneth Ward Church and Xingyu Cai and Yibiao Ying and Zeyu Chen and Guangxu Xun and Yuchen Bian,2022,0,Natural Language Engineering
+10.1017/s1351324921000371,Joint learning of morphology and syntax with cross-level contextual information flow,Burcu Can and Hüseyin Aleçakır and Suresh Manandhar and Cem Bozşahin,2022,0,Natural Language Engineering
+10.1017/s1351324905214006,"Ruslan Mitkov, Anaphora Resolution. Longman. 2002. ISBN 0-582-32505-6. Price £49.99 (hardback). xiii + 220 pages",Judita Preiss,2005,0,Natural Language Engineering
+10.1017/s1351324908004683,"Industry Watch: Language technology, meet social networking",ROBERT DALE,2008,0,Natural Language Engineering
+10.1017/s1351324907004615,ELHISA: An architecture for the integration of heterogeneous lexical information,XABIER ARTOLA and AITOR SOROA,2008,0,Natural Language Engineering
+10.1017/s1351324920000315,Imparting interpretability to word embeddings while preserving semantic structure,Lütfi Kerem Şenel and İhsan Utlu and Furkan Şahinuç and Haldun M. Ozaktas and Aykut Koç,2021,1,Natural Language Engineering
+10.1017/s135132491300020x,NLE volume 19 issue 4 Cover and Back matter,,2013,0,Natural Language Engineering
+10.1017/s1351324907004627,Editorial Note,Ruslan Mitkov,2008,0,Natural Language Engineering
+10.1017/s1351324908004750,On the subjectivity of human-authored summaries,BALAKRISHNA KOLLURU and YOSHIHIKO GOTOH,2009,0,Natural Language Engineering
+10.1017/s1351324917000468,"Term variation in specialised corpora: Characterisation, automatic discovery and applications, by B. Daille John Benjamins Publishing Company (Terminology and Lexicography Research and Practice), 2017",LUIZ ANTÔNIO LOPES MESQUITA,2018,0,Natural Language Engineering
+10.1017/s1351324922000018,SoundexGR: An algorithm for phonetic matching for the Greek language,Antrei Kavros and Yannis Tzitzikas,2022,0,Natural Language Engineering
+10.1017/s1351324905003967,The importance of the lexicon in tagging biological text,LAWRENCE H. SMITH and THOMAS C. RINDFLESCH and W. JOHN WILBUR,2006,6,Natural Language Engineering
+10.1017/s1351324909990222,"Learning Machine Translation, edited by Cyril Goutte, Nicola Cancedda, Marc Dymetman and George Foster. MIT Press, 2009.",Miles Osborne,2010,0,Natural Language Engineering
+10.1017/s1351324918000153,NLE volume 24 issue 3 Cover and Front matter,,2018,0,Natural Language Engineering
+10.1017/s1351324913000399,NLE volume 20 issue 2 Cover and Front matter,,2014,0,Natural Language Engineering
+10.1017/s1351324917000390,Exploring open information via event network,YANPING CHEN and QINGHUA ZHENG and FENG TIAN and HUAN LIU and YAZHOU HAO and NAZARAF SHAH,2018,2,Natural Language Engineering
+10.1017/s135132492000042x,NLE volume 26 issue 5 Cover and Front matter,,2020,0,Natural Language Engineering
+10.1017/s1351324901002571,A natural language system for retrieval of captioned images,DAVID ELWORTHY and TONY ROSE and AMANDA CLARE and AARON KOTCHEFF,2001,2,Natural Language Engineering
+10.1017/s1351324916000176,A transformation-driven approach for recognizing textual entailment,ROBERTO ZANOLI and SILVIA COLOMBO,2017,4,Natural Language Engineering
+10.1017/s1351324911000076,Using regular tree grammars to enhance sentence realisation,CLAIRE GARDENT and BENJAMIN GOTTESMAN and LAURA PEREZ-BELTRACHINI,2011,1,Natural Language Engineering
+10.1017/s1351324916000279,The next generation,KENNETH WARD CHURCH,2016,0,Natural Language Engineering
+10.1017/s1351324900002485,Speech technology on trial: Experiences from the August system,JOAKIM GUSTAFSON and LINDA BELL,2000,10,Natural Language Engineering
+10.1017/s1351324905003864,Optimization of word alignment clues,JÖRG TIEDEMANN,2005,3,Natural Language Engineering
+10.1017/s1351324921000115,SwitchNet: Learning to switch for word-level language identification in code-mixed social media text,Neelakshi Sarma and Ranbir Sanasam Singh and Diganta Goswami,2022,2,Natural Language Engineering
+10.1017/s1351324910000057,WordICA—emergence of linguistic representations for words by independent component analysis,TIMO HONKELA and AAPO HYVÄRINEN and JAAKKO J. VÄYRYNEN,2010,12,Natural Language Engineering
+10.1017/s1351324911000374,Generating example contexts to help children learn word meaning,LIU LIU and JACK MOSTOW and GREGORY S. AIST,2013,0,Natural Language Engineering
+10.1017/s1351324904003390,Industry Watch,ROBERT DALE,2004,0,Natural Language Engineering
+10.1017/s1351324911000088,Syntactic error detection and correction in date expressions using finite-state transducers,ARANTZA DÍAZ DE ILARRAZA and KOLDO GOJENOLA and MAITE ORONOZ and IÑAKI ALEGRIA,2011,0,Natural Language Engineering
+10.1017/s1351324909990246,Editorial Note,Ruslan Mitkov,2010,0,Natural Language Engineering
+10.1017/s1351324915000467,NLE volume 22 issue 2 Cover and Front matter,,2016,0,Natural Language Engineering
+10.1017/s1351324901009433,Special Issue on Robust Methods in Analysis of Natural Language Data,Afzal Ballim and Vincenzo Pallotta,2001,0,Natural Language Engineering
+10.1017/s1351324908004865,Adding semantic roles to the Chinese Treebank,NIANWEN XUE and MARTHA PALMER,2009,25,Natural Language Engineering
+10.1017/s1351324913000314,Exploring the effectiveness of linguistic knowledge for biographical relation extraction,MARCOS GARCIA and PABLO GAMALLO,2015,2,Natural Language Engineering
+10.1017/s1351324903003309,Industry watch,ROBERT DALE,2004,3,Natural Language Engineering
+10.1017/s1351324900002357,Appendix: Definitions of typed feature structures,ANN COPESTAKE,2000,2,Natural Language Engineering
+10.1017/s1351324918000268,Extraction of templates from phrases using Sequence Binary Decision Diagrams,D. HIRANO and K. TANAKA-ISHII and A. FINCH,2018,2,Natural Language Engineering
+10.1017/s1351324912000253,SongRecommend: From summarization to recommendation,SWATI TATA and BARBARA DI EUGENIO,2014,0,Natural Language Engineering
+10.1017/s1351324919000342,Learning keyphrases from corpora and knowledge models,R. Silveira and V. Furtado and V. Pinheiro,2020,1,Natural Language Engineering
+10.1017/s1351324908004956,Learning effective and engaging strategies for advice-giving human-machine dialogue,MARTIJN SPITTERS and MARCO DE BONI and JAKUB ZAVREL and REMKO BONNEMA,2009,3,Natural Language Engineering
+10.1017/s1351324918000165,NLE volume 24 issue 3 Cover and Back matter,,2018,0,Natural Language Engineering
+10.1017/s1351324919000068,NLE volume 25 issue 2 Cover and Front matter,,2019,0,Natural Language Engineering
+10.1017/s135132490200284x,A statistical information extraction system for Turkish,GÖKHAN TÜR and DILEK HAKKANI-TÜR and KEMAL OFLAZER,2003,52,Natural Language Engineering
+10.1017/s1351324912000071,On morphological relatedness,AHMED KHORSI,2013,5,Natural Language Engineering
+10.1017/s1351324913000181,A syntactic approach for opinion mining on Spanish reviews,DAVID VILARES and MIGUEL A. ALONSO and CARLOS GÓMEZ-RODRÍGUEZ,2015,29,Natural Language Engineering
+10.1017/s1351324918000402,NLE volume 24 issue 6 Cover and Back matter,,2018,0,Natural Language Engineering
+10.1017/s1351324905003979,Industry Watch,ROBERT DALE,2005,1,Natural Language Engineering
+10.1017/s1351324921000036,NLE volume 27 issue 2 Cover and Front matter,,2021,0,Natural Language Engineering
+10.1017/s1351324910000112,Distributional lexical semantics: Toward uniform representation paradigms for advanced acquisition and processing tasks,R. BASILI and M. PENNACCHIOTTI,2010,4,Natural Language Engineering
+10.1017/s1351324910000045,A topological embedding of the lexicon for semantic distance computation,N. DAVIS and C. GIRAUD-CARRIER and D. JENSEN,2010,0,Natural Language Engineering
+10.1017/s1351324918000487,NLE volume 25 issue 1 Cover and Front matter,,2019,0,Natural Language Engineering
+10.1017/s1351324902003066,Dedication to William A. Gale,KENNETH CHURCH,2002,0,Natural Language Engineering
+10.1017/s135132491700047x,A framework for enriching lexical semantic resources with distributional semantics,CHRIS BIEMANN and STEFANO FARALLI and ALEXANDER PANCHENKO and SIMONE PAOLO PONZETTO,2018,5,Natural Language Engineering
+10.1017/s1351324910000033,NLE volume 16 issue 2 Cover and Back matter,,2010,0,Natural Language Engineering
+10.1017/s1351324903003085,Lenient morphological analysis,KEMAL OFLAZER,2003,1,Natural Language Engineering
+10.1017/s1351324917000298,To use or not to use: Feature selection for sentiment analysis of highly imbalanced data,SANDRA KÜBLER and CAN LIU and ZEESHAN ALI SAYYED,2018,10,Natural Language Engineering
+10.1017/s1351324906004268,Source authoring for multilingual generation of personalised object descriptions,I. ANDROUTSOPOULOS and J. OBERLANDER and V. KARKALETSIS,2007,7,Natural Language Engineering
+10.1017/s1351324909990131,Assessing the impact of frame semantics on textual entailment,ALJOSCHA BURCHARDT and MARCO PENNACCHIOTTI and STEFAN THATER and MANFRED PINKAL,2009,17,Natural Language Engineering
+10.1017/s1351324919000391,Neural text normalization with adapted decoding and POS features,T. Ruzsics and M. Lusetti and A. Göhring and T. Samardžić and E. Stark,2019,1,Natural Language Engineering
+10.1017/s1351324922000201,"Natural Language Processing for Corpus Linguistics by Jonathan Dunn. Cambridge: Cambridge University Press, 2022. ISBN 9781009070447 (PB), ISBN 9781009070447 (OC), vi+88 pages.",Ju Wen and Lan Yi,2022,0,Natural Language Engineering
+10.1017/s1351324905004055,An algorithm for the unsupervised learning of morphology,JOHN GOLDSMITH,2006,40,Natural Language Engineering
+10.1017/s1351324903003073,Finite state methods for hyphenation,GOSSE BOUMA,2003,9,Natural Language Engineering
+10.1017/s1351324909990155,Extracting paraphrase patterns from bilingual parallel corpora,SHIQI ZHAO and HAIFENG WANG and TING LIU and SHENG LI,2009,6,Natural Language Engineering
+10.1017/s1351324911000180,Recentred local profiles for authorship attribution,ROBERT LAYTON and PAUL WATTERS and RICHARD DAZELEY,2012,24,Natural Language Engineering
+10.1017/s1351324918000189,"Emerging trends: Artificial Intelligence, China and my new job at Baidu",KENNETH WARD CHURCH,2018,2,Natural Language Engineering
+10.1017/s135132492100005x,"Emerging trends: Ethics, intimidation, and the Cold War",Kenneth Ward Church and Valia Kordoni,2021,1,Natural Language Engineering
+10.1017/s1351324901212613,"Andrew Radford. Syntactic Theory and the Structure of English: A minimalist approach. Cambridge University Press, 1997. £18.95, ISBN 0-521-47707-7. Andrew Radford. Syntax: A minimalist introduction. Cambridge University Press, 1997. £14.95, ISBN 0-521-58914-2.",PIUS TEN HACKEN,2001,2,Natural Language Engineering
+10.1017/s1351324921000401,Gamified crowdsourcing for idiom corpora construction,GülŞen Eryiğit and Ali Şentaş and Johanna Monti,2022,1,Natural Language Engineering
+10.1017/s1351324906004153,"Some useful tactics to modify, map and mine data from intelligent tutors",JACK MOSTOW and JOSEPH BECK,2006,62,Natural Language Engineering
+10.1017/s1351324919000433,Tackling challenges of neural purchase stage identification from imbalanced twitter data,Heike Adel and Francine Chen and Yan-Ying Chen,2020,1,Natural Language Engineering
+10.1017/s1351324921000450,$NLP: How to spend a billion dollars,Robert Dale,2022,2,Natural Language Engineering
+10.1017/s1351324917000067,"Emerging trends: I did it, I did it, I did it, but. . .",KENNETH WARD CHURCH,2017,8,Natural Language Engineering
+10.1017/s1351324920000194,Is your document novel? Let attention guide you. An attention-based model for document-level novelty detection,Tirthankar Ghosal and Vignesh Edithal and Asif Ekbal and Pushpak Bhattacharyya and Srinivasa Satya Sameer Kumar Chivukula and George Tsatsaronis,2021,3,Natural Language Engineering
+10.1017/s1351324903003188,An augmented template-based approach to text realization,SUSAN W. MCROY and SONGSAK CHANNARUKUL and SYED S. ALI,2003,18,Natural Language Engineering
+10.1017/s1351324914000102,(Un/Semi-)supervised SMS text message SPAM detection,CHRIS R. GIANNELLA and RANSOM WINDER and BRANDON WILSON,2015,5,Natural Language Engineering
+10.1017/s1351324921000103,Automated evaluation of the quality of ideas in compositions based on concept maps,Li-Ping Yang and Tao Xin and Fang Luo and Sheng Zhang and Xue-Tao Tian,2022,1,Natural Language Engineering
+10.1017/s1351324910000227,Natural discourse reference generation reduces cognitive load in spoken systems,E. CAMPANA and M. K. TANENHAUS and J. F. ALLEN and R. REMINGTON,2011,12,Natural Language Engineering
+10.1017/s1351324908004798,A Semantic Scattering model for the automatic interpretation of English genitives,ADRIANA BADULESCU and DAN MOLDOVAN,2009,1,Natural Language Engineering
+10.1017/s1351324922000328,From unified phrase representation to bilingual phrase alignment in an unsupervised manner,Jingshu Liu and Emmanuel Morin and Sebastian Peña Saldarriaga and Joseph Lark,2022,0,Natural Language Engineering
+10.1017/s1351324919000548,"Mining, analyzing, and modeling text written on mobile devices",K. Vertanen and P.O. Kristensson,2021,4,Natural Language Engineering
+10.1017/s1351324919000469,How to evaluate machine translation: A review of automated and human metrics,Eirini Chatzikoumi,2020,13,Natural Language Engineering
+10.1017/s1351324919000329,Designing a virtual patient dialogue system based on terminology-rich resources: Challenges and evaluation,Leonardo Campillos-Llanos and Catherine Thomas and Éric Bilinski and Pierre Zweigenbaum and Sophie Rosset,2020,14,Natural Language Engineering
+10.1017/s135132490600444x,A general feature space for automatic verb classification,ERIC JOANIS and SUZANNE STEVENSON and DAVID JAMES,2008,23,Natural Language Engineering
+10.1017/s1351324919000056,"Annotating a broad range of anaphoric phenomena, in a variety of genres: the ARRAU Corpus",Olga Uryupina and Ron Artstein and Antonella Bristot and Federica Cavicchio and Francesca Delogu and Kepa J. Rodriguez and Massimo Poesio,2020,6,Natural Language Engineering
+10.1017/s1351324901002728,Applied morphological processing of English,GUIDO MINNEN and JOHN CARROLL and DARREN PEARCE,2001,79,Natural Language Engineering
+10.1017/s1351324902002875,Parsing engineering and empirical robustness,ROBERTO BASILI and FABIO MASSIMO ZANZOTTO,2002,24,Natural Language Engineering
+10.1017/s1351324908004968,Adapting SVM for data sparseness and imbalance: a case study in information extraction,YAOYONG LI and KALINA BONTCHEVA and HAMISH CUNNINGHAM,2009,40,Natural Language Engineering
+10.1017/s1351324922000031,Topical language generation using transformers,Rohola Zandie and Mohammad H. Mahoor,2023,0,Natural Language Engineering
+10.1017/s1351324922000122,Gender bias in legal corpora and debiasing it,Nurullah Sevim and Furkan Şahinuç and Aykut Koç,2023,2,Natural Language Engineering
+10.1017/s135132490400364x,The Penn Chinese TreeBank: Phrase structure annotation of a large corpus,NAIWEN XUE and FEI XIA and FU-DONG CHIOU and MARTA PALMER,2005,170,Natural Language Engineering
+10.1017/s1351324912000277,Context identification of sentences in research articles: Towards developing intelligent tools for the research community,M. A. ANGROSH and STEPHEN CRANEFIELD and NIGEL STANGER,2013,2,Natural Language Engineering
+10.1017/s1351324903003127,An efficient incremental DFA minimization algorithm,BRUCE W. WATSON and JAN DACIUK,2003,23,Natural Language Engineering
+10.1017/s1351324911000313,Automated unsupervised authorship analysis using evidence accumulation clustering,ROBERT LAYTON and PAUL WATTERS and RICHARD DAZELEY,2013,24,Natural Language Engineering
+10.1017/s1351324913000260,Improving syntactic rule extraction through deleting spurious links with translation span alignment,JINGBO ZHU and QIANG LI and TONG XIAO,2015,4,Natural Language Engineering
+10.1017/s1351324908004920,Follow-up question handling in the IMIX and Ritel systems: A comparative study,B. W. VAN SCHOOTEN and R. OP DEN AKKER and S. ROSSET and O. GALIBERT and A. MAX and G. ILLOUZ,2009,8,Natural Language Engineering
+10.1017/s1351324904003468,Evolving GATE to meet new challenges in language engineering,KALINA BONTCHEVA and VALENTIN TABLAN and DIANA MAYNARD and HAMISH CUNNINGHAM,2004,86,Natural Language Engineering
+10.1017/s1351324900002515,Towards best practice in the development and evaluation of speech recognition components of a spoken language dialog system,LORI LAMEL and WOLFGANG MINKER and PATRICK PAROUBEK,2000,3,Natural Language Engineering
+10.1017/s1351324915000406,Multilingual native language identification,SHERVIN MALMASI and MARK DRAS,2017,11,Natural Language Engineering
+10.1017/s1351324923000050,An end-to-end neural framework using coarse-to-fine-grained attention for overlapping relational triple extraction,Huizhe Su and Hao Wang and Xiangfeng Luo and Shaorong Xie,2023,0,Natural Language Engineering
+10.1017/s1351324919000378,"Measuring diachronic language distance using perplexity: Application to English, Portuguese, and Spanish",José Ramom Pichel Campos and Pablo Gamallo Otero and Iñaki Alegria Loinaz,2020,4,Natural Language Engineering
+10.1017/s1351324910000264,Subjectivity detection in spoken and written conversations,GABRIEL MURRAY and GIUSEPPE CARENINI,2011,12,Natural Language Engineering
+10.1017/s1351324912000125,Recent advances in methods of lexical semantic relatedness – a survey,ZIQI ZHANG and ANNA LISA GENTILE and FABIO CIRAVEGNA,2013,33,Natural Language Engineering
+10.1017/s1351324903003267,Robust parsing with weighted constraints,KILIAN FOTH and WOLFGANG MENZEL and INGO SCHRÖDER,2005,10,Natural Language Engineering
+10.1017/s1351324913000259,SePaS: Word sense disambiguation bysequentialpatterns insentences,MASOUD NAROUEI and MANSOUR AHMADI and ASHKAN SAMI,2015,4,Natural Language Engineering
+10.1017/s1351324917000250,CCG supertagging with bidirectional long short-term memory networks,REKIA KADARI and YU ZHANG and WEINAN ZHANG and TING LIU,2018,6,Natural Language Engineering
+10.1017/s1351324920000376,Negation detection for sentiment analysis: A case study in Spanish,Salud María Jiménez-Zafra and Noa P. Cruz-Díaz and Maite Taboada and María Teresa Martín-Valdivia,2021,4,Natural Language Engineering
+10.1017/s1351324917000109,A scaffolding approach to coreference resolution integrating statistical and rule-based models,HEEYOUNG LEE and MIHAI SURDEANU and DAN JURAFSKY,2017,12,Natural Language Engineering
+10.1017/s1351324916000097,NERA 2.0: Improving coverage and performance of rule-based named entity recognition for Arabic,MAI OUDAH and KHALED SHAALAN,2017,22,Natural Language Engineering
+10.1017/s1351324916000395,Detecting sexual predators in chats using behavioral features and imbalanced learning,CLAUDIA CARDEI and TRAIAN REBEDEA,2017,9,Natural Language Engineering
+10.1017/s1351324910000124,Directional distributional similarity for lexical inference,LILI KOTLERMAN and IDO DAGAN and IDAN SZPEKTOR and MAAYAN ZHITOMIRSKY-GEFFET,2010,66,Natural Language Engineering
+10.1017/s1351324906004505,MaltParser: A language-independent system for data-driven dependency parsing,JOAKIM NIVRE and JOHAN HALL and JENS NILSSON and ATANAS CHANEV and GÜLŞEN ERYİGİT and SANDRA KÜBLER and SVETOSLAV MARINOV and ERWIN MARSI,2007,212,Natural Language Engineering
+10.1017/s135132491800027x,"Text analytics APIs, Part 2: The smaller players",ROBERT DALE,2018,6,Natural Language Engineering
+10.1017/s1351324910000306,"Steven Bird, Evan Klein and Edward Loper. Natural Language Processing with Python. O'Reilly Media, Inc.2009. ISBN: 978-0-596-51649-9.",Nianwen Xue,2011,13,Natural Language Engineering
+10.1017/s1351324920000029,Learning to rank for multi-label text classification: Combining different sources of information,Hosein Azarbonyad and Mostafa Dehghani and Maarten Marx and Jaap Kamps,2021,17,Natural Language Engineering
+10.1017/s135132491900010x,Robust stylometric analysis and author attribution based on tones and rimes,Renkui Hou and Chu-Ren Huang,2020,12,Natural Language Engineering
+10.1017/s1351324915000121,In Memory of Geoffrey Leech – ERRATUM,,2015,0,Natural Language Engineering
+10.1017/s1351324908004890,HITIQA: High-quality intelligence through interactive question answering,S. SMALL and T. STRZALKOWSKI,2009,8,Natural Language Engineering
+10.1017/s1351324919000627,Transfer learning for Turkish named entity recognition on noisy text,Emre Kağan Akkaya and Burcu Can,2021,8,Natural Language Engineering
+10.1017/s1351324911000209,NLE volume 17 issue 3 Cover and Back matter,,2011,0,Natural Language Engineering
+10.1017/s1351324922000444,A benchmark for evaluating Arabic word embedding models,Sane Yagi and Ashraf Elnagar and Shehdeh Fareh,2022,0,Natural Language Engineering
+10.1017/s1351324920000248,"Lyndon White, Roberto Togneri, Wei Liu and Mohammed Bennamoun, Neural Representations of Natural Language. Singapore, Springer, 2019. XIV + 122 pages, ISBN:9789811300615",Haoda Feng,2022,0,Natural Language Engineering
+10.1017/s1351324922000389,NLE volume 28 issue 5 Cover and Back matter,,2022,0,Natural Language Engineering
+10.1017/s1351324913000119,Improving shift-reduce constituency parsing with large-scale unlabeled data,MUHUA ZHU and JINGBO ZHU and HUIZHEN WANG,2015,1,Natural Language Engineering
+10.1017/s1351324902002917,Full parsing approximation for information extraction via finite-state cascades,FABIO CIRAVEGNA and ALBERTO LAVELLI,2002,1,Natural Language Engineering
+10.1017/s1351324901002789,The TREC question answering track,ELLEN M. VOORHEES,2001,91,Natural Language Engineering
+10.1017/s1351324918000141,A closed-domain question answering framework using reliable resources to assist students,CANER DERİCİ and YİĞİT AYDIN and ÇİĞDEM YENİALACA and NİHAL YAĞMUR AYDIN and GÜNİZİ KARTAL and ARZUCAN ÖZGÜR and TUNGA GÜNGÖR,2018,6,Natural Language Engineering
+10.1017/s1351324915000388,"Survey about citation context analysis: Tasks, techniques, and resources",MYRIAM HERNÁNDEZ-ALVAREZ and JOSÉ M. GOMEZ,2016,49,Natural Language Engineering
+10.1017/s135132491300017x,"Inderjeet Mani. Computational Modeling of Narrative. Synthesis Lectures on Human Language Technologies No. 18. Seattle, WA: Morgan &amp; Claypool Publishers, 2013. ISBN 978-1-60845-981-0 (paperback: $40); ISBN 978-1-60845-982-7 (e-book: $30). xvii + 124 pages (doi:10.2200/S00459ED1V01Y201212HLT018).",Mark Alan Finlayson,2014,0,Natural Language Engineering
+10.1017/s1351324903003103,Logical specification of regular relations for NLP,NATHAN VAILLETTE,2003,2,Natural Language Engineering
+10.1017/s1351324907004573,Industry Watch,ROBERT DALE,2007,0,Natural Language Engineering
+10.1017/s1351324901002753,An LVQ connectionist solution to the non-determinacy problem in Arabic morphological analysis: a learning hybrid algorithm,M. A. EL-AFFENDI,2002,2,Natural Language Engineering
+10.1017/s1351324919000299,Combining n-grams and deep convolutional features for language variety classification,Matej Martinc and Senja Pollak,2019,4,Natural Language Engineering
+10.1017/s1351324917000055,"Domain-Sensitive Temporal Tagging, by Jannik Strötgen , Michael Gertz . CA, USA. Morgan &amp; Claypool, 2016. ISBN 9781627054591. 152 pages.",Leon Derczynski,2017,0,Natural Language Engineering
+10.1017/s1351324911000131,Unsupervised lexicon induction for clause-level detection of evaluations,HIROSHI KANAYAMA and TETSUYA NASUKAWA,2012,9,Natural Language Engineering
+10.1017/s1351324900002394,Parser engineering and performance profiling,STEPHAN OEPEN and JOHN CARROLL,2000,10,Natural Language Engineering
+10.1017/s135132490000245x,An architecture for a generic dialogue shell,JAMES ALLEN and DONNA BYRON and MYROSLAVA DZIKOVSKA and GEORGE FERGUSON and LUCIAN GALESCU and AMANDA STENT,2000,44,Natural Language Engineering
+10.1017/s1351324907004561,Bootstrapping spoken dialogue systems by exploiting reusable libraries,GIUSEPPE DI FABBRIZIO and GOKHAN TUR and DILEK HAKKANI-TÜR and MAZIN GILBERT and BERNARD RENGER and DAVID GIBBON and ZHU LIU and BEHZAD SHAHRARAY,2008,6,Natural Language Engineering
+10.1017/s1351324913000272,Authorship analysis of aliases: Does topic influence accuracy?,ROBERT LAYTON and PAUL A. WATTERS and RICHARD DAZELEY,2015,4,Natural Language Engineering
+10.1017/s1351324919000251,NLE volume 25 issue 4 Cover and Front matter,,2019,0,Natural Language Engineering
+10.1017/s1351324913000120,NLE volume 19 issue 3 Cover and Front matter,,2013,0,Natural Language Engineering
+10.1017/s1351324916000255,Supervised approach to recognise Polish temporal expressions and rule-based interpretation of timexes,JAN KOCOŃ and MICHAŁ MARCIŃCZUK,2017,3,Natural Language Engineering
+10.1017/s1351324918000128,Learning quantification from images: A structured neural architecture,I. SORODOC and S. PEZZELLE and A. HERBELOT and M. DIMICCOLI and R. BERNARDI,2018,1,Natural Language Engineering
+10.1017/s1351324921000425,UNLT: Urdu Natural Language Toolkit,Jawad Shafi and Hafiz Rizwan Iqbal and Rao Muhammad Adeel Nawab and Paul Rayson,2022,1,Natural Language Engineering
+10.1017/s1351324910000288,Dependency-based n-gram models for general purpose sentence realisation,YUQING GUO and HAIFENG WANG and JOSEF VAN GENABITH,2011,3,Natural Language Engineering
+10.1017/s1351324919000664,NLE volume 26 issue 1 Cover and Back matter,,2020,0,Natural Language Engineering
+10.1017/s1351324915000194,TwitterNEED: A hybrid approach for named entity extraction and disambiguation for tweet,MENA B. HABIB and MAURICE VAN KEULEN,2016,9,Natural Language Engineering
+10.1017/s1351324902009476,Editorial,John Tait and Branimir Boguraev and Christian Jacquemin,2002,0,Natural Language Engineering
+10.1017/s1351324915000157,Predicting word choice in affective text,M. GARDINER and M. DRAS,2016,0,Natural Language Engineering
+10.1017/s135132491700002x,NLE volume 23 issue 2 Cover and Front matter,,2017,0,Natural Language Engineering
+10.1017/s1351324905003876,Automatic bilingual lexicon acquisition using random indexing of parallel corpora,M. SAHLGREN and J. KARLGREN,2005,28,Natural Language Engineering
+10.1017/s1351324915000170,NLE volume 21 issue 3 Cover and Back matter,,2015,0,Natural Language Engineering
+10.1017/s1351324919000561,NLE volume 25 issue 6 Cover and Front matter,,2019,0,Natural Language Engineering
+10.1017/s1351324910000331,NLE volume 17 issue 1 Cover and Front matter,,2011,0,Natural Language Engineering
+10.1017/s135132491300003x,Designing a machine translation system for Canadian weather warnings: A case study,FABRIZIO GOTTI and PHILIPPE LANGLAIS and GUY LAPALME,2014,2,Natural Language Engineering
+10.1017/s1351324921000334,NLE volume 27 issue 6 Cover and Front matter,,2021,0,Natural Language Engineering
+10.1017/s135132490300319x,Evaluation-driven design of a robust coreference resolution system,ANDREI POPESCU-BELIS,2003,1,Natural Language Engineering
+10.1017/s1351324909990118,Inferring textual entailment with a probabilistically sound calculus,STEFAN HARMELING,2009,12,Natural Language Engineering
+10.1017/s1351324913000028,NLE volume 19 issue 2 Cover and Back matter,,2013,0,Natural Language Engineering
+10.1017/s1351324918000360,Efficient Phrase Table pruning for Hindi to English machine translation through syntactic and marker-based filtering and hybrid similarity measurement,NILADRI CHATTERJEE and SUSMITA GUPTA,2019,20,Natural Language Engineering
+10.1017/s135132492000011x,Compression versus traditional machine learning classifiers to detect code-switching in varieties and dialects: Arabic as a case study,Taghreed Tarmom and William Teahan and Eric Atwell and Mohammad Ammar Alsalka,2020,3,Natural Language Engineering
+10.1017/s1351324907004548,Some notes on the PARC 700 Dependency Bank,TOMAS BY,2007,0,Natural Language Engineering
+10.1017/s1351324906004219,Introduction,JILL BURSTEIN and CLAUDIA LEACOCK,2006,0,Natural Language Engineering
+10.1017/s1351324920000443,Cluster-based mention typing for named entity disambiguation,Arda Çelebi and Arzucan Özgür,2022,1,Natural Language Engineering
+10.1017/s1351324922000286,Artificial fine-tuning tasks for yes/no question answering,Dimitris Dimitriadis and Grigorios Tsoumakas,2022,0,Natural Language Engineering
+10.1017/s135132491800044x,InferPortOIE: A Portuguese Open Information Extraction system with inferences,Cleiton Fernando Lima Sena and Daniela Barreiro Claro,2019,5,Natural Language Engineering
+10.1017/s1351324910000239,Affect Analysis Model: novel rule-based approach to affect sensing from text,ALENA NEVIAROUSKAYA and HELMUT PRENDINGER and MITSURU ISHIZUKA,2011,54,Natural Language Engineering
+10.1017/s1351324914000199,Extractive summarization of multi-party meetings through discourse segmentation,MOHAMMAD HADI BOKAEI and HOSSEIN SAMETI and YANG LIU,2016,7,Natural Language Engineering
+10.1017/s1351324919000020,GANs vs. good enough,Kenneth Ward Church,2019,0,Natural Language Engineering
+10.1017/s1351324917000444,NLE volume 24 issue 1 Cover and Back matter,,2018,0,Natural Language Engineering
+10.1017/s1351324920000479,A note on constituent parsing for Korean,Mija Kim and Jungyeul Park,2022,1,Natural Language Engineering
+10.1017/s1351324904223439,"Word Sense Disambiguation: The Case for Combinations of Knowledge Sources, by Mark Stevenson. CLSI, 2003. ISBN: 1-57586-390-1, US$25.00 (paperback); 1-57586-389-8 US$67.50 (hardback), xvi + 175 pages",Diana Mccarthy,2004,0,Natural Language Engineering
+10.1017/s1351324917000328,NLE volume 23 issue 5 Cover and Back matter,,2017,0,Natural Language Engineering
+10.1017/s1351324921000140,"Robert C. Berwick and Edward P. Stabler, editors. Minimalist Parsing. Oxford: Oxford University Press, 2019. ISBN: 978-0-19-879508-7. Price. $40.00 (paperback). $84.00 (hardcover). xvi+192 pages",Tsy Yih,2021,0,Natural Language Engineering
+10.1017/s1351324922000493,SEN: A subword-based ensemble network for Chinese historical entity extraction,Chengxi Yan and Ruojia Wang and Xiaoke Fang,2022,0,Natural Language Engineering
+10.1017/s1351324905003815,A weighted finite state transducer translation template model for statistical machine translation,SHANKAR KUMAR and YONGGANG DENG and WILLIAM BYRNE,2006,22,Natural Language Engineering
+10.1017/s1351324912000010,Document ranking refinement using a Markov random field model,ESAÚ VILLATORO and ANTONIO JUÁREZ and MANUEL MONTES and LUIS VILLASEÑOR and L. ENRIQUE SUCAR,2012,3,Natural Language Engineering
+10.1017/s1351324921000097,Lexicon or grammar? Using memory-based learning to investigate the syntactic relationship between Belgian and Netherlandic Dutch,Robbert De Troij and Stefan Grondelaers and Dirk Speelman and Antal van den Bosch,2022,1,Natural Language Engineering
+10.1017/s1351324911000192,NLE volume 17 issue 3 Cover and Front matter,,2011,0,Natural Language Engineering
+10.1017/s1351324914000084,NLE volume 20 issue 4 Cover and Front matter,,2014,0,Natural Language Engineering
+10.1017/s1351324922000055,MHeTRep: A multilingual semantically tagged health terms repository,Jorge Vivaldi and Horacio Rodríguez,2022,0,Natural Language Engineering
+10.1017/s1351324917000456,Editorial note,RUSLAN MITKOV,2018,0,Natural Language Engineering
+10.1017/s1351324920000121,Classification of regional and genre varieties of Chinese: A correspondence analysis approach based on comparable balanced corpora,Renkui Hou and Chu-Ren Huang,2020,3,Natural Language Engineering
+10.1017/s1351324901002716,Scalable generation of texts using causal and temporal expansions of sentences,YLLIAS CHALI,2001,0,Natural Language Engineering
+10.1017/s1351324911000386,Modeling Sociocultural phenomena in discourse,GEORGE AARON BROADWELL and JENNIFER STROMER-GALLEY and TOMEK STRZALKOWSKI and SAMIRA SHAIKH and SARAH TAYLOR and TING LIU and UMIT BOZ and ALANA ELIA and LAURA JIAO and NICK WEBB,2013,8,Natural Language Engineering
+10.1017/s1351324921000243,NLE volume 27 issue 5 Cover and Front matter,,2021,0,Natural Language Engineering
+10.1017/s1351324912000058,ERD-MedLDA: Entity relation detection using supervised topic models with maximum margin learning,DINGCHENG LI and SWAPNA SOMASUNDARAN and AMIT CHAKRABORTY,2012,2,Natural Language Engineering
+10.1017/s1351324919000081,Anniversary article: Then and now: 25 years of progress in natural language engineering,John Tait and Yorick Wilks,2019,2,Natural Language Engineering
+10.1017/s1351324923000049,An unsupervised perplexity-based method for boilerplate removal,Marcos Fernández-Pichel and Manuel Prada-Corral and David E. Losada and Juan C. Pichel and Pablo Gamallo,2023,0,Natural Language Engineering
+10.1017/s1351324916000280,Editor’s Preface to Emerging Trends,,2016,0,Natural Language Engineering
+10.1017/s1351324900002345,A lightweight dependency analyzer for partial parsing,BANGALORE SRINIVAS,2000,4,Natural Language Engineering
+10.1017/s1351324919000214,A structured distributional model of sentence meaning and processing,E. Chersoni and E. Santus and L. Pannitto and A. Lenci and P. Blache and C.-R. Huang,2019,5,Natural Language Engineering
+10.1017/s1351324911000258,NLE volume 17 issue 4 Cover and Back matter,,2011,0,Natural Language Engineering
+10.1017/s1351324912000095,NLE volume 18 issue 2 Cover and Back matter,,2012,0,Natural Language Engineering
+10.1017/s1351324914000047,NLE volume 20 issue 3 Cover and Front matter,,2014,0,Natural Language Engineering
+10.1017/s1351324914000138,SCESS: a WFSA-based automated simplified chinese essay scoring system with incremental latent semantic analysis,SHUDONG HAO and YANYAN XU and DENGFENG KE and KAILE SU and HENGLI PENG,2016,3,Natural Language Engineering
+10.1017/s1351324908004877,Special issue on interactive question answering: Introduction,N. WEBB and B. WEBBER,2009,6,Natural Language Engineering
+10.1017/s1351324920000236,Computational generation of slogans,Khalid Alnajjar and Hannu Toivonen,2021,2,Natural Language Engineering
+10.1017/s1351324906004165,Correlations between dialogue acts and learning in spoken tutoring dialogues,DIANE LITMAN and KATE FORBES-RILEY,2006,21,Natural Language Engineering
+10.1017/s1351324907004639,Industry Watch,ROBERT DALE,2008,1,Natural Language Engineering
+10.1017/s1351324918000384,Identifying signs of syntactic complexity for rule-based sentence simplification,RICHARD EVANS and CONSTANTIN ORĂSAN,2019,4,Natural Language Engineering
+10.1017/s1351324922000419,RoLEX: The development of an extended Romanian lexical dataset and its evaluation at predicting concurrent lexical information,Beáta Lőrincz and Elena Irimia and Adriana Stan and Verginica Barbu Mititelu,2022,2,Natural Language Engineering
+10.1017/s1351324922000158,NLE volume 28 issue 3 Cover and Front matter,,2022,0,Natural Language Engineering
+10.1017/s1351324920000662,A machine translation mechanism of Brazilian Portuguese to Libras with syntactic-semantic adequacy,Manuella Aschoff C. B. Lima and Tiago Maritan U. de Araújo and Rostand E. O. Costa and Erickson S. Oliveira,2022,0,Natural Language Engineering
+10.1017/s1351324922000092,Explainable lexical entailment with semantic graphs,Adam Kovacs and Kinga Gemes and Andras Kornai and Gabor Recski,2022,0,Natural Language Engineering
+10.1017/s1351324918000505,Weighted finite-state transducers for normalization of historical texts,Izaskun Etxeberria and Iñaki Alegria and Larraitz Uria,2019,2,Natural Language Engineering
+10.1017/s1351324922000390,Recognition of visual scene elements from a story text in Persian natural language,Mojdeh Hashemi-Namin and Mohammad Reza Jahed-Motlagh and Adel Torkaman Rahmani,2022,0,Natural Language Engineering
+10.1017/s135132490600427x,"Natural language processing in CLIME, a multilingual legal advisory system",ROGER EVANS and PAUL PIWEK and LYNNE CAHILL and NEIL TIPPER,2008,6,Natural Language Engineering
+10.1017/s1351324904003389,Visualization-enabled multi-document summarization by Iterative Residual Rescaling,RIE ANDO and BRANIMIR BOGURAEV and ROY BYRD and MARY NEFF,2005,6,Natural Language Engineering
+10.1017/s135132490400333x,LearningPinocchio: adaptive information extraction for real world applications,F. CIRAVEGNA and A. LAVELLI,2004,13,Natural Language Engineering
+10.1017/s1351324902003042,A portable method for acquiring information extraction patterns without annotated corpora,NEUS CATALÀ and NÚRIA CASTELL and MARIO MARTÍN,2003,1,Natural Language Engineering
+10.1017/s1351324922000304,Named-entity recognition in Turkish legal texts,Can Çetindağ and Berkay Yazıcıoğlu and Aykut Koç,2022,0,Natural Language Engineering
+10.1017/s1351324921000218,Annotating argumentative structure in English-as-a-Foreign-Language learner essays,Jan Wira Gotama Putra and Simone Teufel and Takenobu Tokunaga,2022,1,Natural Language Engineering
+10.1017/s135132492200047x,NLE volume 28 issue 6 Cover and Back matter,,2022,0,Natural Language Engineering
+10.1017/s1351324903223299,"EuroWordNet: A Multilingual Database with Lexical Semantic Networks: Edited by Piek Vossen. Kluwer Academic Publishers. 1998. ISBN 0792352955, £58/$92. 179 pages",Jeremy Ellman,2003,3,Natural Language Engineering
+10.1017/s1351324921000474,Towards improving coherence and diversity of slogan generation,Yiping Jin and Akshay Bhatia and Dittaya Wanvarie and Phu T. V. Le,2023,0,Natural Language Engineering
+10.1017/s1351324921000486,Towards improving the robustness of sequential labeling models against typographical adversarial examples using triplet loss,Can Udomcharoenchaikit and Prachya Boonkwan and Peerapon Vateekul,2023,0,Natural Language Engineering
+10.1017/s1351324916000115,Recent advances in machine translation using comparable corpora,REINHARD RAPP and SERGE SHAROFF and PIERRE ZWEIGENBAUM,2016,5,Natural Language Engineering
+10.1017/s1351324916000127,End-to-end statistical machine translation with zero or small parallel texts,ANN IRVINE and CHRIS CALLISON-BURCH,2016,8,Natural Language Engineering
+10.1017/s1351324920000285,A clustering framework for lexical normalization of Roman Urdu,Abdul Rafae Khan and Asim Karim and Hassan Sajjad and Faisal Kamiran and Jia Xu,2022,1,Natural Language Engineering
+10.1017/s1351324914000126,Exploiting extra-textual and linguistic information in keyphrase extraction,GÁBOR BEREND,2016,6,Natural Language Engineering
+10.1017/s1351324910000082,Enriching ontologies with multilingual information,E. MONTIEL-PONSODA and G. AGUADO DE CEA and A. GÓMEZ-PÉREZ and W. PETERS,2011,17,Natural Language Engineering
+10.1017/s1351324901002741,SUMMAC: a text summarization evaluation,INDERJEET MANI and GARY KLEIN and DAVID HOUSE and LYNETTE HIRSCHMAN and THERESE FIRMIN and BETH SUNDHEIM,2002,65,Natural Language Engineering
+10.1017/s1351324902003029,The role of domain information in Word Sense Disambiguation,BERNARDO MAGNINI and CARLO STRAPPARAVA and GIOVANNI PEZZULO and ALFIO GLIOZZO,2002,54,Natural Language Engineering
+10.1017/s1351324903003243,A test of the leaf-ancestor metric for parse accuracy,GEOFFREY SAMPSON and ANNA BABARCZY,2003,13,Natural Language Engineering
+10.1017/s1351324909990143,A machine learning approach to textual entailment recognition,FABIO MASSIMO ZANZOTTO and MARCO PENNACCHIOTTI and ALESSANDRO MOSCHITTI,2009,28,Natural Language Engineering
+10.1017/s1351324922000298,Neural automated writing evaluation for Korean L2 writing,KyungTae Lim and Jayoung Song and Jungyeul Park,2022,0,Natural Language Engineering
+10.1017/s1351324905003839,Exploiting parallel texts in the creation of multilingual semantically annotated resources: the MultiSemCor Corpus,L. BENTIVOGLI and E. PIANTA,2005,28,Natural Language Engineering
+10.1017/s1351324912000368,Interpreting compound nouns with kernel methods,DIARMUID Ó SÉAGHDHA and ANN COPESTAKE,2013,3,Natural Language Engineering
+10.1017/s1351324913000089,General and specific paraphrases of semantic relations between nouns,PAUL NULTY and FINTAN COSTELLO,2013,3,Natural Language Engineering
+10.1017/s1351324902003054,High-level authoring of illustrated documents,KEES VAN DEEMTER and RICHARD POWER,2003,4,Natural Language Engineering
+10.1017/s1351324911000271,Evaluating vector space models with canonical correlation analysis,SAMI VIRPIOJA and MARI-SANNA PAUKKERI and ABHISHEK TRIPATHI and TIINA LINDH-KNUUTILA and KRISTA LAGUS,2012,1,Natural Language Engineering
+10.1017/s1351324902003030,An approach to the formal specification of lingware,BILEL GARGOURI and MOHAMED JMAIEL and ABDELMAJID BEN HAMADOU,2003,1,Natural Language Engineering
+10.1017/s135132491000001x,Automatic summarisation of discussion fora,ALMER S. TIGELAAR and RIEKS OP DEN AKKER and DJOERD HIEMSTRA,2010,15,Natural Language Engineering
+10.1017/s1351324915000455,Automatic generation of short answer questions for reading comprehension assessment,YAN HUANG and LIANZHEN HE,2016,8,Natural Language Engineering
+10.1017/s1351324918000025,Topics and topical phases in German social media communication during a disaster,SABINE GRÜNDER-FAHRER and ANTJE SCHLAF and GREGOR WIEDEMANN and GERHARD HEYER,2018,21,Natural Language Engineering
+10.1017/s1351324922000316,Killing me softly: Creative and cognitive aspects of implicitness in abusive language online,Simona Frenda and Viviana Patti and Paolo Rosso,2022,0,Natural Language Engineering
+10.1017/s135132490999012x,Recognizing entailment in intelligent tutoring systems,RODNEY D. NIELSEN and WAYNE WARD and JAMES H. MARTIN,2009,37,Natural Language Engineering
+10.1017/s1351324920000492,"Natural language processing for similar languages, varieties, and dialects: A survey",Marcos Zampieri and Preslav Nakov and Yves Scherrer,2020,5,Natural Language Engineering
+10.1017/s1351324905004080,Word-based predictive text entry using adaptive language models,KUMIKO TANAKA-ISHII,2007,16,Natural Language Engineering
+10.1017/s1351324900002370,On building a more effcient grammar by exploiting types,DAN FLICKINGER,2000,42,Natural Language Engineering
+10.1017/s1351324922000213,Comparison of text preprocessing methods,Christine P. Chai,2022,0,Natural Language Engineering
+10.1017/s1351324912000022,Unsupervised dependency parsing without training,ANDERS SØGAARD,2012,2,Natural Language Engineering
+10.1017/s1351324905003682,Implementing clarification dialogues in open domain question answering,MARCO DE BONI and SURESH MANANDHAR,2005,17,Natural Language Engineering
+10.1017/s1351324922000456,Towards universal methods for fake news detection,Maria Pszona and Maria Janicka and Grzegorz Wojdyga and Aleksander Wawer,2022,0,Natural Language Engineering
+10.1017/s135132490500402x,"Making fine-grained and coarse-grained sense distinctions, both manually and automatically",MARTHA PALMER and HOA TRANG DANG and CHRISTIANE FELLBAUM,2007,49,Natural Language Engineering
+10.1017/s1351324913000235,Relational paraphrase acquisition from Wikipedia: The WRPA method and corpus,M. VILA and H. RODRÍGUEZ and M. A. MARTÍ,2015,5,Natural Language Engineering
+10.1017/s1351324919000196,Learning semantic sentence representations from visually grounded language without lexical knowledge,Danny Merkx and Stefan L. Frank,2019,3,Natural Language Engineering
+10.1017/s1351324920000534,Recent advances in processing negation,Roser Morante and Eduardo Blanco,2021,6,Natural Language Engineering
+10.1017/s1351324919000305,An overview of word and sense similarity,Roberto Navigli and Federico Martelli,2019,22,Natural Language Engineering
+10.1017/s1351324919000585,It all starts with entities: A Salient entity topic model,Chuan Wu and Evangelos Kanoulas and Maarten de Rijke,2020,2,Natural Language Engineering
+10.1017/s1351324922000110,In-depth analysis of the impact of OCR errors on named entity recognition and linking,Ahmed Hamdi and Elvys Linhares Pontes and Nicolas Sidere and Mickaël Coustaty and Antoine Doucet,2023,1,Natural Language Engineering
+10.1017/s1351324923000086,Towards diverse and contextually anchored paraphrase modeling: A dataset and baselines for Finnish,Jenna Kanerva and Filip Ginter and Li-Hsin Chang and Iiro Rastas and Valtteri Skantsi and Jemina Kilpeläinen and Hanna-Mari Kupari and Aurora Piirto and Jenna Saarni and Maija Sevón and Otto Tarkka,2023,0,Natural Language Engineering
+10.1017/s1351324917000237,The commercial NLP landscape in 2017,ROBERT DALE,2017,3,Natural Language Engineering
+10.1017/s1351324901009391,Best practice in spoken language dialogue systems engineering:,JAN VAN KUPPEVELT and ULRICH HEID and HANS KAMP,2000,1,Natural Language Engineering
+10.1017/s1351324919000494,Discovering multiword expressions,Aline Villavicencio and Marco Idiart,2019,1,Natural Language Engineering
+10.1017/s1351324912000332,Sentiment analysis in Twitter,EUGENIO MARTÍNEZ-CÁMARA and M. TERESA MARTÍN-VALDIVIA and L. ALFONSO UREÑA-LÓPEZ and A RTURO MONTEJO-RÁEZ,2014,116,Natural Language Engineering
+10.1017/s1351324904003511,Implementation architectures for natural language generation,CHRIS MELLISH and ROGER EVANS,2004,5,Natural Language Engineering
+10.1017/s1351324920000406,Incorporating word embeddings in unsupervised morphological segmentation,Ahmet Üstün and Burcu Can,2021,2,Natural Language Engineering
+10.1017/s1351324913000156,Unsupervised acquisition of entailment relations from the Web,IDAN SZPEKTOR and HRISTO TANEV and IDO DAGAN and BONAVENTURA COPPOLA and MILEN KOUYLEKOV,2015,1,Natural Language Engineering
+10.1017/s1351324920000340,Learning from noisy out-of-domain corpus using dataless classification,Yiping Jin and Dittaya Wanvarie and Phu T. V. Le,2022,0,Natural Language Engineering
+10.1017/s1351324920000339,Improving speech emotion recognition based on acoustic words emotion dictionary,Wang Wei and Xinyi Cao and He Li and Lingjie Shen and Yaqin Feng and Paul A. Watters,2021,2,Natural Language Engineering
+10.1017/s1351324902002838,Word clustering and disambiguation based on co-occurrence data,HANG LI,2002,22,Natural Language Engineering
+10.1017/s1351324906004116,InfoXtract: A customizable intermediate level information extraction engine,ROHINI K. SRIHARI and WEI LI and THOMAS CORNELL and CHENG NIU,2008,17,Natural Language Engineering
+10.1017/s1351324918000037,NLE volume 24 issue 2 Cover and Front matter,,2018,0,Natural Language Engineering
+10.1017/s1351324904003663,Industry Watch,ROBERT DALE,2005,1,Natural Language Engineering
+10.1017/s1351324917000377,New treebank or repurposed? On the feasibility of cross-lingual parsing of Romance languages with Universal Dependencies,MARCOS GARCIA and CARLOS GÓMEZ-RODRÍGUEZ and MIGUEL A. ALONSO,2018,3,Natural Language Engineering
+10.1017/s1351324919000603,"Horacio Saggion, Automatic Text Simplification. Synthesis lectures on human language technologies, April 2017. 137 pages, ISBN:1627058680 9781627058681",Carolina Scarton,2020,0,Natural Language Engineering
+10.1017/s1351324922000341,Leveraging machine translation for cross-lingual fine-grained cyberbullying classification amongst pre-adolescents,Kanishk Verma and Maja Popović and Alexandros Poulis and Yelena Cherkasova and Cathal Ó hÓbáin and Angela Mazzone and Tijana Milosevic and Brian Davis,2022,0,Natural Language Engineering
+10.1017/s1351324902212851,"Christopher D. Manning and Hinrich Schutze. Foundations of Statistical Natural Language Processing. MIT Press, 2000. ISBN 0-262-13360-1. 620 pp. $64.95/£44.95 (cloth).",ADVAITH SIDDHARTHAN,2002,5,Natural Language Engineering
+10.1017/s1351324919000044,Annotation projection for temporal information extraction,Chris R. Giannella and Ransom K. Winder and Joseph P. Jubinski,2019,4,Natural Language Engineering
+10.1017/s1351324921000231,Emerging trends: Deep nets for poets,Kenneth Ward Church and Xiaopeng Yuan and Sheng Guo and Zewu Wu and Yehua Yang and Zeyu Chen,2021,5,Natural Language Engineering
+10.1017/s1351324913000041,Retrieving implicit positive meaning from negated statements,EDUARDO BLANCO and DAN MOLDOVAN,2014,7,Natural Language Engineering
+10.1017/s135132491100012x,Learning opinions in user-generated web content,M. SOKOLOVA and G. LAPALME,2011,3,Natural Language Engineering
+10.1017/s1351324917000110,NLE volume 23 issue 3 Cover and Front matter,,2017,0,Natural Language Engineering
+10.1017/s1351324909990283,"Lucy A. Suchman. Human–Machine Reconfigurations: Plans and Situated Actions, 2nd ed.Cambridge, U.K.: Cambridge University Press, 2006. ISBN-10 052167588X, ISBN-13 978-0521675888. 326 pages.",Alan F. Blackwell,2011,0,Natural Language Engineering
+10.1017/s1351324920000418,Benchmarks and goals,Kenneth Ward Church,2020,2,Natural Language Engineering
+10.1017/s1351324909990271,NLE volume 16 issue 1 Cover and Back matter,,2010,0,Natural Language Engineering
+10.1017/s1351324915000364,NLE volume 21 issue 5 Cover and Back matter,,2015,0,Natural Language Engineering
+10.1017/s1351324912000356,Using morphemes in language modeling and automatic speech recognition of Amharic,MARTHA YIFIRU TACHBELIE and SOLOMON TEFERRA ABATE and WOLFGANG MENZEL,2014,1,Natural Language Engineering
+10.1017/s1351324920000480,Preface,,2020,0,Natural Language Engineering
+10.1017/s135132491300034x,NLE volume 20 issue 1 Cover and Back matter,,2014,0,Natural Language Engineering
+10.1017/s1351324917000481,Measuring bilingual corpus comparability,BO LI and ERIC GAUSSIER and DAN YANG,2018,1,Natural Language Engineering
+10.1017/s1351324921000073,NLE volume 27 issue 3 Cover and Back matter,,2021,0,Natural Language Engineering
+10.1017/s1351324905004092,Efficient dictionary-based text rewriting using subsequential transducers,S. MIHOV and K. U. SCHULZ,2007,1,Natural Language Engineering
+10.1017/s1351324900002436,Semantic interpretation of deverbal nominalizations,RICHARD D. HULL and FERNANDO GOMEZ,2000,4,Natural Language Engineering
+10.1017/s1351324913000405,NLE volume 20 issue 2 Cover and Back matter,,2014,0,Natural Language Engineering
+10.1017/s1351324909005130,NLE volume 15 issue 3 Cover and Front matter,,2009,0,Natural Language Engineering
+10.1017/s1351324915000212,Revisiting the ontologising of semantic relation arguments in wordnet synsets,HUGO GONÇALO OLIVEIRA and PAULO GOMES,2016,0,Natural Language Engineering
+10.1017/s1351324921000188,NLE volume 27 issue 4 Cover and Back matter,,2021,0,Natural Language Engineering
+10.1017/s135132491100009x,Regular relations for temporal propositions,TIM FERNANDO,2011,1,Natural Language Engineering
+10.1017/s1351324904003547,A comparison of parsing technologies for the biomedical domain,CLAIRE GROVER and ALEX LASCARIDES and MIRELLA LAPATA,2005,14,Natural Language Engineering
+10.1017/s1351324914000163,NLE volume 21 issue 1 Cover and Back matter,,2015,0,Natural Language Engineering
+10.1017/s1351324920000212,Temporally anchored spatial knowledge: Corpora and experiments,Alakananda Vempala and Eduardo Blanco,2021,0,Natural Language Engineering
+10.1017/s1351324908004981,NLE volume 15 issue 1 Cover and Back matter,,2009,0,Natural Language Engineering
+10.1017/s1351324918000207,NLE volume 24 issue 4 Cover and Front matter,,2018,0,Natural Language Engineering
+10.1017/s1351324905224002,"Manny Rayner, David Carter, Pierrette Bouillon, Vassilis Digalakis and Mats Wiren, editors. The Spoken Language Translator. Cambridge University Press. 2000. ISBN 0-521-77077-7 Price $70 (hardback). xviii + 337 pages",Miles Osborne,2005,0,Natural Language Engineering
+10.1017/s1351324918000396,NLE volume 24 issue 6 Cover and Front matter,,2018,0,Natural Language Engineering
+10.1017/s135132491800030x,NLE volume 24 issue 5 Cover and Front matter,,2018,0,Natural Language Engineering
+10.1017/s1351324903003310,Editorial,John Tait and Branimir Boguraev and Christian Jacquemin,2004,0,Natural Language Engineering
+10.1017/s1351324909990180,NLE volume 15 issue 4 Cover and Back matter,,2009,0,Natural Language Engineering
+10.1017/s135132491400014x,Editorial note,Mitkov Ruslan,2015,0,Natural Language Engineering
+10.1017/s1351324916000292,"One, no one and one hundred thousand events: Defining and processing events in an inter-disciplinary perspective",R. SPRUGNOLI and S. TONELLI,2017,8,Natural Language Engineering
+10.1017/s1351324916000152,Building and using multimodal comparable corpora for machine translation,HAITHEM AFLI and LOÏC BARRAULT and HOLGER SCHWENK,2016,3,Natural Language Engineering
+10.1017/s1351324917000249,Syntactic methods for topic-independent authorship attribution,JOHANNA BJÖRKLUND and NIKLAS ZECHNER,2017,3,Natural Language Engineering
+10.1017/s1351324923000037,Quinductor: A multilingual data-driven method for generating reading-comprehension questions using Universal Dependencies,Dmytro Kalpakchi and Johan Boye,2023,0,Natural Language Engineering
+10.1017/s135132491600022x,NLE volume 22 issue 5 Cover and Back matter,,2016,0,Natural Language Engineering
+10.1017/s1351324920000637,"Machine Learning for Text, by Charu C. Aggarwal, New York, Springer, 2018. ISBN 9783319735306. XXIII + 493 pages.",Xiaolei Lu,2022,0,Natural Language Engineering
+10.1017/s1351324919000470,NLE volume 25 issue 5 Cover and Front matter,,2019,0,Natural Language Engineering
+10.1017/s1351324918000116,The role of image representations in vision to language tasks,PRANAVA MADHYASTHA and JOSIAH WANG and LUCIA SPECIA,2018,0,Natural Language Engineering
+10.1017/s1351324909990210,Pierre M. Nugues. An Introduction to Language Processing with Perl and Prolog. Springer-Verlag. 2006.,Ilyas Cicekli,2010,0,Natural Language Engineering
+10.1017/s1351324913000132,NLE volume 19 issue 3 Cover and Back matter,,2013,0,Natural Language Engineering
+10.1017/s1351324912000289,Modeling human newspaper readers: The Fuzzy Believer approach,RALF KRESTEL and SABINE BERGLER and RENÉ WITTE,2014,0,Natural Language Engineering
+10.1017/s1351324903003280,Industry Watch,ROBERT DALE,2003,0,Natural Language Engineering
+10.1017/s1351324903003097,Application of finite-state transducers to the acquisition of verb subcategorization information,I. ALDEZABAL and M. ARANZABE and K. GOJENOLA and M. ORONOZ and K. SARASOLA and A. ATUTXA,2003,2,Natural Language Engineering
+10.1017/s1351324917000171,Multilingual extension and evaluation of a poetry generator,HUGO GONÇALO OLIVEIRA and RAQUEL HERVÁS and ALBERTO DÍAZ and PABLO GERVÁS,2017,6,Natural Language Engineering
+10.1017/s1351324916000310,NLE volume 22 issue 6 Cover and Front matter,,2016,0,Natural Language Engineering
+10.1017/s1351324919000573,NLE volume 25 issue 6 Cover and Back matter,,2019,0,Natural Language Engineering
+10.1017/s1351324917000213,NLE volume 23 issue 4 Cover and Front matter,,2017,0,Natural Language Engineering
+10.1017/s135132491500008x,Clique-based semantic kernel with application to semantic relatedness,A. H. JADIDINEJAD and F. MAHMOUDI and M. R. MEYBODI,2015,1,Natural Language Engineering
+10.1017/s1351324901212704,"Ehud Reiter and Robert Dale. Building Natural Language Generation Systems. Cambridge University Press, 2000. $64.95/£37.50 (Hardback). 234 pages",ADVAITH SIDDHARTHAN,2001,2,Natural Language Engineering
+10.1017/s1351324910000197,Inductive probabilistic taxonomy learning using singular value decomposition,FRANCESCA FALLUCCHI and FABIO MASSIMO ZANZOTTO,2011,5,Natural Language Engineering
+10.1017/s1351324915000169,NLE volume 21 issue 3 Cover and Front matter,,2015,0,Natural Language Engineering
+10.1017/s1351324912000101,Extraction of multi-word expressions from small parallel corpora,YULIA TSVETKOV and SHULY WINTNER,2012,8,Natural Language Engineering
+10.1017/s1351324915000248,NLE volume 21 issue 4 Cover and Front matter,,2015,0,Natural Language Engineering
+10.1017/s1351324911000349,A fast and flexible architecture for very large word n-gram datasets,MICHAEL FLOR,2013,1,Natural Language Engineering
+10.1017/s1351324915000066,NLE volume 21 issue 2 Cover and Back matter,,2015,0,Natural Language Engineering
+10.1017/s1351324912000113,"Reinhard Köhler. Quantitative Syntax Analysis. Mouton de Gruyter, Berlin/Boston, 2012, x + 224 pp., €99.95/US$ 140.00, ISBN: 978-3-11-027219-2",Haitao Liu,2013,0,Natural Language Engineering
+10.1017/s1351324908004695,Definitional and human constraints on structural annotation of English,GEOFFREY SAMPSON and ANNA BABARCZY,2008,0,Natural Language Engineering
+10.1017/s1351324912000150,NLE volume 18 issue 3 Cover and Back matter,,2012,0,Natural Language Engineering
+10.1017/s1351324921000061,NLE volume 27 issue 3 Cover and Front matter,,2021,0,Natural Language Engineering
+10.1017/s1351324918000451,Neural architectures for open-type relation argument extraction,Benjamin Roth and Costanza Conforti and Nina Poerner and Sanjeev Kumar Karn and Hinrich Schütze,2019,2,Natural Language Engineering
+10.1017/s135132492200033x,An empirical study of incorporating syntactic constraints into BERT-based location metonymy resolution,Hao Wang and Siyuan Du and Xiangyu Zheng and Lingyi Meng,2022,0,Natural Language Engineering
+10.1017/s1351324912000186,A novel string distance metric for ranking Persian respelling suggestions,OMID KASHEFI and MOHSEN SHARIFI and BEHROOZ MINAIE,2013,8,Natural Language Engineering
+10.1017/s1351324911000027,An alternative to synchronous tree substitution grammars,ANDREAS MALETTI,2011,5,Natural Language Engineering
+10.1017/s1351324911000039,Efficiently generating correction suggestions for garbled tokens of historical language,ULRICH REFFLE,2011,12,Natural Language Engineering
+10.1017/s135132491000015x,Automatic discovery of word semantic relations using paraphrase alignment and distributional lexical semantics analysis,GAËL DIAS and RUMEN MORALIYSKI and JOÃO CORDEIRO and ANTOINE DOUCET and HELENA AHONEN-MYKA,2010,7,Natural Language Engineering
+10.1017/s1351324908004725,Generating basic skills reports for low-skilled readers,SANDRA WILLIAMS and EHUD REITER,2008,17,Natural Language Engineering
+10.1017/s1351324910000252,Analyzing language samples of Spanish–English bilingual children for the automated prediction of language dominance,T. SOLORIO and M. SHERMAN and Y. LIU and L. M. BEDORE and E. D. PEÑA and A. IGLESIAS,2011,6,Natural Language Engineering
+10.1017/s1351324905004018,Reading comprehension tests for computer-based understanding evaluation,BEN WELLNER and LISA FERRO and WARREN GREIFF and LYNETTE HIRSCHMAN,2006,4,Natural Language Engineering
+10.1017/s1351324919000226,High-dimensional distributed semantic spaces for utterances,Jussi Karlgren and Pentti Kanerva,2019,6,Natural Language Engineering
+10.1017/s1351324912000198,"COMPENDIUM: a text summarisation tool for generating summaries of multiple purposes, domains, and genres",ELENA LLORET and MANUEL PALOMAR,2013,7,Natural Language Engineering
+10.1017/s1351324919000500,Uncovering the language of wine experts,Ilja Croijmans and Iris Hendrickx and Els Lefever and Asifa Majid and Antal Van Den Bosch,2020,12,Natural Language Engineering
+10.1017/s1351324919000184,Jointly learning sentence embeddings and syntax with unsupervised Tree-LSTMs,Jean Maillard and Stephen Clark and Dani Yogatama,2019,8,Natural Language Engineering
+10.1017/s1351324905004043,Can syllabification improve pronunciation by analogy of English?,YANNICK MARCHAND and ROBERT I. DAMPER,2007,16,Natural Language Engineering
+10.1017/s1351324910000069,Instance-based natural language generation,S. VARGES and C. MELLISH,2010,3,Natural Language Engineering
+10.1017/s1351324900002473,User-guided system development in Interactive Spoken Language Education,ERIC ATWELL and PETER HOWARTH and CLIVE SOUTER and PATRIZIO BALDO and ROBERTO BISIANI and DARIO PEZZOTTA and PATRIZIA BONAVENTURA and WOLFGANG MENZEL and DANIEL HERRON and RACHEL MORTON and JUERGEN SCHMIDT,2000,2,Natural Language Engineering
+10.1017/s1351324920000467,Improved feature decay algorithms for statistical machine translation,Alberto Poncelas and Gideon Maillette de Buy Wenniger and Andy Way,2022,2,Natural Language Engineering
+10.1017/s1351324919000524,Automatic summarisation: 25 years On,Constantin Orăsan,2019,1,Natural Language Engineering
+10.1017/s1351324901002777,Complex answers: a case study using a WWW question answering system,S. BUCHHOLZ and W. DAELEMANS,2001,5,Natural Language Engineering
+10.1017/s1351324922000183,Abstract meaning representation of Turkish,Elif Oral and Ali Acar and Gülşen Eryiğit,2022,0,Natural Language Engineering
+10.1017/s1351324922000377,NLE volume 28 issue 5 Cover and Front matter,,2022,0,Natural Language Engineering
+10.1017/s135132492100019x,Creation of annotated country-level dialectal Arabic resources: An unsupervised approach,Maha J. Althobaiti,2022,2,Natural Language Engineering
+10.1017/s1351324921000127,TNT-KID: Transformer-based neural tagger for keyword identification,Matej Martinc and Blaž Škrlj and Senja Pollak,2022,3,Natural Language Engineering
+10.1017/s1351324922000171,A survey of methods for revealing and overcoming weaknesses of data-driven Natural Language Understanding,Viktor Schlegel and Goran Nenadic and Riza Batista-Navarro,2023,0,Natural Language Engineering
+10.1017/s1351324922000146,The voice synthesis business: 2022 update,Robert Dale,2022,2,Natural Language Engineering
+10.1017/s1351324904003493,The Talent system: TEXTRACT architecture and data model,MARY S. NEFF and ROY J. BYRD and BRANIMIR K. BOGURAEV,2004,7,Natural Language Engineering
+10.1017/s1351324901002583,Automatic language and information processing: rethinking evaluation,KAREN SPARCK JONES,2001,13,Natural Language Engineering
+10.1017/s1351324909990234,"Recognizing textual entailment: Rational, evaluation and approaches – Erratum",IDO DAGAN and BILL DOLAN and BERNARDO MAGNINI and DAN ROTH,2010,37,Natural Language Engineering
+10.1017/s1351324904003444,Large-scale software integration for spoken language and multimodal dialog systems,GERD HERZOG and ALASSANE NDIAYE and STEFAN MERTEN and HEINZ KIRCHMANN and TILMAN BECKER and PETER POLLER,2004,14,Natural Language Engineering
+10.1017/s1351324909990167,Wisdom of crowds versus wisdom of linguists – measuring the semantic relatedness of words,TORSTEN ZESCH and IRYNA GUREVYCH,2010,65,Natural Language Engineering
+10.1017/s1351324907004597,A new PPM variant for Chinese text compression,PEILIANG WU and W. J. TEAHAN,2008,3,Natural Language Engineering
+10.1017/s1351324902002863,Learning rules for information extraction,J. TURMO and H. RODRIGUEZ,2002,3,Natural Language Engineering
+10.1017/s1351324900002369,PET – a platform for experimentation with efficient HPSG processing techniques,ULRICH CALLMEIER,2000,36,Natural Language Engineering
+10.1017/s135132491900038x,Language model adaptation for language and dialect identification of text,T. Jauhiainen and K. Lindén and H. Jauhiainen,2019,4,Natural Language Engineering
+10.1017/s1351324919000421,Word sense disambiguation using implicit information,Goonjan Jain and D.K. Lobiyal,2020,4,Natural Language Engineering
+10.1017/s1351324921000280,Meemi: A simple method for post-processing and integrating cross-lingual word embeddings,Yerai Doval and Jose Camacho-Collados and Luis Espinosa-Anke and Steven Schockaert,2021,0,Natural Language Engineering
+10.1017/s1351324911000118,A hierarchical approach to mood classification in blogs,FAZEL KESHTKAR and DIANA INKPEN,2012,12,Natural Language Engineering
+10.1017/s135132490700455x,Part-of-speech tagging of Modern Hebrew text,ROY BAR-HAIM and KHALIL SIMA'AN and YOAD WINTER,2008,13,Natural Language Engineering
+10.1017/s1351324911000337,Discourse structure and language technology,B. WEBBER and M. EGG and V. KORDONI,2012,44,Natural Language Engineering
+10.1017/s1351324903003206,Evaluation of text coherence for electronic essay scoring systems,E. MILTSAKAKI and K. KUKICH,2004,33,Natural Language Engineering
+10.1017/s1351324912000204,BASRAH: an automatic system to identify the meter of Arabic poetry,MAYTHAM ALABBAS and ZAINAB A. KHALAF and KHASHAN M. KHASHAN,2014,4,Natural Language Engineering
+10.1017/s1351324904003572,Finite-state multimodal integration and understanding,MICHAEL JOHNSTON and SRINIVAS BANGALORE,2005,47,Natural Language Engineering
+10.1017/s1351324920000200,"Sentiment analysis in Turkish: Supervised, semi-supervised, and unsupervised techniques",Cem Rıfkı Aydın and Tunga Güngör,2021,3,Natural Language Engineering
+10.1017/s1351324920000601,GPT-3: What’s it good for?,Robert Dale,2021,45,Natural Language Engineering
+10.1017/s1351324916000334,Word2Vec,KENNETH WARD CHURCH,2017,225,Natural Language Engineering
+10.1017/s1351324908004804,Ordering the suggestions of a spellchecker without using context,ROGER MITTON,2009,20,Natural Language Engineering
+10.1017/s1351324919000354,Finding next of kin: Cross-lingual embedding spaces for related languages,Serge Sharoff,2020,2,Natural Language Engineering
+10.1017/s1351324906004190,Detecting errors in English article usage by non-native speakers,NA-RAE HAN and MARTIN CHODOROW and CLAUDIA LEACOCK,2006,71,Natural Language Engineering
+10.1017/s1351324921000395,A Survey on Machine Reading Comprehension Systems,Razieh Baradaran and Razieh Ghiasi and Hossein Amirkhani,2022,1,Natural Language Engineering
+10.1017/s1351324919000275,A survey of 25 years of evaluation,Kenneth Ward Church and Joel Hestness,2019,3,Natural Language Engineering
+10.1017/s1351324913000065,"On the interpretation of noun compounds: Syntax, semantics, and entailment",PRESLAV NAKOV,2013,20,Natural Language Engineering
+10.1017/s1351324919000330,Detecting light verb constructions across languages,István Nagy T. and Anita Rácz and Veronika Vincze,2020,1,Natural Language Engineering
+10.1017/s1351324922000109,Generating Arabic TAG for syntax-semantics analysis,Cherifa Ben Khelil and Chiraz Ben Othmane Zribi and Denys Duchier and Yannick Parmentier,2023,0,Natural Language Engineering
+10.1017/s1351324908004919,Designing an interactive open-domain question answering system,S. QUARTERONI and S. MANANDHAR,2009,50,Natural Language Engineering
+10.1017/s1351324901002765,Discovery of inference rules for question-answering,DEKANG LIN and PATRICK PANTEL,2001,168,Natural Language Engineering
+10.1017/s1351324920000509,Comparison of rule-based and neural network models for negation detection in radiology reports,D. Sykes and A. Grivas and C. Grover and R. Tobin and C. Sudlow and W. Whiteley and A. Mcintosh and H. Whalley and B. Alex,2021,9,Natural Language Engineering
+10.1017/s135132492100022x,Efficient bilingual lexicon extraction from comparable corpora based on formal concepts analysis,Mohamed Chebel and Chiraz Latiri and Eric Gaussier,2023,0,Natural Language Engineering
+10.1017/s1351324921000309,Reducing repetition in convolutional abstractive summarization,Yizhu Liu and Xinyue Chen and Xusheng Luo and Kenny Q. Zhu,2023,0,Natural Language Engineering
+10.1017/s1351324921000206,"Compositional matrix-space models of language: Definitions, properties, and learning methods",Shima Asaadi and Eugenie Giesbrecht and Sebastian Rudolph,2023,0,Natural Language Engineering
+10.1017/s1351324912000265,Explorations in lexical sample and all-words lexical substitution,RAVI SINHA and RADA MIHALCEA,2014,2,Natural Language Engineering
+10.1017/s1351324911000143,NLE volume 17 issue 2 Cover and Front matter,,2011,0,Natural Language Engineering
+10.1017/s1351324908004828,"Abdelhadi Soudi, Antal van den Bosch and Günter Neumann, editors. Arabic Computational Morphology. Knowledge-Based and Empirical Methods. Dordrecht, The Netherlands: Springer. 2007. ISBN 978-1-4020-6045-8, €114.95, £88.50 viii + 305 pages.",Ernst Buchberger,2009,0,Natural Language Engineering
+10.1017/s1351324918000372,Editorial note,RUSLAN MITKOV,2018,0,Natural Language Engineering
+10.1017/s1351324900002540,"Kevin Gurney, An Introduction to Neural Networks, University College London (UCL) Press, 1997. ISBN 1-85728-673-1 HB. £14.95. xi+234 pages.",DAVID McLEAN,2000,0,Natural Language Engineering
+10.1017/s1351324917000419,"Formalizing Natural Languages: The NooJ Approach, by Max Silberztein . London, Cognitive science series, Wiley-ISTE, UK, 2016. ISBN 9781848219021",Kristina Kocijan,2018,0,Natural Language Engineering
+10.1017/s1351324913000363,"Semantics: From Meaning to Text, Vol. 2 (SLCS 135), by Igor A. Mel'čuk. Amsterdam, Netherlands: John Benjamins, 2013. ISBN: 978-90-272-0602-2; 978-90-272-7165-5. xvi + 400 pages.",Xiaxing Pan and Haitao Liu,2014,0,Natural Language Engineering
+10.1017/s1351324916000322,NLE volume 22 issue 6 Cover and Back matter,,2016,0,Natural Language Engineering
+10.1017/s1351324916000085,NLE volume 22 issue 3 Cover and Back matter,,2016,0,Natural Language Engineering
+10.1017/s1351324911000246,NLE volume 17 issue 4 Cover and Front matter,,2011,0,Natural Language Engineering
+10.1017/s1351324916000036,Open-domain extraction of future events from Twitter,FLORIAN KUNNEMAN and ANTAL VAN DEN BOSCH,2016,11,Natural Language Engineering
+10.1017/s1351324905003712,Paraphrasing spoken Chinese using a paraphrase corpus,YUJIE ZHANG and KAZUHIDE YAMAMOTO,2005,1,Natural Language Engineering
+10.1017/s1351324910000070,Interlingual annotation of parallel text corpora: a new framework for annotation and evaluation,BONNIE J. DORR and REBECCA J. PASSONNEAU and DAVID FARWELL and REBECCA GREEN and NIZAR HABASH and STEPHEN HELMREICH and EDUARD HOVY and LORI LEVIN and KEITH J. MILLER and TERUKO MITAMURA and OWEN RAMBOW and ADVAITH SIDDHARTHAN,2010,2,Natural Language Engineering
+10.1017/s1351324901002820,Contextually appropriate reference generation,ÖZGÜR YÜKSEL and CEM BOZSAHIN,2002,6,Natural Language Engineering
+10.1017/s1351324916000139,Extracting parallel phrases from comparable data for machine translation,SANJIKA HEWAVITHARANA and STEPHAN VOGEL,2016,8,Natural Language Engineering
+10.1017/s1351324910000343,NLE volume 17 issue 1 Cover and Back matter,,2011,0,Natural Language Engineering
+10.1017/s1351324909005075,NLE volume 15 issue 2 Cover and Back matter,,2009,0,Natural Language Engineering
+10.1017/s1351324916000012,How to make money in the translation business,ROBERT DALE,2016,2,Natural Language Engineering
+10.1017/s1351324912000162,"Statistical Translation After Source Reordering: Oracles, Context-Aware Models, and Empirical Analysis",MAXIM KHALILOV and KHALIL SIMA'AN,2012,3,Natural Language Engineering
+10.1017/s1351324908004749,A structural approach to the automatic adjudication of word sense disagreements,ROBERTO NAVIGLI,2008,15,Natural Language Engineering
+10.1017/s1351324920000091,Spoken Arabic dialect recognition using X-vectors,Abualsoud Hanani and Rabee Naser,2020,7,Natural Language Engineering
+10.1017/s1351324918000104,Understanding visual scenes,CARINA SILBERER and JASPER UIJLINGS and MIRELLA LAPATA,2018,3,Natural Language Engineering
+10.1017/s1351324901002662,Randomized rule selection in transformation-based learning: a comparative study,SANDRA CARBERRY and K. VIJAY-SHANKER and ANDREW WILSON and KEN SAMUEL,2001,6,Natural Language Engineering
+10.1017/s1351324901002686,A corpus-based approach for Korean nominal compound analysis based on linguistic and statistical information,JUNTAE YOON and KEY-SUN CHOI and MANSUK SONG,2001,4,Natural Language Engineering
+10.1017/s1351324909990258,Rewriting the orthography of SMS messages,FRANÇOIS YVON,2010,6,Natural Language Engineering
+10.1017/s1351324921000346,NLE volume 27 issue 6 Cover and Back matter,,2021,0,Natural Language Engineering
+10.1017/s1351324916000206,Improving mention detection for Basque based on a deep error analysis,ANDER SORALUZE and OLATZ ARREGI and XABIER ARREGI and ARANTZA DÍAZ DE ILARRAZA,2017,2,Natural Language Engineering
+10.1017/s1351324906004402,Robust parsing and spoken negotiative dialogue with databases,JOHAN BOYE and MATS WIRÉN,2008,0,Natural Language Engineering
+10.1017/s1351324905213724,"Charles D. Yang. Knowledge and Learning in Natural Language. Oxford University Press. 2002. ISBN 0 19 925414 1 (hardback), Price $60. ISBN 0 19 925415 X (paperback), Price $21.95. 220 pages",Paula Buttery,2005,0,Natural Language Engineering
+10.1017/s1351324920000650,"Neural Machine Translation 2020, by Philipp Koehn, Cambridge, Cambridge University Press, ISBN 978-1-108-49732-9, pages 393.",Alexandra Birch,2021,0,Natural Language Engineering
+10.1017/s1351324915000479,NLE volume 22 issue 2 Cover and Back matter,,2016,0,Natural Language Engineering
+10.1017/s1351324920000613,NLE volume 27 issue 1 Cover and Front matter,,2021,0,Natural Language Engineering
+10.1017/s1351324914000096,NLE volume 20 issue 4 Cover and Back matter,,2014,0,Natural Language Engineering
+10.1017/s1351324920000522,Processing negation: An introduction to the special issue,Eduardo Blanco and Roser Morante,2021,0,Natural Language Engineering
+10.1017/s135132491900041x,Preface,Marcos Zampieri and Preslav Nakov,2019,0,Natural Language Engineering
+10.1017/s1351324915000200,NLP meets the cloud,ROBERT DALE,2015,8,Natural Language Engineering
+10.1017/s1351324918000190,Weighting-based semantic similarity measure based on topological parameters in semantic taxonomy,ABDULGABBAR SAIF and UMMI ZAKIAH ZAINODIN and NAZLIA OMAR and ABDULLAH SAEED GHAREB,2018,4,Natural Language Engineering
+10.1017/s1351324906004128,From UBGs to CFGs A practical corpus-driven approach,HANS-ULRICH KRIEGER,2007,0,Natural Language Engineering
+10.1017/s1351324913000211,Classifying Korean comparative sentences for comparison analysis,SEON YANG and YOUNGJOONG KO,2014,1,Natural Language Engineering
+10.1017/s1351324916000073,NLE volume 22 issue 3 Cover and Front matter,,2016,0,Natural Language Engineering
+10.1017/s1351324920000157,NLE volume 26 issue 3 Cover and Front matter,,2020,0,Natural Language Engineering
+10.1017/s135132491700033x,NLE volume 23 issue 6 Cover and Back matter,,2017,0,Natural Language Engineering
+10.1017/s1351324917000092,A scalable architecture for data-intensive natural language processing,ZUHAITZ BELOKI and XABIER ARTOLA and AITOR SOROA,2017,2,Natural Language Engineering
+10.1017/s1351324911000362,Editorial Note,Ruslan Mitkov,2012,0,Natural Language Engineering
+10.1017/s1351324911000015,Finite-state methods and models in natural language processing,ANSSI YLI-JYRÄ and ANDRÁS KORNAI and JACQUES SAKAROVITCH,2011,1,Natural Language Engineering
+10.1017/s1351324911000222,Semantic composition of AT-LOCATION relation with other relations,HAKKI C. CANKAYA and EDUARDO BLANCO and DAN MOLDOVAN,2012,0,Natural Language Engineering
+10.1017/s135132491900007x,NLE volume 25 issue 2 Cover and Back matter,,2019,0,Natural Language Engineering
+10.1017/s1351324913000193,NLE volume 19 issue 4 Cover and Front matter,,2013,0,Natural Language Engineering
+10.1017/s1351324920000571,NLE volume 26 issue 6 Cover and Front matter,,2020,0,Natural Language Engineering
+10.1017/s1351324921000012,Extracting possessions from text: Experiments and error analysis,Dhivya Chinnappa and Eduardo Blanco,2022,0,Natural Language Engineering
+10.1017/s1351324915000078,Word from the editors,ZORNITSA KOZAREVA and VIVI NASTASE and RADA MIHALCEA,2015,0,Natural Language Engineering
+10.1017/s1351324913000168,Backward and trigger-based language models for statistical machine translation,DEYI XIONG and MIN ZHANG,2015,2,Natural Language Engineering
+10.1017/s1351324910000094,NLE volume 16 issue 3 Cover and Front matter,,2010,0,Natural Language Engineering
+10.1017/s1351324918000220,A state-of-the-art of semantic change computation,XURI TANG,2018,23,Natural Language Engineering
+10.1017/s1351324915000091,CO-graph: A new graph-based technique for cross-lingual word sense disambiguation,ANDRES DUQUE and LOURDES ARAUJO and JUAN MARTINEZ-ROMO,2015,4,Natural Language Engineering
+10.1017/s1351324917000316,NLE volume 23 issue 5 Cover and Front matter,,2017,0,Natural Language Engineering
+10.1017/s1351324913000326,Parallel and nested decomposition for factoid questions,BRANIMIR BOGURAEV and SIDDHARTH PATWARDHAN and ADITYA KALYANPUR and JENNIFER CHU-CARROLL and ADAM LALLY,2014,4,Natural Language Engineering
+10.1017/s135132492000039x,Automatic generation of lexica for sentiment polarity shifters,Marc Schulder and Michael Wiegand and Josef Ruppenhofer,2021,3,Natural Language Engineering
+10.1017/s1351324920000145,"Emerging trends: Subwords, seriously?",Kenneth Ward Church,2020,0,Natural Language Engineering
+10.1017/s1351324919000536,Five Tips for a Successful API,Robert Dale,2019,0,Natural Language Engineering
+10.1017/s1351324918000049,NLE volume 24 issue 2 Cover and Back matter,,2018,0,Natural Language Engineering
+10.1017/s1351324909005142,NLE volume 15 issue 3 Cover and Back matter,,2009,0,Natural Language Engineering
+10.1017/s1351324910000136,Class-based approach to disambiguating Levin verbs,JIANGUO LI and CHRIS BREW,2010,1,Natural Language Engineering
+10.1017/s1351324919000615,Two approaches to compilation of bilingual multi-word terminology lists from lexical resources,Branislava Šandrih and Cvetana Krstev and Ranka Stanković,2020,5,Natural Language Engineering
+10.1017/s1351324919000263,NLE volume 25 issue 4 Cover and Back matter,,2019,0,Natural Language Engineering
+10.1017/s1351324906004426,"Rayner Manny, Ann Hockey Beth, Bouillon Pierrette, Putting Linguistics into Speech Recognition. The Regulus Grammar Compiler. With contributions by Nikos Chatzichrisafis, Marianne Santaholma &amp; Marianne Starlander. Foreword by Aravind K. Joshi. Appeared in the series CSLI Studies in Computational Linguistics (series edited by Ann Copestake). Stanford, California, CSLI. ISBN 1-57586-526-2 (paperback), xiv+305 pages. Price: US$25.00, £17.99.",Johan Bos,2008,0,Natural Language Engineering
+10.1017/s1351324920000510,Improving sentiment analysis with multi-task learning of negation,Jeremy Barnes and Erik Velldal and Lilja Øvrelid,2021,10,Natural Language Engineering
+10.1017/s1351324901222700,"Inderjeet Mani and Mark T. Maybury (eds). Advances in Automatic Text Summarization. MIT Press, 1999. ISBN 0-262-13359-8. 442 pp. $47.95/£32.95 (paperback).",ADVAITH SIDDHARTHAN,2001,0,Natural Language Engineering
+10.1017/s1351324913000016,NLE volume 19 issue 2 Cover and Front matter,,2013,0,Natural Language Engineering
+10.1017/s1351324905003700,A decision-theoretic framework for the evaluation of language models used in speech recognizers,J. R. DELLER and K. H. DESAI and Y. P. YANG,2005,0,Natural Language Engineering
+10.1017/s1351324922000353,Quantifying the impact of context on the quality of manual hate speech annotation,Nikola Ljubešić and Igor Mozetič and Petra Kralj Novak,2022,0,Natural Language Engineering
+10.1017/s1351324916000188,NLE volume 22 issue 4 Cover and Front matter,,2016,0,Natural Language Engineering
+10.1017/s1351324915000261,Sparsity and normalization in word similarity systems,JEAN MARK GAWRON and KELLEN STEPHENS,2016,0,Natural Language Engineering
+10.1017/s1351324918000323,A novel ILP framework for summarizing content with high lexical variety,WENCAN LUO and FEI LIU and ZITAO LIU and DIANE LITMAN,2018,3,Natural Language Engineering
+10.1017/s1351324919000512,Twenty-five years of information extraction,Ralph Grishman,2019,12,Natural Language Engineering
+10.1017/s1351324905003803,"Definitional, personal, and mechanical constraints on part of speech annotation performance",ANNA BABARCZY and JOHN CARROLL and GEOFFREY SAMPSON,2006,3,Natural Language Engineering
+10.1017/s1351324914000187,In Memory of Geoffrey Leech,,2015,1,Natural Language Engineering
+10.1017/s1351324916000358,Editorial note,RUSLAN MITKOV,2017,0,Natural Language Engineering
+10.1017/s1351324903003164,Analysis of the grammatical functions between adnoun and noun phrases in Korean using Support Vector Machines,SONGWOOK LEE and JUNGYUN SEO and TAE-YEOUB JANG,2003,2,Natural Language Engineering
+10.1017/s1351324910000021,NLE volume 16 issue 2 Cover and Front matter,,2010,0,Natural Language Engineering
+10.1017/s1351324920000078,Effective multi-dialectal arabic POS tagging,Kareem Darwish and Mohammed Attia and Hamdy Mubarak and Younes Samih and Ahmed Abdelali and Lluís Màrquez and Mohamed Eldesouki and Laura Kallmeyer,2020,2,Natural Language Engineering
+10.1017/s1351324920000170,Text classification with semantically enriched word embeddings,N. Pittaras and G. Giannakopoulos and G. Papadakis and V. Karkaletsis,2021,9,Natural Language Engineering
+10.1017/s1351324915000418,NLE volume 22 issue 1 Cover and Front matter,,2016,0,Natural Language Engineering
+10.1017/s1351324920000431,NLE volume 26 issue 5 Cover and Back matter,,2020,1,Natural Language Engineering
+10.1017/s1351324920000030,Emerging trends: Reviewing the reviewers (again),Kenneth Ward Church,2020,3,Natural Language Engineering
+10.1017/s1351324920000182,Investigating translated Chinese and its variants using machine learning,Hai Hu and Sandra Kübler,2021,0,Natural Language Engineering
+10.1017/s1351324919000111,Estimating word-level quality of statistical machine translation output using monolingual information alone,Arda Tezcan and Véronique Hoste and Lieve Macken,2020,7,Natural Language Engineering
+10.1017/s1351324900002527,Object-oriented modelling of spoken language dialogue systems,IAN M. O'NEILL and MICHAEL F. McTEAR,2000,6,Natural Language Engineering
+10.1017/s1351324916000243,The return of the chatbots,ROBERT DALE,2016,217,Natural Language Engineering
+10.1017/s1351324910000276,Machine learning for query formulation in question answering,CHRISTOF MONZ,2011,6,Natural Language Engineering
+10.1017/s1351324915000303,Non-native text analysis: A survey,SEAN MASSUNG and CHENGXIANG ZHAI,2016,2,Natural Language Engineering
+10.1017/s1351324900002461,Usability issues in spoken dialogue systems,LAILA DYBKJAER and NIELS OLE BERNSEN,2000,19,Natural Language Engineering
+10.1017/s1351324919000238,Neural embeddings: accurate and readable inferences based on semantic kernels,Danilo Croce and Daniele Rossini and Roberto Basili,2019,3,Natural Language Engineering
+10.1017/s1351324904003559,Machine learning-based named entity recognition via effective integration of various evidences,GUODONG ZHOU and JIAN SU,2005,5,Natural Language Engineering
+10.1017/s1351324920000133,Nonuniform language in technical writing: Detection and correction,Weibo Wang and Aminul Islam and Abidalrahman Moh’d and Axel J. Soto and Evangelos E. Milios,2021,0,Natural Language Engineering
+10.1017/s1351324904003328,Towards automatic fine-grained semantic classification of verb-noun collocations,LEO WANNER,2004,13,Natural Language Engineering
+10.1017/s1351324920000108,Fine-grained analysis of language varieties and demographics,Francisco Rangel and Paolo Rosso and Wajdi Zaghouani and Anis Charfi,2020,8,Natural Language Engineering
+10.1017/s135132491200006x,Special issue on statistical learning of natural language structured input and output,LLUÍS MÀRQUEZ and ALESSANDRO MOSCHITTI,2012,1,Natural Language Engineering
+10.1017/s1351324904003535,The head-modifier principle and multilingual term extraction,ANDREW HIPPISLEY and DAVID CHENG and KHURSHID AHMAD,2005,28,Natural Language Engineering
+10.1017/s1351324906004311,Abbreviated text input using language modeling,STUART M. SHIEBER and RANI NELKEN,2007,5,Natural Language Engineering
+10.1017/s1351324904003353,Improving part-of-speech tagging using lexicalized HMMs,FERRAN PLA and ANTONIO MOLINA,2004,14,Natural Language Engineering
+10.1017/s1351324912000174,A SMS normalization system integrating multiple grammatical resources,J. OLIVA and J. I. SERRANO and M. D. DEL CASTILLO and Á. IGESIAS,2013,4,Natural Language Engineering
+10.1017/s135132490400347x,KIM – a semantic platform for information extraction and retrieval,BORISLAV POPOV and ATANAS KIRYAKOV and DAMYAN OGNYANOFF and DIMITAR MANOV and ANGEL KIRILOV,2004,158,Natural Language Engineering
+10.1017/s1351324901002807,Natural language question answering: the view from here,L. HIRSCHMAN and R. GAIZAUSKAS,2001,185,Natural Language Engineering
+10.1017/s1351324905003888,Comparing example-based and statistical machine translation,ANDY WAY and NANO GOUGH,2005,17,Natural Language Engineering
+10.1017/s135132492100036x,A survey of the extraction and applications of causal relations,Brett Drury and Hugo Gonçalo Oliveira and Alneu de Andrade Lopes,2022,0,Natural Language Engineering
+10.1017/s1351324913000247,Network analysis of narrative content in large corpora,SAATVIGA SUDHAHAR and GIANLUCA DE FAZIO and ROBERTO FRANZOSI and NELLO CRISTIANINI,2015,21,Natural Language Engineering
+10.1017/s1351324923000013,NLP startup funding in 2022,Robert Dale,2023,0,Natural Language Engineering
+10.1017/s1351324908005032,A tractable hybrid DDN–POMDP approach to affective dialogue modeling for probabilistic frame-based dialogue systems,TRUNG H. BUI and MANNES POEL and ANTON NIJHOLT and JOB ZWIERS,2009,30,Natural Language Engineering
+10.1017/s1351324914000023,A tree-based learning approach for document structure analysis and its application to web search,F. CANAN PEMBE and TUNGA GÜNGÖR,2015,4,Natural Language Engineering
+10.1017/s1351324901002625,From data to speech: a general approach,M. THEUNE and E. KLABBERS and J. R. DE PIJPER and E. KRAHMER and J. ODIJK,2001,14,Natural Language Engineering
+10.1017/s135132491200037x,A semantic space approach to the computational semantics of noun compounds,AKIRA UTSUMI,2014,3,Natural Language Engineering
+10.1017/s1351324900002539,Information state and dialogue management in the TRINDI dialogue move engine toolkit,STAFFAN LARSSON and DAVID R. TRAUM,2000,175,Natural Language Engineering
+10.1017/s1351324902003005,Parameter optimization for machine-learning of word sense disambiguation,V. HOSTE and I. HENDRICKX and W. DAELEMANS and A. VAN DEN BOSCH,2002,27,Natural Language Engineering
+10.1017/s1351324914000175,The Kestrel TTS text normalization system,PETER EBDEN and RICHARD SPROAT,2015,22,Natural Language Engineering
+10.1017/s1351324921000279,Evaluation of taxonomic and neural embedding methods for calculating semantic similarity,Dongqiang Yang and Yanqin Yin,2022,0,Natural Language Engineering
+10.1017/s1351324902002991,Word sense disambiguation with pattern learning and automatic feature selection,RADA F. MIHALCEA,2002,21,Natural Language Engineering
+10.1017/s1351324921000139,Automatic question generation based on sentence structure analysis using machine learning approach,Miroslav Blšták and Viera Rozinajová,2022,3,Natural Language Engineering
+10.1017/s1351324905003694,Segmenting documents by stylistic character,NEIL GRAHAM and GRAEME HIRST and BHASKARA MARTHI,2005,40,Natural Language Engineering
+10.1017/s1351324906004438,"Ethem Alpaydin. Introduction to Machine Learning (Adaptive Computation and Machine Learning Series). The MIT Press, 2004. ISBN: 0 262 01211 1 Price £32.95 / $50.00 (hardcover). xxx+415 pages.",Shahzad Khan,2008,2,Natural Language Engineering
+10.1017/s135132491000029x,BLANC: Implementing the Rand index for coreference evaluation,M. RECASENS and E. HOVY,2011,56,Natural Language Engineering
+10.1017/s1351324922000365,Emerging trends: Deep nets thrive on scale,Kenneth Ward Church,2022,0,Natural Language Engineering
+10.1017/s135132492000056x,"Automatic classification of participant roles in cyberbullying: Can we detect victims, bullies, and bystanders in social media text?",Gilles Jacobs and Cynthia Van Hee and Véronique Hoste,2022,4,Natural Language Engineering
+10.1017/s1351324905003955,Learning question classifiers: the role of semantic information,XIN LI and DAN ROTH,2006,120,Natural Language Engineering
+10.1017/s1351324904003560,Correcting real-word spelling errors by restoring lexical cohesion,GRAEME HIRST and ALEXANDER BUDANITSKY,2005,82,Natural Language Engineering
+10.1017/s1351324915000480,POS-tagging arabic texts: A novel approach based on ant colony,CHIRAZ ZRIBI BEN OTHMANE and FERIEL BEN FRAJ and ICHRAF LIMAM,2017,4,Natural Language Engineering
+10.1017/s1351324916000140,Exploiting unbalanced specialized comparable corpora for bilingual lexicon extraction,EMMANUEL MORIN and AMIR HAZEM,2016,4,Natural Language Engineering
+10.1017/s1351324913000387,Experiments with three approaches to recognizing lexical entailment,P. D. TURNEY and S. M. MOHAMMAD,2015,15,Natural Language Engineering
+10.1017/s1351324900002497,Towards a tool for the Subjective Assessment of Speech System Interfaces (SASSI),KATE S. HONE and ROBERT GRAHAM,2000,150,Natural Language Engineering
+10.1017/s1351324921000358,Ranking facts for explaining answers to elementary science questions,Jennifer D’Souza and Isaiah Onando Mulang and Sören Auer,2023,0,Natural Language Engineering
+10.1017/s1351324921000267,An analysis of property inference methods,Alex Rosenfeld and Katrin Erk,2023,0,Natural Language Engineering
+10.1017/s1351324922000080,Enhancing deep neural networks with morphological information,Matej Klemen and Luka Krsnik and Marko Robnik-Šikonja,2023,2,Natural Language Engineering
+10.1017/s1351324900002503,Towards developing general models of usability with PARADISE,MARILYN WALKER and CANDACE KAMM and DIANE LITMAN,2000,101,Natural Language Engineering
+10.1017/s1351324919000019,Effectiveness of data-driven induction of semantic spaces and traditional classifiers for sarcasm detection,Mattia Antonino Di Gangi and Giosué Lo Bosco and Giovanni Pilato,2019,14,Natural Language Engineering
+10.1017/s1351324909005105,Automatic annotation of context and speech acts for dialogue corpora,KALLIRROI GEORGILA and OLIVER LEMON and JAMES HENDERSON and JOHANNA D. MOORE,2009,7,Natural Language Engineering
+10.1017/s1351324915000145,Computational generation and dissection of lexical replacement humor,ALESSANDRO VALITUTTI and ANTOINE DOUCET and JUKKA M. TOIVANEN and HANNU TOIVONEN,2016,6,Natural Language Engineering
+10.1017/s1351324912000344,Using the crowd for readability prediction,ORPHÉE DE CLERCQ and VÉRONIQUE HOSTE and BART DESMET and PHILIP VAN OOSTEN and MARTINE DE COCK and LIEVE MACKEN,2014,20,Natural Language Engineering
+10.1017/s1351324915000297,A method based on rules and machine learning for logic form identification in Spanish,F. MARTÍNEZ-SANTIAGO and M. C. DÍAZ-GALIANO and M. Á. GARCÍA-CUMBRERAS and A. MONTEJO-RÁEZ,2017,1,Natural Language Engineering
+10.1017/s1351324903003231,Surface-marker-based dialog modelling: A progress report on the MAREDI project,SYLVAIN DELISLE and BERNARD MOULIN and TERRY COPECK,2003,0,Natural Language Engineering
+10.1017/s1351324902002929,A bootstrapping approach for robust topic analysis,OLIVIER FERRET and BRIGITTE GRAU,2002,1,Natural Language Engineering
+10.1017/s1351324919000639,Editorial note,Ruslan Mitkov,2020,0,Natural Language Engineering
+10.1017/s1351324911000301,NLE volume 18 issue 1 Cover and Back matter,,2012,0,Natural Language Engineering
+10.1017/s1351324919000652,NLE volume 26 issue 1 Cover and Front matter,,2020,0,Natural Language Engineering
+10.1017/s1351324915000042,The limits of intelligent personal assistants,ROBERT DALE,2015,4,Natural Language Engineering
+10.1017/s1351324918000293,A neural approach for inducing multilingual resources and natural language processing tools for low-resource languages,O. ZENNAKI and N. SEMMAR and L. BESACIER,2019,5,Natural Language Engineering
+10.1017/s1351324911000325,Part of speech tagging for Arabic,SANDRA KÜBLER and EMAD MOHAMED,2012,9,Natural Language Engineering
+10.1017/s1351324915000224,ISO standard modeling of a large Arabic dictionary,AIDA KHEMAKHEM and BILEL GARGOURI and ABDELMAJID BEN HAMADOU and GIL FRANCOPOULO,2016,11,Natural Language Engineering
+10.1017/s1351324915000108,Textual entailment graphs,LILI KOTLERMAN and IDO DAGAN and BERNARDO MAGNINI and LUISA BENTIVOGLI,2015,6,Natural Language Engineering
+10.1017/s1351324919000408,Using linguistically defined specific details to detect deception across domains,Nikolai Vogler and Lisa Pearl,2020,3,Natural Language Engineering
+10.1017/s1351324907004676,Strengths and weaknesses of finite-state technology: a case study in morphological grammar development,SHULY WINTNER,2008,7,Natural Language Engineering
+10.1017/s1351324911000295,NLE volume 18 issue 1 Cover and Front matter,,2012,0,Natural Language Engineering
+10.1017/s1351324920000054,NLE volume 26 issue 2 Cover and Back matter,,2020,0,Natural Language Engineering
+10.1017/s1351324906004414,Industry Watch,ROBERT DALE,2006,0,Natural Language Engineering
+10.1017/s1351324918000499,NLE volume 25 issue 1 Cover and Back matter,,2019,0,Natural Language Engineering
+10.1017/s1351324901232616,"Richard F. E. Sutcliffe, Heinze-Detlev Koch, Annette McElligott, Industrial Parsing of Software Manuals. Rodopi, Amsterdam. 1996. ISBN 90-420-0102X $28.00.",DEBORAH A. DAHL,2001,0,Natural Language Engineering
+10.1017/s135132491200023x,NLE volume 18 issue 4 Cover and Back matter,,2012,0,Natural Language Engineering
+10.1017/s1351324915000182,Influence of personal choices on lexical variability in referring expressions,RAQUEL HERVÁS and JAVIER ARROYO and VIRGINIA FRANCISCO and FEDERICO PEINADO and PABLO GERVÁS,2016,1,Natural Language Engineering
+10.1017/s1351324909005063,NLE volume 15 issue 2 Cover and Front matter,,2009,0,Natural Language Engineering
+10.1017/s1351324913000053,Lexical acquisition and semantic space models: Learning the semantics of unknown words,KOSTADIN CHOLAKOV,2014,1,Natural Language Engineering
+10.1017/s1351324913000302,"Lexical Analysis: Norms and Exploitations, by Patrick Hanks. Cambridge, MA., U.S.A.MIT Press, 2013. ISBN 978-0-262-01857-9. xv + 462 pages.",Adam Kilgarriff,2014,0,Natural Language Engineering
+10.1017/s1351324908004737,Multilingual pronunciation by analogy,TASANAWAN SOONKLANG and ROBERT I. DAMPER and YANNICK MARCHAND,2008,3,Natural Language Engineering
+10.1017/s1351324916000309,Sentiment analysis in Turkish at different granularity levels,RAHIM DEHKHARGHANI and BERRIN YANIKOGLU and YUCEL SAYGIN and KEMAL OFLAZER,2017,17,Natural Language Engineering
+10.1017/s1351324912000319,NLE volume 19 issue 1 Cover and Front matter,,2013,0,Natural Language Engineering
+10.1017/s135132490122261x,"Emmanuel Roche and Yves Schabes, Editors, Finite-State Language Processing. MIT Press, Cambridge, MA. 1997. ISBN 0-262-18182-7. ix+464 pages.",SHULY WINTNER,2001,0,Natural Language Engineering
+10.1017/s135132491600036x,NLE volume 23 issue 1 Cover and Front matter,,2017,0,Natural Language Engineering
+10.1017/s1351324911000064,A randomised inference algorithm for regular tree languages,JOHANNA HÖGBERG,2011,2,Natural Language Engineering
+10.1017/s1351324920000327,A systematic review of unsupervised approaches to grammar induction,Vigneshwaran Muralidaran and Irena Spasić and Dawn Knight,2021,1,Natural Language Engineering
+10.1017/s135132490800497x,NLE volume 15 issue 1 Cover and Front matter,,2009,0,Natural Language Engineering
+10.1017/s1351324906004207,Evaluating State-of-the-Art Treebank-style Parsers for Coh-Metrix and Other Learning Technology Environments,CHRISTIAN F. HEMPELMANN and VASILE RUS and ARTHUR C. GRAESSER and DANIELLE S. MCNAMARA,2006,7,Natural Language Engineering
+10.1017/s1351324922000407,From theories on styles to their transfer in text: Bridging the gap with a hierarchical survey,Enrica Troiano and Aswathy Velutharambath and Roman Klinger,2022,0,Natural Language Engineering
+10.1017/s1351324912000137,In Memoriam: David L. Waltz,John Tait,2012,0,Natural Language Engineering
+10.1017/s1351324910000240,Deterministic shift-reduce parsing for unification-based grammars,TAKASHI NINOMIYA and TAKUYA MATSUZAKI and NOBUYUKI SHIMIZU and HIROSHI NAKAGAWA,2011,0,Natural Language Engineering
+10.1017/s1351324906004256,Using shallow linguistic analysis to improve search on Danish compounds,BOLETTE SANDFORD PEDERSEN,2007,0,Natural Language Engineering
+10.1017/s1351324902003017,Evaluating lexical resources using SENSEVAL,NICOLETTA CALZOLARI and CLAUDIA SORIA and FRANCESCA BERTAGNA and FRANCESCO BARSOTTI,2002,1,Natural Language Engineering
+10.1017/s1351324912000228,NLE volume 18 issue 4 Cover and Front matter,,2012,0,Natural Language Engineering
+10.1017/s1351324921000176,NLE volume 27 issue 4 Cover and Front matter,,2021,0,Natural Language Engineering
+10.1017/s135132490600413x,Learning verb complements for Modern Greek: balancing the noisy dataset,KATIA KERMANIDIS and MANOLIS MARAGOUDAKIS and NIKOS FAKOTAKIS and GEORGE KOKKINAKIS,2008,0,Natural Language Engineering
+10.1017/s1351324905003797,"Lucja M. Iwanska and Stuart C. Shapiro, editors. Natural Language Processing and Knowledge Representation: Language for Knowledge and Knowledge for Language. Cambridge: MIT Press. 2000. ISBN 0-262-59021-2 pb, Price $41.46, xviii + 459 pages",Jana Sukkarieh,2006,0,Natural Language Engineering
+10.1017/s1351324920000583,NLE volume 26 issue 6 Cover and Back matter,,2020,0,Natural Language Engineering
+10.1017/s1351324900002412,An HPSG parser with CFG filtering,KENTARO TORISAWA and KENJI NISHIDA and YUSUKE MIYAO and JUN-ICHI TSUJII,2000,6,Natural Language Engineering
+10.1017/s1351324920000261,NLE volume 26 issue 4 Cover and Front matter,,2020,0,Natural Language Engineering
+10.1017/s1351324906004517,Industry Watch: Is 2007 the Year of Question-Answering?,ROBERT DALE,2007,0,Natural Language Engineering
+10.1017/s1351324900002424,A lexicalist approach towards the automatic determination for the syntactic functions of prepositional phrases,ALEX CHENGYU FANG,2000,1,Natural Language Engineering
+10.1017/s1351324911000155,NLE volume 17 issue 2 Cover and Back matter,,2011,0,Natural Language Engineering
+10.1017/s1351324917000122,NLE volume 23 issue 3 Cover and Back matter,,2017,0,Natural Language Engineering
+10.1017/s1351324908004907,Does this list contain what you were searching for? Learning adaptive dialogue strategies for interactive question answering,V. RIESER and O. LEMON,2009,4,Natural Language Engineering
+10.1017/s1351324909005051,Formal and functional assessment of the pyramid method for summary content evaluation,REBECCA J. PASSONNEAU,2010,5,Natural Language Engineering
+10.1017/s1351324920000066,Unsupervised modeling anomaly detection in discussion forums posts using global vectors for text representation,Paweł Cichosz,2020,4,Natural Language Engineering
+10.1017/s1351324916000218,NLE volume 22 issue 5 Cover and Front matter,,2016,0,Natural Language Engineering
+10.1017/s1351324920000649,"Text Mining with R: A Tidy Approach, by Julia Silge and David Robinson. Sebastopol, CA: O’Reilly Media, 2017. ISBN 978-1-491-98165-8. XI + 184 pages.",Jianwei Yan,2022,0,Natural Language Engineering
+10.1017/s1351324919000597,"Deep Learning in Natural Language Processing, edited by Li Deng and Yang Liu. Singapore: Springer, 2018. ISBN 9789811052088. XVII + 329 pages",Haoda Feng and Feng Shi,2021,0,Natural Language Engineering
+10.1017/s1351324912000046,Exploiting the Wikipedia structure in local and global classification of taxonomic relations,QUANG XUAN DO and DAN ROTH,2012,1,Natural Language Engineering
+10.1017/s1351324921000024,Lyrics segmentation via bimodal text–audio representation,Michael Fell and Yaroslav Nechaev and Gabriel Meseguer-Brocal and Elena Cabrio and Fabien Gandon and Geoffroy Peeters,2022,1,Natural Language Engineering
+10.1017/s1351324918000074,Assessing multilingual multimodal image description: Studies of native speaker preferences and translator choices,STELLA FRANK and DESMOND ELLIOTT and LUCIA SPECIA,2018,6,Natural Language Engineering
+10.1017/s1351324917000304,Lemaza: An Arabic why-question answering system,AQIL M. AZMI and NOUF A. ALSHENAIFI,2017,11,Natural Language Engineering
+10.1017/s1351324915000340,A survey of graphs in natural language processing,VIVI NASTASE and RADA MIHALCEA and DRAGOMIR R. RADEV,2015,23,Natural Language Engineering
+10.1017/s1351324922000195,Turkish abstractive text summarization using pretrained sequence-to-sequence models,Batuhan Baykara and Tunga Güngör,2022,0,Natural Language Engineering
+10.1017/s1351324921000292,A semantic parsing pipeline for context-dependent question answering over temporally structured data,Charles Chen and Razvan Bunescu and Cindy Marling,2021,0,Natural Language Engineering
+10.1017/s1351324904003481,Software Architecture for Language Engineering,HAMISH CUNNINGHAM and DONIA SCOTT,2004,8,Natural Language Engineering
+10.1017/s1351324918000426,Arabic community question answering,PRESLAV NAKOV and LLUÍS MÀRQUEZ and ALESSANDRO MOSCHITTI and HAMDY MUBARAK,2019,4,Natural Language Engineering
+10.1017/s1351324917000365,DEXTER: A workbench for automatic term extraction with specialized corpora,CARLOS PERIÑAN-PASCUAL,2018,3,Natural Language Engineering
+10.1017/s1351324916000164,Building a multi-domain comparable corpus using a learning to rank method,RAZIEH RAHIMI and AZADEH SHAKERY and JAVID DADASHKARIMI and MOZHDEH ARIANNEZHAD and MOSTAFA DEHGHANI and HOSSEIN NASR ESFAHANI,2016,3,Natural Language Engineering
+10.1017/s1351324915000339,Can machine translation systems be evaluated by the crowd alone,YVETTE GRAHAM and TIMOTHY BALDWIN and ALISTAIR MOFFAT and JUSTIN ZOBEL,2017,20,Natural Language Engineering
+10.1017/s135132492000025x,Natural language generation: The commercial state of the art in 2020,Robert Dale,2020,8,Natural Language Engineering
+10.1017/s1351324901242612,"Wolfgang Minker, Alex Waibel, Joseph Mariani. Stochastically-based Semantic Analysis. Kluwer Academic, Boston/Dordrecht/London. 1999. ISBN 0-7923-8571-3 (Hardback). £74.75. xv+221 pages",OLIVER MASON,2001,0,Natural Language Engineering
+10.1017/s1351324914000035,MaltOptimizer: Fast and effective parser optimization,MIGUEL BALLESTEROS and JOAKIM NIVRE,2016,3,Natural Language Engineering
+10.1017/s1351324910000100,NLE volume 16 issue 3 Cover and Back matter,,2010,0,Natural Language Engineering
+10.1017/s1351324908004944,"Roland Hausser. A Computational Model of Natural Language Communication. Berlin, Heidelberg: Springer-Verlag, 2006. ISBN-13 978-3-540-35476-5. ii+365 pages.",Sandy Berkovski,2009,0,Natural Language Engineering
+10.1017/s1351324912000034,Structure-guided supertagger learning,YAO-ZHONG ZHANG and TAKUYA MATSUZAKI and JUN'ICHI TSUJII,2012,1,Natural Language Engineering
+10.1017/s1351324911000283,"Syntax-Based Collocation Extraction, by Violeta Seretan. Berlin: Springer, 2011. ISBN-10 9400701330, ISBN-13 978-9400701335. $139.00/£90.00 (Hardcover) xi + 220 pages.",Aline Villavicencio,2012,0,Natural Language Engineering
+10.1017/s1351324912000149,NLE volume 18 issue 3 Cover and Front matter,,2012,0,Natural Language Engineering
+10.1017/s1351324918000219,NLE volume 24 issue 4 Cover and Back matter,,2018,0,Natural Language Engineering
+10.1017/s1351324922000134,Real-world sentence boundary detection using multitask learning: A case study on French,KyungTae Lim and Jungyeul Park,2022,0,Natural Language Engineering
+10.1017/s1351324918000475,Law and Word Order: NLP in Legal Tech,ROBERT DALE,2019,24,Natural Language Engineering
+10.1017/s1351324922000067,NLE volume 28 issue 2 Cover and Front matter,,2022,0,Natural Language Engineering
+10.1017/s1351324903003140,Do all fragments count?,RENS BOD,2003,2,Natural Language Engineering
+10.1017/s1351324908004816,"Hermann Helbig. Knowledge Representation and the Semantics of Natural Language. Berlin, Springer-Verlag. 2006. ISBN-10 3-540-24461-1; ISBN-13 978-3-540-24461-5, xvii + 646 258 Figures, 23 Tables, CD-ROM, $139.00.",Tracy Holloway King,2009,0,Natural Language Engineering
+10.1017/s1351324919000172,Representation of sentence meaning (A JNLE Special Issue),Ondřej Bojar and Raffaella Bernardi and Bonnie Webber,2019,1,Natural Language Engineering
+10.1017/s1351324914000151,NLE volume 21 issue 1 Cover and Front matter,,2015,0,Natural Language Engineering
+10.1017/s1351324909990179,NLE volume 15 issue 4 Cover and Front matter,,2009,0,Natural Language Engineering
+10.1017/s1351324917000080,"Find the errors, get the better: Enhancing machine translation via word confidence estimation",NGOC-QUANG LUONG and LAURENT BESACIER and BENJAMIN LECOUTEUX,2017,3,Natural Language Engineering
+10.1017/s1351324917000079,Generating natural language descriptions using speaker-dependent information,THIAGO C. FERREIRA and IVANDRÉ PARABONI,2017,1,Natural Language Engineering
+10.1017/s1351324900002400,The LiLFeS Abstract Machine and its evaluation with the LinGO grammar,YUSUKE MIYAO and TAKAKI MAKINO and KENTARO TORISAWA and JUN-ICHI TSUJII,2000,7,Natural Language Engineering
+10.1017/s1351324906004177,A computer-aided environment for generating multiple-choice test items,RUSLAN MITKOV and LE AN HA and NIKIFOROS KARAMANIS,2006,89,Natural Language Engineering
+10.1017/s1351324912000307,A PDTB-styled end-to-end discourse parser,ZIHENG LIN and HWEE TOU NG and MIN-YEN KAN,2014,58,Natural Language Engineering
+10.1017/s1351324918000244,Multilingual SMS-based author profiling: Data and methods,MEHWISH FATIMA and SABA ANWAR and AMNA NAVEED and WAQAS ARSHAD and RAO MUHAMMAD ADEEL NAWAB and MUNTAHA IQBAL and ALIA MASOOD,2018,10,Natural Language Engineering
+10.1017/s135132491700016x,A Semi-automatic and low-cost method to learn patterns for named entity recognition,M. MARRERO and J. URBANO,2018,5,Natural Language Engineering
+10.1017/s135132490999026x,NLE volume 16 issue 1 Cover and Front matter,,2010,0,Natural Language Engineering
+10.1017/s1351324922000079,NLE volume 28 issue 2 Cover and Back matter,,2022,0,Natural Language Engineering
+10.1017/s1351324921000322,Emerging trends: A gentle introduction to fine-tuning,Kenneth Ward Church and Zeyu Chen and Yanjun Ma,2021,6,Natural Language Engineering
+10.1017/s1351324914000011,Selection of correction candidates for the normalization of Spanish user-generated content,M. MELERO and M.R. COSTA-JUSSÀ and P. LAMBERT and M. QUIXAL,2016,2,Natural Language Engineering
+10.1017/s1351324914000072,Pattern-based unsupervised parsing method,JESÚS SANTAMARÍA and LOURDES ARAUJO,2016,0,Natural Language Engineering
+10.1017/s1351324918000256,"Turing’s Imitation Game: Conversations with the Unknown, by Kevin Warwick and Huma Shah, Cambridge University Press, 2016. ISBN 978110705638-1. 202 pages",Nick Webb,2018,0,Natural Language Engineering
+10.1017/s1351324915000054,NLE volume 21 issue 2 Cover and Front matter,,2015,0,Natural Language Engineering
+10.1017/s1351324921000048,NLE volume 27 issue 2 Cover and Back matter,,2021,0,Natural Language Engineering
+10.1017/s1351324920000352,Supervised learning for the detection of negation and of its scope in French and Brazilian Portuguese biomedical corpora,Clément Dalloux and Vincent Claveau and Natalia Grabar and Lucas Emanuel Silva Oliveira and Claudia Maria Cabral Moro and Yohan Bonescki Gumiel and Deborah Ribeiro Carvalho,2021,8,Natural Language Engineering
+10.1017/s135132491600019x,NLE volume 22 issue 4 Cover and Back matter,,2016,0,Natural Language Engineering
+10.1017/s1351324905003670,Erratum,,2005,0,Natural Language Engineering
+10.1017/s1351324908005044,A corpus-based analysis of argument realization by preposition structures,QIBO ZHU,2009,0,Natural Language Engineering
+10.1017/s1351324919000366,How to tag non-standard language: Normalisation versus domain adaptation for Slovene historical and user-generated texts,Katja Zupan and Nikola Ljubešić and Tomaž Erjavec,2019,1,Natural Language Engineering
+10.1017/s1351324918000335,Emerging trends: APIs for speech and machine translation and more,KENNETH WARD CHURCH,2018,6,Natural Language Engineering
+10.1017/s1351324901002674,"Sake Jager, John Nerbonne and Arthur van Essen (eds). Language Teaching and Language Technology. Swets &amp; Zeitlinger, 1998. ISBN 90-265-1514-6 (hardback). $87.00. 234 pages",MAYUMI MASUKO,2001,0,Natural Language Engineering
+10.1017/s1351324917000407,A survey of diacritic restoration in abjad and alphabet writing systems,FRANKLIN ỌLÁDIÍPỌ̀ ASAHIAH and ỌDẸ́TÚNJÍ ÀJÀDÍ ỌDẸ́JỌBÍ and EMMANUEL RÓTÌMÍ ADÁGÚNODÒ,2018,2,Natural Language Engineering
+10.1017/s1351324910000148,A non-negative tensor factorization model for selectional preference induction,TIM VAN DE CRUYS,2010,20,Natural Language Engineering
+10.1017/s1351324920000455,Unsupervised Arabic dialect segmentation for machine translation,Wael Salloum and Nizar Habash,2022,1,Natural Language Engineering
+10.1017/s1351324918000414,Extractive multi-document summarization based on textual entailment and sentence compression via knapsack problem,ALI NASERASADI and HAMID KHOSRAVI and FARAMARZ SADEGHI,2019,6,Natural Language Engineering
+10.1017/s1351324922000468,NLE volume 28 issue 6 Cover and Front matter,,2022,0,Natural Language Engineering
+10.1017/s1351324920000224,Universal Lemmatizer: A sequence-to-sequence model for lemmatizing Universal Dependencies treebanks,Jenna Kanerva and Filip Ginter and Tapio Salakoski,2021,7,Natural Language Engineering
+10.1017/s1351324919000287,Neural morphosyntactic tagging for Rusyn,Yves Scherrer and Achim Rabus,2019,4,Natural Language Engineering
+10.1017/s1351324915000273,Silhouette + attraction: A simple and effective method for text clustering,MARCELO L. ERRECALDE and LETICIA C. CAGNINA and PAOLO ROSSO,2016,4,Natural Language Engineering
+10.1017/s1351324916000383,Natural language processing in mental health applications using non-clinical texts,RAFAEL A. CALVO and DAVID N. MILNE and M. SAZZAD HUSSAIN and HELEN CHRISTENSEN,2017,132,Natural Language Engineering
+10.1017/s1351324919000123,Query-based summarization of discussion threads,Suzan Verberne and Emiel Krahmer and Sander Wubben and Antal van den Bosch,2020,5,Natural Language Engineering
+10.1017/s1351324901002819,Analyses for elucidating current question answering technology,MARC LIGHT and GIDEON S. MANN and ELLEN RILOFF and ERIC BRECK,2001,33,Natural Language Engineering
+10.1017/s1351324909990192,Discourse planning for information composition and delivery: A reusable platform,CÉCILE PARIS and NATHALIE COLINEAU and ANDREW LAMPERT and KEITH VANDER LINDEN,2010,9,Natural Language Engineering
+10.1017/s1351324917000134,Social media text normalization for Turkish,GÜLŞEN ERYİǦİT and DİLARA TORUNOǦLU-SELAMET,2017,16,Natural Language Engineering
+10.1017/s1351324918000463,Out-domain Chinese new word detection with statistics-based character embedding,Yuzhi Liang and Min Yang and Jia Zhu and S. M. Yiu,2019,7,Natural Language Engineering
+10.1017/s1351324919000202,Sentence embeddings in NLI with iterative refinement encoders,Aarne Talman and Anssi Yli-Jyrä and Jörg Tiedemann,2019,14,Natural Language Engineering
+10.1017/s1351324911000167,Query-focused multi-document summarization: automatic data annotations and supervised learning approaches,YLLIAS CHALI and SADID A. HASAN,2012,15,Natural Language Engineering
+10.1017/s135132490600430x,Using patterns of thematic progression for building a table of contents of a text,MARIE-FRANCINE MOENS,2008,3,Natural Language Engineering
+10.1017/s1351324904003523,UIMA: an architectural approach to unstructured information processing in the corporate research environment,DAVID FERRUCCI and ADAM LALLY,2004,418,Natural Language Engineering
+10.1017/s1351324917000018,NLP in a post-truth world,ROBERT DALE,2017,24,Natural Language Engineering
+10.1017/s1351324918000359,MUSED: A multimedia multi-document dataset for topic segmentation,PEDRO MOTA and MAXINE ESKENAZI and LUÍSA COHEUR,2018,2,Natural Language Engineering
+10.1017/s1351324920000017,Constrained BERT BiLSTM CRF for understanding multi-sentence entity-seeking questions,Danish Contractor and Barun Patra and n.m. Mausam and Parag Singla,2021,7,Natural Language Engineering
+10.1017/s1351324918000013,"Text analytics APIs, Part 1: The bigger players",ROBERT DALE,2018,8,Natural Language Engineering
+10.1017/s135132491100026x,A unified alignment algorithm for bilingual data,CHRISTOPH TILLMANN and SANJIKA HEWAVITHARANA,2013,2,Natural Language Engineering
+10.1017/s135132490400350x,International standard for a linguistic annotation framework,NANCY IDE and LAURENT ROMARY,2004,49,Natural Language Engineering
+10.1017/s1351324906004451,Using automatically labelled examples to classify rhetorical relations: an assessment,CAROLINE SPORLEDER and ALEX LASCARIDES,2008,28,Natural Language Engineering
+10.1017/s1351324909990209,"Recognizing textual entailment: Rational, evaluation and approaches",IDO DAGAN and BILL DOLAN and BERNARDO MAGNINI and DAN ROTH,2009,46,Natural Language Engineering
+10.1017/s1351324903003152,Robust garden path parsing,BRIAN ROARK,2004,10,Natural Language Engineering
+10.1017/s135132492000008x,Syntax-ignorant N-gram embeddings for dialectal Arabic sentiment analysis,Hala Mulki and Hatem Haddad and Mourad Gridach and Ismail Babaoğlu,2021,2,Natural Language Engineering
+10.1017/s1351324906004293,Segmentation and alignment of parallel text for statistical machine translation,YONGGANG DENG and SHANKAR KUMAR and WILLIAM BYRNE,2007,10,Natural Language Engineering
+10.1017/s1351324905003827,Parallel texts,RADA MIHALCEA and MICHEL SIMARD,2005,12,Natural Language Engineering
+10.1017/s1351324905003840,Bootstrapping parsers via syntactic projection across parallel texts,REBECCA HWA and PHILIP RESNIK and AMY WEINBERG and CLARA CABEZAS and OKAN KOLAK,2005,61,Natural Language Engineering
+10.1017/s1351324917000353,The pros and cons of listening devices,ROBERT DALE,2017,5,Natural Language Engineering
+10.1017/s1351324912000393,Adaptive graph walk-based similarity measures for parsed text,EINAT MINKOV and WILLIAM W. COHEN,2014,3,Natural Language Engineering
+10.1017/s1351324914000114,UIMA Ruta: Rapid development of rule-based information extraction applications,PETER KLUEGL and MARTIN TOEPFER and PHILIP-DANIEL BECK and GEORG FETTE and FRANK PUPPE,2016,33,Natural Language Engineering
+10.1017/s1351324917000043,Classifying news versus opinions in newspapers: Linguistic features for domain independence,K. R. KRÜGER and A. LUKOWIAK and J. SONNTAG and S. WARZECHA and M. STEDE,2017,4,Natural Language Engineering
+10.1017/s1351324911000350,When the answer comes into question in question-answering: survey and open issues,ANA CRISTINA MENDES and LUÍSA COHEUR,2013,7,Natural Language Engineering
+10.1017/s1351324913000090,On the semantics of noun compounds,STAN SZPAKOWICZ and FRANCIS BOND and PRESLAV NAKOV and SU NAM KIM,2013,3,Natural Language Engineering
+10.1017/s1351324913000107,A lexical semantic approach to interpreting and bracketing English noun compounds,SU NAM KIM and TIMOTHY BALDWIN,2013,5,Natural Language Engineering
+10.1017/s1351324906004189,Identifying off-topic student essays without topic-specific training data,D. HIGGINS and J. BURSTEIN and Y. ATTALI,2006,33,Natural Language Engineering
+10.1017/s1351324902002930,Architectural elements of language engineering robustness,DIANA MAYNARD and VALENTIN TABLAN and HAMISH CUNNINGHAM and CRISTIAN URSU and HORACIO SAGGION and KALINA BONTCHEVA and YORICK WILKS,2002,37,Natural Language Engineering
+10.1017/s1351324918000281,The effect of morphology in named entity recognition with sequence tagging,ONUR GÜNGÖR and TUNGA GÜNGÖR and SUZAN ÜSKÜDARLI,2019,11,Natural Language Engineering
+10.1017/s1351324915000030,Arabic spelling error detection and correction,MOHAMMED ATTIA and PAVEL PECINA and YOUNES SAMIH and KHALED SHAALAN and JOSEF VAN GENABITH,2016,11,Natural Language Engineering
+10.1017/s1351324919000135,NLP commercialisation in the last 25 years,Robert Dale,2019,3,Natural Language Engineering
+10.1017/s135132492200002x,An empirical study of cyclical learning rate on neural machine translation,Weixuan Wang and Choon Meng Lee and Jianfeng Liu and Talha Colakoglu and Wei Peng,2023,1,Natural Language Engineering
+10.1017/s1351324922000481,"Emerging trends: Unfair, biased, addictive, dangerous, deadly, and insanely profitable",Kenneth Church and Annika Schoene and John E. Ortega and Raman Chandrasekar and Valia Kordoni,2023,1,Natural Language Engineering
+10.1017/s1351324916000061,Checking in on grammar checking,ROBERT DALE,2016,4,Natural Language Engineering
+10.1017/s1351324917000341,NLE volume 23 issue 6 Cover and Front matter,,2017,0,Natural Language Engineering
+10.1017/s1351324921000437,NLE volume 28 issue 1 Cover and Front matter,,2022,0,Natural Language Engineering
+10.1017/s1351324900002382,Efficient feature structure operations without compilation,ROBERT MALOUF and JOHN CARROLL and ANN COPESTAKE,2000,11,Natural Language Engineering
+10.1017/s1351324910000161,The automatic identification of lexical variation between language varieties,YVES PEIRSMAN and DIRK GEERAERTS and DIRK SPEELMAN,2010,13,Natural Language Engineering
+10.1017/s135132491500011x,An automatic approach to identify word sense changes in text media across timescales,SUNNY MITRA and RITWIK MITRA and SUMAN KALYAN MAITY and MARTIN RIEDL and CHRIS BIEMANN and PAWAN GOYAL and ANIMESH MUKHERJEE,2015,13,Natural Language Engineering
+10.1017/s1351324918000438,Editorial note,JOHN TAIT,2019,1,Natural Language Engineering
+10.1017/s1351324921000085,"Overcoming Challenges in Corpus Construction: The Spoken British National Corpus 2014, by Robbie Love. New York: Routledge, 2020. ISBN 978-1-138-36737-1, xviii + 202 pages",Siqi Liu,2022,0,Natural Language Engineering
+10.1017/s1351324922000249,NLE volume 28 issue 4 Cover and Front matter,,2022,0,Natural Language Engineering
+10.1017/s1351324915000236,Modernising historical Slovene words,YVES SCHERRER and TOMAŽ ERJAVEC,2016,5,Natural Language Engineering
+10.1017/s135132491900055x,Editorial note,Ruslan Mitkov,2019,0,Natural Language Engineering
+10.1017/s1351324911000040,Finite-state models for speech-based search on mobile devices,TANIYA MISHRA and SRINIVAS BANGALORE,2011,2,Natural Language Engineering
+10.1017/s1351324921000449,NLE volume 28 issue 1 Cover and Back matter,,2022,0,Natural Language Engineering
+10.1017/s1351324919000159,NLE volume 25 issue 3 Cover and Back matter,,2019,0,Natural Language Engineering
+10.1017/s1351324912000216,Morphological disambiguation of Hebrew: a case study in classifier combination,GENNADI LEMBERSKY and DANNY SHACHAM and SHULY WINTNER,2014,3,Natural Language Engineering
+10.1017/s1351324922000250,NLE volume 28 issue 4 Cover and Back matter,,2022,0,Natural Language Engineering
+10.1017/s1351324915000352,NLE volume 21 issue 5 Cover and Front matter,,2015,0,Natural Language Engineering
+10.1017/s1351324905003931,Linguistic knowledge in statistical phrase-based word alignment,A. DE GISPERT and J. B. MARIÑO,2006,2,Natural Language Engineering
+10.1017/s1351324902002954,Mostly-unsupervised statistical segmentation of Japanese kanji sequences,RIE KUBOTA ANDO and LILLIAN LEE,2003,11,Natural Language Engineering
+10.1017/s1351324915000431,A classification approach for detecting cross-lingual biomedical term translations,H. HAKAMI and D. BOLLEGALA,2017,4,Natural Language Engineering
+10.1017/s1351324910000215,NLE volume 16 issue 4 Cover and Back matter,,2010,0,Natural Language Engineering
+10.1017/s1351324903003139,Finite state methods in natural language processing,LAURI KARTTUNEN and KIMMO KOSKENNIEMI and GERTJAN VAN NOORD,2003,1,Natural Language Engineering
+10.1017/s1351324912000320,NLE volume 19 issue 1 Cover and Back matter,,2013,0,Natural Language Engineering
+10.1017/s1351324902002966,Introduction to the special issue on evaluating word sense disambiguation systems,PHILIP EDMONDS and ADAM KILGARRIFF,2002,33,Natural Language Engineering
+10.1017/s1351324907004603,Industry Watch,ROBERT DALE,2007,1,Natural Language Engineering
+10.1017/s1351324919000640,Voice assistance in 2019,Robert Dale,2020,0,Natural Language Engineering
+10.1017/s1351324903003279,Mood and modality: out of theory and into the fray,MARJORIE MCSHANE and SERGEI NIRENBURG and RON ZACHARSKI,2004,2,Natural Language Engineering
+10.1017/s1351324922000511,KLAUS-Tr: Knowledge &amp; learning-based unit focused arithmetic word problem solver for transfer cases,Suresh Kumar and P. Sreenivasa Kumar,2022,0,Natural Language Engineering
+10.1017/s1351324919000147,NLE volume 25 issue 3 Cover and Front matter,,2019,0,Natural Language Engineering
+10.1017/s1351324900002333,Introduction to this Special Issue,STEPHAN OEPEN and DAN FLICKINGER and HANS USZKOREIT and JUN-ICHI TSUJII,2000,6,Natural Language Engineering
+10.1017/s1351324920000625,NLE volume 27 issue 1 Cover and Back matter,,2021,0,Natural Language Engineering
+10.1017/s1351324916000371,NLE volume 23 issue 1 Cover and Back matter,,2017,0,Natural Language Engineering
+10.1017/s1351324917000031,NLE volume 23 issue 2 Cover and Back matter,,2017,0,Natural Language Engineering
+10.1017/s1351324906004281,A detailed comparison of WSD systems: an analysis of the system answers for the SENSEVAL-2 English all words task,JUDITA PREISS,2006,2,Natural Language Engineering
+10.1017/s1351324920000595,Exploiting native language interference for native language identification,Ilia Markov and Vivi Nastase and Carlo Strapparava,2022,0,Natural Language Engineering
+10.1017/s135132491500042x,NLE volume 22 issue 1 Cover and Back matter,,2016,0,Natural Language Engineering
+10.1017/s1351324908004932,Questionnaires for eliciting evaluation data from users of interactive question answering systems,D. KELLY and P. B. KANTOR and E. L. MORSE and J. SCHOLTZ and Y. SUN,2009,7,Natural Language Engineering
+10.1017/s1351324913000338,NLE volume 20 issue 1 Cover and Front matter,,2014,0,Natural Language Engineering
+10.1017/s135132491000032x,Estimating the number of segments for improving dialogue act labelling,VICENT TAMARIT and CARLOS-D. MARTÍNEZ-HINAREJOS and JOSÉ-MIGUEL BENEDÍ,2012,2,Natural Language Engineering
+10.1017/s1351324917000432,NLE volume 24 issue 1 Cover and Front matter,,2018,0,Natural Language Engineering
+10.1017/s1351324912000083,NLE volume 18 issue 2 Cover and Front matter,,2012,0,Natural Language Engineering
+10.1017/s1351324915000133,Morphologically rich Urdu grammar parsing using Earley algorithm,QAISER ABBAS,2016,5,Natural Language Engineering
+10.1017/s1351324919000445,Domain bias in distinguishing Flemish and Dutch subtitles,Hans van Halteren,2020,0,Natural Language Engineering
+10.1017/s1351324901002637,Compound noun segmentation based on lexical data extracted from corpus,JUNTAE YOON,2001,2,Natural Language Engineering
+10.1017/s1351324913000223,Analysis and feedback of erroneous Arabic verbs,KHALED SHAALAN and MARWA MAGDY and ALY FAHMY,2015,6,Natural Language Engineering
+10.1017/s1351324913000351,Design and realization of a modular architecture for textual entailment,SEBASTIAN PADÓ and TAE-GIL NOH and ASHER STERN and RUI WANG and ROBERTO ZANOLI,2015,10,Natural Language Engineering
+10.1017/s1351324908004889,Interactive question answering and constraint relaxation in spoken dialogue systems,S. VARGES and F. WENG and H. PON-BARRY,2009,8,Natural Language Engineering
+10.1017/s1351324911000234,A cross-corpus study of subjectivity identification using unsupervised learning,DONG WANG and YANG LIU,2012,1,Natural Language Engineering
+10.1017/s1351324900002448,Acquisitions and applications of structure preference relations in Chinese,QIANG ZHOU and FUJI REN,2000,1,Natural Language Engineering
+10.1017/s1351324917000389,Emerging trends: A tribute to Charles Wayne,KENNETH WARD CHURCH,2018,2,Natural Language Engineering
+10.1017/s1351324912000381,Coping with highly imbalanced datasets: A case study with definition extraction in a multilingual setting,ROSA DEL GAUDIO and GUSTAVO BATISTA and ANTÓNIO BRANCO,2014,10,Natural Language Engineering
+10.1017/s1351324913000375,Hierarchical reinforcement learning for situated natural language generation,NINA DETHLEFS and HERIBERTO CUAYÁHUITL,2015,12,Natural Language Engineering
+10.1017/s1351324910000173,Modeling reciprocity in social interactions with probabilistic latent space models,ROXANA GIRJU and MICHAEL J. PAUL,2011,2,Natural Language Engineering
+10.1017/s1351324920000042,NLE volume 26 issue 2 Cover and Front matter,,2020,0,Natural Language Engineering
+10.1017/s1351324906004372,DialogueView: annotating dialogues in multiple views with abstraction,FAN YANG and PETER A. HEEMAN and KRISTY HOLLINGSHEAD and SUSAN E. STRAYER,2008,1,Natural Language Engineering
+10.1017/s1351324922000225,Ad astra or astray: Exploring linguistic knowledge of multilingual BERT through NLI task,Maria Tikhonova and Vladislav Mikhailov and Dina Pisarevskaya and Valentin Malykh and Tatiana Shavrina,2022,0,Natural Language Engineering
+10.1017/s1351324922000535,How to do human evaluation: A brief introduction to user studies in NLP,Hendrik Schuff and Lindsey Vanderlyn and Heike Adel and Ngoc Thang Vu,2023,0,Natural Language Engineering
+10.1017/s1351324903003176,Open-domain textual question answering techniques,SANDA M. HARABAGIU and STEVEN J. MAIORANO and MARIUS A. PAŞCA,2003,17,Natural Language Engineering
+10.1017/s1351324906004384,A finite-state morphological grammar of Hebrew,S. YONA and S. WINTNER,2008,10,Natural Language Engineering
+10.1017/s1351324918000177,"Peter Lasersohn. Subjectivity and Perspective in Truth-Theoretic Semantics. Oxford, Oxford University Press, 2017. ISBN 9780199573677. XVIII + 274 pages.",Guocai Zeng,2018,0,Natural Language Engineering
+10.1017/s1351324917000195,Leveraging bilingual terminology to improve machine translation in a CAT environment,MIHAEL ARCAN and MARCO TURCHI and SARA TONELLI and PAUL BUITELAAR,2017,13,Natural Language Engineering
+10.1017/s1351324920000297,Towards syntax-aware token embeddings,Diana Nicoleta Popa and Julien Perez and James Henderson and Eric Gaussier,2021,1,Natural Language Engineering
+10.1017/s1351324920000169,NLE volume 26 issue 3 Cover and Back matter,,2020,0,Natural Language Engineering
+10.1017/s1351324917000286,Emerging trends: Inflation,KENNETH CHURCH,2017,1,Natural Language Engineering
+10.1017/s1351324917000225,NLE volume 23 issue 4 Cover and Back matter,,2017,0,Natural Language Engineering
+10.1017/s1351324904233435,"Verbmobil: Foundations of Speech-to-Speech Translation, by Wolfgang Wahlster (editor). Springer. 2000. ISBN 3-540-67783-6. Price 44.50 (hardback). xii+679 pages",Jason Baldridge,2004,0,Natural Language Engineering
+10.1017/s1351324915000017,A statistical model for grammar mapping,A. BASIRAT and H. FAILI and J. NIVRE,2016,0,Natural Language Engineering
+10.1017/s1351324918000232,Alignment of comparable documents: Comparison of similarity measures on French–English–Arabic data,D. LANGLOIS and M. SAAD and K. SMAILI,2018,5,Natural Language Engineering
+10.1017/s1351324919000160,A new approach for textual feature selection based on N-composite isolated labels,Samir Elloumi,2020,1,Natural Language Engineering
+10.1017/s1351324906004396,Active learning and logarithmic opinion pools for HPSG parse selection,JASON BALDRIDGE and MILES OSBORNE,2008,4,Natural Language Engineering
+10.1017/s1351324911000106,Datasets for generic relation extraction,B. HACHEY and C. GROVER and R. TOBIN,2012,10,Natural Language Engineering
+10.1017/s1351324910000203,NLE volume 16 issue 4 Cover and Front matter,,2010,0,Natural Language Engineering
+10.1017/s1351324902002905,"Robust discourse parsing via discourse markers, topicality and position",FRANK SCHILDER,2002,14,Natural Language Engineering
+10.1017/s1351324921000413,"Statistics in Corpus Linguistics: A New Approach by Sean Wallis. New York/Oxon: Routledge, 2021. ISBN 9781138589384 (PB: 44.95), ISBN 9781138589377 (HB: 160.00), ISBN 9780429491696 (eBook: 44.95), xxvi+382 pages.",Zheyuan Dai,2023,0,Natural Language Engineering
+10.1017/s1351324921000383,Authorship attribution using author profiling classifiers,Caio Deutsch and Ivandré Paraboni,2023,1,Natural Language Engineering
+10.1017/s1351324918000062,Possession identification in text,CARMEN BANEA and RADA MIHALCEA,2018,2,Natural Language Engineering
+10.1017/s135132492200016x,NLE volume 28 issue 3 Cover and Back matter,,2022,0,Natural Language Engineering
+10.1017/s1351324922000432,"Improving aspect-based neural sentiment classification with lexicon enhancement, attention regularization and sentiment induction",Lingxian Bao and Patrik Lambert and Toni Badia,2022,0,Natural Language Engineering
+10.1017/s1351324905003852,Constrained EM for parallel text alignment,DAVID TALBOT,2005,2,Natural Language Engineering
+10.1017/s1351324902002899,Selecting effective index terms using a decision tree,TOKUNAGA TAKENOBU and KIMURA KENJI and OGIBAYASHI HIRONORI and TANAKA HOZUMI,2002,2,Natural Language Engineering
+10.1017/s1351324913000144,Similarity computation using semantic networks created from web-harvested data,ELIAS IOSIF and ALEXANDROS POTAMIANOS,2015,14,Natural Language Engineering
+10.1017/s1351324921000164,The automated writing assistance landscape in 2021,Robert Dale and Jette Viethen,2021,5,Natural Language Engineering
+10.1017/s1351324922000262,Automated hate speech detection and span extraction in underground hacking and extremist forums,Linda Zhou and Andrew Caines and Ildiko Pete and Alice Hutchings,2022,0,Natural Language Engineering
+10.1017/s1351324909005117,The FrameNet model and its applications†,BIRTE LÖNNEKER-RODMAN and COLLIN F. BAKER,2009,7,Natural Language Engineering
+10.1017/s1351324917000420,Unsupervised learning of semantic representation for documents with the law of total probability,YANG WEI and JINMAO WEI and ZHENGLU YANG,2018,2,Natural Language Engineering
+10.1017/s1351324912000290,"Introduction to Machine Learning, 2nd ed., by Ethem Alpaydın. Cambridge, MA: The MIT Press2010. ISBN: 978-0-262-01243-0. $54/£ 39.95 + 584 pages.",Pınar Dönmez,2013,5,Natural Language Engineering
+10.1017/s1351324914000060,Construction and evaluation of event graphs,GORAN GLAVAŠ and JAN ŠNAJDER,2015,13,Natural Language Engineering
+10.1017/s1351324922000420,A randomized prospective study of a hybrid rule- and data-driven virtual patient,Adam Stiff and Michael White and Eric Fosler-Lussier and Lifeng Jin and Evan Jaffe and Douglas Danforth,2022,1,Natural Language Engineering
+10.1017/s1351324916000346,"Citation function, polarity and influence classification",MYRIAM HERNÁNDEZ-ALVAREZ and JOSÉ M. GOMEZ SORIANO and PATRICIO MARTÍNEZ-BARCO,2017,22,Natural Language Engineering
+10.1017/s1351324919000317,Term evaluation metrics in imbalanced text categorization,Behzad Naderalvojoud and Ebru Akcapinar Sezer,2020,3,Natural Language Engineering
+10.1017/s1351324902002978,Combining Classifiers for word sense disambiguation,RADU FLORIAN and SILVIU CUCERZAN and CHARLES SCHAFER and DAVID YAROWSKY,2002,27,Natural Language Engineering
+10.1017/s1351324919000093,Integrating LSA-based hierarchical conceptual space and machine learning methods for leveling the readability of domain-specific texts,Hou-Chiang Tseng and Berlin Chen and Tao-Hsing Chang and Yao-Ting Sung,2019,10,Natural Language Engineering
+10.1017/s1351324905004079,How much can part-of-speech tagging help parsing?,MARY DALRYMPLE,2006,2,Natural Language Engineering
+10.1017/s1351324915000443,NLP-driven citation analysis for scientometrics,RAHUL JHA and AMJAD-ABU JBARA and VAHED QAZVINIAN and DRAGOMIR R. RADEV,2017,45,Natural Language Engineering
+10.1017/s1351324919000457,Keyword extraction: Issues and methods,Nazanin Firoozeh and Adeline Nazarenko and Fabrice Alizon and Béatrice Daille,2020,35,Natural Language Engineering
+10.1017/s1351324922000043,Emerging Trends: SOTA-Chasing,Kenneth Ward Church and Valia Kordoni,2022,6,Natural Language Engineering
+10.1017/s1351324921000310,Sentence encoding for Dialogue Act classification,Nathan Duran and Steve Battle and Jim Smith,2021,0,Natural Language Engineering
+10.1017/s1351324915000285,Data-driven deep-syntactic dependency parsing,MIGUEL BALLESTEROS and BERND BOHNET and SIMON MILLE and LEO WANNER,2016,4,Natural Language Engineering
+10.1017/s1351324915000315,Phonetisaurus: Exploring grapheme-to-phoneme conversion with joint n-gram models in the WFST framework,JOSEF ROBERT NOVAK and NOBUAKI MINEMATSU and KEIKICHI HIROSE,2016,18,Natural Language Engineering
+10.1017/s1351324901002650,Real-time automatic insertion of accents in French text,MICHEL SIMARD and ALEXANDRE DESLAURIERS,2001,14,Natural Language Engineering
+10.1017/s1351324919000032,A learning to rank approach for cross-language information retrieval exploiting multiple translation resources,Hosein Azarbonyad and Azadeh Shakery and Heshaam Faili,2019,9,Natural Language Engineering
+10.1017/s135132491500039x,Translating text into pictographs,VINCENT VANDEGHINSTE and INEKE SCHUURMAN LEEN SEVENS and FRANK VAN EYNDE,2017,5,Natural Language Engineering
+10.1017/s1351324918000098,Where to put the image in an image caption generator,MARC TANTI and ALBERT GATT and KENNETH P. CAMILLERI,2018,52,Natural Language Engineering
+10.1017/s135132491600005x,Deep-neural network approaches for speech recognition with heterogeneous groups of speakers including children,ROMAIN SERIZEL and DIEGO GIULIANI,2017,28,Natural Language Engineering
+10.1017/s1351324916000231,Keyword extraction from emails,S. LAHIRI and R. MIHALCEA and P.-H. LAI,2017,13,Natural Language Engineering
+10.1017/s1351324909005099,Learning human multimodal dialogue strategies,V. RIESER and O. LEMON,2010,9,Natural Language Engineering
+10.1017/s1351324916000024,"Developing, evaluating, and refining an automatic generator of diagnostic multiple choice cloze questions to assess children's comprehension while reading",JACK MOSTOW and YI-TING HUANG and HYEJU JANG and ANDERS WEINSTEIN and JOE VALERI and DONNA GATES,2017,5,Natural Language Engineering
+10.1017/s135132491900024x,Analyzing and interpreting neural networks for NLP: A report on the first BlackboxNLP workshop,Afra Alishahi and Grzegorz Chrupała and Tal Linzen,2019,12,Natural Language Engineering
+10.1017/s1351324907004664,Automatic generation of weather forecast texts using comprehensive probabilistic generation-space models,ANJA BELZ,2008,52,Natural Language Engineering
+10.1017/s1351324922000274,Construction Grammar Conceptual Network: Coordination-based graph method for semantic association analysis,Benedikt Perak and Tajana Ban Kirigin,2022,1,Natural Language Engineering
+10.1017/s1351324901002698,ILEX: an architecture for a dynamic hypertext generation system,M. O'DONNELL and C. MELLISH and J. OBERLANDER and A. KNOTT,2001,41,Natural Language Engineering
+10.1017/s1351324921000152,Deception detection in text and its relation to the cultural dimension of individualism/collectivism,Katerina Papantoniou and Panagiotis Papadakos and Theodore Patkos and George Flouris and Ion Androutsopoulos and Dimitris Plexousakis,2022,3,Natural Language Engineering
+10.1017/s1351324918000347,Models to represent linguistic linked data,J. BOSQUE-GIL and J. GRACIA and E. MONTIEL-PONSODA and A. GÓMEZ-PÉREZ,2018,9,Natural Language Engineering
+10.1017/s135132490200298x,Evaluating sense disambiguation across diverse parameter spaces,DAVID YAROWSKY and RADU FLORIAN,2002,48,Natural Language Engineering
+10.1017/s1351324923000062,"Argumentation models and their use in corpus annotation: Practice, prospects, and challenges",Henrique Lopes Cardoso and Rui Sousa-Silva and Paula Carvalho and Bruno Martins,2023,0,Natural Language Engineering
+10.1017/s1351324921000462,Enhancement of Twitter event detection using news streams,Samaneh Karimi and Azadeh Shakery and Rakesh M. Verma,2023,2,Natural Language Engineering
+10.1017/s1351324912000241,Evaluating authorship distance methods using the positive Silhouette coefficient,ROBERT LAYTON and PAUL WATTERS and RICHARD DAZELEY,2013,17,Natural Language Engineering
+10.1017/s1351324920000364,Linguistic knowledge-based vocabularies for Neural Machine Translation,Noe Casas and Marta R. Costa-jussà and José A. R. Fonollosa and Juan A. Alonso and Ramón Fanlo,2021,1,Natural Language Engineering
+10.1017/s1351324920000303,Neural machine translation of low-resource languages using SMT phrase pair injection,Sukanta Sen and Mohammed Hasanuzzaman and Asif Ekbal and Pushpak Bhattacharyya and Andy Way,2021,6,Natural Language Engineering
+10.1017/s135132491800013x,Aspect opinion expression and rating prediction via LDA–CRF hybrid,ABHISHEK LADDHA and ARJUN MUKHERJEE,2018,10,Natural Language Engineering
+10.1017/s1351324906004104,A Reference Architecture for Natural Language Generation Systems,CHRIS MELLISH and DONIA SCOTT and LYNNE CAHILL and DANIEL PAIVA and ROGER EVANS and MIKE REAPE,2006,32,Natural Language Engineering
+10.1017/s1351324904003456,A Reference Architecture for Generation Systems,CHRIS MELLISH and MIKE REAPE and DONIA SCOTT and LYNNE CAHILL and ROGER EVANS and DANIEL PAIVA,2004,5,Natural Language Engineering
+10.1017/s1351324918000050,SaferDrive: An NLG-based behaviour change support system for drivers,DANIEL BRAUN and EHUD REITER and ADVAITH SIDDHARTHAN,2018,7,Natural Language Engineering
+10.1017/s1351324913000284,A survey of automatic Arabic diacritization techniques,AQIL M. AZMI and REHAM S. ALMAJED,2015,48,Natural Language Engineering
+10.1017/s1351324909005129,"Christopher D. Manning, Prabhakar Raghavan, Hinrich Schütze, Introduction to Information Retrieval, Cambridge University Press. 2008. ISBN-13 978-0-521-86571-5, xxi + 482 pages.",Mark Sanderson,2010,97,Natural Language Engineering
+10.1017/s1351324905004031,Choosing the content of textual summaries of large time-series data sets,JIN YU and EHUD REITER and JIM HUNTER and CHRIS MELLISH,2007,51,Natural Language Engineering

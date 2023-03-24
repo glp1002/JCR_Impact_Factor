@@ -1,0 +1,544 @@
+DOI,Título,Autores,Año,Citas,Revista
+10.3233/sw-150172,LinkedSpending: OpenSpending becomes Linked Open Data,Konrad Höffner and Michael Martin and Jens Lehmann,2015,23,Semantic Web
+10.3233/sw-212864,Continuous multi-query optimization for subgraph matching over dynamic graphs,Xi Wang and Qianzhen Zhang and Deke Guo and Xiang Zhao,2022,0,Semantic Web
+10.3233/sw-140144,Forest logging: A trace-based analysis of large rule-based computations,Terrance Swift,2015,0,Semantic Web
+10.3233/sw-222798,A strategy for archives metadata representation on CIDOC-CRM and knowledge discovery,Dora Melo and Irene Pimenta Rodrigues and Davide Varagnolo,2022,1,Semantic Web
+10.3233/sw-222925,Question answering with deep neural networks for semi-structured heterogeneous genealogical knowledge graphs,Omri Suissa and Maayan Zhitomirsky-Geffet and Avshalom Elmalech,2022,1,Semantic Web
+10.3233/sw-150183,Web reasoning and rule systems,Domenico Lembo and Wolfgang Faber,2015,0,Semantic Web
+10.3233/sw-200419,Knowledge Graph OLAP,Christoph G. Schuetz and Loris Bozzato and Bernd Neumayr and Michael Schrefl and Luciano Serafini,2021,4,Semantic Web
+10.3233/sw-180309,Evaluating query and storage strategies for RDF archives,Javier D. Fernández and Jürgen Umbrich and Axel Polleres and Magnus Knuth,2019,11,Semantic Web
+10.3233/sw-140139,Next Generation Scientific Publishing and the Web of Data,Tim Clark,2014,2,Semantic Web
+10.3233/sw-130097,Contextual information retrieval in research articles: Semantic publishing tools for the research community,M.A. Angrosh and Stephen Cranefield and Nigel Stanger,2014,3,Semantic Web
+10.3233/sw-200380,"Editorial: Special issue on Semantic eScience: Methods, tools and applications",Daniel Garijo and Natalia Villanueva-Rosales and Tomi Kauppinen,2020,0,Semantic Web
+10.3233/sw-2012-0075,Model outlines: A visual language for DL concept descriptions,Fernando Náufel do Amaral,2013,0,Semantic Web
+10.3233/sw-210431,Using natural language generation to bootstrap missing Wikipedia articles: A human-centric perspective,Lucie-Aimée Kaffee and Pavlos Vougiouklis and Elena Simperl,2022,0,Semantic Web
+10.3233/sw-140147,DBnary: Wiktionary as a Lemon-based multilingual lexical resource in RDF,Gilles Sérasset,2015,25,Semantic Web
+10.3233/sw-170258,The apertium bilingual dictionaries on the web of data,Jorge Gracia and Marta Villegas and Asunción Gómez-Pérez and Núria Bel,2018,13,Semantic Web
+10.3233/sw-200408,Deploying spatial-stream query answering in C-ITS scenarios1,Thomas Eiter and Ryutaro Ichise and Josiane Xavier Parreira and Patrik Schneider and Lihua Zhao,2020,0,Semantic Web
+10.3233/sw-120093,Fiction literature as linked open data—The BookSampo dataset,Eetu Mäkelä and Kaisa Hypén and Eero Hyvönen,2013,6,Semantic Web
+10.3233/sw-2011-0048,Taking flight with OWL2,Michel Dumontier,2011,0,Semantic Web
+10.3233/sw-170271,Linked data schemata: Fixing unsound foundations,Kevin Chekov Feeney and Gavin Mendel Gleason and Rob Brennan,2017,1,Semantic Web
+10.3233/sw-180295,DogOnt as a viable seed for semantic modeling of AEC/FM,Dario Bonino and Luigi De Russis,2018,9,Semantic Web
+10.3233/sw-2012-0060,Lifecycle models of data-centric systems and domains,Knud Möller,2013,4,Semantic Web
+10.3233/sw-170284,Weaving a Web of linked resources,Fabien Gandon and Marta Sabou and Harald Sack,2017,0,Semantic Web
+10.3233/sw-180342,A closer look at the Semantic Web journal’s review process,Cogan Shimizu and Pascal Hitzler and Krzysztof Janowicz,2018,1,Semantic Web
+10.3233/sw-180302,Extracting common sense knowledge via triple ranking using supervised and unsupervised distributional models,Soufian Jebbara and Valerio Basile and Elena Cabrio and Philipp Cimiano,2018,2,Semantic Web
+10.3233/sw-222896,Methodologies for publishing linked open government data on the Web: A systematic mapping and a unified process model,Bruno Elias Penteado and José Carlos Maldonado and Seiji Isotani,2022,0,Semantic Web
+10.3233/sw-2010-0006,User modeling and adaptive Semantic Web,Lora Aroyo and Geert-Jan Houben,2010,7,Semantic Web
+10.3233/sw-120094,datos.bne.es: A library linked dataset,Daniel Vila-Suero and Boris Villazón-Terrazas and Asunción Gómez-Pérez,2013,22,Semantic Web
+10.3233/sw-180318,A convolutional neural network-based model for knowledge base completion and its application to search personalization,Dai Quoc Nguyen and Dat Quoc Nguyen and Tu Dinh Nguyen and Dinh Phung,2019,15,Semantic Web
+10.3233/sw-190370,"Knowledge graphs: Construction, management and querying",Mayank Kejriwal and Juan Sequeda and Vanessa Lopez,2019,11,Semantic Web
+10.3233/sw-140154,Probabilistic Description Logics under the distribution semantics,Fabrizio Riguzzi and Elena Bellodi and Evelina Lamma and Riccardo Zese,2015,30,Semantic Web
+10.3233/sw-150208,Sparklis: An expressive query builder for SPARQL endpoints with guidance in natural language,Sébastien Ferré,2016,64,Semantic Web
+10.3233/sw-160237,SPARQL with property paths on the Web,Olaf Hartig and Giuseppe Pirrò,2017,9,Semantic Web
+10.3233/sw-2012-0063,The understandability of OWL statements in controlled English,Tobias Kuhn,2013,14,Semantic Web
+10.3233/sw-130102,Publishing and interlinking the Global Health Observatory dataset,Amrapali Zaveri and Jens Lehmann and Sören Auer and Mofeed M. Hassan and Mohamed A. Sherif and Michael Martin,2013,11,Semantic Web
+10.3233/sw-160228,JRC-Names: Multilingual entity name variants and titles as Linked Data,Maud Ehrmann and Guillaume Jacquet and Ralf Steinberger,2016,8,Semantic Web
+10.3233/sw-190379,Are we better off with just one ontology on the Web?,Armin Haller and Axel Polleres,2020,4,Semantic Web
+10.3233/sw-200394,Challenge-derived design practices for a semantic gazetteer for medieval and early modern places,Philipp Schneider and Jim Jones and Torsten Hiltmann and Tomi Kauppinen,2021,0,Semantic Web
+10.3233/sw-200410,Network metrics for assessing the quality of entity resolution between multiple datasets1,Al Idrissou and Frank van Harmelen and Peter van den Besselaar,2020,1,Semantic Web
+10.3233/sw-180321,Semantic technologies and interoperability in the built environment,Pieter Pauwels and María Poveda-Villalón and Álvaro Sicilia and Jérôme Euzenat,2018,7,Semantic Web
+10.3233/sw-180290,On the quality of vocabularies for linked dataset papers published in the Semantic Web journal,Stella Sam and Pascal Hitzler and Krzysztof Janowicz,2018,0,Semantic Web
+10.3233/sw-200409,Charaterizing RDF graphs through graph-based measures – framework and assessment,Matthäus Zloch and Maribel Acosta and Daniel Hienert and Stefan Conrad and Stefan Dietze,2021,0,Semantic Web
+10.3233/sw-130101,An authority-flow based ranking approach to discover potential novel associations between Linked Data,María-Esther Vidal and Jean-Carlo Rivera and Luis-Daniel Ibáñez and Louiqa Raschid and Guillermo Palma and Héctor Rodriguez and Edna Ruckhaus,2014,4,Semantic Web
+10.3233/sw-130099,(Partial) user preference similarity as classification-based model similarity,Amancio Bouza and Abraham Bernstein,2014,4,Semantic Web
+10.3233/sw-210433,Advancing agriculture through semantic data management,Pascal Hitzler and Krzysztof Janowicz and Ajay Sharda and Cogan Shimizu,2021,2,Semantic Web
+10.3233/sw-223278,Editorial of transport data on the web,David Chaves-Fraga and Pieter Colpaert and Mersedeh Sadeghi and Marco Comerio,2022,0,Semantic Web
+10.3233/sw-180327,SpecINT: A framework for data integration over cheminformatics and bioinformatics RDF repositories,Branko Arsić and Marija Ðokić-Petrović and Petar Spalević and Ivan Milentijević and Dejan Rančić and Marko Živanović,2019,6,Semantic Web
+10.3233/sw-180322,On the prospects of blockchain and distributed ledger technologies for open science and academic publishing,Krzysztof Janowicz and Blake Regalia and Pascal Hitzler and Gengchen Mai and Stephanie Delbecque and Maarten Fröhlich and Patrick Martinent and Trevor Lazarus,2018,33,Semantic Web
+10.3233/sw-200382,Introducing the Data Quality Vocabulary (DQV),Riccardo Albertoni and Antoine Isaac,2020,2,Semantic Web
+10.3233/sw-180292,Semantic Web and Human Computation: The status of an emerging field,Marta Sabou and Lora Aroyo and Kalina Bontcheva and Alessandro Bozzon and Rehab K. Qarout,2018,3,Semantic Web
+10.3233/sw-200381,Difficulty-level modeling of ontology-based factual questions,Vinu E. Venugopal and P. Sreenivasa Kumar,2020,1,Semantic Web
+10.3233/sw-223041,Semantic Web technologies and bias in artificial intelligence: A systematic literature review,Paula Reyero Lobo and Enrico Daga and Harith Alani and Miriam Fernandez,2022,0,Semantic Web
+10.3233/sw-222994,Paving the way for enriched metadata of linguistic linked data,Maria Pia di Buono and Hugo Gonçalo Oliveira and Verginica Barbu Mititelu and Blerina Spahiu and Gennaro Nolano,2022,0,Semantic Web
+10.3233/sw-2010-0012,Modeling vs encoding for the Semantic Web,Werner Kuhn,2010,6,Semantic Web
+10.3233/sw-130109,Translational research combining orthologous genes and human diseases with the OGOLOD dataset,José Antonio Miñarro-Giménez and Mikel Egaña Aranguren and Boris Villazón-Terrazas and Jesualdo Tomás Fernández Breis,2014,5,Semantic Web
+10.3233/sw-150193,An unsupervised data-driven method to discover equivalent relations in large Linked Datasets,Ziqi Zhang and Anna Lisa Gentile and Eva Blomqvist and Isabelle Augenstein and Fabio Ciravegna,2016,7,Semantic Web
+10.3233/sw-200401,Recursion in SPARQL,Juan Reutter and Adrián Soto and Domagoj Vrgoč,2021,0,Semantic Web
+10.3233/sw-200389,Gold-level open access at the Semantic Web journal,Krzysztof Janowicz and Pascal Hitzler,2020,2,Semantic Web
+10.3233/sw-200375,Weather data publication on the LOD using SOSA/SSN ontology,Catherine Roussey and Stephan Bernard and Géraldine André and Daniel Boffety,2020,9,Semantic Web
+10.3233/sw-200417,Of lions and Yakshis,Franziska Pannach and Caroline Sporleder and Wolfgang May and Aravind Krishnan and Anusharani Sewchurran,2021,0,Semantic Web
+10.3233/sw-140134,"DBpedia – A large-scale, multilingual knowledge base extracted from Wikipedia",Jens Lehmann and Robert Isele and Max Jakob and Anja Jentzsch and Dimitris Kontokostas and Pablo N. Mendes and Sebastian Hellmann and Mohamed Morsey and Patrick van Kleef and Sören Auer and Christian Bizer,2015,1284,Semantic Web
+10.3233/sw-160246,Map-On: A web-based editor for visual ontology mapping,Álvaro Sicilia and German Nemirovski and Andreas Nolle,2017,16,Semantic Web
+10.3233/sw-190351,Special issue on stream reasoning,Daniele Dell’Aglio and Thomas Eiter and Fredrik Heintz and Danh Le-Phuoc,2019,1,Semantic Web
+10.3233/sw-160245,A RADAR for information reconciliation in Question Answering systems over Linked Data1,Elena Cabrio and Serena Villata and Alessio Palmero Aprosio,2017,3,Semantic Web
+10.3233/sw-210426,Observational/hydrographic data of the South Atlantic Ocean published as LOD,Marcos Zárate and Germán Braun and Mirtha Lewis and Pablo Fillottrani,2022,1,Semantic Web
+10.3233/sw-190363,Deep learning for noise-tolerant RDFS reasoning1,Bassem Makni and James Hendler,2019,10,Semantic Web
+10.3233/sw-190357,A systematic survey of temporal requirements of bio-health ontologies,Jared Leo and Nicolas Matentzoglu and Uli Sattler and Bijan Parsia,2020,1,Semantic Web
+10.3233/sw-180319,Generating public transport data based on population distributions for RDF benchmarking,Ruben Taelman and Pieter Colpaert and Erik Mannens and Ruben Verborgh,2019,1,Semantic Web
+10.3233/sw-210448,An assertion and alignment correction framework for large scale knowledge bases,Jiaoyan Chen and Ernesto Jiménez-Ruiz and Ian Horrocks and Xi Chen and Erik Bryhn Myklebust,2022,0,Semantic Web
+10.3233/sw-150209,On the efficient execution of bounded Jaro-Winkler distances,Kevin Dreßler and Axel-Cyrille Ngonga Ngomo,2016,15,Semantic Web
+10.3233/sw-200384,RDF graph validation using rule-based reasoning,Ben De Meester and Pieter Heyvaert and Dörthe Arndt and Anastasia Dimou and Ruben Verborgh,2020,7,Semantic Web
+10.3233/sw-130110,Making sense of social media streams through semantics: A survey,Kalina Bontcheva and Dominic Rout,2014,53,Semantic Web
+10.3233/sw-190387,The Semantic Web: Two decades on,Aidan Hogan,2020,7,Semantic Web
+10.3233/sw-200376,ExtruOnt: An ontology for describing a type of manufacturing machine for Industry 4.0 systems,Víctor Julio Ramírez-Durán and Idoia Berges and Arantza Illarramendi,2020,12,Semantic Web
+10.3233/sw-2011-0034,Comparison of reasoners for large ontologies in the OWL 2 EL profile,Kathrin Dentler and Ronald Cornet and Annette ten Teije and Nicolette de Keizer,2011,102,Semantic Web
+10.3233/sw-130106,The AGROVOC Linked Dataset,Caterina Caracciolo and Armando Stellato and Ahsan Morshed and Gudrun Johannsen and Sachit Rajbhandari and Yves Jaques and Johannes Keizer,2013,106,Semantic Web
+10.3233/sw-150197,The YASGUI family of SPARQL clients1,Laurens Rietveld and Rinke Hoekstra,2016,30,Semantic Web
+10.3233/sw-2010-0014,Preventing ontology interoperability problems instead of solving them,Eero Hyvönen,2010,12,Semantic Web
+10.3233/sw-190374,On the role of knowledge graphs in explainable AI,Freddy Lecue,2020,52,Semantic Web
+10.3233/sw-160230,The Publishing Workflow Ontology (PWO),Aldo Gangemi and Silvio Peroni and David Shotton and Fabio Vitali,2017,11,Semantic Web
+10.3233/sw-170277,Wikidata through the eyes of DBpedia,Ali Ismayilov and Dimitris Kontokostas and Sören Auer and Jens Lehmann and Sebastian Hellmann,2018,18,Semantic Web
+10.3233/sw-150205,Quality-based model for effective and robust multi-user pay-as-you-go ontology matching1,Isabel F. Cruz and Matteo Palmonari and Francesco Loprete and Cosmin Stroe and Aynaz Taheri,2016,4,Semantic Web
+10.3233/sw-2010-0005,Five challenges for the Semantic Sensor Web,Oscar Corcho and Raúl García-Castro,2010,49,Semantic Web
+10.3233/sw-130108,Social influence analysis in microblogging platforms – A topic-sensitive based approach,Amparo E. Cano and Suvodeep Mazumdar and Fabio Ciravegna,2014,11,Semantic Web
+10.3233/sw-2012-0077,"Geospatial semantics and linked spatiotemporal data – Past, present, and future",Krzysztof Janowicz and Simon Scheider and Todd Pehle and Glen Hart,2012,79,Semantic Web
+10.3233/sw-2012-0085,Order matters! Harnessing a world of orderings for reasoning over massive data,Emanuele Della Valle and Stefan Schlobach and Markus Krötzsch and Alessandro Bozzon and Stefano Ceri and Ian Horrocks,2013,21,Semantic Web
+10.3233/sw-140140,Defeasibility in answer set programs with defaults and argumentation rules,Hui Wan and Michael Kifer and Benjamin Grosof,2015,3,Semantic Web
+10.3233/sw-2011-0027,OWLlink,Thorsten Liebig and Marko Luther and Olaf Noppens and Michael Wessel,2011,15,Semantic Web
+10.3233/sw-190377,Creative AI: A new avenue for the Semantic Web?,Agnieszka Ławrynowicz,2020,4,Semantic Web
+10.3233/sw-150188,Semantic Abstraction for generalization of tweet classification: An evaluation of incident-related tweets,Axel Schulz and Christian Guckelsberger and Frederik Janssen,2016,15,Semantic Web
+10.3233/sw-2011-0036,S-Match: An open source framework for matching lightweight ontologies,Fausto Giunchiglia and Aliaksandr Autayeu and Juan Pane,2012,38,Semantic Web
+10.3233/sw-150175,Quality assessment for Linked Data: A Survey,Amrapali Zaveri and Anisa Rula and Andrea Maurino and Ricardo Pietrobon and Jens Lehmann and Sören Auer,2015,317,Semantic Web
+10.3233/sw-150186,A fine-grained evaluation of SPARQL endpoint federation systems,Muhammad Saleem and Yasar Khan and Ali Hasnain and Ivan Ermilov and Axel-Cyrille Ngonga Ngomo,2016,41,Semantic Web
+10.3233/sw-2012-0073,A review of argumentation for the Social Semantic Web,Jodi Schneider and Tudor Groza and Alexandre Passant,2013,48,Semantic Web
+10.3233/sw-140158,Semantic technologies for historical research: A survey,Albert Meroño-Peñuela and Ashkan Ashkpour and Marieke van Erp and Kees Mandemakers and Leen Breure and Andrea Scharnhorst and Stefan Schlobach and Frank van Harmelen,2014,48,Semantic Web
+10.3233/sw-190355,EventKG – the hub of event knowledge on the web – and biographical timeline generation,Simon Gottschalk and Elena Demidova,2019,37,Semantic Web
+10.3233/sw-223269,Empowering machine learning models with contextual knowledge for enhancing the detection of eating disorders in social media posts,José Alberto Benítez-Andrades and María Teresa García-Ordás and Mayra Russo and Ahmad Sakor and Luis Daniel Fernandes Rotger and Maria-Esther Vidal,2023,0,Semantic Web
+10.3233/sw-190384,Towards a new generation of ontology based data access,Oscar Corcho and Freddy Priyatna and David Chaves-Fraga,2020,14,Semantic Web
+10.3233/sw-180300,A machine learning approach for product matching and categorization,Petar Ristoski and Petar Petrovski and Peter Mika and Heiko Paulheim,2018,16,Semantic Web
+10.3233/sw-210436,Sequential linked data: The state of affairs,Enrico Daga and Albert Meroño-Peñuela and Enrico Motta,2021,0,Semantic Web
+10.3233/sw-200378,Ontologies for observations and actuations in buildings: A survey,Iker Esnaola-Gonzalez and Jesús Bermúdez and Izaskun Fernandez and Aitor Arnaiz,2020,5,Semantic Web
+10.3233/sw-130133,eagle-i: Biomedical research resource datasets,Carlo Torniai and Daniela Bourges-Waldegg and Scott Hoffmann,2015,5,Semantic Web
+10.3233/sw-130125,Natural Language Generation in the context of the Semantic Web,Nadjet Bouayad-Agha and Gerard Casamayor and Leo Wanner,2014,19,Semantic Web
+10.3233/sw-130113,Linked Brazilian Amazon Rainforest Data,Tomi Kauppinen and Giovana Mira de Espindola and Jim Jones and Alber Sánchez and Benedikt Gräler and Thomas Bartoschek,2014,16,Semantic Web
+10.3233/sw-2012-0081,TheSoz: A SKOS representation of the thesaurus for the social sciences,Benjamin Zapilko and Johann Schaible and Philipp Mayr and Brigitte Mathiak,2013,22,Semantic Web
+10.3233/sw-223088,Security approaches for electronic health data handling through the Semantic Web: A scoping review,Vinícius Costa Lima and Domingos Alves and Filipe Andrade Bernardi and Rui Pedro Charters Lopes Rijo,2022,0,Semantic Web
+10.3233/sw-190369,FarsBase: The Persian knowledge graph,Majid Asgari-Bidhendi and Ali Hadian and Behrouz Minaei-Bidgoli,2019,4,Semantic Web
+10.3233/sw-140149,Converting neXtProt into Linked Data and nanopublications,Christine Chichester and Oliver Karch and Pascale Gaudet and Lydie Lane and Barend Mons and Amos Bairoch,2015,12,Semantic Web
+10.3233/sw-160233,CEDAR: The Dutch historical censuses as Linked Open Data,Albert Meroño-Peñuela and Ashkan Ashkpour and Christophe Guéret and Stefan Schlobach,2016,9,Semantic Web
+10.3233/sw-2012-0050,Semantic Web and reasoning for cultural heritage and digital libraries,Dimitrios A. Koutsomitropoulos and Eero Hyvönen and Theodore S. Papatheodorou,2012,3,Semantic Web
+10.3233/sw-2012-0044,FRBR-ML: A FRBR-based framework for semantic interoperability,Naimdjon Takhirov and Trond Aalberg and Fabien Duchateau and Maja Žumer,2012,5,Semantic Web
+10.3233/sw-223099,Editorial of the Special Issue on Deep Learning and Knowledge Graphs,Mehwish Alam and Davide Buscaldi and Michael Cochez and Francesco Osborne and Diego Reforgiato Recupero and Harald Sack,2022,0,Semantic Web
+10.3233/sw-170279,FrameBase: Enabling integration of heterogeneous knowledge,Jacobo Rouces and Gerard de Melo and Katja Hose,2017,4,Semantic Web
+10.3233/sw-200373,Large-scale semantic exploration of scientific literature using topic-based hashing algorithms,Carlos Badenes-Olmedo and José Luis Redondo-García and Oscar Corcho,2020,3,Semantic Web
+10.3233/sw-190383,Closing the Loop between knowledge patterns in cognition and the Semantic Web,Aldo Gangemi,2020,4,Semantic Web
+10.3233/sw-130103,Inductive Reasoning and Machine Learning for the Semantic Web,Claudia d'Amato and Nicola Fanizzi and Marko Grobelnik and Agnieszka Lawrynowicz and Vojtech Svatek,2014,2,Semantic Web
+10.3233/sw-2010-0013,Digital heritage: Semantic challenges of long-term preservation,Christoph Schlieder,2010,4,Semantic Web
+10.3233/sw-170266,Reasoning with data flows and policy propagation rules,Enrico Daga and Aldo Gangemi and Enrico Motta,2018,3,Semantic Web
+10.3233/sw-170256,Meta-data for a lot of LOD,Laurens Rietveld and Wouter Beek and Rinke Hoekstra and Stefan Schlobach,2017,8,Semantic Web
+10.3233/sw-150191,ClioPatria: A SWI-Prolog infrastructure for the Semantic Web,Jan Wielemaker and Wouter Beek and Michiel Hildebrand and Jacco van Ossenbruggen,2016,16,Semantic Web
+10.3233/sw-130098,"CiTO + SWAN: The web semantics of bibliographic records, citations, evidence and discourse relationships",Paolo Ciccarese and David Shotton and Silvio Peroni and Tim Clark,2014,3,Semantic Web
+10.3233/sw-140161,Semantic Web journal Volume 5 Issue 6,Krzysztof Janowicz and Pascal Hitzler,2014,0,Semantic Web
+10.3233/sw-2011-0047,Semantic Web surveys and applications,Pascal Hitzler and Krzysztof Janowicz,2011,0,Semantic Web
+10.3233/sw-222973,Deep understanding of everyday activity commands for household robots,Sebastian Höffner and Robert Porzel and Maria M. Hedblom and Mihai Pomarlan and Vanja Sophie Cangalovic and Johannes Pfau and John A. Bateman and Rainer Malaka,2022,0,Semantic Web
+10.3233/sw-140141,The Semantics of Microposts,Aba-Sah Dadzie and Matthew Rowe and Milan Stankovic,2014,0,Semantic Web
+10.3233/sw-160241,The ACORN-SAT linked climate dataset,Laurent Lefort and Armin Haller and Kerry Taylor and Geoffrey Squire and Peter Taylor and Dale Percival and Andrew Woolf,2017,3,Semantic Web
+10.3233/sw-180325,Boosting Document Retrieval with Knowledge Extraction and Linked Data,Marco Rospocher and Francesco Corcoglioniti and Mauro Dragoni,2019,6,Semantic Web
+10.3233/sw-190365,Querying knowledge graphs with extended property paths,Valeria Fionda and Giuseppe Pirrò and Mariano P. Consens,2019,3,Semantic Web
+10.3233/sw-180323,Topic profiling benchmarks in the linked open data cloud: Issues and lessons learned,Blerina Spahiu and Andrea Maurino and Robert Meusel,2019,5,Semantic Web
+10.3233/sw-200420,An empirical evaluation of cost-based federated SPARQL query processing engines,Umair Qudus and Muhammad Saleem and Axel-Cyrille Ngonga Ngomo and Young-Koo Lee,2021,4,Semantic Web
+10.3233/sw-170269,N-ary relation extraction for simultaneous T-Box and A-Box knowledge base augmentation,Marco Fossati and Emilio Dorigatti and Claudio Giuliano,2018,7,Semantic Web
+10.3233/sw-190364,Special issue on Semantic Deep Learning,Dagmar Gromann and Luis Espinosa Anke and Thierry Declerck,2019,2,Semantic Web
+10.3233/sw-130126,A closer look at the semantic relationship between Datalog and description logics,Markus Krötzsch and Sebastian Rudolph and Peter H. Schmitt,2015,3,Semantic Web
+10.3233/sw-223212,Evaluating the usability of a semantic environmental health data framework: Approach and study,Albert Navarro-Gallinad and Fabrizio Orlandi and Jennifer Scott and Mark Little and Declan O’Sullivan,2022,0,Semantic Web
+10.3233/sw-223228,Is neuro-symbolic AI meeting its promises in natural language processing? A structured review,Kyle Hamilton and Aparna Nayak and Bojan Božić and Luca Longo,2022,0,Semantic Web
+10.3233/sw-160219,An infrastructure for probabilistic reasoning with web ontologies,Jakob Huber and Mathias Niepert and Jan Noessner and Joerg Schoenfisch and Christian Meilicke and Heiner Stuckenschmidt,2016,1,Semantic Web
+10.3233/sw-140162,Affective graphs: The visual appeal of Linked Data,Suvodeep Mazumdar and Daniela Petrelli and Khadija Elbedweihy and Vitaveska Lanfranchi and Fabio Ciravegna,2015,15,Semantic Web
+10.3233/sw-210453,Diverse data! Diverse schemata?,Krzysztof Janowicz and Cogan Shimizu and Pascal Hitzler and Gengchen Mai and Shirly Stephen and Rui Zhu and Ling Cai and Lu Zhou and Mark Schildhauer and Zilong Liu and Zhangyu Wang and Meilin Shi,2021,1,Semantic Web
+10.3233/sw-223117,Move cultural heritage knowledge graphs in everyone’s pocket,Maria Angela Pellegrino and Vittorio Scarano and Carmine Spagnuolo,2022,0,Semantic Web
+10.3233/sw-170281,A foundation for spatial data warehouses on the Semantic Web,Nurefşan Gür and Torben Bach Pedersen and Esteban Zimányi and Katja Hose,2018,8,Semantic Web
+10.3233/sw-222887,Analyzing biography collections historiographically as Linked Data: Case National Biography of Finland,Minna Tamper and Petri Leskinen and Eero Hyvönen and Risto Valjus and Kirsi Keravuori,2022,1,Semantic Web
+10.3233/sw-150204,Ripple Down Rules for question answering,Dat Quoc Nguyen and Dai Quoc Nguyen and Son Bao Pham,2017,9,Semantic Web
+10.3233/sw-223254,Creating occupant-centered digital twins using the Occupant Feedback Ontology implemented in a smartwatch app,Alex Donkers and Bauke de Vries and Dujuan Yang,2022,0,Semantic Web
+10.3233/sw-223261,Editorial of knowledge graphs validation and quality,Jose Emilio Labra Gayo and Anastasia Dimou and Katherine Thornton and Anisa Rula,2022,0,Semantic Web
+10.3233/sw-223063,Learning SHACL shapes from knowledge graphs,Pouya Ghiasnezhad Omran and Kerry Taylor and Sergio Rodríguez Méndez and Armin Haller,2022,0,Semantic Web
+10.3233/sw-2010-0001,The role of space and time for knowledge organization on the Semantic Web,Krzysztof Janowicz,2010,25,Semantic Web
+10.3233/sw-140153,"Sound, complete and minimal UCQ-rewriting for existential rules",Mélanie König and Michel Leclère and Marie-Laure Mugnier and Michaël Thomazo,2015,18,Semantic Web
+10.3233/sw-180339,Combining RDF and SPARQL with CP-theories to reason about preferences in a Linked Data setting,Vito Walter Anelli and Renato De Leone and Tommaso Di Noia and Thomas Lukasiewicz and Jessica Rosati,2020,3,Semantic Web
+10.3233/sw-222993,Tab2KG: Semantic table interpretation with lightweight semantic profiles,Simon Gottschalk and Elena Demidova,2022,1,Semantic Web
+10.3233/sw-2011-0040,FactForge: A fast track to the Web of data,Barry Bishop and Atanas Kiryakov and Damyan Ognyanov and Ivan Peikov and Zdravko Tashev and Ruslan Velkov,2011,26,Semantic Web
+10.3233/sw-180315,Benchmarking semantic reasoning on mobile platforms: Towards optimization using OWL2 RL,William Van Woensel and Syed Sibte Raza Abidi,2019,4,Semantic Web
+10.3233/sw-200412,MMoOn Core – the Multilingual Morpheme Ontology,Bettina Klimek and Markus Ackermann and Martin Brümmer and Sebastian Hellmann,2021,1,Semantic Web
+10.3233/sw-160226,A hierarchical aggregation framework for efficient multilevel visual exploration and analysis,Nikos Bikakis and George Papastefanatos and Melina Skourla and Timos Sellis,2016,24,Semantic Web
+10.3233/sw-200400,Applying and developing semantic web technologies for exploiting a corpus in history of science: The case study of the Henri Poincaré correspondence,Olivier Bruneau and Nicolas Lasolle and Jean Lieber and Emmanuel Nauer and Siyana Pavlova and Laurent Rollet,2021,4,Semantic Web
+10.3233/sw-180306,Evaluating the quality of the LOD cloud: An empirical investigation,Jeremy Debattista and Christoph Lange and Sören Auer and Dominic Cortis,2018,31,Semantic Web
+10.3233/sw-200403,EUCISE-OWL: An ontology-based representation of the Common Information Sharing Environment (CISE) for the maritime domain,Marina Riga and Efstratios Kontopoulos and Konstantinos Ioannidis and Spyridon Kintzios and Stefanos Vrochidis and Ioannis Kompatsiaris,2021,4,Semantic Web
+10.3233/sw-2012-0076,"Complexity of redundancy detection on RDF graphs in the presence of rules, constraints, and queries",Reinhard Pichler and Axel Polleres and Sebastian Skritek and Stefan Woltran,2013,5,Semantic Web
+10.3233/sw-210439,Creating RESTful APIs over SPARQL endpoints using RAMOSE,Marilena Daquino and Ivan Heibi and Silvio Peroni and David Shotton,2022,3,Semantic Web
+10.3233/sw-150171,Lexvo.org: Language-related information for the Linguistic Linked Data cloud,Gerard de Melo,2015,17,Semantic Web
+10.3233/sw-233224,Helio: A framework for implementing the life cycle of knowledge graphs,Andrea Cimmino and Raúl García-Castro,2023,0,Semantic Web
+10.3233/sw-130121,The Collections Ontology: Creating and handling collections in OWL 2 DL frameworks,Paolo Ciccarese and Silvio Peroni,2014,15,Semantic Web
+10.3233/sw-190352,Semantic modeling for engineering data analytics solutions,Madhushi Bandara and Fethi A. Rabhi,2020,10,Semantic Web
+10.3233/sw-190386,Using the Semantic Web in digital humanities: Shift from data publishing to data-analysis and serendipitous knowledge discovery,Eero Hyvönen,2020,24,Semantic Web
+10.3233/sw-200392,WarSampo knowledge graph: Finland in the Second World War as Linked Open Data,Mikko Koho and Esko Ikkala and Petri Leskinen and Minna Tamper and Jouni Tuominen and Eero Hyvönen,2021,17,Semantic Web
+10.3233/sw-200385,BOT: The building topology ontology of the W3C linked building data group,Mads Holten Rasmussen and Maxime Lefrançois and Georg Ferdinand Schneider and Pieter Pauwels,2020,40,Semantic Web
+10.3233/sw-212959,A survey on visual transfer learning using knowledge graphs,Sebastian Monka and Lavdim Halilaj and Achim Rettinger,2022,4,Semantic Web
+10.3233/sw-170265,Sentiment lexicon adaptation with context and semantics for the social web,Hassan Saif and Miriam Fernandez and Leon Kastler and Harith Alani,2017,14,Semantic Web
+10.3233/sw-150182,The Open University Linked Data – data.open.ac.uk,Enrico Daga and Mathieu d’Aquin and Alessandro Adamou and Stuart Brown,2016,12,Semantic Web
+10.3233/sw-223085,Background knowledge in ontology matching: A survey,Jan Portisch and Michael Hladik and Heiko Paulheim,2022,3,Semantic Web
+10.3233/sw-170254,SPARQLES: Monitoring public SPARQL endpoints,Pierre-Yves Vandenbussche and Jürgen Umbrich and Luca Matteis and Aidan Hogan and Carlos Buil-Aranda,2017,36,Semantic Web
+10.3233/sw-2012-0066,Paraconsistent OWL and related logics,Frederick Maier and Yue Ma and Pascal Hitzler,2013,11,Semantic Web
+10.3233/sw-222960,MADLINK: Attentive multihop and entity descriptions for link prediction in knowledge graphs,Russa Biswas and Harald Sack and Mehwish Alam,2022,2,Semantic Web
+10.3233/sw-190371,Leveraging Knowledge Graphs for Big Data Integration: the XI Pipeline,Philippe Cudré-Mauroux,2020,13,Semantic Web
+10.3233/sw-200404,A survey on knowledge graph embeddings with literals: Which model links better literal-ly?,Genet Asefa Gesese and Russa Biswas and Mehwish Alam and Harald Sack,2021,12,Semantic Web
+10.3233/sw-180316,Survey of tools for Linked Data consumption,Jakub Klímek and Petr Škoda and Martin Nečaský,2019,12,Semantic Web
+10.3233/sw-160235,SeMFIS: A flexible engineering platform for semantic annotations of conceptual models,Hans-Georg Fill,2017,16,Semantic Web
+10.3233/sw-180338,Hate speech detection: A solved problem? The challenging case of long tail on Twitter,Ziqi Zhang and Lei Luo,2019,65,Semantic Web
+10.3233/sw-150207,A five-star rating scheme to assess application seamlessness,Timothy Lebo and Nicholas Del Rio and Patrick Fisher and Chad Salisbury,2016,4,Semantic Web
+10.3233/sw-2012-0049,How to deal with massively heterogeneous cultural heritage data – lessons learned in CultureSampo,Eetu Mäkelä and Eero Hyvönen and Tuukka Ruotsalo,2012,30,Semantic Web
+10.3233/sw-130130,The Humanitarian eXchange Language: Coordinating disaster response with semantic web technologies,Carsten Keßler and Chad Hendrix,2015,9,Semantic Web
+10.3233/sw-180298,Ontology for a Panoptes building: Exploiting contextual information and a smart camera network,Roberto Marroquin and Julien Dubois and Christophe Nicolle,2018,8,Semantic Web
+10.3233/sw-160243,A session-based ontology alignment approach enabling user involvement1,Patrick Lambrix and Rajaram Kaliyaperumal,2016,7,Semantic Web
+10.3233/sw-180297,BimSPARQL: Domain-specific functional SPARQL extensions for querying RDF building data,Chi Zhang and Jakob Beetz and Bauke de Vries,2018,35,Semantic Web
+10.3233/sw-150195,"PPROC, an ontology for transparency in public procurement",José Félix Muñoz-Soro and Guillermo Esteban and Oscar Corcho and Francisco Serón,2016,25,Semantic Web
+10.3233/sw-140137,Semantic Quran,Mohamed Ahmed Sherif and Axel-Cyrille Ngonga Ngomo,2015,28,Semantic Web
+10.3233/sw-210430,Pioneering easy-to-use forestry data with Forest Explorer,Guillermo Vega-Gorgojo and José M. Giménez-García and Cristóbal Ordóñez and Felipe Bravo,2022,5,Semantic Web
+10.3233/sw-210446,MIDI2vec: Learning MIDI embeddings for reliable prediction of symbolic music metadata,Pasquale Lisena and Albert Meroño-Peñuela and Raphaël Troncy,2022,1,Semantic Web
+10.3233/sw-210452,Discovering alignment relations with Graph Convolutional Networks: A biomedical case study,Pierre Monnin and Chedy Raïssi and Amedeo Napoli and Adrien Coulet,2022,1,Semantic Web
+10.3233/sw-2011-0035,Semantic Web tools and systems,Pascal Hitzler and Krzysztof Janowicz,2011,3,Semantic Web
+10.3233/sw-222974,"Blue Brain Nexus: An open, secure, scalable system for knowledge graph management and data-driven science",Mohameth François Sy and Bogdan Roman and Samuel Kerrien and Didac Montero Mendez and Henry Genet and Wojciech Wajerowicz and Michaël Dupont and Ian Lavriushev and Julien Machon and Kenneth Pirman and Dhanesh Neela Mana and Natalia Stafeeva and Anna-Kristin Kaufmann and Huanxiang Lu and Jonathan Lurie and Pierre-Alexandre Fonta and Alejandra Garcia Rojas Martinez and Alexander D. Ulbrich and Carolina Lindqvist and Silvia Jimenez and David Rotenberg and Henry Markram and Sean L. Hill,2022,1,Semantic Web
+10.3233/sw-150173,Scalable long-term preservation of relational data through SPARQL queries,Silvia Stefanova and Tore Risch,2016,1,Semantic Web
+10.3233/sw-170286,GERBIL – Benchmarking Named Entity Recognition and Linking consistently,Michael Röder and Ricardo Usbeck and Axel-Cyrille Ngonga Ngomo,2018,24,Semantic Web
+10.3233/sw-150194,A content-focused method for re-engineering thesauri into semantically adequate ontologies using OWL,Daniel Kless and Ludger Jansen and Simon Milton,2016,3,Semantic Web
+10.3233/sw-140166,SISSVoc: A Linked Data API for access to SKOS vocabularies,Simon J.D. Cox and Jonathan Yu and Terry Rankine,2014,11,Semantic Web
+10.3233/sw-180330,Enhancing the scalability of expressive stream reasoning via input-driven parallelization,Thu-Le Pham and Muhammad Intizar Ali and Alessandra Mileo,2019,3,Semantic Web
+10.3233/sw-170262,ServLog: A unifying logical framework for service modeling and contracting,Dumitru Roman and Michael Kifer,2018,0,Semantic Web
+10.3233/sw-130124,Preface,Diego Calvanese and Thomas Lukasiewicz,2013,0,Semantic Web
+10.3233/sw-2010-0024,Towards the ubiquitous Web,Andreas Hotho and Gerd Stumme,2010,4,Semantic Web
+10.3233/sw-130107,Reality mining on micropost streams,Marco Balduini and Irene Celino and Daniele Dell'Aglio and Emanuele Della Valle and Yi Huang and Tony Lee and Seon-Ho Kim and Volker Tresp,2014,4,Semantic Web
+10.3233/sw-212955,Taxonomy enrichment with text and graph vector representations,Irina Nikishina and Mikhail Tikhomirov and Varvara Logacheva and Yuriy Nazarov and Alexander Panchenko and Natalia Loukachevitch,2022,2,Semantic Web
+10.3233/sw-150174,Special Issue on Semantic Web Interfaces,Roberto García and Heiko Paulheim and Paola Di Maio,2015,1,Semantic Web
+10.3233/sw-130104,Linked European television heritage,Nikolaos Simou and Jean-Pierre Evain and Nasos Drosopoulos and Vasillis Tzouvaras,2013,3,Semantic Web
+10.3233/sw-150196,Editorial,Krzysztof Janowicz and Pascal Hitzler,2015,1,Semantic Web
+10.3233/sw-2012-0046,Supporting multilingual bibliographic resource discovery with Functional Requirements for Bibliographic Records,Hugo Manguinhas and Nuno Freire and Jorge Machado and José Borbinha,2012,1,Semantic Web
+10.3233/sw-190354,The 2nd U.S. Semantic Technologies Symposium (US2TS 2019),Anna Lisa Gentile and Tania Tudorache,2019,0,Semantic Web
+10.3233/sw-200372,SQuAP-Ont: An ontology of software quality relational factors from financial systems,Paolo Ciancarini and Andrea Giovanni Nuzzolese and Valentina Presutti and Daniel Russo,2020,1,Semantic Web
+10.3233/sw-2011-0043,Context-driven RDF data replication on mobile devices,Stefan Zander and Bernhard Schandl,2012,4,Semantic Web
+10.3233/sw-180301,STEM: Stacked threshold-based entity matching for knowledge base generation,Enrico Palumbo and Giuseppe Rizzo and Raphaël Troncy,2018,1,Semantic Web
+10.3233/sw-2012-0068,Special issue on real-time and ubiquitous social semantics,Alexandre Passant and Fabien Gandon and Harith Alani,2012,0,Semantic Web
+10.3233/sw-223096,Food process ontology requirements,Damion Dooley and Magalie Weber and Liliana Ibanescu and Matthew Lange and Lauren Chan and Larisa Soldatova and Chen Yang and Robert Warren and Cogan Shimizu and Hande K. McGinty and William Hsiao,2022,0,Semantic Web
+10.3233/sw-2012-0079,Linked Nomenclature of Territorial Units for Statistics,Gianluca Correndo and Nigel Shadbolt,2013,4,Semantic Web
+10.3233/sw-180303,SmartEnv as a network of ontology patterns,Marjan Alirezaie and Karl Hammar and Eva Blomqvist,2018,8,Semantic Web
+10.3233/sw-2011-0032,The RacerPro knowledge representation and reasoning system,Volker Haarslev and Kay Hidde and Ralf Möller and Michael Wessel,2012,74,Semantic Web
+10.3233/sw-200415,Empirical methodology for crowdsourcing ground truth,Anca Dumitrache and Oana Inel and Benjamin Timmermans and Carlos Ortiz and Robert-Jan Sips and Lora Aroyo and Chris Welty,2021,1,Semantic Web
+10.3233/sw-170255,Special issue on question answering for Linked Data,Axel-Cyrille Ngonga Ngomo and Christina Unger,2017,1,Semantic Web
+10.3233/sw-2012-0071,Using syntactic and semantic analyses to improve the quality of requirements documentation,Kunal Verma and Alex Kass and Reymonrod Vasquez,2014,1,Semantic Web
+10.3233/sw-170278,A Linked Data wrapper for CrunchBase,Michael Färber and Carsten Menne and Andreas Harth,2018,5,Semantic Web
+10.3233/sw-160232,Editorial,Pascal Hitzler and Krzysztof Janowicz,2016,0,Semantic Web
+10.3233/sw-180291,UnifiedViews: An ETL tool for RDF data management,Tomáš Knap and Peter Hanečák and Jakub Klímek and Christian Mader and Martin Nečaský and Bert Van Nuffelen and Petr Škoda,2018,10,Semantic Web
+10.3233/sw-2012-0086,BioPortal as a dataset of linked biomedical ontologies and terminologies in RDF,Manuel Salvadores and Paul R. Alexander and Mark A. Musen and Natalya F. Noy,2013,68,Semantic Web
+10.3233/sw-160229,Selected papers from the combined EKAW 2014 and Semantic Web journal track,Stefan Schlobach and Krzysztof Janowicz,2016,0,Semantic Web
+10.3233/sw-200411,Selected papers from EKAW 2018,Catherine Faron and Chiara Ghidini,2020,0,Semantic Web
+10.3233/sw-210451,Applying the LOT Methodology to a Public Bus Transport Ontology aligned with Transmodel: Challenges and Results,Edna Ruckhaus and Adolfo Anton-Bravo and Mario Scrocca and Oscar Corcho,2021,2,Semantic Web
+10.3233/sw-223177,Generation of training data for named entity recognition of artworks,Nitisha Jain and Alejandro Sierra-Múnera and Jan Ehmueller and Ralf Krestel,2022,0,Semantic Web
+10.3233/sw-223016,Transdisciplinary approach to archaeological investigations in a Semantic Web perspective,Vincenzo Lombardo and Tugce Karatas and Monica Gulmini and Laura Guidorzi and Debora Angelici,2022,0,Semantic Web
+10.3233/sw-212907,Casual Learn: A linked data-based mobile application for learning about local Cultural Heritage,Adolfo Ruiz-Calleja and Pablo García-Zarza and Guillermo Vega-Gorgojo and Miguel L. Bote-Lorenzo and Eduardo Gómez-Sánchez and Juan I. Asensio-Pérez and Sergio Serrano-Iglesias and Alejandra Martínez-Monés,2022,3,Semantic Web
+10.3233/sw-170276,Lessons learnt from the Named Entity rEcognition and Linking (NEEL) challenge series,Giuseppe Rizzo and Bianca Pereira and Andrea Varga and Marieke van Erp and Amparo Elizabeth Cano Basave,2017,10,Semantic Web
+10.3233/sw-150179,OntoPedigree: Modelling pedigrees for traceability in supply chains,Monika Solanki and Christopher Brewster,2016,9,Semantic Web
+10.3233/sw-2010-0010,A reasonable Semantic Web,Pascal Hitzler and Frank van Harmelen,2010,37,Semantic Web
+10.3233/sw-200377,EDR: A generic approach for the distribution of rule-based reasoning in a Cloud–Fog continuum,Nicolas Seydoux and Khalil Drira and Nathalie Hernandez and Thierry Monteil,2020,2,Semantic Web
+10.3233/sw-150202,Considerations regarding Ontology Design Patterns,Eva Blomqvist and Pascal Hitzler and Krzysztof Janowicz and Adila Krisnadhi and Tom Narock and Monika Solanki,2015,20,Semantic Web
+10.3233/sw-140152,Collaborative multilingual knowledge management based on controlled natural language,Kaarel Kaljurand and Tobias Kuhn and Laura Canedo,2015,3,Semantic Web
+10.3233/sw-190373,"Neural language models for the multilingual, transcultural, and multimodal Semantic Web",Dagmar Gromann,2020,3,Semantic Web
+10.3233/sw-2010-0019,Creating knowledge out of interlinked data,Sören Auer and Jens Lehmann,2010,25,Semantic Web
+10.3233/sw-120089,Transforming meteorological data into Linked Data,Ghislain Atemezing and Oscar Corcho and Daniel Garijo and José Mora and María Poveda-Villalón and Pablo Rozas and Daniel Vila-Suero and Boris Villazón-Terrazas,2013,23,Semantic Web
+10.3233/sw-160234,DM2E: A Linked Data source of Digitised Manuscripts for the Digital Humanities,Konstantin Baierer and Evelyn Dröge and Kai Eckert and Doron Goldfarb and Julia Iwanowa and Christian Morbidoni and Dominique Ritze,2017,8,Semantic Web
+10.3233/sw-212838,Beyond facts – a survey and conceptualisation of claims in online discourse analysis,Katarina Boland and Pavlos Fafalios and Andon Tchechmedjiev and Stefan Dietze and Konstantin Todorov,2022,0,Semantic Web
+10.3233/sw-180336,VIG: Data scaling for OBDA benchmarks,Davide Lanti and Guohui Xiao and Diego Calvanese,2019,9,Semantic Web
+10.3233/sw-222899,Bilingual dictionary generation and enrichment via graph exploration,Shashwat Goel and Jorge Gracia and Mikel L. Forcada,2022,0,Semantic Web
+10.3233/sw-222848,LL(O)D and NLP perspectives on semantic change for humanities research,Florentina Armaselu and Elena-Simona Apostol and Anas Fahad Khan and Chaya Liebeskind and Barbara McGillivray and Ciprian-Octavian Truică and Andrius Utka and Giedrė Valūnaitė Oleškevičienė and Marieke van Erp,2022,1,Semantic Web
+10.3233/sw-222859,When linguistics meets web technologies. Recent advances in modelling linguistic linked data,Anas Fahad Khan and Christian Chiarcos and Thierry Declerck and Daniela Gifu and Elena González-Blanco García and Jorge Gracia and Maxim Ionov and Penny Labropoulou and Francesco Mambrini and John P. McCrae and Émilie Pagé-Perron and Marco Passarotti and Salvador Ros Muñoz and Ciprian-Octavian Truică,2022,0,Semantic Web
+10.3233/sw-130122,EARTh: An Environmental Application Reference Thesaurus in the Linked Open Data cloud,R. Albertoni and M. De Martino and S. Di Franco and V. De Santis and P. Plini,2014,16,Semantic Web
+10.3233/sw-160248,Temporal representation and reasoning in OWL 2,Sotiris Batsakis and Euripides G.M. Petrakis and Ilias Tachmazidis and Grigoris Antoniou,2017,29,Semantic Web
+10.3233/sw-2011-0055,Bringing relational databases into the Semantic Web: A survey,Dimitrios-Emmanuel Spanos and Periklis Stavrou and Nikolas Mitrou,2012,89,Semantic Web
+10.3233/sw-212892,Knowledge graph embedding for data mining vs. knowledge graph embedding for link prediction – two sides of the same coin?,Jan Portisch and Nicolas Heist and Heiko Paulheim,2022,7,Semantic Web
+10.3233/sw-2012-0087,TourMISLOD: A tourism linked data set,Marta Sabou and Irem Arsal and Adrian M.P. Braşoveanu,2013,13,Semantic Web
+10.3233/sw-140151,LOTED2: An ontology of European public procurement notices,Isabella Distinto and Mathieu d’Aquin and Enrico Motta,2016,20,Semantic Web
+10.3233/sw-190356,Learning expressive linkage rules from sparse data,Petar Petrovski and Christian Bizer,2020,3,Semantic Web
+10.3233/sw-222991,A survey on knowledge-aware news recommender systems,Andreea Iana and Mehwish Alam and Heiko Paulheim,2022,2,Semantic Web
+10.3233/sw-180308,SML-Bench – A benchmarking framework for structured machine learning,Patrick Westphal and Lorenz Bühmann and Simon Bin and Hajira Jabeen and Jens Lehmann,2019,5,Semantic Web
+10.3233/sw-200413,RDFRules: Making RDF rule mining easier and even more efficient,Václav Zeman and Tomáš Kliegr and Vojtěch Svátek,2021,1,Semantic Web
+10.3233/sw-130129,Geospatial dataset curation through a location-based game,Irene Celino,2015,5,Semantic Web
+10.3233/sw-210434,Towards fully-fledged archiving for RDF datasets,Olivier Pelgrin and Luis Galárraga and Katja Hose,2021,2,Semantic Web
+10.3233/sw-223034,Digital humanities on the Semantic Web: Sampo model and portal series,Eero Hyvönen,2022,6,Semantic Web
+10.3233/sw-170275,"Linked data quality of DBpedia, Freebase, OpenCyc, Wikidata, and YAGO",Michael Färber and Frederic Bartscherer and Carsten Menne and Achim Rettinger,2017,141,Semantic Web
+10.3233/sw-170257,The Rijksmuseum collection as Linked Data,Chris Dijkshoorn and Lizzy Jongma and Lora Aroyo and Jacco van Ossenbruggen and Guus Schreiber and Wesley ter Weele and Jan Wielemaker,2018,21,Semantic Web
+10.3233/sw-130100,A scalable approach for statistical learning in semantic graphs,Yi Huang and Volker Tresp and Maximilian Nickel and Achim Rettinger and Hans-Peter Kriegel,2014,12,Semantic Web
+10.3233/sw-150206,Flexible query processing for SPARQL,Riccardo Frosini and Andrea Calì and Alexandra Poulovassilis and Peter T. Wood,2017,12,Semantic Web
+10.3233/sw-160221,From hyperlinks to Semantic Web properties using Open Knowledge Extraction,Valentina Presutti and Andrea Giovanni Nuzzolese and Sergio Consoli and Aldo Gangemi and Diego Reforgiato Recupero,2016,12,Semantic Web
+10.3233/sw-140136,Multilingual linked data patterns,Jose Emilio Labra Gayo and Dimitris Kontokostas and Sören Auer,2015,6,Semantic Web
+10.3233/sw-120092,Europeana Linked Open Data – data.europeana.eu,Antoine Isaac and Bernhard Haslhofer,2013,56,Semantic Web
+10.3233/sw-223015,LSQ 2.0: A linked dataset of SPARQL query logs,Claus Stadler and Muhammad Saleem and Qaiser Mehmood and Carlos Buil-Aranda and Michel Dumontier and Aidan Hogan and Axel-Cyrille Ngonga Ngomo,2022,1,Semantic Web
+10.3233/sw-190382,"Ontology engineering: Current state, challenges, and future directions",Tania Tudorache,2020,14,Semantic Web
+10.3233/sw-212951,Analyzing the generalizability of the network-based topic emergence identification method,Sukhwan Jung and Aviv Segev,2022,3,Semantic Web
+10.3233/sw-180293,OptiqueVQS: A visual query system over ontologies for industry,Ahmet Soylu and Evgeny Kharlamov and Dmitriy Zheleznyakov and Ernesto Jimenez-Ruiz and Martin Giese and Martin G. Skjæveland and Dag Hovland and Rudolf Schlatte and Sebastian Brandt and Hallstein Lie and Ian Horrocks,2018,53,Semantic Web
+10.3233/sw-190345,A comparison of object-triple mapping libraries,Martin Ledvinka and Petr Křemen,2020,4,Semantic Web
+10.3233/sw-2011-0033,Semantic Turkey: A browser-integrated environment for knowledge acquisition and management,Maria Teresa Pazienza and Noemi Scarpato and Armando Stellato and Andrea Turbati,2012,14,Semantic Web
+10.3233/sw-170263,DataGraft: One-stop-shop for open data management1,Dumitru Roman and Nikolay Nikolov and Antoine Putlier and Dina Sukhobok and Brian Elvesæter and Arne Berre and Xianglin Ye and Marin Dimitrov and Alex Simov and Momchill Zarev and Rick Moynihan and Bill Roberts and Ivan Berlocher and Seonho Kim and Tony Lee and Amanda Smith and Tom Heath,2018,22,Semantic Web
+10.3233/sw-200416,A challenge for historical research: Making data FAIR using a collaborative ontology management environment (OntoME),Francesco Beretta,2021,4,Semantic Web
+10.3233/sw-180320,"The modular SSN ontology: A joint W3C and OGC standard specifying the semantics of sensors, observations, sampling, and actuation",Armin Haller and Krzysztof Janowicz and Simon J.D. Cox and Maxime Lefrançois and Kerry Taylor and Danh Le Phuoc and Joshua Lieberman and Raúl García-Castro and Rob Atkinson and Claus Stadler,2018,121,Semantic Web
+10.3233/sw-200422,Pattern-based design applied to cultural heritage knowledge graphs,Valentina Anita Carriero and Aldo Gangemi and Maria Letizia Mancinelli and Andrea Giovanni Nuzzolese and Valentina Presutti and Chiara Veninata,2021,8,Semantic Web
+10.3233/sw-2012-0058,Personal learning environments on the Social Semantic Web,Zoran Jeremić and Jelena Jovanović and Dragan Gašević,2013,10,Semantic Web
+10.3233/sw-160213,Linked Open Vocabularies (LOV): A gateway to reusable semantic vocabularies on the Web,Pierre-Yves Vandenbussche and Ghislain A. Atemezing and María Poveda-Villalón and Bernard Vatant,2016,151,Semantic Web
+10.3233/sw-150185,DWRank: Learning concept ranking for ontology search,Anila Sahar Butt and Armin Haller and Lexing Xie,2016,17,Semantic Web
+10.3233/sw-2010-0018,Building an effective Semantic Web for health care and the life sciences,Michel Dumontier,2010,8,Semantic Web
+10.3233/sw-2012-0059,Ontologies and languages for representing mathematical knowledge on the Semantic Web,Christoph Lange,2013,42,Semantic Web
+10.3233/sw-140135,Five stars of Linked Data vocabulary use,Krzysztof Janowicz and Pascal Hitzler and Benjamin Adams and Dave Kolas and Charles Vardeman II,2014,59,Semantic Web
+10.3233/sw-170283,PrivOnto: A semantic framework for the analysis of privacy policies,Alessandro Oltramari and Dhivya Piraviperumal and Florian Schaub and Shomir Wilson and Sushain Cherivirala and Thomas B. Norton and N. Cameron Russell and Peter Story and Joel Reidenberg and Norman Sadeh,2018,36,Semantic Web
+10.3233/sw-200388,Machine Learning for the Semantic Web: Lessons learnt and next research directions,Claudia d’Amato,2020,13,Semantic Web
+10.3233/sw-2011-0029,The MASTRO system for ontology-based data access,Diego Calvanese and Giuseppe De Giacomo and Domenico Lembo and Maurizio Lenzerini and Antonella Poggi and Mariano Rodriguez-Muro and Riccardo Rosati and Marco Ruzzi and Domenico Fabio Savo,2011,133,Semantic Web
+10.3233/sw-200393,Video representation and suspicious event detection using semantic technologies,Ashish Singh Patel and Giovanni Merlino and Dario Bruneo and Antonio Puliafito and O.P. Vyas and Muneendra Ojha,2021,4,Semantic Web
+10.3233/sw-2011-0028,The Alignment API 4.0,Jérôme David and Jérôme Euzenat and François Scharffe and Cássia Trojahn dos Santos,2011,100,Semantic Web
+10.3233/sw-180332,RehabRobo-Query: Answering natural language queries about rehabilitation robotics ontology on the cloud,Zeynep Dogmus and Esra Erdem and Volkan Patoglu,2019,3,Semantic Web
+10.3233/sw-150199,Lessons learned from adapting the Darwin Core vocabulary standard for use in RDF,Steven J. Baskauf and John Wieczorek and John Deck and Campbell O. Webb,2016,3,Semantic Web
+10.3233/sw-210429,High-level ETL for semantic data warehouses,Rudra Pratap Deb Nath and Oscar Romero and Torben Bach Pedersen and Katja Hose,2021,0,Semantic Web
+10.3233/sw-200395,Modeling execution techniques of inscriptions1,Pietro Maria Liuzzo and Silvia Evangelisti,2021,0,Semantic Web
+10.3233/sw-2010-0022,Model-Assisted Software Development: Using a 'semantic bus' to automate steps in the software development process,Kunal Verma and Alex Kass,2010,3,Semantic Web
+10.3233/sw-223251,Editorial of the Special Issue on Latest Advancements in Linguistic Linked Data,Julia Bosque-Gil and Philipp Cimiano and Milan Dojchinovski,2022,0,Semantic Web
+10.3233/sw-222885,TermitUp: Generation and enrichment of linked terminologies,Patricia Martín-Chozas and Karen Vázquez-Flores and Pablo Calleja and Elena Montiel-Ponsoda and Víctor Rodríguez-Doncel,2022,0,Semantic Web
+10.3233/sw-222945,Components.js: Semantic dependency injection,Ruben Taelman and Joachim Van Herwegen and Miel Vander Sande and Ruben Verborgh,2022,0,Semantic Web
+10.3233/sw-150198,Using an ontology for representing the knowledge on literary texts: The Dante Alighieri case study,Valentina Bartalesi and Carlo Meghini,2016,7,Semantic Web
+10.3233/sw-140142,Resource-constrained reasoning using a reasoner composition approach,Wei Tai and John Keeney and Declan O'Sullivan,2015,10,Semantic Web
+10.3233/sw-180299,Social Internet of Things for domotics: A knowledge-based approach over LDP-CoAP,Michele Ruta and Floriano Scioscia and Giuseppe Loseto and Filippo Gramegna and Saverio Ieva and Agnese Pinto and Eugenio Di Sciascio,2018,5,Semantic Web
+10.3233/sw-160225,Visualizing statistical linked knowledge for decision support,Adrian M.P. Braşoveanu and Marta Sabou and Arno Scharl and Alexander Hubmann-Haidvogel and Daniel Fischl,2016,9,Semantic Web
+10.3233/sw-160231,An Ontology Design Pattern and its use case for modeling material transformation,Charles F. Vardeman and Adila A. Krisnadhi and Michelle Cheatham and Krzysztof Janowicz and Holly Ferguson and Pascal Hitzler and Aimee P.C. Buccellato,2017,6,Semantic Web
+10.3233/sw-160250,Distributed query processing in the presence of blank nodes,Audun Stolpe and Jonas Halvorsen,2017,7,Semantic Web
+10.3233/sw-180337,Ontology-mediated query answering over temporal and inconsistent data,Camille Bourgaux and Patrick Koopmann and Anni-Yasmin Turhan,2019,4,Semantic Web
+10.3233/sw-160216,Linked Dataset description papers at the Semantic Web journal: A critical assessment,Aidan Hogan and Pascal Hitzler and Krzysztof Janowicz,2016,11,Semantic Web
+10.3233/sw-212865,Survey on English Entity Linking on Wikidata: Datasets and approaches,Cedric Möller and Jens Lehmann and Ricardo Usbeck,2022,2,Semantic Web
+10.3233/sw-223224,An ontological approach for representing declarative mapping languages,Ana Iglesias-Molina and Andrea Cimmino and Edna Ruckhaus and David Chaves-Fraga and Raúl García-Castro and Oscar Corcho,2022,0,Semantic Web
+10.3233/sw-150176,Signal/Collect12,Philip Stutz and Daniel Strebel and Abraham Bernstein,2016,4,Semantic Web
+10.3233/sw-2012-0051,A systemic approach for effective semantic access to cultural content,Ilianna Kollia and Vassilis Tzouvaras and Nasos Drosopoulos and Giorgos Stamou,2012,14,Semantic Web
+10.3233/sw-2012-0045,Instance-based Semantic Interoperability in the Cultural Heritage,Shenghui Wang and Antoine Isaac and Stefan Schlobach and Lourens van der Meij and Balthasar Schopman,2012,5,Semantic Web
+10.3233/sw-190353,Similarity-based knowledge graph queries for recommendation retrieval,Lisa Wenige and Johannes Ruhland,2019,6,Semantic Web
+10.3233/sw-200386,Gravsearch: Transforming SPARQL to query humanities data,Tobias Schweizer and Benjamin Geer,2021,1,Semantic Web
+10.3233/sw-2012-0074,Amsterdam Museum Linked Open Data,Victor de Boer and Jan Wielemaker and Judith van Gent and Marijke Oosterbroek and Michiel Hildebrand and Antoine Isaac and Jacco van Ossenbruggen and Guus Schreiber,2013,21,Semantic Web
+10.3233/sw-210435,Explainable zero-shot learning via attentive graph convolutional network and knowledge graphs,Yuxia Geng and Jiaoyan Chen and Zhiquan Ye and Zonggang Yuan and Wei Zhang and Huajun Chen,2021,2,Semantic Web
+10.3233/sw-2012-0062,Publishing bibliographic data on the Semantic Web using BibBase,Reynold S. Xin and Oktie Hassanzadeh and Christian Fritz and Shirin Sohrabi and Renée J. Miller,2013,5,Semantic Web
+10.3233/sw-170285,A systematic survey of point set distance measures for link discovery,Mohamed Ahmed Sherif and Axel-Cyrille Ngonga Ngomo,2018,5,Semantic Web
+10.3233/sw-160222,Aemoo: Linked Data exploration based on Knowledge Patterns,Andrea Giovanni Nuzzolese and Valentina Presutti and Aldo Gangemi and Silvio Peroni and Paolo Ciancarini,2016,18,Semantic Web
+10.3233/sw-170268,RODI: Benchmarking relational-to-ontology mapping generation quality,Christoph Pinkel and Carsten Binnig and Ernesto Jiménez-Ruiz and Evgeny Kharlamov and Wolfgang May and Andriy Nikolov and Ana Sasa Bastinos and Martin G. Skjæveland and Alessandro Solimando and Mohsen Taheriyan and Christian Heupel and Ian Horrocks,2017,29,Semantic Web
+10.3233/sw-180329,XMLSchema2ShEx: Converting XML validation to RDF validation,Herminio Garcia-Gonzalez and Jose Emilio Labra-Gayo,2020,5,Semantic Web
+10.3233/sw-180307,Evaluation of metadata representations in RDF stores,Johannes Frey and Kay Müller and Sebastian Hellmann and Erhard Rahm and Maria-Esther Vidal,2019,17,Semantic Web
+10.3233/sw-180328,QA 3 : A natural language approach to question answering over RDF data cubes,Maurizio Atzori and Giuseppe M. Mazzeo and Carlo Zaniolo,2019,7,Semantic Web
+10.3233/sw-2012-0061,Injecting Semantic Annotations into (Geospatial) Web service descriptions,Patrick Maué and Henry Michels and Marcell Roth,2012,4,Semantic Web
+10.3233/sw-150184,EventMedia: A LOD dataset of events illustrated with media,Houda Khrouf and Raphaël Troncy,2016,8,Semantic Web
+10.3233/sw-120090,An information model for managing resources and their metadata,Hannes Ebner and Matthias Palmér,2014,0,Semantic Web
+10.3233/sw-190359,Extracting entity-specific substructures for RDF graph embeddings,Muhammad Rizwan Saeed and Charalampos Chelmis and Viktor K. Prasanna,2019,1,Semantic Web
+10.3233/sw-222804,Prediction of adverse biological effects of chemicals using knowledge graph embeddings,Erik B. Myklebust and Ernesto Jiménez-Ruiz and Jiaoyan Chen and Raoul Wolf and Knut Erik Tollefsen,2022,2,Semantic Web
+10.3233/sw-223009,Analysis of ontologies and policy languages to represent information flows in GDPR,Beatriz Esteves and Víctor Rodríguez-Doncel,2022,1,Semantic Web
+10.3233/sw-170272,Mining social semantics on the social web,Andreas Hotho and Robert Jäschke and Kristina Lerman,2017,2,Semantic Web
+10.3233/sw-160251,Special issue on ontology and linked data matching,Michelle Cheatham and Isabel Cruz and Jérôme Euzenat and Catia Pesquita,2016,4,Semantic Web
+10.3233/sw-210445,Urban IoT ontologies for sharing and electric mobility,Mario Scrocca and Ilaria Baroni and Irene Celino,2021,3,Semantic Web
+10.3233/sw-212968,Network representation learning method embedding linear and nonlinear network structures,Hu Zhang and Jingjing Zhou and Ru Li and Yue Fan,2022,1,Semantic Web
+10.3233/sw-210437,Automatic evaluation of complex alignments: An instance-based approach,Elodie Thiéblin and Ollivier Haemmerlé and Cássia Trojahn,2021,1,Semantic Web
+10.3233/sw-150189,Publishing DisGeNET as nanopublications,Núria Queralt-Rosinach and Tobias Kuhn and Christine Chichester and Michel Dumontier and Ferran Sanz and Laura I. Furlong,2016,15,Semantic Web
+10.3233/sw-170259,Linked Web APIs dataset,Milan Dojchinovski and Tomas Vitvar,2018,10,Semantic Web
+10.3233/sw-2012-0065,Enabling the geospatial Semantic Web with Parliament and GeoSPARQL,Robert Battle and Dave Kolas,2012,177,Semantic Web
+10.3233/sw-200405,Semantic Node-RED for rapid development of interoperable industrial IoT applications,Aparna Saisree Thuluva and Darko Anicic and Sebastian Rudolph and Malintha Adikari,2020,6,Semantic Web
+10.3233/sw-170274,Migration of a library catalogue into RDA linked open data,Gustavo Candela and Pilar Escobar and Rafael C. Carrasco and Manuel Marco-Such,2018,13,Semantic Web
+10.3233/sw-222919,Rel Topic : A graph-based semantic relatedness measure in topic ontologies and its applicability for topic labeling of old press articles,Mirna El Ghosh and Nicolas Delestre and Jean-Philippe Kotowicz and Cecilia Zanni-Merk and Habib Abdulrab,2022,0,Semantic Web
+10.3233/sw-210441,A Shape Expression approach for assessing the quality of Linked Open Data in libraries,Gustavo Candela and Pilar Escobar and María Dolores Sáez and Manuel Marco-Such,2022,2,Semantic Web
+10.3233/sw-223159,Typed properties and negative typed properties: Dealing with type observations and negative statements in the CIDOC CRM,Athanasios Velios and Carlo Meghini and Martin Doerr and Stephen Stead,2022,0,Semantic Web
+10.3233/sw-180324,A quality assessment approach for evolving knowledge bases,Mohammad Rashid and Marco Torchiano and Giuseppe Rizzo and Nandana Mihindukulasooriya and Oscar Corcho,2019,5,Semantic Web
+10.3233/sw-190349,Wan2vec: Embeddings learned on word association norms,Gemma Bel-Enguix and Helena Gómez-Adorno and Jorge Reyes-Magaña and Gerardo Sierra,2019,3,Semantic Web
+10.3233/sw-140164,Link traversal querying for a diverse Web of Data,Jürgen Umbrich and Aidan Hogan and Axel Polleres and Stefan Decker,2014,21,Semantic Web
+10.3233/sw-150181,Crowd-based ontology engineering with the uComp Protégé plugin,Gerhard Wohlgenannt and Marta Sabou and Florian Hanika,2016,10,Semantic Web
+10.3233/sw-120091,Linked Data for science and education,Carsten Keßler and Mathieu d'Aquin and Stefan Dietze,2013,8,Semantic Web
+10.3233/sw-200374,Findable and reusable workflow data products: A genomic workflow case study,Alban Gaignard and Hala Skaf-Molli and Khalid Belhajjame,2020,4,Semantic Web
+10.3233/sw-200414,On the relation between keys and link keys for data interlinking,Manuel Atencia and Jérôme David and Jérôme Euzenat,2021,0,Semantic Web
+10.3233/sw-2012-0082,An architecture of a distributed semantic social network,Sebastian Tramp and Philipp Frischmuth and Timofey Ermilov and Saeedeh Shekarpour and Sören Auer,2014,18,Semantic Web
+10.3233/sw-160220,Names are not good enough: Reasoning over taxonomic change in the Andropogon complex1,Nico M. Franz and Mingmin Chen and Parisa Kianmajd and Shizhuo Yu and Shawn Bowers and Alan S. Weakley and Bertram Ludäscher,2016,26,Semantic Web
+10.3233/sw-180304,KnowMore – knowledge base augmentation with structured web markup,Ran Yu and Ujwal Gadiraju and Besnik Fetahu and Oliver Lehmberg and Dominique Ritze and Stefan Dietze,2018,5,Semantic Web
+10.3233/sw-180317,RDF2Vec: RDF graph embeddings and their applications,Petar Ristoski and Jessica Rosati and Tommaso Di Noia and Renato De Leone and Heiko Paulheim,2019,60,Semantic Web
+10.3233/sw-160214,"Ontology for observations and sampling features, with alignments to existing models",Simon J.D. Cox,2016,20,Semantic Web
+10.3233/sw-200396,Understanding the phenomenology of reading through modelling,Alessio Antonini and Mari Carmen Suárez-Figueroa and Alessandro Adamou and Francesca Benatti and François Vignale and Guillaume Gravier and Lucia Lupi,2021,2,Semantic Web
+10.3233/sw-160223,Question answering over biomedical linked data with Grammatical Framework,Anca Marginean,2017,19,Semantic Web
+10.3233/sw-2010-0015,Theoretical foundations and engineering tools for building ontologies as reference conceptual models,Giancarlo Guizzardi,2010,22,Semantic Web
+10.3233/sw-180312,Benchmarking question answering systems,Ricardo Usbeck and Michael Röder and Michael Hoffmann and Felix Conrads and Jonathan Huthmann and Axel-Cyrille Ngonga-Ngomo and Christian Demmler and Christina Unger,2019,15,Semantic Web
+10.3233/sw-223181,Understanding the structure of knowledge graphs with ABSTAT profiles,Blerina Spahiu and Matteo Palmonari and Renzo Arturo Alva Principe and Anisa Rula,2023,0,Semantic Web
+10.3233/sw-160242,Effective and efficient Semantic Table Interpretation using TableMiner+,Ziqi Zhang,2017,58,Semantic Web
+10.3233/sw-180333,Information extraction meets the Semantic Web: A survey,Jose L. Martinez-Rodriguez and Aidan Hogan and Ivan Lopez-Arevalo,2020,59,Semantic Web
+10.3233/sw-222986,Neural entity linking: A survey of models based on deep learning,Özge Sevgili and Artem Shelmanov and Mikhail Arkhipov and Alexander Panchenko and Chris Biemann,2022,10,Semantic Web
+10.3233/sw-180305,"Best practices for publishing, retrieving, and using spatial data on the web",Linda van den Brink and Payam Barnaghi and Jeremy Tandy and Ghislain Atemezing and Rob Atkinson and Byron Cochrane and Yasmin Fathy and Raúl García Castro and Armin Haller and Andreas Harth and Krzysztof Janowicz and Şefki Kolozali and Bart van Leeuwen and Maxime Lefrançois and Josh Lieberman and Andrea Perego and Danh Le-Phuoc and Bill Roberts and Kerry Taylor and Raphäel Troncy,2018,19,Semantic Web
+10.3233/sw-210432,Enhancing virtual ontology based access over tabular data with Morph-CSV,David Chaves-Fraga and Edna Ruckhaus and Freddy Priyatna and Maria-Esther Vidal and Oscar Corcho,2021,5,Semantic Web
+10.3233/sw-212871,Semantics and canonicalisation of SPARQL 1.1,Jaime Salas and Aidan Hogan,2022,2,Semantic Web
+10.3233/sw-140167,OLiA – Ontologies of Linguistic Annotation,Christian Chiarcos and Maria Sukhareva,2015,30,Semantic Web
+10.3233/sw-150192,Presenting and preserving the change in taxonomic knowledge for linked data,Rathachai Chawuthai and Hideaki Takeda and Vilas Wuwongse and Utsugi Jinbo,2016,7,Semantic Web
+10.3233/sw-160224,Semantic Web for the Legal Domain: The next step,Pompeu Casanovas and Monica Palmirani and Silvio Peroni and Tom van Engers and Fabio Vitali,2016,43,Semantic Web
+10.3233/sw-190360,metaphactory: A platform for knowledge graph management,Peter Haase and Daniel M. Herzig and Artem Kozlov and Andriy Nikolov and Johannes Trame,2019,23,Semantic Web
+10.3233/sw-210428,Sampo-UI: A full stack JavaScript framework for developing semantic portal user interfaces,Esko Ikkala and Eero Hyvönen and Heikki Rantala and Mikko Koho,2021,14,Semantic Web
+10.3233/sw-210444,Representing COVID-19 information in collaborative knowledge graphs: The case of Wikidata,Houcemeddine Turki and Mohamed Ali Hadj Taieb and Thomas Shafee and Tiago Lubiana and Dariusz Jemielniak and Mohamed Ben Aouicha and Jose Emilio Labra Gayo and Eric A. Youngstrom and Mus’ab Banat and Diptanshu Das and Daniel Mietchen and n.m. on behalf of WikiProject COVID-,2022,9,Semantic Web
+10.3233/sw-2010-0003,A taskonomy for the Semantic Web,Tom Heath,2010,5,Semantic Web
+10.3233/sw-223135,Morph-KGC: Scalable knowledge graph materialization with mapping partitions,Julián Arenas-Guerrero and David Chaves-Fraga and Jhon Toledo and María S. Pérez and Oscar Corcho,2022,5,Semantic Web
+10.3233/sw-210447,Foundational ontologies meet ontology matching: A survey,Cassia Trojahn and Renata Vieira and Daniela Schmidt and Adam Pease and Giancarlo Guizzardi,2022,6,Semantic Web
+10.3233/sw-200421,Representing narratives in digital libraries: The narrative ontology,Carlo Meghini and Valentina Bartalesi and Daniele Metilli,2021,9,Semantic Web
+10.3233/sw-160238,A systematic analysis of term reuse and term overlap across biomedical ontologies,Maulik R. Kamdar and Tania Tudorache and Mark A. Musen,2017,33,Semantic Web
+10.3233/sw-190367,Continuous top-k approximated join of streaming and evolving distributed data,Shima Zahmatkesh and Emanuele Della Valle,2020,1,Semantic Web
+10.3233/sw-130127,Solving guesstimation problems using the Semantic Web: Four lessons from an application,Alan Bundy and Gintautas Sasnauskas and Michael Chan,2015,1,Semantic Web
+10.3233/sw-210425,Editorial: Special issue on Semantic Web for Cultural Heritage,Antonis Bikakis and Eero Hyvönen and Stéphane Jean and Béatrice Markhoff and Alessandro Mosca,2021,4,Semantic Web
+10.3233/sw-2010-0020,Towards a pattern science for the Semantic Web,Aldo Gangemi and Valentina Presutti,2010,38,Semantic Web
+10.3233/sw-130132,A dialogue with linked data: Voice-based access to market data in the Sahel,Victor de Boer and Nana Baah Gyan and Anna Bon and Wendelien Tuyp and Chris van Aart and Hans Akkermans,2015,4,Semantic Web
+10.3233/sw-140156,Coupling conceptual modeling and rules for the annotation of dramatic media,Vincenzo Lombardo and Cristina Battaglino and Antonio Pizzo and Rossana Damiano and Antonio Lieto,2015,14,Semantic Web
+10.3233/sw-2012-0067,OntoBroker,Jürgen Angele,2014,7,Semantic Web
+10.3233/sw-2010-0007,Inductive learning for the Semantic Web: What does it buy?,Claudia d'Amato and Nicola Fanizzi and Floriana Esposito,2010,22,Semantic Web
+10.3233/sw-212893,Linked Open Images: Visual similarity for the Semantic Web,Lukas Klic,2022,0,Semantic Web
+10.3233/sw-170261,Using microtasks to crowdsource DBpedia entity classification: A study in workflow design,Qiong Bu and Elena Simperl and Sergej Zerr and Yunjia Li,2018,0,Semantic Web
+10.3233/sw-130105,Linked data for potential algal biomass production,Monika Solanki and Johannes Skarka and Craig Chapman,2013,2,Semantic Web
+10.3233/sw-130131,The RÉPENER linked dataset,Álvaro Sicilia and German Nemirovski and Marco Massetti and Leandro Madrazo,2015,0,Semantic Web
+10.3233/sw-2010-0021,Ontology use for semantic e-Science,Boyan Brodaric and Mark Gahegan,2010,13,Semantic Web
+10.3233/sw-2012-0084,The use of Semantic Web technologies for decision support – a survey,Eva Blomqvist,2014,55,Semantic Web
+10.3233/sw-210427,Open Science data and the Semantic Web journal,Pascal Hitzler and Krzysztof Janowicz and Cogan Shimizu and Lu Zhou and Andrew Eells,2021,0,Semantic Web
+10.3233/sw-200418,Ce qui est écrit et ce qui est parlé. CRMtex for modelling textual entities on the Semantic Web,Achille Felicetti and Francesca Murano,2021,0,Semantic Web
+10.3233/sw-210423,Multidimensional enrichment of spatial RDF data for SOLAP,Nurefşan Gür and Torben Bach Pedersen and Katja Hose and Mikael Midtgaard,2021,0,Semantic Web
+10.3233/sw-170252,Automated generation of assessment tests from domain ontologies,Vinu E.V. and P. Sreenivasa Kumar,2017,9,Semantic Web
+10.3233/sw-180294,"RDF dataset profiling – a survey of features, methods, vocabularies and applications",Mohamed Ben Ellefi and Zohra Bellahsene and John G. Breslin and Elena Demidova and Stefan Dietze and Julian Szymański and Konstantin Todorov,2018,37,Semantic Web
+10.3233/sw-2011-0042,Aligning tweets with events: Automation via semantics,Matthew Rowe and Milan Stankovic,2012,3,Semantic Web
+10.3233/sw-200369,Automatic detection of relation assertion errors and induction of relation constraints,Andre Melo and Heiko Paulheim,2020,4,Semantic Web
+10.3233/sw-2010-0009,Privacy in ontology-based information systems: A pending matter,Bernardo Cuenca Grau,2010,8,Semantic Web
+10.3233/sw-130095,The new manuscript review system for the Semantic Web journal,Pascal Hitzler and Krzysztof Janowicz and Kunal Sengupta,2013,2,Semantic Web
+10.3233/sw-190350,A note on intelligent exploration of semantic data,Dhavalkumar Thakker and Daniel Schwabe and Roberto García and Kouji Kozaki and Marco Brambilla and Vania Dimitrova,2019,0,Semantic Web
+10.3233/sw-200379,Semantics in the Edge: Sensors and actuators in the Web of Linked Data and Things,Federica Cena and Armin Haller and Maxime Lefrançois,2020,0,Semantic Web
+10.3233/sw-180334,Remixing entity linking evaluation datasets for focused benchmarking,Jörg Waitelonis and Henrik Jürges and Harald Sack,2019,2,Semantic Web
+10.3233/sw-2011-0038,The ICOM 3.0 intelligent conceptual modelling tool and methodology,Pablo R. Fillottrani and Enrico Franconi and Sergio Tessaris,2012,16,Semantic Web
+10.3233/sw-2012-0083,A curated and evolving linguistic linked dataset,Emanuele Di Buccio and Giorgio Maria Di Nunzio and Gianmaria Silvello,2013,5,Semantic Web
+10.3233/sw-2010-0017,"Semantic Web – Interoperability, Usability, Applicability",Pascal Hitzler and Krzysztof Janowicz,2010,6,Semantic Web
+10.3233/sw-2010-0016,Can we ever catch up with the Web?,Axel Polleres and Aidan Hogan and Andreas Harth and Stefan Decker,2010,20,Semantic Web
+10.3233/sw-180331,EMBench++: Data for a thorough benchmarking of matching-related methods,Ekaterini Ioannou and Yannis Velegrakis,2019,4,Semantic Web
+10.3233/sw-190378,Ontologies as nested facet systems for human–data interaction,Guo-Qiang Zhang and Shiqiang Tao and Ningzhou Zeng and Licong Cui,2020,5,Semantic Web
+10.3233/sw-130096,Using the relation ontology Metarel for modelling Linked Data as multi-digraphs,Ward Blondé and Erick Antezana and Vladimir Mironov and Stefan Schulz and Martin Kuiper and Bernard De Baets,2014,2,Semantic Web
+10.3233/sw-2010-0023,Semantic search on the Web,Bettina Fazzinga and Thomas Lukasiewicz,2010,21,Semantic Web
+10.3233/sw-212895,Handling qualitative preferences in SPARQL over virtual ontology-based data access,Marlene Goncalves and David Chaves-Fraga and Oscar Corcho,2022,0,Semantic Web
+10.3233/sw-190385,Ontological challenges to cohabitation with self-taught robots,Stefano Borgo,2020,0,Semantic Web
+10.3233/sw-170288,Literally better: Analyzing and improving the quality of literals,Wouter Beek and Filip Ilievski and Jeremy Debattista and Stefan Schlobach and Jan Wielemaker,2017,6,Semantic Web
+10.3233/sw-140138,Countering language attrition with PanLex and the Web of Data,Patrick Westphal and Claus Stadler and Jonathan Pool,2015,5,Semantic Web
+10.3233/sw-190376,A map without a legend,Jérôme Euzenat,2020,0,Semantic Web
+10.3233/sw-222886,Modular ontology modeling,Cogan Shimizu and Karl Hammar and Pascal Hitzler,2022,2,Semantic Web
+10.3233/sw-180335,HDT crypt : Compression and encryption of RDF datasets,Javier D. Fernández and Sabrina Kirrane and Axel Polleres and Simon Steyskal,2020,2,Semantic Web
+10.3233/sw-222903,Characteristic sets profile features: Estimation and application to SPARQL query planning,Lars Heling and Maribel Acosta,2022,0,Semantic Web
+10.3233/sw-150212,Inferring recommendation interactions in clinical guidelines1,Veruska Zamborlini and Rinke Hoekstra and Marcos Da Silveira and Cedric Pruski and Annette ten Teije and Frank van Harmelen,2016,17,Semantic Web
+10.3233/sw-140168,Converting the PAROLE SIMPLE CLIPS lexicon into RDF with lemon,Riccardo Del Gratta and Francesca Frontini and Fahad Khan and Monica Monachini,2015,11,Semantic Web
+10.3233/sw-130115,Special issue on Linked Data for Health Care and the Life Sciences,Mikel Egaña Aranguren and Jesualdo Tomás Fernández-Breis and Michel Dumontier,2014,7,Semantic Web
+10.3233/sw-170282,An extended study of content and crowdsourcing-related performance factors in named entity annotation,Oluwaseyi Feyisetan and Elena Simperl and Markus Luczak-Roesch and Ramine Tinati and Nigel Shadbolt,2018,0,Semantic Web
+10.3233/sw-210440,MQALD: Evaluating the impact of modifiers in question answering over knowledge graphs,Lucia Siciliani and Pierpaolo Basile and Pasquale Lops and Giovanni Semeraro,2022,1,Semantic Web
+10.3233/sw-150201,Facilitating Scientometrics in Learning Analytics and Educational Data Mining – the LAK Dataset,Stefan Dietze and Davide Taibi and Mathieu d’Aquin,2016,11,Semantic Web
+10.3233/sw-140160,A logical characterisation of SPARQL federation,Audun Stolpe,2014,7,Semantic Web
+10.3233/sw-140157,"WYSIWYM – Integrated visualization, exploration and authoring of semantically enriched un-structured content",Ali Khalili and Sören Auer,2015,5,Semantic Web
+10.3233/sw-170264,Ontology understanding without tears: The summarization approach,Georgia Troullinou and Haridimos Kondylakis and Evangelia Daskalaki and Dimitris Plexousakis,2017,22,Semantic Web
+10.3233/sw-200398,Link maintenance for integrity in linked open data evolution: Literature survey and open challenges,Andre Gomes Regino and Julio Cesar dos Reis and Rodrigo Bonacin and Ahsan Morshed and Timos Sellis,2021,1,Semantic Web
+10.3233/sw-2011-0054,Design and development of linked data from The National Map,E. Lynn Usery and Dalia Varanka,2012,16,Semantic Web
+10.3233/sw-180341,Studying the impact of the Full-Network embedding on multimodal pipelines,Armand Vilalta and Dario Garcia-Gasulla and Ferran Parés and Eduard Ayguadé and Jesus Labarta and E. Ulises Moya-Sánchez and Ulises Cortés,2019,3,Semantic Web
+10.3233/sw-200391,An unsupervised approach to disjointness learning based on terminological cluster trees,Giuseppe Rizzo and Claudia d’Amato and Nicola Fanizzi,2021,2,Semantic Web
+10.3233/sw-222970,Answer selection in community question answering exploiting knowledge graph and context information,Golshan Afzali Boroujeni and Heshaam Faili and Yadollah Yaghoobzadeh,2022,1,Semantic Web
+10.3233/sw-200407,Semantic Web of Things for Industry 4.0,Dhavalkumar Thakker and Pankesh Patel and Muhammad Intizar Ali and Tejal Shah,2020,1,Semantic Web
+10.3233/sw-150177,The Document Components Ontology (DoCO),Alexandru Constantin and Silvio Peroni and Steve Pettifer and David Shotton and Fabio Vitali,2016,37,Semantic Web
+10.3233/sw-200387,OntoAndalus: An ontology of Islamic artefacts for terminological purposes,Bruno Almeida and Rute Costa,2021,0,Semantic Web
+10.3233/sw-160244,Querying biomedical Linked Data with natural language questions,Thierry Hamon and Natalia Grabar and Fleur Mougin,2017,11,Semantic Web
+10.3233/sw-223273,The OneGraph vision: Challenges of breaking the graph model lock-in1,Ora Lassila and Michael Schmidt and Olaf Hartig and Brad Bebee and Dave Bechberger and Willem Broekema and Ankesh Khandelwal and Kelvin Lawrence and Carlos Manuel Lopez Enriquez and Ronak Sharda and Bryan Thompson,2022,0,Semantic Web
+10.3233/sw-190380,A more decentralized vision for Linked Data,Axel Polleres and Maulik Rajendra Kamdar and Javier David Fernández and Tania Tudorache and Mark Alan Musen,2020,6,Semantic Web
+10.3233/sw-150211,Exploratory querying of SPARQL endpoints in space and time,Simon Scheider and Auriol Degbelo and Rob Lemmens and Corné van Elzakker and Peter Zimmerhof and Nemanja Kostic and Jim Jones and Gautam Banhatti,2016,14,Semantic Web
+10.3233/sw-160227,The debates of the European Parliament as Linked Open Data,Astrid van Aggelen and Laura Hollink and Max Kemman and Martijn Kleppe and Henri Beunders,2016,21,Semantic Web
+10.3233/sw-2010-0004,The knowledge reengineering bottleneck,Rinke Hoekstra,2010,20,Semantic Web
+10.3233/sw-190368,Neural-symbolic integration and the Semantic Web,Pascal Hitzler and Federico Bianchi and Monireh Ebrahimi and Md Kamruzzaman Sarker,2020,25,Semantic Web
+10.3233/sw-140163,Eye tracking the user experience – An evaluation of ontology visualization techniques,Bo Fu and Natalya F. Noy and Margaret-Anne Storey,2016,26,Semantic Web
+10.3233/sw-160249,Visualisation of Linked Data – Reprise,Aba-Sah Dadzie and Emmanuel Pietriga,2016,34,Semantic Web
+10.3233/sw-150178,Multilingual linked data,John P. McCrae and Steven Moran and Sebastian Hellmann and Martin Brümmer,2015,4,Semantic Web
+10.3233/sw-2011-0030,PowerAqua: Supporting users in querying and exploring the Semantic Web,Vanessa Lopez and Miriam Fernández and Enrico Motta and Nico Stieler,2012,77,Semantic Web
+10.3233/sw-180289,"Privacy, security and policies: A review of problems and solutions with semantic web technologies",Sabrina Kirrane and Serena Villata and Mathieu d’Aquin,2018,19,Semantic Web
+10.3233/sw-140169,Query answering over contextualized RDF/OWL knowledge with forall-existential bridge rules: Decidable finite extension classes,Mathew Joseph and Gabriel Kuper and Till Mossakowski and Luciano Serafini,2014,3,Semantic Web
+10.3233/sw-130114,How ontologies benefit enterprise applications,Daniel Oberle,2014,26,Semantic Web
+10.3233/sw-190372,The Semantic Web identity crisis: In search of the trivialities that never were,Ruben Verborgh and Miel Vander Sande,2020,7,Semantic Web
+10.3233/sw-190366,Survey on complex ontology matching,Elodie Thiéblin and Ollivier Haemmerlé and Nathalie Hernandez and Cassia Trojahn,2020,26,Semantic Web
+10.3233/sw-160240,Semantic Web Machine Reading with FRED,Aldo Gangemi and Valentina Presutti and Diego Reforgiato Recupero and Andrea Giovanni Nuzzolese and Francesco Draicchio and Misael Mongiovì,2017,82,Semantic Web
+10.3233/sw-2011-0056,A classification of semantic annotation systems,Pierre Andrews and Ilya Zaihrayeu and Juan Pane,2012,28,Semantic Web
+10.3233/sw-210424,The euBusinessGraph ontology: A lightweight ontology for harmonizing basic company information,Dumitru Roman and Vladimir Alexiev and Javier Paniagua and Brian Elvesæter and Bjørn Marius von Zernichow and Ahmet Soylu and Boyan Simeonov and Chris Taggart,2021,12,Semantic Web
+10.3233/sw-223201,A systematic overview of data federation systems,Zhenzhen Gu and Francesco Corcoglioniti and Davide Lanti and Alessandro Mosca and Guohui Xiao and Jing Xiong and Diego Calvanese,2022,0,Semantic Web
+10.3233/sw-150180,Distantly supervised Web relation extraction for knowledge base population,Isabelle Augenstein and Diana Maynard and Fabio Ciravegna,2016,23,Semantic Web
+10.3233/sw-2012-0057,WebProtégé: A collaborative ontology editor and knowledge acquisition tool for the Web,Tania Tudorache and Csongor Nyulas and Natalya F. Noy and Mark A. Musen,2013,111,Semantic Web
+10.3233/sw-2011-0031,"Watson, more than a Semantic Web search engine",Mathieu d'Aquin and Enrico Motta,2011,48,Semantic Web
+10.3233/sw-223084,ImageSchemaNet: A framester graph for embodied commonsense knowledge,Stefano De Giorgis and Aldo Gangemi and Dagmar Gromann,2022,1,Semantic Web
+10.3233/sw-2012-0072,Exploring user and system requirements of linked data visualization through a visual dashboard approach,Suvodeep Mazumdar and Daniela Petrelli and Fabio Ciravegna,2014,8,Semantic Web
+10.3233/sw-150200,Visualizing ontologies with VOWL,Steffen Lohmann and Stefan Negru and Florian Haag and Thomas Ertl,2016,118,Semantic Web
+10.3233/sw-2012-0069,Ontology of units of measure and related concepts,Hajo Rijgersberg and Mark van Assem and Jan Top,2013,98,Semantic Web
+10.3233/sw-190375,Hybrid reasoning in knowledge graphs: Combing symbolic reasoning and statistical reasoning,Weizhuo Li and Guilin Qi and Qiu Ji,2020,9,Semantic Web
+10.3233/sw-2011-0053,Stream reasoning and complex event processing in ETALIS,Darko Anicic and Sebastian Rudolph and Paul Fodor and Nenad Stojanovic,2012,64,Semantic Web
+10.3233/sw-2011-0041,Is Question Answering fit for the Semantic Web?: A survey,Vanessa Lopez and Victoria Uren and Marta Sabou and Enrico Motta,2011,80,Semantic Web
+10.3233/sw-170253,Extending a CRF-based named entity recognition model for Turkish well formed text and user generated content1,Gökhan Akın Şeker and Gülşen Eryiğit,2017,23,Semantic Web
+10.3233/sw-180326,Clover Quiz: A trivia game powered by DBpedia,Guillermo Vega-Gorgojo,2019,7,Semantic Web
+10.3233/sw-160217,Ontop: Answering SPARQL queries over relational databases,Diego Calvanese and Benjamin Cogrel and Sarah Komla-Ebri and Roman Kontchakov and Davide Lanti and Martin Rezk and Mariano Rodriguez-Muro and Guohui Xiao,2016,223,Semantic Web
+10.3233/sw-150210,A survey of current Link Discovery frameworks,Markus Nentwig and Michael Hartung and Axel-Cyrille Ngonga Ngomo and Erhard Rahm,2016,99,Semantic Web
+10.3233/sw-160247,Survey on challenges of Question Answering in the Semantic Web,Konrad Höffner and Sebastian Walter and Edgard Marx and Ricardo Usbeck and Jens Lehmann and Axel-Cyrille Ngonga Ngomo,2017,112,Semantic Web
+10.3233/sw-210450,Visual notations for viewing RDF constraints with UnSHACLed,Sven Lieber and Ben De Meester and Pieter Heyvaert and Femke Brückmann and Ruben Wambacq and Erik Mannens and Ruben Verborgh and Anastasia Dimou,2022,1,Semantic Web
+10.3233/sw-212883,Semantic-enabled architecture for auditable privacy-preserving data analysis,Fajar J. Ekaputra and Andreas Ekelhart and Rudolf Mayer and Tomasz Miksa and Tanja Šarčević and Sotirios Tsepelakis and Laura Waltersdorfer,2022,0,Semantic Web
+10.3233/sw-222842,Online approximative SPARQL query processing for COUNT-DISTINCT queries with web preemption,Julien Aimonier-Davat and Hala Skaf-Molli and Pascal Molli and Arnaud Grall and Thomas Minier,2022,0,Semantic Web
+10.3233/sw-130128,Migrating bibliographic datasets to the Semantic Web: The AGRIS case,Stefano Anibaldi and Yves Jaques and Fabrizio Celli and Armando Stellato and Johannes Keizer,2015,9,Semantic Web
+10.3233/sw-2012-0070,The Digital Earth as knowledge engine,Krzysztof Janowicz and Pascal Hitzler,2012,36,Semantic Web
+10.3233/sw-130112,A collaborative methodology for developing a semantic model for interlinking Cancer Chemoprevention linked-data sources,Dimitris Zeginis and Ali Hasnain and Nikolaos Loutas and Helena Futscher Deus and Ronan Fox and Konstantinos Tarabanis,2014,14,Semantic Web
+10.3233/sw-223187,Editorial of the Special issue on Cultural heritage and semantic web,Mehwish Alam and Victor de Boer and Enrico Daga and Marieke van Erp and Eero Hyvönen and Albert Meroño-Peñuela,2022,0,Semantic Web
+10.3233/sw-223105,Semantic models and services for conservation and restoration of cultural heritage: A comprehensive survey,Efthymia Moraitou and Yannis Christodoulou and George Caridakis,2022,1,Semantic Web
+10.3233/sw-222845,Linking women editors of periodicals to the Wikidata knowledge graph,Katherine Thornton and Kenneth Seals-Nutt and Marianne Van Remoortel and Julie M. Birkholz and Pieterjan De Potter,2022,0,Semantic Web
+10.3233/sw-190344,Completeness and soundness guarantees for conjunctive SPARQL queries over RDF data sources with completeness statements1,Fariz Darari and Werner Nutt and Simon Razniewski and Sebastian Rudolph,2020,3,Semantic Web
+10.3233/sw-140148,PAROLE/SIMPLE ‘lemon’ ontology and lexicons,Marta Villegas and Núria Bel,2015,11,Semantic Web
+10.3233/sw-170280,Discovery of emerging design patterns in ontologies using tree mining,Agnieszka Ławrynowicz and Jedrzej Potoniec and Michał Robaczyk and Tania Tudorache,2018,9,Semantic Web
+10.3233/sw-160215,Overview of the MPEG-21 Media Contract Ontology,Víctor Rodríguez-Doncel and Jaime Delgado and Silvia Llorente and Eva Rodríguez and Laurent Boch,2016,14,Semantic Web
+10.3233/sw-200390,A comparative study of methods for a priori prediction of MCQ difficulty,Ghader Kurdi and Jared Leo and Nicolas Matentzoglu and Bijan Parsia and Uli Sattler and Sophie Forge and Gina Donato and Will Dowling,2021,1,Semantic Web
+10.3233/sw-2010-0011,Smart objects: Challenges for Semantic Web research,Marta Sabou,2010,5,Semantic Web
+10.3233/sw-180296,Semantic prediction assistant approach applied to energy efficiency in Tertiary buildings,Iker Esnaola-Gonzalez and Jesús Bermúdez and Izaskun Fernandez and Aitor Arnaiz,2018,8,Semantic Web
+10.3233/sw-200399,UCQ-Rewritings for disjunctive knowledge and queries with negated atoms,Enrique Matos Alfonso and Alexandros Chortaras and Giorgos Stamou,2021,0,Semantic Web
+10.3233/sw-130111,A semantic model for scholarly electronic publishing in Biomedical Sciences,Carlos H. Marcondes and Luciana R. Malheiros and Leonardo C. da Costa,2014,0,Semantic Web
+10.3233/sw-223011,Linking discourse-level information and the induction of bilingual discourse connective lexicons,Sibel Özer and Murathan Kurfalı and Deniz Zeyrek and Amália Mendes and Giedrė Valūnaitė Oleškevičienė,2022,0,Semantic Web
+10.3233/sw-212843,"Glottocodes: Identifiers linking families, languages and dialects to comprehensive reference information",Robert Forkel and Harald Hammarström,2022,1,Semantic Web
+10.3233/sw-140150,Semantic model for legal resources: Annotation and reasoning over normative provisions,Enrico Francesconi,2016,10,Semantic Web
+10.3233/sw-170273,Robust named entity disambiguation with random walks,Zhaochen Guo and Denilson Barbosa,2018,40,Semantic Web
+10.3233/sw-200368,Data-driven assessment of structural evolution of RDF graphs,Carlos Bobed and Pierre Maillot and Peggy Cellier and Sébastien Ferré,2020,4,Semantic Web
+10.3233/sw-180311,Estimating query rewriting quality over LOD,Ana I. Torre-Bastida and Jesús Bermúdez and Arantza Illarramendi,2019,1,Semantic Web
+10.3233/sw-190346,Quality metrics for RDF graph summarization,Mussab Zneika and Dan Vodislav and Dimitris Kotzinos,2019,7,Semantic Web
+10.3233/sw-160236,Access control and the Resource Description Framework: A survey,Sabrina Kirrane and Alessandra Mileo and Stefan Decker,2016,34,Semantic Web
+10.3233/sw-2012-0078,Facebook Linked Data via the Graph API,Jesse Weaver and Paul Tarjan,2013,16,Semantic Web
+10.3233/sw-180313,"A query language for semantic complex event processing: Syntax, semantics and implementation",Syed Gillani and Antoine Zimmermann and Gauthier Picard and Frédérique Laforest,2018,8,Semantic Web
+10.3233/sw-190358,Rule-driven inconsistency resolution for knowledge graph generation rules,Pieter Heyvaert and Ben De Meester and Anastasia Dimou and Ruben Verborgh,2019,5,Semantic Web
+10.3233/sw-140143,Using ontologies to model human navigation behavior in information networks: A study based on Wikipedia,Daniel Lamprecht and Markus Strohmaier and Denis Helic and Csongor Nyulas and Tania Tudorache and Natalya F. Noy and Mark A. Musen,2015,19,Semantic Web
+10.3233/sw-150187,Time ontology extended for non-Gregorian calendar applications,Simon J.D. Cox,2016,12,Semantic Web
+10.3233/sw-212888,Robust query processing for linked data fragments,Lars Heling and Maribel Acosta,2022,0,Semantic Web
+10.3233/sw-210438,Consent through the lens of semantics: State of the art survey and best practices,Anelia Kurteva and Tek Raj Chhetri and Harshvardhan J. Pandit and Anna Fensel,2021,9,Semantic Web
+10.3233/sw-200402,SAREF4INMA: A SAREF extension for the industry and manufacturing domain,Mike de Roode and Alba Fernández-Izquierdo and Laura Daniele and María Poveda-Villalón and Raúl García-Castro,2020,5,Semantic Web
+10.3233/sw-2011-0039,Transition of legacy systems to semantically enabled applications: TAO method and tools,Hai H. Wang and Danica Damljanovic and Terry Payne and Nicholas Gibbins and Kalina Bontcheva,2012,3,Semantic Web
+10.3233/sw-210442,TheyBuyForYou platform and knowledge graph: Expanding horizons in public procurement with open linked data,Ahmet Soylu and Oscar Corcho and Brian Elvesæter and Carlos Badenes-Olmedo and Tom Blount and Francisco Yedro Martínez and Matej Kovacic and Matej Posinkovic and Ian Makgill and Chris Taggart and Elena Simperl and Till C. Lech and Dumitru Roman,2022,13,Semantic Web
+10.3233/sw-2012-0064,The Bowlogna ontology: Fostering open curricula and agile knowledge bases for Europe's higher education landscape,Gianluca Demartini and Iliya Enchev and Joël Gapany and Philippe Cudré-Mauroux,2013,12,Semantic Web
+10.3233/sw-170260,ExConQuer: Lowering barriers to RDF and Linked Data re-use,Judie Attard and Fabrizio Orlandi and Sören Auer,2018,2,Semantic Web
+10.3233/sw-130116,Increasing the financial transparency of European Commission project funding,Michael Martin and Claus Stadler and Philipp Frischmuth and Jens Lehmann,2014,9,Semantic Web
+10.3233/sw-150190,TraitBank: Practical semantics for organism attribute data,Cynthia S. Parr and Katja S. Schulz and Jennifer Hammock and Nathan Wilson and Patrick Leary and Jeremy Rice and Robert J. Corrigan,2016,21,Semantic Web
+10.3233/sw-170287,"Editorial: Special issue on quality management of Semantic Web assets (data, services and systems)",Amrapali Zaveri and Dimitris Kontokostas and Sebastian Hellmann and Jürgen Umbrich,2017,2,Semantic Web
+10.3233/sw-130119,An egocentric semantic reference system for affordances,Jens Ortmann and Giorgio De Felice and Dong Wang and Desiree Daniel,2014,3,Semantic Web
+10.3233/sw-210449,Optimizing storage of RDF archives using bidirectional delta chains,Ruben Taelman and Thibault Mahieu and Martin Vanbrabant and Ruben Verborgh,2022,0,Semantic Web
+10.3233/sw-2012-0080,User preferences in the web of data,Luis Polo and Iván Mínguez and Diego Berrueta and Carlos Ruiz and José Manuel Gómez,2014,6,Semantic Web
+10.3233/sw-223026,Instance level analysis on linked open data connectivity for cultural heritage entity linking and data integration,Go Sugimoto,2022,0,Semantic Web
+10.3233/sw-210443,Using the W3C Generating RDF from Tabular Data on the Web recommendation to manage small Wikidata datasets,Steven J. Baskauf and Jessica K. Baskauf,2022,0,Semantic Web
+10.3233/sw-180310,Comparison and evaluation of ontologies for units of measurement,Jan Martin Keil and Sirko Schindler,2018,23,Semantic Web
+10.3233/sw-2011-0026,OWLIM: A family of scalable semantic repositories,Barry Bishop and Atanas Kiryakov and Damyan Ognyanoff and Ivan Peikov and Zdravko Tashev and Ruslan Velkov,2011,91,Semantic Web
+10.3233/sw-140146,An OWL ontology library representing judicial interpretations,Marcello Ceci and Aldo Gangemi,2016,9,Semantic Web
+10.3233/sw-2010-0008,Accessing the Web of Data through embodied virtual characters,Philipp Cimiano and Stefan Kopp,2010,6,Semantic Web
+10.3233/sw-190348,Building relatedness explanations from knowledge graphs,Giuseppe Pirrò,2019,2,Semantic Web
+10.3233/sw-222918,Building spatio-temporal knowledge graphs from vectorized topographic historical maps,Basel Shbita and Craig A. Knoblock and Weiwei Duan and Yao-Yi Chiang and Johannes H. Uhl and Stefan Leyk,2022,0,Semantic Web
+10.3233/sw-150203,Darwin-SW: Darwin Core-based terms for expressing biodiversity data as RDF,Steven J. Baskauf and Campbell O. Webb,2016,14,Semantic Web
+10.3233/sw-190347,Using knowledge anchors to facilitate user exploration of data graphs,Marwan Al-Tawil and Vania Dimitrova and Dhavalkumar Thakker,2020,6,Semantic Web
+10.3233/sw-2012-0088,Applying linked data approaches to pharmacology: Architectural decisions and implementation,Alasdair J.G. Gray and Paul Groth and Antonis Loizou and Sune Askjaer and Christian Brenninkmeijer and Kees Burger and Christine Chichester and Chris T. Evelo and Carole Goble and Lee Harland and Steve Pettifer and Mark Thompson and Andra Waagmeester and Antony J. Williams,2014,32,Semantic Web
+10.3233/sw-200406,Combining chronicle mining and semantics for predictive maintenance in manufacturing processes,Qiushi Cao and Ahmed Samet and Cecilia Zanni-Merk and François de Bertrand de Beuvron and Christoph Reich,2020,9,Semantic Web
+10.3233/sw-200383,S-Paths: Set-based visual exploration of linked data driven by semantic paths,Marie Destandau and Caroline Appert and Emmanuel Pietriga,2020,3,Semantic Web
+10.3233/sw-2010-0002,The Semantic Web needs more cognition,Martin Raubal and Benjamin Adams,2010,4,Semantic Web
+10.3233/sw-130117,"Linked Data, Big Data, and the 4th Paradigm",Pascal Hitzler and Krzysztof Janowicz,2013,88,Semantic Web
+10.3233/sw-140159,"lemonUby – A large, interlinked, syntactically-rich lexical resource for ontologies",Judith Eckle-Kohler and John Philip McCrae and Christian Chiarcos,2015,22,Semantic Web
+10.3233/sw-2011-0025,The OWL API: A Java API for OWL ontologies,Matthew Horridge and Sean Bechhofer,2011,399,Semantic Web
+10.3233/sw-180340,A visual modeling approach for the Semantic Web Rule Language,Benedikt Pittl and Hans-Georg Fill,2020,7,Semantic Web
+10.3233/sw-160239,Detecting Linked Data quality issues via crowdsourcing: A DBpedia study,Maribel Acosta and Amrapali Zaveri and Elena Simperl and Dimitris Kontokostas and Fabian Flöck and Jens Lehmann,2018,15,Semantic Web
+10.3233/sw-140145,"OntoWiki – An authoring, publication and visualization interface for the Data Web",Philipp Frischmuth and Michael Martin and Sebastian Tramp and Thomas Riechert and Sören Auer,2015,12,Semantic Web
+10.3233/sw-150170,2nd special issue on Linked Dataset Descriptions,Jens Lehmann and Oscar Corcho,2015,3,Semantic Web
+10.3233/sw-140165,The Semantic Web for all,Christophe Guéret and Stephane Boyera and Mike Powell and Martin Murillo,2015,3,Semantic Web
+10.3233/sw-130120,Hybrid reasoning on OWL RL,Jacopo Urbani and Robert Piro and Frank van Harmelen and Henri Bal,2014,11,Semantic Web
+10.3233/sw-130123,Linked SDMX Data,Sarven Capadisli and Sören Auer and Axel-Cyrille Ngonga Ngomo,2015,21,Semantic Web
+10.3233/sw-140155,Public spending as LOD: The case of Greece,Michalis Vafopoulos and Marios Meimaris and Ioannis Anagnostopoulos and Agis Papantoniou and Ioannis Xidias and Giorgos Alexiou and Giorgos Vafeiadis and Michalis Klonaras and Vassili Loumos,2015,6,Semantic Web
+10.3233/sw-180314,Machine learning in the Internet of Things: A semantic-enhanced approach,Michele Ruta and Floriano Scioscia and Giuseppe Loseto and Agnese Pinto and Eugenio Di Sciascio,2018,22,Semantic Web
+10.3233/sw-2011-0052,LinkedGeoData: A core for a web of spatial open data,Claus Stadler and Jens Lehmann and Konrad Höffner and Sören Auer,2012,179,Semantic Web
+10.3233/sw-190361,Vecsigrafo: Corpus-based word-concept embeddings,Ronald Denaux and Jose Manuel Gomez-Perez,2019,5,Semantic Web
+10.3233/sw-2011-0037,Approaches to visualising Linked Data: A survey,Aba-Sah Dadzie and Matthew Rowe,2011,121,Semantic Web
+10.3233/sw-170270,Survey on ontologies for affective states and their influences,Rana Abaalkhail and Benjamin Guthier and Rajwa Alharthi and Abdulmotaleb El Saddik,2018,15,Semantic Web
+10.3233/sw-190381,Semantics for Cyber-Physical Systems: A cross-domain perspective,Marta Sabou and Stefan Biffl and Alfred Einfalt and Lukas Krammer and Wolfgang Kastner and Fajar J. Ekaputra,2020,8,Semantic Web
+10.3233/sw-200370,"VocBench 3: A collaborative Semantic Web editor for ontologies, thesauri and lexicons",Armando Stellato and Manuel Fiorelli and Andrea Turbati and Tiziano Lorenzetti and Willem van Gemert and Denis Dechandon and Christine Laaboudi-Spoiden and Anikó Gerencsér and Anne Waniart and Eugeniu Costetchi and Johannes Keizer,2020,17,Semantic Web
+10.3233/sw-190362,Semantic referee: A neural-symbolic framework for enhancing geospatial semantic segmentation,Marjan Alirezaie and Martin Längkvist and Michael Sioutis and Amy Loutfi,2019,14,Semantic Web
+10.3233/sw-200397,Typology-based semantic labeling of numeric tabular data,Ahmad Alobaid and Emilia Kacprzak and Oscar Corcho,2020,2,Semantic Web
+10.3233/sw-190343,Towards a question answering system over the Semantic Web,Dennis Diefenbach and Andreas Both and Kamal Singh and Pierre Maret,2020,40,Semantic Web
+10.3233/sw-200371,A decade of Semantic Web research through the lenses of a mixed methods approach,Sabrina Kirrane and Marta Sabou and Javier D. Fernández and Francesco Osborne and Cécile Robin and Paul Buitelaar and Enrico Motta and Axel Polleres,2020,4,Semantic Web
+10.3233/sw-170267,A comprehensive quality model for Linked Data,Filip Radulovic and Nandana Mihindukulasooriya and Raúl García-Castro and Asunción Gómez-Pérez,2017,33,Semantic Web
+10.3233/sw-223188,"Towards a formal ontology of engineering functions, behaviours, and capabilities",Francesco Compagno and Stefano Borgo,2023,0,Semantic Web
+10.3233/sw-160218,Knowledge graph refinement: A survey of approaches and evaluation methods,Heiko Paulheim,2016,509,Semantic Web

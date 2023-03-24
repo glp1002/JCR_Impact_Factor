@@ -1,0 +1,459 @@
+DOI,Título,Autores,Año,Citas,Revista
+10.1007/s10601-015-9220-z,Declarative pattern mining using constraint programming,Tias Guns,2015,2,Constraints
+10.1007/s10601-015-9230-x,Probabilistic constraint reasoning,Elsa Carvalho,2015,0,Constraints
+10.1007/s10601-007-9040-x,"Combining Tree Partitioning, Precedence, and Incomparability Constraints",Nicolas Beldiceanu and Pierre Flener and Xavier Lorca,2008,8,Constraints
+10.1007/s10601-006-8055-z,Introduction to the Special Issue on Principles and Practice of Constraint Programming (CP 2005),Barry O’Sullivan and Peter van Beek,2006,0,Constraints
+10.1007/s10601-016-9244-z,Breaking symmetries in graph search with canonizing sets,Avraham Itzhakov and Michael Codish,2016,7,Constraints
+10.1007/s10601-015-9203-0,Fleet design optimisation from historical data using constraint programming and large neighbourhood search,Philip Kilby and Tommaso Urli,2016,7,Constraints
+10.1007/s10601-006-8057-x,Gene Freuder and the Roots of Constraint Computation,David L. Waltz,2006,1,Constraints
+10.1007/s10601-012-9132-0,On the reification of global constraints,Nicolas Beldiceanu and Mats Carlsson and Pierre Flener and Justin Pearson,2013,18,Constraints
+10.1007/s10601-007-9015-y,A Constraint-based Approach for Annotating Music Scores with Gestural Information,Daniele P. Radicioni and Vincenzo Lombardo,2007,4,Constraints
+10.1007/s10601-007-9025-9,Maxx: Test Pattern Optimisation with Local Search Over an Extended Logic,Francisco Azevedo,2007,0,Constraints
+10.1023/b:cons.0000036021.31386.cc,"Constraint Solving for Term Orderings Compatible with Abelian Semigroups, Monoids and Groups",Guillem Godoy and Robert Nieuwenhuis,2004,0,Constraints
+10.1007/s10601-004-5305-9,Solving Kirkman?s Schoolgirl Problem in a Few Seconds,Nicolas Barnier and Pascal Brisset,2005,9,Constraints
+10.1007/s10601-010-9096-x,Introduction to the special issue on Constraint-based approaches to Preference Modelling and Reasoning,Pedro Meseguer and Francesca Rossi and Thomas Schiex,2010,0,Constraints
+10.1007/s10601-007-9032-x,Efficient Sequence Alignment with Side-Constraints by Cluster Tree Elimination,Sebastian Will and Anke Busch and Rolf Backofen,2008,1,Constraints
+10.1007/s10601-007-9024-x,Automatic Generation of Redundant Models for Permutation Constraint Satisfaction Problems,Yat Chiu Law and Jimmy H. M. Lee and Barbara M. Smith,2007,4,Constraints
+10.1007/s10601-015-9219-5,Decision support for disaster management through hybrid optimization,Carleton Coffrin,2015,0,Constraints
+10.1007/s10601-016-9259-5,Combining techniques of bounded model checking and constraint programming to aid for error localization,Mohammed Bekkouche,2017,0,Constraints
+10.1023/a:1009872918405,n.m.,Maroua Bouzid and Antoni Ligeza,2000,5,Constraints
+10.1023/a:1015109732002,n.m.,C. K. Chiu and C. M. Chou and J. H. M. Lee and H. F. Leung and Y. W. Leung,2002,23,Constraints
+10.1007/s10601-004-5304-x,Introduction to the Special Issue on Principles and Practice of Constraint Programming,Pascal Van Hentenryck,2005,0,Constraints
+10.1007/s10601-012-9134-y,"On matrices, automata, and double counting in constraint programming",Nicolas Beldiceanu and Mats Carlsson and Pierre Flener and Justin Pearson,2013,2,Constraints
+10.1023/b:cons.0000024048.03454.c0,A Comparison between SAT and CSP Techniques,Hachemi Bennaceur,2004,8,Constraints
+10.1007/s10601-015-9184-z,A constraint-based local search backend for MiniZinc,Gustav Björdal and Jean-Noël Monette and Pierre Flener and Justin Pearson,2015,14,Constraints
+10.1007/s10601-008-9053-0,Efficient handling of universally quantified inequalities,Alexandre Goldsztejn and Claude Michel and Michel Rueher,2009,7,Constraints
+10.1007/s10601-012-9135-x,Domain consistency with forbidden values,Yves Deville and Pascal Van Hentenryck and Jean-Baptiste Mairy,2013,0,Constraints
+10.1007/s10601-007-9030-z,Introduction to the Special Issue on Bioinformatics and Constraints,Alessandro Dal Palù and Agostino Dovier and Sebastian Will,2008,0,Constraints
+10.1007/s10601-015-9180-3,Adaptive constructive interval disjunction: algorithms and experiments,Bertrand Neveu and Gilles Trombettoni and Ignacio Araya,2015,7,Constraints
+10.1007/s10601-015-9188-8,A constraint programming approach to the additional relay placement problem in wireless sensor networks,Luis Quesada and Lanny Sitanayah and Kenneth N. Brown and Barry O’Sullivan and Cormac J. Sreenan,2015,2,Constraints
+10.1007/s10601-014-9160-z,Looking into the crystal-ball: a bright future for CP,Michela Milano and Pascal Van Hentenryck,2014,0,Constraints
+10.1007/s10601-007-9021-0,Generic Incremental Algorithms for Local Search,Magnus Ågren and Pierre Flener and Justin Pearson,2007,2,Constraints
+10.1007/s10601-020-09319-w,Introduction to the CPAIOR 2020 fast track issue,Emmanuel Hebrard and Nysret Musliu,2020,0,Constraints
+10.1023/a:1009878632517,n.m.,Rattana Wetprasit and Abdul Sattar and Lina Khatib,2000,4,Constraints
+10.1023/a:1020564731987,n.m.,Joxan Jaffar and Michael J. Maher,2002,0,Constraints
+10.1007/s10601-008-9063-y,Model-driven visualizations of constraint-based local search,Grégoire Dooms and Pascal Van Hentenryck and Laurent Michel,2009,3,Constraints
+10.1023/a:1009864716588,n.m.,N. D. Dendris and L. M. Kirousis and Y. C. Stamatiou and D. M. Thilikos,2000,0,Constraints
+10.1007/s10601-006-9011-7,Models for Global Constraint Applications,Helmut Simonis,2007,10,Constraints
+10.1023/a:1011454308633,n.m.,Ian P. Gent and Ewan Macintyre and Patrick Prosser and Barbara M. Smith and Toby Walsh,2001,81,Constraints
+10.1007/s10601-017-9272-3,Mining Time-constrained Sequential Patterns with Constraint Programming,John O. R. Aoga and Tias Guns and Pierre Schaus,2017,11,Constraints
+10.1007/s10601-019-09307-9,XCSP3 and its ecosystem,Gilles Audemard and Frédéric Boussemart and Christophe Lecoutre and Cédric Piette and Olivier Roussel,2020,0,Constraints
+10.1023/a:1025623111033,n.m.,David Cohen and Peter Jeavons and Richard Gault,2003,2,Constraints
+10.1007/s10601-014-9158-6,Qualitative modelling via constraint programming,Thomas W. Kelsey and Lars Kotthoff and Christopher A. Jefferson and Stephen A. Linton and Ian Miguel and Peter Nightingale and Ian P. Gent,2014,3,Constraints
+10.1023/b:cons.0000049204.75635.7e,Compiling CSPs into Tree-Driven Automata for Interactive Solving,Hélène Fargier and Marie-Catherine Vilarem,2004,9,Constraints
+10.1007/s10601-016-9257-7,What is answer set programming to propositional satisfiability,Yuliya Lierler,2017,6,Constraints
+10.1007/s10601-013-9149-z,The future of optimization technology,Maria Garcia de la Banda and Peter J. Stuckey and Pascal Van Hentenryck and Mark Wallace,2014,10,Constraints
+10.1007/s10601-011-9110-y,New algorithms for max restricted path consistency,Thanasis Balafoutis and Anastasia Paparrizou and Kostas Stergiou and Toby Walsh,2011,13,Constraints
+10.1007/s10601-013-9146-2,Iterative and core-guided MaxSAT solving: A survey and assessment,Antonio Morgado and Federico Heras and Mark Liffiton and Jordi Planes and Joao Marques-Silva,2013,90,Constraints
+10.1023/a:1025842019552,n.m.,Jeremy Frank and Ari Jónsson,2003,100,Constraints
+10.1007/s10601-014-9166-6,Explanation-based large neighborhood search,Charles Prud’homme and Xavier Lorca and Narendra Jussien,2014,6,Constraints
+10.1023/a:1011409029226,n.m.,Kay C. Wiese and Scott D. Goodwin,2001,20,Constraints
+10.1007/s10601-009-9087-y,An MDD-based generalized arc consistency algorithm for positive and negative table constraints and some global constraints,Kenil C. K. Cheng and Roland H. C. Yap,2010,42,Constraints
+10.1007/s10601-007-9020-1,Local Search-based Hybrid Algorithms for Finding Golomb Rulers,Carlos Cotta and Iván Dotú and Antonio J. Fernández and Pascal Van Hentenryck,2007,20,Constraints
+10.1007/s10601-006-7095-8,Symmetry Breaking Constraints for Value Symmetries in Constraint Satisfaction,Y. C. Law and J. H. M. Lee,2006,26,Constraints
+10.1007/s10601-006-7094-9,Constraint Models for the Covering Test Problem,Brahim Hnich and Steven D. Prestwich and Evgeny Selensky and Barbara M. Smith,2006,88,Constraints
+10.1007/s10601-009-9076-1,Constraint propagation on quadratic constraints,Ferenc Domes and Arnold Neumaier,2010,23,Constraints
+10.1007/s10601-012-9131-1,Solving weighted CSPs with meta-constraints by reformulation into satisfiability modulo theories,Carlos Ansótegui and Miquel Bofill and Miquel Palahí and Josep Suy and Mateu Villaret,2013,8,Constraints
+10.1007/s10601-010-9101-4,Markov constraints: steerable generation of Markov sequences,François Pachet and Pierre Roy,2011,49,Constraints
+10.1007/s10601-018-9290-9,On a new extension of BTP for binary CSPs,Achref El Mouelhi,2018,0,Constraints
+10.1023/a:1017936325308,n.m.,Yu Zhang and Alan K. Mackworth,2002,5,Constraints
+10.1007/s10601-015-9232-8,Extending SMT solvers with support for finite domain alldifferent constraint,Milan Banković,2016,1,Constraints
+10.1007/s10601-005-2809-x,Reformulation of Global Constraints Based on Constraints Checkers,Nicolas Beldiceanu and Mats Carlsson and Romuald Debruyne and Thierry Petit,2005,16,Constraints
+10.1023/a:1009816801567,n.m.,Antonio J. Fernández and Patricia M. Hill,2000,20,Constraints
+10.1007/s10601-012-9120-4,Dulmage-Mendelsohn Canonical Decomposition as a generic pruning technique,Radosław Cymer,2012,4,Constraints
+10.1007/s10601-015-9234-6,A lagrangian propagator for artificial neural networks in constraint programming,Michele Lombardi and Stefano Gualandi,2016,8,Constraints
+10.1007/s10601-007-9039-3,Cost-Based Filtering Techniques for Stochastic Inventory Control Under Service Level Constraints,S. Armagan Tarim and Brahim Hnich and Roberto Rossi and Steven Prestwich,2009,12,Constraints
+10.1007/s10601-014-9168-4,Large-scale parallelism for constraint-based local search: the costas array case study,Yves Caniou and Philippe Codognet and Florian Richoux and Daniel Diaz and Salvador Abreu,2015,14,Constraints
+10.1007/s10601-006-9010-8,"Global Constraint Catalogue: Past, Present and Future",Nicolas Beldiceanu and Mats Carlsson and Sophie Demassey and Thierry Petit,2007,43,Constraints
+10.1023/a:1020565317875,n.m.,François Laburthe and Yves Caseau,2002,12,Constraints
+10.1023/a:1020506526052,n.m.,Jean-Charles Régin,2002,32,Constraints
+10.1007/s10601-015-9210-1,Instance-specific algorithm configuration,Yuri Malitsky,2015,1,Constraints
+10.1023/a:1022394531132,n.m.,Esther Gelle and Boi Faltings,2003,36,Constraints
+10.1007/s10601-008-9043-2,Domain Specific High-Level Constraints for User Interface Layout,Christof Lutteroth and Robert Strandh and Gerald Weber,2008,36,Constraints
+10.1007/s10601-006-9005-5,Nondeterministic Control for Hybrid Search,Pascal Van Hentenryck and Laurent Michel,2006,11,Constraints
+10.1007/s10601-015-9191-0,New filtering for AtMostNValue and its weighted variant: A Lagrangian approach,Hadrien Cambazard and Jean-Guillaume Fages,2015,5,Constraints
+10.1007/s10601-012-9139-6,Probabilistic constraints for nonlinear inverse problems,Elsa Carvalho and Jorge Cruz and Pedro Barahona,2013,4,Constraints
+10.1023/a:1020589922418,n.m.,Filippo Focacci and Andrea Lodi and Michela Milano,2002,36,Constraints
+10.1007/s10601-022-09340-1,The algebraic structure of the densification and the sparsification tasks for CSPs,Rustem Takhanov,2023,0,Constraints
+10.1007/s10601-007-9023-y,Stochastic Local Search Algorithms for Graph Set T-colouring and Frequency Assignment,Marco Chiarandini and Thomas Stützle,2007,19,Constraints
+10.1007/s10601-020-09315-0,The potential of quantum annealing for rapid solution structure identification,Yuchen Pang and Carleton Coffrin and Andrey Y. Lokhov and Marc Vuffray,2021,3,Constraints
+10.1007/s10601-015-9205-y,A commentary on “Hybrid search for minimal perturbation in Dynamic CSPs”,El Mehdi El Graoui and Imade Benelallam and El Houssine Bouyakhf,2016,0,Constraints
+10.1007/s10601-022-09334-z,Generative magic and designing magic performances with constraint programming,Guilherme de Azevedo Silveira,2022,0,Constraints
+10.1007/s10601-006-8058-9,Applying Ad-hoc Global Constraints with the $${\tt case}$$ Constraint to Still-Life,Kenil C. K. Cheng and Roland H. C. Yap,2006,5,Constraints
+10.1007/s10601-016-9246-x,Introduction to the fast track issue for CPAIOR 2016,Claude-Guy Quimper,2016,0,Constraints
+10.1007/s10601-017-9273-2,Introduction to the CPAIOR 2017 fast track issue,Domenico Salvagnin and Michele Lombardi,2017,0,Constraints
+10.1023/a:1011437706814,n.m.,Robert Rodošek,2001,1,Constraints
+10.1007/s10601-018-9292-7,Cost-based filtering algorithms for a Capacitated Lot Sizing Problem and the Constrained Arborescence Problem,Vinasetan Ratheil Houndji,2018,0,Constraints
+10.1007/s10601-017-9279-9,"Mixed model line balancing with parallel stations, zoning constraints, and ergonomics",Anas Alghazi and Mary E. Kurz,2018,28,Constraints
+10.1007/s10601-014-9162-x,The octagon abstract domain for continuous constraints,Marie Pelleau and Charlotte Truchet and Frédéric Benhamou,2014,5,Constraints
+10.1007/s10601-016-9262-x,Tractable classes for CSPs of arbitrary arity: from theory to practice,Achref El Mouelhi,2017,1,Constraints
+10.1007/s10601-019-09303-z,Constraint Games for stable and optimal allocation of demands in SDN,Anthony Palmieri and Arnaud Lallouet and Luc Pons,2019,0,Constraints
+10.1007/s10601-018-9296-3,Model counting with error-correcting codes,Dimitris Achlioptas and Panos Theodoropoulos,2019,0,Constraints
+10.1007/s10601-020-09309-y,Non-local configuration of component interfaces by constraint satisfaction,Olga Tveretina and Pavel Zaichenkov and Alex Shafarenko,2020,0,Constraints
+10.1007/s10601-015-9214-x,"On Algorithm Selection, with an application to combinatorial search problems",Lars Kotthoff,2015,0,Constraints
+10.1007/s10601-016-9254-x,Constraint programming for planning test campaigns of communications satellites,Emmanuel Hebrard and Marie-José Huguet and Daniel Veysseire and Ludivine Boche Sauvan and Bertrand Cabon,2017,1,Constraints
+10.1007/s10601-015-9227-5,Propagation techniques of resource constraint for cumulative scheduling,Roger Kameugne,2015,0,Constraints
+10.1007/s10601-009-9090-3,Introduction to the special issue on the Fourteenth International Conference on Principles and Practice of Constraint Programming (CP 2008),Peter J. Stuckey,2010,1,Constraints
+10.1007/s10601-015-9207-9,Parallel search for maximum satisfiability,Ruben Martins,2015,0,Constraints
+10.1007/s10601-007-9017-9,An Analysis of Arithmetic Constraints on Integer Intervals,Krzysztof R. Apt and Peter Zoeteweij,2007,7,Constraints
+10.1007/s10601-012-9118-y,Improvements of constraint programming and hybrid methods for scheduling of tests on vehicle prototypes,Kamol Limtanyakul and Uwe Schwiegelshohn,2012,4,Constraints
+10.1007/s10601-015-9206-x,Editor’s note,,2016,1,Constraints
+10.1007/s10601-015-9185-y,A hybrid tractable class for non-binary CSPs,Achref El Mouelhi and Philippe Jégou and Cyril Terrioux,2015,4,Constraints
+10.1007/s10601-011-9109-4,Constraint satisfaction for planning and scheduling problems,Roman Barták and Miguel A. Salido,2011,17,Constraints
+10.1007/s10601-022-09329-w,Solution sampling with random table constraints,Mathieu Vavrille and Charlotte Truchet and Charles Prud’homme,2022,0,Constraints
+10.1007/s10601-018-9293-6,Translation-based approaches for solving disjunctive temporal problems with preferences,Enrico Giunchiglia and Marco Maratea and Luca Pulina,2018,0,Constraints
+10.1023/b:cons.0000006181.40558.37,On Benchmarking Constraint Logic Programming Platforms. Response to Fernandez and Hill's “A Comparative Study of Eight Constraint Programming Languages over the Boolean and Finite Domains”,Mark Wallace and Joachim Schimpf and Kish Shen and Warwick Harvey,2004,10,Constraints
+10.1007/s10601-020-09318-x,Learn to relax: Integrating 0-1 integer linear programming with pseudo-Boolean conflict-driven search,Jo Devriendt and Ambros Gleixner and Jakob Nordström,2021,2,Constraints
+10.1007/s10601-012-9117-z,Partial symmetry breaking by local search in the group,Steve D. Prestwich and Brahim Hnich and Helmut Simonis and Roberto Rossi and S. Armagan Tarim,2012,3,Constraints
+10.1023/a:1025675127871,n.m.,Alain Colmerauer and Thi-Bich-Hanh Dao,2003,11,Constraints
+10.1007/s10601-009-9081-4,Erratum to “Reformulating table constraints using functional dependencies—an application to explanation generation”,Hadrien Cambazard and Barry O’Sullivan,2010,0,Constraints
+10.1007/s10601-008-9054-z,Relatively quantified constraint satisfaction,Manuel Bodirsky and Hubie Chen,2009,7,Constraints
+10.1007/s10601-017-9274-1,Accelerating exact and approximate inference for (distributed) discrete optimization with GPUs,Ferdinando Fioretto and Enrico Pontelli and William Yeoh and Rina Dechter,2018,8,Constraints
+10.1023/b:cons.0000006182.84033.6e,Disunification in ACI1 Theories,Agostino Dovier and Carla Piazza and Enrico Pontelli,2004,1,Constraints
+10.1007/s10601-011-9106-7,Data transfer planning with tree placement for collaborative environments,Petr Holub and Hana Rudová and Miloš Liška,2011,8,Constraints
+10.1007/s10601-018-9283-8,Modeling uncertainties with chance constraints,Imen Zghidi and Brahim Hnich and Abdelwaheb Rebaï,2018,2,Constraints
+10.1007/s10601-013-9147-1,Redundant disequalities in the Latin Square problem,Bart Demoen and Maria Garcia de la Banda,2013,0,Constraints
+10.1007/s10601-008-9045-0,Introduction to the Special Issue on Abstraction and Automation in Constraint Modelling,Alan M. Frisch and Ian Miguel,2008,0,Constraints
+10.1007/s10601-007-9018-8,Introduction to the Special Issue on Local Search Techniques in Constraint Satisfaction,Yehuda Naveh and Andrea Roli,2007,0,Constraints
+10.1007/s10601-018-9291-8,Introduction to the CPAIOR 2018 fast track issue,Willem-Jan van Hoeve,2018,0,Constraints
+10.1023/a:1009874519069,n.m.,Yves Caseau and Francois Laburthe,2000,3,Constraints
+10.1007/s10601-010-9102-3,Constraint programming approach to a bilevel scheduling problem,András Kovács and Tamás Kis,2011,3,Constraints
+10.1007/s10601-016-9247-9,"Report from the Editor in Chief, year 2015",Michela Milano,2017,0,Constraints
+10.1007/s10601-015-9222-x,Scaling DCOP algorithms for cooperative multi-agent coordination,Marc Pujol-Gonzalez,2015,1,Constraints
+10.1023/a:1025671026963,n.m.,Cristian Coarfa and Demetrios D. Demopoulos and Alfonso San Miguel Aguirre and Devika Subramanian and Moshe Y. Vardi,2003,8,Constraints
+10.1007/s10601-017-9277-y,How efficient is a global constraint in practice?,Sascha Van Cauwelaert and Michele Lombardi and Pierre Schaus,2018,1,Constraints
+10.1007/s10601-018-9298-1,Neighborhood singleton consistencies,Kostas Stergiou,2019,1,Constraints
+10.1007/s10601-020-09316-z,A new constraint programming model and solving for the cyclic hoist scheduling problem,Mark Wallace and Neil Yorke-Smith,2020,3,Constraints
+10.1007/s10601-013-9153-3,Collective decision making: a great opportunity for constraint reasoning,Francesca Rossi,2014,3,Constraints
+10.1023/a:1009801426289,n.m.,Detlev Zimmermann,2001,4,Constraints
+10.1023/a:1009808327381,n.m.,Philip Kilby and Patrick Prosser and Paul Shaw,2000,41,Constraints
+10.1007/s10601-005-2814-0,Extension of O(n log n) Filtering Algorithms for the Unary Resource Constraint to Optional Activities,Petr Vilím and Roman Barták and Ondřej Čepek,2005,20,Constraints
+10.1007/s10601-016-9240-3,"Computing the Ramsey number R(4,3,3) using abstraction and symmetry breaking",Michael Codish and Michael Frank and Avraham Itzhakov and Alice Miller,2016,6,Constraints
+10.1007/s10601-016-9248-8,"Combining restarts, nogoods and bag-connected decompositions for solving CSPs",Philippe Jégou and Cyril Terrioux,2017,1,Constraints
+10.1023/a:1021994510966,n.m.,Philippe Codognet and Francesca Rossi,2003,6,Constraints
+10.1007/s10601-022-09332-1,Fast and parallel decomposition of constraint satisfaction problems,Georg Gottlob and Cem Okulmus and Reinhard Pichler,2022,0,Constraints
+10.1007/s10601-015-9233-7,Three generalizations of the FOCUS constraint,Nina Narodytska and Thierry Petit and Mohamed Siala and Toby Walsh,2016,1,Constraints
+10.1023/a:1011481521835,n.m.,Ingvar Eidhammer and Inge Jonassen and Svenn Helge Grindhaug and David Gilbert and Madu Ratnayake,2001,5,Constraints
+10.1007/s10601-012-9126-y,Interval-based projection method for under-constrained numerical systems,Daisuke Ishii and Alexandre Goldsztejn and Christophe Jermann,2012,17,Constraints
+10.1007/s10601-022-09326-z,Concise integer linear programming formulation for clique partitioning problems,Miyuki Koshimura and Emi Watanabe and Yuko Sakurai and Makoto Yokoo,2022,0,Constraints
+10.1023/a:1011433605905,n.m.,Christine Gaspin,2001,5,Constraints
+10.1007/s10601-007-9034-8,Modeling Biological Systems in Stochastic Concurrent Constraint Programming,Luca Bortolussi and Alberto Policriti,2008,36,Constraints
+10.1007/s10601-010-9098-8,Preference reasoning with soft constraints in constraint-based recommender systems,Markus Zanker and Markus Jessenitschnig and Wolfgang Schmid,2010,27,Constraints
+10.1007/s10601-010-9095-y,Solving satisfiability problems with preferences,Emanuele Di Rosa and Enrico Giunchiglia and Marco Maratea,2010,36,Constraints
+10.1023/a:1009804226473,n.m.,Klaus Schild and Jörg Würtz,2000,23,Constraints
+10.1007/s10601-006-8059-8,Symmetry Definitions for Constraint Satisfaction Problems,David Cohen and Peter Jeavons and Christopher Jefferson and Karen E. Petrie and Barbara M. Smith,2006,33,Constraints
+10.1007/s10601-005-2811-3,Contraint-Based Combinators for Local Search,Pascal Van Hentenryck and Laurent Michel and Liyuan Liu,2005,4,Constraints
+10.1007/s10601-013-9144-4,Nogood-based asynchronous forward checking algorithms,Mohamed Wahbi and Redouane Ezzahir and Christian Bessiere and El Houssine Bouyakhf,2013,11,Constraints
+10.1007/s10601-006-6847-9,On Topological Consistency and Realization,Sanjiang Li,2006,22,Constraints
+10.1007/s10601-015-9193-y,Lagrangian bounds from decision diagrams,David Bergman and Andre A. Cire and Willem-Jan van Hoeve,2015,15,Constraints
+10.1007/s10601-018-9281-x,IBM ILOG CP optimizer for scheduling,Philippe Laborie and Jérôme Rogerie and Paul Shaw and Petr Vilím,2018,130,Constraints
+10.1007/s10601-010-9105-0,Cardinality Networks: a theoretical and empirical study,Roberto Asín and Robert Nieuwenhuis and Albert Oliveras and Enric Rodríguez-Carbonell,2011,72,Constraints
+10.1007/s10601-005-2239-9,Constraint Solving in Uncertain and Dynamic Environments: A Survey,Gérard Verfaillie and Narendra Jussien,2005,59,Constraints
+10.1007/s10601-010-9099-7,Interleaving solving and elicitation of constraint satisfaction problems based on expected cost,Nic Wilson and Diarmuid Grimes and Eugene C. Freuder,2010,1,Constraints
+10.1007/s10601-010-9091-2,Editor’s note,Gilles Pesant,2010,0,Constraints
+10.1007/s10601-015-9199-5,General game playing with stochastic CSP,Frédéric Koriche and Sylvain Lagrue and Éric Piette and Sébastien Tabary,2016,4,Constraints
+10.1007/s10601-020-09308-z,Invariants for time-series constraints,Ekaterina Arafailova and Nicolas Beldiceanu and Helmut Simonis,2020,1,Constraints
+10.1007/s10601-009-9089-9,CPBPV: a constraint-programming framework for bounded program verification,Hélène Collavizza and Michel Rueher and Pascal Van Hentenryck,2010,20,Constraints
+10.1007/s10601-015-9229-3,PhD theses in constraints 2012–2015,Guido Tack and Christopher Mears,2015,0,Constraints
+10.1007/s10601-012-9133-z,View-based propagator derivation,Christian Schulte and Guido Tack,2013,10,Constraints
+10.1007/s10601-021-09325-6,Variable ordering for decision diagrams: A portfolio approach,Anthony Karahalios and Willem-Jan van Hoeve,2022,0,Constraints
+10.1023/a:1009849309451,n.m.,Camilo Rueda and Gloria Alvarez and Luis O. Quesada and Gabriel Tamura and Frank Valencia and Juan Francisco Díaz and Gerard Assayag,2001,6,Constraints
+10.1007/s10601-014-9171-9,Improving the lower bound of simple tabular reduction,Christophe Lecoutre and Chavalit Likitvivatanavong and Roland H. C. Yap,2015,1,Constraints
+10.1023/a:1025848402714,n.m.,Alexander Nareyek and Subbarao Kambhampati,2003,0,Constraints
+10.1007/s10601-014-9164-8,Graph coloring inequalities from all-different systems,David Bergman and J. N. Hooker,2014,6,Constraints
+10.1007/s10601-014-9174-6,Ultra-weak solutions and consistency enforcement in minimax weighted constraint satisfaction,Arnaud Lallouet and Jimmy H. M. Lee and Terrence W. K. Mak and Justin Yip,2015,1,Constraints
+10.1023/a:1009870418160,n.m.,Noëlle Bleuzen-Guernalec and Alain Colmerauer,2000,11,Constraints
+10.1007/s10601-015-9216-8,Efficient algorithms for strong local consistencies and adaptive techniques in constraint satisfaction problems,Anastasia Paparrizou,2015,1,Constraints
+10.1023/b:cons.0000036022.69023.26,EvIA - Evidential Interval Algebra and Heuristic Backtrack-Free Algorithm,S. Durga Bhavani and Arun K. Pujari,2004,0,Constraints
+10.1007/s10601-007-9028-6,Evaluating ASP and Commercial Solvers on the CSPLib,Toni Mancini and Davide Micaletto and Fabio Patrizi and Marco Cadoli,2008,8,Constraints
+10.1007/s10601-013-9152-4,Toward sustainable development in constraint programming,Nicolas Beldiceanu and Pierre Flener and Jean-Noël Monette and Justin Pearson and Helmut Simonis,2014,3,Constraints
+10.1007/s10601-016-9260-z,Beyond the structure of SAT formulas,Jesús Giráldez-Cru,2017,1,Constraints
+10.1007/s10601-008-9056-x,Introduction to the special issue on quantified CSPs and QBF,Enrico Giunchglia and Kostas Stergiou,2009,0,Constraints
+10.1007/s10601-006-8056-y,A Tribute to Eugene Freuder,Alan K. Mackworth,2006,0,Constraints
+10.1007/s10601-009-9082-3,A new framework for sharp and efficient resolution of NCSP with manifolds of solutions,Alexandre Goldsztejn and Laurent Granvilliers,2010,11,Constraints
+10.1007/s10601-006-9000-x,Introduction to the Special Issue on the Integration of AI and OR Techniques in CP for Combinatorial Optimization (CPAIOR 2005),Roman Barták and Michela Milano,2006,0,Constraints
+10.1007/s10601-013-9140-8,View-based propagation of decomposable constraints,Marco Correia and Pedro Barahona,2013,1,Constraints
+10.1007/s10601-012-9130-2,Reformulation based MaxSAT robustness,Miquel Bofill and Dídac Busquets and Víctor Muñoz and Mateu Villaret,2013,3,Constraints
+10.1007/s10601-005-2238-x,Rewriting Union Queries Using Views,J. Wang and R. Topor and M. Maher,2005,5,Constraints
+10.1007/s10601-015-9221-y,Decision diagrams for optimization,Andre Augusto Cire,2015,0,Constraints
+10.1007/s10601-012-9127-x,A complexity perspective on entailment of parameterized linear constraints,Pavlos Eirinakis and Salvatore Ruggieri and K. Subramani and Piotr Wojciechowski,2012,1,Constraints
+10.1007/s10601-020-09313-2,On certifying the UNSAT result of dynamic symmetry-handling-based SAT solvers,Rodrigue Konan Tchinda and Clémentin Tayou Djamegni,2020,0,Constraints
+10.1007/s10601-017-9269-y,Efficient filtering for the Resource-Cost AllDifferent constraint,Sascha Van Cauwelaert and Pierre Schaus,2017,0,Constraints
+10.1007/s10601-007-9035-7,Boosting Haplotype Inference with Local Search,Inês Lynce and João Marques-Silva and Steve Prestwich,2008,11,Constraints
+10.1007/s10601-017-9278-x,Improved filtering for the bin-packing with cardinality constraint,Guillaume Derval and Jean-Charles Régin and Pierre Schaus,2018,1,Constraints
+10.1023/a:1009825009635,n.m.,J. Christopher Beck and Andrew J. Davenport and Claude Le Pape,2000,0,Constraints
+10.1007/s10601-016-9238-x,ℚ-bounds consistency for the spread constraint with variable mean,Soon Chee Loong and Wen-Yang Ku and J. Christopher Beck,2016,0,Constraints
+10.1023/a:1015157615164,n.m.,Hoong Chuin Lau,2002,7,Constraints
+10.1007/s10601-007-9016-x,A CSP Search Algorithm with Responsibility Sets and Kernels,Igor Razgon and Amnon Meisels,2007,1,Constraints
+10.1007/s10601-018-9288-3,Intruder alert! Optimization models for solving the mobile robot graph-clear problem,Michael Morin and Margarita P. Castro and Kyle E. C. Booth and Tony T. Tran and Chang Liu and J. Christopher Beck,2018,1,Constraints
+10.1007/s10601-020-09314-1,Exact and flexible solution approach to a critical chain project management problem,Hiroyuki Goto and Alan T. Murray,2020,0,Constraints
+10.1007/s10601-017-9268-z,A global constraint for over-approximation of real-time streams,Anicet Bart and Charlotte Truchet and Eric Monfroy,2017,0,Constraints
+10.1007/s10601-021-09323-8,Complete symmetry breaking constraints for the class of uniquely Hamiltonian graphs,Avraham Itzhakov and Michael Codish,2022,0,Constraints
+10.1023/b:cons.0000049205.05581.24,Decision Tradeoff Using Example-Critiquing and Constraint Programming,Pearl Pu and Boi Faltings,2004,31,Constraints
+10.1023/a:1020510611031,n.m.,Javier Larrosa and Pedro Meseguer,2002,7,Constraints
+10.1023/b:cons.0000024047.02149.64,A General Qualitative Framework for Temporal and Spatial Reasoning,Jean-François Condotta,2004,1,Constraints
+10.1007/s10601-015-9181-2,Structural decompositions for problems with global constraints,Evgenij Thorstensen,2016,0,Constraints
+10.1023/a:1009859408542,n.m.,Francois Pachet and Philippe Codognet,2001,1,Constraints
+10.1023/b:cons.0000049203.53383.c1,CLPGUI: A Generic Graphical User Interface for Constraint Logic Programming,François Fages and Sylvain Soliman and Rémi Coolen,2004,4,Constraints
+10.1007/s10601-006-9004-6,Multiconsistency and Robustness with Global Constraints,Khaled Elbassioni and Irit Katriel,2006,1,Constraints
+10.1007/s10601-021-09322-9,Correct approximation of IEEE 754 floating-point arithmetic for program verification,Roberto Bagnara and Abramo Bagnara and Fabio Biselli and Michele Chiari and Roberta Gori,2022,1,Constraints
+10.1007/s10601-015-9223-9,On the use of graphs within constraint-programming,Jean-Guillaume Fages,2015,6,Constraints
+10.1007/s10601-013-9151-5,Propagation engine prototyping with a domain specific language,Charles Prud’homme and Xavier Lorca and Rémi Douence and Narendra Jussien,2014,4,Constraints
+10.1007/s10601-022-09337-w,Short- and medium-term optimization of underground mine planning using constraint programming,Louis-Pierre Campeau and Michel Gamache,2022,0,Constraints
+10.1007/s10601-015-9202-1,Visual search tree profiling,Maxim Shishmarev and Christopher Mears and Guido Tack and Maria Garcia de la Banda,2016,8,Constraints
+10.1007/s10601-014-9173-7,Dominance breaking constraints,Geoffrey Chu and Peter J. Stuckey,2015,5,Constraints
+10.1023/a:1020513316058,n.m.,Kim Marriott and Sitt Sen Chok,2002,17,Constraints
+10.1007/s10601-007-9022-z,Satisfiability Testing of Boolean Combinations of Pseudo-Boolean Constraints using Local-search Techniques,Lengning Liu and Mirosław Truszczyński,2007,3,Constraints
+10.1023/a:1022371615202,n.m.,Kim Marriott and Peter Stuckey and Vincent Tam and Weiqing He,2003,24,Constraints
+10.1007/s10601-005-2237-y,Complete Bound Consistency for the Global Cardinality Constraint,Irit Katriel and Sven Thiel,2005,14,Constraints
+10.1007/s10601-008-9065-9,Solution counting algorithms for constraint-centered search heuristics,Alessandro Zanarini and Gilles Pesant,2009,13,Constraints
+10.1007/s10601-022-09327-y,Learning the travelling salesperson problem requires rethinking generalization,Chaitanya K. Joshi and Quentin Cappart and Louis-Martin Rousseau and Thomas Laurent,2022,0,Constraints
+10.1007/s10601-006-8060-2,An Integrated Method for Planning and Scheduling to Minimize Tardiness,J. N. Hooker,2006,19,Constraints
+10.1007/s10601-020-09317-y,Power of pre-processing: production scheduling with variable energy pricing and power-saving states,Ondřej Benedikt and István Módos and Zdeněk Hanzálek,2020,1,Constraints
+10.1007/s10601-005-2812-2,A Hybrid Method for the Planning and Scheduling,J. N. Hooker,2005,68,Constraints
+10.1007/s10601-022-09328-x,How constraint programming can help chemists to generate Benzenoid structures and assess the local Aromaticity of Benzenoids,Yannick Carissan and Denis Hagebaum-Reignier and Nicolas Prcovic and Cyril Terrioux and Adrien Varet,2022,0,Constraints
+10.1007/s10601-022-09333-0,When bounds consistency implies domain consistency for regular counting constraints,Barnaby Martin and Justin Pearson,2022,0,Constraints
+10.1007/s10601-022-09335-y,A collection of Constraint Programming models for the three-dimensional stable matching problem with cyclic preferences,Ágnes Cseh and Guillaume Escamocher and Begüm Genç and Luis Quesada,2022,0,Constraints
+10.1023/a:1009805527198,n.m.,Muriel Jourdan and Cécile Roisin and Laurent Tardif,2001,5,Constraints
+10.1007/s10601-018-9287-4,Online over time processing of combinatorial problems,Robinson Duque and Alejandro Arbelaez and Juan F. Díaz,2018,2,Constraints
+10.1007/s10601-021-09321-w,Cable tree wiring - benchmarking solvers on a real-world scheduling problem with a variety of precedence constraints,Jana Koehler and Josef Bürgler and Urs Fontana and Etienne Fux and Florian Herzog and Marc Pouly and Sophia Saller and Anastasia Salyaeva and Peter Scheiblechner and Kai Waelti,2021,2,Constraints
+10.1007/s10601-019-09306-w,Integrated integer programming and decision diagram search tree with an application to the maximum independent set problem,Jaime E. González and Andre A. Cire and Andrea Lodi and Louis-Martin Rousseau,2020,7,Constraints
+10.1023/a:1015105531094,n.m.,Naoufel Werghi and Robert Fisher and Anthony Ashbrook and Craig Robertson,2002,6,Constraints
+10.1023/a:1015131814255,n.m.,Allen Leung and Krishna V. Palem and Amir Pnueli,2002,2,Constraints
+10.1023/a:1009853410360,n.m.,Zsofia Ruttkay,2001,8,Constraints
+10.1023/a:1025846120461,n.m.,Alfonso Gerevini and Ivan Serina,2003,11,Constraints
+10.1007/s10601-007-9038-4,A Global Chance-Constraint for Stochastic Inventory Systems Under Service Level Constraints,Roberto Rossi and S. Armagan Tarim and Brahim Hnich and Steven Prestwich,2008,28,Constraints
+10.1007/s10601-008-9051-2,A self-adaptive multi-engine solver for quantified Boolean formulas,Luca Pulina and Armando Tacchella,2009,46,Constraints
+10.1007/s10601-009-9085-0,Dantzig-Wolfe decomposition and branch-and-price solving in G12,Jakob Puchinger and Peter J. Stuckey and Mark G. Wallace and Sebastian Brand,2011,16,Constraints
+10.1007/s10601-011-9107-6,STR2: optimized simple tabular reduction for table constraints,Christophe Lecoutre,2011,40,Constraints
+10.1007/s10601-013-9157-z,A quadratic edge-finding filtering algorithm for cumulative resource constraints,Roger Kameugne and Laure Pauline Fotso and Joseph Scott and Youcheu Ngo-Kateu,2014,5,Constraints
+10.1007/s10601-007-9026-8,A Constraint-Based Autonomous 3D Camera System,Owen Bourne and Abdul Sattar and Scott Goodwin,2008,12,Constraints
+10.1007/s10601-022-09339-8,Towards better heuristics for solving bounded model checking problems,Anissa Kheireddine and Etienne Renault and Souheib Baarir,2023,0,Constraints
+10.1007/s10601-006-9003-7,A Cost-Regular Based Hybrid Column Generation Approach,Sophie Demassey and Gilles Pesant and Louis-Martin Rousseau,2006,70,Constraints
+10.1007/s10601-013-9142-6,Balancing and scheduling of flexible mixed model assembly lines,Cemalettin Öztürk and Semra Tunalı and Brahim Hnich and M. Arslan Örnek,2013,28,Constraints
+10.1007/s10601-016-9253-y,Graphical models for optimal power flow,Krishnamurthy Dvijotham and Michael Chertkov and Pascal Van Hentenryck and Marc Vuffray and Sidhant Misra,2017,14,Constraints
+10.1007/s10601-015-9201-2,"Projection, consistency, and George Boole",J. N. Hooker,2016,5,Constraints
+10.1007/s10601-016-9245-y,Multi-language evaluation of exact solvers in graphical model discrete optimization,Barry Hurley and Barry O’Sullivan and David Allouche and George Katsirelos and Thomas Schiex and Matthias Zytnicki and Simon de Givry,2016,32,Constraints
+10.1007/s10601-007-9029-5,Mendelian Error Detection in Complex Pedigrees Using Weighted Constraint Satisfaction Techniques,Marti Sanchez and Simon de Givry and Thomas Schiex,2008,24,Constraints
+10.1023/a:1009856210543,n.m.,Hani El Sakkout and Mark Wallace,2000,73,Constraints
+10.1007/s10601-016-9266-6,Using constraint programming for solving RCPSP/max-cal,Stefan Kreter and Andreas Schutt and Peter J. Stuckey,2017,15,Constraints
+10.1007/s10601-020-09312-3,Learning optimal decision trees using constraint programming,Hélène Verhaeghe and Siegfried Nijssen and Gilles Pesant and Claude-Guy Quimper and Pierre Schaus,2020,10,Constraints
+10.1007/s10601-008-9047-y,Essence: A constraint language for specifying combinatorial problems,Alan M. Frisch and Warwick Harvey and Chris Jefferson and Bernadette Martínez-Hernández and Ian Miguel,2008,71,Constraints
+10.1023/a:1011402324562,n.m.,Dimitris Achlioptas and Michael S. O. Molloy and Lefteris M. Kirousis and Yannis C. Stamatiou and Evangelos Kranakis and Danny Krizanc,2001,44,Constraints
+10.1007/s10601-019-09302-0,Encoding cardinality constraints using multiway merge selection networks,Michał Karpiński and Marek Piotrów,2019,5,Constraints
+10.1023/a:1017988309378,n.m.,Yan Qu and Stephen Beale,2002,0,Constraints
+10.1007/s10601-016-9255-9,Revisiting restricted path consistency,Kostas Stergiou,2017,1,Constraints
+10.1007/s10601-014-9167-5,Solving strong controllability of temporal problems with uncertainty using SMT,Alessandro Cimatti and Andrea Micheli and Marco Roveri,2015,10,Constraints
+10.1023/b:cons.0000036045.82829.94,Tractable Decision for a Constraint Language Implies Tractable Search,D. A. Cohen,2004,14,Constraints
+10.1007/s10601-014-9170-x,Hybrid metaheuristics for stochastic constraint programming,S. D. Prestwich and S. A. Tarim and R. Rossi and B. Hnich,2015,2,Constraints
+10.1023/a:1025627211942,n.m.,Javier Larrosa and Rina Dechter,2003,26,Constraints
+10.1007/s10601-008-9052-1,Value ordering for quantified CSPs,David Stynes and Kenneth N. Brown,2009,5,Constraints
+10.1007/s10601-014-9175-5,A method for detecting symmetries in constraint models and its generalisation,Christopher Mears and Maria Garcia de la Banda and Mark Wallace and Bart Demoen,2015,3,Constraints
+10.1007/s10601-022-09336-x,Boosting isomorphic model filtering with invariants,João Araújo and Choiwah Chow and Mikoláš Janota,2022,0,Constraints
+10.1007/s10601-008-9044-1,A parametric filtering algorithm for the graph isomorphism problem,Sébastien Sorlin and Christine Solnon,2008,16,Constraints
+10.1007/s10601-014-9169-3,Scheduling scientific experiments for comet exploration,Gilles Simonin and Christian Artigues and Emmanuel Hebrard and Pierre Lopez,2015,4,Constraints
+10.1007/s10601-011-9114-7,Constraint-based Very Large-Scale Neighborhood search,Sébastien Mouthuy and Pascal Van Hentenryck and Yves Deville,2012,10,Constraints
+10.1023/a:1011495004088,n.m.,David Gilbert and Rolf Backofen and Roland H. C. Yap,2001,1,Constraints
+10.1007/s10601-015-9231-9,Range-only SLAM with indistinguishable landmarks; a constraint programming approach,Luc Jaulin,2016,3,Constraints
+10.1007/s10601-015-9187-9,On getting rid of the preprocessing minimization step in MUC-finding algorithms,Éric Grégoire and Jean-Marie Lagniez and Bertrand Mazure,2015,0,Constraints
+10.1007/s10601-008-9049-9,Propagating systems of dense linear integer constraints,Thibaut Feydy and Peter J. Stuckey,2009,0,Constraints
+10.1023/a:1025688609294,n.m.,Rina Dechter,2003,0,Constraints
+10.1007/s10601-015-9212-z,Constraints for membership in formal languages under systematic search and stochastic local search,Jun He,2015,0,Constraints
+10.1007/s10601-015-9186-x,Introduction to the special issue on CSP technologies in artificial intelligence,Éric Grégoire and Bertrand Mazure,2015,0,Constraints
+10.1007/s10601-012-9136-9,Using dual presolving reductions to reformulate cumulative constraints,Stefan Heinz and Jens Schulz and J. Christopher Beck,2013,5,Constraints
+10.1007/s10601-009-9073-4,Grammar constraints,Serdar Kadioglu and Meinolf Sellmann,2010,11,Constraints
+10.1007/s10601-015-9189-7,A column-generation approach for joint mobilization and evacuation planning,Victor Pillac and Manuel Cebrian and Pascal Van Hentenryck,2015,14,Constraints
+10.1007/s10601-006-9009-1,Arc-B-consistency of the Inter-distance Constraint,Konstantin Artiouchine and Philippe Baptiste,2007,1,Constraints
+10.1023/a:1011406425471,n.m.,T. L. Lau and E. P. K. Tsang,2001,13,Constraints
+10.1007/s10601-015-9196-8,A hybrid constraint programming approach to a wood procurement problem with bucking decisions,Amira Dems and Louis-Martin Rousseau and Jean-Marc Frayret,2016,1,Constraints
+10.1023/a:1017940426216,n.m.,Marc Torrens and Boi Faltings and Pearl Pu,2002,29,Constraints
+10.1007/s10601-015-9228-4,Constraint programming for wireless sensor networks,Farshid Hassani Bijarbooneh,2015,0,Constraints
+10.1007/s10601-012-9138-7,Multiset variable representations and constraint propagation,Y. C. Law and J. H. M. Lee and T. Walsh and M. H. C. Woo,2013,2,Constraints
+10.1023/a:1009857500414,n.m.,Gert Smolka,2000,0,Constraints
+10.1023/a:1021902812784,n.m.,Pedro Meseguer and Noureddine Bouhmala and Taoufik Bouzoubaa and Morten Irgens and Martí Sánchez,2003,17,Constraints
+10.1007/s10601-006-9012-6,Cardinal: A Finite Sets Constraint Solver,Francisco Azevedo,2007,18,Constraints
+10.1023/a:1011432307724,n.m.,James E. Borrett and Edward P. K. Tsang,2001,11,Constraints
+10.1007/s10601-016-9242-1,A microkernel architecture for constraint programming,L. Michel and P. Van Hentenryck,2017,6,Constraints
+10.1007/s10601-016-9265-7,PhD theses in constraints,Guido Tack and Christopher Mears,2017,0,Constraints
+10.1007/s10601-009-9078-z,Classes of submodular constraints expressible by graph cuts,Stanislav Živný and Peter G. Jeavons,2010,11,Constraints
+10.1023/a:1021950728713,n.m.,S. Bistarelli and R. Gennari and F. Rossi,2003,3,Constraints
+10.1007/s10601-010-9100-5,"Solving Steel Mill Slab Problems with constraint-based techniques: CP, LNS, and CBLS",Pierre Schaus and Pascal Van Hentenryck and Jean-Noël Monette and Carleton Coffrin and Laurent Michel and Yves Deville,2011,14,Constraints
+10.1023/a:1009826603139,n.m.,Jean-Marc Talbot and Philippe Devienne and Sophie Tison,2000,6,Constraints
+10.1007/s10601-022-09330-3,A constraint-based approach to learn temporal features on action models from multiple plans,Antonio Garrido,2022,0,Constraints
+10.1007/s10601-012-9119-x,Improved filtering for weighted circuit constraints,Pascal Benchimol and Willem-Jan van Hoeve and Jean-Charles Régin and Louis-Martin Rousseau and Michel Rueher,2012,23,Constraints
+10.1007/s10601-010-9103-2,Explaining the cumulative propagator,Andreas Schutt and Thibaut Feydy and Peter J. Stuckey and Mark G. Wallace,2011,57,Constraints
+10.1007/s10601-015-9215-9,Portfolio approaches in constraint programming,Roberto Amadini,2015,2,Constraints
+10.1007/s10601-012-9125-z,Solving the quorumcast routing problem by constraint programming,Quang Dung Pham and Yves Deville,2012,4,Constraints
+10.1007/s10601-021-09324-7,Global domain views for expressive and cross-domain constraint programming,Dimitri Justeau-Allaire and Charles Prud’homme,2022,1,Constraints
+10.1007/s10601-006-9007-3,The Complexity of Reasoning with Global Constraints,Christian Bessiere and Emmanuel Hebrard and Brahim Hnich and Toby Walsh,2007,18,Constraints
+10.1007/s10601-006-9006-4,Cost-based Filtering for Shorter Path Constraints,Meinolf Sellmann and Thorsten Gellermann and Robert Wright,2007,10,Constraints
+10.1007/s10601-006-9014-4,Design of Financial CDO Squared Transactions Using Constraint Programming,Pierre Flener and Justin Pearson and Luis G. Reyna and Olof Sivertsson,2007,6,Constraints
+10.1007/s10601-016-9263-9,"Other things besides number: Abstraction, constraint propagation, and string variable types",Joseph Scott,2017,2,Constraints
+10.1023/a:1020594125144,n.m.,Youssef Hamadi,2002,12,Constraints
+10.1007/s10601-014-9178-2,The salesman and the tree: the importance of search in CP,Jean-Guillaume Fages and Xavier Lorca and Louis-Martin Rousseau,2016,9,Constraints
+10.1007/s10601-008-9046-z,Min-domain retroactive ordering for Asynchronous Backtracking,Roie Zivan and Moshe Zazone and Amnon Meisels,2009,7,Constraints
+10.1007/s10601-010-9097-9,Resolution-based lower bounds in MaxSAT,Chu Min Li and Felip Manyà and Nouredine Ould Mohamedou and Jordi Planes,2010,29,Constraints
+10.1007/s10601-004-5306-8,Symmetry Breaking Revisited,Jean-Fran�ois Puget,2005,20,Constraints
+10.1007/s10601-017-9275-0,Progress towards the Holy Grail,Eugene C. Freuder,2018,12,Constraints
+10.1007/s10601-008-9050-3,Expressive power and abstraction in Essence,David G. Mitchell and Eugenia Ternovska,2008,5,Constraints
+10.1007/s10601-015-9236-4,Operating room management under uncertainty,Jean Bertrand Gauthier and Antoine Legrain,2016,6,Constraints
+10.1007/s10601-011-9108-5,Hybrid search for minimal perturbation in Dynamic CSPs,Roie Zivan and Alon Grubshtein and Amnon Meisels,2011,15,Constraints
+10.1007/s10601-009-9079-y,Tractable cases of the extended global cardinality constraint,Marko Samer and Stefan Szeider,2011,13,Constraints
+10.1007/s10601-012-9137-8,Search combinators,Tom Schrijvers and Guido Tack and Pieter Wuille and Horst Samulowitz and Peter J. Stuckey,2013,16,Constraints
+10.1007/s10601-015-9226-6,Towards next generation sequential and parallel SAT solvers,Norbert Manthey,2015,3,Constraints
+10.1007/s10601-015-9183-0,"Fast, flexible MUS enumeration",Mark H. Liffiton and Alessandro Previti and Ammar Malik and Joao Marques-Silva,2016,58,Constraints
+10.1007/s10601-008-9058-8,A branch and bound algorithm for extracting smallest minimal unsatisfiable subformulas,Mark Liffiton and Maher Mneimneh and Inês Lynce and Zaher Andraus and João Marques-Silva and Karem Sakallah,2009,26,Constraints
+10.1007/s10601-013-9148-0,Explaining circuit propagation,Kathryn Glenn Francis and Peter J. Stuckey,2014,12,Constraints
+10.1007/s10601-005-0552-y,An Efficient Bounds Consistency Algorithm for the Global Cardinality Constraint,Claude-Guy Quimper and Alexander Golynski and Alejandro López-Ortiz and Peter Van Beek,2005,12,Constraints
+10.1023/a:1009818401322,n.m.,Laurent Michel and Pascal Van Hentenryck,2000,35,Constraints
+10.1007/s10601-012-9121-3,An overview of parallel SAT solving,Ruben Martins and Vasco Manquinho and Inês Lynce,2012,38,Constraints
+10.1007/s10601-009-9083-2,Formal languages for integer programming modeling of shift scheduling problems,Marie-Claude Côté and Bernard Gendron and Claude-Guy Quimper and Louis-Martin Rousseau,2011,34,Constraints
+10.1007/s10601-015-9204-z,On computing minimal independent support and its applications to sampling and counting,Alexander Ivrii and Sharad Malik and Kuldeep S. Meel and Moshe Y. Vardi,2016,29,Constraints
+10.1007/s10601-007-9036-6,Constraint Programming in Structural Bioinformatics,Pedro Barahona and Ludwig Krippahl,2008,15,Constraints
+10.1023/a:1020577603762,n.m.,Ludwig Krippahl and Pedro Barahona,2002,19,Constraints
+10.1007/s10601-011-9113-8,Solving steel mill slab design problems,Stefan Heinz and Thomas Schlechte and Rüdiger Stephan and Michael Winkler,2012,9,Constraints
+10.1007/s10601-008-9061-0,Compiling finite linear CSP into SAT,Naoyuki Tamura and Akiko Taga and Satoshi Kitagawa and Mutsunori Banbara,2009,86,Constraints
+10.1007/s10601-008-9055-y,A solver for QBFs in negation normal form,Uwe Egly and Martina Seidl and Stefan Woltran,2009,17,Constraints
+10.1007/s10601-016-9267-5,Domain reduction techniques for global NLP and MINLP optimization,Yash Puranik and Nikolaos V. Sahinidis,2017,40,Constraints
+10.1007/s10601-016-9261-y,Constraint-directed search for all-interval series,Md Masbaul Alam Polash and M. A. Hakim Newton and Abdul Sattar,2017,1,Constraints
+10.1007/s10601-018-9295-4,Improved WPM encoding for coalition structure generation under MC-nets,Xiaojuan Liao and Miyuki Koshimura and Kazuki Nomoto and Suguru Ueda and Yuko Sakurai and Makoto Yokoo,2019,7,Constraints
+10.1007/s10601-016-9241-2,A branch-and-price-and-check model for the vehicle routing problem with location congestion,Edward Lam and Pascal Van Hentenryck,2016,21,Constraints
+10.1007/s10601-012-9122-2,Corrigendum to “Min-domain retroactive ordering for asynchronous backtracking”,Younes Mechqrane and Mohamed Wahbi and Christian Bessiere and El Houssine Bouyakhf and Amnon Meisels and Roie Zivan,2012,3,Constraints
+10.1007/s10601-006-8062-0,Dynamic Ordering for Asynchronous Backtracking on DisCSPs,Roie Zivan and Amnon Meisels,2006,18,Constraints
+10.1007/s10601-008-9067-7,New filtering algorithms for combinations of among constraints,Willem-Jan van Hoeve and Gilles Pesant and Louis-Martin Rousseau and Ashish Sabharwal,2009,13,Constraints
+10.1007/s10601-015-9225-7,Robustness and stability in dynamic constraint satisfaction problems,Laura Climent,2015,2,Constraints
+10.1007/s10601-012-9123-1,Solving constraint satisfaction problems with SAT modulo theories,Miquel Bofill and Miquel Palahí and Josep Suy and Mateu Villaret,2012,28,Constraints
+10.1007/s10601-017-9276-z,Deriving generic bounds for time-series constraints based on regular expressions characteristics,Ekaterina Arafailova and Nicolas Beldiceanu and Helmut Simonis,2018,3,Constraints
+10.1007/s10601-009-9075-2,Redundant modeling in permutation weighted constraint satisfaction problems,Yat Chiu Law and Jimmy H. M. Lee and May H. C. Woo,2010,0,Constraints
+10.1023/a:1011429504996,n.m.,Roland H. C. Yap,2001,3,Constraints
+10.1007/s10601-013-9150-6,An optimal arc consistency algorithm for a particular case of sequence constraint,Mohamed Siala and Emmanuel Hebrard and Marie-José Huguet,2014,3,Constraints
+10.1007/s10601-009-9070-7,Evaluating the impact of AND/OR search on 0-1 integer linear programming,Radu Marinescu and Rina Dechter,2010,2,Constraints
+10.1007/s10601-009-9072-5,Improving inter-block backtracking with interval Newton,Bertrand Neveu and Gilles Trombettoni and Gilles Chabert,2010,1,Constraints
+10.1007/s10601-014-9172-8,Synchronized sweep algorithms for scalable scheduling constraints,Arnaud Letort and Mats Carlsson and Nicolas Beldiceanu,2015,2,Constraints
+10.1007/s10601-008-9042-3,Reformulating Table Constraints using Functional Dependencies—An Application to Explanation Generation,Hadrien Cambazard and Barry O’Sullivan,2008,3,Constraints
+10.1007/s10601-015-9218-6,Constraints meet concurrency,Jacopo Mauro,2015,1,Constraints
+10.1007/s10601-018-9299-0,N-level Modulo-Based CNF encodings of Pseudo-Boolean constraints for MaxSAT,Aolong Zha and Miyuki Koshimura and Hiroshi Fujita,2019,4,Constraints
+10.1007/s10601-016-9258-6,Extensible automated constraint modelling via refinement of abstract problem specifications,Özgür Akgün,2017,1,Constraints
+10.1007/s10601-007-9019-7,Local-search Extraction of MUSes,Éric Grégoire and Bertrand Mazure and Cédric Piette,2007,30,Constraints
+10.1007/s10601-014-9179-1,Strong local consistency algorithms for table constraints,Anastasia Paparrizou and Kostas Stergiou,2016,1,Constraints
+10.1007/s10601-022-09338-9,An algorithm-independent measure of progress for linear constraint propagation,Boro Sofranac and Ambros Gleixner and Sebastian Pokutta,2022,0,Constraints
+10.1007/s10601-020-09310-5,The flexible and real-time commute trip sharing problems,Mohd. Hafiz Hasan and Pascal Van Hentenryck,2020,1,Constraints
+10.1007/s10601-006-9002-8,Identifying and Exploiting Problem Structures Using Explanation-based Constraint Programming,Hadrien Cambazard and Narendra Jussien,2006,9,Constraints
+10.1007/s10601-015-9224-8,Transformations of representation in constraint satisfaction,András Z. Salamon,2015,0,Constraints
+10.1007/s10601-015-9211-0,Efficient search procedures for solving combinatorial problems,Serdar Kadioglu,2015,0,Constraints
+10.1007/s10601-015-9209-7,Hybrid meta-heuristics for combinatorial optimization,Tommaso Urli,2015,4,Constraints
+10.1007/s10601-018-9300-y,The item dependent stockingcost constraint,Vinasetan Ratheil Houndji and Pierre Schaus and Laurence Wolsey,2019,0,Constraints
+10.1023/a:1015161716072,n.m.,Warwick Harvey and Peter J. Stuckey and Alan Borning,2002,4,Constraints
+10.1007/s10601-014-9165-7,meSAT: multiple encodings of CSP to SAT,Mirko Stojadinović and Filip Marić,2014,16,Constraints
+10.1007/s10601-016-9239-9,Theoretical insights and algorithmic tools for decision diagram-based optimization,David Bergman and Andre A. Cire,2016,6,Constraints
+10.1007/s10601-015-9182-1,Balancing bike sharing systems with constraint programming,Luca Di Gaspero and Andrea Rendl and Tommaso Urli,2016,42,Constraints
+10.1023/b:cons.0000049206.43218.5f,Acquiring Both Constraint and Solution Preferences in Interactive Constraint Systems,Francesca Rossi and Allesandro Sperduti,2004,23,Constraints
+10.1007/s10601-009-9071-6,Constraint models for graceful graphs,Barbara M. Smith and Jean-François Puget,2010,6,Constraints
+10.1007/s10601-015-9194-x,Introduction to the fast track issue for CPAIOR 2015,L. Michel,2015,0,Constraints
+10.1023/a:1020573518783,n.m.,Yves Deville and Micha Janssen and Pascal Van Hentenryck,2002,15,Constraints
+10.1007/s10601-007-9037-5,Minimization of Locally Defined Submodular Functions by Optimal Soft Arc Consistency,Martin C. Cooper,2008,17,Constraints
+10.1007/s10601-021-09320-x,Correction to: The potential of quantum annealing for rapid solution structure identification,Yuchen Pang and Carleton Coffrin and Andrey Y. Lokhov and Marc Vuffray,2021,0,Constraints
+10.1023/a:1017968708469,n.m.,Peggy S. Eaton and Thom Fruehwirth and Milind Tambe,2002,0,Constraints
+10.1023/a:1021998611875,n.m.,U. Kaymak and J. M. Sousa,2003,34,Constraints
+10.1007/s10601-020-09311-4,Efficient multiple constraint acquisition,Dimosthenis C. Tsouros and Kostas Stergiou,2020,1,Constraints
+10.1007/s10601-009-9074-3,Solving subgraph isomorphism problems with constraint programming,Stéphane Zampelli and Yves Deville and Christine Solnon,2010,49,Constraints
+10.1007/s10601-009-9088-x,A global constraint for total weighted completion time for unary resources,András Kovács and J. Christopher Beck,2011,4,Constraints
+10.1007/s10601-013-9141-7,Formulating the template ILP consistency problem as a constraint satisfaction problem,Roman Barták and Radomír Černoch and Ondřej Kuželka and Filip Železný,2013,0,Constraints
+10.1007/s10601-008-9066-8,Introduction to the special issue on the thirteenth international conference on principles and practice of constraint programming (CP 2007),Christian Bessiere,2009,1,Constraints
+10.1023/a:1011477420926,n.m.,Rolf Backofen and David Gilbert,2001,8,Constraints
+10.1007/s10601-014-9159-5,Consistency techniques for polytime linear global cost functions in weighted constraint satisfaction,J. H. M. Lee and K. L. Leung and Y. W. Shum,2014,3,Constraints
+10.1007/s10601-018-9297-2,Compiling CP subproblems to MDDs and d-DNNFs,Diego de Uña and Graeme Gange and Peter Schachte and Peter J. Stuckey,2019,5,Constraints
+10.1007/s10601-011-9111-x,MDD propagators with explanation,Graeme Gange and Peter J. Stuckey and Radoslaw Szymanek,2011,13,Constraints
+10.1007/s10601-016-9256-8,Introduction to the fast track issue for CP 2016,Willem-Jan van Hoeve and Michel Rueher,2017,1,Constraints
+10.1007/s10601-014-9177-3,Adding laziness in BnB-ADOPT+,Jimmy H. M. Lee and Pedro Meseguer and Wen Su,2015,0,Constraints
+10.1007/s10601-018-9284-7,Twenty Years of Constraint Programming (CP) Research,Michela Milano,2018,2,Constraints
+10.1007/s10601-019-09305-x,Constraints for generating graphs with imposed and forbidden patterns: an application to molecular graphs,Mohamed Amine Omrani and Wady Naanaa,2020,0,Constraints
+10.1007/s10601-006-8061-1,The Impact of Search Heuristics on Heavy-Tailed Behaviour,Tudor Hulubei and Barry O’Sullivan,2006,6,Constraints
+10.1023/a:1025697810124,n.m.,Alan K. Mackworth and Ying Zhang,2003,6,Constraints
+10.1007/s10601-010-9092-1,Promoting robust black-box solvers through competitions,Christophe Lecoutre and Olivier Roussel and M. R. C. van Dongen,2010,8,Constraints
+10.1007/s10601-015-9235-5,Constrained global optimization for wine blending,Philippe Vismara and Remi Coletta and Gilles Trombettoni,2016,6,Constraints
+10.1023/a:1009860311452,n.m.,Susanne Heipcke and Yves Colombani and Cristina C. B. Cavalcante and Cid C. de Souza,2000,5,Constraints
+10.1007/s10601-015-9195-9,Quantified maximum satisfiability,Alexey Ignatiev and Mikoláš Janota and Joao Marques-Silva,2016,7,Constraints
+10.1007/s10601-006-9013-5,Asynchronous Forward-checking for DisCSPs,Amnon Meisels and Roie Zivan,2007,28,Constraints
+10.1007/s10601-015-9213-y,"Search, propagation, and learning in sequencing and scheduling problems",Mohamed Siala,2015,2,Constraints
+10.1007/s10601-018-9289-2,MiniBrass: Soft constraints for MiniZinc,Alexander Schiendorfer and Alexander Knapp and Gerrit Anders and Wolfgang Reif,2018,4,Constraints
+10.1007/s10601-011-9112-9,Exploiting subproblem dominance in constraint programming,Geoffrey Chu and Maria Garcia de la Banda and Peter J. Stuckey,2012,5,Constraints
+10.1007/s10601-010-9104-1,CP and IP approaches to cancer radiotherapy delivery optimization,Davaatseren Baatar and Natashia Boland and Sebastian Brand and Peter J. Stuckey,2011,9,Constraints
+10.1007/s10601-008-9060-1,SymChaff: exploiting symmetry in a structure-aware satisfiability solver,Ashish Sabharwal,2009,11,Constraints
+10.1007/s10601-005-0554-9,Maintaining Longest Paths Incrementally,Irit Katriel and Laurent Michel and Pascal Van Hentenryck,2005,16,Constraints
+10.1007/s10601-007-9027-7,A Reinforcement Learning Approach to Interval Constraint Propagation,Frédéric Goualard and Christophe Jermann,2008,8,Constraints
+10.1007/s10601-023-09342-7,An interdisciplinary experimental evaluation on the disjunctive temporal problem,Matteo Zavatteri and Alice Raffaele and Dario Ostuni and Romeo Rizzi,2023,0,Constraints
+10.1023/a:1009822502231,n.m.,Philippe Baptiste and Claude Le Pape,2000,45,Constraints
+10.1007/s10601-008-9064-x,Propagation via lazy clause generation,Olga Ohrimenko and Peter J. Stuckey and Michael Codish,2009,122,Constraints
+10.1007/s10601-006-6849-7,Stochastic Constraint Programming: A Scenario-Based Approach,S. Armagan Tarim and Suresh Manandhar and Toby Walsh,2006,57,Constraints
+10.1023/a:1025894003623,n.m.,Ioannis Tsamardinos and Thierry Vidal and Martha E. Pollack,2003,55,Constraints
+10.1007/s10601-015-9192-z,A hybrid exact method for a scheduling problem with a continuous resource and energy constraints,Margaux Nattaf and Christian Artigues and Pierre Lopez,2015,12,Constraints
+10.1007/s10601-014-9161-y,Strategic decision making on complex systems,Michela Milano and Michele Lombardi,2014,2,Constraints
+10.1007/s10601-016-9252-z,Prefix-projection global constraint and top-k approach for sequential pattern mining,Amina Kemmar and Yahia Lebbah and Samir Loudni and Patrice Boizumault and Thierry Charnois,2017,9,Constraints
+10.1007/s10601-006-9001-9,Filtering Algorithms for the NValue Constraint,Christian Bessiere and Emmanuel Hebrard and Brahim Hnich and Zeynep Kiziltan and Toby Walsh,2006,14,Constraints
+10.1007/s10601-008-9059-7,Dynamic structural symmetry breaking for constraint satisfaction problems,Pierre Flener and Justin Pearson and Meinolf Sellmann and Pascal Van Hentenryck and Magnus Ågren,2009,7,Constraints
+10.1007/s10601-016-9250-1,Triangle-based consistencies for cost function networks,Hiep Nguyen and Christian Bessiere and Simon de Givry and Thomas Schiex,2017,2,Constraints
+10.1007/s10601-005-2240-3,High-Order Consistency in Valued Constraint Satisfaction,Martin C. Cooper,2005,28,Constraints
+10.1007/s10601-007-9031-y,Modeling Biological Networks by Action Languages via Answer Set Programming,Steve Dworschak and Susanne Grell and Victoria J. Nikiforova and Torsten Schaub and Joachim Selbig,2008,33,Constraints
+10.1023/b:cons.0000024049.41091.71,Implementing a Test for Tractability,Richard Gault and Peter Jeavons,2004,6,Constraints
+10.1007/s10601-017-9271-4,Cumulative scheduling with variable task profiles and concave piecewise linear processing rate functions,Margaux Nattaf and Christian Artigues and Pierre Lopez,2017,5,Constraints
+10.1007/s10601-016-9251-0,The power of propagation: when GAC is enough,David A. Cohen and Peter G. Jeavons,2017,6,Constraints
+10.1007/s10601-015-9190-1,On enumerating minimal siphons in Petri nets using CLP and SAT solvers: theoretical and practical complexity,Faten Nabli and Thierry Martinez and François Fages and Sylvain Soliman,2016,7,Constraints
+10.1023/a:1022323717928,n.m.,Warwick Harvey and Peter J. Stuckey,2003,22,Constraints
+10.1007/s10601-009-9069-0,Lexicographically-ordered constraint satisfaction problems,Eugene C. Freuder and Robert Heffernan and Richard J. Wallace and Nic Wilson,2010,18,Constraints
+10.1007/s10601-005-2804-2,Introduction,,2005,0,Constraints
+10.1007/s10601-009-9068-1,Non-binary quantified CSP: algorithms and modelling,Peter Nightingale,2009,6,Constraints
+10.1007/s10601-017-9270-5,Auto-tabling for subproblem presolving in MiniZinc,Jip J. Dekker and Gustav Björdal and Mats Carlsson and Pierre Flener and Jean-Noël Monette,2017,4,Constraints
+10.1007/s10601-005-0551-z,Periodic Constraint Satisfaction Problems: Tractable Subclasses,Hubie Chen,2005,1,Constraints
+10.1007/s10601-005-2807-z,Statistical Regimes Across Constrainedness Regions,Carla P. Gomes and Cèsar Fernández and Bart Selman and Christian Bessière,2005,18,Constraints
+10.1007/s10601-013-9143-5,Introduction to the special issue on constraint modelling and reformulation,Andrea Rendl and J. Christopher Beck,2013,0,Constraints
+10.1007/s10601-005-0550-0,Introduction to the Special Issue on Principles and Practice of Constraint Programming,Francesca Rossi,2005,0,Constraints
+10.1007/s10601-016-9243-0,Hyper temporal networks,Carlo Comin and Roberto Posenato and Romeo Rizzi,2017,2,Constraints
+10.1023/a:1011485622743,n.m.,Rolf Backofen,2001,19,Constraints
+10.1007/s10601-008-9062-z,Limitations of restricted branching in clause learning,Matti Järvisalo and Tommi Junttila,2009,14,Constraints
+10.1007/s10601-019-09304-y,Incentive-based search for equilibria in boolean games,Vadim Levit and Zohar Komarovsky and Tal Grinshpoun and Ana L. C. Bazzan and Amnon Meisels,2019,0,Constraints
+10.1023/a:1011489723652,n.m.,J. Yadgari and A. Amir and R. Unger,2001,6,Constraints
+10.1007/s10601-015-9208-8,Strong consistencies for weighted constraint satisfaction problems,Thi Hong Hiep Nguyen and Thomas Schiex and Christian Bessiere,2015,0,Constraints
+10.1007/s10601-004-5307-7,A Rigorous Global Filtering Algorithm for Quadratic Constraints*,Yahia Lebbah and Claude Michel and Michel Rueher,2005,15,Constraints
+10.1007/s10601-006-9008-2,Introduction to the Special Issue on Global Constraints,Nicolas Beldiceanu,2007,0,Constraints
+10.1023/a:1022336001999,n.m.,Arie De Bruin and Gerard Kindervater and Tjark Vredeveld and Albert Wagelmans,2003,1,Constraints
+10.1007/s10601-009-9084-1,A branch and bound algorithm for numerical Max-CSP,Jean-Marie Normand and Alexandre Goldsztejn and Marc Christie and Frédéric Benhamou,2010,1,Constraints
+10.1007/s10601-015-9198-6,Tractability in constraint satisfaction problems: a survey,Clément Carbonnel and Martin C. Cooper,2016,18,Constraints
+10.1007/s10601-012-9129-8,Structural tractability of enumerating CSP solutions,Gianluigi Greco and Francesco Scarcello,2013,8,Constraints
+10.1007/s10601-013-9155-1,Grand challenges for constraint programming,Eugene C. Freuder and Barry O’Sullivan,2014,8,Constraints
+10.1007/s10601-010-9094-z,Enabling local computation for partially ordered preferences,Hélène Fargier and Emma Rollon and Nic Wilson,2010,6,Constraints
+10.1007/s10601-015-9217-7,New techniques for discrete optimization,David Bergman,2015,0,Constraints
+10.1007/s10601-007-9033-9,DARN! A Weighted Constraint Solver for RNA Motif Localization,Matthias Zytnicki and Christine Gaspin and Thomas Schiex,2008,15,Constraints
+10.1007/s10601-004-5308-6,A Framework for Optimal Correction of Inconsistent Linear Constraints,Paula Amaral and Pedro Barahona,2005,7,Constraints
+10.1007/s10601-010-9093-0,Philosophy of the MiniZinc challenge,Peter J. Stuckey and Ralph Becket and Julien Fischer,2010,19,Constraints
+10.1007/s10601-016-9264-8,Towards statistical consistency for stochastic constraint programming,Imen Zghidi,2017,0,Constraints
+10.1007/s10601-008-9048-x,Distributed constraint satisfaction with partially known constraints,Ismel Brito and Amnon Meisels and Pedro Meseguer and Roie Zivan,2009,17,Constraints
+10.1023/a:1021946627805,n.m.,Hiroshi Hosobe and Satoshi Matsuoka,2003,13,Constraints
+10.1023/b:cons.0000049262.04178.a8,Introduction to the Special Issue on User-Interaction in Constraint Satisfaction,Barry O'Sullivan,2004,2,Constraints
+10.1007/s10601-005-0553-x,Control Abstractions for Local Search,Pascal Van Hentenryck and Laurent Michel,2005,9,Constraints
+10.1007/s10601-018-9294-5,Constraints for symmetry breaking in graph representation,Michael Codish and Alice Miller and Patrick Prosser and Peter J. Stuckey,2019,3,Constraints
+10.1007/s10601-015-9200-3,Using finite transducers for describing and synthesising structural time-series constraints,Nicolas Beldiceanu and Mats Carlsson and Rémi Douence and Helmut Simonis,2016,14,Constraints
+10.1007/s10601-018-9282-9,Linear-time filtering algorithms for the disjunctive constraint and a quadratic filtering algorithm for the cumulative not-first not-last,Hamed Fahimi and Yanick Ouellet and Claude-Guy Quimper,2018,1,Constraints
+10.1007/s10601-012-9116-0,A CP framework for testing CP,Nadjib Lazaar and Arnaud Gotlieb and Yahia Lebbah,2012,6,Constraints
+10.1007/s10601-018-9286-5,From MDD to BDD and Arc consistency,Julien Vion and Sylvain Piechowiak,2018,2,Constraints
+10.1007/s10601-018-9301-x,Not all FPRASs are equal: demystifying FPRASs for DNF-counting,Kuldeep S. Meel and Aditya A. Shrotri and Moshe Y. Vardi,2019,1,Constraints
+10.1007/s10601-017-9280-3,Constraint programming and operations research,J. N. Hooker and W.-J. van Hoeve,2018,11,Constraints
+10.1023/a:1009866317252,n.m.,Martin Müller and Joachim Niehren and Andreas Podelski,2000,4,Constraints
+10.1007/s10601-013-9156-0,Optimal and efficient filtering algorithms for table constraints,Jean-Baptiste Mairy and Pascal Van Hentenryck and Yves Deville,2014,8,Constraints
+10.1007/s10601-012-9128-9,On the hardness of solving edge matching puzzles as SAT or CSP problems,Carlos Ansótegui and Ramón Béjar and Cèsar Fernández and Carles Mateu,2013,4,Constraints
+10.1007/s10601-013-9145-3,Models and emerging trends of concurrent constraint programming,Carlos Olarte and Camilo Rueda and Frank D. Valencia,2013,30,Constraints
+10.1007/s10601-022-09331-2,Propagation complete encodings of smooth DNNF theories,Petr Kučera and Petr Savický,2022,0,Constraints
+10.1007/s10601-011-9115-6,Optimal methods for resource allocation and scheduling: a cross-disciplinary survey,Michele Lombardi and Michela Milano,2012,39,Constraints
+10.1007/s10601-008-9041-4,The Design of the Zinc Modelling Language,Kim Marriott and Nicholas Nethercote and Reza Rafeh and Peter J. Stuckey and Maria Garcia de la Banda and Mark Wallace,2008,84,Constraints
+10.1007/s10601-016-9249-7,“Almost-stable” matchings in the Hospitals / Residents problem with Couples,David F. Manlove and Iain McBride and James Trimble,2017,12,Constraints
+10.1007/s10601-009-9086-z,A hybrid model for a multiproduct pipeline planning and scheduling problem,Tony Minoru Tamura Lopes and Andre Augusto Ciré and Cid Carvalho de Souza and Arnaldo Vieira Moura,2010,31,Constraints
+10.1007/s10601-006-6848-8,A Constraint-Based Approach to Fast and Exact Structure Prediction in Three-Dimensional Protein Models,Rolf Backofen and Sebastian Will,2006,64,Constraints
+10.1023/a:1020533821509,n.m.,Rolf Backofen and Sebastian Will,2002,13,Constraints
+10.1007/s10601-013-9154-2,Lightweight dynamic symmetry breaking,Christopher Mears and Maria Garcia de la Banda and Bart Demoen and Mark Wallace,2014,11,Constraints
+10.1007/s10601-008-9057-9,On implementing symmetry detection,C. Mears and M. Garcia de la Banda and M. Wallace,2009,10,Constraints
+10.1007/s10601-014-9163-9,"Symmetries, almost symmetries, and lazy clause generation",Geoffrey Chu and Maria Garcia de la Banda and Christopher Mears and Peter J. Stuckey,2014,9,Constraints
+10.1007/s10601-015-9237-3,Side-channel cryptographic attacks using pseudo-boolean optimization,Yossef Oren and Avishai Wool,2016,8,Constraints
+10.1007/s10601-012-9124-0,LS(Graph): a constraint-based local search for constraint optimization on trees and paths,Quang Dung Pham and Yves Deville and Pascal Van Hentenryck,2012,10,Constraints
+10.1007/s10601-009-9080-5,Efficient algorithms for singleton arc consistency,Christian Bessiere and Stéphane Cardon and Romuald Debruyne and Christophe Lecoutre,2011,19,Constraints
+10.1023/a:1009897225381,n.m.,Francois Pachet and Pierre Roy,2001,40,Constraints
+10.1007/s10601-018-9285-6,Deep neural networks and mixed integer linear optimization,Matteo Fischetti and Jason Jo,2018,75,Constraints
