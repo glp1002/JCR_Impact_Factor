@@ -23,6 +23,9 @@
 % Ecuaciones
 \usepackage{amsmath}
 
+% PGFs
+\usepackage{pgf}
+
 % Rutas de fichero / paquete
 \newcommand{\ruta}[1]{{\sffamily #1}}
 
@@ -145,7 +148,7 @@
    % Modificado: ajuste del sobrayado gris a los márgenes
    \setlength{\tabcolsep}{0pt}
    % Modificado:@{} elimina los espacios laterales
-   \begin{tabular}{@{}#2@{}}
+   \begin{tabular}{#2}
     \toprule
     #4
     \otoprule

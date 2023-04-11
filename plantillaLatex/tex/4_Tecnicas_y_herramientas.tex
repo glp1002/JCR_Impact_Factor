@@ -8,7 +8,7 @@ En esta sección se presentarán las distintas herramientas y recursos que se ha
 En el presente proyecto, se han utilizado diversas técnicas para llevar a cabo el análisis y cálculo del índice de impacto de publicaciones científicas. Estas técnicas han sido seleccionadas con el objetivo de obtener resultados precisos y confiables, y de cubrir las necesidades específicas de este estudio.
 
 \subsection{Web-Scraping}
-Es la práctica de recopilar datos a través de un programa que interactúe con una API~\cite{mitchell2018}. Más concretamente, un programa automatizado compuesto por \textit{queries} que realizan solicitudes HTTP para adquirir recursos de un sitio web específico. Esta solicitud se puede formatear en una URL que contenga una consulta GET o en un mensaje HTTP que contenga una consulta POST~\cite{zhao2017}. Una vez que la petición es exitosamente recibida y manejada por el sitio web seleccionado, el recurso requerido será extraído y luego devuelto al programa de \textit{web-scraping} específico.
+Es la práctica de recopilar datos a través de un programa que interactúe con una API~\cite{mitchell2018}. Más concretamente, un programa automatizado compuesto por \textit{queries} que realizan solicitudes HTTP para adquirir recursos de un sitio web específico. Esta solicitud se puede formatear en una URL que contenga una consulta GET o en un mensaje HTTP que contenga una consulta POST~\cite{zhao2017}. Una vez que la petición es exitosamente recibida y manejada por el sitio web seleccionado, el recurso requerido será extraído y luego devuelto al programa de \textit{web scraping} específico.
 
 El uso \textit{web-scraping} resulta ser una técnica efectiva en este proyecto debido a que permite obtener datos de las distintas fuentes web de manera automatizada y eficiente. La información obtenida a través de esta técnica es esencial para calcular el índice de impacto (JCR). Además, el \textit{web-scraping} permite obtener grandes cantidades de información en un corto período de tiempo, lo que resulta muy útil en proyectos en el que se requiere una gran cantidad de datos.
 
@@ -41,7 +41,7 @@ De Beautiful Soup hay que destacar su facilidad de uso y la amplia documentació
  
 
 \subsection{Habanero}
-Para poder hacer uso de la \textbf{API de Crossref}, se han explorado diversas alternativas. De entre todas las bibliotecas de Python se ha seleccionado Habanero, ya que es una biblioteca muy fácil de usar y está en constante actualización.
+Para poder hacer uso de la API de Crossref, se han explorado diversas alternativas. De entre todas las bibliotecas de Python se ha seleccionado Habanero, ya que es una biblioteca muy fácil de usar y está en constante actualización.
 
 Esta biblioteca está diseñada para facilitar el acceso a las bases de datos de revistas científicas y a otras relacionadas con el ámbito académico. Ofrece una interfaz simple para recuperar información utilizando los protocolos y las API de diferentes bases de datos, incluyendo JSTOR, Unpaywall, Crossref, DataCite, etc. Además, Habanero es compatible con las normas de Open Access, lo que permite a los usuarios acceder a contenido científico gratuito y de libre acceso.
 
@@ -66,15 +66,15 @@ Antes de su compra por Oracle Corporation (2010), MySQL era la aplicación de ba
 En realidad, MariaDB es una bifurcación de MySQL nacida para garantizar la supervivencia del proyecto como código abierto. Hoy en día, MariaDB es altamente compatible con MySQL e incluso superior en sus últimas versiones (10.1.1), ya que la comunidad ha ido añadiendo nuevas características al proyecto original. Por otro lado, aunque no está tan extendido como MySQL, PostgreSQL es posiblemente el gestor de bases de datos de código abierto más sólido y potente a día de hoy.
 
 
-\tablaSmall{Comparativa entre MariaDB y PostgreSQL}{ll}{comparativabbdd}
+\tablaSmall{Comparativa entre MariaDB y PostgreSQL}{@{}l@{}l}{comparativabbdd}
 {MariaDB & PostgreSQL\\}{ 
-No totalmente compatible con SQL. & Compatible con SQL estándar.\\
-Soporte para tipos de datos estándar SQL. & Soporta además tipos avanzados.\\
-Tipos de datos flexibles. & Tipos de datos estrictos. \\
-Tamaño pequeño de base de datos. & Tamaño grande de base de datos. \\
-Sin soporte directo para JSON.  & Soporte directo de JSON. \\
-No índices parciales. & Índices parciales. \\
-No soporte para web dinámica. & Soporta sitios web dinámicos.\\
+No totalmente compatible con SQL & Compatible con SQL estándar\\
+Soporte para tipos de datos estándar SQL \hspace{0.2cm} & Soporta además tipos avanzados\\
+Tipos de datos flexibles & Tipos de datos estrictos \\
+Tamaño pequeño de base de datos & Tamaño grande de base de datos\\
+Sin soporte directo para JSON & Soporte directo de JSON\\
+No índices parciales & Índices parciales\\
+No soporte para web dinámica & Soporta sitios web dinámicos\\
 } 
 
 
