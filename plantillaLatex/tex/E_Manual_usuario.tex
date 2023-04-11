@@ -16,8 +16,14 @@ Se trata de un entorno aislado que te permite instalar y gestionar de forma inde
 Miniconda, por su parte, es una distribución de Python que incluye un gestor de paquetes llamado Conda, que te permite instalar y gestionar de forma sencilla bibliotecas y paquetes de Python.
 
 Así pues, se procede a crear un entorno virtualizado de Python utilizando Miniconda. El entorno en cuestión se encuentra empaquetado
-en la carpeta comprimida "environment.zip". Para poder hacer uso del
-entorno bastará con ejecutar el siguiente comando:
-\texttt{conda activate /ruta/al/environment.zip}
+en la carpeta comprimida \texttt{environment.zip}. Para poder utilizar este entorno, bastará con realizar los siguientes pasos:
+
+\begin{enumerate}
+    \item Instalar MiniConda en el dispositivo en el que se quiera ejecutar el prototipo.
+    \item Crear el entorno usando el siguiente comando en la consola de MiniConda: \verb|conda env create -f environment.yml|. Es preciso estar en el mismo directorio que el fichero \texttt{environment.yml} o especificar la ruta completa.
+    \item A continuación, se debe activar el entorno con el siguiente comando: \verb|conda activate crossref_entorno|. 
+    \item Ejecutar el prototipo de Crossref.
+    \item Una vez finalizado, para desactivar el entorno, bastará con ejecutar el siguiente comando: \verb|conda deactivate|. 
+\end{enumerate}
 
 

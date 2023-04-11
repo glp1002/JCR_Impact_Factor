@@ -1,0 +1,141 @@
+\apendice{Proyectos de pruebas}
+
+\section{Introducción}
+En el desarrollo de \textit{software}, es esencial contar con una metodología adecuada para garantizar la calidad del producto final. En este sentido, el Test Driven Development (TDD) se ha convertido en una de las metodologías más populares en la actualidad. TDD consiste en escribir las pruebas antes de comenzar a desarrollar el código, lo que permite detectar errores de manera temprana y asegurar que el \textit{software} cumpla con los requisitos establecidos. En este apartado, presentaremos los proyectos de pruebas que hemos llevado a cabo utilizando TDD como metodología principal.
+
+Esta metodología se divide en tres fases principales: la fase roja, la fase verde y la fase morada. 
+\begin{itemize}
+    \item En la fase roja, se escriben las pruebas unitarias para el código que se desea implementar, las cuales deben fallar inicialmente (puesto que aún no existe el código a probar). 
+    \item En la fase verde, se escribe el código mínimo necesario para que las pruebas pasen satisfactoriamente.
+    \item Finalmente, en la fase morada, se realiza la refactorización del código escrito anteriormente para mejorar su calidad y mantenerlo limpio y legible.
+\end{itemize}
+
+ Este enfoque iterativo permite a los desarrolladores garantizar la calidad y funcionalidad del software en cada paso del proceso de desarrollo y ayuda a reducir los errores y \textit{bugs} que puedan surgir en el proceso. 
+
+\imagen{fasesTDD}{Fases del la metodología TDD}{0.4}
+
+\section{Prototipo de Crossref}
+Este es el prototipo final para la extracción de los datos bibliográficos. A continuación, se documentará la información más relevante del proyecto de pruebas llevado a cabo.
+
+\subsection{Diseño y arquitectura}
+Puesto que el \textit{software} a probar está compuesto de un solo \textit{script} de Python, se ha generado un único módulo de pruebas llamado \texttt{crossref\_test.py}. 
+
+\subsection{Fase Roja}
+A lo largo de esta fase se definen las pruebas necesarias para crear un código que extraiga correctamente los datos de Crossref. Los casos de prueba diseñados son los siguientes:
+
+NOTA -> Ver pregunta sobre la tabla al final del documento
+	
+\tablatres{Casos de prueba para el prototipo de Crossref}{|l|l|l|l|}{4}{casosdepruebacrossref}{\textbf{ID} & \textbf{Nombre} & \textbf{Descipción} & \parbox{55}{\textbf{Salida esperada}}\\}{
+C01 & \parbox{60}{Revista existente.} & 
+\parbox{200}{\vspace{0.4cm}Método test\_journal\_exist. Se trata de extraer una revista que previamente se conoce que existe.\vspace{0.4cm}} & \parbox{55}{True.}\\
+C02 & \parbox{60}{Revista inexistente.} & 
+\parbox{200}{\vspace{0.4cm} Método test\_journal\_exist. Se trata de extraer una revista que previamente se conoce que no existe.\vspace{0.4cm}} &\parbox{55}{False.}\\
+C03 & \parbox{60}{Cargar datos de entrada.} & 
+\parbox{200}{\vspace{0.4cm}Método test\_load\_data. Se comprueba que se cargan bien los datos del CSV de entrada.\vspace{0.4cm}}&\parbox{55}{Carga correcta.}\\
+C04 & \parbox{60}{Formateado I.} & 
+\parbox{200}{\vspace{0.4cm}Método test\_formatData. Se comprueba que se eliminan bien las etiquetas HTML y los espacios.\vspace{0.4cm}}&\parbox{55}{Cadena correcta.}\\
+C05 & \parbox{60}{Formateado II.} & 
+\parbox{200}{\vspace{0.4cm}Método test\_formatData. Se comprueba que se eliminan bien las etiquetas "href".\vspace{0.4cm}}& \parbox{55}{Cadena correcta.}\\
+C06 & \parbox{60}{Formateado III.} &
+\parbox{200}{\vspace{0.4cm}Método test\_formatData. Se comprueba que una cadena correcta no cambia.\vspace{0.4cm}} & \parbox{55}{Cadena sin modificaciones.}\\
+C07 & \parbox{60}{Formateado IV.} & 
+\parbox{200}{\vspace{0.4cm}Método test\_formatData. Se comprueba que no hay campos vacíos (rellenar con "n.m.").\vspace{0.4cm}} & \parbox{55}{Cadena sin valores vacíos.}\\
+C08 & \parbox{60}{Formato de salida I.} & 
+\parbox{200}{\vspace{0.4cm}Método test\_getArticles\_returns\_list\_
+of\_dicts. Se comprueba que se obtiene una lista de artículos.\vspace{0.4cm}} & \parbox{55}{Lista de diccionarios.}\\
+C09 & \parbox{60}{Formato de salida II.} & 
+\parbox{200}{\vspace{0.4cm}Método test\_getArticles\_returns\_valid
+\_keys. Se comprueba que las claves del diccionario son correctas.\vspace{0.4cm}} & \parbox{55}{Claves correctas.}\\
+C10 & \parbox{60}{Número de resultados.} & 
+\parbox{200}{\vspace{0.4cm}Método test\_getArticles\_correct\_
+article\_count. Se comprueba que se obtiene el número correcto de artículos que aparecen en Crossref.\vspace{0.4cm}} & \parbox{55}{Número correcto.}\\
+}
+
+\tabla{Casos de prueba para el prototipo de Crossref}{|l|l|l|l|}{4}{casosdepruebacrossref}{\textbf{ID} & \textbf{Nombre} & \textbf{Descipción} & \parbox{55}{\textbf{Salida esperada}}\\}{
+C11 & \parbox{60}{Excepción de ISSN.} & 
+\parbox{200}{\vspace{0.4cm}Método test\_getArticles\_invalid\_issn\_
+raises\_error. Se intenta buscar un ISSN incorrecto.\vspace{0.4cm}} & \parbox{55}{False.}\\
+C12 & \parbox{60}{Excepción de año I.} & 
+\parbox{200}{\vspace{0.4cm}Método test\_getArticles\_invalid\_year. Se introducen los años de búsqueda en el orden incorrecto.\vspace{0.4cm}} &\parbox{55}{False.}\\
+C13 & \parbox{60}{Excepción de año II.} & 
+\parbox{200}{\vspace{0.4cm}Método test\_getArticles\_invalid\_year. Se introducen años inválidos.\vspace{0.4cm}} &\parbox{55}{False.}\\
+C14 & \parbox{60}{Ejecución completa I.} & 
+\parbox{200}{\vspace{0.4cm}Método test\_main. Pre-requisito: CSV de entrada de datos. Se comprueba que se genera una gráfica al finalizar el proceso. Post-requisito: Imagen con la gráfica generado.\vspace{0.4cm}} &\parbox{55}{True.}\\
+C15 & \parbox{60}{Ejecución completa II.} & 
+\parbox{200}{\vspace{0.4cm}Método test\_main. Precondición: CSV de entrada de datos. Se comprueba que se generan los ficheros CSVs de resultados al finalizar el proceso. Post-requisito: Ficheros CSV generados.\vspace{0.4cm}}&\parbox{55}{True.}\\
+C16 & \parbox{60}{Ejecución completa III.} & 
+\parbox{200}{\vspace{0.4cm}Método test\_main. Precondición: CSV de entrada de datos. Se comprueba que se genera el fichero de log al finalizar el proceso. Postcondición: Ficheros de log generados.\vspace{0.4cm}}&\parbox{55}{True.}\\
+C17 & \parbox{60}{Ejecución completa IV.} & 
+\parbox{200}{\vspace{0.4cm}Método test\_main. Precondición: CSV de entrada de datos y fichero de log generado correctamente. Se comprueba que la información de log es correcta.\vspace{0.4cm}}&\parbox{55}{True.}\\
+}
+
+\subsection{Fase Verde}
+Tras la creación del código, finalmente se consigue una versión que pasa todos los test programados en la fase anterior, como se puede observar en la siguiente ilustración:
+
+\imagen{pruebasPasadas}{Pruebas pasadas exitosamente}{0.7}
+
+\subsection{Fase Morada}
+En esta fase se han realizado acciones de refactorización. A saber:
+
+\begin{itemize}
+    \item Documentación de código:
+    Se han incluido las cabeceras y comentarios más importantes en el código para facilitar su comprensión y claridad. Asimismo, se han eliminado comentarios redundantes o innecesarios.
+
+    \item Ordenación de \textit{imports}:
+    Se han ordenado los \textit{imports} del código de forma que se identifique fácilmente la naturaleza de los paquetes y módulos empleados. De esta forma, se agrupan al inicio los módulos integrados de Python, posteriormente los paquetes de terceros y, finalmente, módulos o paquetes locales.
+    
+    \item Mensajes de salida I:
+    En lugar de imprimir mensajes de salida en la consola, (ant. \verb|print("[ERROR] Se ha producido un error")|), ahora se utilizan registros de \textit{logging} para registrar los eventos de la función (por ejemplo, \verb|logging.error('Se ha producido un error')|). Los registros son una forma más eficiente y flexible de registrar información que imprimir en la consola.
+        
+    \item Mensajes de salida II:
+    Utiliza f-strings en lugar de concatenar cadenas para mejorar el rendimiento y la legibilidad del código. Ejemplo: \verb|logging.error('Se ha producido un error'+ codigo_error)| por \verb|logging.error(f'Se ha producido un error {codigo_error}')|.
+
+    \item Acceso a diccionarios I:
+    En lugar de especificar los parámetros de búsqueda utilizando una cadena de consulta, se puede usar un diccionario y pasarlos como argumentos de palabras clave al método \verb|requests.get()|. Esto puede hacer que el código sea más legible.
+
+    \item Acceso a diccionarios II:
+    En lugar de crear un diccionario vacío "author" y luego verificar si existe una lista de autores, se puede usar el método \verb|get()| directamente en la lista de autores para obtener el primer elemento de la lista.
+
+    \item Lista de comprensión:
+    En lugar de crear un diccionario temporal publicacion para cada artículo, se puede usar una lista de comprensión para crear una lista de diccionarios de artículos. Esto puede hacer que el código sea más conciso.
+	
+    
+\end{itemize}
+
+
+
+
+
+\section{PREGUNTA SOBRE TABLA}
+
+He hecho una tabla general con los casos de prueba muy resumidos... ¿crees que es suficiente, o sería conveniente elaborar una tabla para cada uno de los casos de prueba (como la de abajo)?
+
+\begin{table}[p]
+	\centering
+	\begin{tabularx}{\linewidth}{ p{0.21\columnwidth} p{0.71\columnwidth} }
+		\toprule
+		\textbf{CP-1}    & \textbf{Ejemplo de caso de prueba}\\
+		\toprule
+		\textbf{Versión}              & 1.0    \\
+		\textbf{Autor}                & Alumno \\
+		\textbf{Requisitos asociados} & RF-xx, RF-xx \\
+		\textbf{Descripción}          & La descripción del CP \\
+		\textbf{Precondición}         & Precondiciones (podría haber más de una) \\
+		\textbf{Acciones}             &
+		\begin{enumerate}
+			\def\labelenumi{\arabic{enumi}.}
+			\tightlist
+			\item Pasos del CP
+			\item Pasos del CP (añadir tantos como sean necesarios)
+		\end{enumerate}\\
+		\textbf{Postcondición}        & Postcondiciones (podría haber más de una) \\
+		\textbf{Excepciones}          & Excepciones \\
+		\textbf{Importancia}          & Alta o Media o Baja... \\
+		\bottomrule
+	\end{tabularx}
+	\caption{CP-1 Nombre del caso de prueba.}
+\end{table}
+
+
+	
+	

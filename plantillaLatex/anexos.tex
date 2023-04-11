@@ -36,17 +36,32 @@
 % Evitar solapes en el header
 \nouppercaseheads
 
+% Cuadros de notas (comando propuesto por la alumna)
+% Los parámetros son:
+% 1 --> Texto de la nota
+\newcommand{\nota}[1]{
+    \begin{center}
+        \fcolorbox{blue}{white}{\textcolor{black}{
+            \begin{minipage}{0.915\linewidth}
+        	\textbf{\color{blue}NOTA}
+                \linebreak\linebreak
+                #1
+                \linebreak
+            \end{minipage}
+        }}
+    \end{center}
+}
+
 % Imagenes
 \usepackage{graphicx}
-\newcommand{\imagen}[2]{
+\newcommand{\imagen}[3]{
 	\begin{figure}[!h]
 		\centering
-		\includegraphics[width=0.9\textwidth]{#1}
+		\includegraphics[width=#3\textwidth]{#1}
 		\caption{#2}\label{fig:#1}
 	\end{figure}
 	\FloatBarrier
 }
-
 \newcommand{\imagenflotante}[2]{
 	\begin{figure}%[!h]
 		\centering
@@ -167,14 +182,14 @@
       \otoprule
     }
     \tablehead{
-      \multicolumn{#3}{l}{\small\sl continúa desde la página anterior}\\
+      \multicolumn{#3}{l}{\small}\\
       \toprule
       #5
       \otoprule
     }
     \tabletail{
       \hline
-      \multicolumn{#3}{r}{\small\sl continúa en la página siguiente}\\
+      \multicolumn{#3}{r}{\small}\\
     }
     \tablelasttail{
       \hline
@@ -186,6 +201,34 @@
       \bottomrule
     \end{xtabular}
     \label{tabla:#4}
+  \end{center}
+}
+\newcommand{\tablatres}[6]{%
+  \begin{center}
+    \tablefirsthead{
+      \toprule
+      #5
+      \otoprule
+    }
+    \tablehead{
+      \multicolumn{#3}{l}{\small}\\
+      \toprule
+      #5
+      \otoprule
+    }
+    \tabletail{
+      \hline
+      \multicolumn{#3}{r}{\small}\\
+    }
+    \tablelasttail{
+      \hline
+    }
+    %\bottomcaption{#1}
+    \rowcolors {2}{gray!35}{}
+    \begin{xtabular}{#2}
+      #6
+      \bottomrule
+    \end{xtabular}
   \end{center}
 }
 
@@ -399,6 +442,7 @@
 \include{./tex/C_Diseno}
 \include{./tex/D_Manual_programador}
 \include{./tex/E_Manual_usuario}
+\include{./tex/F_Proyecto_de_pruebas}
 
 
 \bibliographystyle{plain}

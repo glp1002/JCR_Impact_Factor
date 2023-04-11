@@ -137,7 +137,27 @@
 \newcommand{\otoprule}{\midrule [\heavyrulewidth]}
 %
 % Nuevo comando para tablas pequeñas (menos de una página).
+% NOTA: Modificaciones hechas por la alumna.
 \newcommand{\tablaSmall}[5]{%
+ \begin{table}
+  \begin{center}
+   \rowcolors {2}{gray!35}{}
+   % Modificado: ajuste del sobrayado gris a los márgenes
+   \setlength{\tabcolsep}{0pt}
+   % Modificado:@{} elimina los espacios laterales
+   \begin{tabular}{@{}#2@{}}
+    \toprule
+    #4
+    \otoprule
+    #5
+    \bottomrule
+   \end{tabular}
+   \caption{#1}
+   \label{tabla:#3}
+  \end{center}
+ \end{table}
+}
+\newcommand{\tablaSmalldos}[5]{%
  \begin{table}
   \begin{center}
    \rowcolors {2}{gray!35}{}
@@ -153,7 +173,6 @@
   \end{center}
  \end{table}
 }
-
 %
 % Nuevo comando para tablas pequeñas (menos de una página).
 \newcommand{\tablaSmallSinColores}[5]{%
@@ -409,11 +428,11 @@
 
 \noindent\includegraphics[width=\textwidth]{cabecera}\vspace{1cm}
 
-\noindent Dña. Virginia Ahedo, profesora del departamento de Ingeniería de Organización, área de Organización de Empresas.
+\noindent Dña. Virginia Ahedo, profesora del departamento de Ingeniería de Organización, área de Organización de Empresas y D. Álvar Arnaiz, del departamento de Ingeniería Informática, área de Lenguajes y Sistemas Informáticos.
 
-\noindent Expone:
+\noindent Exponen:
 
-\noindent Que el alumno Dña. \nombre, con DNI 71483074V, ha realizado el Trabajo final de Grado en Ingeniería Informática titulado ``Impact Factor Oracle''. 
+\noindent Que el alumno Dña. \nombre, con DNI 71483074V, ha realizado el Trabajo final de Grado en Ingeniería Informática titulado <<Impact Factor Oracle>>. 
 
 \noindent Y que dicho trabajo ha sido realizado por el alumno bajo la dirección del que suscribe, en virtud de lo cual se autoriza su presentación y defensa.
 
@@ -452,17 +471,18 @@ D. Álvar Arnaiz
 % Abstract en castellano
 \renewcommand*\abstractname{Resumen}
 \begin{abstract}
-El presente proyecto se centra en el desarrollo de una aplicación web que utiliza técnicas de aprendizaje automático para predecir el factor de impacto de las revistas científicas. Esta métrica se utiliza para evaluar la importancia de una revista en un campo científico determinado. Se mide a través de la frecuencia con la que los artículos de la misma han sido citados en un año específico.
+El presente proyecto se centra en la extracción de datos bibliográficos con el fin de calcular y predecir el Factor de Impacto. Esta métrica se utiliza para evaluar la importancia de una revista en un campo científico determinado. Se mide a través de la frecuencia con la que los artículos de la misma han sido citados en un año específico. Se trata de un criterio importante en la evaluación de la calidad del trabajo científico y puede ser de gran ayuda en la selección de la revista adecuada para publicar un nuevo trabajo. 
 
-El proyecto utilizará los datos históricos disponibles en Google Scholar como inputs para los algoritmos de aprendizaje automático. Estos algoritmos serán supervisados y se utilizarán para estimar el valor del índice de impacto de las revistas indexadas en el JCR (Journal Citation Reports). El objetivo final es desarrollar una aplicación web accesible y de fácil uso para la comunidad científica, que permita predecir la importancia de las revistas científicas en tiempo real.
+El proyecto extraerá los datos históricos disponibles en la web (tales como Google Scholar, Crossref, Web of Science, Scopus...) empleando técnicas de \textit{web scrapping} sobre las distintas fuentes. Estos datos se utilizarán como entradas para los algoritmos de aprendizaje automático, que serán supervisados y se utilizarán para estimar el valor del Índice de Impacto de las revistas indexadas en el JCR (Journal Citation Reports). 
 
-Este proyecto es relevante para la comunidad científica ya que el factor de impacto es un criterio importante en la evaluación de la calidad del trabajo científico y puede ser de gran ayuda en la selección de la revista adecuada para publicar un nuevo trabajo. Además, la aplicación web será de acceso abierto y se encontrará en un repositorio público para garantizar su disponibilidad y uso por parte de la comunidad científica. 
+El objetivo final es desarrollar una aplicación web accesible y de fácil uso para la comunidad científica, que permita predecir la importancia de las revistas científicas en tiempo real. Esta aplicación web será de acceso abierto y se encontrará en un repositorio público para garantizar su disponibilidad y uso por parte de la comunidad científica. 
+
 
 \end{abstract}
 
 \renewcommand*\abstractname{Descriptores}
 \begin{abstract}
-Bibliometría, publicación de artículos, revistas científicas, índice de impacto.
+Bibliometría, publicación de artículos, revistas científicas, Índice de Impacto, aplicación web, aprendizaje automático.
 \end{abstract}
 
 \clearpage
@@ -470,16 +490,17 @@ Bibliometría, publicación de artículos, revistas científicas, índice de imp
 % Abstract en inglés
 \renewcommand*\abstractname{Abstract}
 \begin{abstract}
-This project focuses on the development of a web application that uses machine learning techniques to predict the impact factor of scientific journals. The impact factor is a metric used to assess the importance of a journal in a given scientific field. It is measured through the frequency with which the articles of a journal have been cited in a specific year.
+The present project focuses on extracting bibliographic data in order to calculate and predict the Impact Factor. This metric is used to evaluate the importance of a journal in a specific scientific field. It is measured by the frequency with which articles from the same journal have been cited in a specific year. It is an important criterion in evaluating the quality of scientific work and can be of great help in selecting the appropriate journal to publish new work.
 
-The project will use the historical data available in Google Scholar as inputs for the machine learning algorithms. These algorithms will be supervised and used to estimate the impact index value of the journals indexed in the JCR (Journal Citation Reports). The ultimate goal is to develop an accessible and easy-to-use web application for the scientific community, which allows predicting the importance of scientific journals in real time.
+The project will extract historical data available on the web (such as Google Scholar, Crossref, Web of Science, Scopus...) using web scraping techniques on various sources. This data will be used as inputs for machine learning algorithms, which will be supervised and used to estimate the value of the Impact Factor of the journals indexed in the JCR (Journal Citation Reports).
 
-This project is relevant for the scientific community since the impact factor is an important criterion in the evaluation of the quality of scientific work and can be of great help in the selection of the appropriate journal to publish a new work. In addition, the web application will be open access and will be in a public repository to guarantee its availability and use by the scientific community.
+The ultimate goal is to develop an accessible and easy-to-use web application for the scientific community, which will allow the prediction of the importance of scientific journals in real-time. This web application will be open access and will be located in a public repository to ensure its availability and use by the scientific community.
+
 \end{abstract}
 
 \renewcommand*\abstractname{Keywords}
 \begin{abstract}
-Bibliometrics, articles publication, scientific journals, impact index.
+Bibliometrics, articles publication, scientific journals, impact index, web application, machine learning.
 \end{abstract}
 
 \clearpage

@@ -16,14 +16,14 @@ El uso \textit{web-scraping} resulta ser una técnica efectiva en este proyecto 
 \section{Lenguaje de programación}
 En primer lugar, nos planteamos la cuestión del lenguaje o lenguajes de programación más adecuados para nuestro objetivo. Las listas de popularidad actuales nos muestran dos entornos ganadores para proyectos de \textit{web-scraping}: Python y Javascript.
 
-Aunque ambos lenguajes son altamente capaces para nuestro proyecto, la enorme base de conocimientos y la diversidad de herramientas creadas en el universo \textbf{Python} decanta la balanza hacia ese lado. Quizás JavaScript permita mejores resultados usando la gestión de memoria en \textit{requests} simultáneas, pero a costa de un código más oscuro y difícil de mantener. Aunque JavaScript cuenta con un gran repertorio de paquetes Node.JS como utilidades de \textit{web-scraping}, en el entorno Python es difícil imaginar una tarea para la que no se haya escrito una (o más) herramientas que resuelvan eficazmente nuestro problema. 
+Aunque ambos lenguajes son altamente capaces para nuestro proyecto, la enorme base de conocimientos y la diversidad de herramientas creadas en el universo Python decanta la balanza hacia ese lado. Quizás JavaScript permita mejores resultados usando la gestión de memoria en \textit{requests} simultáneas, pero a costa de un código más oscuro y difícil de mantener. Aunque JavaScript cuenta con un gran repertorio de paquetes Node.JS como utilidades de \textit{web-scraping}, en el entorno Python es difícil imaginar una tarea para la que no se haya escrito una (o más) herramientas que resuelvan eficazmente nuestro problema. 
 
 Por otro lado, la comunidad de programadores de Python es inmensa y su creciente popularidad facilita el hallazgo de soluciones rápidamente, tanto en los foros como en la extensa documentación con la que cuenta. Aunque encontramos un rendimiento ligeramente inferior a otros lenguajes en ciertas búsquedas, es el precio a pagar por el tipado dinámico. 
 
 Como valor añadido, Python es fácil de mantener cuando necesitamos adaptar nuestro código a las cambiantes estructuras de las páginas web. Además, sus reconocidas herramientas de análisis de datos nos permiten continuar en el mismo entorno, sin necesidad de buscar alternativas para afrontar tareas relacionadas con la \textit{data science}.
 
 \section{Bibliotecas}
-A lo largo del proyecto se ha recurrido a diversas bibliotecas de \textbf{Python}. A continuación, se presenta brevemente cada una de ellas.
+A lo largo del proyecto se ha recurrido a diversas bibliotecas de Python. A continuación, se presenta brevemente cada una de ellas.
 
 \subsection{Scholarly}
 Se trata de una biblioteca de Python que permite acceder a los datos de Google Scholar de manera fácil y rápida. La biblioteca proporciona una interfaz sencilla para buscar y recuperar información sobre artículos, autores y revistas en Google Scholar, incluyendo metadatos, citas y otra información relacionada.
@@ -51,6 +51,13 @@ Selenium es una biblioteca de Python de automatización de navegadores web que s
 
 A diferencia de otras bibliotecas de \textit{web scraping}, Selenium permite simular la navegación humana en la web, permitiendo realizar búsquedas, hacer clic en botones, llenar formularios, entre otras acciones. Esto es muy útil cuando se trata de sitios web que tienen medidas de seguridad para evitar el \textit{web scraping} y requieren de interacción humana.
 
+\subsection{Scikit-learn}
+
+Scikit-learn es una librería de aprendizaje automático en Python que ofrece una amplia variedad de algoritmos de clasificación, regresión y clustering, entre otros. Esta librería destaca por su facilidad de uso y la implementación eficiente de los algoritmos, lo que permite su uso en grandes conjuntos de datos. Cuenta también con herramientas de preprocesamiento de datos y evaluación de modelos. Sus ventajas incluyen una documentación completa y una comunidad activa que ofrece soporte y mejora continuamente la librería, así como la capacidad de integrarse fácilmente con otras librerías y herramientas de Python para el análisis de datos.
+
+\subsection{Unittest}
+
+Para los proyectos de pruebas, hemos utilizado la biblioteca de pruebas unitarias de Python llamada unittest. Una de las principales ventajas de unittest es que se integra fácilmente con el flujo de trabajo de Test Data Driven (metodología de pruebas empleada), permitiendo que las pruebas se ejecuten automáticamente y de manera aislada del código principal. Además, unittest proporciona una gran cantidad de funcionalidades y herramientas para facilitar la escritura y ejecución de pruebas, lo que nos ha permitido realizar pruebas complejas de manera eficiente y eficaz.
 
 \section{Bases de datos}
 
@@ -59,26 +66,24 @@ Antes de su compra por Oracle Corporation (2010), MySQL era la aplicación de ba
 En realidad, MariaDB es una bifurcación de MySQL nacida para garantizar la supervivencia del proyecto como código abierto. Hoy en día, MariaDB es altamente compatible con MySQL e incluso superior en sus últimas versiones (10.1.1), ya que la comunidad ha ido añadiendo nuevas características al proyecto original. Por otro lado, aunque no está tan extendido como MySQL, PostgreSQL es posiblemente el gestor de bases de datos de código abierto más sólido y potente a día de hoy.
 
 
-\tablaSmall{Comparativa entre MariaDB y PostgreSQL}{l l}{comparativabbdd}
-{ MariaDB & PostgreSQL\\}{ 
-No totalmente compatible con SQL & Compatible con SQL estándar\\
-Soporte para tipos de datos estándar SQL & Soporta además tipos avanzados\\
-Tipos de datos flexibles & Tipos de datos estrictos \\
-Tamaño pequeño de base de datos & Tamaño grande de base de datos \\
-Sin soporte directo para JSON  & Soporte directo de JSON \\
-No índices parciales & Índices parciales \\
-No soporte para web dinámica & Soporta sitios web dinámicos\\
+\tablaSmall{Comparativa entre MariaDB y PostgreSQL}{ll}{comparativabbdd}
+{MariaDB & PostgreSQL\\}{ 
+No totalmente compatible con SQL. & Compatible con SQL estándar.\\
+Soporte para tipos de datos estándar SQL. & Soporta además tipos avanzados.\\
+Tipos de datos flexibles. & Tipos de datos estrictos. \\
+Tamaño pequeño de base de datos. & Tamaño grande de base de datos. \\
+Sin soporte directo para JSON.  & Soporte directo de JSON. \\
+No índices parciales. & Índices parciales. \\
+No soporte para web dinámica. & Soporta sitios web dinámicos.\\
 } 
 
 
 \subsection{PostgreSQL}
 Finalmente se opta por \href{https://www.postgresql.org/}{PostgreSQL} (también denominado Postgres). Pese a que ambas opciones son muy similares, se ha elegido esta última debido a que ya se ha trabajado con ella anteriormente. Además, PostgreSQL posee una sólida reputación por su arquitectura comprobada, confiabilidad, integridad de datos, conjunto sólido de características, extensibilidad y la dedicación de la comunidad de código abierto detrás del software para ofrecer soluciones innovadoras y de rendimiento constante~\cite{Postgresql.org}.
 
-
 Al igual que MariaDB, es un sistema de gestión de bases de datos relacional de código abierto. Así pues, está dirigido y desarrollado por una comunidad altruista de desarrolladores (PostgreSQL Global Development Group).
 PostgreSQL utiliza y amplía el lenguaje SQL combinado con muchas características que almacenan y escalan de forma segura las cargas de trabajo de datos más complicadas~\cite{Postgresql.org}. 
 Su última versión y la usada para el proyecto es la versión 15.1 lanzada el 10 de noviembre de este año.
-
 
 
 \section{APIs}

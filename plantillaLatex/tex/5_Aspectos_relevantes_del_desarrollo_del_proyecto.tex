@@ -6,29 +6,31 @@
 %Puede ser el lugar más adecuado para documentar los aspectos más interesantes del diseño y de la implementación, con un mayor hincapié en aspectos tales como el tipo de arquitectura elegido, los índices de las tablas de la base de datos, normalización y desnormalización, distribución en ficheros3, reglas de negocio dentro de las bases de datos (EDVHV GH GDWRV DFWLYDV), aspectos de desarrollo relacionados con el WWW...
 %Este apartado, debe convertirse en el resumen de la experiencia práctica del proyecto, y por sí mismo justifica que la memoria se convierta en un documento útil, fuente de referencia para los autores, los tutores y futuros alumnos.
 
-En esta sección se presenta un resumen de los hallazgos más relevantes obtenidos a lo largo del proyecto, así como una descripción detallada de las distintas fases por las que se ha atravesado hasta lograr alcanzar una solución satisfactoria al problema planteado.
+En esta sección se presenta un resumen de los hallazgos más relevantes obtenidos a lo largo del proyecto, así como una descripción detallada de las distintas fases por las que se ha atravesado hasta lograr alcanzar una solución satisfactoria al problema planteado. A saber, la fase de extracción de datos, la fase de aprendizaje automático y la fase de creación de la aplicación web.
+
+\imagen{ciclodevidaproyecto}{Fases del proyecto}{0.7}
 
 \section{Extracción de la información}
-La primera fase de este proyecto es la más extensa y consiste en la extracción de datos para alimentar la base de datos. Para esto, es necesario tener en cuenta varias bases de datos bibliográficas que ofrecen diversos recursos para los investigadores. Entre las más importantes se encuentran Google Scholar (GS), Scopus, Web of Science (WoS) y PubMed.
+La primera fase de este proyecto es la más extensa y consiste en la extracción de datos para alimentar la base de datos. Para esto, es necesario tener en cuenta varias bases de datos bibliográficas que ofrecen diversos recursos para los investigadores. Entre las más importantes se encuentran Google Scholar, Scopus, WoS y Crossref.
 
 \subsection{Prototipos para Google Scholar}
 
-De todas las bases de datos bibliográficas mencionadas, la más destacada es Google Scholar, puesto que crece más rápido que cualquier base de datos tradicional en todos los campos científicos~\cite{harzing2010}~\cite{lopez2017}.
+De todas las bases de datos bibliográficas mencionadas, la más destacada es Google Scholar, puesto que crece más rápido que cualquier base de datos tradicional en todos los campos científicos~\cite{harzing2010, lopez2017}.
 
-Así pues, el primer prototipo diseñado consiste en la extracción de datos de GS. Sin embargo, si bien es cierto que GS es un motor de búsqueda gratuito, universal y rápido con una amplia cobertura, tiene muchas limitaciones~\cite{lopez2017}. 
+Así pues, el primer prototipo diseñado consiste en la extracción de datos de Google Scholar. Sin embargo, si bien es cierto que Google Scholar es un motor de búsqueda gratuito, universal y rápido con una amplia cobertura, tiene muchas limitaciones~\cite{lopez2017}. 
 
 
-Por ejemplo, no hay funcionalidades de exportación de datos o API disponibles debido a restricciones comerciales. Además, solo se pueden mostrar los primeros 1,000 resultados de cada consulta. Aunque algunas técnicas como los retrasos temporales o el uso de \textit{proxies} pueden ayudar, no resuelven completamente estas limitaciones. Además, la extracción automatizada de estos datos va en contra de las políticas del archivo robots.txt de GS, lo que hace que los usuarios que realizan demasiadas consultas automatizadas sean bloqueados cada 200 solicitudes detectadas~\cite{lopez2017}.
+Por ejemplo, no hay funcionalidades de exportación de datos o API disponibles debido a restricciones comerciales. Además, solo se pueden mostrar los primeros 1\,000 resultados de cada consulta. Aunque algunas técnicas como los retrasos temporales o el uso de \textit{proxies} pueden ayudar, no resuelven completamente estas limitaciones. Además, la extracción automatizada de estos datos va en contra de las políticas del archivo \texttt{robots.txt} de Google Scholar, lo que hace que los usuarios que realizan demasiadas consultas automatizadas sean bloqueados cada 200 solicitudes detectadas~\cite{lopez2017}.
 
 Durante el avance del proyecto, nos dimos cuenta de muchas de las limitaciones mencionadas.
 
 \subsubsection{Prototipo inicial}
 
-Tras comprender que las complicaciones eran numerosas, se decidió crear un \textbf{prototipo sencillo}, consistente en un \textit{script} en Python, que trataría de lanzar mil peticiones de búsqueda. Esto nos permitiría establecer los límites de realizar \textit{web-scrapping} sobre Google Scholar.
+Tras comprender que las complicaciones eran numerosas, se decidió crear un prototipo sencillo, consistente en un \textit{script} en Python, que trataría de lanzar mil peticiones de búsqueda. Esto nos permitiría establecer los límites de realizar \textit{web scrapping} sobre Google Scholar.
 
 Así pues, manos a la obra, se desarrolló un \textit{script} sencillo, que solicita acceso a la página principal de Google Scholar y, mediante métodos HTTP, realiza una búsqueda (a partir de parámetros solicitados por pantalla). Finalmente, extrae el título de la página resultante tras hacer la búsqueda. 
 
-Todo esto se logra haciendo uso de la biblioteca de Python BeautifulSoup (ver documentación en el siguiente \href{https://beautiful-soup-4.readthedocs.io/en/latest/}{enlace}).
+Todo esto se logra haciendo uso de la biblioteca de Python BeautifulSoup.
 
 % Filtro por revistas
 
@@ -43,7 +45,7 @@ Sin embargo, existe una problemática: en cada artículo se hace referencia a la
 
 Por ello se ha buscado una solución alternativa.
 Existe una etiqueta (\texttt{<b> … </b>}) que incluye aquellas palabras resaltadas en negrita en la página web. Google Scholar resalta en una búsqueda aquellas palabras que coinciden con alguno de los parámetros buscados. Así pues, si se realiza una búsqueda en Google Scholar pasando como parámetro el nombre de la revista que nos interesa, bastará con buscar en la clase  \texttt{gs\_a} (donde se almacenan los detalles del artículo) alguna etiqueta \texttt{<b>}.
-Se ha escrito un pequeño código de prueba y, en principio, parece que funciona sin problemas. Se adjunta dicho código (extraerRevistas.py) en el repositorio de GitHub.
+Se ha escrito un pequeño código de prueba y, en principio, parece que funciona sin problemas. Se adjunta dicho código (\texttt{extraerRevistas.py}) en el repositorio de GitHub. %TODO: meter enñace
 Este código hace dos búsquedas: una a la revista Alas Peruanas y otra a la revista The Lancet (elegidas de forma aleatoria).
 
 %La salida obtenida (solo de la primera página de resultados) es la siguiente:
@@ -53,17 +55,17 @@ Este código hace dos búsquedas: una a la revista Alas Peruanas y otra a la rev
 %La salida por pantalla mostrada en la imagen anterior sigue la siguiente estructura: [\texttt{‘nombre artículo’, ‘nombre de la revista’, número\_citas, fecha, id}]
 La salida que se mostrará por pantalla sigue la siguiente estructura: [\texttt{‘nombre artículo’, ‘nombre de la revista’, número\_citas, fecha, id}]
 
-De igual forma se recogen los resultados en los CSVs (codificados en UTF-8) con nombre: BBDD1.csv y BBDD2.csv.
+De igual forma se recogen los resultados en los CSVs (codificados en UTF-8) con nombre: \texttt{BBDD1.csv} y \texttt{BBDD2.csv}.
 
 
 % Paginación
 
-Otra de las mejoras que se implementa en el prototipo en la capacidad de navegar a través de las distintas páginas de resultados de Google Scholar. Para ello, se incluye un nuevo campo en la \textit{query} de búsqueda que irá aumentando de 10 en 10 por cada página de resultados nueva que se consulte.
+Otra de las mejoras que se implementa en el prototipo en la capacidad de navegar a través de las distintas páginas de resultados de Google Scholar. Para ello, se incluye un nuevo campo en la consulta de búsqueda que irá aumentando de 10 en 10 por cada página de resultados nueva que se consulte.
 Ahora ya se obtiene un número de resultados considerable (aproximadamente 100). Estos resultados se guardarán también en los CSVs (también codificados en UTF-8) con los siguientes nom-bres: BBDD3.csv y BBDD4.csv
 
 % CAPTCHA y proxies
 
-Tras diseñar y programar el código mencionado, se procede a su prueba. La primera ejecución del \textit{script} resultó desaletadora, ya que, a partir de la solicitud número \textbf{726}, Google Scholar detecta que un \textbf{\textit{bot}} está realizando búsquedas. A partir de ese momento, nuestra dirección IP queda bloqueada y las solicitudes fallan sin excepción. Google Schoolar nos redirecciona a una página (figura \ref{fig:error}) donde se solicita al usuario resolver un \textit{captcha}. 
+Tras diseñar y programar el código mencionado, se procede a su prueba. La primera ejecución del \textit{script} resultó desaletadora, ya que, a partir de la solicitud número 726, Google Scholar detecta que un \textit{bot} está realizando búsquedas. A partir de ese momento, nuestra dirección IP queda bloqueada y las solicitudes fallan sin excepción. Google Schoolar nos redirecciona a una página (figura \ref{fig:error}) donde se solicita al usuario resolver un \textit{captcha}. 
 
 \imagen{error}{Captura de reCAPTCHA de Google}{1}
 
@@ -71,7 +73,7 @@ El número de solicitudes exitosas es demasiado bajo para cumplir su función en
 
 Tras distintas pruebas, se encontró una forma de superar la barrera del \textit{captcha}. A saber: añadiendo a la \textit{url} una sección de texto extra que permite suprimir esta excepción durante un periodo concreto de tiempo. Así pues, logramos ejecutar con éxito el \textit{script} tantas veces como fuese necesario. Sin embargo, esta solución tampoco es válida a largo plazo. Si se intenta ejecutar de nuevo el programa, en otra sesión, la dirección vuelve a ser inválida. Además, es un remedio poco práctico, ya que se debe concatenar distintos parámetros y cadenas de texto que, dependiendo del momento y el contexto en que se ejecute, pueden no servir.
 
-Como la propuesta anterior no fue satisfactoria, se siguió buscando opciones. La siguiente propuesta consistía en usar un agente de usuario distinto para cada solicitud\footnote{Un agente de usuario es cualquier software, que actúa en nombre de un usuario, que <<recupera, presenta y facilita la interacción del usuario final con el contenido web>>. Algunos ejemplos destacados de agentes de usuario son los navegadores web. La cadena User-Agent es uno de los criterios por los cuales los rastreadores web pueden ser excluidos del acceso a ciertas partes de un sitio web utilizando el Estándar de exclusión de robots (\texttt{archivo robots.txt}).}. De esta forma <<enmascaramos>> nuestra dirección IP. La biblioteca \textbf{Request} de Python ofrece métodos para lograrlo. Dicho esto, se implementó un método que extrae \textit{proxies} de listas públicas y gratuitas de Internet (e.g.: \href{https://www.proxyscrape.com/free-proxy-list}{proxyscrape.com}). Se prueba la ejecución del prototipo una vez más y, finalmente, funciona sin inconvenientes. Ahora ya se puede decir que el proyecto es \textbf{viable}.
+Como la propuesta anterior no fue satisfactoria, se siguieron buscando opciones. La siguiente propuesta consistía en usar un agente de usuario distinto para cada solicitud\footnote{Un agente de usuario es cualquier software, que actúa en nombre de un usuario, que <<recupera, presenta y facilita la interacción del usuario final con el contenido web>>. Algunos ejemplos destacados de agentes de usuario son los navegadores web. La cadena User-Agent es uno de los criterios por los cuales los rastreadores web pueden ser excluidos del acceso a ciertas partes de un sitio web utilizando el Estándar de exclusión de robots (\texttt{archivo robots.txt}).}. De esta forma <<enmascaramos>> nuestra dirección IP. La biblioteca Request de Python ofrece métodos para lograrlo. Dicho esto, se implementó un método que extrae \textit{proxies} de listas públicas y gratuitas de Internet (e.g.: \href{https://www.proxyscrape.com/free-proxy-list}{proxyscrape.com}). Se prueba la ejecución del prototipo una vez más y, finalmente, funciona sin inconvenientes. Ahora ya se puede decir que el proyecto es \textbf{viable}.
 
 
 % DOI y Crossref
@@ -90,29 +92,64 @@ Para hacer la búsqueda en Crossref es necesario indicarle tanto el título como
 % Multihilo
 \subsubsection{Prototipo multihilo}
 
-Con el prototipo listo, se prueba a extraer la información de los artículos de las primeras 20 páginas de resultados de Google Scholar de dos revistas. Los resultados no son muy esperanzadores: se obtienen 180 artículos de cada revista en 15 minutos. Estos resultados no son eficientes, por lo que se tratará de optimizar el prototipo siguiendo dos pautas. Primero, se tratará de extraer las llamadas a Crossref de forma que solo se tenga que realizar una única llamada una vez que se han extraído el resto de detalles sobre los artículos. La segunda pauta es emplear programación concurrente para ejecutar varios hilos al mismo tiempo. 
+Con el prototipo listo, se prueba a extraer la información de los artículos de las primeras 20 páginas de resultados de Google Scholar de dos revistas. Los resultados no son muy esperanzadores: se obtienen 180 artículos de cada revista en 15 minutos. Estos resultados no son eficientes, por lo que se tratará de optimizar el prototipo siguiendo dos pautas. 
 
-Así, cada revista será procesada por un hilo distinto. Para ello, será necesario recurrir a la librería de Python \textit{multiprocessing}.Tras actualizar estos cambios, el prototipo obtiene resultados mucho más óptimos: obtiene los 180 artículos de ambas revistas en tan solo 8 minutos. El próximo objetivo es determinar el número máximo de hilos que se pueden lanzar sin impactar negativamente el rendimiento del prototipo.
+\begin{itemize}
+    \item La primera pauta es tratar de extraer las llamadas a Crossref de forma que solo se tenga que realizar una única llamada una vez que se han extraído el resto de detalles sobre los artículos.
+    \item La segunda pauta es emplear programación concurrente para ejecutar varios hilos al mismo tiempo.
+\end{itemize}
 
-Para ello, se solicitó permiso para acceder a los servidores de la universidad. A través de SSH, nos conectamos a una de las máquinas y, utilizando un entorno virtualizado de Miniconda, comenzamos a lanzar hilos. Sin embargo, el resultado fue desastroso, ya que al realizar 200 llamadas a GS, nos bloqueaban y teníamos que resolver un CAPTCHA. Intentamos insertar esperas de tiempo aleatorias y cambiar el user-agent en cada una de las llamadas. Incluso se probó a cambiar el término de búsqueda. Sin embargo, nada de esto funcionó. Matemáticamente, después de aproximadamente 200-250 llamadas, aparecía el CAPTCHA.
+Así, cada revista será procesada por un hilo distinto. Para ello, será necesario recurrir a la librería de Python \textit{multiprocessing}. Tras actualizar estos cambios, el prototipo obtiene resultados mucho más óptimos: obtiene los 180 artículos de ambas revistas en tan solo 8 minutos. El próximo objetivo es determinar el número máximo de hilos que se pueden lanzar sin impactar negativamente el rendimiento del prototipo.
+
+Para ello, se solicitó permiso para acceder a los servidores de la universidad. A través de SSH, nos conectamos a una de las máquinas y, utilizando un entorno virtualizado de Miniconda, comenzamos a lanzar hilos. Sin embargo, el resultado fue desastroso, ya que al realizar 200 llamadas a Google Scholar, nos bloqueaban y teníamos que resolver un CAPTCHA. Intentamos insertar esperas de tiempo aleatorias y cambiar el user-agent en cada una de las llamadas. Incluso se probó a cambiar el término de búsqueda. Sin embargo, nada de esto funcionó. Matemáticamente, después de aproximadamente 200-250 llamadas, aparecía el CAPTCHA.
 
 
 \subsubsection{Prototipo con Selenium}
-La única solución posible frente a las restricciones de GS es tratar de <<humanizar>> las búsquedas para que parezca que las realiza un ser humano. Por lo tanto, se decidió emplear Selenium, que nos permite emular los pasos que realizaría un usuario normal al hacer una búsqueda. El nuevo prototipo entra directamente en el navegador con la ruta de la búsqueda, lo que ahorra la necesidad de realizar llamadas adicionales. Luego, hace clic en la sección citar de cada uno de los resultados de la búsqueda y aparece un cuadro emergente del cual se puede extraer la información completa de la cita. Esto resuelve otro de los problemas que teníamos con el prototipo anterior: GS acorta los nombres largos añadiendo puntos suspensivos, mientras que en la sección citar aparecen los nombres completos. 
+La única solución posible frente a las restricciones de Google Scholar es tratar de <<humanizar>> las búsquedas para que parezca que las realiza un ser humano. Por lo tanto, se decidió emplear Selenium, que nos permite emular los pasos que realizaría un usuario normal al hacer una búsqueda. El nuevo prototipo entra directamente en el navegador con la ruta de la búsqueda, lo que ahorra la necesidad de realizar llamadas adicionales. Luego, hace clic en la sección citar de cada uno de los resultados de la búsqueda y aparece un cuadro emergente del cual se puede extraer la información completa de la cita. Esto resuelve otro de los problemas que teníamos con el prototipo anterior: Google Scholar acorta los nombres largos añadiendo puntos suspensivos, mientras que en la sección citar aparecen los nombres completos. 
 
 Después de extraer esta información, se cierra el cuadro y se procede a realizar la misma acción en el siguiente artículo. Cuando se llega al décimo resultado (ya que solo hay 10 artículos por página de resultados), se emula un clic en el botón <<Siguiente>> y se procede a realizar lo mismo en la siguiente página de resultados, todo con pausas aleatorias de tiempo entre cada acción. Posteriormente, se procesan los datos de las citas usando expresiones regulares y transformando los diccionarios de datos en un CSV.
 
 Como nota adicional, cabe mencionar que, si se incluye la etiqueta \texttt{source: <nombre de la revista>} en la búsqueda, es posible hacer una búsqueda solo por el nombre de la revista, algo que desconocíamos hasta ahora.
 
-Aunque este método ha probado ser mejor que el anterior, ya que se obtuvieron casi 300 resultados, GS detecta que son consultas automatizadas y salta el CAPTCHA al final.
+Aunque este método ha probado ser mejor que el anterior, ya que se obtuvieron casi 300 resultados, Google Scholar detecta que son consultas automatizadas y salta el CAPTCHA al final.
 
-Para intentar resolver esta situación, se ha intentado superar el CAPTCHA emulando un clic sobre el botón correspondiente. No obstante, para lograrlo es necesario superar varias capas ocultas que se encuentran sobre dicho botón, lo cual resulta complejo. Una vez se logra acceder al botón, aparecen las imágenes que se deben reconocer y esto no se puede automatizar de manera sencilla. Se llega a la conclusión de que no es posible forzar más llamadas de las permitidas en Google Scholar, tal y como se ha mencionado en otros trabajos, como en el caso de Publish or Perish~\cite{harzing2010}.
+Para intentar resolver esta situación, se ha intentado superar el CAPTCHA emulando un clic sobre el botón correspondiente. No obstante, para lograrlo es necesario superar varias capas ocultas que se encuentran sobre dicho botón, lo cual resulta complejo. Una vez se logra acceder al botón, aparecen las imágenes que se deben reconocer y esto no se puede automatizar de manera sencilla. Se llega a la conclusión de que no es posible forzar más llamadas de las permitidas en Google Scholar, tal y como se ha mencionado en otros trabajos, como en el caso de \textit{Publish or Perish}~\cite{harzing2010}.
 
+\subsection{Web of Science y Scopus}
 
+Se consideraron también estas dos potentes fuentes bibliográficas. Sin embargo, para acceder a los datos a través de sus APIs correspondientes, se requiere una licencia que permita su uso. A pesar de haber solicitado dichas licencias, las limitaciones y restricciones de ambas APIs han impedido la realización de prototipos que cumplan con los objetivos requeridos para este proyecto. Finalmente se terminan descartando ambas opciones.
 
 \subsection{Prototipos para Crossref}
-% TODO
 
-Vista la imposibilidad de obtener una cantidad aceptable de resultados de Google Scholar, se decidió cambiar la fuente de datos. En este caso, Crossref, aunque no es una base de datos tan potente, tiene una API gratuíta y sin tantas restricciones.
+Vista la imposibilidad de obtener una cantidad aceptable de resultados de Google Scholar, Scopus y WoS, se decidió cambiar la fuente de datos. En este caso, Crossref (aunque no es una base de datos tan potente, tiene una API gratuita y sin tantas restricciones).
 
+Este modelo nos permite la extracción de una gran cantidad de datos en un tiempo reducido. Para ilustrar la eficiencia de este modelo, se ha generado una gráfica donde se muestra el tiempo que se ha tardado en extraer los datos (de los últimos 20 años) de cada revista.
 
+\imagen{grafica_tiempos}{Tiempo de extracción de datos de Crossref}{1}
+NOTA: ¿Cómo separar los ISSN de las revistas para que se vean con claridad? -> TODO
+
+Sin embargo, puesto que los datos que se extraen son menos completos y exactos, posteriormente se deberá tratar el margen de error al calcular el Índice de Impacto. Además, es preciso mencionar que, según retrocedemos en el tiempo, la escasez de datos disponibles en Crossref aumenta. Así, resulta evidente que la fiabilidad del cálculo del Índice de Impacto disminuye como consecuencia.
+
+\section{Aprendizaje automático}
+La segunda fase del proyecto consiste en predecir y estimar, a partir de los datos obtenidos, el valor del Índice de Impacto de cada revista seleccionada.
+
+\subsection{Cálculo del JCR}
+Antes de comenzar a predecir el JCR, se ha desarrollado un algoritmo para calcular el Índice de Impacto de las revistas científicas a partir de los datos extraídos en la fase anterior. Para comprobar la exactitud de los resultados obtenidos, se ha generado un gráfico de cajas en el que se contrastan los valores obtenidos con los datos reales del JCR. 
+
+\imagen{diagrama_cajas}{Dispersión de los datos extraídos en función del año}{1}
+
+Al analizar el gráfico, se observa claramente que los años más antiguos presentan un margen de error mucho más elevado debido a la falta de datos de Crossref en esos años. De esta manera, se puede asegurar que el módulo desarrollado es preciso y confiable, aunque se debe tener en cuenta la limitación de la falta de datos para los años más antiguos.
+
+Dadas las circunstancias, se ha tomado la decisión de utilizar solamente los datos de los años más recientes para entrenar los modelos de aprendizaje automático. Esta medida se ha tomado debido a la limitación de datos disponibles para los años más antiguos, que resultaría en un margen de error demasiado elevado si se incluyeran en el entrenamiento de los modelos. Aunque esto pueda suponer una pérdida de información valiosa, se considera que es preferible tener resultados más precisos y confiables al utilizar datos más actualizados. Con esta estrategia, se espera obtener resultados más precisos y útiles.
+
+\subsection{Modelos de predicción}
+
+Se han probado varios modelos utilizando la librería Scikit-learn, con el objetivo de encontrar el que mejor se ajuste a los datos disponibles y pueda hacer predicciones con mayor precisión. Además, estos modelos se han evaluado mediante el error cuadrático medio.
+
+Se ha llevado a cabo una técnica de validación cruzada anidada (\textit{nested cross-validation}) para evaluar y seleccionar el mejor modelo posible para predecir el índice de impacto de las revistas científicas. Esta técnica implica el uso de dos niveles de validación cruzada: en el nivel externo se evalúa el desempeño general del modelo, mientras que en el nivel interno se ajustan los parámetros del modelo mediante una búsqueda en rejilla (\texttt{grid search}) para encontrar la mejor combinación de hiperparámetros. En otras palabras, se utiliza una validación cruzada para ajustar los hiperparámetros y otra para evaluar el rendimiento del modelo resultante. La ventaja de esta técnica es que permite evaluar la capacidad de generalización del modelo de manera más realista, evitando la selección de modelos sobreajustados. En comparación con una validación cruzada al uso, la técnica de validación cruzada anidada puede resultar más costosa en términos de cómputo, pero proporciona resultados más precisos y fiables.
+
+TO DO -> Tratamiento de missing values (temporalmente la media)
+
+TO DO -> Insertar resultados
+
+TO DO -> Insertar croquis de validación cruzada
