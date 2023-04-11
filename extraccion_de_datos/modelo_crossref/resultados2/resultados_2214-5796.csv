@@ -1,121 +1,125 @@
 DOI,Título,Autores,Año,Citas,Revista
-10.1016/j.bdr.2018.02.001,Big Data Compliance for Innovative Clinical Models,Massimiliano Giacalone and Carlo Cusatelli and Vito Santarcangelo,2018,17,Big Data Research
 10.1016/s2214-5796(18)30166-7,Editorial Board,,2018,0,Big Data Research
 10.1016/j.bdr.2021.100208,Identification of Top-K Influencers Based on Upper Confidence Bound and Local Structure,Mohammed Alshahrani and Fuxi Zhu and Soufiana Mekouar and Mohammed Yahya Alghamdi and Shichao Liu,2021,0,Big Data Research
+10.1016/j.bdr.2019.100123,"Big Data Exploration, Visualization and Analytics",Nikos Bikakis and George Papastefanatos and Olga Papaemmanouil,2019,11,Big Data Research
+10.1016/j.bdr.2018.04.002,A Dynamic Neural Network Architecture with Immunology Inspired Optimization for Weather Data Forecasting,Abir Jaafar Hussain and Panos Liatsis and Mohammed Khalaf and Hissam Tawfik and Haya Al-Asker,2018,11,Big Data Research
+10.1016/j.bdr.2018.05.005,evoStream – Evolutionary Stream Clustering Utilizing Idle Times,Matthias Carnein and Heike Trautmann,2018,19,Big Data Research
+10.1016/j.bdr.2021.100189,Social Media Data and Users' Preferences: A Statistical Analysis to Support Marketing Communication,Elisa Arrigo and Caterina Liberati and Paolo Mariani,2021,14,Big Data Research
 10.1016/j.bdr.2021.100251,Visual Exploration of Anomalies in Cyclic Time Series Data with Matrix and Glyph Representations,Josef Suschnigg and Belgin Mutlu and Georgios Koutroulis and Vedran Sabol and Stefan Thalmann and Tobias Schreck,2021,1,Big Data Research
 10.1016/j.bdr.2017.10.004,A Parallel MapReduce Algorithm to Efficiently Support Itemset Mining on High Dimensional Data,Daniele Apiletti and Elena Baralis and Tania Cerquitelli and Paolo Garza and Fabio Pulvirenti and Pietro Michiardi,2017,14,Big Data Research
 10.1016/j.bdr.2017.10.003,Community Detection Algorithm for Big Social Networks Using Hybrid Architecture,Rahil Sharma and Suely Oliveira,2017,15,Big Data Research
 10.1016/j.bdr.2017.06.002,Fast Deep Convolutional Face Detection in the Wild Exploiting Hard Sample Mining,Danai Triantafyllidou and Paraskevi Nousi and Anastasios Tefas,2018,36,Big Data Research
-10.1016/j.bdr.2020.100159,"Richpedia: A Large-Scale, Comprehensive Multi-Modal Knowledge Graph",Meng Wang and Haofen Wang and Guilin Qi and Qiushuo Zheng,2020,10,Big Data Research
+10.1016/j.bdr.2015.01.007,Hierarchical Collective I/O Scheduling for High-Performance Computing,Jialin Liu and Yu Zhuang and Yong Chen,2015,8,Big Data Research
 10.1016/j.bdr.2016.09.001,Preface,Jian Pei and Guoliang Li and Hanghang Tong,2016,0,Big Data Research
 10.1016/s2214-5796(21)00046-0,Editorial Board,,2021,0,Big Data Research
 10.1016/j.bdr.2021.100214,On Divide&amp;Conquer in Image Processing of Data Monster,Hermann Heßling and Marco Strutz and Elsa Irmgard Buchholz and Peter Hufnagl,2021,0,Big Data Research
 10.1016/j.bdr.2022.100348,Properties and Performance of the ABCDe Random Graph Model with Community Structure,Bogumił Kamiński and Tomasz Olczak and Bartosz Pankratz and Paweł Prałat and François Théberge,2022,3,Big Data Research
 10.1016/j.bdr.2015.09.001,Practical Identification of Dynamic Precedence Criteria to Produce Critical Results from Big Data Streams,Karen Works and Elke A. Rundensteiner,2015,2,Big Data Research
 10.1016/j.bdr.2017.10.001,Towards Visualizing Big Data with Large-Scale Edge Constraint Graph Drawing,Ariyawat Chonbodeechalermroong and Rattikorn Hewett,2017,4,Big Data Research
-10.1016/j.bdr.2017.02.002,Efficient Resource Management System Based on 4Vs of Big Data Streams,Navroop Kaur and Sandeep K. Sood,2017,26,Big Data Research
 10.1016/j.bdr.2020.100156,Retrofitting Soft Rules for Knowledge Representation Learning,Bo An and Xianpei Han and Cheng Fu and Le Sun,2021,1,Big Data Research
 10.1016/s2214-5796(16)30214-3,Editorial Board,,2016,0,Big Data Research
 10.1016/j.bdr.2021.100291,Force-Directed Timelines: Visualizing &amp; Exploring Temporal Patterns,António Cruz and Joel P. Arrais and Penousal Machado,2022,0,Big Data Research
 10.1016/j.bdr.2021.100293,Embedding Semantic Anchors to Guide Topic Models on Short Text Corpora,Florian Steuber and Sinclair Schneider and Mirco Schoenfeld,2022,1,Big Data Research
-10.1016/j.bdr.2021.100273,Few-Shot Relation Extraction Towards Special Interests,Siqi Fan and Binbin Zhang and Silin Zhou and Menghan Wang and Ke Li,2021,3,Big Data Research
 10.1016/s2214-5796(19)30161-3,Editorial Board,,2019,0,Big Data Research
-10.1016/j.bdr.2015.01.006,Significance and Challenges of Big Data Research,Xiaolong Jin and Benjamin W. Wah and Xueqi Cheng and Yuanzhuo Wang,2015,483,Big Data Research
-10.1016/j.bdr.2023.100380,What Is a Multi-Modal Knowledge Graph: A Survey,Jinghui Peng and Xinyu Hu and Wenbo Huang and Jian Yang,2023,0,Big Data Research
+10.1016/j.bdr.2021.100241,“Brains” for Robots: Application of the Mivar Expert Systems for Implementation of Autonomous Intelligent Robots,Oleg Varlamov,2021,4,Big Data Research
 10.1016/j.bdr.2017.09.001,Generating High-Dimensional Datastreams for Change Detection,Diego Carrera and Giacomo Boracchi,2018,2,Big Data Research
+10.1016/j.bdr.2015.01.006,Significance and Challenges of Big Data Research,Xiaolong Jin and Benjamin W. Wah and Xueqi Cheng and Yuanzhuo Wang,2015,486,Big Data Research
 10.1016/s2214-5796(22)00014-4,Editorial Board,,2022,0,Big Data Research
 10.1016/j.bdr.2021.100255,Multi-Temperate Logical Data Warehouse Design for Large-Scale Healthcare Data,Bryan Martin and Karen C. Davis,2021,1,Big Data Research
+10.1016/j.bdr.2021.100209,Theodolite: Scalability Benchmarking of Distributed Stream Processing Engines in Microservice Architectures,Sören Henning and Wilhelm Hasselbring,2021,14,Big Data Research
+10.1016/j.bdr.2020.100170,Flexible Subspace Clustering: A Joint Feature Selection and K-Means Clustering Framework,Zhong-Zhen Long and Guoxia Xu and Jiao Du and Hu Zhu and Taiyu Yan and Yu-Feng Yu,2021,12,Big Data Research
 10.1016/j.bdr.2020.100175,Iterative Visual Relationship Detection via Commonsense Knowledge Graph,Hai Wan and Jinrui Liang and Jianfeng Du and Yanan Liu and Jialing Ou and Baoyi Wang and Jeff Z. Pan and Juan Zeng,2021,2,Big Data Research
-10.1016/j.bdr.2021.100241,“Brains” for Robots: Application of the Mivar Expert Systems for Implementation of Autonomous Intelligent Robots,Oleg Varlamov,2021,3,Big Data Research
 10.1016/j.bdr.2017.06.003,A Systematic Literature Review of the Data Replication Techniques in the Cloud Environments,Bahareh Alami Milani and Nima Jafari Navimipour,2017,38,Big Data Research
 10.1016/j.bdr.2022.100356,Data Stream Classification Based on Extreme Learning Machine: A Review,Xiulin Zheng and Peipei Li and Xindong Wu,2022,0,Big Data Research
 10.1016/j.bdr.2022.100346,Automatic Prediction of T2/T3 Staging of Rectal Cancer Based on Radiomics and Machine Learning,Xinhong Zhang and Boyan Zhang and Binjie Wang and Fan Zhang,2022,0,Big Data Research
 10.1016/j.bdr.2022.100351,An Embedding Model for Knowledge Graph Completion Based on Graph Sub-Hop Convolutional Network,Haitao He and Haoran Niu and Jianzhou Feng and Junlan Nie and Yangsen Zhang and Jiadong Ren,2022,0,Big Data Research
 10.1016/j.bdr.2022.100349,Special Issue on Real-Time Intelligent Systems,Richard Chbeir and Yannis Manolopoulos and Jolanta Mizera-Pietraszko and Spyros Sioutas,2022,0,Big Data Research
+10.1016/j.bdr.2021.100273,Few-Shot Relation Extraction Towards Special Interests,Siqi Fan and Binbin Zhang and Silin Zhou and Menghan Wang and Ke Li,2021,3,Big Data Research
 10.1016/j.bdr.2021.100247,An Analytic Graph Data Model and Query Language for Exploring the Evolution of Science,Ke Li and Hubert Naacke and Bernd Amann,2021,1,Big Data Research
 10.1016/j.bdr.2021.100219,Study on Landscape Architecture Model Design Based on Big Data Intelligence,Shiyun Guo and Jinping Tang and Huabin Liu and Xinren Gu,2021,6,Big Data Research
-10.1016/j.bdr.2022.100355,Linked Open Government Data to Predict and Explain House Prices: The Case of Scottish Statistics Portal,Areti Karamanou and Evangelos Kalampokis and Konstantinos Tarabanis,2022,3,Big Data Research
-10.1016/j.bdr.2014.07.003,GDPS: An Efficient Approach for Skyline Queries over Distributed Uncertain Data,Xiaoyong Li and Yijie Wang and Xiaoling Li and Xiaowei Wang and Jie Yu,2014,12,Big Data Research
-10.1016/j.bdr.2021.100221,Network-Based Trajectory Search over Time Intervals,Mingming Chen and Ning Wang and Guofeng Lin and Jedi S. Shang,2021,1,Big Data Research
-10.1016/j.bdr.2019.100123,"Big Data Exploration, Visualization and Analytics",Nikos Bikakis and George Papastefanatos and Olga Papaemmanouil,2019,11,Big Data Research
-10.1016/j.bdr.2018.04.002,A Dynamic Neural Network Architecture with Immunology Inspired Optimization for Weather Data Forecasting,Abir Jaafar Hussain and Panos Liatsis and Mohammed Khalaf and Hissam Tawfik and Haya Al-Asker,2018,11,Big Data Research
-10.1016/j.bdr.2018.05.005,evoStream – Evolutionary Stream Clustering Utilizing Idle Times,Matthias Carnein and Heike Trautmann,2018,19,Big Data Research
-10.1016/j.bdr.2021.100189,Social Media Data and Users' Preferences: A Statistical Analysis to Support Marketing Communication,Elisa Arrigo and Caterina Liberati and Paolo Mariani,2021,14,Big Data Research
 10.1016/j.bdr.2022.100328,Virtual Finger-Point Reading Behaviors: A Case Study of Mouse Cursor Movements on a Website,Ilan Kirsh,2022,0,Big Data Research
-10.1016/j.bdr.2015.01.007,Hierarchical Collective I/O Scheduling for High-Performance Computing,Jialin Liu and Yu Zhuang and Yong Chen,2015,8,Big Data Research
 10.1016/j.bdr.2020.100158,Incorporating Phase-Encoded Spectrum Masking into Speaker-Independent Monaural Source Separation,Wen Zhang and Xiaoyong Li and Aolong Zhou and Kaijun Ren and Junqiang Song,2020,3,Big Data Research
 10.1016/j.bdr.2020.100179,A Data-Driven Method for Hybrid Data Assimilation with Multilayer Perceptron,Lilan Huang and Hongze Leng and Xiaoyong Li and Kaijun Ren and Junqiang Song and Dongzi Wang,2021,8,Big Data Research
-10.1016/j.bdr.2022.100353,A Facial Expression Recognition Approach for Social IoT Frameworks,Silvio Barra and Sanoar Hossain and Chiara Pero and Saiyed Umer,2022,1,Big Data Research
-10.1016/j.bdr.2021.100209,Theodolite: Scalability Benchmarking of Distributed Stream Processing Engines in Microservice Architectures,Sören Henning and Wilhelm Hasselbring,2021,13,Big Data Research
-10.1016/j.bdr.2017.11.001,What Are Data? A Categorization of the Data Sensitivity Spectrum,John M.M. Rumbold and Barbara K. Pierscionek,2018,29,Big Data Research
+10.1016/j.bdr.2014.07.003,GDPS: An Efficient Approach for Skyline Queries over Distributed Uncertain Data,Xiaoyong Li and Yijie Wang and Xiaoling Li and Xiaowei Wang and Jie Yu,2014,12,Big Data Research
 10.1016/j.bdr.2021.100246,Route Search and Planning: A Survey,Ke Li and Xuan Rao and XiaoBing Pang and Lisi Chen and Siqi Fan,2021,4,Big Data Research
-10.1016/j.bdr.2020.100170,Flexible Subspace Clustering: A Joint Feature Selection and K-Means Clustering Framework,Zhong-Zhen Long and Guoxia Xu and Jiao Du and Hu Zhu and Taiyu Yan and Yu-Feng Yu,2021,11,Big Data Research
-10.1016/j.bdr.2020.100145,Data-Driven Computational Social Science: A Survey,Jun Zhang and Wei Wang and Feng Xia and Yu-Ru Lin and Hanghang Tong,2020,23,Big Data Research
-10.1016/j.bdr.2016.05.002,Towards a Comprehensive Data Analytics Framework for Smart Healthcare Services,Sherif Sakr and Amal Elgammal,2016,98,Big Data Research
+10.1016/j.bdr.2021.100221,Network-Based Trajectory Search over Time Intervals,Mingming Chen and Ning Wang and Guofeng Lin and Jedi S. Shang,2021,1,Big Data Research
 10.1016/j.bdr.2015.02.002,Promises and Challenges of Big Data Computing in Health Sciences,Tao Huang and Liang Lan and Xuexian Fang and Peng An and Junxia Min and Fudi Wang,2015,128,Big Data Research
+10.1016/j.bdr.2022.100355,Linked Open Government Data to Predict and Explain House Prices: The Case of Scottish Statistics Portal,Areti Karamanou and Evangelos Kalampokis and Konstantinos Tarabanis,2022,5,Big Data Research
+10.1016/j.bdr.2022.100353,A Facial Expression Recognition Approach for Social IoT Frameworks,Silvio Barra and Sanoar Hossain and Chiara Pero and Saiyed Umer,2022,1,Big Data Research
+10.1016/j.bdr.2016.05.002,Towards a Comprehensive Data Analytics Framework for Smart Healthcare Services,Sherif Sakr and Amal Elgammal,2016,99,Big Data Research
+10.1016/j.bdr.2020.100159,"Richpedia: A Large-Scale, Comprehensive Multi-Modal Knowledge Graph",Meng Wang and Haofen Wang and Guilin Qi and Qiushuo Zheng,2020,11,Big Data Research
+10.1016/j.bdr.2020.100145,Data-Driven Computational Social Science: A Survey,Jun Zhang and Wei Wang and Feng Xia and Yu-Ru Lin and Hanghang Tong,2020,23,Big Data Research
+10.1016/j.bdr.2017.02.002,Efficient Resource Management System Based on 4Vs of Big Data Streams,Navroop Kaur and Sandeep K. Sood,2017,27,Big Data Research
+10.1016/j.bdr.2017.11.001,What Are Data? A Categorization of the Data Sensitivity Spectrum,John M.M. Rumbold and Barbara K. Pierscionek,2018,29,Big Data Research
+10.1016/j.bdr.2023.100380,What Is a Multi-Modal Knowledge Graph: A Survey,Jinghui Peng and Xinyu Hu and Wenbo Huang and Jian Yang,2023,0,Big Data Research
+10.1016/j.bdr.2018.02.001,Big Data Compliance for Innovative Clinical Models,Massimiliano Giacalone and Carlo Cusatelli and Vito Santarcangelo,2018,17,Big Data Research
+10.1016/j.bdr.2017.06.004,Partial Rollback-based Scheduling on In-memory Transactional Data Grids,Junwhan Kim,2017,2,Big Data Research
+10.1016/j.bdr.2023.100368,GeoYCSB: A Benchmark Framework for the Performance and Scalability Evaluation of Geospatial NoSQL Databases,Suneuy Kim and Yvonne Hoang and Tsz Ting Yu and Yuvraj Singh Kanwar,2023,1,Big Data Research
+10.1016/j.bdr.2015.02.005,The Current Status and Challenges in Computational Analysis of Genomic Big Data,Yiming Qin and Hari Krishna Yalamanchili and Jing Qin and Bin Yan and Junwen Wang,2015,25,Big Data Research
 10.1016/s2214-5796(18)30057-1,Editorial Board,,2018,0,Big Data Research
+10.1016/j.bdr.2017.05.001,A Methodology for Spark Parameter Tuning,Anastasios Gounaris and Jordi Torres,2018,41,Big Data Research
+10.1016/j.bdr.2021.100192,A Big Data Analytics Architecture for Smart Cities and Smart Companies,Mariagrazia Fugini and Jacopo Finocchi and Paolo Locatelli,2021,9,Big Data Research
 10.1016/j.bdr.2017.07.001,MapReduce Based Multilevel Consistent and Inconsistent Association Rule Detection from Big Data Using Interestingness Measures,Dinesh J. Prajapati and Sanjay Garg and N.C. Chauhan,2017,7,Big Data Research
 10.1016/j.bdr.2017.09.003,Big Data Model Simulation on a Graph Database for Surveillance in Wireless Multimedia Sensor Networks,Cihan Küçükkeçeci and Adnan Yazıcı,2018,16,Big Data Research
-10.1016/j.bdr.2015.02.005,The Current Status and Challenges in Computational Analysis of Genomic Big Data,Yiming Qin and Hari Krishna Yalamanchili and Jing Qin and Bin Yan and Junwen Wang,2015,25,Big Data Research
 10.1016/j.bdr.2021.100191,An Efficient Algorithm for Spatio-Textual Object Cluster Join,Mingming Chen and Ning Wang and Daxin Zhu and Jedi S. Shang,2021,0,Big Data Research
-10.1016/j.bdr.2021.100236,Tracing the Pace of COVID-19 Research: Topic Modeling and Evolution,Jiaying Liu and Hansong Nie and Shihao Li and Xiangtai Chen and Huazhu Cao and Jing Ren and Ivan Lee and Feng Xia,2021,9,Big Data Research
-10.1016/j.bdr.2018.04.003,Models and Practices in Urban Data Science at Scale,Marco Balduini and Marco Brambilla and Emanuele Della Valle and Christian Marazzi and Tahereh Arabghalizi and Behnam Rahdari and Michele Vescovi,2019,17,Big Data Research
+10.1016/j.bdr.2021.100203,Cost Optimization for Big Data Workloads Based on Dynamic Scheduling and Cluster-Size Tuning,Marek Grzegorowski and Eftim Zdravevski and Andrzej Janusz and Petre Lameski and Cas Apanowicz and Dominik Ślęzak,2021,16,Big Data Research
 10.1016/j.bdr.2016.07.001,Approximate Parallel High Utility Itemset Mining,Yan Chen and Aijun An,2016,39,Big Data Research
-10.1016/j.bdr.2017.05.001,A Methodology for Spark Parameter Tuning,Anastasios Gounaris and Jordi Torres,2018,41,Big Data Research
 10.1016/j.bdr.2021.100186,Babel: A Generic Benchmarking Platform for Big Data Architectures,Lilia Sfaxi and Mohamed Mehdi Ben Aissa,2021,1,Big Data Research
 10.1016/s2214-5796(16)30114-9,Editorial Board,,2016,0,Big Data Research
 10.1016/j.bdr.2019.05.001,Editorial for Special Issue of Journal of Big Data Research on “Geo-distributed Big Data Processing and Management”,Sherif Sakr and Giuseppe Di Modica and Orazio Tomarchio,2019,0,Big Data Research
 10.1016/s2214-5796(16)30076-4,Editorial Board,,2016,0,Big Data Research
 10.1016/s2214-5796(19)30231-x,Editorial Board,,2019,0,Big Data Research
+10.1016/j.bdr.2021.100288,Faster Multidimensional Data Queries on Infrastructure Monitoring Systems,Yinghua Qin and Gheorghi Guzun,2022,1,Big Data Research
+10.1016/j.bdr.2019.04.003,Interactive Visual Analytics for Sensemaking with Big Text,Michelle Dowling and Nathan Wycoff and Brian Mayer and John Wenskovitch and Scotland Leman and Leanna House and Nicholas Polys and Chris North and Peter Hauck,2019,9,Big Data Research
 10.1016/j.bdr.2018.08.002,Editorial for Special Issue of Journal of Big Data Research on “Big Medical/Healthcare Data Analytics”,Sherif Sakr and Albert Zomaya,2018,0,Big Data Research
 10.1016/j.bdr.2021.100267,Accelerating Progressive Set Similarity Join with the CPU-GPU Architecture,Lining Yu and Tiezheng Nie and Derong Shen and Yue Kou,2021,0,Big Data Research
 10.1016/j.bdr.2021.100250,Evaluating Different Selection Criteria for Phase Type Survival Tree Construction,Lalit Garg and Sally I. McClean and Maria Barton and Brian J. Meenan and Ken Fullerton and Georgios Kontonatsios and Marcello Trovati and Ioannis Konkontzelos and Xiaolong Xu and Mohsen Farid,2021,1,Big Data Research
 10.1016/j.bdr.2018.03.002,Revealing Physicians Referrals from Health Insurance Claims Data,Vagner Figueredo de Santana and Ana Paula Appel and Luis Gregorio Moyano and Marcia Ito and Claudio Santos Pinhanez,2018,3,Big Data Research
 10.1016/j.bdr.2019.02.003,Joint Contour Net Analysis for Feature Detection in Lattice Quantum Chromodynamics Data,Dean P. Thomas and Rita Borgo and Robert S. Laramee and Simon J. Hands,2019,0,Big Data Research
+10.1016/j.bdr.2015.11.002,A Cloud Computing Based Network Monitoring and Threat Detection System for Critical Infrastructures,Zhijiang Chen and Guobin Xu and Vivek Mahalingam and Linqiang Ge and James Nguyen and Wei Yu and Chao Lu,2016,64,Big Data Research
+10.1016/j.bdr.2021.100213,A Service Sustainable Live Migration Strategy for Multiple Virtual Machines in Cloud Data Centers,Anurag Satpathy and Manmath Narayan Sahoo and Ashutosh Mishra and Banshidhar Majhi and Joel J.P.C. Rodrigues and Sambit Bakshi,2021,2,Big Data Research
 10.1016/j.bdr.2015.01.002,The Evolvement of Big Data Systems: From the Perspective of an Information Security Application,Gang Chen and Sai Wu and Yuan Wang,2015,12,Big Data Research
-10.1016/j.bdr.2017.06.004,Partial Rollback-based Scheduling on In-memory Transactional Data Grids,Junwhan Kim,2017,1,Big Data Research
 10.1016/j.bdr.2015.11.001,SFPM: A Secure and Fine-Grained Privacy-Preserving Matching Protocol for Mobile Social Networking,Xue Yang and Rongxing Lu and Hongbin Liang and Xiaohu Tang,2016,10,Big Data Research
+10.1016/j.bdr.2018.02.005,Classification of Large DNA Methylation Datasets for Identifying Cancer Drivers,Fabrizio Celli and Fabio Cumbo and Emanuel Weitschek,2018,33,Big Data Research
+10.1016/j.bdr.2021.100275,Epidemic Spreading in Trajectory Networks,Tilemachos Pechlivanoglou and Jing Li and Jialin Sun and Farzaneh Heidari and Manos Papagelis,2022,6,Big Data Research
+10.1016/j.bdr.2016.02.002,Machine Learning with Big Data An Efficient Electricity Generation Forecasting System,Mohammad Naimur Rahman and Amir Esmailpour and Junhui Zhao,2016,52,Big Data Research
 10.1016/j.bdr.2021.100238,ViewSeeker: An Interactive View Recommendation Framework,Xiaozhong Zhang and Xiaoyu Ge and Panos K. Chrysanthis and Mohamed A. Sharaf,2021,1,Big Data Research
 10.1016/s2214-5796(22)00034-x,Editorial Board,,2022,0,Big Data Research
 10.1016/j.bdr.2020.100133,PatSeg: A Sequential Patent Segmentation Approach,Maryam Habibi and Astrid Rheinlaender and Wolfgang Thielemann and Robert Adams and Peter Fischer and Sylvia Krolkiewicz and David Luis Wiegandt and Ulf Leser,2020,2,Big Data Research
-10.1016/j.bdr.2021.100213,A Service Sustainable Live Migration Strategy for Multiple Virtual Machines in Cloud Data Centers,Anurag Satpathy and Manmath Narayan Sahoo and Ashutosh Mishra and Banshidhar Majhi and Joel J.P.C. Rodrigues and Sambit Bakshi,2021,2,Big Data Research
 10.1016/j.bdr.2015.03.002,"Special Issue on Computation, Business, and Health Science",Doug Vogel and Honggeng Zhou and Daning Hu,2015,4,Big Data Research
 10.1016/j.bdr.2021.100205,The Forgotten Document-Oriented Database Management Systems: An Overview and Benchmark of Native XML DODBMSes in Comparison with JSON DODBMSes,Ciprian-Octavian Truică and Elena-Simona Apostol and Jérôme Darmont and Torben Bach Pedersen,2021,4,Big Data Research
 10.1016/j.bdr.2022.100335,Detecting Seasonal Dependencies in Production Lines for Forecast Optimization,Gerold Hoelzl and Sebastian Soller and Matthias Kranz,2022,0,Big Data Research
 10.1016/s2214-5796(22)00058-2,Editorial Board,,2022,0,Big Data Research
 10.1016/j.bdr.2020.100173,Agreeing to Disagree: Choosing Among Eight Topic-Modeling Methods,Qiang Fu and Yufan Zhuang and Jiaxin Gu and Yushu Zhu and Xin Guo,2021,7,Big Data Research
+10.1016/j.bdr.2022.100352,Accelerating Columnar Storage Based on Asynchronous Skipping Strategy,Wenhai Li and Zheng Yang and Lingfeng Deng and Zhiling Cheng and Weidong Wen and Yanxiang He,2023,0,Big Data Research
 10.1016/j.bdr.2021.100187,SA2-MCD: Secured Architecture for Allocation of Virtual Machine in Multitenant Cloud Databases,Arun Kumar Yadav and Rajendra Kumar Bharti and Ram Shringar Raw,2021,2,Big Data Research
-10.1016/j.bdr.2019.04.003,Interactive Visual Analytics for Sensemaking with Big Text,Michelle Dowling and Nathan Wycoff and Brian Mayer and John Wenskovitch and Scotland Leman and Leanna House and Nicholas Polys and Chris North and Peter Hauck,2019,7,Big Data Research
 10.1016/j.bdr.2020.100181,Building and Operating a Large-Scale Enterprise Data Analytics Platform,Daniel Bauer and Florian Froese and Luis Garcés-Erice and Chris Giblin and Abdel Labbi and Zoltán A. Nagy and Niels Pardon and Sean Rooney and Peter Urbanetz and Pascal Vetsch and Andreas Wespi,2021,10,Big Data Research
 10.1016/j.bdr.2016.07.002,Big Graph Mining: Frameworks and Techniques,Sabeur Aridhi and Engelbert Mephu Nguifo,2016,39,Big Data Research
-10.1016/j.bdr.2023.100368,GeoYCSB: A Benchmark Framework for the Performance and Scalability Evaluation of Geospatial NoSQL Databases,Suneuy Kim and Yvonne Hoang and Tsz Ting Yu and Yuvraj Singh Kanwar,2023,0,Big Data Research
-10.1016/j.bdr.2022.100352,Accelerating Columnar Storage Based on Asynchronous Skipping Strategy,Wenhai Li and Zheng Yang and Lingfeng Deng and Zhiling Cheng and Weidong Wen and Yanxiang He,2023,0,Big Data Research
 10.1016/j.bdr.2022.100360,Predicting Household Electric Power Consumption Using Multi-step Time Series with Convolutional LSTM,Lucia Cascone and Saima Sadiq and Saleem Ullah and Seyedali Mirjalili and Hafeez Ur Rehman Siddiqui and Muhammad Umer,2023,0,Big Data Research
-10.1016/j.bdr.2021.100288,Faster Multidimensional Data Queries on Infrastructure Monitoring Systems,Yinghua Qin and Gheorghi Guzun,2022,0,Big Data Research
+10.1016/j.bdr.2021.100295,Regularized Least Squares Twin SVM for Multiclass Classification,Javed Ali and M. Aldhaifallah and Kottakkaran Sooppy Nisar and A.A. Aljabr and M. Tanveer,2022,3,Big Data Research
+10.1016/j.bdr.2015.01.001,"Reference Architecture and Classification of Technologies, Products and Services for Big Data Systems",Pekka Pääkkönen and Daniel Pakkala,2015,152,Big Data Research
 10.1016/j.bdr.2021.100297,Fine Clustering Analysis of Internet Financial Credit Investigation Based on Big Data,Jingqi Sun and Yu Li and Qiang Li and Yingji Li and Yanshu Jia and Dongmei Xia,2022,0,Big Data Research
 10.1016/j.bdr.2021.100235,OL-HeatMap: Effective Density Visualization of Multiple Overlapping Rectangles,Niloy Eric Costa and Tilemachos Pechlivanoglou and Manos Papagelis,2021,1,Big Data Research
 10.1016/j.bdr.2021.100218,Fine-Grained Evaluation of Knowledge Graph Embedding Model in Knowledge Enhancement Downstream Tasks,Yuxin Zhang and Bohan Li and Han Gao and Ye Ji and Han Yang and Meng Wang and Weitong Chen,2021,4,Big Data Research
-10.1016/j.bdr.2015.01.001,"Reference Architecture and Classification of Technologies, Products and Services for Big Data Systems",Pekka Pääkkönen and Daniel Pakkala,2015,149,Big Data Research
-10.1016/j.bdr.2021.100192,A Big Data Analytics Architecture for Smart Cities and Smart Companies,Mariagrazia Fugini and Jacopo Finocchi and Paolo Locatelli,2021,9,Big Data Research
-10.1016/j.bdr.2021.100295,Regularized Least Squares Twin SVM for Multiclass Classification,Javed Ali and M. Aldhaifallah and Kottakkaran Sooppy Nisar and A.A. Aljabr and M. Tanveer,2022,1,Big Data Research
-10.1016/j.bdr.2020.100174,SMR: Medical Knowledge Graph Embedding for Safe Medicine Recommendation,Fan Gong and Meng Wang and Haofen Wang and Sen Wang and Mengyue Liu,2021,36,Big Data Research
-10.1016/j.bdr.2021.100203,Cost Optimization for Big Data Workloads Based on Dynamic Scheduling and Cluster-Size Tuning,Marek Grzegorowski and Eftim Zdravevski and Andrzej Janusz and Petre Lameski and Cas Apanowicz and Dominik Ślęzak,2021,16,Big Data Research
-10.1016/j.bdr.2015.01.005,Big Data and Science: Myths and Reality,H.V. Jagadish,2015,98,Big Data Research
-10.1016/j.bdr.2018.02.005,Classification of Large DNA Methylation Datasets for Identifying Cancer Drivers,Fabrizio Celli and Fabio Cumbo and Emanuel Weitschek,2018,33,Big Data Research
-10.1016/j.bdr.2021.100275,Epidemic Spreading in Trajectory Networks,Tilemachos Pechlivanoglou and Jing Li and Jialin Sun and Farzaneh Heidari and Manos Papagelis,2022,6,Big Data Research
-10.1016/j.bdr.2016.02.002,Machine Learning with Big Data An Efficient Electricity Generation Forecasting System,Mohammad Naimur Rahman and Amir Esmailpour and Junhui Zhao,2016,52,Big Data Research
-10.1016/j.bdr.2021.100270,"Educational Big Data: Predictions, Applications and Challenges",Xiaomei Bai and Fuli Zhang and Jinzhou Li and Teng Guo and Abdul Aziz and Aijing Jin and Feng Xia,2021,15,Big Data Research
-10.1016/j.bdr.2015.11.002,A Cloud Computing Based Network Monitoring and Threat Detection System for Critical Infrastructures,Zhijiang Chen and Guobin Xu and Vivek Mahalingam and Linqiang Ge and James Nguyen and Wei Yu and Chao Lu,2016,64,Big Data Research
-10.1016/j.bdr.2016.10.001,Producing Linked Data for Smart Cities: The Case of Catania,Sergio Consoli and Valentina Presutti and Diego Reforgiato Recupero and Andrea G. Nuzzolese and Silvio Peroni and Misael Mongiovi' and Aldo Gangemi,2017,20,Big Data Research
+10.1016/j.bdr.2021.100270,"Educational Big Data: Predictions, Applications and Challenges",Xiaomei Bai and Fuli Zhang and Jinzhou Li and Teng Guo and Abdul Aziz and Aijing Jin and Feng Xia,2021,19,Big Data Research
+10.1016/j.bdr.2020.100174,SMR: Medical Knowledge Graph Embedding for Safe Medicine Recommendation,Fan Gong and Meng Wang and Haofen Wang and Sen Wang and Mengyue Liu,2021,39,Big Data Research
+10.1016/j.bdr.2021.100236,Tracing the Pace of COVID-19 Research: Topic Modeling and Evolution,Jiaying Liu and Hansong Nie and Shihao Li and Xiangtai Chen and Huazhu Cao and Jing Ren and Ivan Lee and Feng Xia,2021,10,Big Data Research
+10.1016/j.bdr.2018.04.003,Models and Practices in Urban Data Science at Scale,Marco Balduini and Marco Brambilla and Emanuele Della Valle and Christian Marazzi and Tahereh Arabghalizi and Behnam Rahdari and Michele Vescovi,2019,17,Big Data Research
 10.1016/j.bdr.2015.01.003,Geospatial Big Data: Challenges and Opportunities,Jae-Gil Lee and Minseo Kang,2015,235,Big Data Research
+10.1016/j.bdr.2015.01.005,Big Data and Science: Myths and Reality,H.V. Jagadish,2015,99,Big Data Research
+10.1016/j.bdr.2016.10.001,Producing Linked Data for Smart Cities: The Case of Catania,Sergio Consoli and Valentina Presutti and Diego Reforgiato Recupero and Andrea G. Nuzzolese and Silvio Peroni and Misael Mongiovi' and Aldo Gangemi,2017,20,Big Data Research
 10.1016/j.bdr.2016.03.001,Special Issue on Big Data from networking perspective,Shui Yu and Ke Liu,2016,2,Big Data Research
+10.1016/j.bdr.2021.100271,CardioNet: An Efficient ECG Arrhythmia Classification System Using Transfer Learning,Anita Pal and Ranjeet Srivastva and Yogendra Narain Singh,2021,9,Big Data Research
 10.1016/j.bdr.2021.100266,Proof-of-Activity Consensus Algorithm Based on K-Medoids Clustering,Dong Wang and Chenguang Jin and Bingbing Xiao and Zheng Li and Xin He,2021,0,Big Data Research
 10.1016/j.bdr.2021.100305,Unsupervised Denoising Feature Learning for Classification of Corrupted Images,Genggeng Liu and Qihao Lin and Neal Naixue Xiong and Xin Wang,2022,2,Big Data Research
 10.1016/j.bdr.2021.100304,Survey on Learnable Databases: A Machine Learning Perspective,Benyuan Zou and Jinguo You and Quankun Wang and Xinxian Wen and Lianyin Jia,2022,1,Big Data Research
 10.1016/j.bdr.2017.04.001,Using the Launcher for Executing High Throughput Workloads,Lucas A. Wilson,2017,0,Big Data Research
+10.1016/j.bdr.2018.04.004,Big Data Systems Meet Machine Learning Challenges: Towards Big Data Science as a Service,Radwa Elshawi and Sherif Sakr and Domenico Talia and Paolo Trunfio,2018,67,Big Data Research
 10.1016/j.bdr.2015.04.002,Multi-Label Regularized Generative Model for Semi-Supervised Collective Classification in Large-Scale Networks,Qingyao Wu and Jian Chen and Shen-Shyang Ho and Xutao Li and Huaqing Min and Chao Han,2015,5,Big Data Research
 10.1016/j.bdr.2017.04.002,Cardinality Estimation Meets Good-Turing,Reuven Cohen and Liran Katzir and Aviv Yehezkel,2017,2,Big Data Research
 10.1016/j.bdr.2016.04.002,epiCG: A GraphUnit Based Graph Processing Engine on epiC,Yanyan Shen and Qingchao Cai and Wei Lu and Dalie Sun and Zhongle Xie,2016,0,Big Data Research
+10.1016/j.bdr.2021.100225,A Security Management Framework for Big Data in Smart Healthcare,Parsa Sarosh and Shabir A. Parah and G. Mohiuddin Bhat and Khan Muhammad,2021,20,Big Data Research
+10.1016/j.bdr.2018.03.001,A Direction Aware Particle Swarm Optimization with Sensitive Swarm Leader,Krishn Kumar Mishra and Hemant Bisht and Tribhuvan Singh and Victor Chang,2018,25,Big Data Research
 10.1016/j.bdr.2022.100332,A Flexible Outlier Detector Based on a Topology Given by Graph Communities,Oriol Ramos Terrades and Albert Berenguel and Débora Gil,2022,0,Big Data Research
 10.1016/j.bdr.2022.100333,Analysis of Occupational Profiles in the Brazilian Workforce Based on Non-Negative Matrix Factorization,Alexandre Seidy Ioshisaqui and Romis Attux and Ivette Luna,2022,0,Big Data Research
 10.1016/j.bdr.2015.11.003,FB + -tree for Big Data Management,Cui Yu and Josef Boyd,2016,4,Big Data Research
@@ -126,189 +130,187 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1016/j.bdr.2020.100180,Search History Visualization for Collaborative Web Searching,Luyan Xu and Tetiana Tolmochava and Xuan Zhou,2021,3,Big Data Research
 10.1016/j.bdr.2019.100121,A Hierarchical Dimension Reduction Approach for Big Data with Application to Fault Diagnostics,R. Krishnan and V.A. Samaranayake and S. Jagannathan,2019,4,Big Data Research
 10.1016/j.bdr.2021.100224,The Use of Smart Home Speakers by the Elderly: Exploratory Analyses and Potential for Big Data,Sandeep Purao and Haijing Hao and Chenhang Meng,2021,3,Big Data Research
-10.1016/j.bdr.2018.02.002,Insights into Antidepressant Prescribing Using Open Health Data,Brian Cleland and Jonathan Wallace and Raymond Bond and Michaela Black and Maurice Mulvenna and Deborah Rankin and Austin Tanney,2018,10,Big Data Research
 10.1016/j.bdr.2019.07.002,Parallelizing Computations of Full Disjunctions,Matteo Paganelli and Domenico Beneventano and Francesco Guerra and Paolo Sottovia,2019,1,Big Data Research
 10.1016/j.bdr.2018.03.003,Predicting Adverse Events After Surgery,Senjuti Basu Roy and Moushumi Maria and Tina Wang and Anne Ehlers and David Flum,2018,3,Big Data Research
-10.1016/j.bdr.2021.100190,A Framework for Pandemic Prediction Using Big Data Analytics,Imran Ahmed and Misbah Ahmad and Gwanggil Jeon and Francesco Piccialli,2021,33,Big Data Research
 10.1016/j.bdr.2021.100272,LSDDL: Layer-Wise Sparsification for Distributed Deep Learning,Yuxi Hong and Peng Han,2021,1,Big Data Research
 10.1016/j.bdr.2021.100212,Performance Benchmarking of Parallel Hyperparameter Tuning for Deep Learning Based Tornado Predictions,Jonathan N. Basalyga and Carlos A. Barajas and Matthias K. Gobbert and Jianwu Wang,2021,3,Big Data Research
 10.1016/j.bdr.2020.100157,Efficient Mining of Hotspot Regional Patterns with Multi-Semantic Trajectories,Zhen Zhang and Xiangguo Zhao and Yingchun Zhang and Jing Zhang and Haojie Nie and Youming Lou,2020,2,Big Data Research
 10.1016/j.bdr.2015.02.001,An Efficient Time Optimized Scheme for Progressive Analytics in Big Data,Kostas Kolomvatsos and Christos Anagnostopoulos and Stathes Hadjiefthymiades,2015,33,Big Data Research
 10.1016/s2214-5796(18)30274-0,Editorial Board,,2018,1,Big Data Research
 10.1016/j.bdr.2021.100217,CSIP: Enhanced Link Prediction with Context of Social Influence Propagation,Han Gao and Bohan Li and Wenbin Xie and Yuxin Zhang and Donghai Guan and Weitong Chen and Ken Cai,2021,5,Big Data Research
-10.1016/j.bdr.2018.05.007,Lossless Pruned Naive Bayes for Big Data Classifications,Nanfei Sun and Bingjun Sun and Jian (Denny) Lin and Michael Yu-Chi Wu,2018,16,Big Data Research
+10.1016/j.bdr.2018.05.006,"Towards Sustainable Smart City by Particulate Matter Prediction Using Urban Big Data, Excluding Expensive Air Pollution Infrastructures",Ali Reza Honarvar and Ashkan Sami,2019,46,Big Data Research
 10.1016/j.bdr.2022.100358,Data-Efficient Performance Modeling for Configurable Big Data Frameworks by Reducing Information Overlap Between Training Examples,Zhiqiang Liu and Xuanhua Shi and Hai Jin,2022,0,Big Data Research
 10.1016/j.bdr.2022.100344,Neural Topic Modeling with Deep Mutual Information Estimation,Kang Xu and Xiaoqiu Lu and Yuan-fang Li and Tongtong Wu and Guilin Qi and Ning Ye and Dong Wang and Zheng Zhou,2022,0,Big Data Research
 10.1016/j.bdr.2021.100243,Urban Hierarchical Open-up Schemes Based on Fine Regional Epidemic Data for the Lockdown in COVID-19,Ruimin Hu and Xiaochen Wang and Jianhua Ma and Hao Pan and Danni Xu and Junhang Wu,2021,1,Big Data Research
 10.1016/j.bdr.2021.100184,Image Classification Approach Using Machine Learning and an Industrial Hadoop Based Data Pipeline,Rim Koulali and Hajar Zaidani and Maryeme Zaim,2021,6,Big Data Research
 10.1016/j.bdr.2015.03.001,Multi-Tier Resource Allocation for Data-Intensive Computing,Thomas Ryan and Young Choon Lee,2015,11,Big Data Research
-10.1016/j.bdr.2018.03.001,A Direction Aware Particle Swarm Optimization with Sensitive Swarm Leader,Krishn Kumar Mishra and Hemant Bisht and Tribhuvan Singh and Victor Chang,2018,25,Big Data Research
 10.1016/j.bdr.2021.100252,Scalable and Flexible Two-Phase Ensemble Algorithms for Causality Discovery,Pei Guo and Yiyi Huang and Jianwu Wang,2021,2,Big Data Research
-10.1016/j.bdr.2018.04.004,Big Data Systems Meet Machine Learning Challenges: Towards Big Data Science as a Service,Radwa Elshawi and Sherif Sakr and Domenico Talia and Paolo Trunfio,2018,66,Big Data Research
 10.1016/j.bdr.2018.04.001,Hybrid Bridge-Based Memetic Algorithms for Finding Bottlenecks in Complex Networks,David Chalupa and Ken A. Hawick and James A. Walker,2018,9,Big Data Research
-10.1016/j.bdr.2017.09.002,Variations on the Clustering Algorithm BIRCH,Boris Lorbeer and Ana Kosareva and Bersant Deva and Dženan Softić and Peter Ruppel and Axel Küpper,2018,54,Big Data Research
-10.1016/j.bdr.2015.04.001,Efficient Machine Learning for Big Data: A Review,Omar Y. Al-Jarrah and Paul D. Yoo and Sami Muhaidat and George K. Karagiannidis and Kamal Taha,2015,341,Big Data Research
-10.1016/j.bdr.2016.04.003,"Big Data for Supporting Low-Carbon Road Transport Policies in Europe: Applications, Challenges and Opportunities",Michele De Gennaro and Elena Paffumi and Giorgio Martini,2016,54,Big Data Research
 10.1016/j.bdr.2018.11.001,Label-Aware Distributed Ensemble Learning: A Simplified Distributed Classifier Training Model for Big Data,Shadi Khalifa and Patrick Martin and Rebecca Young,2019,8,Big Data Research
-10.1016/j.bdr.2015.02.006,Demystifying Big Data Analytics for Business Intelligence Through the Lens of Marketing Mix,Shaokun Fan and Raymond Y.K. Lau and J. Leon Zhao,2015,169,Big Data Research
 10.1016/j.bdr.2016.10.002,Programming with BIG Data in R: Scaling Analytics from One to Thousands of Nodes,Drew Schmidt and Wei-Chen Chen and Michael A. Matheson and George Ostrouchov,2017,16,Big Data Research
 10.1016/j.bdr.2020.100183,Data Science Methodologies: Current Challenges and Future Approaches,Iñigo Martinez and Elisabeth Viles and Igor G. Olaizola,2021,25,Big Data Research
-10.1016/j.bdr.2018.05.006,"Towards Sustainable Smart City by Particulate Matter Prediction Using Urban Big Data, Excluding Expensive Air Pollution Infrastructures",Ali Reza Honarvar and Ashkan Sami,2019,46,Big Data Research
-10.1016/j.bdr.2015.12.001,Finding the Best Classification Threshold in Imbalanced Classification,Quan Zou and Sifa Xie and Ziyu Lin and Meihong Wu and Ying Ju,2016,113,Big Data Research
-10.1016/j.bdr.2021.100271,CardioNet: An Efficient ECG Arrhythmia Classification System Using Transfer Learning,Anita Pal and Ranjeet Srivastva and Yogendra Narain Singh,2021,8,Big Data Research
-10.1016/j.bdr.2020.100172,Smart Pharmaceutical Manufacturing: Ensuring End-to-End Traceability and Data Integrity in Medicine Production,Fátima Leal and Adriana E. Chis and Simon Caton and Horacio González–Vélez and Juan M. García–Gómez and Marta Durá and Angel Sánchez–García and Carlos Sáez and Anthony Karageorgos and Vassilis C. Gerogiannis and Apostolos Xenakis and Efthymios Lallas and Theodoros Ntounas and Eleni Vasileiou and Georgios Mountzouris and Barbara Otti and Penelope Pucci and Rossano Papini and David Cerrai and Mariola Mier,2021,21,Big Data Research
-10.1016/j.bdr.2021.100225,A Security Management Framework for Big Data in Smart Healthcare,Parsa Sarosh and Shabir A. Parah and G. Mohiuddin Bhat and Khan Muhammad,2021,19,Big Data Research
 10.1016/j.bdr.2021.100294,Visual Analytics of Trajectories with RoseTrajVis,António Ferreira and Ana Paula Afonso and Luís Ferreira and Ricardo Vaz,2022,2,Big Data Research
-10.1016/j.bdr.2021.100285,Towards Efficient Energy Utilization Using Big Data Analytics in Smart Cities for Electricity Theft Detection,Arooj Arif and Turki Ali Alghamdi and Zahoor Ali Khan and Nadeem Javaid,2022,14,Big Data Research
+10.1016/j.bdr.2021.100285,Towards Efficient Energy Utilization Using Big Data Analytics in Smart Cities for Electricity Theft Detection,Arooj Arif and Turki Ali Alghamdi and Zahoor Ali Khan and Nadeem Javaid,2022,15,Big Data Research
+10.1016/j.bdr.2016.04.003,"Big Data for Supporting Low-Carbon Road Transport Policies in Europe: Applications, Challenges and Opportunities",Michele De Gennaro and Elena Paffumi and Giorgio Martini,2016,55,Big Data Research
+10.1016/j.bdr.2015.12.001,Finding the Best Classification Threshold in Imbalanced Classification,Quan Zou and Sifa Xie and Ziyu Lin and Meihong Wu and Ying Ju,2016,114,Big Data Research
+10.1016/j.bdr.2017.09.002,Variations on the Clustering Algorithm BIRCH,Boris Lorbeer and Ana Kosareva and Bersant Deva and Dženan Softić and Peter Ruppel and Axel Küpper,2018,55,Big Data Research
+10.1016/j.bdr.2018.05.007,Lossless Pruned Naive Bayes for Big Data Classifications,Nanfei Sun and Bingjun Sun and Jian (Denny) Lin and Michael Yu-Chi Wu,2018,17,Big Data Research
+10.1016/j.bdr.2015.02.006,Demystifying Big Data Analytics for Business Intelligence Through the Lens of Marketing Mix,Shaokun Fan and Raymond Y.K. Lau and J. Leon Zhao,2015,171,Big Data Research
+10.1016/j.bdr.2021.100190,A Framework for Pandemic Prediction Using Big Data Analytics,Imran Ahmed and Misbah Ahmad and Gwanggil Jeon and Francesco Piccialli,2021,34,Big Data Research
+10.1016/j.bdr.2020.100172,Smart Pharmaceutical Manufacturing: Ensuring End-to-End Traceability and Data Integrity in Medicine Production,Fátima Leal and Adriana E. Chis and Simon Caton and Horacio González–Vélez and Juan M. García–Gómez and Marta Durá and Angel Sánchez–García and Carlos Sáez and Anthony Karageorgos and Vassilis C. Gerogiannis and Apostolos Xenakis and Efthymios Lallas and Theodoros Ntounas and Eleni Vasileiou and Georgios Mountzouris and Barbara Otti and Penelope Pucci and Rossano Papini and David Cerrai and Mariola Mier,2021,21,Big Data Research
+10.1016/j.bdr.2023.100381,MLPQ: A Dataset for Path Question Answering over Multilingual Knowledge Graphs,Yiming Tan and Yongrui Chen and Guilin Qi and Weizhuo Li and Meng Wang,2023,0,Big Data Research
+10.1016/j.bdr.2015.04.001,Efficient Machine Learning for Big Data: A Review,Omar Y. Al-Jarrah and Paul D. Yoo and Sami Muhaidat and George K. Karagiannidis and Kamal Taha,2015,347,Big Data Research
+10.1016/j.bdr.2018.02.002,Insights into Antidepressant Prescribing Using Open Health Data,Brian Cleland and Jonathan Wallace and Raymond Bond and Michaela Black and Maurice Mulvenna and Deborah Rankin and Austin Tanney,2018,11,Big Data Research
 10.1016/j.bdr.2018.02.004,Scalable Machine Learning for Predicting At-Risk Profiles Upon Hospital Admission,Pierre Genevès and Thomas Calmant and Nabil Layaïda and Marion Lepelley and Svetlana Artemova and Jean-Luc Bosson,2018,4,Big Data Research
 10.1016/j.bdr.2020.100160,JECI++: A Modified Joint Knowledge Graph Embedding Model for Concepts and Instances,Peng Wang and Jing Zhou,2021,2,Big Data Research
 10.1016/j.bdr.2017.06.005,Data Reduction Through Increased Data Utilization in Chemical Dynamics Simulations,Misha Ahmadian and Yu Zhuang and William L. Hase and Yong Chen,2017,1,Big Data Research
 10.1016/j.bdr.2022.100330,Fog-Computing Based Healthcare Framework for Predicting Encephalitis Outbreak,Sapna Kumari and Munish Bhatia and Giovanni Stea,2022,0,Big Data Research
-10.1016/j.bdr.2022.100327,Graph Waves,James Abello and Daniel Nakhimovich,2022,0,Big Data Research
 10.1016/j.bdr.2022.100345,Correlation Expert Tuning System for Performance Acceleration,Yanfeng Chai and Jiake Ge and Qiang Zhang and Yunpeng Chai and Xin Wang and Qingpeng Zhang,2022,0,Big Data Research
 10.1016/j.bdr.2022.100350,A Twig-Based Algorithm for Top-k Subgraph Matching in Large-Scale Graph Data,Haiwei Zhang and Qijie Bai and Yining Lian and Yanlong Wen,2022,0,Big Data Research
 10.1016/s2214-5796(14)00010-0,Editorial Board,,2014,0,Big Data Research
+10.1016/j.bdr.2022.100329,XDataExplorer: A Three-Stage Comprehensive Self-Tuning Tool for Big Data Platforms,Qing Guo and Yingying Xie and Qiushi Li and Yifan Zhu,2022,1,Big Data Research
 10.1016/s2214-5796(20)30007-1,Editorial Board,,2020,0,Big Data Research
 10.1016/j.bdr.2020.100176,Improving Diagnosis Estimation by Considering the Periodic Span of the Life Cycle Based on Personal Health Data,Kiichi Tago and Shoji Nishimura and Atsushi Ogihara and Qun Jin,2021,0,Big Data Research
+10.1016/s2214-5796(20)30033-2,Editorial Board,,2020,0,Big Data Research
+10.1016/s2214-5796(21)00096-4,Editorial Board,,2021,0,Big Data Research
+10.1016/j.bdr.2021.100244,Editorial to the Special Issue on Big Data in Industrial and Commercial Applications,Lars Lundberg and Håkan Grahn and Valeria Cardellini and Andreas Polze and Sogand Shirinbab,2021,2,Big Data Research
 10.1016/s2214-5796(17)30337-4,Editorial Board,,2017,0,Big Data Research
 10.1016/s2214-5796(18)30167-9,Preface,,2018,0,Big Data Research
 10.1016/j.bdr.2014.08.002,From Big Data to Data Science: A Multi-disciplinary Perspective,Zhaohui Wu and Ooi Beng Chin,2014,11,Big Data Research
 10.1016/s2214-5796(19)30215-1,Editorial Board,,2019,0,Big Data Research
 10.1016/j.bdr.2017.01.005,Prototyping a GPGPU Neural Network for Deep-Learning Big Data Analysis,Alcides Fonseca and Bruno Cabral,2017,23,Big Data Research
-10.1016/j.bdr.2021.100286,Integrating Models and Fusing Data in a Deep Ensemble Learning Method for Predicting Epidemic Diseases Outbreak,Nesrine Ben Yahia and Mohamed Dhiaeddine Kandara and Narjes Bellamine BenSaoud,2022,5,Big Data Research
-10.1016/j.bdr.2022.100329,XDataExplorer: A Three-Stage Comprehensive Self-Tuning Tool for Big Data Platforms,Qing Guo and Yingying Xie and Qiushi Li and Yifan Zhu,2022,1,Big Data Research
+10.1016/j.bdr.2022.100327,Graph Waves,James Abello and Daniel Nakhimovich,2022,0,Big Data Research
 10.1016/j.bdr.2019.100125,Corrigendum to “A Dynamic Neural Network Architecture with Immunology Inspired Optimization for Weather Data Forecasting” [Big Data Research 14 (2018) 81–92],Abir Jaafar Hussain and Panos Liatsis and Mohammed Khalaf and Hissam Tawfik and Haya Al-Asker,2019,0,Big Data Research
 10.1016/j.bdr.2021.100237,Time-Series Graph Network for Sea Surface Temperature Prediction,Yongjiao Sun and Xin Yao and Xin Bi and Xuechun Huang and Xiangguo Zhao and Baiyou Qiao,2021,9,Big Data Research
 10.1016/s2214-5796(16)30024-7,Editorial Board,,2016,0,Big Data Research
-10.1016/s2214-5796(20)30033-2,Editorial Board,,2020,0,Big Data Research
-10.1016/s2214-5796(21)00096-4,Editorial Board,,2021,0,Big Data Research
-10.1016/j.bdr.2021.100244,Editorial to the Special Issue on Big Data in Industrial and Commercial Applications,Lars Lundberg and Håkan Grahn and Valeria Cardellini and Andreas Polze and Sogand Shirinbab,2021,2,Big Data Research
 10.1016/j.bdr.2021.100256,Hierarchical Multiresolution Representation of Streaming Time Series,Igor Manojlović and Goran Švenda and Aleksandar Erdeljan and Milan Gavrić and Darko Čapko,2021,1,Big Data Research
-10.1016/j.bdr.2021.100301,A Full-Sample Clustering Model Considering Whole Process Optimization of Data,Yong Shuai,2022,0,Big Data Research
 10.1016/j.bdr.2016.04.001,Towards Human–Machine Collaboration in Creating an Evaluation Corpus for Adverse Drug Events in Discharge Summaries of Electronic Medical Records,Pei San Ang and Liza Y.P. Fan and Mun Yee Tham and Siew Har Tan and Sally B.L. Soh and Belinda P.Q. Foo and Celine W.P. Loke and Shangfeng Hu and Cynthia Sung,2016,4,Big Data Research
 10.1016/j.bdr.2021.100249,Data Price Determinants Based on a Hedonic Pricing Model,Ji Liang and Chunhui Yuan,2021,2,Big Data Research
 10.1016/j.bdr.2022.100331,Feature Ranking Importance from Multimodal Radiomic Texture Features using Machine Learning Paradigm: A Biomarker to Predict the Lung Cancer,Seong-O Shim and Monagi H. Alkinani and Lal Hussain and Wajid Aziz,2022,1,Big Data Research
 10.1016/j.bdr.2014.07.001,FlexAnalytics: A Flexible Data Analytics Framework for Big Data Applications with I/O Performance Improvement,Hongbo Zou and Yongen Yu and Wei Tang and Hsuan-Wei Michelle Chen,2014,34,Big Data Research
-10.1016/j.bdr.2018.06.002,Fast Gaussian Process Regression for Big Data,Sourish Das and Sasanka Roy and Rajiv Sambasivan,2018,16,Big Data Research
+10.1016/j.bdr.2021.100210,Using Big Data to Improve Safety Performance: An Application of Process Mining to Enhance Data Visualisation,Anastasiia Pika and Arthur H.M. ter Hofstede and Robert K. Perrons and Georg Grossmann and Markus Stumptner and Jim Cooley,2021,11,Big Data Research
 10.1016/j.bdr.2016.08.002,Boosting the Efficiency of Large-Scale Entity Resolution with Enhanced Meta-Blocking,George Papadakis and George Papastefanatos and Themis Palpanas and Manolis Koubarakis,2016,9,Big Data Research
+10.1016/j.bdr.2019.03.001,Systematic Review of the Literature on Big Data in the Transportation Domain: Concepts and Applications,Alex Neilson and n.m. Indratmo and Ben Daniel and Stevanus Tjandra,2019,58,Big Data Research
 10.1016/j.bdr.2021.100253,Enhancing Precision Medicine: A Big Data-Driven Approach for the Management of Genomic Data,Ana León and Óscar Pastor,2021,4,Big Data Research
 10.1016/j.bdr.2020.100135,Automated Deployment of a Spark Cluster with Machine Learning Algorithm Integration,A.M. Fernández and D. Gutiérrez-Avilés and A. Troncoso and F. Martínez–Álvarez,2020,3,Big Data Research
 10.1016/j.bdr.2017.01.001,Applying Parallel Computing Techniques to Analyze Terabyte Atmospheric Boundary Layer Model Outputs,Timothy S. Sliwinski and Song-Lak Kang,2017,7,Big Data Research
 10.1016/j.bdr.2015.02.004,ScaDiPaSi: An Effective Scalable and Distributable MapReduce-Based Method to Find Patient Similarity on Huge Healthcare Networks,Mohammadhossein Barkhordari and Mahdi Niamanesh,2015,27,Big Data Research
+10.1016/j.bdr.2018.11.002,Editorial for Special Issue on “Hybrid Evolutionary and Swarm Techniques for Big Data Analytics and Applications”,Kevin Kam Fung Yuen and Steven Sheng-Uei Guan and Kit Yan Chan and Vasile Palade,2018,1,Big Data Research
+10.1016/j.bdr.2018.07.001,SMARTLET: A Dynamic Architecture for Real Time Face Recognition in Smartphone Using Cloudlets and Cloud,Md Fazlay Rabbi Masum Billah and Muhammad Abdullah Adnan,2019,4,Big Data Research
+10.1016/j.bdr.2021.100257,Intelligent Narrative Summaries: From Indicative to Informative Summarization,Samira Ghodratnama and Amin Beheshti and Mehrdad Zakershahrak and Fariborz Sobhanmanesh,2021,2,Big Data Research
 10.1016/j.bdr.2018.06.001,Selective and Recurring Re-computation of Big Data Analytics Tasks: Insights from a Genomics Case Study,Jacek Cała and Paolo Missier,2018,1,Big Data Research
 10.1016/j.bdr.2021.100302,OMNet: Object- Perception Multi-Branch Network for Pedestrian Re-Identification,Feng Hong and Chang-hua Lu and Wang Tao and Weiwei Jiang,2022,1,Big Data Research
 10.1016/j.bdr.2017.05.003,BLADYG: A Graph Processing Framework for Large Dynamic Graphs,Sabeur Aridhi and Alberto Montresor and Yannis Velegrakis,2017,21,Big Data Research
-10.1016/j.bdr.2018.11.002,Editorial for Special Issue on “Hybrid Evolutionary and Swarm Techniques for Big Data Analytics and Applications”,Kevin Kam Fung Yuen and Steven Sheng-Uei Guan and Kit Yan Chan and Vasile Palade,2018,1,Big Data Research
-10.1016/j.bdr.2018.07.001,SMARTLET: A Dynamic Architecture for Real Time Face Recognition in Smartphone Using Cloudlets and Cloud,Md Fazlay Rabbi Masum Billah and Muhammad Abdullah Adnan,2019,4,Big Data Research
-10.1016/j.bdr.2021.100245,Setting Privacy “by Default” in Social IoT: Theorizing the Challenges and Directions in Big Data Research,José Ramón Saura and Domingo Ribeiro-Soriano and Daniel Palacios-Marqués,2021,35,Big Data Research
-10.1016/j.bdr.2021.100257,Intelligent Narrative Summaries: From Indicative to Informative Summarization,Samira Ghodratnama and Amin Beheshti and Mehrdad Zakershahrak and Fariborz Sobhanmanesh,2021,2,Big Data Research
-10.1016/j.bdr.2021.100210,Using Big Data to Improve Safety Performance: An Application of Process Mining to Enhance Data Visualisation,Anastasiia Pika and Arthur H.M. ter Hofstede and Robert K. Perrons and Georg Grossmann and Markus Stumptner and Jim Cooley,2021,9,Big Data Research
 10.1016/j.bdr.2021.100194,A Big Data-Driven Hybrid Solution to the Indoor-Outdoor Detection Problem,Raissa P.P.M. Souza and Leonardo J.A. dos Santos and Gabriel T.P. Coimbra and Fabricio A. Silva and Thais R.M.B. Silva,2021,4,Big Data Research
 10.1016/j.bdr.2022.100313,Real-Time Traffic Speed Estimation for Smart Cities with Spatial Temporal Data: A Gated Graph Attention Network Approach,Xin Nie and Jialiang Peng and Yi Wu and B.B. Gupta and Ahmed A. Abd El-Latif,2022,3,Big Data Research
 10.1016/j.bdr.2015.02.003,High Frequency Analysis of Macro News Releases on the Foreign Exchange Market: A Survey of Literature,Wei Li and Micheal C.S. Wong and Jovan Cenev,2015,15,Big Data Research
-10.1016/j.bdr.2019.03.001,Systematic Review of the Literature on Big Data in the Transportation Domain: Concepts and Applications,Alex Neilson and n.m. Indratmo and Ben Daniel and Stevanus Tjandra,2019,55,Big Data Research
-10.1016/j.bdr.2015.12.003,Big Sensor Data Applications in Urban Environments,Li-Minn Ang and Kah Phooi Seng,2016,69,Big Data Research
-10.1016/j.bdr.2019.07.001,HiePaCo: Scalable Hierarchical Exploration in Abstract Parallel Coordinates Under Budget Constraints,Gaëlle Richer and Joris Sansen and Frédéric Lalanne and David Auber and Romain Bourqui,2019,5,Big Data Research
-10.1016/j.bdr.2018.05.002,A Novel Clustering Method Using Enhanced Grey Wolf Optimizer and MapReduce,Ashish Kumar Tripathi and Kapil Sharma and Manju Bala,2018,78,Big Data Research
-10.1016/j.bdr.2021.100303,Two-Stage Cooperative/Non-Cooperative Game DEA Model with Decision Preference: A Case of Chinese Industrial System,Aifeng Song and Weilai Huang and Xue Yang and Yang Tian and Yang Juan and Qiyu Xing,2022,2,Big Data Research
 10.1016/j.bdr.2015.10.001,Assessing the Quality of Service Using Big Data Analytics,Feras A. Batarseh and Eyad Abdel Latif,2016,51,Big Data Research
 10.1016/j.bdr.2021.100185,Core dataset extraction from unlabeled medical big data for lesion localization,Kehua Guo and Yifei Wang and Jian Kang and Jian Zhang and Rui Cao,2021,2,Big Data Research
+10.1016/j.bdr.2015.12.003,Big Sensor Data Applications in Urban Environments,Li-Minn Ang and Kah Phooi Seng,2016,69,Big Data Research
+10.1016/j.bdr.2019.07.001,HiePaCo: Scalable Hierarchical Exploration in Abstract Parallel Coordinates Under Budget Constraints,Gaëlle Richer and Joris Sansen and Frédéric Lalanne and David Auber and Romain Bourqui,2019,5,Big Data Research
+10.1016/j.bdr.2021.100303,Two-Stage Cooperative/Non-Cooperative Game DEA Model with Decision Preference: A Case of Chinese Industrial System,Aifeng Song and Weilai Huang and Xue Yang and Yang Tian and Yang Juan and Qiyu Xing,2022,2,Big Data Research
+10.1016/j.bdr.2021.100245,Setting Privacy “by Default” in Social IoT: Theorizing the Challenges and Directions in Big Data Research,José Ramón Saura and Domingo Ribeiro-Soriano and Daniel Palacios-Marqués,2021,35,Big Data Research
+10.1016/j.bdr.2021.100301,A Full-Sample Clustering Model Considering Whole Process Optimization of Data,Yong Shuai,2022,1,Big Data Research
+10.1016/j.bdr.2018.06.002,Fast Gaussian Process Regression for Big Data,Sourish Das and Sasanka Roy and Rajiv Sambasivan,2018,18,Big Data Research
+10.1016/j.bdr.2021.100286,Integrating Models and Fusing Data in a Deep Ensemble Learning Method for Predicting Epidemic Diseases Outbreak,Nesrine Ben Yahia and Mohamed Dhiaeddine Kandara and Narjes Bellamine BenSaoud,2022,6,Big Data Research
+10.1016/j.bdr.2018.05.002,A Novel Clustering Method Using Enhanced Grey Wolf Optimizer and MapReduce,Ashish Kumar Tripathi and Kapil Sharma and Manju Bala,2018,80,Big Data Research
 10.1016/j.bdr.2019.100122,Editorial for Special Issue on “Big Data and Smart Cities”,Magdalini Eirinaki and Jerry Gao and Latifur Khan and Sourav Mazumder and Katerina Potika,2019,1,Big Data Research
 10.1016/j.bdr.2021.100289,Big Data in Forecasting Research: A Literature Review,Ling Tang and Jieyi Li and Hongchuan Du and Ling Li and Jun Wu and Shouyang Wang,2022,5,Big Data Research
 10.1016/s2214-5796(19)30079-6,Editorial Board,,2019,0,Big Data Research
 10.1016/j.bdr.2021.100204,Investigating Automatic Parameter Tuning for SQL-on-Hadoop Systems,Edson Ramiro Lucas Filho and Eduardo Cunha de Almeida and Stefanie Scherzinger and Herodotos Herodotou,2021,3,Big Data Research
-10.1016/j.bdr.2021.100193,Information Needs Mining of COVID-19 in Chinese Online Health Communities,Jie Wang and Lei Wang and Jing Xu and Yan Peng,2021,14,Big Data Research
 10.1016/s2214-5796(17)30048-5,Editorial Board,,2017,0,Big Data Research
 10.1016/j.bdr.2021.100254,Scaling the Growing Neural Gas for Visual Cluster Analysis,Elio Ventocilla and Rafael M. Martins and Fernando Paulovich and Maria Riveiro,2021,3,Big Data Research
 10.1016/j.bdr.2014.07.004,A Near-Linear Time Subspace Search Scheme for Unsupervised Selection of Correlated Features,Hoang-Vu Nguyen and Emmanuel Müller and Klemens Böhm,2014,0,Big Data Research
 10.1016/j.bdr.2021.100215,Editorial for Special Issue of Journal of Big Data Research on “Big Data Meets Knowledge Graphs”,Xin Wang and Diego Calvanese,2021,2,Big Data Research
 10.1016/s2214-5796(15)00019-2,Editorial Board,,2015,0,Big Data Research
-10.1016/j.bdr.2015.01.004,Scalable Tensor Mining,Lee Sael and Inah Jeon and U Kang,2015,17,Big Data Research
 10.1016/j.bdr.2017.01.004,"Chiminey: Connecting Scientists to HPC, Cloud and Big Data",Iman I. Yusuf and Ian E. Thomas and Maria Spichkova and Heinz W. Schmidt,2017,8,Big Data Research
 10.1016/s2214-5796(18)30058-3,Special issue of Big Data Research Journal on “Big Data and Neural Networks”,,2018,3,Big Data Research
 10.1016/s2214-5796(15)00041-6,Editorial Board,,2015,0,Big Data Research
 10.1016/s2214-5796(17)30127-2,Editorial Board,,2017,0,Big Data Research
 10.1016/j.bdr.2020.100161,WISE: Workload-Aware Partitioning for RDF Systems,Xintong Guo and Hong Gao and Zhaonian Zou,2020,4,Big Data Research
+10.1016/j.bdr.2015.01.004,Scalable Tensor Mining,Lee Sael and Inah Jeon and U Kang,2015,18,Big Data Research
 10.1016/s2214-5796(21)00078-2,Editorial Board,,2021,0,Big Data Research
 10.1016/j.bdr.2021.100220,A Multi-Task Sequential State Model for the Human Trajectory Data Understanding,Jiabi Zheng and Zhenguo Yang and Wenyin Liu,2021,0,Big Data Research
 10.1016/j.bdr.2021.100234,Risk Prediction of Renal Failure for Chronic Disease Population Based on Electronic Health Record Big Data,Yujie Yang and Ye Li and Runge Chen and Jing Zheng and Yunpeng Cai and Giancarlo Fortino,2021,2,Big Data Research
 10.1016/j.bdr.2017.06.001,Hadoop MapReduce Performance on SSDs for Analyzing Social Networks,M. Bakratsas and P. Basaras and D. Katsaros and L. Tassiulas,2018,13,Big Data Research
 10.1016/j.bdr.2022.100326,A Segmented PageRank-Based Value Compensation Method for Personal Data in Alliance Blockchains,Chaoxia Qin and Bing Guo and Yun Zhang and Omar Cheikhrouhou and Yan Shen and Zhen Zhang and Hong Su,2022,0,Big Data Research
-10.1016/j.bdr.2022.100336,An Intelligent Government Complaint Prediction Approach,Siqi Chen and Yanling Zhang and Bin Song and Xiaojiang Du and Mohsen Guizani,2022,0,Big Data Research
+10.1016/j.bdr.2021.100296,NGCU: A New RNN Model for Time-Series Data Prediction,Jingyang Wang and Xiaolei Li and Jiazheng Li and Qiuhong Sun and Haiyao Wang,2022,16,Big Data Research
+10.1016/j.bdr.2017.06.006,Frequent Itemsets Mining for Big Data: A Comparative Analysis,Daniele Apiletti and Elena Baralis and Tania Cerquitelli and Paolo Garza and Fabio Pulvirenti and Luca Venturini,2017,32,Big Data Research
 10.1016/j.bdr.2021.100274,Cross-Industry Process Standardization for Text Analytics,Christina G. Skarpathiotaki and Konstantinos E. Psannis,2022,1,Big Data Research
 10.1016/j.bdr.2021.100299,Corrigendum to “High Frequency Analysis of Macro News Releases on the Foreign Exchange Market: A Survey of Literature” [Big Data Res. 2 (1) (2015) 33–48],Wei Li and Micheal C.S. Wong and Jovan Cenev,2022,0,Big Data Research
 10.1016/j.bdr.2021.100290,A Novel Big Data Approach for Record and Represent Compliance in the Covid-19 Era,M. Giacalone and D.C. Sinitò and M.V. Calciano and V. Santarcangelo,2022,1,Big Data Research
 10.1016/j.bdr.2021.100240,Dependency Visualization in Data Stream Profiling,Bernardo Breve and Loredana Caruccio and Stefano Cirillo and Vincenzo Deufemia and Giuseppe Polese,2021,5,Big Data Research
 10.1016/j.bdr.2015.12.002,Analysis of a Network IO Bottleneck in Big Data Environments Based on Docker Containers,P. China Venkanna Varma and Venkata Kalyan Chakravarthy K. and V. Valli Kumari and S. Viswanadha Raju,2016,8,Big Data Research
-10.1016/j.bdr.2017.10.002,Big Data for Context Aware Computing – Perspectives and Challenges,Kalyan P. Subbu and Athanasios V. Vasilakos,2017,32,Big Data Research
 10.1016/j.bdr.2023.100378,A Parallel Fusion Graph Convolutional Network for Aspect-Level Sentiment Analysis,Yuxin Wu and Guofeng Deng,2023,0,Big Data Research
 10.1016/j.bdr.2023.100369,Efficiently Mining Colocation Patterns for Range Query,Srikanth Baride and Anuj S. Saxena and Vikram Goyal,2023,0,Big Data Research
 10.1016/j.bdr.2023.100377,Spatiotemporal Prediction Based on Feature Classification for Multivariate Floating-Point Time Series Lossy Compression,Huimin Feng and Ruizhe Ma and Li Yan and Zongmin Ma,2023,0,Big Data Research
-10.1016/j.bdr.2019.04.001,Anomaly Detection and Repair for Accurate Predictions in Geo-distributed Big Data,Roberto Corizzo and Michelangelo Ceci and Nathalie Japkowicz,2019,38,Big Data Research
-10.1016/j.bdr.2021.100269,FDN-learning: Urban PM2.5-concentration Spatial Correlation Prediction Model Based on Fusion Deep Neural Network,Guojian Zou and Bo Zhang and Ruihan Yong and Dongming Qin and Qin Zhao,2021,6,Big Data Research
-10.1016/j.bdr.2018.05.001,Efficient In-Database Patient Similarity Analysis for Personalized Medical Decision Support Systems,Araek Tashkandi and Ingmar Wiese and Lena Wiese,2018,26,Big Data Research
-10.1016/j.bdr.2020.100178,Deep Learning-Based Weather Prediction: A Survey,Xiaoli Ren and Xiaoyong Li and Kaijun Ren and Junqiang Song and Zichen Xu and Kefeng Deng and Xiang Wang,2021,29,Big Data Research
 10.1016/j.bdr.2016.02.001,A Hybrid Data Center Architecture for Big Data,Mohammad Naimur Rahman and Amir Esmailpour,2016,19,Big Data Research
 10.1016/j.bdr.2016.05.001,Can Twitter Proxy the Investors' Sentiment? The Case for the Technology Sector,Francesco Corea,2016,19,Big Data Research
-10.1016/j.bdr.2021.100296,NGCU: A New RNN Model for Time-Series Data Prediction,Jingyang Wang and Xiaolei Li and Jiazheng Li and Qiuhong Sun and Haiyao Wang,2022,15,Big Data Research
+10.1016/j.bdr.2018.05.001,Efficient In-Database Patient Similarity Analysis for Personalized Medical Decision Support Systems,Araek Tashkandi and Ingmar Wiese and Lena Wiese,2018,26,Big Data Research
+10.1016/j.bdr.2021.100193,Information Needs Mining of COVID-19 in Chinese Online Health Communities,Jie Wang and Lei Wang and Jing Xu and Yan Peng,2021,15,Big Data Research
+10.1016/j.bdr.2022.100336,An Intelligent Government Complaint Prediction Approach,Siqi Chen and Yanling Zhang and Bin Song and Xiaojiang Du and Mohsen Guizani,2022,1,Big Data Research
+10.1016/j.bdr.2020.100146,Anytime Frequent Itemset Mining of Transactional Data Streams,Poonam Goyal and Jagat Sesh Challa and Shivin Shrivastava and Navneet Goyal,2020,10,Big Data Research
+10.1016/j.bdr.2017.10.002,Big Data for Context Aware Computing – Perspectives and Challenges,Kalyan P. Subbu and Athanasios V. Vasilakos,2017,33,Big Data Research
+10.1016/j.bdr.2023.100379,Heterogeneous Graph Convolutional Network Based on Correlation Matrix,Liqing Qiu and Jingcheng Zhou and Caixia Jing and Yuying Liu,2023,0,Big Data Research
 10.1016/j.bdr.2021.100300,Contextualized Fairness for Recommender Systems in Premium Scenarios,Yangkun Li and Mohamed-Laid Hedia and Weizhi Ma and Hongyu Lu and Min Zhang and Yiqun Liu and Shaoping Ma,2022,3,Big Data Research
-10.1016/j.bdr.2017.06.006,Frequent Itemsets Mining for Big Data: A Comparative Analysis,Daniele Apiletti and Elena Baralis and Tania Cerquitelli and Paolo Garza and Fabio Pulvirenti and Luca Venturini,2017,30,Big Data Research
-10.1016/j.bdr.2020.100146,Anytime Frequent Itemset Mining of Transactional Data Streams,Poonam Goyal and Jagat Sesh Challa and Shivin Shrivastava and Navneet Goyal,2020,9,Big Data Research
 10.1016/j.bdr.2018.02.007,Classification Performance Improvement Using Random Subset Feature Selection Algorithm for Data Mining,Lakshmipadmaja D and B. Vishnuvardhan,2018,20,Big Data Research
 10.1016/j.bdr.2021.100292,Big Data Analytics and Visualization in Traffic Monitoring,Chiara Bachechi and Laura Po and Federica Rollo,2022,11,Big Data Research
-10.1016/j.bdr.2023.100379,Heterogeneous Graph Convolutional Network Based on Correlation Matrix,Liqing Qiu and Jingcheng Zhou and Caixia Jing and Yuying Liu,2023,0,Big Data Research
-10.1016/s2214-5796(15)00032-5,Editorial Board,,2015,0,Big Data Research
-10.1016/j.bdr.2017.02.001,How to Quantify the Impact of Lossy Transformations on Event Detection,Pavel Efros and Erik Buchmann and Adrian Englhardt and Klemens Böhm,2017,0,Big Data Research
-10.1016/s2214-5796(15)00054-4,Editorial Board,,2015,0,Big Data Research
-10.1016/j.bdr.2022.100347,A Multi-Objective Clustering for Better Data Management in Connected Environment,Sabri Allani and Richard Chbeir and Khouloud Salameh and Elio Mansour and Philippe Arnould,2022,0,Big Data Research
+10.1016/j.bdr.2019.04.001,Anomaly Detection and Repair for Accurate Predictions in Geo-distributed Big Data,Roberto Corizzo and Michelangelo Ceci and Nathalie Japkowicz,2019,38,Big Data Research
+10.1016/j.bdr.2021.100269,FDN-learning: Urban PM2.5-concentration Spatial Correlation Prediction Model Based on Fusion Deep Neural Network,Guojian Zou and Bo Zhang and Ruihan Yong and Dongming Qin and Qin Zhao,2021,7,Big Data Research
+10.1016/j.bdr.2020.100178,Deep Learning-Based Weather Prediction: A Survey,Xiaoli Ren and Xiaoyong Li and Kaijun Ren and Junqiang Song and Zichen Xu and Kefeng Deng and Xiang Wang,2021,32,Big Data Research
 10.1016/s2214-5796(21)00016-2,Editorial Board,,2021,0,Big Data Research
-10.1016/j.bdr.2022.100359,Evaluating Standard Feature Sets Towards Increased Generalisability and Explainability of ML-Based Network Intrusion Detection,Mohanad Sarhan and Siamak Layeghy and Marius Portmann,2022,3,Big Data Research
-10.1016/j.bdr.2022.100354,Augmented Functional Analysis of Variance (A-fANOVA): Theory and Application to Google Trends for Detecting Differences in Abortion Drugs Queries,Fabrizio Maturo and Annamaria Porreca,2022,1,Big Data Research
-10.1016/j.bdr.2021.100298,Visual Exploratory Data Analysis for Copy Number Variation Studies in Biomedical Research,Chiara Vischioni and Fabio Bove and Federica Mandreoli and Riccardo Martoglia and Valentino Pisi and Cristian Taccioli,2022,3,Big Data Research
-10.1016/s2214-5796(22)00004-1,Editorial Board,,2022,0,Big Data Research
-10.1016/j.bdr.2021.100248,Analytical Confidence Intervals for the Number of Different Objects in Data Streams,Giacomo Aletti,2021,1,Big Data Research
-10.1016/j.bdr.2022.100314,Downsampling for Binary Classification with a Highly Imbalanced Dataset Using Active Learning,Wonjae Lee and Kangwon Seo,2022,6,Big Data Research
+10.1016/s2214-5796(20)30018-6,Editorial Board,,2020,0,Big Data Research
+10.1016/j.bdr.2018.10.001,Forecasting Price Movements in Betting Exchanges Using Cartesian Genetic Programming and ANN,Ivars Dzalbs and Tatiana Kalganova,2018,3,Big Data Research
+10.1016/j.bdr.2021.100211,A Framework for Evaluating Personalized Ranking Systems by Fusing Different Evaluation Measures,Tome Eftimov and Bibek Paudel and Gorjan Popovski and Dragi Kocev,2021,3,Big Data Research
+10.1016/j.bdr.2022.100347,A Multi-Objective Clustering for Better Data Management in Connected Environment,Sabri Allani and Richard Chbeir and Khouloud Salameh and Elio Mansour and Philippe Arnould,2022,0,Big Data Research
+10.1016/j.bdr.2015.01.008,Big Data for Open Digital Innovation – A Research Roadmap,Sabine Brunswicker and Elisa Bertino and Sorin Matei,2015,38,Big Data Research
+10.1016/s2214-5796(23)00006-0,Editorial Board,,2023,0,Big Data Research
+10.1016/j.bdr.2021.100207,Predicting Response Time of Concurrent Queries with Similarity Models,Fangpeng Lan and Jinwen Zhang and Baoning Niu,2021,0,Big Data Research
+10.1016/s2214-5796(15)00032-5,Editorial Board,,2015,0,Big Data Research
+10.1016/s2214-5796(18)30348-4,Editorial Board,,2018,0,Big Data Research
+10.1016/j.bdr.2020.100171,PXDedup: Deduplicating Massive Visually Identical JPEG Image Data,Hengxiang Xie and Yuhui Deng and Hao Feng and Lei Si,2021,2,Big Data Research
 10.1016/j.bdr.2014.08.001,Special Issue on Scalable Computing for Big Data,Laurence T. Yang and Jinjun Chen,2014,3,Big Data Research
+10.1016/j.bdr.2020.100169,Knowledge Graph-Based Spatial-Aware User Community Preference Query Algorithm for LBSNs,Yanjun Wang and Liang Zhu and Jiangtao Ma and Guangwu Hu and Jiangchuan Liu and Yaqiong Qiao,2021,3,Big Data Research
+10.1016/j.bdr.2021.100248,Analytical Confidence Intervals for the Number of Different Objects in Data Streams,Giacomo Aletti,2021,1,Big Data Research
 10.1016/s2214-5796(17)30228-9,Editorial Board,,2017,0,Big Data Research
 10.1016/j.bdr.2021.100206,A Survey on Data-driven Performance Tuning for Big Data Analytics Platforms,Rogério Luís de C. Costa and José Moreira and Paulo Pintor and Veronica dos Santos and Sérgio Lifschitz,2021,6,Big Data Research
-10.1016/j.bdr.2022.100316,Evolving Dynamic Bayesian Networks by an Analytical Threshold for Dealing with Data Imputation in Time Series Dataset,Talysson Manoel de Oliveira Santos and Ivan Nunes da Silva and Michel Bessani,2022,0,Big Data Research
-10.1016/s2214-5796(18)30348-4,Editorial Board,,2018,0,Big Data Research
-10.1016/j.bdr.2018.02.006,An Investigation to Identify Factors that Lead to Delay in Healthcare Reimbursement Process: A Brazilian case,Ricardo Gerhardt and João F. Valiati and José Vicente Canto dos Santos,2018,5,Big Data Research
-10.1016/s2214-5796(20)30018-6,Editorial Board,,2020,0,Big Data Research
-10.1016/j.bdr.2021.100207,Predicting Response Time of Concurrent Queries with Similarity Models,Fangpeng Lan and Jinwen Zhang and Baoning Niu,2021,0,Big Data Research
-10.1016/j.bdr.2014.07.005,Efficient Indexing and Query Processing of Model-View Sensor Data in the Cloud,Tian Guo and Thanasis G. Papaioannou and Karl Aberer,2014,21,Big Data Research
-10.1016/j.bdr.2021.100188,Federated Geo-Distributed Clouds: Optimizing Resource Allocation Based on Request Type Using Autonomous and Multi-objective Resource Sharing Model,Fatemeh Ebadifard and Seyed Morteza Babamir,2021,3,Big Data Research
-10.1016/j.bdr.2020.100177,Ontology-Mediated SPARQL Query Answering over Knowledge Graphs,Guohui Xiao and Julien Corman,2021,3,Big Data Research
-10.1016/j.bdr.2018.10.001,Forecasting Price Movements in Betting Exchanges Using Cartesian Genetic Programming and ANN,Ivars Dzalbs and Tatiana Kalganova,2018,3,Big Data Research
-10.1016/j.bdr.2020.100182,DIGITNET: A Deep Handwritten Digit Detection and Recognition Method Using a New Historical Handwritten Digit Dataset,Huseyin Kusetogullari and Amir Yavariabdi and Johan Hall and Niklas Lavesson,2021,29,Big Data Research
-10.1016/j.bdr.2017.01.003,Marcher: A Heterogeneous System Supporting Energy-Aware High Performance Computing and Big Data Analytics,Ziliang Zong and Rong Ge and Qijun Gu,2017,21,Big Data Research
-10.1016/j.bdr.2016.11.001,Smart4Job: A Big Data Framework for Intelligent Job Offers Broadcasting Using Time Series Forecasting and Semantic Classification,Sidahmed Benabderrahmane and Nedra Mellouli and Myriam Lamolle and Patrick Paroubek,2017,11,Big Data Research
-10.1016/j.bdr.2021.100239,ExplorerTree: A Focus+Context Exploration Approach for 2D Embeddings,Wilson E. Marcílio-Jr and Danilo M. Eler and Fernando V. Paulovich and José F. Rodrigues-Jr and Almir O. Artero,2021,2,Big Data Research
-10.1016/j.bdr.2020.100171,PXDedup: Deduplicating Massive Visually Identical JPEG Image Data,Hengxiang Xie and Yuhui Deng and Hao Feng and Lei Si,2021,2,Big Data Research
-10.1016/j.bdr.2020.100169,Knowledge Graph-Based Spatial-Aware User Community Preference Query Algorithm for LBSNs,Yanjun Wang and Liang Zhu and Jiangtao Ma and Guangwu Hu and Jiangchuan Liu and Yaqiong Qiao,2021,3,Big Data Research
-10.1016/j.bdr.2020.100134,Entity Resolution with Recursive Blocking,Shao-Qing Yu,2020,3,Big Data Research
-10.1016/j.bdr.2021.100211,A Framework for Evaluating Personalized Ranking Systems by Fusing Different Evaluation Measures,Tome Eftimov and Bibek Paudel and Gorjan Popovski and Dragi Kocev,2021,3,Big Data Research
-10.1016/j.bdr.2019.02.001,Visual Exploration of Geolocated Time Series with Hybrid Indexing,Georgios Chatzigeorgakidis and Kostas Patroumpas and Dimitrios Skoutas and Spiros Athanasiou and Spiros Skiadopoulos,2019,6,Big Data Research
-10.1016/j.bdr.2018.02.003,A Novel Adaptive Feature Extraction for Detection of Cardiac Arrhythmias Using Hybrid Technique MRDWT &amp; MPNN Classifier from ECG Big Data,Hari Mohan Rai and Kalyan Chatterjee,2018,20,Big Data Research
 10.1016/j.bdr.2021.100242,Using Network Analysis and Machine Learning to Identify Virus Spread Trends in COVID-19,Carlos Andre Reis Pinheiro and Matthew Galati and Natalia Summerville and Mark Lambrecht,2021,4,Big Data Research
-10.1016/j.bdr.2021.100268,An Efficient Blockchain Consensus Algorithm Based on Post-Quantum Threshold Signature,Haibo Yi and Yueping Li and Mei Wang and Zengxian Yan and Zhe Nie,2021,2,Big Data Research
-10.1016/j.bdr.2015.01.008,Big Data for Open Digital Innovation – A Research Roadmap,Sabine Brunswicker and Elisa Bertino and Sorin Matei,2015,38,Big Data Research
-10.1016/j.bdr.2022.100315,A New Hybrid Model of Fuzzy Time Series and Genetic Algorithm Based Machine Learning Algorithm: A Case Study of Forecasting Prices of Nine Types of Major Cryptocurrencies,Shio Gai Quek and Ganeshsree Selvachandran and Jun Hao Tan and Hao Yang Adam Thiang and Nguyen Trung Tuan and Le Hoang Son,2022,0,Big Data Research
+10.1016/s2214-5796(22)00004-1,Editorial Board,,2022,0,Big Data Research
+10.1016/j.bdr.2021.100298,Visual Exploratory Data Analysis for Copy Number Variation Studies in Biomedical Research,Chiara Vischioni and Fabio Bove and Federica Mandreoli and Riccardo Martoglia and Valentino Pisi and Cristian Taccioli,2022,3,Big Data Research
+10.1016/j.bdr.2017.02.001,How to Quantify the Impact of Lossy Transformations on Event Detection,Pavel Efros and Erik Buchmann and Adrian Englhardt and Klemens Böhm,2017,0,Big Data Research
+10.1016/s2214-5796(15)00054-4,Editorial Board,,2015,0,Big Data Research
+10.1016/j.bdr.2020.100134,Entity Resolution with Recursive Blocking,Shao-Qing Yu,2020,3,Big Data Research
+10.1016/j.bdr.2017.01.003,Marcher: A Heterogeneous System Supporting Energy-Aware High Performance Computing and Big Data Analytics,Ziliang Zong and Rong Ge and Qijun Gu,2017,21,Big Data Research
 10.1016/j.bdr.2022.100334,Satellite IoT Based Road Extraction from VHR Images Through Superpixel-CNN Architecture,Tanmay Kumar Behera and Pankaj Kumar Sa and Michele Nappi and Sambit Bakshi,2022,1,Big Data Research
-10.1016/j.bdr.2021.100195,Comparative Study of Layout Analysis of Tabulated Historical Documents,Xusheng Liang and Abbas Cheddad and Johan Hall,2021,3,Big Data Research
+10.1016/j.bdr.2021.100268,An Efficient Blockchain Consensus Algorithm Based on Post-Quantum Threshold Signature,Haibo Yi and Yueping Li and Mei Wang and Zengxian Yan and Zhe Nie,2021,2,Big Data Research
+10.1016/j.bdr.2022.100316,Evolving Dynamic Bayesian Networks by an Analytical Threshold for Dealing with Data Imputation in Time Series Dataset,Talysson Manoel de Oliveira Santos and Ivan Nunes da Silva and Michel Bessani,2022,0,Big Data Research
+10.1016/j.bdr.2021.100222,A Semantic Approach for Big Data Exploration in Industry 4.0,Idoia Berges and Víctor Julio Ramírez-Durán and Arantza Illarramendi,2021,7,Big Data Research
+10.1016/j.bdr.2020.100182,DIGITNET: A Deep Handwritten Digit Detection and Recognition Method Using a New Historical Handwritten Digit Dataset,Huseyin Kusetogullari and Amir Yavariabdi and Johan Hall and Niklas Lavesson,2021,31,Big Data Research
+10.1016/j.bdr.2020.100177,Ontology-Mediated SPARQL Query Answering over Knowledge Graphs,Guohui Xiao and Julien Corman,2021,3,Big Data Research
+10.1016/j.bdr.2021.100188,Federated Geo-Distributed Clouds: Optimizing Resource Allocation Based on Request Type Using Autonomous and Multi-objective Resource Sharing Model,Fatemeh Ebadifard and Seyed Morteza Babamir,2021,3,Big Data Research
+10.1016/j.bdr.2017.07.002,Tensor Decomposition Based Approach for Training Extreme Learning Machines,Nikhitha K. Nair and S. Asharaf,2017,6,Big Data Research
+10.1016/j.bdr.2022.100359,Evaluating Standard Feature Sets Towards Increased Generalisability and Explainability of ML-Based Network Intrusion Detection,Mohanad Sarhan and Siamak Layeghy and Marius Portmann,2022,4,Big Data Research
+10.1016/j.bdr.2022.100354,Augmented Functional Analysis of Variance (A-fANOVA): Theory and Application to Google Trends for Detecting Differences in Abortion Drugs Queries,Fabrizio Maturo and Annamaria Porreca,2022,1,Big Data Research
+10.1016/j.bdr.2021.100239,ExplorerTree: A Focus+Context Exploration Approach for 2D Embeddings,Wilson E. Marcílio-Jr and Danilo M. Eler and Fernando V. Paulovich and José F. Rodrigues-Jr and Almir O. Artero,2021,2,Big Data Research
+10.1016/j.bdr.2016.11.001,Smart4Job: A Big Data Framework for Intelligent Job Offers Broadcasting Using Time Series Forecasting and Semantic Classification,Sidahmed Benabderrahmane and Nedra Mellouli and Myriam Lamolle and Patrick Paroubek,2017,11,Big Data Research
 10.1016/j.bdr.2021.100223,ComBI: Compressed Binary Search Tree for Approximate k-NN Searches in Hamming Space,Prashant Gupta and Aashi Jindal and n.m. Jayadeva and Debarka Sengupta,2021,2,Big Data Research
-10.1016/s2214-5796(23)00006-0,Editorial Board,,2023,0,Big Data Research
+10.1016/j.bdr.2022.100314,Downsampling for Binary Classification with a Highly Imbalanced Dataset Using Active Learning,Wonjae Lee and Kangwon Seo,2022,7,Big Data Research
+10.1016/j.bdr.2014.07.005,Efficient Indexing and Query Processing of Model-View Sensor Data in the Cloud,Tian Guo and Thanasis G. Papaioannou and Karl Aberer,2014,21,Big Data Research
+10.1016/j.bdr.2018.02.003,A Novel Adaptive Feature Extraction for Detection of Cardiac Arrhythmias Using Hybrid Technique MRDWT &amp; MPNN Classifier from ECG Big Data,Hari Mohan Rai and Kalyan Chatterjee,2018,20,Big Data Research
+10.1016/j.bdr.2022.100315,A New Hybrid Model of Fuzzy Time Series and Genetic Algorithm Based Machine Learning Algorithm: A Case Study of Forecasting Prices of Nine Types of Major Cryptocurrencies,Shio Gai Quek and Ganeshsree Selvachandran and Jun Hao Tan and Hao Yang Adam Thiang and Nguyen Trung Tuan and Le Hoang Son,2022,0,Big Data Research
+10.1016/j.bdr.2019.02.001,Visual Exploration of Geolocated Time Series with Hybrid Indexing,Georgios Chatzigeorgakidis and Kostas Patroumpas and Dimitrios Skoutas and Spiros Athanasiou and Spiros Skiadopoulos,2019,6,Big Data Research
 10.1016/j.bdr.2019.04.002,Bi-objective Traffic Optimization in Geo-distributed Data Flows,Anna-Valentini Michailidou and Anastasios Gounaris,2019,6,Big Data Research
 10.1016/j.bdr.2018.05.004,Novel Approach to Predict Hospital Readmissions Using Feature Selection from Unstructured Data with Class Imbalance,Arun Sundararaman and Srinivasan Valady Ramanathan and Ramprasad Thati,2018,15,Big Data Research
-10.1016/j.bdr.2021.100306,Exploiting Renewable Energy and UPS Systems to Reduce Power Consumption in Data Centers,Xiaopu Peng and Tathagata Bhattacharya and Ting Cao and Jianzhou Mao and Taha Tekreeti and Xiao Qin,2022,6,Big Data Research
-10.1016/j.bdr.2021.100222,A Semantic Approach for Big Data Exploration in Industry 4.0,Idoia Berges and Víctor Julio Ramírez-Durán and Arantza Illarramendi,2021,7,Big Data Research
-10.1016/j.bdr.2021.100233,Bi-Level Prediction Model for Screening COVID-19 Patients Using Chest X-Ray Images,Soham Das and Soumya Deep Roy and Samir Malakar and Juan D. Velásquez and Ram Sarkar,2021,18,Big Data Research
+10.1016/j.bdr.2021.100287,A Decision-Level Fusion Method for COVID-19 Patient Health Prediction,Abdu Gumaei and Walaa N. Ismail and Md. Rafiul Hassan and Mohammad Mehedi Hassan and Ebtsam Mohamed and Abdullah Alelaiwi and Giancarlo Fortino,2022,11,Big Data Research
 10.1016/j.bdr.2016.08.001,ELAN: An Efficient Location-Aware Analytics System,Yaxiao Liu and Henan Wang and Guoliang Li and Junyang Gao and Huiqi Hu and Wen-Syan Li,2016,8,Big Data Research
-10.1016/j.bdr.2017.07.003,Random Forests for Big Data,Robin Genuer and Jean-Michel Poggi and Christine Tuleau-Malot and Nathalie Villa-Vialaneix,2017,175,Big Data Research
-10.1016/j.bdr.2017.07.002,Tensor Decomposition Based Approach for Training Extreme Learning Machines,Nikhitha K. Nair and S. Asharaf,2017,6,Big Data Research
-10.1016/j.bdr.2015.03.003,Big Data Analytics for Dynamic Energy Management in Smart Grids,Panagiotis D. Diamantoulakis and Vasileios M. Kapinas and George K. Karagiannidis,2015,217,Big Data Research
 10.1016/j.bdr.2019.02.002,Towards Hybrid Multi-Cloud Storage Systems: Understanding How to Perform Data Transfer,Antonio Celesti and Antonino Galletta and Maria Fazio and Massimo Villari,2019,12,Big Data Research
-10.1016/j.bdr.2015.08.001,Privacy Aware Access Control for Big Data: A Research Roadmap,Pietro Colombo and Elena Ferrari,2015,40,Big Data Research
-10.1016/j.bdr.2017.05.002,Train Delay Prediction Systems: A Big Data Analytics Perspective,Luca Oneto and Emanuele Fumeo and Giorgio Clerico and Renzo Canepa and Federico Papa and Carlo Dambra and Nadia Mazzino and Davide Anguita,2018,65,Big Data Research
 10.1016/j.bdr.2014.07.002,A Dynamic Data Placement Strategy for Hadoop in Heterogeneous Environments,Chia-Wei Lee and Kuang-Yu Hsieh and Sun-Yuan Hsieh and Hung-Chang Hsiao,2014,49,Big Data Research
-10.1016/j.bdr.2021.100287,A Decision-Level Fusion Method for COVID-19 Patient Health Prediction,Abdu Gumaei and Walaa N. Ismail and Md. Rafiul Hassan and Mohammad Mehedi Hassan and Ebtsam Mohamed and Abdullah Alelaiwi and Giancarlo Fortino,2022,10,Big Data Research
+10.1016/j.bdr.2021.100233,Bi-Level Prediction Model for Screening COVID-19 Patients Using Chest X-Ray Images,Soham Das and Soumya Deep Roy and Samir Malakar and Juan D. Velásquez and Ram Sarkar,2021,18,Big Data Research
+10.1016/j.bdr.2015.03.003,Big Data Analytics for Dynamic Energy Management in Smart Grids,Panagiotis D. Diamantoulakis and Vasileios M. Kapinas and George K. Karagiannidis,2015,217,Big Data Research
+10.1016/j.bdr.2015.08.001,Privacy Aware Access Control for Big Data: A Research Roadmap,Pietro Colombo and Elena Ferrari,2015,41,Big Data Research
+10.1016/j.bdr.2023.100383,Random Manifold Sampling and Joint Sparse Regularization for Multi-Label Feature Selection,Haibao Li and Hongzhi Zhai,2023,0,Big Data Research
+10.1016/j.bdr.2018.02.006,An Investigation to Identify Factors that Lead to Delay in Healthcare Reimbursement Process: A Brazilian case,Ricardo Gerhardt and João F. Valiati and José Vicente Canto dos Santos,2018,5,Big Data Research
+10.1016/j.bdr.2021.100195,Comparative Study of Layout Analysis of Tabulated Historical Documents,Xusheng Liang and Abbas Cheddad and Johan Hall,2021,4,Big Data Research
+10.1016/j.bdr.2017.05.002,Train Delay Prediction Systems: A Big Data Analytics Perspective,Luca Oneto and Emanuele Fumeo and Giorgio Clerico and Renzo Canepa and Federico Papa and Carlo Dambra and Nadia Mazzino and Davide Anguita,2018,67,Big Data Research
+10.1016/j.bdr.2017.07.003,Random Forests for Big Data,Robin Genuer and Jean-Michel Poggi and Christine Tuleau-Malot and Nathalie Villa-Vialaneix,2017,178,Big Data Research
+10.1016/j.bdr.2021.100306,Exploiting Renewable Energy and UPS Systems to Reduce Power Consumption in Data Centers,Xiaopu Peng and Tathagata Bhattacharya and Ting Cao and Jianzhou Mao and Taha Tekreeti and Xiao Qin,2022,7,Big Data Research

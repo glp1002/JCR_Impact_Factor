@@ -1,6 +1,5 @@
 DOI,Título,Autores,Año,Citas,Revista
 10.1017/s0269888906000968,How experts reason: the acquisition of experts' knowledge structures,ERWIN W. VAN GEENEN and CILIA L. M. WITTEMAN,2006,2,The Knowledge Engineering Review
-10.1017/s0269888911000208,Survey of directly mapping SQL databases to the Semantic Web,Juan F. Sequeda and Syed Hamid Tirmizi and Oscar Corcho and Daniel P. Miranker,2011,46,The Knowledge Engineering Review
 10.1017/s026988891800022x,Special issue on adaptive and learning agents 2017,Patrick Mannion and Anna Harutyunyan and Kaushik Subramanian,2018,0,The Knowledge Engineering Review
 10.1017/s0269888909990348,Learning Qualitative Differential Equation models: a survey of algorithms and applications,Wei Pang and George M. Coghill,2010,11,The Knowledge Engineering Review
 10.1017/s0269888910000081,KER volume 25 issue 1 Cover and Front matter,,2010,0,The Knowledge Engineering Review
@@ -8,39 +7,41 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1017/s0269888911000221,KER volume 26 issue 4 Cover and Front matter,,2011,0,The Knowledge Engineering Review
 10.1017/s0269888909990099,From the journals…,,2009,0,The Knowledge Engineering Review
 10.1017/s0269888906000579,Soft case-based reasoning,WILLIAM CHEETHAM and SIMON SHIU and ROSINA O. WEBER,2005,4,The Knowledge Engineering Review
+10.1017/s0269888919000122,Designing emotional BDI agents: good practices and open questions,Yanet Sánchez-López and Eva Cerezo,2019,4,The Knowledge Engineering Review
+10.1017/s0269888915000156,Combining reward shaping and hierarchies for scaling to large multiagent systems,Chris HolmesParker and Adrian K. Agogino and Kagan Tumer,2016,7,The Knowledge Engineering Review
+10.1017/s0269888907001300,Situational reasoning for task-oriented mobile service recommendation,MARKO LUTHER and YUSUKE FUKAZAWA and MATTHIAS WAGNER and SHOJI KURAKAKE,2008,26,The Knowledge Engineering Review
+10.1017/s0269888902000383,How the semantic web will change KR: challenges and opportunities for a new research agenda,FRANK VAN HARMELEN,2002,10,The Knowledge Engineering Review
+10.1017/s026988890000401x,Knowledge-base revision,ODILE PAPINI,2000,12,The Knowledge Engineering Review
+10.1017/s0269888912000021,Modeling knowledge dynamics in multi-agent systems based on informants,Luciano H. Tamargo and Alejandro J. García and Marcelo A. Falappa and Guillermo R. Simari,2012,10,The Knowledge Engineering Review
 10.1017/s0269888904000086,From the journals . . .,,2003,1,The Knowledge Engineering Review
 10.1017/s0269888917000145,Preface to the special issue: adaptive and learning agents,Daan Bloembergen and Tim Brys and Logan Yliniemi,2017,0,The Knowledge Engineering Review
 10.1017/s0269888909000198,KER volume 24 issue 1 Cover and Back matter,,2009,0,The Knowledge Engineering Review
 10.1017/s0269888904000062,OntoVote: a scalable distributed vote-collecting mechanism for ontology drift on a P2P platform,YANFENG GE and YONG YU and XING ZHU and SHEN HUANG and MIN XU,2003,1,The Knowledge Engineering Review
-10.1017/s026988891500017x,Overcoming incorrect knowledge in plan-based reward shaping,Kyriakos Efthymiadis and Sam Devlin and Daniel Kudenko,2016,3,The Knowledge Engineering Review
-10.1017/s0269888913000271,Parsing pictures: on analyzing the content of images in science,Letitia Meynell,2013,4,The Knowledge Engineering Review
-10.1017/s0269888916000175,Trading accuracy for speed in approximate consensus,Jacob Beal,2016,3,The Knowledge Engineering Review
-10.1017/s0269888915000193,Context-sensitive reward shaping for sparse interaction multi-agent systems,Yann-Michaël de Hauwere and Sam Devlin and Daniel Kudenko and Ann Nowé,2016,3,The Knowledge Engineering Review
-10.1017/s0269888910000354,Robotics competitions as benchmarks for AI research,John Anderson and Jacky Baltes and Chi Tai Cheng,2011,19,The Knowledge Engineering Review
-10.1017/s0269888916000199,Spatial awareness in pervasive ecosystems,Simon Dobson and Mirko Viroli and Jose Luis Fernandez-Marquez and Franco Zambonelli and Graeme Stevenson and Giovanna Di Marzo Serugendo and Sara Montagna and Danilo Pianini and Juan Ye and Gabriella Castelli and Alberto Rosi,2016,3,The Knowledge Engineering Review
-10.1017/s0269888917000121,Autonomous Unmanned Aerial Vehicle (UAV) landing in windy conditions with MAP-Elites,Sierra A. Adibi and Scott Forer and Jeremy Fries and Logan Yliniemi,2017,2,The Knowledge Engineering Review
-10.1017/s026988891800019x,The composition and formation of effective teams: computer science meets organizational psychology,Ewa Andrejczuk and Rita Berger and Juan A. Rodriguez-Aguilar and Carles Sierra and Víctor Marín-Puchades,2018,4,The Knowledge Engineering Review
-10.1017/s0269888915000156,Combining reward shaping and hierarchies for scaling to large multiagent systems,Chris HolmesParker and Adrian K. Agogino and Kagan Tumer,2016,7,The Knowledge Engineering Review
+10.1017/s0269888915000107,Federated query processing on linked data: a qualitative survey and open challenges,Damla Oguz and Belgin Ergenc and Shaoyi Yin and Oguz Dikenelli and Abdelkader Hameurlain,2015,22,The Knowledge Engineering Review
+10.1017/s0269888920000132,Matching biodiversity and ecology ontologies: challenges and evaluation results,Naouel Karam and Abderrahmane Khiat and Alsayed Algergawy and Melanie Sattler and Claus Weiland and Marco Schmidt,2020,6,The Knowledge Engineering Review
+10.1017/s0269888906000567,Case-based recommender systems,DEREK BRIDGE and MEHMET H. GÖKER and LORRAINE McGINTY and BARRY SMYTH,2005,168,The Knowledge Engineering Review
 10.1017/s0269888914000058,Time constraint route search over multi-locations,Geng Zhao and Kefeng Xuan and David Taniar and Maytham Safar and Bala Srinivasan,2014,2,The Knowledge Engineering Review
-10.1017/s0269888921000059,Learning multiple concepts in description logic through three perspectives,Raphael Melo and Kate Revoredo and Aline Paes,2021,0,The Knowledge Engineering Review
+10.1017/s026988891800019x,The composition and formation of effective teams: computer science meets organizational psychology,Ewa Andrejczuk and Rita Berger and Juan A. Rodriguez-Aguilar and Carles Sierra and Víctor Marín-Puchades,2018,4,The Knowledge Engineering Review
+10.1017/s0269888920000211,Robot magic show: human–robot interaction,Jaesik Jeong and Jeehyun Yang and Jacky Baltes,2020,4,The Knowledge Engineering Review
 10.1017/s0269888904000141,Can user models be learned at all? Inherent problems in machine learning for user modelling,MARTIN E. MÜLLER,2004,10,The Knowledge Engineering Review
 10.1017/s0269888917000017,Introduction to the special issue on constraint satisfaction for planning and scheduling,Miguel A. Salido and Roman Barták,2016,0,The Knowledge Engineering Review
-10.1017/s0269888921000138,A survey on semantic question answering systems,Christina Antoniou and Nick Bassiliades,2022,4,The Knowledge Engineering Review
+10.1017/s0269888916000291,A constraint-based approach for planning unmanned aerial vehicle activities,Christophe Guettier and François Lucas,2016,3,The Knowledge Engineering Review
+10.1017/s0269888918000279,Towards life-long adaptive agents: using metareasoning for combining knowledge-based planning with situated learning,Priyam Parashar and Ashok K. Goel and Bradley Sheneman and Henrik I. Christensen,2018,6,The Knowledge Engineering Review
+10.1017/s026988891100004x,Informal logic dialogue games in human–computer dialogue,Tangming Yuan and David Moore and Chris Reed and Andrew Ravenscroft and Nicolas Maudet,2011,15,The Knowledge Engineering Review
 10.1017/s0269888913000209,KER volume 28 issue 2 Cover and Front matter,,2013,0,The Knowledge Engineering Review
 10.1017/s026988891000038x,Ayurveda for agents: an attempt to bring the sciences of natural and artificial intelligence closer together,Rogier M. van Eijk,2011,2,The Knowledge Engineering Review
 10.1017/s0269888922000066,OWL ontology evolution: understanding and unifying the complex changes,Viviane Torres da Silva and Jéssica Soares dos Santos and Raphael Thiago and Elton Soares and Leonardo Guerreiro Azevedo,2022,0,The Knowledge Engineering Review
-10.1017/s0269888901000091,On compositional modelling,JEROEN KEPPENS and QIANG SHEN,2001,27,The Knowledge Engineering Review
 10.1017/s0269888902210267,Book Review,Simon Parsons,2002,0,The Knowledge Engineering Review
 10.1017/s0269888905210354,"Introduction to Autonomous Mobile Robots by Roland Siegwart and Illah R. Nourbakhsh, MIT Press, 321 pp., $50.00, ISBN 0-262-19502",Simon Parsons,2004,0,The Knowledge Engineering Review
 10.1017/s0269888905230205,"The Semantic Web Primer by Grigoris Antoniou and Frank van Harmelen, MIT Press, 238 pp., $40.00, ISBN",Simon Parsons,2004,0,The Knowledge Engineering Review
 10.1017/s0269888911000063,KER volume 26 issue 2 Cover and Back matter,,2011,0,The Knowledge Engineering Review
 10.1017/s0269888912000070,KER volume 27 issue 2 Cover and Back matter,,2012,0,The Knowledge Engineering Review
 10.1017/s0269888908000076,"Jensen Finn V., Nielsen Thomas D. 2007. Bayesian Networks and Decision Graphs,Second EditionSpringer Verlag, 447 pp., $79.95, ISBN 0-387-68281-3",Simon Parsons,2008,0,The Knowledge Engineering Review
-10.1017/s026988891800005x,Dimensions in programming multi-agent systems,Olivier Boissier and Rafael H. Bordini and Jomi F. Hübner and Alessandro Ricci,2019,13,The Knowledge Engineering Review
+10.1017/s0269888916000151,"A migrant-inspired path planning algorithm for obstacle run using particle swarm optimization, potential field navigation, and fuzzy logic controller",Ping-Huan Kuo and Tzuu-Hseng S. Li and Guan-Yu Chen and Ya-Fang Ho and Chih-Jui Lin,2017,7,The Knowledge Engineering Review
+10.1017/s0269888916000308,A comparative study of location-based recommendation systems,Faisal Rehman and Osman Khalid and Sajjad Ahmad Madani,2017,16,The Knowledge Engineering Review
 10.1017/s0269888908000015,Introduction to the special issue on intelligent virtual environments and virtual agents,Jesús Ibáñez and Carlos Delgado-Mata,2008,1,The Knowledge Engineering Review
 10.1017/s0269888914000095,A goal-based approach to engineering capacity-driven Web services,Zakaria Maamar and Samir Tata and Kokou Yetongnon and Djamal Benslimane and Philippe Thiran,2014,1,The Knowledge Engineering Review
 10.1017/s0269888912000197,KER volume 27 issue 3 Cover and Back matter,,2012,0,The Knowledge Engineering Review
-10.1017/s0269888920000211,Robot magic show: human–robot interaction,Jaesik Jeong and Jeehyun Yang and Jacky Baltes,2020,3,The Knowledge Engineering Review
 10.1017/s0269888918000371,Jargon of Hadoop MapReduce scheduling techniques: a scientific categorization,Muhammad Hanif and Choonhwa Lee,2020,1,The Knowledge Engineering Review
 10.1017/s0269888909990063,An upper-level functional design ontology to support knowledge management in SME-based E-Manufacturing of mechanical products,Alessandro Mosca and Matteo Palmonari and Fabio Sartori,2009,4,The Knowledge Engineering Review
 10.1017/s0269888910000093,KER volume 25 issue 1 Cover and Back matter,,2010,0,The Knowledge Engineering Review
@@ -48,70 +49,69 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1017/s0269888908000027,Modeling emotional action for social characters,Hongwei Yang and Zhigeng Pan and Mingmin Zhang and Chunhua Ju,2008,16,The Knowledge Engineering Review
 10.1017/s0269888903000547,A survey of coordination middleware for XML-centric applications,PAOLO CIANCARINI and ROBERT TOLKSDORF and FRANCO ZAMBONELLI,2002,6,The Knowledge Engineering Review
 10.1017/s0269888906210749,"Knowledge in action: Logical foundations for specifying and implementing dynamical systems by Raymond Reiter, MIT Press, 0-262-18218-1, 448 pp., $60.00/£38.95",Simon Parsons,2005,0,The Knowledge Engineering Review
-10.1017/s0269888918000115,Handling class overlapping to detect noisy instances in classification,Shivani Gupta and Atul Gupta,2018,9,The Knowledge Engineering Review
-10.1017/s0269888919000080,User validation in ontology alignment: functional assessment and impact,Huanyu Li and Zlatan Dragisic and Daniel Faria and Valentina Ivanova and Ernesto Jiménez-Ruiz and Patrick Lambrix and Catia Pesquita,2019,12,The Knowledge Engineering Review
-10.1017/s0269888906000567,Case-based recommender systems,DEREK BRIDGE and MEHMET H. GÖKER and LORRAINE McGINTY and BARRY SMYTH,2005,168,The Knowledge Engineering Review
-10.1017/s0269888907001300,Situational reasoning for task-oriented mobile service recommendation,MARKO LUTHER and YUSUKE FUKAZAWA and MATTHIAS WAGNER and SHOJI KURAKAKE,2008,26,The Knowledge Engineering Review
-10.1017/s0269888915000107,Federated query processing on linked data: a qualitative survey and open challenges,Damla Oguz and Belgin Ergenc and Shaoyi Yin and Oguz Dikenelli and Abdelkader Hameurlain,2015,22,The Knowledge Engineering Review
-10.1017/s0269888907001294,Guest editorial preface: special issue on contexts and ontologies,PAVEL SHVAIKO,2008,4,The Knowledge Engineering Review
+10.1017/s0269888910000184,Efficient variable elimination for semi-structured simple temporal networks with continuous domains,Neil Yorke-Smith and Hung H. Bui,2010,4,The Knowledge Engineering Review
+10.1017/s0269888906000671,Image processing in case-based reasoning,PETRA PERNER and ALEC HOLT and MICHAEL RICHTER,2005,26,The Knowledge Engineering Review
+10.1017/s0269888913000350,A survey of qualitative spatial representations,Juan Chen and Anthony G. Cohn and Dayou Liu and Shengsheng Wang and Jihong Ouyang and Qiangyuan Yu,2015,56,The Knowledge Engineering Review
+10.1017/s026988891800005x,Dimensions in programming multi-agent systems,Olivier Boissier and Rafael H. Bordini and Jomi F. Hübner and Alessandro Ricci,2019,14,The Knowledge Engineering Review
 10.1017/s0269888906230819,"Imitation of life: How biology is inspiring computing by Nancy Forbes, MIT Press, 176 pp., $8.95, ISBN 0-262-06241-0",Simon Parsons,2006,1,The Knowledge Engineering Review
 10.1017/s0269888900003052,A multidisciplinary perspective on multi-agent systems,EDMUND CHATTOE and KERSTIN DAUTENHAHN and IAN DICKINSON and JIM DORAN and NIR VULKAN,2000,0,The Knowledge Engineering Review
 10.1017/s026988890300064x,"Methodologies for the development of knowledge-based systems, 1982–2002",ROBERT PLANT and ROSE GAMBLE,2003,14,The Knowledge Engineering Review
 10.1017/s0269888900001016,Game theoretic and decision theoretic agents,SIMON PARSONS and MICHAEL WOOLDRIDGE,2000,0,The Knowledge Engineering Review
 10.1017/s026988892000020x,Learning self-play agents for combinatorial optimization problems,Ruiyang Xu and Karl Lieberherr,2020,2,The Knowledge Engineering Review
 10.1017/s0269888913000040,KER volume 28 issue 1 Cover and Front matter,,2013,0,The Knowledge Engineering Review
+10.1017/s0269888919000080,User validation in ontology alignment: functional assessment and impact,Huanyu Li and Zlatan Dragisic and Daniel Faria and Valentina Ivanova and Ernesto Jiménez-Ruiz and Patrick Lambrix and Catia Pesquita,2019,12,The Knowledge Engineering Review
 10.1017/s0269888916000163,Active balancing and turning for alpine skiing robots,Chris Iverach-Brereton and Brittany Postnikoff and Jacky Baltes and Amirhossein Hosseinmemar,2017,5,The Knowledge Engineering Review
 10.1017/s0269888901000029,Synthesis of efficient constraint-satisfaction programs,STEPHEN J. WESTFOLD and DOUGLAS R. SMITH,2001,7,The Knowledge Engineering Review
-10.1017/s0269888910000184,Efficient variable elimination for semi-structured simple temporal networks with continuous domains,Neil Yorke-Smith and Hung H. Bui,2010,4,The Knowledge Engineering Review
+10.1017/s0269888914000277,A survey on text mining in social networks,Rizwana Irfan and Christine K. King and Daniel Grages and Sam Ewen and Samee U. Khan and Sajjad A. Madani and Joanna Kolodziej and Lizhe Wang and Dan Chen and Ammar Rayes and Nikolaos Tziritas and Cheng-Zhong Xu and Albert Y. Zomaya and Ahmed Saeed Alzahrani and Hongxiang Li,2015,61,The Knowledge Engineering Review
+10.1017/s0269888907001051,"Argument diagramming in logic, law and artificial intelligence",CHRIS REED and DOUGLAS WALTON and FABRIZIO MACAGNO,2007,54,The Knowledge Engineering Review
+10.1017/s0269888906001044,Towards an argument interchange format,CARLOS CHESÑEVAR and n.m. MCGINNIS and SANJAY MODGIL and IYAD RAHWAN and CHRIS REED and GUILLERMO SIMARI and MATTHEW SOUTH and GERARD VREESWIJK and STEVEN WILLMOTT,2006,163,The Knowledge Engineering Review
+10.1017/s0269888912000434,itSIMPLE: towards an integrated design system for real planning applications,Tiago S. Vaquero and José R. Silva and Flavio Tonidandel and J. Christopher Beck,2013,16,The Knowledge Engineering Review
+10.1017/s0269888913000271,Parsing pictures: on analyzing the content of images in science,Letitia Meynell,2013,4,The Knowledge Engineering Review
+10.1017/s0269888916000175,Trading accuracy for speed in approximate consensus,Jacob Beal,2016,3,The Knowledge Engineering Review
+10.1017/s0269888915000193,Context-sensitive reward shaping for sparse interaction multi-agent systems,Yann-Michaël de Hauwere and Sam Devlin and Daniel Kudenko and Ann Nowé,2016,3,The Knowledge Engineering Review
+10.1017/s0269888910000354,Robotics competitions as benchmarks for AI research,John Anderson and Jacky Baltes and Chi Tai Cheng,2011,19,The Knowledge Engineering Review
+10.1017/s0269888916000199,Spatial awareness in pervasive ecosystems,Simon Dobson and Mirko Viroli and Jose Luis Fernandez-Marquez and Franco Zambonelli and Graeme Stevenson and Giovanna Di Marzo Serugendo and Sara Montagna and Danilo Pianini and Juan Ye and Gabriella Castelli and Alberto Rosi,2016,3,The Knowledge Engineering Review
+10.1017/s0269888912000264,Logic-based event recognition,Alexander Artikis and Anastasios Skarlatidis and François Portet and Georgios Paliouras,2012,46,The Knowledge Engineering Review
+10.1017/s0269888921000138,A survey on semantic question answering systems,Christina Antoniou and Nick Bassiliades,2022,4,The Knowledge Engineering Review
+10.1017/s0269888913000222,Towards a diagrammatic classification,Valeria Giardino,2013,5,The Knowledge Engineering Review
+10.1017/s0269888906000865,Formal systems for persuasion dialogue,HENRY PRAKKEN,2006,136,The Knowledge Engineering Review
+10.1017/s0269888906000555,Representation in case-based reasoning,RALPH BERGMANN and JANET KOLODNER and ENRIC PLAZA,2005,68,The Knowledge Engineering Review
+10.1017/s0269888912000422,Acquiring planning domain models using LOCM,Stephen N. Cresswell and Thomas L. McCluskey and Margaret M. West,2013,28,The Knowledge Engineering Review
+10.1017/s0269888918000115,Handling class overlapping to detect noisy instances in classification,Shivani Gupta and Atul Gupta,2018,9,The Knowledge Engineering Review
 10.1017/s0269888901000248,Argumentation structures that integrate dialectical and non-dialectical reasoning,ANDREW STRANIERI and JOHN ZELEZNIKOW and JOHN YEARWOOD,2001,17,The Knowledge Engineering Review
 10.1017/s0269888910000263,"On rough sets, their recent extensions and applications",N. Mac Parthaláin and Q. Shen,2010,11,The Knowledge Engineering Review
-10.1017/s0269888906000671,Image processing in case-based reasoning,PETRA PERNER and ALEC HOLT and MICHAEL RICHTER,2005,26,The Knowledge Engineering Review
-10.1017/s0269888916000308,A comparative study of location-based recommendation systems,Faisal Rehman and Osman Khalid and Sajjad Ahmad Madani,2017,16,The Knowledge Engineering Review
-10.1017/s026988890000401x,Knowledge-base revision,ODILE PAPINI,2000,12,The Knowledge Engineering Review
-10.1017/s0269888912000021,Modeling knowledge dynamics in multi-agent systems based on informants,Luciano H. Tamargo and Alejandro J. García and Marcelo A. Falappa and Guillermo R. Simari,2012,10,The Knowledge Engineering Review
-10.1017/s0269888920000089,Enacting policies in digital health: a case for smart legal contracts and distributed ledgers?,Zoran Milosevic,2020,3,The Knowledge Engineering Review
-10.1017/s0269888916000266,A cooperative search for berth scheduling,Eduardo Lalla-Ruiz and Belén Melián-Batista and José Marcos Moreno-Vega,2016,3,The Knowledge Engineering Review
-10.1017/s0269888916000291,A constraint-based approach for planning unmanned aerial vehicle activities,Christophe Guettier and François Lucas,2016,3,The Knowledge Engineering Review
-10.1017/s0269888918000279,Towards life-long adaptive agents: using metareasoning for combining knowledge-based planning with situated learning,Priyam Parashar and Ashok K. Goel and Bradley Sheneman and Henrik I. Christensen,2018,6,The Knowledge Engineering Review
-10.1017/s0269888916000151,"A migrant-inspired path planning algorithm for obstacle run using particle swarm optimization, potential field navigation, and fuzzy logic controller",Ping-Huan Kuo and Tzuu-Hseng S. Li and Guan-Yu Chen and Ya-Fang Ho and Chih-Jui Lin,2017,7,The Knowledge Engineering Review
-10.1017/s0269888912000264,Logic-based event recognition,Alexander Artikis and Anastasios Skarlatidis and François Portet and Georgios Paliouras,2012,46,The Knowledge Engineering Review
-10.1017/s0269888913000222,Towards a diagrammatic classification,Valeria Giardino,2013,5,The Knowledge Engineering Review
-10.1017/s0269888920000077,Improving trust and reputation assessment with dynamic behaviour,Caroline Player and Nathan Griffiths,2020,2,The Knowledge Engineering Review
-10.1017/s0269888913000350,A survey of qualitative spatial representations,Juan Chen and Anthony G. Cohn and Dayou Liu and Shengsheng Wang and Jihong Ouyang and Qiangyuan Yu,2015,56,The Knowledge Engineering Review
-10.1017/s0269888921000163,An online scalarization multi-objective reinforcement learning algorithm: TOPSIS Q-learning,Mohammad Mirzanejad and Morteza Ebrahimi and Peter Vamplew and Hadi Veisi,2022,1,The Knowledge Engineering Review
-10.1017/s0269888920000132,Matching biodiversity and ecology ontologies: challenges and evaluation results,Naouel Karam and Abderrahmane Khiat and Alsayed Algergawy and Melanie Sattler and Claus Weiland and Marco Schmidt,2020,6,The Knowledge Engineering Review
-10.1017/s0269888912000434,itSIMPLE: towards an integrated design system for real planning applications,Tiago S. Vaquero and José R. Silva and Flavio Tonidandel and J. Christopher Beck,2013,16,The Knowledge Engineering Review
-10.1017/s026988891100004x,Informal logic dialogue games in human–computer dialogue,Tangming Yuan and David Moore and Chris Reed and Andrew Ravenscroft and Nicolas Maudet,2011,15,The Knowledge Engineering Review
+10.1017/s0269888907001142,"NEXCEL, a deductive spreadsheet",ILIANO CERVESATO,2007,4,The Knowledge Engineering Review
+10.1017/s0269888905000470,Multiagent resource allocation,YANN CHEVALEYRE and PAUL E. DUNNE and ULLE ENDRISS and JÉRÔME LANG and NICOLAS MAUDET and JUAN A. RODRÍGUEZ-AGUILAR,2005,21,The Knowledge Engineering Review
 10.1017/s0269888905000433,Agents in bioinformatics,MICHAEL LUCK and EMANUELA MERELLI,2005,5,The Knowledge Engineering Review
-10.1017/s0269888919000122,Designing emotional BDI agents: good practices and open questions,Yanet Sánchez-López and Eva Cerezo,2019,4,The Knowledge Engineering Review
-10.1017/s0269888902000383,How the semantic web will change KR: challenges and opportunities for a new research agenda,FRANK VAN HARMELEN,2002,10,The Knowledge Engineering Review
-10.1017/s0269888907001051,"Argument diagramming in logic, law and artificial intelligence",CHRIS REED and DOUGLAS WALTON and FABRIZIO MACAGNO,2007,53,The Knowledge Engineering Review
+10.1017/s0269888920000089,Enacting policies in digital health: a case for smart legal contracts and distributed ledgers?,Zoran Milosevic,2020,3,The Knowledge Engineering Review
+10.1017/s0269888907001221,Tuplespace-based computing for the Semantic Web: a survey of the state-of-the-art,LYNDON J. B. NIXON and ELENA SIMPERL and RETO KRUMMENACHER and FRANCISCO MARTIN-RECUERDA,2008,52,The Knowledge Engineering Review
+10.1017/s0269888914000265,Personalization and rule strategies in data-intensive intelligent context-aware systems,Philip T. Moore and Hai V. Pham,2015,21,The Knowledge Engineering Review
+10.1017/s026988890900023x,A large dataset for the evaluation of ontology matching,Fausto Giunchiglia and Mikalai Yatskevich and Paolo Avesani and Pavel Shivaiko,2009,26,The Knowledge Engineering Review
+10.1017/s0269888918000097,Reputation assessment: a review and unifying abstraction,Phillip Taylor and Lina Barakat and Simon Miles and Nathan Griffiths,2018,6,The Knowledge Engineering Review
+10.1017/s0269888904000189,Evolutionary approaches to fuzzy modelling for classification,MICHELLE GALEA and QIANG SHEN and JOHN LEVINE,2004,9,The Knowledge Engineering Review
+10.1017/s0269888917000121,Autonomous Unmanned Aerial Vehicle (UAV) landing in windy conditions with MAP-Elites,Sierra A. Adibi and Scott Forer and Jeremy Fries and Logan Yliniemi,2017,2,The Knowledge Engineering Review
+10.1017/s0269888920000077,Improving trust and reputation assessment with dynamic behaviour,Caroline Player and Nathan Griffiths,2020,2,The Knowledge Engineering Review
 10.1017/s0269888907001154,PrediCalc: a logical spreadsheet management system,MICHAEL KASSOFF and MICHAEL R. GENESERETH,2007,9,The Knowledge Engineering Review
 10.1017/s0269888912000306,An overview of fuzzy Description Logics for the Semantic Web,Z. M. Ma and Fu Zhang and Hailong Wang and Li Yan,2013,9,The Knowledge Engineering Review
 10.1017/s0269888905000408,A survey of interestingness measures for knowledge discovery,KEN MCGARRY,2005,178,The Knowledge Engineering Review
-10.1017/s0269888906001044,Towards an argument interchange format,CARLOS CHESÑEVAR and n.m. MCGINNIS and SANJAY MODGIL and IYAD RAHWAN and CHRIS REED and GUILLERMO SIMARI and MATTHEW SOUTH and GERARD VREESWIJK and STEVEN WILLMOTT,2006,162,The Knowledge Engineering Review
+10.1017/s0269888901000091,On compositional modelling,JEROEN KEPPENS and QIANG SHEN,2001,27,The Knowledge Engineering Review
+10.1017/s0269888921000059,Learning multiple concepts in description logic through three perspectives,Raphael Melo and Kate Revoredo and Aline Paes,2021,0,The Knowledge Engineering Review
 10.1017/s0269888921000126,A 3-phase approach based on sequential mining and dependency parsing for enhancing hypernym patterns performance,Ahmad Issa Alaa Aldine and Mounira Harzallah and Giuseppe Berio and Nicolas Béchet and Ahmad Faour,2021,0,The Knowledge Engineering Review
-10.1017/s0269888907001142,"NEXCEL, a deductive spreadsheet",ILIANO CERVESATO,2007,4,The Knowledge Engineering Review
-10.1017/s0269888905000470,Multiagent resource allocation,YANN CHEVALEYRE and PAUL E. DUNNE and ULLE ENDRISS and JÉRÔME LANG and NICOLAS MAUDET and JUAN A. RODRÍGUEZ-AGUILAR,2005,21,The Knowledge Engineering Review
+10.1017/s0269888907001294,Guest editorial preface: special issue on contexts and ontologies,PAVEL SHVAIKO,2008,4,The Knowledge Engineering Review
 10.1017/s0269888902000371,An ontology model to facilitate knowledge-sharing in multi-agent systems,VALENTINA TAMMA and TREVOR BENCH-CAPON,2002,20,The Knowledge Engineering Review
 10.1017/s026988892100014x,Evaluation metrics and dimensional reduction for binary classification algorithms: a case study on bankruptcy prediction,María E. Pérez-Pons and Javier Parra-Dominguez and Guillermo Hernández and Enrique Herrera-Viedma and Juan M. Corchado,2022,3,The Knowledge Engineering Review
-10.1017/s0269888918000097,Reputation assessment: a review and unifying abstraction,Phillip Taylor and Lina Barakat and Simon Miles and Nathan Griffiths,2018,6,The Knowledge Engineering Review
-10.1017/s026988890900023x,A large dataset for the evaluation of ontology matching,Fausto Giunchiglia and Mikalai Yatskevich and Paolo Avesani and Pavel Shivaiko,2009,26,The Knowledge Engineering Review
-10.1017/s0269888907001221,Tuplespace-based computing for the Semantic Web: a survey of the state-of-the-art,LYNDON J. B. NIXON and ELENA SIMPERL and RETO KRUMMENACHER and FRANCISCO MARTIN-RECUERDA,2008,52,The Knowledge Engineering Review
-10.1017/s0269888914000265,Personalization and rule strategies in data-intensive intelligent context-aware systems,Philip T. Moore and Hai V. Pham,2015,21,The Knowledge Engineering Review
+10.1017/s0269888916000266,A cooperative search for berth scheduling,Eduardo Lalla-Ruiz and Belén Melián-Batista and José Marcos Moreno-Vega,2016,3,The Knowledge Engineering Review
 10.1017/s0269888903000651,Ontology mapping: the state of the art,YANNIS KALFOGLOU and MARCO SCHORLEMMER,2003,650,The Knowledge Engineering Review
-10.1017/s0269888904000189,Evolutionary approaches to fuzzy modelling for classification,MICHELLE GALEA and QIANG SHEN and JOHN LEVINE,2004,9,The Knowledge Engineering Review
-10.1017/s0269888914000289,Evolutionary multi-agent systems,Aleksander Byrski and Rafał Dreżewski and Leszek Siwik and Marek Kisiel-Dorohinicki,2015,59,The Knowledge Engineering Review
-10.1017/s0269888914000277,A survey on text mining in social networks,Rizwana Irfan and Christine K. King and Daniel Grages and Sam Ewen and Samee U. Khan and Sajjad A. Madani and Joanna Kolodziej and Lizhe Wang and Dan Chen and Ammar Rayes and Nikolaos Tziritas and Cheng-Zhong Xu and Albert Y. Zomaya and Ahmed Saeed Alzahrani and Hongxiang Li,2015,61,The Knowledge Engineering Review
-10.1017/s0269888913000192,Collaborative ontology engineering: a survey,Elena Simperl and Markus Luczak-Rösch,2014,44,The Knowledge Engineering Review
-10.1017/s0269888918000073,Ontology visualization methods and tools: a survey of the state of the art,Marek Dudáš and Steffen Lohmann and Vojtěch Svátek and Dmitry Pavlov,2018,43,The Knowledge Engineering Review
-10.1017/s0269888912000422,Acquiring planning domain models using LOCM,Stephen N. Cresswell and Thomas L. McCluskey and Margaret M. West,2013,28,The Knowledge Engineering Review
-10.1017/s0269888906000865,Formal systems for persuasion dialogue,HENRY PRAKKEN,2006,136,The Knowledge Engineering Review
-10.1017/s0269888906000555,Representation in case-based reasoning,RALPH BERGMANN and JANET KOLODNER and ENRIC PLAZA,2005,68,The Knowledge Engineering Review
 10.1017/s0269888913000349,Ontology evolution: a process-centric survey,Fouad Zablith and Grigoris Antoniou and Mathieu d'Aquin and Giorgos Flouris and Haridimos Kondylakis and Enrico Motta and Dimitris Plexousakis and Marta Sabou,2015,89,The Knowledge Engineering Review
+10.1017/s0269888921000163,An online scalarization multi-objective reinforcement learning algorithm: TOPSIS Q-learning,Mohammad Mirzanejad and Morteza Ebrahimi and Peter Vamplew and Hadi Veisi,2022,2,The Knowledge Engineering Review
+10.1017/s0269888913000192,Collaborative ontology engineering: a survey,Elena Simperl and Markus Luczak-Rösch,2014,44,The Knowledge Engineering Review
+10.1017/s026988891500017x,Overcoming incorrect knowledge in plan-based reward shaping,Kyriakos Efthymiadis and Sam Devlin and Daniel Kudenko,2016,3,The Knowledge Engineering Review
+10.1017/s0269888911000208,Survey of directly mapping SQL databases to the Semantic Web,Juan F. Sequeda and Syed Hamid Tirmizi and Oscar Corcho and Daniel P. Miranker,2011,46,The Knowledge Engineering Review
+10.1017/s0269888914000289,Evolutionary multi-agent systems,Aleksander Byrski and Rafał Dreżewski and Leszek Siwik and Marek Kisiel-Dorohinicki,2015,59,The Knowledge Engineering Review
+10.1017/s0269888918000073,Ontology visualization methods and tools: a survey of the state of the art,Marek Dudáš and Steffen Lohmann and Vojtěch Svátek and Dmitry Pavlov,2018,43,The Knowledge Engineering Review
+10.1017/s0269888913000064,"On the integration of trust with negotiation, argumentation and semantics",Piero Bonatti and Eugenio Oliveira and Jordi Sabater-Mir and Carles Sierra and Francesca Toni,2014,4,The Knowledge Engineering Review
 10.1017/s0269888916000187,Optimizing large knowledge networks in spatial computers,Dominic Pacher and Robert Binna and Günther Specht,2016,0,The Knowledge Engineering Review
 10.1017/s0269888913000374,KER volume 28 issue 3 Cover and Back matter,,2013,0,The Knowledge Engineering Review
-10.1017/s0269888917000029,The state of the art in semantic relatedness: a framework for comparison,Yue Feng and Ebrahim Bagheri and Faezeh Ensan and Jelena Jovanovic,2017,24,The Knowledge Engineering Review
 10.1017/s0269888918000103,Communiqué: a planning-based sequence diagrams generator,Moataz Ahmed and Yaser Sulaiman,2018,0,The Knowledge Engineering Review
 10.1017/s0269888904000104,Towards a paradigm change in computer science and software engineering: a synthesis,FRANCO ZAMBONELLI and H. VAN DYKE PARUNAK,2003,29,The Knowledge Engineering Review
 10.1017/s0269888919000067,Time-sensitive resource re-allocation strategy for interdependent continuous tasks,Valeriia Haberland and Simon Miles and Michael Luck,2019,0,The Knowledge Engineering Review
@@ -122,15 +122,12 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1017/s0269888905230357,"Evolutionary Robotics: The Biology, Intelligence, and Technology of Self-Organizing Machines by Stefano Nolfi and Dario Floreano, MIT Press, 320 pp., $28.00, ISBN 0-262-14070-5",Simon Parsons,2004,0,The Knowledge Engineering Review
 10.1017/s0269888907228012,"Models of a Man: Essays in Memory of Herbert A. Simon by Mie Augier and James G. March, MIT Press, 553 pp., $45.00, ISBN 0-262-01208-1",Simon Parsons,2007,0,The Knowledge Engineering Review
 10.1017/s0269888913000052,KER volume 28 issue 1 Cover and Back matter,,2013,0,The Knowledge Engineering Review
-10.1017/s0269888913000258,"Knowing, reasoning and visualizing in industrial design",Christian Woelfel and Jens Krzywinski and Frank Drechsel,2013,12,The Knowledge Engineering Review
 10.1017/s0269888920000107,Domain adaptation-based transfer learning using adversarial networks,Farzaneh Shoeleh and Mohammad Mehdi Yadollahi and Masoud Asadpour,2020,4,The Knowledge Engineering Review
 10.1017/s0269888912000288,An overview of current ontology meta-matching solutions,Jorge Martinez-Gil and José F. Aldana-Montes,2012,14,The Knowledge Engineering Review
-10.1017/s0269888916000217,Storing massive Resource Description Framework (RDF) data: a survey,Zongmin Ma and Miriam A. M. Capretz and Li Yan,2016,41,The Knowledge Engineering Review
 10.1017/s0269888909990130,KER volume 24 issue 3 Cover and Front matter,,2009,0,The Knowledge Engineering Review
 10.1017/s0269888913000076,A review of case-based reasoning in cognition–action continuum: a step toward bridging symbolic and non-symbolic artificial intelligence,Pinar Öztürk and Axel Tidemann,2014,2,The Knowledge Engineering Review
 10.1017/s0269888913000301,Special issue on visual representations and reasoning,Mélanie Frappier and Letitia Meynell and James Robert Brown,2013,3,The Knowledge Engineering Review
 10.1017/s026988891000007x,"New Tech, New Ties: How mobile communication is reshaping social cohesion by Rich Ling, MIT Press, 224 pp., $29.95, ISBN 978-0-262-12297-9. - Play Between Worlds: Exploring online game culture by T. L. Taylor, MIT Press, 197 pp., $15.95, ISBN 978-0-262-51262-6 and - Communities of Play: Emergent cultures in multiplayer games and virtual worlds by Celia Pearce and Artemesia, MIT Press, 327 pp., $29.95, ISBN 978-0-262-16257-9",Simon Parsons,2010,1,The Knowledge Engineering Review
-10.1017/s026988890500041x,Evolutionary game theory and multi-agent reinforcement learning,KARL TUYLS and ANN NOWÉ,2005,55,The Knowledge Engineering Review
 10.1017/s0269888909000101,Guest editorial preface: Software and system engineering: an ontological perspective,Daniela Micucci and Fabio Sartori and Marzia Adorni,2009,0,The Knowledge Engineering Review
 10.1017/s0269888902000310,Introduction to the special issue on ontologies in agent systems,STEPHEN CRANEFIELD and STEVEN WILLMOTT and TIM FININ,2002,2,The Knowledge Engineering Review
 10.1017/s0269888900004021,Advances in information visualisation: recent outcomes,LAURA TARANTINO,2000,0,The Knowledge Engineering Review
@@ -141,6 +138,7 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1017/s0269888904000025,An ontology for context-aware pervasive computing environments,HARRY CHEN and TIM FININ and ANUPAM JOSHI,2003,432,The Knowledge Engineering Review
 10.1017/s0269888917000091,Active Balancing and Turning for Alpine Skiing Robots – ADDENDUM,jacky Baltes and Kuo-Yang Tu and Soroush Sadeghnejad and John Anderson,2017,1,The Knowledge Engineering Review
 10.1017/s0269888909000150,The concepts of model in information systems engineering: a proposal for an ontology of models,Diana M. Sánchez and José María Cavero and Esperanza Marcos,2009,7,The Knowledge Engineering Review
+10.1017/s0269888919000109,Ontologies for Industry 4.0,Veera Ragavan Sampath Kumar and Alaa Khamis and Sandro Fiorini and Joel Luís Carbonera and Alberto Olivares Alarcos and Maki Habib and Paulo Goncalves and Howard Li and Joanna Isabelle Olszewska,2019,41,The Knowledge Engineering Review
 10.1017/s0269888909000228,Abstracts of Recent PhDs,,2009,0,The Knowledge Engineering Review
 10.1017/s0269888905220350,"Natural-born Cyborgs: Minds, Technologies, and the Future of Human Intelligence by Andy Clark, Oxford University Press, 229 pp., $14.95, ISBN 0-19-517751-7",Simon Parsons,2004,0,The Knowledge Engineering Review
 10.1017/s026988891000024x,Role-based software agent interaction models: a survey,Giacomo Cabri and Letizia Leonardi and Luca Ferrari and Franco Zambonelli,2010,16,The Knowledge Engineering Review
@@ -151,6 +149,8 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1017/s0269888913000362,KER volume 28 issue 3 Cover and Front matter,,2013,0,The Knowledge Engineering Review
 10.1017/s0269888907001245,Abstracts of Recent PhDs,,2007,0,The Knowledge Engineering Review
 10.1017/s026988890700121x,From the journals …,,2007,0,The Knowledge Engineering Review
+10.1017/s0269888917000029,The state of the art in semantic relatedness: a framework for comparison,Yue Feng and Ebrahim Bagheri and Faezeh Ensan and Jelena Jovanovic,2017,24,The Knowledge Engineering Review
+10.1017/s0269888901000108,Personalised hypermedia presentation techniques for improving online customer relationships,ALFRED KOBSA and JÜRGEN KOENEMANN and WOLFGANG POHL,2001,294,The Knowledge Engineering Review
 10.1017/s0269888902000401,From the journals . . .,,2002,0,The Knowledge Engineering Review
 10.1017/s0269888904000128,Context matching for electronic marketplaces: a case study,MATTEO BONIFACIO and ANTONIA DONÀ and ALESSANDRA MOLANI and LUCIANO SERAFINI,2003,4,The Knowledge Engineering Review
 10.1017/s0269888909000137,A semantic web environment for components,Hai H. Wang and Jing Sun,2009,3,The Knowledge Engineering Review
@@ -165,6 +165,9 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1017/s026988891400006x,Information services for novelty mining,Flora S. Tsai and Agus T. Kwee,2014,1,The Knowledge Engineering Review
 10.1017/s0269888912000409,Using automated planning for improving data mining processes,Susana Fernández and Tomás de la Rosa and Fernando Fernández and Rubén Suárez and Javier Ortiz and Daniel Borrajo and David Manzano,2013,3,The Knowledge Engineering Review
 10.1017/s0269888906001020,"Crossing the agent technology chasm: Lessons, experiences and challenges in commercial applications of agents",STEVE MUNROE and TIM MILLER and ROXANA A. BELECHEANU and MICHAL PĚCHOUČEK and PETER MCBURNEY and MICHAEL LUCK,2006,33,The Knowledge Engineering Review
+10.1017/s0269888912000112,Aggregation in agent-based models of economies,Scott E. Page,2012,20,The Knowledge Engineering Review
+10.1017/s026988891200015x,Individual evolutionary learning with many agents,Jasmina Arifovic and John Ledyard,2012,4,The Knowledge Engineering Review
+10.1017/s0269888921000072,Effective grounding for hybrid planning problems represented in PDDL+,Enrico Scala and Mauro Vallati,2021,1,The Knowledge Engineering Review
 10.1017/s0269888914000307,Biometric sensors rapid prototyping on field-programmable gate arrays,Vincenzo Conti and Carmelo Militello and Filippo Sorbello and Salvatore Vitabile,2015,4,The Knowledge Engineering Review
 10.1017/s0269888910000366,From expert systems to context-based intelligent assistant systems: a testimony,Patrick Brézillon,2011,11,The Knowledge Engineering Review
 10.1017/s0269888921000096,Enhancing RFID system configuration through semantic modelling,Eleni Tsalapati and James Tribe and Paul A. Goodall and Robert I. Young and Thomas W. Jackson and Andrew A. West,2021,2,The Knowledge Engineering Review
@@ -183,33 +186,30 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1017/s0269888906000956,Building autonomic systems using collaborative reinforcement learning,JIM DOWLING and RAYMOND CUNNINGHAM and EOIN CURRAN and VINNY CAHILL,2006,16,The Knowledge Engineering Review
 10.1017/s026988890700118x,XcelLog: a deductive spreadsheet system,C.R. RAMAKRISHNAN and I.V. RAMAKRISHNAN and DAVID S. WARREN,2007,6,The Knowledge Engineering Review
 10.1017/s0269888907001166,Adding deductive logic to a COTS spreadsheet,MARCELO TALLIS and RAND WALTZMAN and ROBERT BLAZER,2007,3,The Knowledge Engineering Review
-10.1017/s0269888913000064,"On the integration of trust with negotiation, argumentation and semantics",Piero Bonatti and Eugenio Oliveira and Jordi Sabater-Mir and Carles Sierra and Francesca Toni,2014,4,The Knowledge Engineering Review
+10.1017/s0269888905000263,Representing and reasoning with situations for context-aware pervasive computing: a logic programming perspective,SENG W LOKE,2004,77,The Knowledge Engineering Review
 10.1017/s0269888906210993,"Probabilistic Robotics by Sebastian Thrun, Wolfram Burgard and Dieter Fox, MIT Press, 647 pp., $55.00, ISBN 0-262-20162-3",Simon Parsons,2006,4,The Knowledge Engineering Review
 10.1017/s0269888912000215,Constraint programming for air traffic management: a survey,Cyril Allignol and Nicolas Barnier and Pierre Flener and Justin Pearson,2012,11,The Knowledge Engineering Review
 10.1017/s0269888904000049,Using DAML+OIL to classify intrusive behaviours,JEFFREY UNDERCOFFER and ANUPAM JOSHI and TIM FININ and JOHN PINKSTON,2003,11,The Knowledge Engineering Review
 10.1017/s0269888912000410,From business process models to hierarchical task network planning domains,Arturo González-Ferrer and Juan Fernández-Olivares and Luis Castillo,2013,12,The Knowledge Engineering Review
 10.1017/s0269888922000030,Special issue on ontologies and standards for intelligent systems: editorial,Joanna Isabelle Olszewska and Julita Bermejo-Alonso and Ricardo Sanz,2022,1,The Knowledge Engineering Review
-10.1017/s0269888910000329,Discretization as the enabling technique for the Naïve Bayes and semi-Naïve Bayes-based classification,Marcin J. Mizianty and Lukasz A. Kurgan and Marek R. Ogiela,2010,16,The Knowledge Engineering Review
 10.1017/s0269888905000482,Programming multi-agent systems,MEHDI DASTANI and JORGE J. GOMEZ-SANZ,2005,14,The Knowledge Engineering Review
 10.1017/s0269888912000240,Air traffic flow management with heuristic repair,Ulrich Junker,2012,3,The Knowledge Engineering Review
 10.1017/s0269888902000346,A semantic continuum on the semantic web,MIKE USCHOLD,2002,7,The Knowledge Engineering Review
-10.1017/s0269888907001130,Text-based domain ontology building using Tf-Idf and metric clusters techniques,YACINE REZGUI,2007,41,The Knowledge Engineering Review
+10.1017/s026988890500041x,Evolutionary game theory and multi-agent reinforcement learning,KARL TUYLS and ANN NOWÉ,2005,55,The Knowledge Engineering Review
+10.1017/s0269888911000178,A unifying framework for iterative approximate best-response algorithms for distributed constraint optimization problems,Archie C. Chapman and Alex Rogers and Nicholas R. Jennings and David S. Leslie,2011,23,The Knowledge Engineering Review
+10.1017/s026988891200001x,A review of machine learning for automated planning,Sergio Jiménez and Tomás De La Rosa and Susana Fernández and Fernando Fernández and Daniel Borrajo,2012,46,The Knowledge Engineering Review
 10.1017/s0269888911000026,"On the use of agent technology in intelligent, multisensory and distributed surveillance",José M. Gascueña and Antonio Fernández-Caballero,2011,28,The Knowledge Engineering Review
 10.1017/s0269888904000116,Trust in multi-agent systems,SARVAPALI D. RAMCHURN and DONG HUYNH and NICHOLAS R. JENNINGS,2004,384,The Knowledge Engineering Review
 10.1017/s0269888906000877,The infrastructures of Autonomic Computing,TORSTEN EYMANN,2006,2,The Knowledge Engineering Review
-10.1017/s0269888901000108,Personalised hypermedia presentation techniques for improving online customer relationships,ALFRED KOBSA and JÜRGEN KOENEMANN and WOLFGANG POHL,2001,294,The Knowledge Engineering Review
-10.1017/s0269888919000109,Ontologies for Industry 4.0,Veera Ragavan Sampath Kumar and Alaa Khamis and Sandro Fiorini and Joel Luís Carbonera and Alberto Olivares Alarcos and Maki Habib and Paulo Goncalves and Howard Li and Joanna Isabelle Olszewska,2019,41,The Knowledge Engineering Review
 10.1017/s0269888906000932,A theoretical inter-organizational trust-based security model,HENRY HEXMOOR and SETH WILSON and SANDEEP BHATTARAM,2006,12,The Knowledge Engineering Review
 10.1017/s0269888917000182,A survey of author name disambiguation techniques: 2010–2016,Ijaz Hussain and Sohail Asghar,2017,36,The Knowledge Engineering Review
 10.1017/s0269888918000206,Leveraging human knowledge in tabular reinforcement learning: a study of human subjects,Ariel Rosenfeld and Moshe Cohen and Matthew E. Taylor and Sarit Kraus,2018,10,The Knowledge Engineering Review
 10.1017/s0269888910000172,How to model planning and scheduling problems using constraint networks on timelines,Gérard Verfaillie and Cédric Pralet and Michel Lemaître,2010,18,The Knowledge Engineering Review
+10.1017/s0269888910000329,Discretization as the enabling technique for the Naïve Bayes and semi-Naïve Bayes-based classification,Marcin J. Mizianty and Lukasz A. Kurgan and Marek R. Ogiela,2010,16,The Knowledge Engineering Review
+10.1017/s0269888916000217,Storing massive Resource Description Framework (RDF) data: a survey,Zongmin Ma and Miriam A. M. Capretz and Li Yan,2016,43,The Knowledge Engineering Review
+10.1017/s0269888907001130,Text-based domain ontology building using Tf-Idf and metric clusters techniques,YACINE REZGUI,2007,43,The Knowledge Engineering Review
+10.1017/s0269888913000258,"Knowing, reasoning and visualizing in industrial design",Christian Woelfel and Jens Krzywinski and Frank Drechsel,2013,12,The Knowledge Engineering Review
 10.1017/s0269888911000166,An introduction to argumentation semantics,Pietro Baroni and Martin Caminada and Massimiliano Giacomin,2011,261,The Knowledge Engineering Review
-10.1017/s0269888912000112,Aggregation in agent-based models of economies,Scott E. Page,2012,20,The Knowledge Engineering Review
-10.1017/s026988891200015x,Individual evolutionary learning with many agents,Jasmina Arifovic and John Ledyard,2012,4,The Knowledge Engineering Review
-10.1017/s0269888921000072,Effective grounding for hybrid planning problems represented in PDDL+,Enrico Scala and Mauro Vallati,2021,1,The Knowledge Engineering Review
-10.1017/s0269888905000263,Representing and reasoning with situations for context-aware pervasive computing: a logic programming perspective,SENG W LOKE,2004,77,The Knowledge Engineering Review
-10.1017/s026988891200001x,A review of machine learning for automated planning,Sergio Jiménez and Tomás De La Rosa and Susana Fernández and Fernando Fernández and Daniel Borrajo,2012,46,The Knowledge Engineering Review
-10.1017/s0269888911000178,A unifying framework for iterative approximate best-response algorithms for distributed constraint optimization problems,Archie C. Chapman and Alex Rogers and Nicholas R. Jennings and David S. Leslie,2011,23,The Knowledge Engineering Review
 10.1017/s0269888918000061,A survey of incentive engineering for crowdsourcing,Conor Muldoon and Michael J. O’Grady and Gregory M. P. O’Hare,2018,10,The Knowledge Engineering Review
 10.1017/s0269888911000129,A generic and extensible automatic classification framework applied to brain tumour diagnosis in HealthAgents,Carlos Sáez and Juan Miguel García-Gómez and Javier Vicente and Salvador Tortajada and Jan Luts and David Dupplaw and Sabine Van Huffel and Montserrat Robles,2011,7,The Knowledge Engineering Review
 10.1017/s0269888915000016,An introduction to reasoning over qualitative multi-attribute preferences,Ingrid Nunes and Simon Miles and Michael Luck and Carlos J. P. Lucena,2015,2,The Knowledge Engineering Review
@@ -217,8 +217,12 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1017/s0269888910000342,Formalizing knowledge and expertise: where have we been and where are we going?,John Fox,2011,4,The Knowledge Engineering Review
 10.1017/s0269888920000168,Towards evaluating complex ontology alignments,Lu Zhou and Elodie Thiéblin and Michelle Cheatham and Daniel Faria and Catia Pesquita and Cassia Trojahn and Ondřej Zamazal,2020,1,The Knowledge Engineering Review
 10.1017/s0269888913000386,KER volume 28 issue 4 Cover and Front matter,,2013,0,The Knowledge Engineering Review
+10.1017/s0269888916000126,Stability margin for robust walking gaits constructed by center of pressure,Kuo-Yang Tu and Cheng-Hsiung Huang and Jacky Baltes,2017,1,The Knowledge Engineering Review
 10.1017/s0269888909990142,KER volume 24 issue 3 Cover and Back matter,,2009,0,The Knowledge Engineering Review
 10.1017/s0269888911000087,KER volume 26 issue 3 Cover and Back matter,,2011,0,The Knowledge Engineering Review
+10.1017/s026988892000003x,First human–robot archery competition: a new humanoid robot challenge,Kuo-Yang Tu and Hong-Yu Lin and You-Ru Li and Che-Ping Hung and Jacky Baltes,2020,3,The Knowledge Engineering Review
+10.1017/s0269888913000039,A multidisciplinary survey on discrimination analysis,Andrea Romei and Salvatore Ruggieri,2014,123,The Knowledge Engineering Review
+10.1017/s0269888922000017,Merging pruning and neuroevolution: towards robust and efficient controllers for modular soft robots – Corrigendum,Giorgia Nadizar and Eric Medvet and Ola Huse Ramstad and Stefano Nichele and Felice Andrea Pellegrino and Marco Zullich,2022,1,The Knowledge Engineering Review
 10.1017/s0269888915000168,"Honesty and deception in populations of selfish, adaptive individuals",David Catteeuw and Bernard Manderick,2016,0,The Knowledge Engineering Review
 10.1017/s0269888906000919,Composing simulation architectures for autonomic systems,ALUN BUTLER and MOH IBRAHIM and KEITH RENNOLLS and LIZ BACON,2006,0,The Knowledge Engineering Review
 10.1017/s0269888918000036,Predictive models and abstract argumentation: the case of high-complexity semantics,Mauro Vallati and Federico Cerutti and Massimiliano Giacomin,2019,1,The Knowledge Engineering Review
@@ -236,33 +240,34 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1017/s0269888906220812,"Advances in minimum description length by Jae Myung and Mark A. Pitt, edited by Peter D. Grünwald, MIT Press, 444 pp., $50.00, ISBN 0-262-07262-9",Simon Parsons,2006,0,The Knowledge Engineering Review
 10.1017/s0269888921000114,Agent mining approaches: an ontological view,Emmanuelle Grislin-Le Strugeon and Kathia Marcal de Oliveira and Dorsaf Zekri and Marie Thilliez,2021,1,The Knowledge Engineering Review
 10.1017/s0269888915000144,Preface to the special issue: adaptive learning agents,Peter Vrancx and Enda Howley and Matt Knudson,2016,0,The Knowledge Engineering Review
+10.1017/s026988891300043x,One-class classification: taxonomy of study and review of techniques,Shehroz S. Khan and Michael G. Madden,2014,308,The Knowledge Engineering Review
 10.1017/s0269888905240353,"Metacreation: Art and Artificial Life by Mitchell Whitelaw, MIT Press, 281 pp., $32.95, ISBN 0-262-23234-0",Simon Parsons,2004,0,The Knowledge Engineering Review
 10.1017/s0269888900002022,Designing neural network architectures for pattern recognition,MIROSLAV KUBAT,2000,4,The Knowledge Engineering Review
 10.1017/s0269888900004045,Retrieval strategies for case-based reasoning: a categorised bibliography,FRANCISCO AZUAJE and WERNER DUBITZKY and NORMAN BLACK and KENNY ADAMSON,2000,6,The Knowledge Engineering Review
 10.1017/s0269888910000317,KER volume 25 issue 4 Cover and Back matter,,2010,0,The Knowledge Engineering Review
 10.1017/s0269888901000273,From the journals . . .,,2001,0,The Knowledge Engineering Review
 10.1017/s0269888910000238,Abstracts of Recent PhDs,,2011,0,The Knowledge Engineering Review
-10.1017/s026988892000003x,First human–robot archery competition: a new humanoid robot challenge,Kuo-Yang Tu and Hong-Yu Lin and You-Ru Li and Che-Ping Hung and Jacky Baltes,2020,2,The Knowledge Engineering Review
 10.1017/s0269888910000445,KER volume 26 issue 1 Cover and Back matter,,2011,0,The Knowledge Engineering Review
 10.1017/s0269888914000162,An efficient route scheduling mechanism for WiMAX network,Ming-Huang Guo and Der-Jiunn Deng and Horng-Twu Liaw and Jong Hyuk Park,2014,3,The Knowledge Engineering Review
 10.1017/s0269888909000174,From the journals…,,2009,0,The Knowledge Engineering Review
 10.1017/s0269888917000054,Introduction to the special issue on humanoid multi-event robot athletes,Jacky Baltes,2017,0,The Knowledge Engineering Review
 10.1017/s0269888913000027,Decentralized case-based reasoning and Semantic Web technologies applied to decision support in oncology,Mathieu d'Aquin and Jean Lieber and Amedeo Napoli,2013,1,The Knowledge Engineering Review
-10.1017/s026988891600031x,A metaheuristic technique for energy-efficiency in job-shop scheduling,Joan Escamilla and Miguel A. Salido and Adriana Giret and Federico Barber,2016,15,The Knowledge Engineering Review
-10.1017/s0269888922000017,Merging pruning and neuroevolution: towards robust and efficient controllers for modular soft robots – Corrigendum,Giorgia Nadizar and Eric Medvet and Ola Huse Ramstad and Stefano Nichele and Felice Andrea Pellegrino and Marco Zullich,2022,0,The Knowledge Engineering Review
+10.1017/s026988890999035x,A review of multi-instance learning assumptions,James Foulds and Eibe Frank,2010,214,The Knowledge Engineering Review
+10.1017/s0269888917000042,Emerging approaches in literature-based discovery: techniques and performance review,Yakub Sebastian and Eu-Gene Siew and Sylvester O. Orimaye,2017,21,The Knowledge Engineering Review
+10.1017/s0269888915000181,Plan-based reward shaping for multi-agent reinforcement learning,Sam Devlin and Daniel Kudenko,2016,9,The Knowledge Engineering Review
 10.1017/s0269888920000119,Toll-based reinforcement learning for efficient equilibria in route choice,Gabriel de O. Ramos and Bruno C. Da Silva and Roxana Rădulescu and Ana L. C. Bazzan and Ann Nowé,2020,5,The Knowledge Engineering Review
 10.1017/s0269888914000034,Quality of Context: models and applications for context-aware systems in pervasive environments,Atif Manzoor and Hong-Linh Truong and Schahram Dustdar,2014,43,The Knowledge Engineering Review
-10.1017/s0269888915000181,Plan-based reward shaping for multi-agent reinforcement learning,Sam Devlin and Daniel Kudenko,2016,8,The Knowledge Engineering Review
 10.1017/s0269888900002010,Validation and verification of knowledge-based systems: report on EUROVAV99,FRANS COENEN and TREVOR BENCH-CAPON and ROBIN BOSWELL and JULIETTE DIBIE-BARTHÉLEMY and BARRY EAGLESTONE and RIK GERRITS and ERIC GRÉGOIRE and ANTONI LIGE¸ZA and LUIS LAITA and MIECZYSLAW OWOC and FLORENCE SELLINI and SILVIE SPREEUWENBERG and JAN VANTHIENEN and ANCA VERMESAN and NIRMALIE WIRATUNGA,2000,11,The Knowledge Engineering Review
+10.1017/s0269888900001053,Integer optimization models of AI planning problems,HENRY KAUTZ and JOACHIM P. WALSER,2000,9,The Knowledge Engineering Review
+10.1017/s0269888907001233,The usability of semantic search tools: a review,VICTORIA UREN and YUANGUI LEI and VANESSA LOPEZ and HAIMING LIU and ENRICO MOTTA and MARINA GIORDANINO,2007,40,The Knowledge Engineering Review
 10.1017/s0269888919000110,Localization and obstacle avoidance in soccer competition of humanoid robot by gait and vision system,Shu-Yin Chiang and Jia-Huei Lu,2019,1,The Knowledge Engineering Review
 10.1017/s0269888906000853,Can self-managed systems be trusted? Some views and trends,JULIE A. MCCANN and ROGEŔIO DE LEMOS and MARKUS HUEBSCHER and OMER F. RANA and ANDREAS WOMBACHER,2006,11,The Knowledge Engineering Review
-10.1017/s0269888915000077,Programming multi-agent systems,Mehdi Dastani,2015,9,The Knowledge Engineering Review
 10.1017/s0269888920000338,Ontologies for cloud robotics,Edison Pignaton de Freitas and Julita Bermejo-Alonso and Alaa Khamis and Howard Li and Joanna Isabelle Olszewska,2020,8,The Knowledge Engineering Review
+10.1017/s0269888907218016,"Principles of Robot Motion: Theory, Algorithms and Implementations by Howie Choset, Kevin M. Lynch, Seth Hutchinson, George Kantor, Wolfram Burgard, Lydia E. Kavraki and Sebastian Thrun, 603 pp., $60.00, ISBN 0-262-033275",Simon Parsons,2007,11,The Knowledge Engineering Review
 10.1017/s0269888908001355,Comparing two context-driven approaches for representation of human tactical behavior,AVELINO J. GONZALEZ and PATRICK BRÉZILLON,2008,4,The Knowledge Engineering Review
 10.1017/s0269888920000417,Is p-value 0.05 enough? A study on the statistical evaluation of classifiers,Nadine M. Neumann and Alexandre Plastino and Jony A. Pinto Junior and Alex A. Freitas,2020,1,The Knowledge Engineering Review
 10.1017/s0269888906000658,Emergent case-based reasoning applications,RAMON LOPEZ DE MANTARAS and PADRAIG CUNNINGHAM and PETRA PERNER,2005,11,The Knowledge Engineering Review
 10.1017/s0269888918000127,Review and comparison of Apriori algorithm implementations on Hadoop-MapReduce and Spark,Eduardo P. S. Castro and Thiago D. Maia and Marluce R. Pereira and Ahmed A. A. Esmin and Denilson A. Pereira,2018,8,The Knowledge Engineering Review
-10.1017/s0269888907218016,"Principles of Robot Motion: Theory, Algorithms and Implementations by Howie Choset, Kevin M. Lynch, Seth Hutchinson, George Kantor, Wolfram Burgard, Lydia E. Kavraki and Sebastian Thrun, 603 pp., $60.00, ISBN 0-262-033275",Simon Parsons,2007,11,The Knowledge Engineering Review
 10.1017/s0269888920000296,The merits of using Ethereum MainNet as a Coordination Blockchain for Ethereum Private Sidechains,Peter Robinson,2020,7,The Knowledge Engineering Review
 10.1017/s0269888909000113,An ontologically-based evaluation of software design methods,Udo Kannengiesser and Liming Zhu,2009,3,The Knowledge Engineering Review
 10.1017/s0269888919000055,Pre-training with non-expert human demonstration for deep reinforcement learning,Gabriel V. de la Cruz and Yunshu Du and Matthew E. Taylor,2019,11,The Knowledge Engineering Review
@@ -274,126 +279,121 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1017/s0269888907001014,"On agent technology for e-commerce: trust, security and legal issues",MARIA FASLI,2007,20,The Knowledge Engineering Review
 10.1017/s0269888907001178,Implementing logic spreadsheets in LESS,ANDRE VALENTE and DAVID VAN BRACKLE and HANS CHALUPSKY and GARY EDWARDS,2007,4,The Knowledge Engineering Review
 10.1017/s0269888907001282,Personalized information retrieval based on context and ontological knowledge,PH. MYLONAS and D. VALLET and P. CASTELLS and M. FERNÁNDEZ and Y. AVRITHIS,2008,46,The Knowledge Engineering Review
-10.1017/s0269888916000126,Stability margin for robust walking gaits constructed by center of pressure,Kuo-Yang Tu and Cheng-Hsiung Huang and Jacky Baltes,2017,1,The Knowledge Engineering Review
-10.1017/s0269888920000028,Immutable autobiography of smart cars leveraging blockchain technology,MD. Sadek Ferdous and Mohammad Jabed Morshed Chowdhury and Kamanashis Biswas and Niaz Chowdhury and Vallipuram Muthukkumarasamy,2020,8,The Knowledge Engineering Review
 10.1017/s0269888918000176,Towards adaptive multi-robot systems: self-organization and self-adaptation,Christopher-Eyk Hrabia and Marco Lützenberger and Sahin Albayrak,2018,8,The Knowledge Engineering Review
 10.1017/s0269888906000889,A health-check model for autonomic systems based on a pulse monitor,ROY STERRITT and DAVE BUSTARD,2006,3,The Knowledge Engineering Review
 10.1017/s0269888921000035,Safe option-critic: learning safety in the option-critic architecture,Arushi Jain and Khimya Khetarpal and Doina Precup,2021,2,The Knowledge Engineering Review
 10.1017/s0269888906000531,Advances in conversational case-based reasoning,DAVID W. AHA and DAVID MCSHERRY and QIANG YANG,2005,34,The Knowledge Engineering Review
 10.1017/s0269888913000313,Bagging and boosting variants for handling classifications problems: a survey,Sotiris B. Kotsiantis,2014,31,The Knowledge Engineering Review
-10.1017/s0269888907001026,A review of associative classification mining,FADI THABTAH,2007,195,The Knowledge Engineering Review
-10.1017/s0269888919000249,Alin: improving interactive ontology matching by interactively revising mapping suggestions,Jomar Da Silva and Kate Revoredo and Fernanda Baião and Jérôme Euzenat,2020,7,The Knowledge Engineering Review
-10.1017/s0269888905000494,Self-organization in multi-agent systems,GIOVANNA DI MARZO SERUGENDO and MARIE-PIERRE GLEIZES and ANTHONY KARAGEORGOS,2005,134,The Knowledge Engineering Review
-10.1017/s026988890100025x,Agent orientation in software engineering,GERHARD WEIß,2001,43,The Knowledge Engineering Review
-10.1017/s0269888916000254,Logic-based Benders decomposition for planning and scheduling: a computational analysis,Andre A. Ciré and Elvin Çoban and John N. Hooker,2016,13,The Knowledge Engineering Review
 10.1017/s0269888913000180,A survey of privacy in multi-agent systems,Jose M. Such and Agustín Espinosa and Ana García-Fornes,2014,33,The Knowledge Engineering Review
+10.1017/s026988890100025x,Agent orientation in software engineering,GERHARD WEIß,2001,43,The Knowledge Engineering Review
 10.1017/s0269888910000202,"New trends in constraint satisfaction, planning, and scheduling: a survey",Roman Barták and Miguel A. Salido and Francesca Rossi,2010,28,The Knowledge Engineering Review
-10.1017/s026988890999035x,A review of multi-instance learning assumptions,James Foulds and Eibe Frank,2010,213,The Knowledge Engineering Review
-10.1017/s026988891900002x,Automatic landmark discovery for learning agents under partial observability,Alper Demіr and Erkіn Çіlden and Faruk Polat,2019,2,The Knowledge Engineering Review
-10.1017/s0269888913000039,A multidisciplinary survey on discrimination analysis,Andrea Romei and Salvatore Ruggieri,2014,122,The Knowledge Engineering Review
+10.1017/s0269888916000254,Logic-based Benders decomposition for planning and scheduling: a computational analysis,Andre A. Ciré and Elvin Çoban and John N. Hooker,2016,14,The Knowledge Engineering Review
+10.1017/s0269888907001026,A review of associative classification mining,FADI THABTAH,2007,195,The Knowledge Engineering Review
 10.1017/s026988890600097x,Qualitative futures,C. J. PRICE and L. TRAVÉ-MASSUYÈS and R. MILNE and L. IRONI and K. FORBUS and B. BREDEWEG and M. H. LEE and P. STRUSS and N. SNOOKE and P. LUCAS and M. CAVAZZA and G. M. COGHILL,2006,15,The Knowledge Engineering Review
+10.1017/s026988891900002x,Automatic landmark discovery for learning agents under partial observability,Alper Demіr and Erkіn Çіlden and Faruk Polat,2019,2,The Knowledge Engineering Review
+10.1017/s026988891600031x,A metaheuristic technique for energy-efficiency in job-shop scheduling,Joan Escamilla and Miguel A. Salido and Adriana Giret and Federico Barber,2016,16,The Knowledge Engineering Review
 10.1017/s0269888918000024,Relational time series forecasting,Ryan A. Rossi,2018,5,The Knowledge Engineering Review
 10.1017/s0269888912000094,Analysis and synthesis: multi-agent systems in the social sciences,Robert E. Marks,2012,7,The Knowledge Engineering Review
-10.1017/s0269888900001053,Integer optimization models of AI planning problems,HENRY KAUTZ and JOACHIM P. WALSER,2000,9,The Knowledge Engineering Review
-10.1017/s0269888907001233,The usability of semantic search tools: a review,VICTORIA UREN and YUANGUI LEI and VANESSA LOPEZ and HAIMING LIU and ENRICO MOTTA and MARINA GIORDANINO,2007,40,The Knowledge Engineering Review
-10.1017/s026988890200019x,A review of explanation methods for Bayesian networks,CARMEN LACAVE and FRANCISCO J DÍEZ,2002,122,The Knowledge Engineering Review
-10.1017/s026988891300043x,One-class classification: taxonomy of study and review of techniques,Shehroz S. Khan and Michael G. Madden,2014,304,The Knowledge Engineering Review
-10.1017/s0269888917000042,Emerging approaches in literature-based discovery: techniques and performance review,Yakub Sebastian and Eu-Gene Siew and Sylvester O. Orimaye,2017,21,The Knowledge Engineering Review
-10.1017/s026988891300026x,Thinking through drawing,Lorenzo Magnani,2013,11,The Knowledge Engineering Review
-10.1017/s0269888914000174,Taxonomy of reputation assessment in peer-to-peer systems and analysis of their data retrieval,Farag Azzedin,2014,9,The Knowledge Engineering Review
-10.1017/s0269888910000287,"Algorithmic Game Theory by Noam Nisan, Tim Roughgarden, Éva Tardos and Vijay V. Vazirani, Cambridge University Press, 754 pp., £32.00, ISBN 0-521-87282-0",Simon Parsons,2011,0,The Knowledge Engineering Review
+10.1017/s0269888915000077,Programming multi-agent systems,Mehdi Dastani,2015,9,The Knowledge Engineering Review
+10.1017/s0269888920000028,Immutable autobiography of smart cars leveraging blockchain technology,MD. Sadek Ferdous and Mohammad Jabed Morshed Chowdhury and Kamanashis Biswas and Niaz Chowdhury and Vallipuram Muthukkumarasamy,2020,9,The Knowledge Engineering Review
+10.1017/s0269888919000249,Alin: improving interactive ontology matching by interactively revising mapping suggestions,Jomar Da Silva and Kate Revoredo and Fernanda Baião and Jérôme Euzenat,2020,7,The Knowledge Engineering Review
+10.1017/s026988890200019x,A review of explanation methods for Bayesian networks,CARMEN LACAVE and FRANCISCO J DÍEZ,2002,124,The Knowledge Engineering Review
+10.1017/s0269888905000494,Self-organization in multi-agent systems,GIOVANNA DI MARZO SERUGENDO and MARIE-PIERRE GLEIZES and ANTHONY KARAGEORGOS,2005,136,The Knowledge Engineering Review
 10.1017/s0269888914000137,Trends in high-performance computing and communications for ubiquitous computing,Tai-hoon Kim and Ching-Hsien Hsu and Sajid Hussain,2014,0,The Knowledge Engineering Review
-10.1017/s0269888900002046,Reasoning with inconsistency in structured text,ANTHONY HUNTER,2000,13,The Knowledge Engineering Review
-10.1017/s0269888919000171,Imitation of human motion for humanoid robot in lift and carry event,Shu-Yin Chiang and Hao-Ge Jiang,2019,0,The Knowledge Engineering Review
+10.1017/s0269888912000045,KER volume 27 issue 1 Cover and Back matter,,2012,0,The Knowledge Engineering Review
+10.1017/s0269888909990129,"Essentials of Game Theory: A Concise, Multidisciplinary Introduction by Leyton-Brown Kevin and Shoham Yoav, Morgan &amp; Claypool Publishers, 88 pp.",Simon Parsons,2009,0,The Knowledge Engineering Review
+10.1017/s026988891300026x,Thinking through drawing,Lorenzo Magnani,2013,11,The Knowledge Engineering Review
+10.1017/s0269888914000150,Adaptivity in high-performance embedded systems: a reactive control model for reliable and flexible design,Huafeng Yu and Abdoulaye Gamatié and Éric Rutten and Jean-Luc Dekeyser,2014,0,The Knowledge Engineering Review
+10.1017/s026988890521038x,"Breakthrough: Stories and Strategies of Radical Innovation by Mark Stefik and Barbara Stefik, MIT Press, 294 pp., $29.95, ISBN 0-262-19514-3",Simon Parsons,2005,0,The Knowledge Engineering Review
+10.1017/s0269888909990221,Qualified Predictions for Large Data Sets,Harris Papadopoulos,2009,0,The Knowledge Engineering Review
+10.1017/s0269888901000066,On the intersection of AI and OR,CARLA P. GOMES,2001,2,The Knowledge Engineering Review
+10.1017/s0269888901000182,From the journals ...,,2001,0,The Knowledge Engineering Review
+10.1017/s0269888900003076,From the Journals...,,2000,0,The Knowledge Engineering Review
+10.1017/s0269888906000610,Case-based reasoning for diagnosis applications,MEHMET H. GÖKER and ROBERT J. HOWLETT and JOSEPH E. PRICE,2005,7,The Knowledge Engineering Review
+10.1017/s0269888907001063,Planning domain definition using GIPO,R. M. SIMPSON and D. E. KITCHIN and T. L. McCLUSKEY,2007,24,The Knowledge Engineering Review
+10.1017/s0269888920000090,A review and comparison of ontology-based approaches to robot autonomy – ADDENDUM,Alberto Olivares-Alarcos and Daniel Beßler and Alaa Khamis and Paulo Goncalves and Maki K. Habib and Julita Bermejo-Alonso and Marcos Barreto and Mohammed Diab and Jan Rosell and João Quintas and Joanna Olszewska and Hirenkumar Nakawala and Edison Pignaton and Amelie Gyrard and Stefano Borgo and Guillem Alenyà and Michael Beetz and Howard Li,2020,0,The Knowledge Engineering Review
 10.1017/s0269888919000213,Dr. Eureka: a humanoid robot manipulation case study,Lin Yu-Ren and Guilherme Henrique Galelli Christmann and Ricardo Bedin Grando and Rodrigo Da Silva Guerra and Jacky Baltes,2019,0,The Knowledge Engineering Review
 10.1017/s0269888903000584,Advanced visual interfaces: the focus is on the user,TANIA DI MASCIO and LAURA TARANTINO,2003,1,The Knowledge Engineering Review
 10.1017/s0269888908001331,Abstracts of Recent PhDs,,2008,0,The Knowledge Engineering Review
-10.1017/s0269888901000182,From the journals ...,,2001,0,The Knowledge Engineering Review
-10.1017/s0269888910000123,KER volume 25 issue 2 Cover and Back matter,,2010,0,The Knowledge Engineering Review
-10.1017/s0269888909990324,KER volume 24 issue 4 Cover and Front matter,,2009,0,The Knowledge Engineering Review
-10.1017/s0269888912000033,KER volume 27 issue 1 Cover and Front matter,,2012,0,The Knowledge Engineering Review
-10.1017/s026988890000206x,"Expert systems and probabilistic network models by Enrique Castillo, José Manuel Gutiérrez and Ali S. Hadi, Springer-Verlag, 1997, ISBN 0-387-94858-9, pp 605, DM 98.00.",Simon Parsons,2000,0,The Knowledge Engineering Review
-10.1017/s0269888912000239,Scheduling safe movement of air traffic in crowded air spaces,David W. Hildum and Stephen F. Smith,2012,2,The Knowledge Engineering Review
-10.1017/s0269888912000276,Autonomous Simultaneous Localization and Mapping driven by Monte Carlo uncertainty maps-based navigation,Fernando A. Auat Cheein and Fernando M. Lobo Pereira and Fernando di Sciascio and Ricardo Carelli,2013,6,The Knowledge Engineering Review
-10.1017/s026988890423020x,"Genetic Algorithms—Principles and Perspectives, A Guide to GA Theory by Colin R. Reeves and Jonathan E. Rowe, Kluwer Academic Publishers, 332 pp., $120.00, ISBN 1-4020-7240-6",W. B. Langdon,2004,0,The Knowledge Engineering Review
-10.1017/s0269888906000610,Case-based reasoning for diagnosis applications,MEHMET H. GÖKER and ROBERT J. HOWLETT and JOSEPH E. PRICE,2005,7,The Knowledge Engineering Review
-10.1017/s0269888911000099,Guest editorial preface: Computational intelligence for neuro-oncological diagnosis,Horacio González-Vélez,2011,0,The Knowledge Engineering Review
-10.1017/s0269888921000047,Special issue on adaptive and learning agents 2018,Patrick Mannion and Anna Harutyunyan and Bei Peng and Kaushik Subramanian,2021,0,The Knowledge Engineering Review
-10.1017/s0269888909990221,Qualified Predictions for Large Data Sets,Harris Papadopoulos,2009,0,The Knowledge Engineering Review
-10.1017/s026988890521038x,"Breakthrough: Stories and Strategies of Radical Innovation by Mark Stefik and Barbara Stefik, MIT Press, 294 pp., $29.95, ISBN 0-262-19514-3",Simon Parsons,2005,0,The Knowledge Engineering Review
-10.1017/s0269888909990129,"Essentials of Game Theory: A Concise, Multidisciplinary Introduction by Leyton-Brown Kevin and Shoham Yoav, Morgan &amp; Claypool Publishers, 88 pp.",Simon Parsons,2009,0,The Knowledge Engineering Review
-10.1017/s0269888916000229,The RANTANPLAN planner: system description,Miquel Bofill and Joan Espasa and Mateu Villaret,2016,1,The Knowledge Engineering Review
-10.1017/s0269888907001270,A context-sensitive framework for lexical ontologies,TONY VEALE and YANFEN HAO,2008,2,The Knowledge Engineering Review
-10.1017/s026988892000017x,SANOM-HOBBIT: simulated annealing-based ontology matching on HOBBIT platform,Majid Mohammadi and Wout Hofman and Yao-Hua Tan,2020,0,The Knowledge Engineering Review
-10.1017/s026988890999004x,Guest editorial preface: Software and system engineering: an ontological perspective,Daniela Micucci and Fabio Sartori and Marzia Adorni,2009,0,The Knowledge Engineering Review
-10.1017/s0269888913000210,KER volume 28 issue 2 Cover and Back matter,,2013,0,The Knowledge Engineering Review
-10.1017/s0269888911000014,Adaptive organizational changes in agent-oriented methodologies,Luca Cernuzzi and Franco Zambonelli,2011,8,The Knowledge Engineering Review
-10.1017/s0269888901000066,On the intersection of AI and OR,CARLA P. GOMES,2001,2,The Knowledge Engineering Review
-10.1017/s026988890400013x,Literature review of spatio-temporal database models,NIKOS PELEKIS and BABIS THEODOULIDIS and IOANNIS KOPANAKIS and YANNIS THEODORIDIS,2004,128,The Knowledge Engineering Review
-10.1017/s0269888911000154,"The development of a graphical user interface, functional elements and classifiers for the non-invasive characterization of childhood brain tumours using magnetic resonance spectroscopy",Alexander Gibb and John Easton and Nigel Davies and YU Sun and Lesley MacPherson and Kal Natarajan and Theodoros Arvanitis and Andrew Peet,2011,2,The Knowledge Engineering Review
-10.1017/s0269888910000330,A quarter-century of The Knowledge Engineering Review: Introduction to the Special Issue,Peter McBurney and Simon Parsons and Mirko Viroli,2011,1,The Knowledge Engineering Review
-10.1017/s0269888912000045,KER volume 27 issue 1 Cover and Back matter,,2012,0,The Knowledge Engineering Review
-10.1017/s0269888920000090,A review and comparison of ontology-based approaches to robot autonomy – ADDENDUM,Alberto Olivares-Alarcos and Daniel Beßler and Alaa Khamis and Paulo Goncalves and Maki K. Habib and Julita Bermejo-Alonso and Marcos Barreto and Mohammed Diab and Jan Rosell and João Quintas and Joanna Olszewska and Hirenkumar Nakawala and Edison Pignaton and Amelie Gyrard and Stefano Borgo and Guillem Alenyà and Michael Beetz and Howard Li,2020,0,The Knowledge Engineering Review
-10.1017/s0269888904220161,"Bioinformatics: The Machine Learning Approach by P. Baldi and S. Brunak, 2nd edn, MIT Press, 452 pp., $60.00, ISBN 0-262-02506-X",Simon Parsons,2004,1,The Knowledge Engineering Review
-10.1017/s0269888910000433,KER volume 26 issue 1 Cover and Front matter,,2011,0,The Knowledge Engineering Review
-10.1017/s0269888900001077,A scheme for unifying optimization and constraint satisfaction methods,JOHN HOOKER and GREGER OTTOSSON and ERLENDER S. THORSTEINSSON and HAK-JIN KIM,2000,29,The Knowledge Engineering Review
 10.1017/s0269888916000230,Parallel heuristic search in forward partial-order planning,Oscar Sapena and Alejandro Torreño and Eva Onaindía,2016,1,The Knowledge Engineering Review
-10.1017/s0269888920000284,A survey on blockchain-based platforms for IoT use-cases,Mohammad Jabed Morshed Chowdhury and Md Sadek Ferdous and Kamanashis Biswas and Niaz Chowdhury and Vallipuram Muthukkumarasamy,2020,14,The Knowledge Engineering Review
-10.1017/s0269888919000134,A multi-objective evolutionary hyper-heuristic algorithm for team-orienteering problem with time windows regarding rescue applications,Hadi S. Aghdasi and Saeed Saeedvand and Jacky Baltes,2019,3,The Knowledge Engineering Review
-10.1017/s026988891900016x,Coupling the normative regulation with the constitutive state management in Situated Artificial Institutions,Maiquel De Brito and Jomi Fred Hübner and Olivier Boissier,2019,1,The Knowledge Engineering Review
-10.1017/s0269888911000130,The HealthAgents ontology: knowledge representation in a distributed decision support system for brain tumours,Bo Hu and Madalina Croitoru and Roman Roset and David Dupplaw and Miguel Lurgi and Srinandan Dasmahapatra and Paul Lewis and Juan Martínez-Miranda and Carlos Sáez,2011,4,The Knowledge Engineering Review
-10.1017/s0269888918000164,Answer set programming and agents,Abeer Dyoub and Stefania Costantini and Giovanni De Gasperis,2018,9,The Knowledge Engineering Review
-10.1017/s0269888915000132,Resolving conflicts in knowledge for ambient intelligence,Martin Homola and Theodore Patkos and Giorgos Flouris and Ján Šefránek and Alexander Šimko and Jozef Frtús and Dimitra Zografistou and Martin Baláž,2015,6,The Knowledge Engineering Review
-10.1017/s0269888910000019,A survey of formalisms for representing and reasoning with scientific knowledge,Anthony Hunter and Weiru Liu,2010,13,The Knowledge Engineering Review
 10.1017/s0269888907001087,ARMS: an automatic knowledge engineering tool for learning action models for AI planning,KANGHENG WU and QIANG YANG and YUNFEI JIANG,2007,9,The Knowledge Engineering Review
 10.1017/s0269888915000041,Introduction to the special issue on challenges in agent-oriented software engineering,Danny Weyns and Jörg P. Müller,2015,0,The Knowledge Engineering Review
 10.1017/s0269888909990294,A Study of Dynamic Coordination Mechanisms,Avi Rosenfeld,2009,0,The Knowledge Engineering Review
-10.1017/s0269888918000188,A review of learning planning action models,Ankuj Arora and Humbert Fiorino and Damien Pellier and Marc Métivier and Sylvie Pesty,2018,10,The Knowledge Engineering Review
-10.1017/s0269888914000150,Adaptivity in high-performance embedded systems: a reactive control model for reliable and flexible design,Huafeng Yu and Abdoulaye Gamatié and Éric Rutten and Jean-Luc Dekeyser,2014,0,The Knowledge Engineering Review
-10.1017/s0269888900003076,From the Journals...,,2000,0,The Knowledge Engineering Review
-10.1017/s0269888909000277,KER volume 24 issue 2 Cover and Back matter,,2009,0,The Knowledge Engineering Review
-10.1017/s0269888901000078,Combining local and global search in a constraint programming environment,YVES CASEAU and FRANÇOIS LABURTHE and CLAUDE LE PAPE and BENOÎT ROTTEMBOURG,2001,10,The Knowledge Engineering Review
-10.1017/s026988890800132x,Fairness in multi-agent systems,STEVEN DE JONG and KARL TUYLS and KATJA VERBEECK,2008,13,The Knowledge Engineering Review
-10.1017/s0269888913000325,A survey of different approaches to support in argumentation systems,Andrea Cohen and Sebastian Gottifredi and Alejandro J. García and Guillermo R. Simari,2014,33,The Knowledge Engineering Review
-10.1017/s0269888922000054,A framework for belief revision under restrictions,Zhiguo Long and Hua Meng and Tianrui Li and Heng-Chao Li and Michael Sioutis,2022,0,The Knowledge Engineering Review
-10.1017/s0269888921000151,Merging pruning and neuroevolution: towards robust and efficient controllers for modular soft robots,Giorgia Nadizar and Eric Medvet and Hola Huse Ramstad and Stefano Nichele and Felice Andrea Pellegrino and Marco Zullich,2022,2,The Knowledge Engineering Review
-10.1017/s0269888920000223,Regulatory changes for redesigned securities markets with distributed ledger technology,Muthukkumarasamy Thuvarakan,2020,1,The Knowledge Engineering Review
-10.1017/s0269888920000326,TEduChain: a blockchain-based platform for crowdfunding tertiary education,Mahmood A. Rashid and Krishneel Deo and Divnesh Prasad and Kunal Singh and Sarvesh Chand and Mansour Assaf,2020,17,The Knowledge Engineering Review
-10.1017/s0269888905000299,Methods and techniques for the evaluation of user-adaptive systems,CRISTINA GENA,2005,64,The Knowledge Engineering Review
-10.1017/s0269888909990270,Specifying and Analyzing Institutions in Multi-Agent Systems using Answer Set Programming,Owen Cliffe,2009,2,The Knowledge Engineering Review
-10.1017/s0269888913000337,Planning in BDI agents: a survey of the integration of planning algorithms and agent reasoning,Felipe Meneguzzi and Lavindra De Silva,2015,24,The Knowledge Engineering Review
-10.1017/s0269888914000216,XML clustering: a review of structural approaches,Maciej Piernik and Dariusz Brzezinski and Tadeusz Morzy and Anna Lesniewska,2015,10,The Knowledge Engineering Review
-10.1017/s0269888911000038,Learning like a baby: a survey of artificial intelligence approaches,Frank Guerin,2011,17,The Knowledge Engineering Review
-10.1017/s0269888916000138,Parameterized gait pattern generator based on linear inverted pendulum model with natural ZMP references,Ya-Fang Ho and Tzuu-Hseng S. Li and Ping-Huan Kuo and Yan-Ting Ye,2017,6,The Knowledge Engineering Review
+10.1017/s0269888911000099,Guest editorial preface: Computational intelligence for neuro-oncological diagnosis,Horacio González-Vélez,2011,0,The Knowledge Engineering Review
+10.1017/s0269888910000123,KER volume 25 issue 2 Cover and Back matter,,2010,0,The Knowledge Engineering Review
+10.1017/s0269888921000047,Special issue on adaptive and learning agents 2018,Patrick Mannion and Anna Harutyunyan and Bei Peng and Kaushik Subramanian,2021,0,The Knowledge Engineering Review
 10.1017/s0269888903000572,RAMASD: a semi-automatic method for designing agent organisations,ANTHONY KARAGEORGOS and NIKOLAY MEHANDJIEV and SIMON THOMPSON,2002,5,The Knowledge Engineering Review
 10.1017/s0269888902000309,A UML profile and mapping for the generation of ontology-specific content languages,STEPHEN CRANEFIELD and MARTIN PURVIS,2002,9,The Knowledge Engineering Review
+10.1017/s026988890000206x,"Expert systems and probabilistic network models by Enrique Castillo, José Manuel Gutiérrez and Ali S. Hadi, Springer-Verlag, 1997, ISBN 0-387-94858-9, pp 605, DM 98.00.",Simon Parsons,2000,0,The Knowledge Engineering Review
+10.1017/s0269888909990324,KER volume 24 issue 4 Cover and Front matter,,2009,0,The Knowledge Engineering Review
+10.1017/s0269888912000033,KER volume 27 issue 1 Cover and Front matter,,2012,0,The Knowledge Engineering Review
+10.1017/s0269888904220161,"Bioinformatics: The Machine Learning Approach by P. Baldi and S. Brunak, 2nd edn, MIT Press, 452 pp., $60.00, ISBN 0-262-02506-X",Simon Parsons,2004,1,The Knowledge Engineering Review
+10.1017/s0269888910000330,A quarter-century of The Knowledge Engineering Review: Introduction to the Special Issue,Peter McBurney and Simon Parsons and Mirko Viroli,2011,1,The Knowledge Engineering Review
+10.1017/s0269888911000154,"The development of a graphical user interface, functional elements and classifiers for the non-invasive characterization of childhood brain tumours using magnetic resonance spectroscopy",Alexander Gibb and John Easton and Nigel Davies and YU Sun and Lesley MacPherson and Kal Natarajan and Theodoros Arvanitis and Andrew Peet,2011,2,The Knowledge Engineering Review
+10.1017/s0269888912000276,Autonomous Simultaneous Localization and Mapping driven by Monte Carlo uncertainty maps-based navigation,Fernando A. Auat Cheein and Fernando M. Lobo Pereira and Fernando di Sciascio and Ricardo Carelli,2013,6,The Knowledge Engineering Review
+10.1017/s0269888910000433,KER volume 26 issue 1 Cover and Front matter,,2011,0,The Knowledge Engineering Review
+10.1017/s026988892000017x,SANOM-HOBBIT: simulated annealing-based ontology matching on HOBBIT platform,Majid Mohammadi and Wout Hofman and Yao-Hua Tan,2020,0,The Knowledge Engineering Review
+10.1017/s0269888919000195,TempCourt: evaluation of temporal taggers on a new corpus of court decisions,María Navas-Loro and Erwin Filtz and Víctor Rodríguez-Doncel and Axel Polleres and Sabrina Kirrane,2019,3,The Knowledge Engineering Review
+10.1017/s0269888905000299,Methods and techniques for the evaluation of user-adaptive systems,CRISTINA GENA,2005,64,The Knowledge Engineering Review
+10.1017/s0269888910000287,"Algorithmic Game Theory by Noam Nisan, Tim Roughgarden, Éva Tardos and Vijay V. Vazirani, Cambridge University Press, 754 pp., £32.00, ISBN 0-521-87282-0",Simon Parsons,2011,0,The Knowledge Engineering Review
+10.1017/s0269888912000239,Scheduling safe movement of air traffic in crowded air spaces,David W. Hildum and Stephen F. Smith,2012,2,The Knowledge Engineering Review
+10.1017/s0269888913000337,Planning in BDI agents: a survey of the integration of planning algorithms and agent reasoning,Felipe Meneguzzi and Lavindra De Silva,2015,24,The Knowledge Engineering Review
+10.1017/s0269888912000136,Agent-based economic models and econometrics,Shu-Heng Chen and Chia-Ling Chang and Ye-Rong Du,2012,168,The Knowledge Engineering Review
+10.1017/s0269888921000011,Argumentation and explainable artificial intelligence: a survey,Alexandros Vassiliades and Nick Bassiliades and Theodore Patkos,2021,32,The Knowledge Engineering Review
+10.1017/s0269888902000486,Commitment-based and dialogue-game-based protocols: new trends in agent communication languages,N. MAUDET and B. CHAIB-DRAA,2002,46,The Knowledge Engineering Review
+10.1017/s026988890999004x,Guest editorial preface: Software and system engineering: an ontological perspective,Daniela Micucci and Fabio Sartori and Marzia Adorni,2009,0,The Knowledge Engineering Review
+10.1017/s0269888914000174,Taxonomy of reputation assessment in peer-to-peer systems and analysis of their data retrieval,Farag Azzedin,2014,9,The Knowledge Engineering Review
+10.1017/s0269888911000130,The HealthAgents ontology: knowledge representation in a distributed decision support system for brain tumours,Bo Hu and Madalina Croitoru and Roman Roset and David Dupplaw and Miguel Lurgi and Srinandan Dasmahapatra and Paul Lewis and Juan Martínez-Miranda and Carlos Sáez,2011,4,The Knowledge Engineering Review
+10.1017/s0269888915000132,Resolving conflicts in knowledge for ambient intelligence,Martin Homola and Theodore Patkos and Giorgos Flouris and Ján Šefránek and Alexander Šimko and Jozef Frtús and Dimitra Zografistou and Martin Baláž,2015,6,The Knowledge Engineering Review
+10.1017/s0269888900002046,Reasoning with inconsistency in structured text,ANTHONY HUNTER,2000,13,The Knowledge Engineering Review
+10.1017/s0269888913000210,KER volume 28 issue 2 Cover and Back matter,,2013,0,The Knowledge Engineering Review
+10.1017/s0269888909000277,KER volume 24 issue 2 Cover and Back matter,,2009,0,The Knowledge Engineering Review
+10.1017/s0269888916000229,The RANTANPLAN planner: system description,Miquel Bofill and Joan Espasa and Mateu Villaret,2016,1,The Knowledge Engineering Review
+10.1017/s0269888907001270,A context-sensitive framework for lexical ontologies,TONY VEALE and YANFEN HAO,2008,2,The Knowledge Engineering Review
+10.1017/s026988890423020x,"Genetic Algorithms—Principles and Perspectives, A Guide to GA Theory by Colin R. Reeves and Jonathan E. Rowe, Kluwer Academic Publishers, 332 pp., $120.00, ISBN 1-4020-7240-6",W. B. Langdon,2004,0,The Knowledge Engineering Review
+10.1017/s0269888916000138,Parameterized gait pattern generator based on linear inverted pendulum model with natural ZMP references,Ya-Fang Ho and Tzuu-Hseng S. Li and Ping-Huan Kuo and Yan-Ting Ye,2017,6,The Knowledge Engineering Review
+10.1017/s026988890400013x,Literature review of spatio-temporal database models,NIKOS PELEKIS and BABIS THEODOULIDIS and IOANNIS KOPANAKIS and YANNIS THEODORIDIS,2004,128,The Knowledge Engineering Review
+10.1017/s0269888910000019,A survey of formalisms for representing and reasoning with scientific knowledge,Anthony Hunter and Weiru Liu,2010,13,The Knowledge Engineering Review
+10.1017/s0269888920000223,Regulatory changes for redesigned securities markets with distributed ledger technology,Muthukkumarasamy Thuvarakan,2020,1,The Knowledge Engineering Review
+10.1017/s0269888909990270,Specifying and Analyzing Institutions in Multi-Agent Systems using Answer Set Programming,Owen Cliffe,2009,2,The Knowledge Engineering Review
+10.1017/s0269888911000014,Adaptive organizational changes in agent-oriented methodologies,Luca Cernuzzi and Franco Zambonelli,2011,8,The Knowledge Engineering Review
+10.1017/s0269888918000188,A review of learning planning action models,Ankuj Arora and Humbert Fiorino and Damien Pellier and Marc Métivier and Sylvie Pesty,2018,10,The Knowledge Engineering Review
+10.1017/s0269888914000216,XML clustering: a review of structural approaches,Maciej Piernik and Dariusz Brzezinski and Tadeusz Morzy and Anna Lesniewska,2015,10,The Knowledge Engineering Review
+10.1017/s0269888911000038,Learning like a baby: a survey of artificial intelligence approaches,Frank Guerin,2011,17,The Knowledge Engineering Review
+10.1017/s026988891600014x,Studying the use and effect of graph decomposition in qualitative spatial and temporal reasoning,Michael Sioutis and Yakoub Salhi and Jean-François Condotta,2017,6,The Knowledge Engineering Review
+10.1017/s0269888919000171,Imitation of human motion for humanoid robot in lift and carry event,Shu-Yin Chiang and Hao-Ge Jiang,2019,1,The Knowledge Engineering Review
+10.1017/s0269888920000314,Cross-chain interoperability among blockchain-based systems using transactions,Babu Pillai and Kamanashis Biswas and Vallipuram Muthukkumarasamy,2020,32,The Knowledge Engineering Review
+10.1017/s0269888912000148,Agent-based models and hypothesis testing: an example of innovation and organizational networks,Allen Wilhite and Eric A. Fong,2012,3,The Knowledge Engineering Review
+10.1017/s0269888912000161,Evolution of market heuristics,Mikhail Anufriev and Cars Hommes,2012,47,The Knowledge Engineering Review
+10.1017/s0269888912000082,The special issue: agent-based computational economics—overview,Robert E. Marks and Nicolaas J. Vriend,2012,2,The Knowledge Engineering Review
+10.1017/s0269888902000450,Analysis and design of agent-oriented information systems,OFER ARAZY and CARSON C. WOO,2002,13,The Knowledge Engineering Review
+10.1017/s0269888901000078,Combining local and global search in a constraint programming environment,YVES CASEAU and FRANÇOIS LABURTHE and CLAUDE LE PAPE and BENOÎT ROTTEMBOURG,2001,10,The Knowledge Engineering Review
+10.1017/s0269888918000085,A comparative study of pivot selection strategies for unsupervised cross-domain sentiment classification,Xia Cui and Noor Al-Bazzaz and Danushka Bollegala and Frans Coenen,2018,6,The Knowledge Engineering Review
+10.1017/s026988890800132x,Fairness in multi-agent systems,STEVEN DE JONG and KARL TUYLS and KATJA VERBEECK,2008,13,The Knowledge Engineering Review
+10.1017/s0269888921000084,A comprehensive overview of RDF for spatial and spatiotemporal data management,Fu Zhang and Qingzhe Lu and Zhenjun Du and Xu Chen and Chunhong Cao,2021,1,The Knowledge Engineering Review
+10.1017/s0269888918000164,Answer set programming and agents,Abeer Dyoub and Stefania Costantini and Giovanni De Gasperis,2018,9,The Knowledge Engineering Review
+10.1017/s0269888922000054,A framework for belief revision under restrictions,Zhiguo Long and Hua Meng and Tianrui Li and Heng-Chao Li and Michael Sioutis,2022,0,The Knowledge Engineering Review
 10.1017/s0269888904000074,Semantic matching,FAUSTO GIUNCHIGLIA and PAVEL SHVAIKO,2003,117,The Knowledge Engineering Review
 10.1017/s0269888907001269,Dynamic context management for pervasive applications,JÉRÔME EUZENAT and JÉRÔME PIERSON and FANO RAMPARANY,2008,34,The Knowledge Engineering Review
-10.1017/s0269888902000358,UML for ontology development,PAUL KOGUT and STEPHEN CRANEFIELD and LEWIS HART and MARK DUTRA and KENNETH BACLAWSKI and MIECZYSLAW KOKAR and JEFFREY SMITH,2002,90,The Knowledge Engineering Review
-10.1017/s0269888919000195,TempCourt: evaluation of temporal taggers on a new corpus of court decisions,María Navas-Loro and Erwin Filtz and Víctor Rodríguez-Doncel and Axel Polleres and Sabrina Kirrane,2019,3,The Knowledge Engineering Review
-10.1017/s0269888918000085,A comparative study of pivot selection strategies for unsupervised cross-domain sentiment classification,Xia Cui and Noor Al-Bazzaz and Danushka Bollegala and Frans Coenen,2018,6,The Knowledge Engineering Review
-10.1017/s0269888902000486,Commitment-based and dialogue-game-based protocols: new trends in agent communication languages,N. MAUDET and B. CHAIB-DRAA,2002,46,The Knowledge Engineering Review
-10.1017/s0269888907001063,Planning domain definition using GIPO,R. M. SIMPSON and D. E. KITCHIN and T. L. McCLUSKEY,2007,24,The Knowledge Engineering Review
-10.1017/s0269888903000687,The state of the art in ontology learning: a framework for comparison,MEHRNOUSH SHAMSFARD and AHMAD ABDOLLAHZADEH BARFOROUSH,2003,83,The Knowledge Engineering Review
-10.1017/s0269888902000450,Analysis and design of agent-oriented information systems,OFER ARAZY and CARSON C. WOO,2002,13,The Knowledge Engineering Review
-10.1017/s026988891600014x,Studying the use and effect of graph decomposition in qualitative spatial and temporal reasoning,Michael Sioutis and Yakoub Salhi and Jean-François Condotta,2017,6,The Knowledge Engineering Review
-10.1017/s0269888921000084,A comprehensive overview of RDF for spatial and spatiotemporal data management,Fu Zhang and Qingzhe Lu and Zhenjun Du and Xu Chen and Chunhong Cao,2021,1,The Knowledge Engineering Review
-10.1017/s0269888905000421,Agent-oriented software engineering,CAROLE BERNON and MASSIMO COSSENTINO and JUAN PAVÓN,2005,37,The Knowledge Engineering Review
-10.1017/s0269888912000343,A survey on metrics for the evaluation of user simulations,Olivier Pietquin and Helen Hastie,2013,38,The Knowledge Engineering Review
 10.1017/s0269888906000592,Case-based planning,MICHAEL T. COX and HÉCTOR MUÑOZ-AVILA and RALPH BERGMANN,2005,29,The Knowledge Engineering Review
+10.1017/s0269888906000737,A survey of Knowledge Discovery and Data Mining process models,LUKASZ A. KURGAN and PETR MUSILEK,2006,218,The Knowledge Engineering Review
+10.1017/s0269888905000421,Agent-oriented software engineering,CAROLE BERNON and MASSIMO COSSENTINO and JUAN PAVÓN,2005,37,The Knowledge Engineering Review
 10.1017/s0269888904000190,A review of explanation methods for heuristic expert systems,CARMEN LACAVE and FRANCISCO J. DIEZ,2004,34,The Knowledge Engineering Review
+10.1017/s0269888913000325,A survey of different approaches to support in argumentation systems,Andrea Cohen and Sebastian Gottifredi and Alejandro J. García and Guillermo R. Simari,2014,33,The Knowledge Engineering Review
+10.1017/s0269888920000326,TEduChain: a blockchain-based platform for crowdfunding tertiary education,Mahmood A. Rashid and Krishneel Deo and Divnesh Prasad and Kunal Singh and Sarvesh Chand and Mansour Assaf,2020,17,The Knowledge Engineering Review
+10.1017/s026988891900016x,Coupling the normative regulation with the constitutive state management in Situated Artificial Institutions,Maiquel De Brito and Jomi Fred Hübner and Olivier Boissier,2019,1,The Knowledge Engineering Review
 10.1017/s0269888909000241,Two decades of Ripple Down Rules research,Debbie Richards,2009,55,The Knowledge Engineering Review
 10.1017/s0269888916000035,A taxonomy for user models in adaptive systems: special considerations for learning environments,Nuria Medina-Medina and Lina García-Cabrera,2016,3,The Knowledge Engineering Review
-10.1017/s0269888916000096,BDI agents in social simulations: a survey,Carole Adam and Benoit Gaudou,2016,71,The Knowledge Engineering Review
-10.1017/s0269888912000148,Agent-based models and hypothesis testing: an example of innovation and organizational networks,Allen Wilhite and Eric A. Fong,2012,3,The Knowledge Engineering Review
-10.1017/s0269888912000082,The special issue: agent-based computational economics—overview,Robert E. Marks and Nicolaas J. Vriend,2012,2,The Knowledge Engineering Review
-10.1017/s0269888912000161,Evolution of market heuristics,Mikhail Anufriev and Cars Hommes,2012,47,The Knowledge Engineering Review
-10.1017/s0269888906000737,A survey of Knowledge Discovery and Data Mining process models,LUKASZ A. KURGAN and PETR MUSILEK,2006,217,The Knowledge Engineering Review
+10.1017/s0269888919000134,A multi-objective evolutionary hyper-heuristic algorithm for team-orienteering problem with time windows regarding rescue applications,Hadi S. Aghdasi and Saeed Saeedvand and Jacky Baltes,2019,3,The Knowledge Engineering Review
+10.1017/s0269888900001077,A scheme for unifying optimization and constraint satisfaction methods,JOHN HOOKER and GREGER OTTOSSON and ERLENDER S. THORSTEINSSON and HAK-JIN KIM,2000,30,The Knowledge Engineering Review
+10.1017/s0269888921000151,Merging pruning and neuroevolution: towards robust and efficient controllers for modular soft robots,Giorgia Nadizar and Eric Medvet and Hola Huse Ramstad and Stefano Nichele and Felice Andrea Pellegrino and Marco Zullich,2022,3,The Knowledge Engineering Review
 10.1017/s0269888912000173,Zero intelligence in economics and finance,Dan Ladley,2012,36,The Knowledge Engineering Review
-10.1017/s0269888921000011,Argumentation and explainable artificial intelligence: a survey,Alexandros Vassiliades and Nick Bassiliades and Theodore Patkos,2021,30,The Knowledge Engineering Review
-10.1017/s0269888920000314,Cross-chain interoperability among blockchain-based systems using transactions,Babu Pillai and Kamanashis Biswas and Vallipuram Muthukkumarasamy,2020,32,The Knowledge Engineering Review
+10.1017/s0269888920000284,A survey on blockchain-based platforms for IoT use-cases,Mohammad Jabed Morshed Chowdhury and Md Sadek Ferdous and Kamanashis Biswas and Niaz Chowdhury and Vallipuram Muthukkumarasamy,2020,14,The Knowledge Engineering Review
+10.1017/s0269888916000096,BDI agents in social simulations: a survey,Carole Adam and Benoit Gaudou,2016,72,The Knowledge Engineering Review
 10.1017/s0269888906000944,A survey of statistical user simulation techniques for reinforcement-learning of dialogue management strategies,JOST SCHATZMANN and KARL WEILHAMMER and MATT STUTTLE and STEVE YOUNG,2006,153,The Knowledge Engineering Review
-10.1017/s0269888912000136,Agent-based economic models and econometrics,Shu-Heng Chen and Chia-Ling Chang and Ye-Rong Du,2012,168,The Knowledge Engineering Review
+10.1017/s0269888903000687,The state of the art in ontology learning: a framework for comparison,MEHRNOUSH SHAMSFARD and AHMAD ABDOLLAHZADEH BARFOROUSH,2003,83,The Knowledge Engineering Review
+10.1017/s0269888902000358,UML for ontology development,PAUL KOGUT and STEPHEN CRANEFIELD and LEWIS HART and MARK DUTRA and KENNETH BACLAWSKI and MIECZYSLAW KOKAR and JEFFREY SMITH,2002,91,The Knowledge Engineering Review
+10.1017/s0269888912000343,A survey on metrics for the evaluation of user simulations,Olivier Pietquin and Helen Hastie,2013,38,The Knowledge Engineering Review
 10.1017/s0269888912000227,Trajectory deconfliction with constraint programming,Nicolas Barnier and Cyril Allignol,2012,12,The Knowledge Engineering Review
 10.1017/s0269888914000319,Distributed aggregation of heterogeneous Web-based Fine Art Information: enabling multi-source accessibility and curation,Frances Buchanan and Niccolo Capanni and Horacio González-Vélez,2015,1,The Knowledge Engineering Review
 10.1017/s026988890600066x,Integrations with case-based reasoning,CINDY MARLING and EDWINA RISSLAND and AGNAR AAMODT,2005,24,The Knowledge Engineering Review
@@ -417,11 +417,11 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1017/s0269888909000186,KER volume 24 issue 1 Cover and Front matter,,2009,0,The Knowledge Engineering Review
 10.1017/s0269888910000299,From the journals…,,2011,0,The Knowledge Engineering Review
 10.1017/s0269888917000078,Inter-humanoid robot interaction with emphasis on detection: a comparison study – ADDENDUM,Taher Abbas Shangari and Vida Shams and Bita Azari and Faraz Shamshirdar and Jacky Baltes and Soroush Sadeghnejad,2017,1,The Knowledge Engineering Review
+10.1017/s0269888900001041,Combining satisfiability techniques from AI and OR,HEIDI E. DIXON and MATTHEW L. GINSBERG,2000,9,The Knowledge Engineering Review
 10.1017/s0269888914000253,Intelligent computing in large-scale systems,Joanna Kołodziej and Horacio González-Vélez and Fatos Xhafa and Leonard Barolli,2015,2,The Knowledge Engineering Review
 10.1017/s0269888902000474,From the journals,,2002,0,The Knowledge Engineering Review
 10.1017/s0269888905210202,"Bayesian Artificial Intelligence by Kevin B. Korb and Ann E. Nicholson, Chapman and Hall, 369 pp., $79.95, ISBN 1-58488-387-1",Simon Parsons,2004,0,The Knowledge Engineering Review
 10.1017/s0269888910000020,Web-based expert systems and services,Sandeep Kumar and Ravi Bhushan Mishra,2010,2,The Knowledge Engineering Review
-10.1017/s0269888916000114,HuroCup: competition for multi-event humanoid robot athletes,Jacky Baltes and Kuo-Yang Tu and Soroush Sadeghnejad and John Anderson,2017,20,The Knowledge Engineering Review
 10.1017/s0269888909990026,Ontological modeling at a domain interface: bridging clinical and biomolecular knowledge,Gianluca Colombo and Daniele Merico and Zoltán Nagy and Flavio De Paoli and Marco Antoniotti and Giancarlo Mauri,2009,1,The Knowledge Engineering Review
 10.1017/s0269888909990245,"Cognitively Inspired Decision Making for Software Agents: Integrated Mechanisms for Action Selection, Expectation, Automatization and Non‐Routine Problem Solving",Aregahegn Seifu Negatu,2009,1,The Knowledge Engineering Review
 10.1017/s0269888901000121,From the journals . . .,,2001,0,The Knowledge Engineering Review
@@ -430,13 +430,11 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1017/s0269888917000030,Component-based approach for requirements reuse,Azeddine Chikh,2017,0,The Knowledge Engineering Review
 10.1017/s0269888916000011,Scientific Knowledge Engineering: a conceptual delineation and overview of the state of the art,Paulo Sérgio M. Dos Santos and Guilherme H. Travassos,2016,8,The Knowledge Engineering Review
 10.1017/s0269888922000042,A scalable species-based genetic algorithm for reinforcement learning problems,Anirudh Seth and Alexandros Nikou and Marios Daoutis,2022,0,The Knowledge Engineering Review
-10.1017/s026988890100008x,Review of information and the state of the art of knowledge management practices in the construction industry,YACINE REZGUI,2001,37,The Knowledge Engineering Review
 10.1017/s0269888911000051,KER volume 26 issue 2 Cover and Front matter,,2011,0,The Knowledge Engineering Review
 10.1017/s0269888900004057,From the Journals,,2000,0,The Knowledge Engineering Review
 10.1017/s0269888910000226,Abstracts of Recent PhDs,,2010,0,The Knowledge Engineering Review
 10.1017/s0269888909990336,KER volume 24 issue 4 Cover and Back matter,,2009,0,The Knowledge Engineering Review
 10.1017/s0269888920000120,"Effects of parity, sympathy and reciprocity in increasing social welfare",Sandip Sen and Chad Crawford and Adam Dees and Rachna Nanda Kumar and James Hale,2020,1,The Knowledge Engineering Review
-10.1017/s0269888917000169,Engineering the emergence of norms: a review,Chris Haynes and Michael Luck and Peter McBurney and Samhar Mahmoud and Tomáš Vítek and Simon Miles,2017,13,The Knowledge Engineering Review
 10.1017/s0269888902000292,Ontology negotiation between intelligent information agents,SIDNEY C. BAILIN and WALT TRUSZKOWSKI,2002,41,The Knowledge Engineering Review
 10.1017/s026988890800009x,Simulating socially intelligent agents in semantic virtual environments,Francisco Grimaldo and Miguel Lozano and Fernando Barber and Guillermo Vigueras,2008,12,The Knowledge Engineering Review
 10.1017/s0269888909000149,Engineering spatial concepts,Daniela Micucci and Francesco Tisato and Marzia Adorni,2009,6,The Knowledge Engineering Review
@@ -451,16 +449,13 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1017/s0269888901000054,From the journals . . .,,2001,0,The Knowledge Engineering Review
 10.1017/s0269888917000170,Environmental effects on simulated emotional and moody agents,Joe Collenette and Katie Atkinson and Daan Bloembergen and Karl Tuyls,2017,0,The Knowledge Engineering Review
 10.1017/s0269888903000675,Representation of procedures and practices in contextual graphs,P BRÉZILLON,2003,30,The Knowledge Engineering Review
-10.1017/s0269888913000428,A theory of complex adaptive inquiring organizations: application to continuous assurance of corporate financial information,John R. Kuhn and James F. Courtney and Bonnie Morris,2015,3,The Knowledge Engineering Review
 10.1017/s0269888909990038,Sharing architecture knowledge through models: quality and cost,Peng Liang and Anton Jansen and Paris Avgeriou,2009,4,The Knowledge Engineering Review
 10.1017/s0269888903000560,A multi-agent system architecture for coordination of just-in-time production and distribution,PAUL DAVIDSSON and FREDRIK WERNSTEDT,2002,13,The Knowledge Engineering Review
 10.1017/s0269888914000149,Mobility-aware balanced scheduling algorithm in mobile Grid based on mobile agent,Jonghyuk Lee and Sungjin Choi and Taeweon Suh and Heonchang Yu,2014,3,The Knowledge Engineering Review
-10.1017/s0269888915000090,Towards next generation coordination infrastructures,Juan A. Rodriguez-Aguilar and Carles Sierra and Josep Ll. Arcos and Maite Lopez-Sanchez and Inmaculada Rodriguez,2015,6,The Knowledge Engineering Review
 10.1017/s0269888900003027,Sensitivity analysis: an aid for belief-network quantification,VEERLE M. H. COUPÉ and LINDA C. VAN DER GAAG and J. DIK F. HABBEMA,2000,35,The Knowledge Engineering Review
 10.1017/s0269888918000255,A survey of large-scale reasoning on the Web of data,Grigoris Antoniou and Sotiris Batsakis and Raghava Mutharaju and Jeff Z. Pan and Guilin Qi and Ilias Tachmazidis and Jacopo Urbani and Zhangquan Zhou,2018,8,The Knowledge Engineering Review
 10.1017/s0269888904000177,Qualitative simulation and related approaches for the analysis of dynamic systems,HIDDE DE JONG,2004,10,The Knowledge Engineering Review
 10.1017/s0269888913000246,Diagrams in biology,Laura Perini,2013,11,The Knowledge Engineering Review
-10.1017/s0269888912000331,A survey of frequent subgraph mining algorithms,Chuntao Jiang and Frans Coenen and Michele Zito,2013,185,The Knowledge Engineering Review
 10.1017/s0269888900002034,Can models of agents be transferred between different areas?,RUTH AYLETT and KERSTIN DAUTENHAHN and JIM DORAN and MICHAEL LUCK and SCOTT MOSS and MOSHE TENNENHOLTZ,2000,1,The Knowledge Engineering Review
 10.1017/s026988891000010x,From the journals…,,2010,0,The Knowledge Engineering Review
 10.1017/s0269888906210816,"Spinning the semantic web edited by Dieter Fensel, James Hendler, Harry Lieberman and Wolfgang Wahlster, MIT Press, 479 pp., $23, ISBN 0-262-56212-X",Simon Parsons,2006,0,The Knowledge Engineering Review
@@ -471,58 +466,63 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1017/s0269888904210165,"Bayesian Networks and Decision Graphs by Finn V. Jensen, Springer, 268 pp., £64.95, ISBN 0-387-95259-4",Simon Parsons,2004,0,The Knowledge Engineering Review
 10.1017/s0269888920000302,A blockchain-based database management system,Jeyakumar Samantha Tharani and Mukunthan Tharmakulasingam and Vallipuram Muthukkumarasamy,2020,2,The Knowledge Engineering Review
 10.1017/s0269888916000321,Inter-humanoid robot interaction with emphasis on detection: a comparison study,Taher Abbas Shangari and Vida Shams and Bita Azari and Faraz Shamshirdar and Jacky Baltes and Soroush Sadeghnejad,2017,2,The Knowledge Engineering Review
-10.1017/s0269888905000305,Towards a new synthesis of ontology technology and knowledge management,PETER MIKA and HANS AKKERMANS,2004,12,The Knowledge Engineering Review
 10.1017/s026988891200032x,KER volume 27 issue 4 Cover and Back matter,,2012,0,The Knowledge Engineering Review
 10.1017/s0269888919000183,Adaptive computational SLAM incorporating strategies of exploration and path planning,Jacky Baltes and Da-Wei Kung and Wei-Yen Wang and Chen-Chien Hsu,2019,3,The Knowledge Engineering Review
 10.1017/s026988890000103x,Logical and uncertainty models for information access: current trends,FABIO CRESTANI and MOUNIA LALMAS,2000,0,The Knowledge Engineering Review
-10.1017/s0269888921000102,Contrastive explanation: a structural-model approach,Tim Miller,2021,12,The Knowledge Engineering Review
+10.1017/s0269888905000317,A survey of multi-agent organizational paradigms,BRYAN HORLING and VICTOR LESSER,2004,363,The Knowledge Engineering Review
+10.1017/s0269888901000030,Branch-and-cut for combinatorial optimization problems without auxiliary binary variables,I. R. DE FARIAS and E. L. JOHNSON and G. L. NEMHAUSER,2001,32,The Knowledge Engineering Review
 10.1017/s0269888909990154,Automatic selection of reliability estimates for individual regression predictions,Zoran Bosnić and Igor Kononenko,2010,8,The Knowledge Engineering Review
 10.1017/s0269888919000092,Two-level Q-learning: learning from conflict demonstrations,Mao Li and Yi Wei and Daniel Kudenko,2019,2,The Knowledge Engineering Review
 10.1017/s0269888919000079,Action learning and grounding in simulated human–robot interactions,Oliver Roesler and Ann Nowé,2019,4,The Knowledge Engineering Review
 10.1017/s0269888902000322,Agents and ontologies for e-business,YANNIS LABROU,2002,6,The Knowledge Engineering Review
 10.1017/s0269888919000158,A comprehensive survey on humanoid robot development,Saeed Saeedvand and Masoumeh Jafari and Hadi S. Aghdasi and Jacky Baltes,2019,25,The Knowledge Engineering Review
-10.1017/s0269888920000429,A generic model for representing openness in multi-agent systems,Sondes Hattab and Wided Lejouad Chaari,2021,1,The Knowledge Engineering Review
+10.1017/s0269888912000355,Scaling up classification rule induction through parallel processing,Frederic Stahl and Max Bramer,2013,6,The Knowledge Engineering Review
 10.1017/s0269888915000089,Software engineering for self-organizing systems,H. Van Dyke Parunak and Sven A. Brueckner,2015,11,The Knowledge Engineering Review
 10.1017/s0269888916000047,"Data mining for building knowledge bases: techniques, architectures and applications",Alfred Krzywicki and Wayne Wobcke and Michael Bain and John Calvo Martinez and Paul Compton,2016,6,The Knowledge Engineering Review
 10.1017/s0269888906000774,Operating instructions for intelligent agent coordination,MIRKO VIROLI and ALESSANDRO RICCI and ANDREA OMICINI,2006,14,The Knowledge Engineering Review
+10.1017/s0269888906000695,Case-based reasoning foundations,MICHAEL M. RICHTER and AGNAR AAMODT,2005,30,The Knowledge Engineering Review
 10.1017/s0269888914000125,Ontology-driven word recommendation for mobile Web search,Daniel Aréchiga and Fabio Crestani and Jesús Vegas,2014,2,The Knowledge Engineering Review
-10.1017/s0269888918000152,Context-aware tourism technologies,Fátima Leal and Benedita Malheiro and Juan C. Burguillo,2018,4,The Knowledge Engineering Review
 10.1017/s0269888903000559,Modular event-based systems,LUDGER FIEGE and GERO MÜHL and FELIX C. GÄRTNER,2002,24,The Knowledge Engineering Review
 10.1017/s0269888908000040,On virtual environments and agents in next-generation computer games,Daniel Torres,2008,2,The Knowledge Engineering Review
-10.1017/s0269888901000030,Branch-and-cut for combinatorial optimization problems without auxiliary binary variables,I. R. DE FARIAS and E. L. JOHNSON and G. L. NEMHAUSER,2001,32,The Knowledge Engineering Review
 10.1017/s026988891400023x,Self-organising management of user-generated data and knowledge,Sam Macbeth and Jeremy V. Pitt,2015,13,The Knowledge Engineering Review
 10.1017/s0269888913000106,Cooperative games and multiagent systems,Stéphane Airiau,2013,7,The Knowledge Engineering Review
-10.1017/s0269888912000355,Scaling up classification rule induction through parallel processing,Frederic Stahl and Max Bramer,2013,5,The Knowledge Engineering Review
 10.1017/s0269888905000500,Towards Semantic Web agents: Knowledge Web and AgentLink,TERRY PAYNE and VALENTINA TAMMA,2005,6,The Knowledge Engineering Review
-10.1017/s0269888901000170,Learning in multi-agent systems,EDUARDO ALONSO and MARK D'INVERNO and DANIEL KUDENKO and MICHAEL LUCK and JASON NOBLE,2001,72,The Knowledge Engineering Review
-10.1017/s0269888904000098,Argumentation-based negotiation,IYAD RAHWAN and SARVAPALI D. RAMCHURN and NICHOLAS R. JENNINGS and PETER McBURNEY and SIMON PARSONS and LIZ SONENBERG,2003,286,The Knowledge Engineering Review
-10.1017/s0269888910000032,A survey of data mining and knowledge discovery process models and methodologies,Gonzalo Mariscal and Óscar Marbán and Covadonga Fernández,2010,156,The Knowledge Engineering Review
 10.1017/s0269888906000701,Case-based reasoning and law,EDWINA L. RISSLAND and KEVIN D. ASHLEY and L. KARL BRANTING,2005,30,The Knowledge Engineering Review
-10.1017/s0269888903000638,A survey on the use of relevance feedback for information access systems,IAN RUTHVEN and MOUNIA LALMAS,2003,246,The Knowledge Engineering Review
+10.1017/s0269888910000251,Learning Bayesian networks: approaches and issues,Rónán Daly and Qiang Shen and Stuart Aitken,2011,204,The Knowledge Engineering Review
+10.1017/s0269888917000169,Engineering the emergence of norms: a review,Chris Haynes and Michael Luck and Peter McBurney and Samhar Mahmoud and Tomáš Vítek and Simon Miles,2017,14,The Knowledge Engineering Review
+10.1017/s0269888916000114,HuroCup: competition for multi-event humanoid robot athletes,Jacky Baltes and Kuo-Yang Tu and Soroush Sadeghnejad and John Anderson,2017,21,The Knowledge Engineering Review
 10.1017/s0269888916000023,Classifying sanctions and designing a conceptual sanctioning process model for socio-technical systems,Luis G. Nardin and Tina Balke-Visser and Nirav Ajmeri and Anup K. Kalia and Jaime S. Sichman and Munindar P. Singh,2016,19,The Knowledge Engineering Review
-10.1017/s0269888920000065,"Ontology engineering methodologies for the evolution of living and reused ontologies: status, trends, findings and recommendations",Konstantinos I. Kotis and George A. Vouros and Dimitris Spiliotopoulos,2020,28,The Knowledge Engineering Review
-10.1017/s0269888906000397,User profiling in personal information agents: a survey,DANIELA GODOY and ANALIA AMANDI,2005,54,The Knowledge Engineering Review
+10.1017/s0269888910000032,A survey of data mining and knowledge discovery process models and methodologies,Gonzalo Mariscal and Óscar Marbán and Covadonga Fernández,2010,156,The Knowledge Engineering Review
+10.1017/s0269888913000234,"Visual reasoning with graph-based mechanisms: the good, the better and the best",Michel Chein and Marie-Laure Mugnier and Madalina Croitoru,2013,18,The Knowledge Engineering Review
+10.1017/s0269888918000292,Reward shaping for knowledge-based multi-objective multi-agent reinforcement learning,Patrick Mannion and Sam Devlin and Jim Duggan and Enda Howley,2018,17,The Knowledge Engineering Review
+10.1017/s0269888901000170,Learning in multi-agent systems,EDUARDO ALONSO and MARK D'INVERNO and DANIEL KUDENKO and MICHAEL LUCK and JASON NOBLE,2001,73,The Knowledge Engineering Review
 10.1017/s0269888900004033,Meta-knowledge in systems design: panacea … or undelivered promise?,YANNIS KALFOGLOU and TIM MENZIES and KLAUS-DIETER ALTHOFF and ENRICO MOTTA,2000,12,The Knowledge Engineering Review
 10.1017/s026988890600052x,Case-based reasoning commentaries: introduction,DAVID W. AHA and CINDY MARLING and IAN WATSON,2005,9,The Knowledge Engineering Review
 10.1017/s0269888900001065,Applying integer programming to AI planning,THOMAS VOSSEN and MICHAEL BALL and AMNON LOTEM and DANA NAU,2000,3,The Knowledge Engineering Review
 10.1017/s0269888901000200,Holonic and multi-agent systems in industry,ROBERT W. BRENNAN,2001,6,The Knowledge Engineering Review
-10.1017/s0269888902000462,Overview and analysis of methodologies for building ontologies,MARIANO FERNÁNDEZ-LÓPEZ and ASUNCIÓN GÓMEZ-PÉREZ,2002,141,The Knowledge Engineering Review
-10.1017/s0269888918000292,Reward shaping for knowledge-based multi-objective multi-agent reinforcement learning,Patrick Mannion and Sam Devlin and Jim Duggan and Enda Howley,2018,17,The Knowledge Engineering Review
 10.1017/s0269888907001257,Semantically routing queries in peer-based systems: the H-Link approach,STEFANO MONTANELLI and SILVANA CASTANO,2008,12,The Knowledge Engineering Review
 10.1017/s0269888906000543,Knowledge management in case-based reasoning,KLAUS-DIETER ALTHOFF and ROSINA O. WEBER,2005,25,The Knowledge Engineering Review
-10.1017/s0269888908001367,Ontology change: classification and survey,GIORGOS FLOURIS and DIMITRIS MANAKANATAS and HARIDIMOS KONDYLAKIS and DIMITRIS PLEXOUSAKIS and GRIGORIS ANTONIOU,2008,154,The Knowledge Engineering Review
 10.1017/s0269888907001208,Ontology-based models in pervasive computing systems,JUAN YE and LORCAN COYLE and SIMON DOBSON and PADDY NIXON,2007,126,The Knowledge Engineering Review
-10.1017/s0269888905000317,A survey of multi-agent organizational paradigms,BRYAN HORLING and VICTOR LESSER,2004,362,The Knowledge Engineering Review
-10.1017/s0269888909990361,Toward an integrated knowledge discovery and data mining process model,Sumana Sharma and Kweku-Muata Osei-Bryson,2010,18,The Knowledge Engineering Review
-10.1017/s0269888906000695,Case-based reasoning foundations,MICHAEL M. RICHTER and AGNAR AAMODT,2005,29,The Knowledge Engineering Review
-10.1017/s0269888913000234,"Visual reasoning with graph-based mechanisms: the good, the better and the best",Michel Chein and Marie-Laure Mugnier and Madalina Croitoru,2013,18,The Knowledge Engineering Review
 10.1017/s0269888923000012,Adversarial agent-learning for cybersecurity: a comparison of algorithms,Alexander Shashkov and Erik Hemberg and Miguel Tulla and Una-May O’Reilly,2023,0,The Knowledge Engineering Review
-10.1017/s0269888901000145,Probability elicitation for belief networks: issues to consider,SILJA RENOOIJ,2001,98,The Knowledge Engineering Review
-10.1017/s0269888910000251,Learning Bayesian networks: approaches and issues,Rónán Daly and Qiang Shen and Stuart Aitken,2011,204,The Knowledge Engineering Review
 10.1017/s0269888915000053,Understanding Agent-Oriented Software Engineering methodologies,Jorge J. Gómez-Sanz and Rubén Fuentes-Fernández,2015,22,The Knowledge Engineering Review
+10.1017/s0269888915000090,Towards next generation coordination infrastructures,Juan A. Rodriguez-Aguilar and Carles Sierra and Josep Ll. Arcos and Maite Lopez-Sanchez and Inmaculada Rodriguez,2015,6,The Knowledge Engineering Review
+10.1017/s0269888901000145,Probability elicitation for belief networks: issues to consider,SILJA RENOOIJ,2001,98,The Knowledge Engineering Review
 10.1017/s0269888906000713,Textual case-based reasoning,ROSINA O. WEBER and KEVIN D. ASHLEY and STEFANIE BRÜNINGHAUS,2005,70,The Knowledge Engineering Review
-10.1017/s0269888900001041,Combining satisfiability techniques from AI and OR,HEIDI E. DIXON and MATTHEW L. GINSBERG,2000,9,The Knowledge Engineering Review
 10.1017/s0269888900001089,Bridging the gap between planning and scheduling,DAVID E. SMITH and JEREMY FRANK and ARI K. JÓNSSON,2000,91,The Knowledge Engineering Review
+10.1017/s0269888920000429,A generic model for representing openness in multi-agent systems,Sondes Hattab and Wided Lejouad Chaari,2021,3,The Knowledge Engineering Review
+10.1017/s0269888918000152,Context-aware tourism technologies,Fátima Leal and Benedita Malheiro and Juan C. Burguillo,2018,6,The Knowledge Engineering Review
+10.1017/s0269888920000065,"Ontology engineering methodologies for the evolution of living and reused ontologies: status, trends, findings and recommendations",Konstantinos I. Kotis and George A. Vouros and Dimitris Spiliotopoulos,2020,29,The Knowledge Engineering Review
+10.1017/s0269888909990361,Toward an integrated knowledge discovery and data mining process model,Sumana Sharma and Kweku-Muata Osei-Bryson,2010,18,The Knowledge Engineering Review
+10.1017/s0269888913000428,A theory of complex adaptive inquiring organizations: application to continuous assurance of corporate financial information,John R. Kuhn and James F. Courtney and Bonnie Morris,2015,4,The Knowledge Engineering Review
+10.1017/s0269888921000102,Contrastive explanation: a structural-model approach,Tim Miller,2021,13,The Knowledge Engineering Review
+10.1017/s026988890100008x,Review of information and the state of the art of knowledge management practices in the construction industry,YACINE REZGUI,2001,38,The Knowledge Engineering Review
+10.1017/s0269888903000638,A survey on the use of relevance feedback for information access systems,IAN RUTHVEN and MOUNIA LALMAS,2003,246,The Knowledge Engineering Review
+10.1017/s0269888906000397,User profiling in personal information agents: a survey,DANIELA GODOY and ANALIA AMANDI,2005,54,The Knowledge Engineering Review
+10.1017/s0269888912000331,A survey of frequent subgraph mining algorithms,Chuntao Jiang and Frans Coenen and Michele Zito,2013,186,The Knowledge Engineering Review
+10.1017/s0269888902000462,Overview and analysis of methodologies for building ontologies,MARIANO FERNÁNDEZ-LÓPEZ and ASUNCIÓN GÓMEZ-PÉREZ,2002,141,The Knowledge Engineering Review
+10.1017/s0269888908001367,Ontology change: classification and survey,GIORGOS FLOURIS and DIMITRIS MANAKANATAS and HARIDIMOS KONDYLAKIS and DIMITRIS PLEXOUSAKIS and GRIGORIS ANTONIOU,2008,154,The Knowledge Engineering Review
+10.1017/s0269888905000305,Towards a new synthesis of ontology technology and knowledge management,PETER MIKA and HANS AKKERMANS,2004,13,The Knowledge Engineering Review
+10.1017/s0269888904000098,Argumentation-based negotiation,IYAD RAHWAN and SARVAPALI D. RAMCHURN and NICHOLAS R. JENNINGS and PETER McBURNEY and SIMON PARSONS and LIZ SONENBERG,2003,287,The Knowledge Engineering Review
 10.1017/s0269888902000498,Operating procedure synthesis: science or art,RAFAEL BATRES and JAMES SOUTTER and STEVEN P. ASPREY and PAUL CHUNG,2002,13,The Knowledge Engineering Review
 10.1017/s0269888912000318,KER volume 27 issue 4 Cover and Front matter,,2012,0,The Knowledge Engineering Review
 10.1017/s0269888909990075,Detecting similarities in antipattern ontologies using semantic social networks: implications for software project management,Dimitrios L. Settas and Sulayman K. Sowe and Ioannis G. Stamelos,2009,6,The Knowledge Engineering Review
@@ -565,7 +565,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1017/s0269888909990269,Self-Organizing Neural Networks in the Characterization of Interstitial Lung Diseases in Chest Radiographs,Paulo Eduardo Ambrósio,2009,0,The Knowledge Engineering Review
 10.1017/s0269888908000088,"Eric Klopper 2008. Augmented Learning: Research and Design of Mobile Educational Games by MIT Press 251 pp., $35.00, ISBN 978-262-11315-1",Simon Parsons,2008,0,The Knowledge Engineering Review
 10.1017/s0269888909990312,A Framework for Summarization of Multi-topic Web Sites,Yongzheng Zhang,2009,0,The Knowledge Engineering Review
-10.1017/s026988891500020x,A reinforcement learning approach to coordinate exploration with limited communication in continuous action games,Abdel Rodríguez and Peter Vrancx and Ricardo Grau and Ann Nowé,2016,1,The Knowledge Engineering Review
 10.1017/s026988890200036x,Ontologies and text retrieval,JAMES MAYFIELD,2002,6,The Knowledge Engineering Review
 10.1017/s0269888909000162,"The Robotics Primer by Maja J. Matarić, MIT Press, 306 pp., $30.00, ISBN 978-0-262-63354-3",Simon Parsons,2009,0,The Knowledge Engineering Review
 10.1017/s0269888910000147,KER volume 25 issue 3 Cover and Back matter,,2010,0,The Knowledge Engineering Review
@@ -584,28 +583,30 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1017/s0269888909990166,Recent research advances in Reinforcement Learning in Spoken Dialogue Systems,Matthew Frampton and Oliver Lemon,2009,21,The Knowledge Engineering Review
 10.1017/s0269888910000111,KER volume 25 issue 2 Cover and Front matter,,2010,0,The Knowledge Engineering Review
 10.1017/s0269888908000064,Abstracts of Recent PhDs,,2008,0,The Knowledge Engineering Review
-10.1017/s0269888913000283,Visuo: A model of visuospatial instantiation of quantitative magnitudes,Jonathan Gagné and Jim Davies,2013,1,The Knowledge Engineering Review
-10.1017/s0269888911000142,A Web-accessible distributed data warehouse for brain tumour diagnosis,Francesc Estanyol and Xavier Rafael and Roman Roset and Miguel Lurgi and Mariola Mier and Magi Lluch-Ariet,2011,3,The Knowledge Engineering Review
-10.1017/s026988891300012x,"Semantic Web for the Working Ontologist, Second dition: Effective modeling in RDFS and OWL by Dean Allemang and James Hendler, Morgan Kaufmann, 384 pp., $55, ISBN 0-123-85965-4",Mihály Héder,2014,0,The Knowledge Engineering Review
 10.1017/s0269888912000379,Preface to special issue on Knowledge Engineering for Planning and Scheduling,Roman Barták and Simone Fratini and Thomas Leo McCluskey,2013,0,The Knowledge Engineering Review
 10.1017/s0269888907001105,Abstracts of Recent PhDs,,2007,0,The Knowledge Engineering Review
 10.1017/s0269888909000253,From the journals…,,2009,0,The Knowledge Engineering Review
 10.1017/s0269888903000535,From the journals …,,2002,1,The Knowledge Engineering Review
 10.1017/s0269888910000305,KER volume 25 issue 4 Cover and Front matter,,2010,0,The Knowledge Engineering Review
+10.1017/s0269888913000283,Visuo: A model of visuospatial instantiation of quantitative magnitudes,Jonathan Gagné and Jim Davies,2013,1,The Knowledge Engineering Review
+10.1017/s0269888911000142,A Web-accessible distributed data warehouse for brain tumour diagnosis,Francesc Estanyol and Xavier Rafael and Roman Roset and Miguel Lurgi and Mariola Mier and Magi Lluch-Ariet,2011,3,The Knowledge Engineering Review
+10.1017/s026988891300012x,"Semantic Web for the Working Ontologist, Second dition: Effective modeling in RDFS and OWL by Dean Allemang and James Hendler, Morgan Kaufmann, 384 pp., $55, ISBN 0-123-85965-4",Mihály Héder,2014,0,The Knowledge Engineering Review
 10.1017/s0269888904220203,"Principles of Data Mining by David J. Hand, Heikki Mannila and Padhraic Smyth, MIT Press, 546 pp., £34.50, ISBN 0-262-08290-X",Simon Parsons,2004,0,The Knowledge Engineering Review
 10.1017/s0269888910000160,Validation and verification issues in a timeline-based planning system,Amedeo Cesta and Alberto Finzi and Simone Fratini and Andrea Orlandini and Enrico Tronci,2010,11,The Knowledge Engineering Review
+10.1017/s0269888919000225,Artificial intelligence for team sports: a survey,Ryan Beal and Timothy J. Norman and Sarvapali D. Ramchurn,2019,27,The Knowledge Engineering Review
+10.1017/s0269888912000392,The PORSCE II framework: using AI planning for automated Semantic Web service composition,Ourania Hatzi and Dimitris Vrakas and Nick Bassiliades and Dimosthenis Anagnostopoulos and Ioannis Vlahavas,2013,25,The Knowledge Engineering Review
 10.1017/s0269888913000295,Reasoning with visual metaphors,James W. McAllister,2013,7,The Knowledge Engineering Review
 10.1017/s0269888904000244,An agent-mediated approach to the support of knowledge sharing in organizations,VIRGINIA DIGNUM and FRANK DIGNUM and JOHN-JULES MEYER,2004,21,The Knowledge Engineering Review
 10.1017/s0269888906000890,Policy-based techniques for self-managing parallel applications,RICHARD ANTHONY,2006,2,The Knowledge Engineering Review
 10.1017/s0269888901000169,Multi-agent systems research into the 21st century,MARK D'INVERNO and MICHAEL LUCK and n.m. UKMAS 2001 Contributors,2001,3,The Knowledge Engineering Review
-10.1017/s0269888901000236,Agent-oriented approaches to B2B interoperability,M. BRIAN BLAKE,2001,11,The Knowledge Engineering Review
 10.1017/s026988891200029x,An overview of the phrase-based statistical machine translation techniques,Marta Ruiz Costa-jussà,2012,3,The Knowledge Engineering Review
-10.1017/s0269888916000059,A survey on fuzzy ontologies for the Semantic Web,Fu Zhang and Jingwei Cheng and Zongmin Ma,2016,19,The Knowledge Engineering Review
 10.1017/s0269888918000140,EvoRDF: evolving the exploration of ontology evolution,Haridimos Kondylakis and Nikos Papadakis,2018,8,The Knowledge Engineering Review
+10.1017/s0269888905220386,"Ant Colony Optimization by Marco Dorigo and Thomas Stützle, MIT Press, 305 pp., $40.00, ISBN 0-262-04219-3",Simon Parsons,2005,18,The Knowledge Engineering Review
 10.1017/s0269888919000201,The average speed of motion and optimal power consumption in biped robots,Vida Shams Esfanabadi and Mostafa Rostami and Seyed Mohammadali Rahmati and Jacky Baltes and Soroush Sadeghnejad,2019,1,The Knowledge Engineering Review
 10.1017/s0269888918000267,Monitoring norms: a multi-disciplinary perspective,Mehdi Dastani and Paolo Torroni and Neil Yorke-Smith,2018,7,The Knowledge Engineering Review
 10.1017/s026988891300009x,Repeated games for multiagent systems: a survey,Andriy Burkov and Brahim Chaib-Draa,2014,5,The Knowledge Engineering Review
 10.1017/s0269888920000259,Orchestrating DDoS mitigation via blockchain-based network provider collaborations,Adam Pavlidis and Marinos Dimolianis and Kostas Giotis and Loukas Anagnostou and Nikolaos Kostopoulos and Theocharis Tsigkritis and Ilias Kotinas and Dimitrios Kalogeras and Vasilis Maglaris,2020,7,The Knowledge Engineering Review
+10.1017/s0269888901000285,Hybrid argumentation systems for structured news reports,ANTHONY HUNTER,2001,10,The Knowledge Engineering Review
 10.1017/s0269888904000050,Using ontologies to aid navigation planning in autonomous vehicles,CRAIG SCHLENOFF and STEPHEN BALAKIRSKY and MIKE USCHOLD and RON PROVINE and SCOTT SMITH,2003,18,The Knowledge Engineering Review
 10.1017/s0269888920000235,Adaptable and stable decentralized task allocation for hierarchical domains,Vera A. Kazakova and Gita R. Sukthankar,2020,1,The Knowledge Engineering Review
 10.1017/s0269888901000157,The control of reasoning in resource-bounded agents,MARTIJN SCHUT and MICHAEL WOOLDRIDGE,2001,16,The Knowledge Engineering Review
@@ -616,26 +617,25 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1017/s0269888913000088,Model-driven development of multiagent systems: a survey and evaluation,Geylani Kardas,2013,14,The Knowledge Engineering Review
 10.1017/s0269888915000065,Computational logics and verification techniques of multi-agent commitments: survey,Mohamed El Menshawy and Jamal Bentahar and Warda El Kholy and Pinar Yolum and Rachida Dssouli,2015,5,The Knowledge Engineering Review
 10.1017/s0269888909990300,Domain Ontology Learning from the Web,David Sánchez,2009,12,The Knowledge Engineering Review
-10.1017/s0269888908001379,User-centered evaluation of adaptive and adaptable systems: a literature review,LEX VAN VELSEN and THEA VAN DER GEEST and ROB KLAASSEN and MICHAËL STEEHOUDER,2008,86,The Knowledge Engineering Review
-10.1017/s0269888913000118,A review on agent-based technology for traffic and transportation,Ana L. C. Bazzan and Franziska Klügl,2014,160,The Knowledge Engineering Review
-10.1017/s026988891800036x,Data preprocessing in predictive data mining,Stamatios-Aggelos N. Alexandropoulos and Sotiris B. Kotsiantis and Michael N. Vrahatis,2019,39,The Knowledge Engineering Review
 10.1017/s0269888906220745,"Introduction to Machine Learning by Ethem Alpaydin, MIT Press, 0-262-01211-1, 400 pp., $50.00/£32.95",Simon Parsons,2005,9,The Knowledge Engineering Review
 10.1017/s0269888910000056,"Introduction to Machine Learning, Second Editon by Ethem Alpaydin, MIT Press, 584 pp., $55.00. ISBN 978-0-262-01243-0",Simon Parsons,2010,4,The Knowledge Engineering Review
+10.1017/s0269888914000022,Exploiting personal web servers for mobile context-aware applications,Andrés Fortier and Cecilia Challiol and Juan Lautaro Fernández and Santiago Robles and Gustavo Rossi and Silvia Gordillo,2014,3,The Knowledge Engineering Review
 10.1017/s0269888912000367,"Norms, organizations, and semantics",Olivier Boissier and Marco Colombetti and Michael Luck and John-Jules Meyer and Axel Polleres,2013,3,The Knowledge Engineering Review
 10.1017/s026988891100018x,Review of the state of the art: discovering and associating semantics to tags in folksonomies,Andrés García-Silva and Oscar Corcho and Harith Alani and Asunción Gómez-Pérez,2012,33,The Knowledge Engineering Review
 10.1017/s0269888905000251,An overview of methods and tools for ontology learning from texts,ASUNCIÓN GÓMEZ-PÉREZ and DAVID MANZANO-MACHO,2004,46,The Knowledge Engineering Review
 10.1017/s026988890999018x,Computer-assisted assessment of free-text answers,Diana Pérez-Marín and Ismael Pascual-Nieto and Pilar Rodríguez,2009,29,The Knowledge Engineering Review
 10.1017/s0269888912000124,On the scientific status of economic policy: a tale of alternative paradigms,Giorgio Fagiolo and Andrea Roventini,2012,22,The Knowledge Engineering Review
 10.1017/s0269888912000100,Agent-based computational economics: a short introduction,Matteo G. Richiardi,2012,23,The Knowledge Engineering Review
-10.1017/s0269888919000237,A review and comparison of ontology-based approaches to robot autonomy,Alberto Olivares-Alarcos and Daniel Beßler and Alaa Khamis and Paulo Goncalves and Maki K. Habib and Julita Bermejo-Alonso and Marcos Barreto and Mohammed Diab and Jan Rosell and João Quintas and Joanna Olszewska and Hirenkumar Nakawala and Edison Pignaton and Amelie Gyrard and Stefano Borgo and Guillem Alenyà and Michael Beetz and Howard Li,2019,42,The Knowledge Engineering Review
-10.1017/s0269888901000285,Hybrid argumentation systems for structured news reports,ANTHONY HUNTER,2001,10,The Knowledge Engineering Review
-10.1017/s0269888912000392,The PORSCE II framework: using AI planning for automated Semantic Web service composition,Ourania Hatzi and Dimitris Vrakas and Nick Bassiliades and Dimosthenis Anagnostopoulos and Ioannis Vlahavas,2013,24,The Knowledge Engineering Review
-10.1017/s0269888906000622,Medical applications in case-based reasoning,ALEC HOLT and ISABELLE BICHINDARITZ and RAINER SCHMIDT and PETRA PERNER,2005,107,The Knowledge Engineering Review
-10.1017/s0269888905220386,"Ant Colony Optimization by Marco Dorigo and Thomas Stützle, MIT Press, 305 pp., $40.00, ISBN 0-262-04219-3",Simon Parsons,2005,18,The Knowledge Engineering Review
-10.1017/s0269888914000022,Exploiting personal web servers for mobile context-aware applications,Andrés Fortier and Cecilia Challiol and Juan Lautaro Fernández and Santiago Robles and Gustavo Rossi and Silvia Gordillo,2014,3,The Knowledge Engineering Review
-10.1017/s0269888906000646,"Retrieval, reuse, revision and retention in case-based reasoning",RAMON LOPEZ DE MANTARAS and DAVID MCSHERRY and DEREK BRIDGE and DAVID LEAKE and BARRY SMYTH and SUSAN CRAW and BOI FALTINGS and MARY LOU MAHER and MICHAEL T COX and KENNETH FORBUS and MARK KEANE and AGNAR AAMODT and IAN WATSON,2005,328,The Knowledge Engineering Review
-10.1017/s0269888900003039,Building large-scale Bayesian networks,MARTIN NEIL and NORMAN FENTON and LARS NIELSON,2000,170,The Knowledge Engineering Review
-10.1017/s0269888913000155,A survey of commonly used ensemble-based classification techniques,Anna Jurek and Yaxin Bi and Shengli Wu and Chris Nugent,2014,48,The Knowledge Engineering Review
 10.1017/s0269888909000125,Effective use of ontologies in software measurement,Félix García and Francisco Ruiz and Coral Calero and Manuel F. Bertoa and Antonio Vallecillo and Beatriz Mora and Mario Piattini,2009,24,The Knowledge Engineering Review
-10.1017/s0269888912000057,Independent reinforcement learners in cooperative Markov games: a survey regarding coordination problems,Laetitia Matignon and Guillaume J. Laurent and Nadine Le Fort-Piat,2012,152,The Knowledge Engineering Review
-10.1017/s0269888919000225,Artificial intelligence for team sports: a survey,Ryan Beal and Timothy J. Norman and Sarvapali D. Ramchurn,2019,27,The Knowledge Engineering Review
+10.1017/s0269888916000059,A survey on fuzzy ontologies for the Semantic Web,Fu Zhang and Jingwei Cheng and Zongmin Ma,2016,19,The Knowledge Engineering Review
+10.1017/s0269888906000646,"Retrieval, reuse, revision and retention in case-based reasoning",RAMON LOPEZ DE MANTARAS and DAVID MCSHERRY and DEREK BRIDGE and DAVID LEAKE and BARRY SMYTH and SUSAN CRAW and BOI FALTINGS and MARY LOU MAHER and MICHAEL T COX and KENNETH FORBUS and MARK KEANE and AGNAR AAMODT and IAN WATSON,2005,328,The Knowledge Engineering Review
+10.1017/s0269888912000057,Independent reinforcement learners in cooperative Markov games: a survey regarding coordination problems,Laetitia Matignon and Guillaume J. Laurent and Nadine Le Fort-Piat,2012,155,The Knowledge Engineering Review
+10.1017/s026988891500020x,A reinforcement learning approach to coordinate exploration with limited communication in continuous action games,Abdel Rodríguez and Peter Vrancx and Ricardo Grau and Ann Nowé,2016,1,The Knowledge Engineering Review
+10.1017/s0269888913000155,A survey of commonly used ensemble-based classification techniques,Anna Jurek and Yaxin Bi and Shengli Wu and Chris Nugent,2014,49,The Knowledge Engineering Review
+10.1017/s026988891800036x,Data preprocessing in predictive data mining,Stamatios-Aggelos N. Alexandropoulos and Sotiris B. Kotsiantis and Michael N. Vrahatis,2019,42,The Knowledge Engineering Review
+10.1017/s0269888901000236,Agent-oriented approaches to B2B interoperability,M. BRIAN BLAKE,2001,12,The Knowledge Engineering Review
+10.1017/s0269888908001379,User-centered evaluation of adaptive and adaptable systems: a literature review,LEX VAN VELSEN and THEA VAN DER GEEST and ROB KLAASSEN and MICHAËL STEEHOUDER,2008,86,The Knowledge Engineering Review
+10.1017/s0269888919000237,A review and comparison of ontology-based approaches to robot autonomy,Alberto Olivares-Alarcos and Daniel Beßler and Alaa Khamis and Paulo Goncalves and Maki K. Habib and Julita Bermejo-Alonso and Marcos Barreto and Mohammed Diab and Jan Rosell and João Quintas and Joanna Olszewska and Hirenkumar Nakawala and Edison Pignaton and Amelie Gyrard and Stefano Borgo and Guillem Alenyà and Michael Beetz and Howard Li,2019,42,The Knowledge Engineering Review
+10.1017/s0269888913000118,A review on agent-based technology for traffic and transportation,Ana L. C. Bazzan and Franziska Klügl,2014,163,The Knowledge Engineering Review
+10.1017/s0269888906000622,Medical applications in case-based reasoning,ALEC HOLT and ISABELLE BICHINDARITZ and RAINER SCHMIDT and PETRA PERNER,2005,108,The Knowledge Engineering Review
+10.1017/s0269888900003039,Building large-scale Bayesian networks,MARTIN NEIL and NORMAN FENTON and LARS NIELSON,2000,171,The Knowledge Engineering Review

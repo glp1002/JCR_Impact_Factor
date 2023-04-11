@@ -3,7 +3,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1023/a:1017482326325,n.m.,,2002,0,Journal of Automated Reasoning
 10.1007/s10817-015-9349-x,Reverse Complexity,Andrea Asperti,2015,0,Journal of Automated Reasoning
 10.1007/bf03177741,Obituary,Deepak Kapur,2004,0,Journal of Automated Reasoning
-10.1007/s10817-015-9326-4,Automated Theorem Proving in GeoGebra: Current Achievements,Francisco Botana and Markus Hohenwarter and Predrag Janičić and Zoltán Kovács and Ivan Petrović and Tomás Recio and Simon Weitzhofer,2015,66,Journal of Automated Reasoning
 10.1007/s10817-010-9201-2,E-unification with Constants vs. General E-unification,Jan Otop,2012,2,Journal of Automated Reasoning
 10.1007/s10817-005-9020-z,Toward Automating the Discovery of Decreasing Measures,Robert S. Boyer and Wilfred J. Legato and Victor W. Marek,2006,0,Journal of Automated Reasoning
 10.1007/s10817-006-9027-0,"“Rippling: Meta-Level Guidance for Mathematical Reasoning,” by Alan Bundy, David Basin, Dieter Hutter, and Andrew Ireland, Cambridge University Press, 2005",Nimish Shah,2006,0,Journal of Automated Reasoning
@@ -11,23 +10,37 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10817-009-9158-1,Preface: Special Issue on Uncertain Reasoning,Yang Xiang and Kevin Grant,2010,1,Journal of Automated Reasoning
 10.1007/s10817-011-9220-7,Encoding Abstract Syntax Without Fresh Names,Matthew R. Lakin and Andrew M. Pitts,2012,1,Journal of Automated Reasoning
 10.1023/a:1017317122485,n.m.,,2001,0,Journal of Automated Reasoning
-10.1007/s10817-022-09650-2,Formalising Szemerédi’s Regularity Lemma and Roth’s Theorem on Arithmetic Progressions in Isabelle/HOL,Chelsea Edmonds and Angeliki Koutsoukou-Argyraki and Lawrence C. Paulson,2023,0,Journal of Automated Reasoning
+10.1007/s10817-018-9469-1,Canonicity for Cubical Type Theory,Simon Huber,2019,8,Journal of Automated Reasoning
+10.1007/s10817-018-9455-7,"A Verified SAT Solver Framework with Learn, Forget, Restart, and Incrementality",Jasmin Christian Blanchette and Mathias Fleury and Peter Lammich and Christoph Weidenbach,2018,16,Journal of Automated Reasoning
+10.1007/s10817-016-9361-9,Completeness and Decidability Results for CTL in Constructive Type Theory,Christian Doczkal and Gert Smolka,2016,5,Journal of Automated Reasoning
+10.1007/s10817-017-9421-9,"Verifying Relative Safety, Accuracy, and Termination for Program Approximations",Shaobo He and Shuvendu K. Lahiri and Zvonimir Rakamarić,2018,9,Journal of Automated Reasoning
+10.1007/s10817-019-09539-7,Formal Reasoning Under Cached Address Translation,Hira Taqdees Syeda and Gerwin Klein,2020,6,Journal of Automated Reasoning
+10.1007/s10817-014-9304-2,Absorption for ABoxes,Jiewen Wu and Alexander Hudek and David Toman and Grant Weddell,2014,2,Journal of Automated Reasoning
+10.1007/s10817-020-09571-y,ICE-Based Refinement Type Discovery for Higher-Order Functional Programs,Adrien Champion and Tomoya Chiba and Naoki Kobayashi and Ryosuke Sato,2020,10,Journal of Automated Reasoning
+10.1007/s10817-005-5204-9,Combining Nonstably Infinite Theories,Cesare Tinelli and Calogero G. Zarba,2005,45,Journal of Automated Reasoning
+10.1007/s10817-009-9122-0,Formal Memory Models for the Verification of Low-Level Operating-System Code,Hendrik Tews and Marcus Völp and Tjark Weber,2009,15,Journal of Automated Reasoning
+10.1007/s10817-006-9035-0,A Framework for Verifying Bit-Level Pipelined Machines Based on Automated Deduction and Decision Procedures,Panagiotis Manolios and Sudarshan K. Srinivasan,2007,10,Journal of Automated Reasoning
+10.1007/s10817-016-9362-8,A Learning-Based Fact Selector for Isabelle/HOL,Jasmin Christian Blanchette and David Greenaway and Cezary Kaliszyk and Daniel Kühlwein and Josef Urban,2016,24,Journal of Automated Reasoning
+10.1023/b:jars.0000009505.07087.34,Partial Functions in ACL2,Panagiotis Manolios and J Strother Moore,2003,30,Journal of Automated Reasoning
+10.1007/s10817-006-9061-y,Reasoning about Object-based Calculi in (Co)Inductive Type Theory and the Theory of Contexts,Alberto Ciaffaglione and Luigi Liquori and Marino Miculan,2007,7,Journal of Automated Reasoning
+10.1007/s10817-015-9326-4,Automated Theorem Proving in GeoGebra: Current Achievements,Francisco Botana and Markus Hohenwarter and Predrag Janičić and Zoltán Kovács and Ivan Petrović and Tomás Recio and Simon Weitzhofer,2015,66,Journal of Automated Reasoning
+10.1023/a:1021987403425,n.m.,Yves Bertot and Nicolas Magaud and Paul Zimmermann,2002,16,Journal of Automated Reasoning
 10.1023/b:jars.0000030010.90643.41,Top-Down Query Processing in First-Order Deductive Databases under the DWFS,C. A. Johnson,2004,0,Journal of Automated Reasoning
 10.1007/s10817-018-09500-0,Selected Extended Papers of ITP 2017,Mauricio Ayala-Rincón and César Muñoz,2019,0,Journal of Automated Reasoning
 10.1007/s10817-008-9106-5,Computing Only Minimal Answers in Disjunctive Deductive Databases,C. A. Johnson,2009,0,Journal of Automated Reasoning
 10.1007/s10817-015-9353-1,Quantifier Reordering for QBF,Friedrich Slivovsky and Stefan Szeider,2016,6,Journal of Automated Reasoning
-10.1007/s10817-007-9071-4,A Graphical User Interface for Formal Proofs in Geometry,Julien Narboux,2007,27,Journal of Automated Reasoning
-10.1023/a:1017584715408,n.m.,Michael L. Littman and Stephen M. Majercik and Toniann Pitassi,2001,58,Journal of Automated Reasoning
-10.1023/b:jars.0000009518.26415.49,Abstract Congruence Closure,Leo Bachmair and Ashish Tiwari and Laurent Vigneron,2003,36,Journal of Automated Reasoning
-10.1007/s10817-006-9064-8,Tree Tuple Languages from the Logic Programming Point of View,Sébastien Limet and Gernot Salzer,2007,4,Journal of Automated Reasoning
-10.1007/s10817-020-09578-5,"Higher-Order Quantifier Elimination, Counter Simulations and Fault-Tolerant Systems",Silvio Ghilardi and Elena Pagani,2021,0,Journal of Automated Reasoning
-10.1007/s10817-018-9476-2,Effect Polymorphism in Higher-Order Logic (Proof Pearl),Andreas Lochbihler,2019,1,Journal of Automated Reasoning
-10.1007/s10817-020-09571-y,ICE-Based Refinement Type Discovery for Higher-Order Functional Programs,Adrien Champion and Tomoya Chiba and Naoki Kobayashi and Ryosuke Sato,2020,10,Journal of Automated Reasoning
-10.1007/s10817-005-5204-9,Combining Nonstably Infinite Theories,Cesare Tinelli and Calogero G. Zarba,2005,45,Journal of Automated Reasoning
-10.1007/s10817-021-09594-z,Human-Centered Automated Proof Search,Wilfried Sieg and Farzaneh Derakhshan,2021,1,Journal of Automated Reasoning
 10.1007/s10817-018-9495-z,An Isabelle/HOL Formalisation of Green’s Theorem,Mohammad Abdulaziz and Lawrence C. Paulson,2019,3,Journal of Automated Reasoning
 10.1007/s10817-010-9165-2,A Formalization of the Knuth–Bendix(–Huet) Critical Pair Theorem,André L. Galdino and Mauricio Ayala-Rincón,2010,10,Journal of Automated Reasoning
 10.1007/s10817-019-09528-w,Formalizing the Cox–Ross–Rubinstein Pricing of European Derivatives in Isabelle/HOL,Mnacho Echenim and Hervé Guiol and Nicolas Peltier,2020,1,Journal of Automated Reasoning
+10.1007/s10817-021-09604-0,Experiences from Exporting Major Proof Assistant Libraries,Michael Kohlhase and Florian Rabe,2021,1,Journal of Automated Reasoning
+10.1023/b:jars.0000021013.61329.58,A Trustworthy Proof Checker,Andrew W. Appel and Neophytos Michael and Aaron Stump and Roberto Virga,2003,14,Journal of Automated Reasoning
+10.1007/s10817-016-9372-6,A Decision Procedure for (Co)datatypes in SMT Solvers,Andrew Reynolds and Jasmin Christian Blanchette,2017,11,Journal of Automated Reasoning
+10.1007/s10817-016-9393-1,An Approximation Framework for Solvers and Decision Procedures,Aleksandar Zeljić and Christoph M. Wintersteiger and Philipp Rümmer,2017,4,Journal of Automated Reasoning
+10.1007/s10817-020-09584-7,Certified Quantum Computation in Isabelle/HOL,Anthony Bordg and Hanna Lachnitt and Yijun He,2021,3,Journal of Automated Reasoning
+10.1007/s10817-020-09578-5,"Higher-Order Quantifier Elimination, Counter Simulations and Fault-Tolerant Systems",Silvio Ghilardi and Elena Pagani,2021,0,Journal of Automated Reasoning
+10.1007/s10817-018-9476-2,Effect Polymorphism in Higher-Order Logic (Proof Pearl),Andreas Lochbihler,2019,1,Journal of Automated Reasoning
+10.1007/s10817-015-9339-z,Formal Proofs of Rounding Error Bounds,Pierre Roux,2016,8,Journal of Automated Reasoning
+10.1007/s10817-021-09594-z,Human-Centered Automated Proof Search,Wilfried Sieg and Farzaneh Derakhshan,2021,1,Journal of Automated Reasoning
 10.1007/s10817-017-9435-3,Generalizing Morley’s and Other Theorems with Automated Realization,Eric Braude and Satbek Abdyldayev,2018,0,Journal of Automated Reasoning
 10.1023/a:1006407208923,n.m.,F. Giunchiglia and P. Pecchiari and C. Talcott,2001,3,Journal of Automated Reasoning
 10.1007/s10817-010-9180-3,Preface,Alessandro Armando and Peter Baumgartner and Gilles Dowek,2010,0,Journal of Automated Reasoning
@@ -36,40 +49,35 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10817-012-9251-8,"“Handbook of Practical Logic and Automated Reasoning,” by John R. Harrison, Cambridge University Press, 2009",Freek Wiedijk,2012,1,Journal of Automated Reasoning
 10.1023/a:1022527914293,n.m.,Fairouz Kamareddine and Haiyan Qiao,2003,0,Journal of Automated Reasoning
 10.1007/s10817-013-9290-9,On Automation in the Verification of Software Barriers: Experience Report,Alexander Malkis and Anindya Banerjee,2014,2,Journal of Automated Reasoning
+10.1007/s10817-020-09542-3,The 2D Dependency Pair Framework for Conditional Rewrite Systems—Part II: Advanced Processors and Implementation Techniques,Salvador Lucas and José Meseguer and Raúl Gutiérrez,2020,4,Journal of Automated Reasoning
+10.1007/s10817-022-09634-2,Fast Left Kan Extensions Using the Chase,Joshua Meyers and David I. Spivak and Ryan Wisnesky,2022,0,Journal of Automated Reasoning
+10.1007/s10817-010-9206-x,Proof Pearl: A Formal Proof of Dally and Seitz’ Necessary and Sufficient Condition for Deadlock-Free Routing in Interconnection Networks,Freek Verbeek and Julien Schmaltz,2012,4,Journal of Automated Reasoning
 10.1023/b:jars.0000009622.67092.8d,Announcement,Deepak Kapur,2003,0,Journal of Automated Reasoning
 10.1007/s10817-020-09583-8,Schematic Refutations of Formula Schemata,David M. Cerna and Alexander Leitsch and Anela Lolic,2021,1,Journal of Automated Reasoning
 10.1007/s10817-014-9315-z,Erratum to : Learning-Assisted Automated Reasoning with Flyspeck,Cezary Kaliszyk and Josef Urban,2015,0,Journal of Automated Reasoning
-10.1007/s10817-010-9178-x,Proof Pearl: a Formal Proof of Higman’s Lemma in ACL2,Francisco Jesús Martín-Mateos and José Luis Ruiz-Reina and José Antonio Alonso and María José Hidalgo,2011,2,Journal of Automated Reasoning
-10.1007/s10817-007-9092-z,On Keys and Functional Dependencies as First-Class Citizens in Description Logics,David Toman and Grant Weddell,2008,36,Journal of Automated Reasoning
 10.1023/a:1017348505647,n.m.,,2001,0,Journal of Automated Reasoning
 10.1007/s10817-017-9412-x,A Formalization of Metric Spaces in HOL Light,Marco Maggesi,2018,2,Journal of Automated Reasoning
 10.1007/s10817-005-9002-1,The SAT-based Approach to Separation Logic,Alessandro Armando and Claudio Castellini and Enrico Giunchiglia and Marco Maratea,2006,1,Journal of Automated Reasoning
 10.1007/s10817-010-9210-1,A Family of Dynamic Description Logics for Representing and Reasoning About Actions,Liang Chang and Zhongzhi Shi and Tianlong Gu and Lingzhong Zhao,2012,24,Journal of Automated Reasoning
-10.1007/s10817-020-09584-7,Certified Quantum Computation in Isabelle/HOL,Anthony Bordg and Hanna Lachnitt and Yijun He,2021,3,Journal of Automated Reasoning
 10.1007/s10817-009-9142-9,HOL-Boogie—An Interactive Prover-Backend for the Verifying C Compiler,Sascha Böhme and Michał Moskal and Wolfram Schulte and Burkhart Wolff,2010,14,Journal of Automated Reasoning
 10.1007/s10817-011-9217-2,"Preface: Theory and Applications of Abstraction, Substitution and Naming",Maribel Fernández and Christian Urban,2012,2,Journal of Automated Reasoning
 10.1007/s10817-018-9491-3,Preface: Special Issue on Homotopy Type Theory and Univalent Foundations,Peter Lefanu Lumsdaine and Nicolas Tabareau,2019,0,Journal of Automated Reasoning
-10.1007/s10817-009-9122-0,Formal Memory Models for the Verification of Low-Level Operating-System Code,Hendrik Tews and Marcus Völp and Tjark Weber,2009,15,Journal of Automated Reasoning
 10.1007/s10817-007-9066-1,A Decision Procedure for Linear “Big O” Equations,Jeremy Avigad and Kevin Donnelly,2007,2,Journal of Automated Reasoning
-10.1007/s10817-019-09539-7,Formal Reasoning Under Cached Address Translation,Hira Taqdees Syeda and Gerwin Klein,2020,6,Journal of Automated Reasoning
+10.1007/s10817-010-9168-z,ABox Abduction in the Description Logic $\boldsymbol{\mathcal{ALC}}$,Szymon Klarman and Ulle Endriss and Stefan Schlobach,2011,25,Journal of Automated Reasoning
+10.1007/s10817-016-9400-6,Rely-Guarantee Termination and Cost Analyses of Loops with Concurrent Interleavings,Elvira Albert and Antonio Flores-Montoya and Samir Genaim and Enrique Martin-Martin,2017,5,Journal of Automated Reasoning
+10.1007/s10817-016-9398-9,Type-Based Cost Analysis for Lazy Functional Languages,Steffen Jost and Pedro Vasconcelos and Mário Florido and Kevin Hammond,2017,14,Journal of Automated Reasoning
 10.1007/s10817-007-9090-1,A Resolution-Based Decision Procedure for $\boldsymbol{\mathcal{SHOIQ}}$,Yevgeny Kazakov and Boris Motik,2008,22,Journal of Automated Reasoning
 10.1007/s10817-008-9111-8,Assumption–Commitment Support for CSP Model Checking,Nick Moffat and Michael Goldsmith,2008,1,Journal of Automated Reasoning
 10.1007/s10817-009-9125-x,On Process Equivalence = Equation Solving in CCS,Raúl Monroy and Alan Bundy and Ian Green,2009,1,Journal of Automated Reasoning
 10.1023/b:jars.0000044948.61098.6c,Preface,Deepak Kapur,2004,0,Journal of Automated Reasoning
 10.1007/s10817-019-09531-1,Preface to the Special Issue on Automated Reasoning Systems,Armin Biere and Cesare Tinelli and Christoph Weidenbach,2020,0,Journal of Automated Reasoning
-10.1007/s10817-010-9209-7,The Area Method,Predrag Janičić and Julien Narboux and Pedro Quaresma,2012,40,Journal of Automated Reasoning
 10.1007/bf03177742,Formal verification of a generic framework to synthesize SAT-provers,Francisco -Jesús Martín-Mateos and José -Antonio Alonso and María -José Hidalgo and José -Luis Ruiz-Reina,2004,8,Journal of Automated Reasoning
-10.1007/s10817-006-9035-0,A Framework for Verifying Bit-Level Pipelined Machines Based on Automated Deduction and Decision Procedures,Panagiotis Manolios and Sudarshan K. Srinivasan,2007,10,Journal of Automated Reasoning
-10.1023/b:jars.0000009505.07087.34,Partial Functions in ACL2,Panagiotis Manolios and J Strother Moore,2003,30,Journal of Automated Reasoning
-10.1007/s10817-016-9362-8,A Learning-Based Fact Selector for Isabelle/HOL,Jasmin Christian Blanchette and David Greenaway and Cezary Kaliszyk and Daniel Kühlwein and Josef Urban,2016,24,Journal of Automated Reasoning
-10.1007/s10817-006-9061-y,Reasoning about Object-based Calculi in (Co)Inductive Type Theory and the Theory of Contexts,Alberto Ciaffaglione and Luigi Liquori and Marino Miculan,2007,7,Journal of Automated Reasoning
-10.1007/s10817-016-9372-6,A Decision Procedure for (Co)datatypes in SMT Solvers,Andrew Reynolds and Jasmin Christian Blanchette,2017,11,Journal of Automated Reasoning
-10.1007/s10817-010-9211-0,SAT Solving for Termination Proofs with Recursive Path Orders and Dependency Pairs,Michael Codish and Jürgen Giesl and Peter Schneider-Kamp and René Thiemann,2012,13,Journal of Automated Reasoning
 10.1023/a:1021910531731,n.m.,,2002,2,Journal of Automated Reasoning
 10.1023/a:1006279127474,n.m.,R. Padmanabhan and P. Penner,2000,5,Journal of Automated Reasoning
 10.1007/s10817-018-9484-2,Call-by-Value Lambda Calculus as a Model of Computation in Coq,Yannick Forster and Gert Smolka,2019,0,Journal of Automated Reasoning
 10.1007/s10817-021-09603-1,Derivational Complexity and Context-Sensitive Rewriting,Salvador Lucas,2021,1,Journal of Automated Reasoning
 10.1023/a:1017344401104,n.m.,,2001,0,Journal of Automated Reasoning
+10.1007/s10817-017-9420-x,Synthesis of Obfuscation Policies to Ensure Privacy and Utility,Yi-Chin Wu and Vasumathi Raman and Blake C. Rawlings and Stéphane Lafortune and Sanjit A. Seshia,2018,21,Journal of Automated Reasoning
 10.1007/s10817-020-09585-6,Correction to: A Unifying View on SMT-Based Software Verification,Dirk Beyer and Matthias Dangl and Philipp Wendler,2021,0,Journal of Automated Reasoning
 10.1007/s10817-008-9100-y,A Resolution-Based Decision Procedure for $\boldsymbol{\mathcal{SHOIQ}}$,Yevgeny Kazakov and Boris Motik,2008,1,Journal of Automated Reasoning
 10.1007/s10817-014-9319-8,Symbolic Execution Proofs for Higher Order Store Programs,Bernhard Reus and Nathaniel Charlton and Ben Horsfall,2015,0,Journal of Automated Reasoning
@@ -80,75 +88,71 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10817-009-9128-7,Proof-Guided Test Selection from First-Order Specifications with Equality,Delphine Longuet and Marc Aiguier and Pascale Le Gall,2010,3,Journal of Automated Reasoning
 10.1007/s10817-009-9116-y,Proof Pearl: Mechanizing the Textbook Proof of Huffman’s Algorithm,Jasmin Christian Blanchette,2009,3,Journal of Automated Reasoning
 10.1023/a:1015736313131,n.m.,G. Sutcliffe and C. B. Suttner and F. J. Pelletier,2002,5,Journal of Automated Reasoning
-10.1007/s10817-017-9446-0,Toward Compositional Verification of Interruptible OS Kernels and Device Drivers,Hao Chen and Xiongnan Wu and Zhong Shao and Joshua Lockerman and Ronghui Gu,2018,2,Journal of Automated Reasoning
+10.1007/s10817-007-9084-z,Algorithms for Computing Minimal Unsatisfiable Subsets of Constraints,Mark H. Liffiton and Karem A. Sakallah,2008,188,Journal of Automated Reasoning
 10.1007/s10817-016-9370-8,On Preprocessing Techniques and Their Impact on Propositional Model Counting,Jean-Marie Lagniez and Pierre Marquis,2017,5,Journal of Automated Reasoning
-10.1007/s10817-011-9224-3,A Presheaf Environment for the Explicit Fusion Calculus,Filippo Bonchi and Maria Grazia Buscemi and Vincenzo Ciancia and Fabio Gadducci,2012,9,Journal of Automated Reasoning
-10.1007/s10817-010-9168-z,ABox Abduction in the Description Logic $\boldsymbol{\mathcal{ALC}}$,Szymon Klarman and Ulle Endriss and Stefan Schlobach,2011,25,Journal of Automated Reasoning
 10.1007/s10817-017-9418-4,Formal Verification of an Executable LTL Model Checker with Partial Order Reduction,Julian Brunner and Peter Lammich,2018,8,Journal of Automated Reasoning
-10.1007/s10817-016-9393-1,An Approximation Framework for Solvers and Decision Procedures,Aleksandar Zeljić and Christoph M. Wintersteiger and Philipp Rümmer,2017,4,Journal of Automated Reasoning
-10.1007/s10817-020-09542-3,The 2D Dependency Pair Framework for Conditional Rewrite Systems—Part II: Advanced Processors and Implementation Techniques,Salvador Lucas and José Meseguer and Raúl Gutiérrez,2020,4,Journal of Automated Reasoning
-10.1007/s10817-022-09634-2,Fast Left Kan Extensions Using the Chase,Joshua Meyers and David I. Spivak and Ryan Wisnesky,2022,0,Journal of Automated Reasoning
-10.1023/b:jars.0000021872.64036.41,Verification in the Classroom,Christoph Walther and Stephan Schweitzer,2004,11,Journal of Automated Reasoning
-10.1007/s10817-016-9379-z,A Formalisation in HOL of the Fundamental Theorem of Linear Algebra and Its Application to the Solution of the Least Squares Problem,Jesús Aransay and Jose Divasón,2017,3,Journal of Automated Reasoning
-10.1007/s10817-019-09526-y,A Verified Implementation of the Berlekamp–Zassenhaus Factorization Algorithm,Jose Divasón and Sebastiaan J. C. Joosten and René Thiemann and Akihisa Yamada,2020,2,Journal of Automated Reasoning
+10.1007/s10817-006-9064-8,Tree Tuple Languages from the Logic Programming Point of View,Sébastien Limet and Gernot Salzer,2007,4,Journal of Automated Reasoning
+10.1023/a:1017584715408,n.m.,Michael L. Littman and Stephen M. Majercik and Toniann Pitassi,2001,58,Journal of Automated Reasoning
+10.1007/s10817-010-9211-0,SAT Solving for Termination Proofs with Recursive Path Orders and Dependency Pairs,Michael Codish and Jürgen Giesl and Peter Schneider-Kamp and René Thiemann,2012,13,Journal of Automated Reasoning
+10.1007/s10817-022-09650-2,Formalising Szemerédi’s Regularity Lemma and Roth’s Theorem on Arithmetic Progressions in Isabelle/HOL,Chelsea Edmonds and Angeliki Koutsoukou-Argyraki and Lawrence C. Paulson,2023,0,Journal of Automated Reasoning
+10.1007/s10817-022-09652-0,Measuring the Readability of Geometric Proofs: The Area Method Case,Pedro Quaresma and Pierluigi Graziani,2023,0,Journal of Automated Reasoning
+10.1007/s10817-022-09657-9,Optimal Deterministic Controller Synthesis from Steady-State Distributions,Alvaro Velasquez and Ismail Alkhouri and K. Subramani and Piotr Wojciechowski and George Atia,2023,0,Journal of Automated Reasoning
+10.1007/s10817-007-9071-4,A Graphical User Interface for Formal Proofs in Geometry,Julien Narboux,2007,27,Journal of Automated Reasoning
+10.1007/s10817-006-9049-7,A Tableau Algorithm for Description Logics with Concrete Domains and General TBoxes,Carsten Lutz and Maja Miličić,2007,64,Journal of Automated Reasoning
 10.1023/a:1010759024900,n.m.,Robert McNaughton,2001,10,Journal of Automated Reasoning
 10.1007/s10817-020-09560-1,Building Strategies into QBF Proofs,Olaf Beyersdorff and Joshua Blinkhorn and Meena Mahajan,2021,2,Journal of Automated Reasoning
-10.1007/s10817-015-9339-z,Formal Proofs of Rounding Error Bounds,Pierre Roux,2016,8,Journal of Automated Reasoning
 10.1007/s10817-018-9449-5,The Flow of ODEs: Formalization of Variational Equation and Poincaré Map,Fabian Immler and Christoph Traut,2019,11,Journal of Automated Reasoning
-10.1007/s10817-010-9206-x,Proof Pearl: A Formal Proof of Dally and Seitz’ Necessary and Sufficient Condition for Deadlock-Free Routing in Interconnection Networks,Freek Verbeek and Julien Schmaltz,2012,4,Journal of Automated Reasoning
-10.1007/s10817-022-09657-9,Optimal Deterministic Controller Synthesis from Steady-State Distributions,Alvaro Velasquez and Ismail Alkhouri and K. Subramani and Piotr Wojciechowski and George Atia,2023,0,Journal of Automated Reasoning
-10.1007/s10817-010-9172-3,Using Bounded Model Checking for Coverage Analysis of Safety-Critical Software in an Industrial Setting,Damiano Angeletti and Enrico Giunchiglia and Massimo Narizzano and Alessandra Puddu and Salvatore Sabina,2010,17,Journal of Automated Reasoning
+10.1007/s10817-011-9224-3,A Presheaf Environment for the Explicit Fusion Calculus,Filippo Bonchi and Maria Grazia Buscemi and Vincenzo Ciancia and Fabio Gadducci,2012,9,Journal of Automated Reasoning
+10.1007/s10817-008-9104-7,On the Scalability of Description Logic Instance Retrieval,Volker Haarslev and Ralf Möller,2008,23,Journal of Automated Reasoning
+10.1007/s10817-012-9265-2,Formalization of Definitions and Theorems Related to an Elliptic Curve Over a Finite Prime Field by Using Mizar,Yuichi Futa and Hiroyuki Okazaki and Yasunari Shidama,2013,2,Journal of Automated Reasoning
+10.1007/s10817-005-0981-8,An Effective Algorithm for the Futile Questioning Problem,Anja Remshagen and Klaus Truemper,2005,3,Journal of Automated Reasoning
+10.1023/a:1006496715975,n.m.,Tobias Nipkow,2001,24,Journal of Automated Reasoning
+10.1007/s10817-005-9007-9,Backdoor Sets for DLL Subsolvers,Stefan Szeider,2006,13,Journal of Automated Reasoning
+10.1023/a:1010648911114,n.m.,Paul Callaghan and Zhaohui Luo,2001,25,Journal of Automated Reasoning
+10.1023/a:1006322417869,n.m.,A. Prasad Sistla and Clement Yu,2000,17,Journal of Automated Reasoning
 10.1007/s10817-010-9198-6,A Certified Proof of the Cartan Fixed Point Theorems,Gianni Ciolli and Graziano Gentili and Marco Maggesi,2011,1,Journal of Automated Reasoning
 10.1007/s10817-015-9336-2,Psi-Calculi in Isabelle,Jesper Bengtson and Joachim Parrow and Tjark Weber,2016,7,Journal of Automated Reasoning
-10.1007/s10817-017-9420-x,Synthesis of Obfuscation Policies to Ensure Privacy and Utility,Yi-Chin Wu and Vasumathi Raman and Blake C. Rawlings and Stéphane Lafortune and Sanjit A. Seshia,2018,21,Journal of Automated Reasoning
 10.1007/s10817-007-9069-y,Automated Theorem Proving in Euler Diagram Systems,Gem Stapleton and Judith Masthoff and Jean Flower and Andrew Fish and Jane Southern,2007,29,Journal of Automated Reasoning
-10.1007/s10817-005-9009-7,Symbolic Techniques in Satisfiability Solving,Guoqiang Pan and Moshe Y. Vardi,2006,9,Journal of Automated Reasoning
-10.1023/b:jars.0000021013.61329.58,A Trustworthy Proof Checker,Andrew W. Appel and Neophytos Michael and Aaron Stump and Roberto Virga,2003,14,Journal of Automated Reasoning
-10.1007/s10817-021-09604-0,Experiences from Exporting Major Proof Assistant Libraries,Michael Kohlhase and Florian Rabe,2021,1,Journal of Automated Reasoning
-10.1023/a:1006370506164,n.m.,Wolfgang Küchlin and Carsten Sinz,2000,28,Journal of Automated Reasoning
-10.1007/s10817-009-9147-4,Social Choice Theory in HOL,Tobias Nipkow,2009,21,Journal of Automated Reasoning
-10.1007/s10817-016-9398-9,Type-Based Cost Analysis for Lazy Functional Languages,Steffen Jost and Pedro Vasconcelos and Mário Florido and Kevin Hammond,2017,14,Journal of Automated Reasoning
-10.1007/s10817-012-9252-7,Contraction-Free Linear Depth Sequent Calculi for Intuitionistic Propositional Logic with the Subformula Property and Minimal Depth Counter-Models,Mauro Ferrari and Camillo Fiorentini and Guido Fiorino,2013,14,Journal of Automated Reasoning
-10.1007/s10817-016-9400-6,Rely-Guarantee Termination and Cost Analyses of Loops with Concurrent Interleavings,Elvira Albert and Antonio Flores-Montoya and Samir Genaim and Enrique Martin-Martin,2017,5,Journal of Automated Reasoning
-10.1007/s10817-014-9304-2,Absorption for ABoxes,Jiewen Wu and Alexander Hudek and David Toman and Grant Weddell,2014,2,Journal of Automated Reasoning
-10.1007/s10817-016-9361-9,Completeness and Decidability Results for CTL in Constructive Type Theory,Christian Doczkal and Gert Smolka,2016,5,Journal of Automated Reasoning
-10.1007/s10817-018-9469-1,Canonicity for Cubical Type Theory,Simon Huber,2019,8,Journal of Automated Reasoning
-10.1007/s10817-018-9455-7,"A Verified SAT Solver Framework with Learn, Forget, Restart, and Incrementality",Jasmin Christian Blanchette and Mathias Fleury and Peter Lammich and Christoph Weidenbach,2018,16,Journal of Automated Reasoning
-10.1007/s10817-017-9421-9,"Verifying Relative Safety, Accuracy, and Termination for Program Approximations",Shaobo He and Shuvendu K. Lahiri and Zvonimir Rakamarić,2018,9,Journal of Automated Reasoning
-10.1007/s10817-005-0981-8,An Effective Algorithm for the Futile Questioning Problem,Anja Remshagen and Klaus Truemper,2005,3,Journal of Automated Reasoning
-10.1007/s10817-005-9007-9,Backdoor Sets for DLL Subsolvers,Stefan Szeider,2006,13,Journal of Automated Reasoning
-10.1023/a:1006496715975,n.m.,Tobias Nipkow,2001,24,Journal of Automated Reasoning
-10.1023/b:jars.0000021960.39761.b7,GRAMY: A Geometry Theorem Prover Capable of Construction,Noboru Matsuda and Kurt VanLehn,2004,28,Journal of Automated Reasoning
-10.1023/a:1010648911114,n.m.,Paul Callaghan and Zhaohui Luo,2001,25,Journal of Automated Reasoning
-10.1007/s10817-009-9126-9,Operating System Verification,Gerwin Klein and Ralf Huuck and Bastian Schlich,2009,11,Journal of Automated Reasoning
-10.1023/a:1006322417869,n.m.,A. Prasad Sistla and Clement Yu,2000,17,Journal of Automated Reasoning
-10.1007/s10817-019-09515-1,Blocking and Other Enhancements for Bottom-Up Model Generation Methods,Peter Baumgartner and Renate A. Schmidt,2020,5,Journal of Automated Reasoning
-10.1007/s10817-020-09572-x,Fine-Grained Complexity of Safety Verification,Peter Chini and Roland Meyer and Prakash Saivasan,2020,3,Journal of Automated Reasoning
-10.1007/s10817-015-9351-3,Quasi-decidability of a Fragment of the First-Order Theory of Real Numbers,Peter Franek and Stefan Ratschan and Piotr Zgliczynski,2016,6,Journal of Automated Reasoning
-10.1023/a:1006376231563,n.m.,David A. Plaisted and Yunshan Zhu,2000,44,Journal of Automated Reasoning
-10.1007/s10817-008-9104-7,On the Scalability of Description Logic Instance Retrieval,Volker Haarslev and Ralf Möller,2008,23,Journal of Automated Reasoning
-10.1007/s10817-007-9084-z,Algorithms for Computing Minimal Unsatisfiable Subsets of Constraints,Mark H. Liffiton and Karem A. Sakallah,2008,187,Journal of Automated Reasoning
-10.1007/s10817-010-9193-y,Conjecture Synthesis for Inductive Theories,Moa Johansson and Lucas Dixon and Alan Bundy,2011,48,Journal of Automated Reasoning
-10.1007/s10817-013-9281-x,Cutting to the Chase,Dejan Jovanović and Leonardo de Moura,2013,19,Journal of Automated Reasoning
 10.1007/s10817-013-9286-5,Premise Selection for Mathematics by Corpus Analysis and Kernel Methods,Jesse Alama and Tom Heskes and Daniel Kühlwein and Evgeni Tsivtsivadze and Josef Urban,2014,52,Journal of Automated Reasoning
+10.1007/s10817-013-9281-x,Cutting to the Chase,Dejan Jovanović and Leonardo de Moura,2013,19,Journal of Automated Reasoning
 10.1007/s10817-005-9018-6,Verifying the SET Purchase Protocols,Giampaolo Bella and Fabio Massacci and Lawrence C. Paulson,2006,31,Journal of Automated Reasoning
 10.1007/s10817-012-9261-6,On Rewriting Rules in Mizar,Artur Korniłowicz,2013,20,Journal of Automated Reasoning
-10.1007/s10817-012-9265-2,Formalization of Definitions and Theorems Related to an Elliptic Curve Over a Finite Prime Field by Using Mizar,Yuichi Futa and Hiroyuki Okazaki and Yasunari Shidama,2013,2,Journal of Automated Reasoning
+10.1007/s10817-010-9193-y,Conjecture Synthesis for Inductive Theories,Moa Johansson and Lucas Dixon and Alan Bundy,2011,48,Journal of Automated Reasoning
+10.1007/s10817-021-09607-x,Predicate Transformer Semantics for Hybrid Systems,Jonathan Julián Huerta y Munive and Georg Struth,2022,2,Journal of Automated Reasoning
+10.1007/s10817-009-9147-4,Social Choice Theory in HOL,Tobias Nipkow,2009,21,Journal of Automated Reasoning
+10.1007/s10817-016-9379-z,A Formalisation in HOL of the Fundamental Theorem of Linear Algebra and Its Application to the Solution of the Least Squares Problem,Jesús Aransay and Jose Divasón,2017,3,Journal of Automated Reasoning
+10.1007/s10817-019-09526-y,A Verified Implementation of the Berlekamp–Zassenhaus Factorization Algorithm,Jose Divasón and Sebastiaan J. C. Joosten and René Thiemann and Akihisa Yamada,2020,2,Journal of Automated Reasoning
 10.1007/s10817-008-9102-9,Data Complexity of Query Answering in Expressive Description Logics via Tableaux,Magdalena Ortiz and Diego Calvanese and Thomas Eiter,2008,47,Journal of Automated Reasoning
+10.1007/s10817-010-9178-x,Proof Pearl: a Formal Proof of Higman’s Lemma in ACL2,Francisco Jesús Martín-Mateos and José Luis Ruiz-Reina and José Antonio Alonso and María José Hidalgo,2011,2,Journal of Automated Reasoning
+10.1007/s10817-010-9172-3,Using Bounded Model Checking for Coverage Analysis of Safety-Critical Software in an Industrial Setting,Damiano Angeletti and Enrico Giunchiglia and Massimo Narizzano and Alessandra Puddu and Salvatore Sabina,2010,17,Journal of Automated Reasoning
+10.1007/s10817-007-9092-z,On Keys and Functional Dependencies as First-Class Citizens in Description Logics,David Toman and Grant Weddell,2008,36,Journal of Automated Reasoning
+10.1007/s10817-005-9009-7,Symbolic Techniques in Satisfiability Solving,Guoqiang Pan and Moshe Y. Vardi,2006,9,Journal of Automated Reasoning
+10.1023/b:jars.0000021872.64036.41,Verification in the Classroom,Christoph Walther and Stephan Schweitzer,2004,11,Journal of Automated Reasoning
+10.1007/s10817-009-9126-9,Operating System Verification,Gerwin Klein and Ralf Huuck and Bastian Schlich,2009,11,Journal of Automated Reasoning
+10.1023/b:jars.0000021960.39761.b7,GRAMY: A Geometry Theorem Prover Capable of Construction,Noboru Matsuda and Kurt VanLehn,2004,28,Journal of Automated Reasoning
+10.1007/s10817-020-09572-x,Fine-Grained Complexity of Safety Verification,Peter Chini and Roland Meyer and Prakash Saivasan,2020,3,Journal of Automated Reasoning
+10.1007/s10817-015-9351-3,Quasi-decidability of a Fragment of the First-Order Theory of Real Numbers,Peter Franek and Stefan Ratschan and Piotr Zgliczynski,2016,6,Journal of Automated Reasoning
+10.1023/a:1006370506164,n.m.,Wolfgang Küchlin and Carsten Sinz,2000,28,Journal of Automated Reasoning
+10.1007/s10817-017-9431-7,Verifying the Correctness and Amortized Complexity of a Union-Find Implementation in Separation Logic with Time Credits,Arthur Charguéraud and François Pottier,2019,25,Journal of Automated Reasoning
+10.1007/s10817-017-9446-0,Toward Compositional Verification of Interruptible OS Kernels and Device Drivers,Hao Chen and Xiongnan Wu and Zhong Shao and Joshua Lockerman and Ronghui Gu,2018,3,Journal of Automated Reasoning
+10.1007/s10817-014-9305-1,HermiT: An OWL 2 Reasoner,Birte Glimm and Ian Horrocks and Boris Motik and Giorgos Stoilos and Zhe Wang,2014,305,Journal of Automated Reasoning
+10.1007/s10817-021-09589-w,Automated Reasoning with Restricted Intensional Sets,Maximiliano Cristiá and Gianfranco Rossi,2021,2,Journal of Automated Reasoning
+10.1007/s10817-019-09515-1,Blocking and Other Enhancements for Bottom-Up Model Generation Methods,Peter Baumgartner and Renate A. Schmidt,2020,5,Journal of Automated Reasoning
+10.1007/s10817-010-9209-7,The Area Method,Predrag Janičić and Julien Narboux and Pedro Quaresma,2012,41,Journal of Automated Reasoning
+10.1007/s10817-012-9252-7,Contraction-Free Linear Depth Sequent Calculi for Intuitionistic Propositional Logic with the Subformula Property and Minimal Depth Counter-Models,Mauro Ferrari and Camillo Fiorentini and Guido Fiorino,2013,14,Journal of Automated Reasoning
+10.1023/a:1006376231563,n.m.,David A. Plaisted and Yunshan Zhu,2000,44,Journal of Automated Reasoning
+10.1023/b:jars.0000009518.26415.49,Abstract Congruence Closure,Leo Bachmair and Ashish Tiwari and Laurent Vigneron,2003,36,Journal of Automated Reasoning
 10.1007/s10817-007-9079-9,A Tableau Decision Procedure for $\mathcal{SHOIQ}$,Ian Horrocks and Ulrike Sattler,2007,124,Journal of Automated Reasoning
 10.1007/s10817-018-9490-4,Formally Verifying the Solution to the Boolean Pythagorean Triples Problem,Luís Cruz-Filipe and Joao Marques-Silva and Peter Schneider-Kamp,2019,8,Journal of Automated Reasoning
-10.1007/s10817-021-09607-x,Predicate Transformer Semantics for Hybrid Systems,Jonathan Julián Huerta y Munive and Georg Struth,2022,2,Journal of Automated Reasoning
-10.1023/a:1021987403425,n.m.,Yves Bertot and Nicolas Magaud and Paul Zimmermann,2002,16,Journal of Automated Reasoning
-10.1007/s10817-022-09652-0,Measuring the Readability of Geometric Proofs: The Area Method Case,Pedro Quaresma and Pierluigi Graziani,2023,0,Journal of Automated Reasoning
-10.1007/s10817-006-9049-7,A Tableau Algorithm for Description Logics with Concrete Domains and General TBoxes,Carsten Lutz and Maja Miličić,2007,64,Journal of Automated Reasoning
-10.1007/s10817-017-9431-7,Verifying the Correctness and Amortized Complexity of a Union-Find Implementation in Separation Logic with Time Credits,Arthur Charguéraud and François Pottier,2019,25,Journal of Automated Reasoning
-10.1007/s10817-014-9305-1,HermiT: An OWL 2 Reasoner,Birte Glimm and Ian Horrocks and Boris Motik and Giorgos Stoilos and Zhe Wang,2014,303,Journal of Automated Reasoning
-10.1007/s10817-021-09589-w,Automated Reasoning with Restricted Intensional Sets,Maximiliano Cristiá and Gianfranco Rossi,2021,2,Journal of Automated Reasoning
+10.1007/s10817-014-9317-x,Verified Compilation of Floating-Point Computations,Sylvie Boldo and Jacques-Henri Jourdan and Xavier Leroy and Guillaume Melquiond,2015,28,Journal of Automated Reasoning
 10.1007/s10817-021-09609-9,Proof Complexity of Modal Resolution,Sarah Sigley and Olaf Beyersdorff,2022,0,Journal of Automated Reasoning
 10.1007/s10817-019-09529-9,Preface to the Special Issue on Linearity,Iliano Cervesato and Maribel Fernández,2019,0,Journal of Automated Reasoning
 10.1007/s10817-018-9452-x,Mechanising a Type-Safe Model of Multithreaded Java with a Verified Compiler,Andreas Lochbihler,2018,5,Journal of Automated Reasoning
+10.1007/s10817-018-9458-4,Hammer for Coq: Automation for Dependent Type Theory,Łukasz Czajka and Cezary Kaliszyk,2018,46,Journal of Automated Reasoning
+10.1007/s10817-017-9437-1,Refinement to Imperative HOL,Peter Lammich,2019,15,Journal of Automated Reasoning
 10.1023/a:1010663224299,n.m.,Paula Severi and Nora Szasz,2001,6,Journal of Automated Reasoning
 10.1007/s10817-007-9075-0,Special Issue on User Interfaces in Theorem Proving: Preface,David Aspinall and Christoph Lüth,2007,1,Journal of Automated Reasoning
+10.1007/s10817-023-09661-7,"First-Order Theory of Rewriting for Linear Variable-Separated Rewrite Systems: Automation, Formalization, Certification",Aart Middeldorp and Alexander Lochmann and Fabian Mitterwallner,2023,0,Journal of Automated Reasoning
 10.1023/a:1015707001763,n.m.,Predrag Janičić and Alan Bundy,2002,6,Journal of Automated Reasoning
 10.1007/s10817-012-9263-4,SMELS: Satisfiability Modulo Equality with Lazy Superposition,Christopher Lynch and Quang-Trung Ta and Duc-Khanh Tran,2013,0,Journal of Automated Reasoning
 10.1007/s10817-006-9053-y,Elimination Transformations for Associative–Commutative Rewriting Systems,Kusakari Keiichirou and Nakamura Masaki and Toyama Yoshihito,2007,2,Journal of Automated Reasoning
@@ -161,7 +165,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10817-018-9492-2,Refinement to Certify Abstract Interpretations: Illustrated on Linearization for Polyhedra,Sylvain Boulmé and Alexandre Maréchal,2019,0,Journal of Automated Reasoning
 10.1007/s10817-019-09514-2,Using Well-Founded Relations for Proving Operational Termination,Salvador Lucas,2020,3,Journal of Automated Reasoning
 10.1007/s10817-014-9316-y,Labelings for Decreasing Diagrams,Harald Zankl and Bertram Felgenhauer and Aart Middeldorp,2015,3,Journal of Automated Reasoning
-10.1007/s10817-022-09647-x,Synthetic Undecidability and Incompleteness of First-Order Axiom Systems in Coq,Dominik Kirst and Marc Hermes,2023,0,Journal of Automated Reasoning
 10.1023/b:jars.0000044823.50442.cd,Abductive Theorem Proving for Analyzing Student Explanations to Guide Feedback in Intelligent Tutoring Systems,Maxim Makatchev and Pamela W. Jordan and Kurt VanLehn,2004,5,Journal of Automated Reasoning
 10.1007/s10817-015-9332-6,Automating Boolean Set Operations in Mizar Proof Checking with the Aid of an External SAT Solver,Adam Naumowicz,2015,13,Journal of Automated Reasoning
 10.1007/s10817-015-9347-z,In Memory of Mark Stickel,Peter Baumgartner and Wolfgang Bibel and Richard Waldinger,2016,0,Journal of Automated Reasoning
@@ -174,10 +177,9 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1023/a:1027322305654,n.m.,Robert Veroff,2003,2,Journal of Automated Reasoning
 10.1007/s10817-005-9014-x,Automated Reasoning for Security Protocol Analysis,Alessandro Armando and David Basin and Jorge Cuellar and Michaël Rusinowitch and Luca Viganò,2006,2,Journal of Automated Reasoning
 10.1007/s10817-020-09547-y,Preface: Selected Extended Papers of CADE 2017,Leonardo de Moura,2020,0,Journal of Automated Reasoning
-10.1007/s10817-018-9460-x,Regular Language Representations in the Constructive Type Theory of Coq,Christian Doczkal and Gert Smolka,2018,4,Journal of Automated Reasoning
 10.1007/s10817-016-9383-3,Higher-Order Pattern Anti-Unification in Linear Time,Alexander Baumgartner and Temur Kutsia and Jordi Levy and Mateu Villaret,2017,5,Journal of Automated Reasoning
-10.1007/s10817-023-09659-1,Finding Normal Binary Floating-Point Factors Efficiently,Mak Andrlon,2023,0,Journal of Automated Reasoning
-10.1007/s10817-022-09648-w,A Formalization and Proof Checker for Isabelle’s Metalogic,Simon Roßkopf and Tobias Nipkow,2023,1,Journal of Automated Reasoning
+10.1007/s10817-016-9368-2,Reasoning About Algebraic Data Types with Abstractions,Tuan-Hung Pham and Andrew Gacek and Michael W. Whalen,2016,12,Journal of Automated Reasoning
+10.1007/s10817-021-09595-y,Superposition with Lambdas,Alexander Bentkamp and Jasmin Blanchette and Sophie Tourret and Petar Vukmirović and Uwe Waldmann,2021,7,Journal of Automated Reasoning
 10.1007/s10817-016-9403-3,Preface: Selected Extended Papers of CADE 2015,Amy Felty and Aart Middeldorp,2017,0,Journal of Automated Reasoning
 10.1007/s10817-018-09507-7,"Automating Free Logic in HOL, with an Experimental Application in Category Theory",Christoph Benzmüller and Dana S. Scott,2020,3,Journal of Automated Reasoning
 10.1007/s10817-022-09636-0,Correction to: A Formalization of the Smith Normal Form in Higher-Order Logic,Jose Divasón and René Thiemann,2022,0,Journal of Automated Reasoning
@@ -203,6 +205,7 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1023/a:1020541318160,n.m.,John Slaney,2002,3,Journal of Automated Reasoning
 10.1007/s10817-010-9190-1,Collaborative Planning with Confidentiality,Max Kanovich and Paul Rowe and Andre Scedrov,2011,15,Journal of Automated Reasoning
 10.1007/s10817-022-09620-8,Larry Wos: Visions of Automated Reasoning,Michael Beeson and Maria Paola Bonacina and Michael Kinyon and Geoff Sutcliffe,2022,1,Journal of Automated Reasoning
+10.1023/a:1006314320276,n.m.,Carla P. Gomes and Bart Selman and Nuno Crato and Henry Kautz,2000,207,Journal of Automated Reasoning
 10.1023/a:1006318521185,n.m.,Edward A. Hirsch,2000,21,Journal of Automated Reasoning
 10.1007/s10817-005-0084-6,Tool-Assisted Specification and Verification of Typed Low-Level Languages,Gilles Barthe and Pierre Courtieu and Guillaume Dufay and Simão Melo de Sousa,2006,3,Journal of Automated Reasoning
 10.1007/s10817-015-9345-1,Four Decades of Mizar,Adam Grabowski and Artur Korniłowicz and Adam Naumowicz,2015,75,Journal of Automated Reasoning
@@ -220,32 +223,34 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10817-020-09553-0,HO$$\pi $$ in Coq,Guillaume Ambal and Sergueï Lenglet and Alan Schmitt,2021,1,Journal of Automated Reasoning
 10.1007/s10817-017-9409-5,Genetic Programming $$\varvec{+}$$ + Proof Search $$\varvec{=}$$ = Automatic Improvement,Zoltan A. Kocsis and Jerry Swan,2018,5,Journal of Automated Reasoning
 10.1023/a:1026518331905,n.m.,Laurent Théry,2001,19,Journal of Automated Reasoning
+10.1007/s10817-009-9157-2,Partial and Nested Recursive Function Definitions in Higher-order Logic,Alexander Krauss,2010,39,Journal of Automated Reasoning
+10.1007/s10817-016-9389-x,Automatically Proving Termination and Memory Safety for Programs with Pointer Arithmetic,Thomas Ströder and Jürgen Giesl and Marc Brockschmidt and Florian Frohn and Carsten Fuhs and Jera Hensel and Peter Schneider-Kamp and Cornelius Aschermann,2017,16,Journal of Automated Reasoning
+10.1007/s10817-005-9019-5,Formal Analysis of Multiparty Contract Signing,Rohit Chadha and Steve Kremer and Andre Scedrov,2006,22,Journal of Automated Reasoning
 10.1007/s10817-018-9497-x,Verifying Safety and Persistence in Hybrid Systems Using Flowpipes and Continuous Invariants,Andrew Sogokon and Paul B. Jackson and Taylor T. Johnson,2019,3,Journal of Automated Reasoning
 10.1007/s10817-020-09582-9,A Decidable Class of Security Protocols for Both Reachability and Equivalence Properties,Véronique Cortier and Stéphanie Delaune and Vaishnavi Sundararajan,2021,1,Journal of Automated Reasoning
 10.1007/s10817-009-9136-7,Declarative Representation of Proof Terms,Claudio Sacerdoti Coen,2010,7,Journal of Automated Reasoning
 10.1023/a:1006310219368,n.m.,Miron Abramovici and Jose T. De Sousa,2000,19,Journal of Automated Reasoning
 10.1007/s10817-011-9238-x,Decreasing Diagrams and Relative Termination,Nao Hirokawa and Aart Middeldorp,2011,14,Journal of Automated Reasoning
-10.1007/s10817-009-9143-8,The TPTP Problem Library and Associated Infrastructure,Geoff Sutcliffe,2009,225,Journal of Automated Reasoning
 10.1007/s10817-013-9284-7,Locales: A Module System for Mathematical Theories,Clemens Ballarin,2014,50,Journal of Automated Reasoning
 10.1007/s10817-014-9303-3,Learning-Assisted Automated Reasoning with Flyspeck,Cezary Kaliszyk and Josef Urban,2014,56,Journal of Automated Reasoning
 10.1007/s10817-015-9327-3,The Next 700 Challenge Problems for Reasoning with Higher-Order Abstract Syntax Representations,Amy P. Felty and Alberto Momigliano and Brigitte Pientka,2015,17,Journal of Automated Reasoning
 10.1007/s10817-012-9267-0,Methods of Lemma Extraction in Natural Deduction Proofs,Karol Pąk,2013,17,Journal of Automated Reasoning
 10.1023/a:1021966832558,n.m.,Grzegorz Bancerek and Piotr Rudnicki,2002,21,Journal of Automated Reasoning
 10.1007/s10817-018-9472-6,The Univalence Axiom in Cubical Sets,Marc Bezem and Thierry Coquand and Simon Huber,2019,6,Journal of Automated Reasoning
-10.1007/s10817-009-9145-6,Formalizing an Analytic Proof of the Prime Number Theorem,John Harrison,2009,19,Journal of Automated Reasoning
 10.1007/s10817-020-09576-7,Machine Learning Guidance for Connection Tableaux,Michael Färber and Cezary Kaliszyk and Josef Urban,2021,4,Journal of Automated Reasoning
 10.1007/s10817-020-09562-z,Unbounded-Time Safety Verification of Guarded LTI Models with Inputs by Abstract Acceleration,Dario Cattaruzza and Alessandro Abate and Peter Schrammel and Daniel Kroening,2021,2,Journal of Automated Reasoning
-10.1007/s10817-022-09653-z,Linear Depth Deduction with Subformula Property for Intuitionistic Epistemic Logic,Guido Fiorino,2023,0,Journal of Automated Reasoning
 10.1007/s10817-021-09593-0,Formalization of Ring Theory in PVS,Thaynara Arielly de Lima and André Luiz Galdino and Andréia Borges Avelar and Mauricio Ayala-Rincón,2021,1,Journal of Automated Reasoning
 10.1007/s10817-012-9266-1,Custom Automations in Mizar,Marco Bright Caminati and Giuseppe Rosolini,2013,4,Journal of Automated Reasoning
 10.1007/s10817-016-9374-4,A Synthetic Proof of Pappus’ Theorem in Tarski’s Geometry,Gabriel Braun and Julien Narboux,2017,12,Journal of Automated Reasoning
-10.1007/s10817-013-9300-y,Proof Pearl: The KeY to Correct and Stable Sorting,Stijn de Gouw and Frank de Boer and Jurriaan Rot,2014,10,Journal of Automated Reasoning
 10.1007/s10817-020-09549-w,Formalization of Euler–Lagrange Equation Set Based on Variational Calculus in HOL Light,Yong Guan and Jingzhi Zhang and Guohui Wang and Ximeng Li and Zhiping Shi and Yongdong Li,2021,1,Journal of Automated Reasoning
 10.1007/s10817-012-9257-2,"A Tableau Based Decision Procedure for an Expressive Fragment of Hybrid Logic with Binders, Converse and Global Modalities",Serenella Cerrito and Marta Cialdea Mayer,2013,4,Journal of Automated Reasoning
 10.1023/a:1026517200045,n.m.,Matt Kaufmann,2001,38,Journal of Automated Reasoning
 10.1007/s10817-013-9293-6,Array Theory of Bounded Elements and its Applications,Min Zhou and Fei He and Bow-Yaw Wang and Ming Gu and Jiaguang Sun,2014,7,Journal of Automated Reasoning
 10.1007/s10817-009-9164-3,Equivariant Unification,James Cheney,2010,16,Journal of Automated Reasoning
-10.1007/s10817-008-9097-2,Nominal Techniques in Isabelle/HOL,Christian Urban,2008,106,Journal of Automated Reasoning
+10.1007/s10817-022-09648-w,A Formalization and Proof Checker for Isabelle’s Metalogic,Simon Roßkopf and Tobias Nipkow,2023,1,Journal of Automated Reasoning
+10.1007/s10817-022-09649-9,Superposition for Higher-Order Logic,Alexander Bentkamp and Jasmin Blanchette and Sophie Tourret and Petar Vukmirović,2023,0,Journal of Automated Reasoning
+10.1007/s10817-023-09659-1,Finding Normal Binary Floating-Point Factors Efficiently,Mak Andrlon,2023,0,Journal of Automated Reasoning
+10.1007/s10817-022-09653-z,Linear Depth Deduction with Subformula Property for Intuitionistic Epistemic Logic,Guido Fiorino,2023,1,Journal of Automated Reasoning
 10.1007/s10817-022-09631-5,A Formalization of the Smith Normal Form in Higher-Order Logic,Jose Divasón and René Thiemann,2022,1,Journal of Automated Reasoning
 10.1023/a:1020116927466,n.m.,Yi-Dong Shen and Li-Yan Yuan and Jia-Huai You,2002,10,Journal of Automated Reasoning
 10.1007/s10817-018-9481-5,A Formal Proof of the Expressiveness of Deep Learning,Alexander Bentkamp and Jasmin Christian Blanchette and Dietrich Klakow,2019,4,Journal of Automated Reasoning
@@ -253,7 +258,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10817-011-9230-5,A Solution to the PoplMark Challenge Based on de Bruijn Indices,Jérôme Vouillon,2012,4,Journal of Automated Reasoning
 10.1007/s10817-011-9231-4,A Solution to the PoplMark Challenge Using de Bruijn Indices in Isabelle/HOL,Stefan Berghofer,2012,2,Journal of Automated Reasoning
 10.1007/s10817-009-9120-2,Formal Verification of C Systems Code,Harvey Tuch,2009,19,Journal of Automated Reasoning
-10.1007/s10817-014-9317-x,Verified Compilation of Floating-Point Computations,Sylvie Boldo and Jacques-Henri Jourdan and Xavier Leroy and Guillaume Melquiond,2015,28,Journal of Automated Reasoning
 10.1007/s10817-010-9208-8,Decidability and Combination Results for Two Notions of Knowledge in Security Protocols,Véronique Cortier and Stéphanie Delaune,2012,14,Journal of Automated Reasoning
 10.1023/a:1006340920104,n.m.,Edward A. Hirsch,2000,51,Journal of Automated Reasoning
 10.1007/s10817-016-9371-7,Complete Instantiation-Based Interpolation,Nishant Totla and Thomas Wies,2016,12,Journal of Automated Reasoning
@@ -263,47 +267,45 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10817-010-9197-7,Computing Knowledge in Security Protocols Under Convergent Equational Theories,Ştefan Ciobâcă and Stéphanie Delaune and Steve Kremer,2012,11,Journal of Automated Reasoning
 10.1007/s10817-010-9189-7,Encoding Cryptographic Primitives in a Calculus with Polyadic Synchronisation,Joana Martinho and António Ravara,2011,1,Journal of Automated Reasoning
 10.1007/s10817-020-09573-w,Synthesizing Precise and Useful Commutativity Conditions,Kshitij Bansal and Eric Koskinen and Omer Tripp,2020,1,Journal of Automated Reasoning
-10.1007/s10817-016-9368-2,Reasoning About Algebraic Data Types with Abstractions,Tuan-Hung Pham and Andrew Gacek and Michael W. Whalen,2016,11,Journal of Automated Reasoning
 10.1007/s10817-017-9429-1,Bidirectional Grammars for Machine-Code Decoding and Encoding,Gang Tan and Greg Morrisett,2018,8,Journal of Automated Reasoning
 10.1007/s10817-011-9218-1,A Two-Level Logic Approach to Reasoning About Computations,Andrew Gacek and Dale Miller and Gopalan Nadathur,2012,32,Journal of Automated Reasoning
 10.1023/a:1006291616338,n.m.,François Bry and Adnan Yahya,2000,44,Journal of Automated Reasoning
 10.1007/s10817-009-9161-6,Deciding Effectively Propositional Logic Using DPLL and Substitution Sets,Ruzica Piskac and Leonardo de Moura and Nikolaj Bjørner,2010,49,Journal of Automated Reasoning
 10.1023/b:jars.0000021871.18776.94,ETPS: A System to Help Students Write Formal Proofs,Peter B. Andrews and Chad E. Brown and Frank Pfenning and Matthew Bishop and Sunil Issar and Hongwei Xi,2004,14,Journal of Automated Reasoning
-10.1007/s10817-017-9437-1,Refinement to Imperative HOL,Peter Lammich,2019,15,Journal of Automated Reasoning
-10.1007/s10817-018-9458-4,Hammer for Coq: Automation for Dependent Type Theory,Łukasz Czajka and Cezary Kaliszyk,2018,45,Journal of Automated Reasoning
 10.1007/s10817-007-9085-y,Translating Higher-Order Clauses to First-Order Clauses,Jia Meng and Lawrence C. Paulson,2008,64,Journal of Automated Reasoning
 10.1007/s10817-021-09599-8,Distilling the Requirements of Gödel’s Incompleteness Theorems with a Proof Assistant,Andrei Popescu and Dmitriy Traytel,2021,0,Journal of Automated Reasoning
 10.1007/s10817-021-09601-3,Preface: Special Issue of Selected Extended Papers of CADE 2019,Pascal Fontaine,2021,0,Journal of Automated Reasoning
 10.1007/s10817-006-9031-4,Things to Know when Implementing KBO,Bernd Löchner,2007,13,Journal of Automated Reasoning
 10.1007/s10817-010-9215-9,Proving Termination by Dependency Pairs and Inductive Theorem Proving,Carsten Fuhs and Jürgen Giesl and Michael Parting and Peter Schneider-Kamp and Stephan Swiderski,2011,10,Journal of Automated Reasoning
 10.1007/s10817-011-9219-0,Strongly Typed Term Representations in Coq,Nick Benton and Chung-Kil Hur and Andrew J. Kennedy and Conor McBride,2012,45,Journal of Automated Reasoning
-10.1007/s10817-022-09649-9,Superposition for Higher-Order Logic,Alexander Bentkamp and Jasmin Blanchette and Sophie Tourret and Petar Vukmirović,2023,0,Journal of Automated Reasoning
-10.1007/s10817-021-09595-y,Superposition with Lambdas,Alexander Bentkamp and Jasmin Blanchette and Sophie Tourret and Petar Vukmirović and Uwe Waldmann,2021,6,Journal of Automated Reasoning
+10.1007/s10817-009-9145-6,Formalizing an Analytic Proof of the Prime Number Theorem,John Harrison,2009,19,Journal of Automated Reasoning
 10.1007/s10817-010-9185-y,Multi-Attacker Protocol Validation,Wihem Arsac and Giampaolo Bella and Xavier Chantry and Luca Compagna,2011,15,Journal of Automated Reasoning
 10.1007/s10817-006-9033-2,Answer Set Programming Based on Propositional Satisfiability,Enrico Giunchiglia and Yuliya Lierler and Marco Maratea,2007,86,Journal of Automated Reasoning
 10.1007/s10817-018-9486-0,Efficient Active Automata Learning via Mutation Testing,Bernhard K. Aichernig and Martin Tappler,2019,15,Journal of Automated Reasoning
 10.1007/s10817-014-9318-9,On the Fine-Structure of Regular Algebra,Simon Foster and Georg Struth,2015,4,Journal of Automated Reasoning
 10.1023/a:1022587501759,n.m.,Cesare Tinelli,2003,22,Journal of Automated Reasoning
 10.1007/s10817-005-9004-z,MathSAT: Tight Integration of SAT and Mathematical Decision Procedures,Marco Bozzano and Roberto Bruttomesso and Alessandro Cimatti and Tommi Junttila and Peter van Rossum and Stephan Schulz and Roberto Sebastiani,2005,37,Journal of Automated Reasoning
-10.1007/s10817-009-9157-2,Partial and Nested Recursive Function Definitions in Higher-order Logic,Alexander Krauss,2010,39,Journal of Automated Reasoning
-10.1007/s10817-016-9389-x,Automatically Proving Termination and Memory Safety for Programs with Pointer Arithmetic,Thomas Ströder and Jürgen Giesl and Marc Brockschmidt and Florian Frohn and Carsten Fuhs and Jera Hensel and Peter Schneider-Kamp and Cornelius Aschermann,2017,16,Journal of Automated Reasoning
-10.1007/s10817-005-9019-5,Formal Analysis of Multiparty Contract Signing,Rohit Chadha and Steve Kremer and Andre Scedrov,2006,22,Journal of Automated Reasoning
-10.1007/s10817-009-9148-3,Mechanized Semantics for the Clight Subset of the C Language,Sandrine Blazy and Xavier Leroy,2009,104,Journal of Automated Reasoning
-10.1023/a:1006314320276,n.m.,Carla P. Gomes and Bart Selman and Nuno Crato and Henry Kautz,2000,207,Journal of Automated Reasoning
+10.1007/s10817-022-09647-x,Synthetic Undecidability and Incompleteness of First-Order Axiom Systems in Coq,Dominik Kirst and Marc Hermes,2023,0,Journal of Automated Reasoning
+10.1007/s10817-009-9143-8,The TPTP Problem Library and Associated Infrastructure,Geoff Sutcliffe,2009,225,Journal of Automated Reasoning
+10.1007/s10817-008-9097-2,Nominal Techniques in Isabelle/HOL,Christian Urban,2008,106,Journal of Automated Reasoning
+10.1007/s10817-013-9300-y,Proof Pearl: The KeY to Correct and Stable Sorting,Stijn de Gouw and Frank de Boer and Jurriaan Rot,2014,10,Journal of Automated Reasoning
+10.1007/s10817-018-9460-x,Regular Language Representations in the Constructive Type Theory of Coq,Christian Doczkal and Gert Smolka,2018,4,Journal of Automated Reasoning
+10.1007/s10817-009-9148-3,Mechanized Semantics for the Clight Subset of the C Language,Sandrine Blazy and Xavier Leroy,2009,106,Journal of Automated Reasoning
+10.1007/s10817-021-09596-x,"Model Completeness, Uniform Interpolants and Superposition Calculus",Diego Calvanese and Silvio Ghilardi and Alessandro Gianola and Marco Montali and Andrey Rivkin,2021,4,Journal of Automated Reasoning
+10.1023/a:1020542009983,n.m.,William McCune and Robert Veroff and Branden Fitelson and Kenneth Harris and Andrew Feist and Larry Wos,2002,30,Journal of Automated Reasoning
 10.1007/s10817-014-9309-x,A Complete Superposition Calculus for Primal Grammars,Hicham Bensaid and Nicolas Peltier,2014,0,Journal of Automated Reasoning
 10.1007/s10817-004-6240-6,Preface,Deepak Kapur and Laurent Vigneron,2004,0,Journal of Automated Reasoning
 10.1023/a:1015854101244,n.m.,J. N. Hooker and G. Rago and V. Chandru and A. Shrivastava,2002,24,Journal of Automated Reasoning
 10.1007/s10817-012-9253-6,A Two-Valued Logic for Properties of Strict Functional Programs Allowing Partial Functions,David Sabel and Manfred Schmidt-Schauß,2013,1,Journal of Automated Reasoning
 10.1007/s10817-010-9192-z,A Decidability Result for the Model Checking of Infinite-State Systems,Daniele Zucchelli and Enrica Nicolini,2012,0,Journal of Automated Reasoning
-10.1023/a:1025055424017,n.m.,Xavier Leroy,2003,79,Journal of Automated Reasoning
-10.1007/s10817-015-9338-0,Formal Proofs of Hypergeometric Sums,John Harrison,2015,4,Journal of Automated Reasoning
-10.1007/s10817-010-9199-5,Decidability of Equivalence of Symbolic Derivations,Yannick Chevalier and Michaël Rusinowitch,2012,16,Journal of Automated Reasoning
-10.1007/s10817-015-9356-y,A Heuristic Prover for Real Inequalities,Jeremy Avigad and Robert Y. Lewis and Cody Roux,2016,6,Journal of Automated Reasoning
-10.1007/s10817-010-9203-0,Reducing Equational Theories for the Decision of Static Equivalence,Steve Kremer and Antoine Mercier and Ralf Treinen,2012,2,Journal of Automated Reasoning
-10.1007/s10817-007-9086-x,On the Mechanization of the Proof of Hessenberg’s Theorem in Coherent Logic,Marc Bezem and Dimitri Hendriks,2008,14,Journal of Automated Reasoning
+10.1007/s10817-006-9045-y,A Sound Framework for δ-Rule Variants in Free-Variable Semantic Tableaux,Domenico Cantone and Marianna Nicolosi-Asmundo,2007,3,Journal of Automated Reasoning
+10.1007/s10817-020-09567-8,Decidable $${\exists }^*{\forall }^*$$ First-Order Fragments of Linear Rational Arithmetic with Uninterpreted Predicates,Marco Voigt,2021,1,Journal of Automated Reasoning
+10.1007/s10817-013-9276-7,Terminating Calculi for Propositional Dummett Logic with Subformula Property,Guido Fiorino,2014,4,Journal of Automated Reasoning
+10.1007/s10817-016-9365-5,Proof Tree Preserving Tree Interpolation,Jürgen Christ and Jochen Hoenicke,2016,5,Journal of Automated Reasoning
 10.1007/s10817-017-9410-z,Visibly Linear Temporal Logic,Laura Bozzelli and César Sánchez,2018,2,Journal of Automated Reasoning
 10.1007/s10817-011-9242-1,Special Issue on Security and Rewriting Foreword,Hubert Comon-Lundh and Catherine Meadows,2012,0,Journal of Automated Reasoning
 10.1007/s10817-013-9287-4,Mechanizing Metatheory Without Typing Contexts,Jonghyun Park and Jeongbong Seo and Sungwoo Park and Gyesik Lee,2014,2,Journal of Automated Reasoning
+10.1007/s10817-012-9255-4,Wave Equation Numerical Resolution: A Comprehensive Mechanized Proof of a C Program,Sylvie Boldo and François Clément and Jean-Christophe Filliâtre and Micaela Mayero and Guillaume Melquiond and Pierre Weis,2013,45,Journal of Automated Reasoning
 10.1007/s10817-019-09523-1,Homogeneous Length Functions on Groups: Intertwined Computer and Human Proofs,Siddhartha Gadgil,2020,1,Journal of Automated Reasoning
 10.1023/a:1006182023017,n.m.,Hongbo Li,2000,17,Journal of Automated Reasoning
 10.1007/s10817-020-09568-7,Natural Projection as Partial Model Checking,Gabriele Costa and Letterio Galletta and Pierpaolo Degano and David Basin and Chiara Bodei,2020,0,Journal of Automated Reasoning
@@ -311,6 +313,8 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10817-022-09629-z,Theorem Proving as Constraint Solving with Coherent Logic,Predrag Janičić and Julien Narboux,2022,0,Journal of Automated Reasoning
 10.1007/s10817-022-09632-4,A Formalization of SQL with Nulls,Wilmer Ricciotti and James Cheney,2022,0,Journal of Automated Reasoning
 10.1007/s10817-021-09614-y,A Wos Challenge Met,Robert Veroff,2022,1,Journal of Automated Reasoning
+10.1007/s10817-016-9385-1,A Complete Uniform Substitution Calculus for Differential Dynamic Logic,André Platzer,2017,57,Journal of Automated Reasoning
+10.1007/s10817-021-09610-2,Integrating Owicki–Gries for C11-Style Memory Models into Isabelle/HOL,Sadegh Dalvandi and Brijesh Dongol and Simon Doherty and Heike Wehrheim,2022,5,Journal of Automated Reasoning
 10.1007/s10817-007-9093-y,Automatic Construction and Verification of Isotopy Invariants,Volker Sorge and Andreas Meier and Roy McCasland and Simon Colton,2008,4,Journal of Automated Reasoning
 10.1007/s10817-004-3243-2,Octopus: Combining Learning and Parallel Search,Monty Newborn and Zongyan Wang,2004,2,Journal of Automated Reasoning
 10.1007/s10817-011-9226-1,A List-Machine Benchmark for Mechanized Metatheory,Andrew W. Appel and Robert Dockins and Xavier Leroy,2012,4,Journal of Automated Reasoning
@@ -322,30 +326,39 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10817-016-9399-8,Preface: Special Issue on Automatic Resource Bound Analysis,Jürgen Giesl and Jan Hoffmann,2017,1,Journal of Automated Reasoning
 10.1023/a:1023217515688,n.m.,Krishnendu Chatterjee,2003,1,Journal of Automated Reasoning
 10.1007/s10817-013-9274-9,Finite Reasons for Safety,Alexei Lisitsa,2013,3,Journal of Automated Reasoning
-10.1023/a:1006343127545,n.m.,Patrick Mills and Edward Tsang,2000,33,Journal of Automated Reasoning
 10.1023/b:jars.0000029959.45572.44,Knowledge Compilation Using the Extension Rule,Lin Hai and Sun Jigui,2004,16,Journal of Automated Reasoning
 10.1023/a:1025062813504,n.m.,,2003,0,Journal of Automated Reasoning
 10.1007/s10817-006-9025-2,An Efficient Approach to Solving Random k-sat Problems,Gilles Dequen and Olivier Dubois,2007,6,Journal of Automated Reasoning
+10.1023/a:1020512924736,n.m.,Adnan Yahya and David A. Plaisted,2002,4,Journal of Automated Reasoning
+10.1007/s10817-005-9017-7,Decision Procedures for the Security of Protocols with Probabilistic Encryption against Offline Dictionary Attacks,Stéphanie Delaune and Florent Jacquemard,2006,4,Journal of Automated Reasoning
+10.1007/s10817-012-9260-7,Proof Pearl—A Mechanized Proof of GHC’s Mergesort,Christian Sternagel,2013,7,Journal of Automated Reasoning
+10.1007/s10817-010-9203-0,Reducing Equational Theories for the Decision of Static Equivalence,Steve Kremer and Antoine Mercier and Ralf Treinen,2012,2,Journal of Automated Reasoning
+10.1007/s10817-015-9330-8,MizAR 40 for Mizar 40,Cezary Kaliszyk and Josef Urban,2015,35,Journal of Automated Reasoning
+10.1007/s10817-007-9086-x,On the Mechanization of the Proof of Hessenberg’s Theorem in Coherent Logic,Marc Bezem and Dimitri Hendriks,2008,14,Journal of Automated Reasoning
+10.1007/s10817-011-9236-z,Classical Logic with Partial Functions,Hans de Nivelle,2011,2,Journal of Automated Reasoning
+10.1007/s10817-011-9221-6,Formalizing Adequacy: A Case Study for Higher-order Abstract Syntax,James Cheney and Michael Norrish and René Vestergaard,2012,2,Journal of Automated Reasoning
+10.1007/s10817-018-9482-4,Reinterpreting Dependency Schemes: Soundness Meets Incompleteness in DQBF,Olaf Beyersdorff and Joshua Blinkhorn and Leroy Chew and Renate Schmidt and Martin Suda,2019,4,Journal of Automated Reasoning
+10.1007/s10817-016-9387-z,"Fermat, Euler, Wilson - Three Case Studies in Number Theory",Christoph Walther and Nathan Wasser,2017,2,Journal of Automated Reasoning
+10.1007/s10817-015-9350-4,Proving Tight Bounds on Univariate Expressions with Elementary Functions in Coq,Érik Martin-Dorel and Guillaume Melquiond,2016,14,Journal of Automated Reasoning
+10.1007/s10817-014-9307-z,Extended Decision Procedure for a Fragment of HL with Binders,Marta Cialdea Mayer,2014,1,Journal of Automated Reasoning
+10.1023/b:jars.0000021187.23857.1b,Author Index to Volume 31,,2003,0,Journal of Automated Reasoning
+10.1007/s10817-021-09592-1,On the Importance of Domain Model Configuration for Automated Planning Engines,Mauro Vallati and Lukáš Chrpa and Thomas Leo McCluskey and Frank Hutter,2021,2,Journal of Automated Reasoning
+10.1007/s10817-011-9241-2,Invariant-Free Clausal Temporal Resolution,Jose Gaintzarain and Montserrat Hermo and Paqui Lucio and Marisa Navarro and Fernando Orejas,2013,3,Journal of Automated Reasoning
+10.1007/s10817-009-9153-6,Resolution is Cut-Free,Olivier Hermant,2010,10,Journal of Automated Reasoning
+10.1007/s10817-020-09577-6,Automated Proof of Bell–LaPadula Security Properties,Maximiliano Cristiá and Gianfranco Rossi,2021,2,Journal of Automated Reasoning
+10.1023/a:1022561505762,n.m.,Antonella Santone and Gigliola Vaglini,2003,1,Journal of Automated Reasoning
+10.1007/s10817-019-09536-w,A Relaxation of Üresin and Dubois’ Asynchronous Fixed-Point Theory in Agda,Matthew L. Daggitt and Ran Zmigrod and Timothy G. Griffin,2020,1,Journal of Automated Reasoning
+10.1007/s10817-010-9200-3,An Instantiation Scheme for Satisfiability Modulo Theories,Mnacho Echenim and Nicolas Peltier,2012,7,Journal of Automated Reasoning
+10.1007/s10817-016-9364-6,"Labelled Interpolation Systems for Hyper-Resolution, Clausal, and Local Proofs",Matthias Schlaipfer and Georg Weissenbacher,2016,2,Journal of Automated Reasoning
+10.1007/s10817-021-09602-2,An Automatically Verified Prototype of the Tokeneer ID Station Specification,Maximiliano Cristiá and Gianfranco Rossi,2021,2,Journal of Automated Reasoning
+10.1007/s10817-018-9462-8,On the Generation of Quantified Lemmas,Gabriel Ebner and Stefan Hetzl and Alexander Leitsch and Giselle Reis and Daniel Weller,2019,8,Journal of Automated Reasoning
+10.1007/s10817-012-9259-0,The GOEDEL Program,Johan G. F. Belinfante,2013,0,Journal of Automated Reasoning
+10.1007/s10817-017-9432-6,A Unifying View on SMT-Based Software Verification,Dirk Beyer and Matthias Dangl and Philipp Wendler,2018,32,Journal of Automated Reasoning
 10.1023/a:1021935419355,n.m.,Markus Wenzel and Freek Wiedijk,2002,30,Journal of Automated Reasoning
 10.1023/a:1022515030222,n.m.,Miquel Bofill and Guillem Godoy and Robert Nieuwenhuis and Albert Rubio,2003,4,Journal of Automated Reasoning
 10.1007/s10817-016-9367-3,Proof Generalization in $$\mathrm {LK}$$ LK by Second Order Unifier Minimization,Thierry Boy de la Tour and Nicolas Peltier,2016,0,Journal of Automated Reasoning
 10.1007/s10817-005-9016-8,Attacking Group Protocols by Refuting Incorrect Inductive Conjectures,Graham Steel and Alan Bundy,2006,6,Journal of Automated Reasoning
-10.1023/a:1020512924736,n.m.,Adnan Yahya and David A. Plaisted,2002,4,Journal of Automated Reasoning
-10.1007/s10817-005-9017-7,Decision Procedures for the Security of Protocols with Probabilistic Encryption against Offline Dictionary Attacks,Stéphanie Delaune and Florent Jacquemard,2006,4,Journal of Automated Reasoning
-10.1007/s10817-011-9236-z,Classical Logic with Partial Functions,Hans de Nivelle,2011,2,Journal of Automated Reasoning
-10.1007/s10817-016-9387-z,"Fermat, Euler, Wilson - Three Case Studies in Number Theory",Christoph Walther and Nathan Wasser,2017,2,Journal of Automated Reasoning
-10.1007/s10817-009-9153-6,Resolution is Cut-Free,Olivier Hermant,2010,10,Journal of Automated Reasoning
-10.1007/s10817-011-9221-6,Formalizing Adequacy: A Case Study for Higher-order Abstract Syntax,James Cheney and Michael Norrish and René Vestergaard,2012,2,Journal of Automated Reasoning
-10.1007/s10817-021-09592-1,On the Importance of Domain Model Configuration for Automated Planning Engines,Mauro Vallati and Lukáš Chrpa and Thomas Leo McCluskey and Frank Hutter,2021,2,Journal of Automated Reasoning
-10.1007/s10817-018-9482-4,Reinterpreting Dependency Schemes: Soundness Meets Incompleteness in DQBF,Olaf Beyersdorff and Joshua Blinkhorn and Leroy Chew and Renate Schmidt and Martin Suda,2019,4,Journal of Automated Reasoning
-10.1007/s10817-015-9348-y,The Higher-Order Prover Leo-II,Christoph Benzmüller and Nik Sultana and Lawrence C. Paulson and Frank Theiß,2015,31,Journal of Automated Reasoning
-10.1007/s10817-012-9259-0,The GOEDEL Program,Johan G. F. Belinfante,2013,0,Journal of Automated Reasoning
-10.1007/s10817-014-9307-z,Extended Decision Procedure for a Fragment of HL with Binders,Marta Cialdea Mayer,2014,1,Journal of Automated Reasoning
-10.1023/b:jars.0000021187.23857.1b,Author Index to Volume 31,,2003,0,Journal of Automated Reasoning
-10.1007/s10817-020-09577-6,Automated Proof of Bell–LaPadula Security Properties,Maximiliano Cristiá and Gianfranco Rossi,2021,2,Journal of Automated Reasoning
-10.1023/a:1022561505762,n.m.,Antonella Santone and Gigliola Vaglini,2003,1,Journal of Automated Reasoning
-10.1007/s10817-019-09536-w,A Relaxation of Üresin and Dubois’ Asynchronous Fixed-Point Theory in Agda,Matthew L. Daggitt and Ran Zmigrod and Timothy G. Griffin,2020,1,Journal of Automated Reasoning
-10.1007/s10817-020-09558-9,Probably Partially True: Satisfiability for Łukasiewicz Infinitely-Valued Probabilistic Logic and Related Topics,Marcelo Finger and Sandro Preto,2020,5,Journal of Automated Reasoning
+10.1007/s10817-018-9464-6,From Types to Sets by Local Type Definition in Higher-Order Logic,Ondřej Kunčar and Andrei Popescu,2019,9,Journal of Automated Reasoning
 10.1007/s10817-011-9228-z,Formal Metatheory of Programming Languages in the Matita Interactive Theorem Prover,Andrea Asperti and Wilmer Ricciotti and Claudio Sacerdoti Coen and Enrico Tassi,2012,2,Journal of Automated Reasoning
 10.1007/s10817-020-09563-y,Mechanisation of the AKS Algorithm,Hing Lun Chan and Michael Norrish,2021,0,Journal of Automated Reasoning
 10.1023/a:1006366304347,n.m.,Jan Friso Groote and Joost P. Warners,2000,21,Journal of Automated Reasoning
@@ -362,209 +375,196 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10817-018-9478-0,Formalization of the Fundamental Group in Untyped Set Theory Using Auto2,Bohua Zhan,2019,0,Journal of Automated Reasoning
 10.1023/a:1006469202251,n.m.,Chih-Hung Wu and Shie-Jue Lee,2001,1,Journal of Automated Reasoning
 10.1007/s10817-017-9414-8,OWL Reasoning: Subsumption Test Hardness and Modularity,Nicolas Matentzoglu and Bijan Parsia and Uli Sattler,2018,2,Journal of Automated Reasoning
-10.1007/s10817-006-9045-y,A Sound Framework for δ-Rule Variants in Free-Variable Semantic Tableaux,Domenico Cantone and Marianna Nicolosi-Asmundo,2007,3,Journal of Automated Reasoning
-10.1007/s10817-020-09567-8,Decidable $${\exists }^*{\forall }^*$$ First-Order Fragments of Linear Rational Arithmetic with Uninterpreted Predicates,Marco Voigt,2021,1,Journal of Automated Reasoning
-10.1007/s10817-013-9276-7,Terminating Calculi for Propositional Dummett Logic with Subformula Property,Guido Fiorino,2014,4,Journal of Automated Reasoning
-10.1007/s10817-015-9333-5,Mechanizing Complemented Lattices Within Mizar Type System,Adam Grabowski,2015,19,Journal of Automated Reasoning
-10.1023/a:1011908113514,n.m.,Ruben A. Gamboa and Matt Kaufmann,2001,26,Journal of Automated Reasoning
-10.1007/s10817-007-9077-y,Optimizing Terminological Reasoning for Expressive Description Logics,Dmitry Tsarkov and Ian Horrocks and Peter F. Patel-Schneider,2007,39,Journal of Automated Reasoning
-10.1007/s10817-010-9194-x,Hybrid,Amy Felty and Alberto Momigliano,2012,38,Journal of Automated Reasoning
-10.1007/s10817-005-9010-1,Clause Weighting Local Search for SAT,John Thornton,2006,14,Journal of Automated Reasoning
-10.1007/s10817-012-9271-4,The Mizar Mathematical Library in OMDoc: Translation and Applications,Mihnea Iancu and Michael Kohlhase and Florian Rabe and Josef Urban,2013,31,Journal of Automated Reasoning
-10.1007/s10817-010-9174-1,Closed-Form Upper Bounds in Static Cost Analysis,Elvira Albert and Puri Arenas and Samir Genaim and Germán Puebla,2011,108,Journal of Automated Reasoning
-10.1007/s10817-012-9269-y,ATP and Presentation Service for Mizar Formalizations,Josef Urban and Piotr Rudnicki and Geoff Sutcliffe,2013,41,Journal of Automated Reasoning
-10.1007/s10817-016-9364-6,"Labelled Interpolation Systems for Hyper-Resolution, Clausal, and Local Proofs",Matthias Schlaipfer and Georg Weissenbacher,2016,2,Journal of Automated Reasoning
-10.1007/s10817-021-09602-2,An Automatically Verified Prototype of the Tokeneer ID Station Specification,Maximiliano Cristiá and Gianfranco Rossi,2021,2,Journal of Automated Reasoning
-10.1007/s10817-018-9462-8,On the Generation of Quantified Lemmas,Gabriel Ebner and Stefan Hetzl and Alexander Leitsch and Giselle Reis and Daniel Weller,2019,8,Journal of Automated Reasoning
-10.1007/s10817-012-9260-7,Proof Pearl—A Mechanized Proof of GHC’s Mergesort,Christian Sternagel,2013,7,Journal of Automated Reasoning
-10.1023/a:1006326723002,n.m.,Fabio Massacci and Laura Marraro,2000,68,Journal of Automated Reasoning
-10.1007/s10817-007-9082-1,Inferring Phylogenetic Trees Using Answer Set Programming,Daniel R. Brooks and Esra Erdem and Selim T. Erdoğan and James W. Minett and Don Ringe,2007,34,Journal of Automated Reasoning
+10.1007/s10817-008-9103-8,Differential Dynamic Logic for Hybrid Systems,André Platzer,2008,240,Journal of Automated Reasoning
+10.1007/s10817-015-9348-y,The Higher-Order Prover Leo-II,Christoph Benzmüller and Nik Sultana and Lawrence C. Paulson and Frank Theiß,2015,32,Journal of Automated Reasoning
+10.1007/s10817-015-9338-0,Formal Proofs of Hypergeometric Sums,John Harrison,2015,4,Journal of Automated Reasoning
+10.1007/s10817-004-3997-6,Organizing Numerical Theories Using Axiomatic Type Classes,Lawrence C. Paulson,2004,14,Journal of Automated Reasoning
+10.1007/s10817-006-9034-1,An Integrated Approach to High Integrity Software Verification,Andrew Ireland and Bill J. Ellis and Andrew Cook and Roderick Chapman and Janet Barnes,2007,5,Journal of Automated Reasoning
+10.1007/s10817-010-9216-8,Automated Inference of Finite Unsatisfiability,Koen Claessen and Ann Lillieström,2011,7,Journal of Automated Reasoning
+10.1007/s10817-017-9442-4,Formalizing Network Flow Algorithms: A Refinement Approach in Isabelle/HOL,Peter Lammich and S. Reza Sefidgar,2019,8,Journal of Automated Reasoning
+10.1023/a:1021939521172,n.m.,Marc Bezem and Dimitri Hendriks and Hans de Nivelle,2002,23,Journal of Automated Reasoning
+10.1023/a:1025011624925,n.m.,Stephen N. Freund and John C. Mitchell,2003,36,Journal of Automated Reasoning
+10.1007/s10817-010-9171-4,A Formal Logic Approach to Constrained Combinatorial Testing,Andrea Calvagna and Angelo Gargantini,2010,22,Journal of Automated Reasoning
+10.1007/s10817-018-9453-9,Extraction of Expansion Trees,Alexander Leitsch and Anela Lolic,2019,3,Journal of Automated Reasoning
 10.1007/s10817-018-9483-3,Mechanized Metatheory Revisited,Dale Miller,2019,2,Journal of Automated Reasoning
 10.1007/s10817-016-9380-6,A Semantic Framework for Proof Evidence,Zakaria Chihani and Dale Miller and Fabien Renaud,2017,11,Journal of Automated Reasoning
 10.1007/s10817-022-09643-1,Towards Formalising Schutz’ Axioms for Minkowski Spacetime in Isabelle/HOL,Richard Schmoetten and Jake E. Palmer and Jacques D. Fleuriot,2022,0,Journal of Automated Reasoning
 10.1007/s10817-012-9245-6,Case Splitting in an Automatic Theorem Prover for Real-Valued Special Functions,James P. Bridge and Lawrence Charles Paulson,2013,5,Journal of Automated Reasoning
 10.1007/s10817-016-9378-0,Proving Divide and Conquer Complexities in Isabelle/HOL,Manuel Eberl,2017,11,Journal of Automated Reasoning
+10.1023/a:1011908113514,n.m.,Ruben A. Gamboa and Matt Kaufmann,2001,26,Journal of Automated Reasoning
+10.1007/s10817-007-9077-y,Optimizing Terminological Reasoning for Expressive Description Logics,Dmitry Tsarkov and Ian Horrocks and Peter F. Patel-Schneider,2007,39,Journal of Automated Reasoning
+10.1007/s10817-011-9227-0,Satisfiability Checking in Łukasiewicz Logic as Finite Constraint Satisfaction,Steven Schockaert and Jeroen Janssen and Dirk Vermeir,2012,6,Journal of Automated Reasoning
+10.1007/s10817-005-9010-1,Clause Weighting Local Search for SAT,John Thornton,2006,14,Journal of Automated Reasoning
+10.1007/s10817-010-9174-1,Closed-Form Upper Bounds in Static Cost Analysis,Elvira Albert and Puri Arenas and Samir Genaim and Germán Puebla,2011,108,Journal of Automated Reasoning
+10.1007/s10817-012-9269-y,ATP and Presentation Service for Mizar Formalizations,Josef Urban and Piotr Rudnicki and Geoff Sutcliffe,2013,41,Journal of Automated Reasoning
+10.1007/s10817-009-9117-x,An Intuitionistic Proof of a Discrete Form of the Jordan Curve Theorem Formalized in Coq with Combinatorial Hypermaps,Jean-François Dufourd,2009,14,Journal of Automated Reasoning
+10.1007/s10817-012-9271-4,The Mizar Mathematical Library in OMDoc: Translation and Applications,Mihnea Iancu and Michael Kohlhase and Florian Rabe and Josef Urban,2013,31,Journal of Automated Reasoning
 10.1007/s10817-018-9459-3,Amortized Complexity Verified,Tobias Nipkow and Hauke Brinkop,2019,11,Journal of Automated Reasoning
-10.1007/s10817-008-9103-8,Differential Dynamic Logic for Hybrid Systems,André Platzer,2008,240,Journal of Automated Reasoning
-10.1007/s10817-012-9256-3,Formalization of Bernstein Polynomials and Applications to Global Optimization,César Muñoz and Anthony Narkawicz,2013,46,Journal of Automated Reasoning
+10.1007/s10817-010-9207-9,Nested Abstract Syntax in Coq,André Hirschowitz and Marco Maggesi,2012,7,Journal of Automated Reasoning
+10.1007/s10817-005-9023-9,Ordinal Arithmetic: Algorithms and Mechanization,Panagiotis Manolios and Daron Vroon,2005,13,Journal of Automated Reasoning
+10.1007/s10817-006-9040-3,Predicting and Detecting Symmetries in FOL Finite Model Search,Gilles Audemard and Belaïd Benhamou and Laurent Henocque,2006,3,Journal of Automated Reasoning
+10.1007/s10817-022-09618-2,Analyzing Read-Once Cutting Plane Proofs in Horn Systems,Piotr Wojciechowski and K. Subramani and R. Chandrasekaran,2022,1,Journal of Automated Reasoning
+10.1007/s10817-010-9186-x,Automated Proofs for Asymmetric Encryption,J. Courant and M. Daubignard and C. Ene and P. Lafourcade and Y. Lakhnech,2011,3,Journal of Automated Reasoning
 10.1007/s10817-006-9036-z,Mathematical Induction in Otter-Lambda,Michael Beeson,2007,5,Journal of Automated Reasoning
 10.1007/s10817-005-6546-z,Termination of Floating-Point Computations,Alexander Serebrenik and Danny De Schreye,2005,6,Journal of Automated Reasoning
 10.1007/s10817-018-9479-z,Semantics of Mizar as an Isabelle Object Logic,Cezary Kaliszyk and Karol Pąk,2019,6,Journal of Automated Reasoning
 10.1007/s10817-018-9498-9,Formalization of Geometric Algebra in HOL Light,Li-Ming Li and Zhi-Ping Shi and Yong Guan and Qian-Ying Zhang and Yong-Dong Li,2019,2,Journal of Automated Reasoning
-10.1007/s10817-016-9386-0,The Bayesian Ontology Language $$\mathcal {BEL}$$ BEL,İsmail İlkan Ceylan and Rafael Peñaloza,2017,14,Journal of Automated Reasoning
-10.1007/s10817-006-9040-3,Predicting and Detecting Symmetries in FOL Finite Model Search,Gilles Audemard and Belaïd Benhamou and Laurent Henocque,2006,3,Journal of Automated Reasoning
-10.1007/s10817-022-09618-2,Analyzing Read-Once Cutting Plane Proofs in Horn Systems,Piotr Wojciechowski and K. Subramani and R. Chandrasekaran,2022,1,Journal of Automated Reasoning
-10.1023/a:1020542009983,n.m.,William McCune and Robert Veroff and Branden Fitelson and Kenneth Harris and Andrew Feist and Larry Wos,2002,30,Journal of Automated Reasoning
-10.1007/s10817-016-9365-5,Proof Tree Preserving Tree Interpolation,Jürgen Christ and Jochen Hoenicke,2016,5,Journal of Automated Reasoning
-10.1007/s10817-015-9330-8,MizAR 40 for Mizar 40,Cezary Kaliszyk and Josef Urban,2015,35,Journal of Automated Reasoning
-10.1007/s10817-006-9034-1,An Integrated Approach to High Integrity Software Verification,Andrew Ireland and Bill J. Ellis and Andrew Cook and Roderick Chapman and Janet Barnes,2007,5,Journal of Automated Reasoning
-10.1007/s10817-010-9186-x,Automated Proofs for Asymmetric Encryption,J. Courant and M. Daubignard and C. Ene and P. Lafourcade and Y. Lakhnech,2011,3,Journal of Automated Reasoning
-10.1023/b:jars.0000021016.61054.3b,Trust and Partial Typing in Open Systems of Mobile Agents,James Riely and Matthew Hennessy,2003,10,Journal of Automated Reasoning
+10.1007/s10817-009-9123-z,Balancing the Load,Eyad Alkassar and Mark A. Hillebrand and Dirk C. Leinenbach and Norbert W. Schirmer and Artem Starostin and Alexandra Tsyban,2009,28,Journal of Automated Reasoning
+10.1007/s10817-004-6246-0,Reachability Analysis over Term Rewriting Systems,Guillaume Feuillade and Thomas Genet and Val�rie Viet Triem Tong,2004,45,Journal of Automated Reasoning
+10.1007/s10817-004-2725-6,Constraint Solving for Proof Planning,J�rgen Zimmer and Erica Melis,2004,6,Journal of Automated Reasoning
+10.1007/s10817-007-9080-3,Reasoning in Description Logics by a Reduction to Disjunctive Datalog,Ullrich Hustadt and Boris Motik and Ulrike Sattler,2007,75,Journal of Automated Reasoning
+10.1007/s10817-005-3075-8,Combining Sets with Cardinals,Calogero G. Zarba,2005,14,Journal of Automated Reasoning
 10.1007/s10817-020-09541-4,Theorem Proving for Pointwise Metric Temporal Logic Over the Naturals via Translations,Ullrich Hustadt and Ana Ozaki and Clare Dixon,2020,3,Journal of Automated Reasoning
-10.1007/s10817-018-9453-9,Extraction of Expansion Trees,Alexander Leitsch and Anela Lolic,2019,3,Journal of Automated Reasoning
+10.1007/s10817-020-09558-9,Probably Partially True: Satisfiability for Łukasiewicz Infinitely-Valued Probabilistic Logic and Related Topics,Marcelo Finger and Sandro Preto,2020,5,Journal of Automated Reasoning
+10.1007/s10817-015-9333-5,Mechanizing Complemented Lattices Within Mizar Type System,Adam Grabowski,2015,19,Journal of Automated Reasoning
 10.1023/a:1006437704595,n.m.,William M. Farmer,2001,4,Journal of Automated Reasoning
 10.1023/a:1015067300005,n.m.,Ullrich Hustadt and Renate A. Schmidt,2002,16,Journal of Automated Reasoning
-10.1007/s10817-010-9200-3,An Instantiation Scheme for Satisfiability Modulo Theories,Mnacho Echenim and Nicolas Peltier,2012,7,Journal of Automated Reasoning
 10.1023/a:1010654904735,n.m.,Mirna Bognar and Roel de Vrijer,2001,7,Journal of Automated Reasoning
-10.1007/s10817-011-9241-2,Invariant-Free Clausal Temporal Resolution,Jose Gaintzarain and Montserrat Hermo and Paqui Lucio and Marisa Navarro and Fernando Orejas,2013,3,Journal of Automated Reasoning
-10.1023/a:1015071400913,n.m.,Enrico Giunchiglia and Armando Tacchella and Fausto Giunchiglia,2002,27,Journal of Automated Reasoning
-10.1007/s10817-018-9464-6,From Types to Sets by Local Type Definition in Higher-Order Logic,Ondřej Kunčar and Andrei Popescu,2019,9,Journal of Automated Reasoning
-10.1007/s10817-004-2725-6,Constraint Solving for Proof Planning,J�rgen Zimmer and Erica Melis,2004,6,Journal of Automated Reasoning
-10.1007/s10817-004-6246-0,Reachability Analysis over Term Rewriting Systems,Guillaume Feuillade and Thomas Genet and Val�rie Viet Triem Tong,2004,45,Journal of Automated Reasoning
-10.1007/s10817-015-9350-4,Proving Tight Bounds on Univariate Expressions with Elementary Functions in Coq,Érik Martin-Dorel and Guillaume Melquiond,2016,14,Journal of Automated Reasoning
-10.1007/s10817-020-09570-z,A Learning-Based Approach to Synthesizing Invariants for Incomplete Verification Engines,Daniel Neider and P. Madhusudan and Shambwaditya Saha and Pranav Garg and Daejun Park,2020,2,Journal of Automated Reasoning
 10.1023/a:1021923116629,n.m.,Dimitri Hendriks,2002,7,Journal of Automated Reasoning
 10.1007/s10817-017-9424-6,Deciding Univariate Polynomial Problems Using Untrusted Certificates in Isabelle/HOL,Wenda Li and Grant Olney Passmore and Lawrence C. Paulson,2019,6,Journal of Automated Reasoning
-10.1007/s10817-011-9227-0,Satisfiability Checking in Łukasiewicz Logic as Finite Constraint Satisfaction,Steven Schockaert and Jeroen Janssen and Dirk Vermeir,2012,6,Journal of Automated Reasoning
-10.1007/s10817-005-9023-9,Ordinal Arithmetic: Algorithms and Mechanization,Panagiotis Manolios and Daron Vroon,2005,11,Journal of Automated Reasoning
-10.1007/s10817-010-9216-8,Automated Inference of Finite Unsatisfiability,Koen Claessen and Ann Lillieström,2011,7,Journal of Automated Reasoning
-10.1007/s10817-017-9442-4,Formalizing Network Flow Algorithms: A Refinement Approach in Isabelle/HOL,Peter Lammich and S. Reza Sefidgar,2019,8,Journal of Automated Reasoning
-10.1007/s10817-004-3997-6,Organizing Numerical Theories Using Axiomatic Type Classes,Lawrence C. Paulson,2004,14,Journal of Automated Reasoning
-10.1023/a:1021939521172,n.m.,Marc Bezem and Dimitri Hendriks and Hans de Nivelle,2002,23,Journal of Automated Reasoning
-10.1023/a:1025011624925,n.m.,Stephen N. Freund and John C. Mitchell,2003,36,Journal of Automated Reasoning
+10.1007/s10817-012-9256-3,Formalization of Bernstein Polynomials and Applications to Global Optimization,César Muñoz and Anthony Narkawicz,2013,46,Journal of Automated Reasoning
+10.1007/s10817-010-9199-5,Decidability of Equivalence of Symbolic Derivations,Yannick Chevalier and Michaël Rusinowitch,2012,16,Journal of Automated Reasoning
+10.1007/s10817-015-9356-y,A Heuristic Prover for Real Inequalities,Jeremy Avigad and Robert Y. Lewis and Cody Roux,2016,6,Journal of Automated Reasoning
+10.1007/s10817-007-9082-1,Inferring Phylogenetic Trees Using Answer Set Programming,Daniel R. Brooks and Esra Erdem and Selim T. Erdoğan and James W. Minett and Don Ringe,2007,34,Journal of Automated Reasoning
+10.1007/s10817-010-9194-x,Hybrid,Amy Felty and Alberto Momigliano,2012,38,Journal of Automated Reasoning
+10.1023/a:1015071400913,n.m.,Enrico Giunchiglia and Armando Tacchella and Fausto Giunchiglia,2002,27,Journal of Automated Reasoning
+10.1007/s10817-006-9062-x,The Calculus of Relations as a Foundation for Mathematics,Steven Givant,2007,20,Journal of Automated Reasoning
+10.1007/s10817-011-9243-0,ExpTime Tableaux for Using Sound Global Caching,Rajeev Goré and Linh Anh Nguyen,2013,9,Journal of Automated Reasoning
 10.1007/s10817-018-9454-8,A Consistent Foundation for Isabelle/HOL,Ondřej Kunčar and Andrei Popescu,2019,9,Journal of Automated Reasoning
 10.1007/s10817-015-9324-6,The Reflective Milawa Theorem Prover is Sound (Down to the Machine Code that Runs it),Jared Davis and Magnus O. Myreen,2015,10,Journal of Automated Reasoning
-10.1007/s10817-021-09596-x,"Model Completeness, Uniform Interpolants and Superposition Calculus",Diego Calvanese and Silvio Ghilardi and Alessandro Gianola and Marco Montali and Andrey Rivkin,2021,4,Journal of Automated Reasoning
-10.1007/s10817-010-9171-4,A Formal Logic Approach to Constrained Combinatorial Testing,Andrea Calvagna and Angelo Gargantini,2010,22,Journal of Automated Reasoning
-10.1007/s10817-014-9301-5,Machine Learning for First-Order Theorem Proving,James P. Bridge and Sean B. Holden and Lawrence C. Paulson,2014,35,Journal of Automated Reasoning
-10.1007/s10817-005-3075-8,Combining Sets with Cardinals,Calogero G. Zarba,2005,14,Journal of Automated Reasoning
-10.1007/s10817-007-9080-3,Reasoning in Description Logics by a Reduction to Disjunctive Datalog,Ullrich Hustadt and Boris Motik and Ulrike Sattler,2007,75,Journal of Automated Reasoning
-10.1007/s10817-016-9388-y,Analyzing Program Termination and Complexity Automatically with AProVE,Jürgen Giesl and Cornelius Aschermann and Marc Brockschmidt and Fabian Emmes and Florian Frohn and Carsten Fuhs and Jera Hensel and Carsten Otto and Martin Plücker and Peter Schneider-Kamp and Thomas Ströder and Stephanie Swiderski and René Thiemann,2017,69,Journal of Automated Reasoning
-10.1007/s10817-012-9255-4,Wave Equation Numerical Resolution: A Comprehensive Mechanized Proof of a C Program,Sylvie Boldo and François Clément and Jean-Christophe Filliâtre and Micaela Mayero and Guillaume Melquiond and Pierre Weis,2013,44,Journal of Automated Reasoning
-10.1007/s10817-021-09610-2,Integrating Owicki–Gries for C11-Style Memory Models into Isabelle/HOL,Sadegh Dalvandi and Brijesh Dongol and Simon Doherty and Heike Wehrheim,2022,5,Journal of Automated Reasoning
-10.1007/s10817-016-9385-1,A Complete Uniform Substitution Calculus for Differential Dynamic Logic,André Platzer,2017,57,Journal of Automated Reasoning
-10.1007/s10817-018-09509-5,Compositional Falsification of Cyber-Physical Systems with Machine Learning Components,Tommaso Dreossi and Alexandre Donzé and Sanjit A. Seshia,2019,51,Journal of Automated Reasoning
-10.1007/s10817-011-9243-0,ExpTime Tableaux for Using Sound Global Caching,Rajeev Goré and Linh Anh Nguyen,2013,9,Journal of Automated Reasoning
-10.1007/s10817-006-9062-x,The Calculus of Relations as a Foundation for Mathematics,Steven Givant,2007,20,Journal of Automated Reasoning
-10.1007/s10817-009-9123-z,Balancing the Load,Eyad Alkassar and Mark A. Hillebrand and Dirk C. Leinenbach and Norbert W. Schirmer and Artem Starostin and Alexandra Tsyban,2009,28,Journal of Automated Reasoning
-10.1007/s10817-009-9117-x,An Intuitionistic Proof of a Discrete Form of the Jordan Curve Theorem Formalized in Coq with Combinatorial Hypermaps,Jean-François Dufourd,2009,14,Journal of Automated Reasoning
-10.1007/s10817-017-9432-6,A Unifying View on SMT-Based Software Verification,Dirk Beyer and Matthias Dangl and Philipp Wendler,2018,31,Journal of Automated Reasoning
-10.1007/s10817-010-9207-9,Nested Abstract Syntax in Coq,André Hirschowitz and Marco Maggesi,2012,7,Journal of Automated Reasoning
+10.1007/s10817-016-9388-y,Analyzing Program Termination and Complexity Automatically with AProVE,Jürgen Giesl and Cornelius Aschermann and Marc Brockschmidt and Fabian Emmes and Florian Frohn and Carsten Fuhs and Jera Hensel and Carsten Otto and Martin Plücker and Peter Schneider-Kamp and Thomas Ströder and Stephanie Swiderski and René Thiemann,2017,70,Journal of Automated Reasoning
+10.1023/b:jars.0000021016.61054.3b,Trust and Partial Typing in Open Systems of Mobile Agents,James Riely and Matthew Hennessy,2003,10,Journal of Automated Reasoning
+10.1023/a:1006343127545,n.m.,Patrick Mills and Edward Tsang,2000,33,Journal of Automated Reasoning
+10.1007/s10817-016-9386-0,The Bayesian Ontology Language $$\mathcal {BEL}$$ BEL,İsmail İlkan Ceylan and Rafael Peñaloza,2017,15,Journal of Automated Reasoning
+10.1023/a:1025055424017,n.m.,Xavier Leroy,2003,79,Journal of Automated Reasoning
 10.1007/s10817-019-09520-4,Solving Quantifier-Free First-Order Constraints Over Finite Sets and Binary Relations,Maximiliano Cristiá and Gianfranco Rossi,2020,9,Journal of Automated Reasoning
+10.1007/s10817-020-09570-z,A Learning-Based Approach to Synthesizing Invariants for Incomplete Verification Engines,Daniel Neider and P. Madhusudan and Shambwaditya Saha and Pranav Garg and Daejun Park,2020,3,Journal of Automated Reasoning
+10.1023/a:1006326723002,n.m.,Fabio Massacci and Laura Marraro,2000,69,Journal of Automated Reasoning
+10.1007/s10817-018-09509-5,Compositional Falsification of Cyber-Physical Systems with Machine Learning Components,Tommaso Dreossi and Alexandre Donzé and Sanjit A. Seshia,2019,53,Journal of Automated Reasoning
+10.1007/s10817-014-9301-5,Machine Learning for First-Order Theorem Proving,James P. Bridge and Sean B. Holden and Lawrence C. Paulson,2014,35,Journal of Automated Reasoning
+10.1007/s10817-010-9184-z,Preface of Special Issue on “Computer Security: Foundations and Automated Reasoning”,Lujo Bauer and Sandro Etalle and Jerry den Hartog and Luca Viganò,2011,0,Journal of Automated Reasoning
+10.1007/s10817-020-09569-6,Chain Reduction for Binary and Zero-Suppressed Decision Diagrams,Randal E. Bryant,2020,2,Journal of Automated Reasoning
+10.1007/s10817-009-9132-y,"Reusing a JML Specification Dedicated to Verification for Testing, and Vice-Versa: Case Studies",Lydie du Bousquet and Yves Ledru and Olivier Maury and Catherine Oriat and Jean-Louis Lanet,2010,10,Journal of Automated Reasoning
+10.1007/s10817-022-09635-1,Faster Linear Unification Algorithm,Dennis de Champeaux,2022,0,Journal of Automated Reasoning
+10.1007/s10817-022-09638-y,From Specification to Testing: Semantics Engineering for Lua 5.2,Mallku Soldevila and Beta Ziliani and Bruno Silvestre,2022,0,Journal of Automated Reasoning
+10.1007/s10817-022-09637-z,Six Decades of Automated Reasoning: Papers in Memory of Larry Wos,Maria Paola Bonacina,2022,0,Journal of Automated Reasoning
+10.1023/a:1010635625063,n.m.,Robert Veroff,2001,4,Journal of Automated Reasoning
+10.1007/s10817-005-9005-y,Heuristic-Based Backtracking Relaxation for Propositional Satisfiability,Ateet Bhalla and Inês Lynce and José T. de Sousa and João Marques-Silva,2005,2,Journal of Automated Reasoning
+10.1007/s10817-006-9028-z,Some Techniques for Proving Termination of the Hyperresolution Calculus,N. Peltier,2006,1,Journal of Automated Reasoning
+10.1007/s10817-005-9024-8,Termination Proofs for String Rewriting Systems via Inverse Match-Bounds,Alfons Geser and Dieter Hofbauer and Johannes Waldmann,2005,11,Journal of Automated Reasoning
 10.1007/s10817-020-09552-1,Formalizing the LLL Basis Reduction Algorithm and the LLL Factorization Algorithm in Isabelle/HOL,René Thiemann and Ralph Bottesch and Jose Divasón and Max W. Haslbeck and Sebastiaan J. C. Joosten and Akihisa Yamada,2020,0,Journal of Automated Reasoning
 10.1007/s10817-015-9328-2,The 2013 Evaluation of SMT-COMP and SMT-LIB,David R. Cok and Aaron Stump and Tjark Weber,2015,7,Journal of Automated Reasoning
-10.1007/s10817-018-09505-9,Limited Second-Order Functionality in a First-Order Setting,Matt Kaufmann and J Strother Moore,2020,4,Journal of Automated Reasoning
-10.1007/s10817-015-9342-4,Mark Stickel: His Earliest Work,Donald W. Loveland,2016,0,Journal of Automated Reasoning
-10.1007/s10817-006-9054-x,Efficient Query Processing with Reduced Implicate Tries,Neil V. Murray and Erik Rosenthal,2007,6,Journal of Automated Reasoning
-10.1007/s10817-022-09635-1,Faster Linear Unification Algorithm,Dennis de Champeaux,2022,0,Journal of Automated Reasoning
-10.1007/s10817-022-09637-z,Six Decades of Automated Reasoning: Papers in Memory of Larry Wos,Maria Paola Bonacina,2022,0,Journal of Automated Reasoning
-10.1007/s10817-022-09638-y,From Specification to Testing: Semantics Engineering for Lua 5.2,Mallku Soldevila and Beta Ziliani and Bruno Silvestre,2022,0,Journal of Automated Reasoning
-10.1007/s10817-004-6885-1,Choices in Representation and Reduction Strategies for Lambda Terms in Intensional Contexts,Chuck Liang and Gopalan Nadathur and Xiaochu Qi,2004,11,Journal of Automated Reasoning
-10.1007/s10817-009-9150-9,A New Default Theories Compilation for MSP-Entailment,Salem Benferhat and Safa Yahi and Habiba Drias,2010,1,Journal of Automated Reasoning
-10.1007/s10817-020-09545-0,Verified Analysis of Random Binary Tree Structures,Manuel Eberl and Max W. Haslbeck and Tobias Nipkow,2020,2,Journal of Automated Reasoning
-10.1007/s10817-022-09622-6,Special Issue of Selected Extended Papers of IJCAR 2020,Nicolas Peltier and Viorica Sofronie-Stokkermans,2022,0,Journal of Automated Reasoning
-10.1007/s10817-022-09625-3,Polite Combination of Algebraic Datatypes,Ying Sheng and Yoni Zohar and Christophe Ringeissen and Jane Lange and Pascal Fontaine and Clark Barrett,2022,0,Journal of Automated Reasoning
-10.1007/s10817-022-09624-4,Deciding the Word Problem for Ground and Strongly Shallow Identities w.r.t. Extensional Symbols,Franz Baader and Deepak Kapur,2022,0,Journal of Automated Reasoning
-10.1007/s10817-018-09504-w,A Verified Implementation of Algebraic Numbers in Isabelle/HOL,Sebastiaan J. C. Joosten and René Thiemann and Akihisa Yamada,2020,2,Journal of Automated Reasoning
-10.1023/b:jars.0000022020.08299.5b,Preface,Deepak Kapur,2004,0,Journal of Automated Reasoning
-10.1007/s10817-015-9352-2,Adding Decision Procedures to SMT Solvers Using Axioms with Triggers,Claire Dross and Sylvain Conchon and Johannes Kanig and Andrei Paskevich,2016,9,Journal of Automated Reasoning
-10.1007/s10817-022-09644-0,A Formalization of Dedekind Domains and Class Groups of Global Fields,Anne Baanen and Sander R. Dahmen and Ashvni Narayanan and Filippo A. E. Nuccio Mortarino Majno di Capriglio,2022,1,Journal of Automated Reasoning
-10.1023/a:1021983302516,n.m.,Freek Wiedijk,2002,8,Journal of Automated Reasoning
-10.1007/s10817-012-9262-5,Non-Linear Rewrite Closure and Weak Normalization,Carles Creus and Guillem Godoy and Francesc Massanes and Ashish Tiwari,2013,0,Journal of Automated Reasoning
-10.1007/s10817-019-09519-x,Combining Induction and Saturation-Based Theorem Proving,M. Echenim and N. Peltier,2020,5,Journal of Automated Reasoning
-10.1007/s10817-009-9138-5,Crystal: Integrating Structured Queries into a Tactic Language,Dominik Dietrich and Ewaryst Schulz,2010,3,Journal of Automated Reasoning
-10.1007/s10817-006-9039-9,Verification of FPGA Layout Generators in Higher-Order Logic,Oliver Pell,2007,7,Journal of Automated Reasoning
-10.1007/s10817-005-9005-y,Heuristic-Based Backtracking Relaxation for Propositional Satisfiability,Ateet Bhalla and Inês Lynce and José T. de Sousa and João Marques-Silva,2005,2,Journal of Automated Reasoning
-10.1007/s10817-012-9254-5,Preface,Benjamin C. Pierce and Stephanie Weirich,2012,4,Journal of Automated Reasoning
-10.1023/a:1025010812596,n.m.,,2003,0,Journal of Automated Reasoning
-10.1023/b:jars.0000021188.52328.42,Contents to Volume 31,,2003,0,Journal of Automated Reasoning
-10.1023/a:1010744127526,n.m.,C. A. Johnson,2001,0,Journal of Automated Reasoning
-10.1007/s10817-013-9280-y,The Reachability Problem in Constructive Geometric Constraint Solving Based Dynamic Geometry,Marta R. Hidalgo and Robert Joan-Arinyo,2014,4,Journal of Automated Reasoning
-10.1007/s10817-017-9411-y,Many-Sorted Equivalence of Shiny and Strongly Polite Theories,Filipe Casal and João Rasga,2018,5,Journal of Automated Reasoning
-10.1007/s10817-006-9028-z,Some Techniques for Proving Termination of the Hyperresolution Calculus,N. Peltier,2006,1,Journal of Automated Reasoning
-10.1007/s10817-006-9056-8,Empirically Successful Automated Reasoning: Applications Issue,Bernd Fischer and Geoff Sutcliffe and Stephan Schulz,2007,0,Journal of Automated Reasoning
-10.1007/s10817-006-9030-5,Formal Correctness of a Quadratic Unification Algorithm,José-Luis Ruiz-Reina and Francisco-Jesús Martín-Mateos and José-Antonio Alonso and María-José Hidalgo,2007,4,Journal of Automated Reasoning
-10.1007/s10817-018-9465-5,Introduction to Milestones in Interactive Theorem Proving,Jeremy Avigad and Jasmin Christian Blanchette and Gerwin Klein and Lawrence Paulson and Andrei Popescu and Gregor Snelting,2018,2,Journal of Automated Reasoning
-10.1023/b:jars.0000021186.93911.99,Subject Index to Volume 31,,2003,0,Journal of Automated Reasoning
-10.1007/s10817-006-9038-x,Explaining Gabriel–Zisman Localization to the Computer,Carlos Simpson,2006,1,Journal of Automated Reasoning
-10.1007/s10817-006-9052-z,Third Special Issue on Techniques for Automated Termination Proofs,Jürgen Giesl and Deepak Kapur,2007,1,Journal of Automated Reasoning
-10.1007/s10817-015-9337-1,Improving Legibility of Formal Proofs Based on the Close Reference Principle is NP-Hard,Karol Pąk,2015,12,Journal of Automated Reasoning
-10.1007/s10817-013-9279-4,A Connection-based Characterization of Bi-intuitionistic Validity,Didier Galmiche and Daniel Méry,2013,0,Journal of Automated Reasoning
 10.1007/s10817-018-9493-1,Wombit: A Portfolio Bit-Vector Solver Using Word-Level Propagation,Wenxi Wang and Harald Søndergaard and Peter J. Stuckey,2019,2,Journal of Automated Reasoning
-10.1007/s10817-017-9422-8,Parallel Postulates and Continuity Axioms: A Mechanized Study in Intuitionistic Logic Using Coq,Pierre Boutry and Charly Gries and Julien Narboux and Pascal Schreck,2019,8,Journal of Automated Reasoning
-10.1007/s10817-004-6241-5,Model-Theoretic Methods in Combined Constraint Satisfiability,Silvio Ghilardi,2004,52,Journal of Automated Reasoning
-10.1007/s10817-013-9299-0,Theorem of Three Circles in Coq,Julianna Zsidó,2014,0,Journal of Automated Reasoning
-10.1007/s10817-012-9270-5,Emptiness and Finiteness for Tree Automata with Global Reflexive Disequality Constraints,Carles Creus and Adrià Gascón and Guillem Godoy,2013,1,Journal of Automated Reasoning
-10.1007/s10817-020-09569-6,Chain Reduction for Binary and Zero-Suppressed Decision Diagrams,Randal E. Bryant,2020,2,Journal of Automated Reasoning
-10.1007/s10817-006-9041-2,Satisfiability in the Year 2005,Enrico Giunchiglia and Toby Walsh,2006,0,Journal of Automated Reasoning
-10.1007/s10817-017-9436-2,The Matrix Reproved (Verification Pearl),Martin Clochard and Léon Gondelman and Mário Pereira,2018,1,Journal of Automated Reasoning
-10.1007/s10817-019-09527-x,Formalization of Metatheory of the Quipper Quantum Programming Language in a Linear Logic,Mohamed Yousri Mahmoud and Amy P. Felty,2019,6,Journal of Automated Reasoning
-10.1007/s10817-009-9163-4,Visually Dynamic Presentation of Proofs in Plane Geometry,Zheng Ye and Shang-Ching Chou and Xiao-Shan Gao,2010,11,Journal of Automated Reasoning
-10.1007/s10817-015-9322-8,A Mechanised Proof of Gödel’s Incompleteness Theorems Using Nominal Isabelle,Lawrence C. Paulson,2015,18,Journal of Automated Reasoning
-10.1007/s10817-007-9078-x,Tractable Reasoning and Efficient Query Answering in Description Logics: The DL-Lite Family,Diego Calvanese and Giuseppe De Giacomo and Domenico Lembo and Maurizio Lenzerini and Riccardo Rosati,2007,640,Journal of Automated Reasoning
-10.1023/a:1015850010607,n.m.,,2002,0,Journal of Automated Reasoning
-10.1007/s10817-009-9137-6,Procedural Representation of CIC Proof Terms,Ferruccio Guidi,2010,3,Journal of Automated Reasoning
-10.1007/s10817-010-9166-1,Automated Flaw Detection in Algebraic Specifications,Andriy Dunets and Gerhard Schellhorn and Wolfgang Reif,2010,2,Journal of Automated Reasoning
-10.1007/s10817-005-9006-x,Exponential Lower Bounds for the Running Time of DPLL Algorithms on Satisfiable Formulas,Michael Alekhnovich and Edward A. Hirsch and Dmitry Itsykson,2006,26,Journal of Automated Reasoning
-10.1007/s10817-017-9438-0,Proof Pearl: Bounding Least Common Multiples with Triangles,Hing-Lun Chan and Michael Norrish,2019,1,Journal of Automated Reasoning
-10.1007/s10817-010-9184-z,Preface of Special Issue on “Computer Security: Foundations and Automated Reasoning”,Lujo Bauer and Sandro Etalle and Jerry den Hartog and Luca Viganò,2011,0,Journal of Automated Reasoning
+10.1007/s10817-019-09534-y,An Assertional Proof of Red–Black Trees Using Dafny,Ricardo Peña,2020,3,Journal of Automated Reasoning
 10.1007/s10817-015-9354-0,An Experiment with Satisfiability Modulo SAT,Hantao Zhang,2016,0,Journal of Automated Reasoning
-10.1007/s10817-007-9074-1,Visualizing SAT Instances and Runs of the DPLL Algorithm,Carsten Sinz,2007,13,Journal of Automated Reasoning
-10.1023/a:1017396417942,n.m.,,2001,0,Journal of Automated Reasoning
-10.1007/s10817-020-09559-8,Proof-Producing Synthesis of CakeML from Monadic HOL Functions,Oskar Abrahamsson and Son Ho and Hrutvik Kanabar and Ramana Kumar and Magnus O. Myreen and Michael Norrish and Yong Kiam Tan,2020,1,Journal of Automated Reasoning
-10.1007/s10817-004-6243-3,"A Decision Procedure for a Sublanguage of Set Theory Involving Monotone, Additive, and Multiplicative Functions, I: The Two-Level Case",Calogero G. Zarba and Domenico Cantone and Jacob T. Schwartz,2004,3,Journal of Automated Reasoning
 10.1007/s10817-005-9021-y,Preface,Jügen Giesl and Deepak Kapur,2005,0,Journal of Automated Reasoning
-10.1007/s10817-020-09564-x,From QBFs to MALL and Back via Focussing,Anupam Das,2020,0,Journal of Automated Reasoning
-10.1007/s10817-011-9223-4,Proof Pearl: Regular Expression Equivalence and Relation Algebra,Alexander Krauss and Tobias Nipkow,2012,38,Journal of Automated Reasoning
-10.1023/a:1010635625063,n.m.,Robert Veroff,2001,4,Journal of Automated Reasoning
-10.1007/s10817-005-9024-8,Termination Proofs for String Rewriting Systems via Inverse Match-Bounds,Alfons Geser and Dieter Hofbauer and Johannes Waldmann,2005,11,Journal of Automated Reasoning
-10.1023/a:1006362203438,n.m.,Etienne de Klerk and Hans van Maaren and Joost P. Warners,2000,10,Journal of Automated Reasoning
-10.1007/s10817-006-9044-z,Searching for Shortest Single Axioms for Groups of Exponent 6,Nick C. Fiala and Keith M. Agre,2006,1,Journal of Automated Reasoning
-10.1007/s10817-016-9401-5,Markov Chains and Markov Decision Processes in Isabelle/HOL,Johannes Hölzl,2017,12,Journal of Automated Reasoning
-10.1007/s10817-018-9494-0,An Automata-Theoretic Approach to Model-Checking Systems and Specifications Over Infinite Data Domains,Hadar Frenkel and Orna Grumberg and Sarai Sheinvald,2019,4,Journal of Automated Reasoning
-10.1007/s10817-008-9108-3,An Extensible Encoding of Object-oriented Data Models in hol,Achim D. Brucker and Burkhart Wolff,2008,12,Journal of Automated Reasoning
-10.1007/s10817-006-9026-1,Design and Results of the First Satisfiability Modulo Theories Competition (SMT-COMP 2005),Clark Barrett and Leonardo de Moura and Aaron Stump,2005,20,Journal of Automated Reasoning
-10.1007/s10817-009-9132-y,"Reusing a JML Specification Dedicated to Verification for Testing, and Vice-Versa: Case Studies",Lydie du Bousquet and Yves Ledru and Olivier Maury and Catherine Oriat and Jean-Louis Lanet,2010,10,Journal of Automated Reasoning
-10.1007/s10817-015-9323-7,Decision Procedures for Flat Array Properties,Francesco Alberti and Silvio Ghilardi and Natasha Sharygina,2015,9,Journal of Automated Reasoning
-10.1007/s10817-019-09530-2,Implicit Computational Complexity of Subrecursive Definitions and Applications to Cryptographic Proofs,Patrick Baillot and Gilles Barthe and Ugo Dal Lago,2019,0,Journal of Automated Reasoning
+10.1007/s10817-013-9299-0,Theorem of Three Circles in Coq,Julianna Zsidó,2014,0,Journal of Automated Reasoning
+10.1007/s10817-012-9262-5,Non-Linear Rewrite Closure and Weak Normalization,Carles Creus and Guillem Godoy and Francesc Massanes and Ashish Tiwari,2013,0,Journal of Automated Reasoning
+10.1007/s10817-013-9280-y,The Reachability Problem in Constructive Geometric Constraint Solving Based Dynamic Geometry,Marta R. Hidalgo and Robert Joan-Arinyo,2014,4,Journal of Automated Reasoning
+10.1023/a:1021983302516,n.m.,Freek Wiedijk,2002,8,Journal of Automated Reasoning
+10.1023/a:1025010812596,n.m.,,2003,0,Journal of Automated Reasoning
+10.1023/a:1015850010607,n.m.,,2002,0,Journal of Automated Reasoning
+10.1007/s10817-019-09527-x,Formalization of Metatheory of the Quipper Quantum Programming Language in a Linear Logic,Mohamed Yousri Mahmoud and Amy P. Felty,2019,6,Journal of Automated Reasoning
 10.1007/s10817-020-09544-1,Loop-Type Sequent Calculi for Temporal Logic,R. Alonderis and R. Pliuškevičius and A. Pliuškevičienė and H. Giedra,2020,1,Journal of Automated Reasoning
-10.1007/s10817-009-9119-8,Proving Fairness and Implementation Correctness of a Microkernel Scheduler,Matthias Daum and Jan Dörrenbächer and Burkhart Wolff,2009,9,Journal of Automated Reasoning
-10.1007/s10817-013-9292-7,Using Isabelle/HOL to Verify First-Order Relativity Theory,Mike Stannett and István Németi,2014,8,Journal of Automated Reasoning
+10.1007/s10817-018-9467-3,Long-Distance Q-Resolution with Dependency Schemes,Tomáš Peitl and Friedrich Slivovsky and Stefan Szeider,2019,4,Journal of Automated Reasoning
+10.1007/s10817-016-9401-5,Markov Chains and Markov Decision Processes in Isabelle/HOL,Johannes Hölzl,2017,12,Journal of Automated Reasoning
+10.1007/s10817-012-9254-5,Preface,Benjamin C. Pierce and Stephanie Weirich,2012,4,Journal of Automated Reasoning
+10.1007/s10817-012-9270-5,Emptiness and Finiteness for Tree Automata with Global Reflexive Disequality Constraints,Carles Creus and Adrià Gascón and Guillem Godoy,2013,1,Journal of Automated Reasoning
 10.1007/s10817-007-9073-2,Integrating Searching and Authoring in Mizar,Paul Cairns and Jeremy Gow,2007,7,Journal of Automated Reasoning
 10.1007/s10817-014-9312-2,Formally Verified Certificate Checkers for Hardest-to-Round Computation,Érik Martin-Dorel and Guillaume Hanrot and Micaela Mayero and Laurent Théry,2015,4,Journal of Automated Reasoning
 10.1007/s10817-006-9032-3,"MPTP 0.2: Design, Implementation, and Initial Experiments",Josef Urban,2007,37,Journal of Automated Reasoning
-10.1023/b:jars.0000021014.79255.33,Heap-Bounded Assembly Language,David Aspinall and Adriana Compagnoni,2003,16,Journal of Automated Reasoning
+10.1007/s10817-015-9352-2,Adding Decision Procedures to SMT Solvers Using Axioms with Triggers,Claire Dross and Sylvain Conchon and Johannes Kanig and Andrei Paskevich,2016,9,Journal of Automated Reasoning
+10.1007/s10817-010-9166-1,Automated Flaw Detection in Algebraic Specifications,Andriy Dunets and Gerhard Schellhorn and Wolfgang Reif,2010,2,Journal of Automated Reasoning
+10.1007/s10817-009-9137-6,Procedural Representation of CIC Proof Terms,Ferruccio Guidi,2010,3,Journal of Automated Reasoning
+10.1023/b:jars.0000022020.08299.5b,Preface,Deepak Kapur,2004,0,Journal of Automated Reasoning
+10.1007/s10817-009-9150-9,A New Default Theories Compilation for MSP-Entailment,Salem Benferhat and Safa Yahi and Habiba Drias,2010,1,Journal of Automated Reasoning
+10.1007/s10817-006-9041-2,Satisfiability in the Year 2005,Enrico Giunchiglia and Toby Walsh,2006,0,Journal of Automated Reasoning
+10.1007/s10817-008-9108-3,An Extensible Encoding of Object-oriented Data Models in hol,Achim D. Brucker and Burkhart Wolff,2008,12,Journal of Automated Reasoning
+10.1007/s10817-004-6241-5,Model-Theoretic Methods in Combined Constraint Satisfiability,Silvio Ghilardi,2004,52,Journal of Automated Reasoning
+10.1023/a:1017396417942,n.m.,,2001,0,Journal of Automated Reasoning
+10.1007/s10817-015-9342-4,Mark Stickel: His Earliest Work,Donald W. Loveland,2016,0,Journal of Automated Reasoning
+10.1007/s10817-006-9054-x,Efficient Query Processing with Reduced Implicate Tries,Neil V. Murray and Erik Rosenthal,2007,6,Journal of Automated Reasoning
+10.1023/a:1010744127526,n.m.,C. A. Johnson,2001,0,Journal of Automated Reasoning
+10.1007/s10817-006-9038-x,Explaining Gabriel–Zisman Localization to the Computer,Carlos Simpson,2006,1,Journal of Automated Reasoning
+10.1023/b:jars.0000021186.93911.99,Subject Index to Volume 31,,2003,0,Journal of Automated Reasoning
+10.1007/s10817-006-9056-8,Empirically Successful Automated Reasoning: Applications Issue,Bernd Fischer and Geoff Sutcliffe and Stephan Schulz,2007,0,Journal of Automated Reasoning
+10.1007/s10817-006-9030-5,Formal Correctness of a Quadratic Unification Algorithm,José-Luis Ruiz-Reina and Francisco-Jesús Martín-Mateos and José-Antonio Alonso and María-José Hidalgo,2007,4,Journal of Automated Reasoning
+10.1007/s10817-017-9436-2,The Matrix Reproved (Verification Pearl),Martin Clochard and Léon Gondelman and Mário Pereira,2018,1,Journal of Automated Reasoning
+10.1007/s10817-017-9438-0,Proof Pearl: Bounding Least Common Multiples with Triangles,Hing-Lun Chan and Michael Norrish,2019,1,Journal of Automated Reasoning
+10.1007/s10817-022-09622-6,Special Issue of Selected Extended Papers of IJCAR 2020,Nicolas Peltier and Viorica Sofronie-Stokkermans,2022,0,Journal of Automated Reasoning
+10.1007/s10817-022-09625-3,Polite Combination of Algebraic Datatypes,Ying Sheng and Yoni Zohar and Christophe Ringeissen and Jane Lange and Pascal Fontaine and Clark Barrett,2022,0,Journal of Automated Reasoning
+10.1007/s10817-022-09624-4,Deciding the Word Problem for Ground and Strongly Shallow Identities w.r.t. Extensional Symbols,Franz Baader and Deepak Kapur,2022,0,Journal of Automated Reasoning
+10.1007/s10817-006-9052-z,Third Special Issue on Techniques for Automated Termination Proofs,Jürgen Giesl and Deepak Kapur,2007,1,Journal of Automated Reasoning
+10.1007/s10817-013-9279-4,A Connection-based Characterization of Bi-intuitionistic Validity,Didier Galmiche and Daniel Méry,2013,0,Journal of Automated Reasoning
+10.1007/s10817-020-09559-8,Proof-Producing Synthesis of CakeML from Monadic HOL Functions,Oskar Abrahamsson and Son Ho and Hrutvik Kanabar and Ramana Kumar and Magnus O. Myreen and Michael Norrish and Yong Kiam Tan,2020,1,Journal of Automated Reasoning
+10.1007/s10817-015-9337-1,Improving Legibility of Formal Proofs Based on the Close Reference Principle is NP-Hard,Karol Pąk,2015,12,Journal of Automated Reasoning
+10.1007/s10817-004-6885-1,Choices in Representation and Reduction Strategies for Lambda Terms in Intensional Contexts,Chuck Liang and Gopalan Nadathur and Xiaochu Qi,2004,11,Journal of Automated Reasoning
+10.1007/s10817-020-09564-x,From QBFs to MALL and Back via Focussing,Anupam Das,2020,0,Journal of Automated Reasoning
+10.1023/b:jars.0000021188.52328.42,Contents to Volume 31,,2003,0,Journal of Automated Reasoning
+10.1007/s10817-011-9223-4,Proof Pearl: Regular Expression Equivalence and Relation Algebra,Alexander Krauss and Tobias Nipkow,2012,38,Journal of Automated Reasoning
+10.1007/s10817-018-9465-5,Introduction to Milestones in Interactive Theorem Proving,Jeremy Avigad and Jasmin Christian Blanchette and Gerwin Klein and Lawrence Paulson and Andrei Popescu and Gregor Snelting,2018,2,Journal of Automated Reasoning
+10.1007/s10817-006-9044-z,Searching for Shortest Single Axioms for Groups of Exponent 6,Nick C. Fiala and Keith M. Agre,2006,1,Journal of Automated Reasoning
+10.1007/s10817-018-09505-9,Limited Second-Order Functionality in a First-Order Setting,Matt Kaufmann and J Strother Moore,2020,4,Journal of Automated Reasoning
+10.1007/s10817-019-09530-2,Implicit Computational Complexity of Subrecursive Definitions and Applications to Cryptographic Proofs,Patrick Baillot and Gilles Barthe and Ugo Dal Lago,2019,0,Journal of Automated Reasoning
+10.1023/a:1006362203438,n.m.,Etienne de Klerk and Hans van Maaren and Joost P. Warners,2000,10,Journal of Automated Reasoning
+10.1007/s10817-013-9292-7,Using Isabelle/HOL to Verify First-Order Relativity Theory,Mike Stannett and István Németi,2014,8,Journal of Automated Reasoning
+10.1007/s10817-007-9074-1,Visualizing SAT Instances and Runs of the DPLL Algorithm,Carsten Sinz,2007,13,Journal of Automated Reasoning
+10.1007/s10817-009-9135-8,Geometry Constructions Language,Predrag Janičić,2010,22,Journal of Automated Reasoning
+10.1007/s10817-013-9296-3,The Incredible ELK,Yevgeny Kazakov and Markus Krötzsch and František Simančík,2014,142,Journal of Automated Reasoning
+10.1007/s10817-018-9494-0,An Automata-Theoretic Approach to Model-Checking Systems and Specifications Over Infinite Data Domains,Hadar Frenkel and Orna Grumberg and Sarai Sheinvald,2019,4,Journal of Automated Reasoning
+10.1007/s10817-018-09504-w,A Verified Implementation of Algebraic Numbers in Isabelle/HOL,Sebastiaan J. C. Joosten and René Thiemann and Akihisa Yamada,2020,2,Journal of Automated Reasoning
+10.1007/s10817-009-9119-8,Proving Fairness and Implementation Correctness of a Microkernel Scheduler,Matthias Daum and Jan Dörrenbächer and Burkhart Wolff,2009,9,Journal of Automated Reasoning
 10.1007/s10817-005-6534-3,Verifying Termination and Reduction Properties about Higher-Order Logic Programs,Brigitte Pientka,2005,12,Journal of Automated Reasoning
 10.1007/s10817-009-9118-9,Certifying Low-Level Programs with Hardware Interrupts and Preemptive Threads,Xinyu Feng and Zhong Shao and Yu Guo and Yuan Dong,2009,23,Journal of Automated Reasoning
-10.1007/s10817-009-9135-8,Geometry Constructions Language,Predrag Janičić,2010,22,Journal of Automated Reasoning
-10.1007/s10817-022-09654-y,A Solver for Arrays with Concatenation,Qinshi Wang and Andrew W. Appel,2023,0,Journal of Automated Reasoning
-10.1007/s10817-012-9258-1,Specification and Verification of Concurrent Programs Through Refinements,Sandip Ray and Rob Sumners,2013,6,Journal of Automated Reasoning
-10.1007/s10817-008-9114-5,Backdoor Sets of Quantified Boolean Formulas,Marko Samer and Stefan Szeider,2009,41,Journal of Automated Reasoning
-10.1007/s10817-019-09534-y,An Assertional Proof of Red–Black Trees Using Dafny,Ricardo Peña,2020,3,Journal of Automated Reasoning
+10.1023/b:jars.0000021014.79255.33,Heap-Bounded Assembly Language,David Aspinall and Adriana Compagnoni,2003,16,Journal of Automated Reasoning
+10.1007/s10817-022-09644-0,A Formalization of Dedekind Domains and Class Groups of Global Fields,Anne Baanen and Sander R. Dahmen and Ashvni Narayanan and Filippo A. E. Nuccio Mortarino Majno di Capriglio,2022,1,Journal of Automated Reasoning
+10.1007/s10817-009-9162-5,Visually Dynamic Presentation of Proofs in Plane Geometry,Zheng Ye and Shang-Ching Chou and Xiao-Shan Gao,2010,19,Journal of Automated Reasoning
+10.1007/s10817-009-9127-8,Formalization and Implementation of Modern SAT Solvers,Filip Marić,2009,28,Journal of Automated Reasoning
 10.1007/s10817-010-9188-8,Reducing Protocol Analysis with XOR to the XOR-Free Case in the Horn Theory Based Approach,Ralf Küsters and Tomasz Truderung,2011,18,Journal of Automated Reasoning
-10.1007/s10817-004-6245-1,"MPTP ? Motivation, Implementation, First Experiments",Josef Urban,2004,27,Journal of Automated Reasoning
 10.1007/s10817-009-9140-y,A Formalization of Powerlist Algebra in ACL2,Ruben A. Gamboa,2009,4,Journal of Automated Reasoning
-10.1007/s10817-010-9167-0,Resolution with Order and Selection for Hybrid Logics,Carlos Areces and Daniel Gorín,2011,8,Journal of Automated Reasoning
+10.1007/s10817-012-9258-1,Specification and Verification of Concurrent Programs Through Refinements,Sandip Ray and Rob Sumners,2013,6,Journal of Automated Reasoning
+10.1007/s10817-017-9411-y,Many-Sorted Equivalence of Shiny and Strongly Polite Theories,Filipe Casal and João Rasga,2018,5,Journal of Automated Reasoning
+10.1007/s10817-015-9323-7,Decision Procedures for Flat Array Properties,Francesco Alberti and Silvio Ghilardi and Natasha Sharygina,2015,9,Journal of Automated Reasoning
+10.1007/s10817-004-6245-1,"MPTP ? Motivation, Implementation, First Experiments",Josef Urban,2004,27,Journal of Automated Reasoning
 10.1023/a:1006408829523,n.m.,Jürgen Giesl,2001,6,Journal of Automated Reasoning
-10.1023/a:1025059508087,n.m.,David Basin and Stefan Friedrich and Marek Gawkowski,2003,5,Journal of Automated Reasoning
-10.1023/a:1025086804452,n.m.,Tobias Nipkow,2003,10,Journal of Automated Reasoning
-10.1007/s10817-009-9149-2,MetiTarski: An Automatic Theorem Prover for Real-Valued Special Functions,Behzad Akbarpour and Lawrence Charles Paulson,2010,67,Journal of Automated Reasoning
-10.1007/s10817-011-9237-y,An Interpolating Sequent Calculus for Quantifier-Free Presburger Arithmetic,Angelo Brillout and Daniel Kroening and Philipp Rümmer and Thomas Wahl,2011,22,Journal of Automated Reasoning
-10.1023/a:1006303512524,n.m.,Irina Rish and Rina Dechter,2000,46,Journal of Automated Reasoning
-10.1007/s10817-013-9277-6,Analyzing Innermost Runtime Complexity of Term Rewriting by Dependency Pairs,Lars Noschinski and Fabian Emmes and Jürgen Giesl,2013,28,Journal of Automated Reasoning
-10.1023/a:1006351428454,n.m.,Hantao Zhang and Mark Stickel,2000,42,Journal of Automated Reasoning
-10.1007/s10817-018-9467-3,Long-Distance Q-Resolution with Dependency Schemes,Tomáš Peitl and Friedrich Slivovsky and Stefan Szeider,2019,4,Journal of Automated Reasoning
 10.1007/s10817-017-9441-5,System-Level Non-interference of Constant-Time Cryptography. Part I: Model,Gilles Barthe and Gustavo Betarte and Juan Diego Campo and Carlos Luna,2019,8,Journal of Automated Reasoning
-10.1007/s10817-016-9396-y,Combining SAT Solvers with Computer Algebra Systems to Verify Combinatorial Conjectures,Edward Zulkoski and Curtis Bright and Albert Heinle and Ilias Kotsireas and Krzysztof Czarnecki and Vijay Ganesh,2017,12,Journal of Automated Reasoning
+10.1007/s10817-006-9039-9,Verification of FPGA Layout Generators in Higher-Order Logic,Oliver Pell,2007,7,Journal of Automated Reasoning
+10.1007/s10817-010-9167-0,Resolution with Order and Selection for Hybrid Logics,Carlos Areces and Daniel Gorín,2011,8,Journal of Automated Reasoning
+10.1007/s10817-020-09574-9,Multi-cost Bounded Tradeoff Analysis in MDP,Arnd Hartmanns and Sebastian Junges and Joost-Pieter Katoen and Tim Quatmann,2020,7,Journal of Automated Reasoning
+10.1007/s10817-020-09545-0,Verified Analysis of Random Binary Tree Structures,Manuel Eberl and Max W. Haslbeck and Tobias Nipkow,2020,2,Journal of Automated Reasoning
+10.1007/s10817-009-9138-5,Crystal: Integrating Structured Queries into a Tactic Language,Dominik Dietrich and Ewaryst Schulz,2010,3,Journal of Automated Reasoning
+10.1007/s10817-019-09519-x,Combining Induction and Saturation-Based Theorem Proving,M. Echenim and N. Peltier,2020,5,Journal of Automated Reasoning
+10.1007/s10817-006-9026-1,Design and Results of the First Satisfiability Modulo Theories Competition (SMT-COMP 2005),Clark Barrett and Leonardo de Moura and Aaron Stump,2005,20,Journal of Automated Reasoning
+10.1023/a:1025086804452,n.m.,Tobias Nipkow,2003,10,Journal of Automated Reasoning
+10.1023/a:1025059508087,n.m.,David Basin and Stefan Friedrich and Marek Gawkowski,2003,5,Journal of Automated Reasoning
+10.1007/s10817-011-9237-y,An Interpolating Sequent Calculus for Quantifier-Free Presburger Arithmetic,Angelo Brillout and Daniel Kroening and Philipp Rümmer and Thomas Wahl,2011,22,Journal of Automated Reasoning
+10.1007/s10817-004-6243-3,"A Decision Procedure for a Sublanguage of Set Theory Involving Monotone, Additive, and Multiplicative Functions, I: The Two-Level Case",Calogero G. Zarba and Domenico Cantone and Jacob T. Schwartz,2004,3,Journal of Automated Reasoning
+10.1023/a:1006303512524,n.m.,Irina Rish and Rina Dechter,2000,46,Journal of Automated Reasoning
+10.1007/s10817-017-9422-8,Parallel Postulates and Continuity Axioms: A Mechanized Study in Intuitionistic Logic Using Coq,Pierre Boutry and Charly Gries and Julien Narboux and Pascal Schreck,2019,8,Journal of Automated Reasoning
+10.1023/a:1006351428454,n.m.,Hantao Zhang and Mark Stickel,2000,42,Journal of Automated Reasoning
+10.1007/s10817-013-9277-6,Analyzing Innermost Runtime Complexity of Term Rewriting by Dependency Pairs,Lars Noschinski and Fabian Emmes and Jürgen Giesl,2013,28,Journal of Automated Reasoning
+10.1007/s10817-022-09626-2,Using Model Theory to Find Decidable and Tractable Description Logics with Concrete Domains,Franz Baader and Jakub Rydval,2022,0,Journal of Automated Reasoning
+10.1007/s10817-021-09612-0,A Coq Formalization of Lebesgue Integration of Nonnegative Functions,Sylvie Boldo and François Clément and Florian Faissole and Vincent Martin and Micaela Mayero,2022,2,Journal of Automated Reasoning
+10.1007/s10817-005-9006-x,Exponential Lower Bounds for the Running Time of DPLL Algorithms on Satisfiable Formulas,Michael Alekhnovich and Edward A. Hirsch and Dmitry Itsykson,2006,26,Journal of Automated Reasoning
+10.1007/s10817-015-9334-4,Semantically-Guided Goal-Sensitive Reasoning: Model Representation,Maria Paola Bonacina and David A. Plaisted,2016,12,Journal of Automated Reasoning
+10.1007/s10817-009-9163-4,Visually Dynamic Presentation of Proofs in Plane Geometry,Zheng Ye and Shang-Ching Chou and Xiao-Shan Gao,2010,11,Journal of Automated Reasoning
+10.1007/s10817-015-9322-8,A Mechanised Proof of Gödel’s Incompleteness Theorems Using Nominal Isabelle,Lawrence C. Paulson,2015,18,Journal of Automated Reasoning
 10.1007/s10817-018-09510-y,Conflict-Driven Satisfiability for Theory Combination: Transition System and Completeness,Maria Paola Bonacina and Stéphane Graham-Lengrand and Natarajan Shankar,2020,7,Journal of Automated Reasoning
 10.1007/s10817-016-9384-2,Semantically-Guided Goal-Sensitive Reasoning: Inference System and Completeness,Maria Paola Bonacina and David A. Plaisted,2017,10,Journal of Automated Reasoning
-10.1007/s10817-022-09626-2,Using Model Theory to Find Decidable and Tractable Description Logics with Concrete Domains,Franz Baader and Jakub Rydval,2022,0,Journal of Automated Reasoning
-10.1007/s10817-009-9127-8,Formalization and Implementation of Modern SAT Solvers,Filip Marić,2009,28,Journal of Automated Reasoning
-10.1007/s10817-015-9334-4,Semantically-Guided Goal-Sensitive Reasoning: Model Representation,Maria Paola Bonacina and David A. Plaisted,2016,12,Journal of Automated Reasoning
-10.1007/s10817-009-9162-5,Visually Dynamic Presentation of Proofs in Plane Geometry,Zheng Ye and Shang-Ching Chou and Xiao-Shan Gao,2010,19,Journal of Automated Reasoning
+10.1007/s10817-016-9396-y,Combining SAT Solvers with Computer Algebra Systems to Verify Combinatorial Conjectures,Edward Zulkoski and Curtis Bright and Albert Heinle and Ilias Kotsireas and Krzysztof Czarnecki and Vijay Ganesh,2017,12,Journal of Automated Reasoning
+10.1007/s10817-017-9406-8,The OWL Reasoner Evaluation (ORE) 2015 Competition Report,Bijan Parsia and Nicolas Matentzoglu and Rafael S. Gonçalves and Birte Glimm and Andreas Steigmiller,2017,39,Journal of Automated Reasoning
 10.1007/s10817-007-9072-3,Student Proof Exercises Using MathsTiles and Isabelle/HOL in an Intelligent Book,William Billingsley and Peter Robinson,2007,18,Journal of Automated Reasoning
-10.1007/s10817-013-9296-3,The Incredible ELK,Yevgeny Kazakov and Markus Krötzsch and František Simančík,2014,142,Journal of Automated Reasoning
-10.1007/s10817-017-9406-8,The OWL Reasoner Evaluation (ORE) 2015 Competition Report,Bijan Parsia and Nicolas Matentzoglu and Rafael S. Gonçalves and Birte Glimm and Andreas Steigmiller,2017,38,Journal of Automated Reasoning
-10.1007/s10817-018-9457-5,VST-Floyd: A Separation Logic Tool to Verify Correctness of C Programs,Qinxiang Cao and Lennart Beringer and Samuel Gruetter and Josiah Dodds and Andrew W. Appel,2018,44,Journal of Automated Reasoning
+10.1007/s10817-022-09654-y,A Solver for Arrays with Concatenation,Qinshi Wang and Andrew W. Appel,2023,0,Journal of Automated Reasoning
 10.1007/s10817-009-9155-4,A Formally Verified Compiler Back-end,Xavier Leroy,2009,295,Journal of Automated Reasoning
-10.1007/s10817-013-9278-5,Extending Sledgehammer with SMT Solvers,Jasmin Christian Blanchette and Sascha Böhme and Lawrence C. Paulson,2013,61,Journal of Automated Reasoning
-10.1007/s10817-021-09612-0,A Coq Formalization of Lebesgue Integration of Nonnegative Functions,Sylvie Boldo and François Clément and Florian Faissole and Vincent Martin and Micaela Mayero,2022,2,Journal of Automated Reasoning
+10.1007/s10817-013-9278-5,Extending Sledgehammer with SMT Solvers,Jasmin Christian Blanchette and Sascha Böhme and Lawrence C. Paulson,2013,62,Journal of Automated Reasoning
 10.1007/s10817-012-9250-9,The HOL Light Theory of Euclidean Space,John Harrison,2013,69,Journal of Automated Reasoning
-10.1007/s10817-020-09574-9,Multi-cost Bounded Tradeoff Analysis in MDP,Arnd Hartmanns and Sebastian Junges and Joost-Pieter Katoen and Tim Quatmann,2020,7,Journal of Automated Reasoning
+10.1007/s10817-008-9114-5,Backdoor Sets of Quantified Boolean Formulas,Marko Samer and Stefan Szeider,2009,41,Journal of Automated Reasoning
+10.1007/s10817-009-9149-2,MetiTarski: An Automatic Theorem Prover for Real-Valued Special Functions,Behzad Akbarpour and Lawrence Charles Paulson,2010,68,Journal of Automated Reasoning
+10.1007/s10817-018-9457-5,VST-Floyd: A Separation Logic Tool to Verify Correctness of C Programs,Qinxiang Cao and Lennart Beringer and Samuel Gruetter and Josiah Dodds and Andrew W. Appel,2018,44,Journal of Automated Reasoning
+10.1007/s10817-007-9078-x,Tractable Reasoning and Efficient Query Answering in Description Logics: The DL-Lite Family,Diego Calvanese and Giuseppe De Giacomo and Domenico Lembo and Maurizio Lenzerini and Riccardo Rosati,2007,641,Journal of Automated Reasoning
 10.1007/s10817-010-9169-y,The Right Tools for the Job: Correctness of Cone of Influence Reduction Proved Using ACL2 and HOL4,Michael J. C. Gordon and Matt Kaufmann and Sandip Ray,2011,3,Journal of Automated Reasoning
 10.1007/s10817-011-9229-y,A Canonical Locally Named Representation of Binding,Randy Pollack and Masahiko Sato and Wilmer Ricciotti,2012,17,Journal of Automated Reasoning
 10.1007/s10817-015-9325-5,Interpolation Systems for Ground Proofs in Automated Deduction: a Survey,Maria Paola Bonacina and Moa Johansson,2015,9,Journal of Automated Reasoning
-10.1007/s10817-010-9213-y,On Deciding Satisfiability by Theorem Proving with Speculative Inferences,Maria Paola Bonacina and Christopher A. Lynch and Leonardo de Moura,2011,29,Journal of Automated Reasoning
 10.1007/s10817-014-9314-0,On Interpolation in Automated Theorem Proving,Maria Paola Bonacina and Moa Johansson,2015,11,Journal of Automated Reasoning
 10.1007/s10817-006-7237-0,Preface,Jürgen Giesl and Deepak Kapur,2005,0,Journal of Automated Reasoning
 10.1007/s10817-010-9173-2,Tests and Proofs,Bernhard Beckert and Reiner Hähnle,2010,0,Journal of Automated Reasoning
@@ -594,7 +594,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10817-010-9205-y,Unification Modulo Homomorphic Encryption,Siva Anantharaman and Hai Lin and Christopher Lynch and Paliath Narendran and Michael Rusinowitch,2012,1,Journal of Automated Reasoning
 10.1007/s10817-016-9395-z,Automated Reducible Geometric Theorem Proving and Discovery by Gröbner Basis Method,Jie Zhou and Dingkang Wang and Yao Sun,2017,5,Journal of Automated Reasoning
 10.1023/a:1006282725324,n.m.,Dieter Hutter and Michael Kohlhase,2000,4,Journal of Automated Reasoning
-10.1023/a:1015741511536,n.m.,Robert Cremanns and Friedrich Otto,2002,0,Journal of Automated Reasoning
 10.1007/s10817-013-9294-5,A Goal-Directed Decision Procedure for Hybrid PDL,Mark Kaminski and Gert Smolka,2014,3,Journal of Automated Reasoning
 10.1007/s10817-005-9008-8,The Complexity of Pure Literal Elimination,Jan Johannsen,2006,0,Journal of Automated Reasoning
 10.1023/a:1010695827789,n.m.,Branden Fitelson and Larry Wos,2001,3,Journal of Automated Reasoning
@@ -618,7 +617,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10817-008-9112-7,Formal Models and Analysis of Secure Multicast in Wired and Wireless Networks,Roberto Gorrieri and Fabio Martinelli and Marinella Petrocchi,2008,6,Journal of Automated Reasoning
 10.1023/a:1021975117537,n.m.,Quang Huy Nguyen and Claude Kirchner and Hélène Kirchner,2002,16,Journal of Automated Reasoning
 10.1007/s10817-006-9042-1,Deciding Boolean Algebra with Presburger Arithmetic,Viktor Kuncak and Huu Hai Nguyen and Martin Rinard,2006,42,Journal of Automated Reasoning
-10.1007/s10817-022-09655-x,Efficient Extensional Binary Tries,Andrew W. Appel and Xavier Leroy,2023,0,Journal of Automated Reasoning
 10.1007/s10817-015-9344-2,A Superposition Calculus for Abductive Reasoning,M. Echenim and N. Peltier,2016,2,Journal of Automated Reasoning
 10.1023/a:1006249507577,n.m.,Peter Balsiger and Alain Heuerding and Stefan Schwendimann,2000,30,Journal of Automated Reasoning
 10.1007/s10817-010-9170-5,Portfolios in Stochastic Local Search: Efficiently Computing Most Probable Explanations in Bayesian Networks,Ole J. Mengshoel and Dan Roth and David C. Wilkins,2011,6,Journal of Automated Reasoning
@@ -654,6 +652,7 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1023/b:jars.0000029963.64213.ac,Fast Term Indexing with Coded Context Trees,Harald Ganzinger and Robert Nieuwenhuis and Pilar Nivela,2004,9,Journal of Automated Reasoning
 10.1007/s10817-008-9105-6,Performance Analysis and Functional Verification of the Stop-and-Wait Protocol in HOL,Osman Hasan and Sofiène Tahar,2009,16,Journal of Automated Reasoning
 10.1023/a:1011960831261,n.m.,P. A. Bonatti,2001,10,Journal of Automated Reasoning
+10.1007/s10817-019-09516-0,Strong Extension-Free Proof Systems,Marijn J. H. Heule and Benjamin Kiesl and Armin Biere,2020,11,Journal of Automated Reasoning
 10.1007/s10817-008-9098-1,A Mechanical Analysis of Program Verification Strategies,Sandip Ray and Warren A. Hunt and John Matthews and J. Strother Moore,2008,9,Journal of Automated Reasoning
 10.1007/s10817-010-9183-0,Linear Quantifier Elimination,Tobias Nipkow,2010,14,Journal of Automated Reasoning
 10.1007/s10817-017-9445-1,Verified iptables Firewall Analysis and Verification,Cornelius Diekmann and Lars Hupel and Julius Michaelis and Maximilian Haslbeck and Georg Carle,2018,10,Journal of Automated Reasoning
@@ -661,12 +660,12 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1023/a:1020122610698,n.m.,Steven Eker,2002,7,Journal of Automated Reasoning
 10.1007/s10817-013-9273-x,Finite-valued Semantics for Canonical Labelled Calculi,Matthias Baaz and Ori Lahav and Anna Zamansky,2013,22,Journal of Automated Reasoning
 10.1007/s10817-018-9450-z,Formally Verified Algorithms for Upper-Bounding State Space Diameters,Mohammad Abdulaziz and Michael Norrish and Charles Gretton,2018,2,Journal of Automated Reasoning
-10.1007/s10817-017-9448-y,A Verified ODE Solver and the Lorenz Attractor,Fabian Immler,2018,7,Journal of Automated Reasoning
 10.1007/s10817-019-09518-y,QPCF: Higher-Order Languages and Quantum Circuits,Luca Paolini and Mauro Piccolo and Margherita Zorzi,2019,7,Journal of Automated Reasoning
 10.1023/a:1025003423108,n.m.,Robert F. Stärk and Joachim Schmid,2003,3,Journal of Automated Reasoning
 10.1007/s10817-018-9496-y,CompCertS: A Memory-Aware Verified C Compiler Using a Pointer as Integer Semantics,Frédéric Besson and Sandrine Blazy and Pierre Wilke,2019,6,Journal of Automated Reasoning
 10.1007/s10817-022-09619-1,Verifying Whiley Programs with Boogie,David J. Pearce and Mark Utting and Lindsay Groves,2022,2,Journal of Automated Reasoning
 10.1007/s10817-015-9360-2,Eisbach: A Proof Method Language for Isabelle,Daniel Matichuk and Toby Murray and Makarius Wenzel,2016,22,Journal of Automated Reasoning
+10.1007/s10817-017-9448-y,A Verified ODE Solver and the Lorenz Attractor,Fabian Immler,2018,8,Journal of Automated Reasoning
 10.1007/s10817-009-9131-z,KBO Orientability,Harald Zankl and Nao Hirokawa and Aart Middeldorp,2009,18,Journal of Automated Reasoning
 10.1007/s10817-009-9124-y,Model Checking Dynamic Memory Allocation in Operating Systems,María del Mar Gallardo and Pedro Merino and David Sanán,2009,17,Journal of Automated Reasoning
 10.1007/s10817-012-9246-5,6 Years of SMT-COMP,Clark Barrett and Morgan Deters and Leonardo de Moura and Albert Oliveras and Aaron Stump,2013,32,Journal of Automated Reasoning
@@ -682,15 +681,11 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1023/a:1020109502432,n.m.,Adnan H. Yahya,2002,5,Journal of Automated Reasoning
 10.1007/s10817-007-9070-5,User Interaction with the Matita Proof Assistant,Andrea Asperti and Claudio Sacerdoti Coen and Enrico Tassi and Stefano Zacchiroli,2007,42,Journal of Automated Reasoning
 10.1007/s10817-007-9094-x,A Mechanized Proof of the Basic Perturbation Lemma,Jesús Aransay and Clemens Ballarin and Julio Rubio,2008,22,Journal of Automated Reasoning
-10.1007/s10817-021-09606-y,"Conflict-Driven Satisfiability for Theory Combination: Lemmas, Modules, and Proofs",Maria Paola Bonacina and Stéphane Graham-Lengrand and Natarajan Shankar,2022,1,Journal of Automated Reasoning
-10.1007/s10817-019-09522-2,A Formalized General Theory of Syntax with Bindings: Extended Version,Lorenzo Gheri and Andrei Popescu,2020,4,Journal of Automated Reasoning
 10.1007/s10817-005-1970-7,A Parallelization Scheme Based on Work Stealing for a Class of SAT Solvers,Bernard Jurkowiak and Chu Min Li and Gil Utard,2005,25,Journal of Automated Reasoning
 10.1007/s10817-013-9289-2,A Framework for the Verification of Certifying Computations,Eyad Alkassar and Sascha Böhme and Kurt Mehlhorn and Christine Rizkallah,2014,14,Journal of Automated Reasoning
 10.1007/s10817-005-9012-z,Regular Random k-SAT: Properties of Balanced Formulas,Yacine Boufkhad and Olivier Dubois and Yannet Interian and Bart Selman,2006,13,Journal of Automated Reasoning
-10.1007/s10817-017-9413-9,Safe Autonomy Under Perception Uncertainty Using Chance-Constrained Temporal Logic,Susmit Jha and Vasumathi Raman and Dorsa Sadigh and Sanjit A. Seshia,2018,28,Journal of Automated Reasoning
 10.1007/s10817-009-9130-0,Evolutionary Learning of Dynamic Naive Bayesian Classifiers,Miguel A. Palacios-Alonso and Carlos A. Brizuela and L. Enrique Sucar,2010,17,Journal of Automated Reasoning
 10.1007/s10817-005-9011-0,Solving Non-Boolean Satisfiability Problems with Stochastic Local Search: A Comparison of Encodings,Alan M. Frisch and Timothy J. Peugniez and Anthony J. Doggett and Peter W. Nightingale,2006,14,Journal of Automated Reasoning
-10.1007/s10817-017-9440-6,The Role of the Mizar Mathematical Library for Interactive Proof Development in Mizar,Grzegorz Bancerek and Czesław Byliński and Adam Grabowski and Artur Korniłowicz and Roman Matuszewski and Adam Naumowicz and Karol Pąk,2018,128,Journal of Automated Reasoning
 10.1023/a:1026748613865,n.m.,Ulrich Berger,2001,19,Journal of Automated Reasoning
 10.1007/s10817-014-9306-0,Implementing and Reasoning About Hash-consed Data Structures in Coq,Thomas Braibant and Jacques-Henri Jourdan and David Monniaux,2014,11,Journal of Automated Reasoning
 10.1023/a:1027328830731,n.m.,R. Gentilini and C. Piazza and A. Policriti,2003,65,Journal of Automated Reasoning
@@ -698,9 +693,15 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1023/a:1027339205632,n.m.,Lin Hai and Sun Jigui and Zhang Yimin,2003,32,Journal of Automated Reasoning
 10.1007/s10817-006-9057-7,Mechanizing and Improving Dependency Pairs,Jürgen Giesl and René Thiemann and Peter Schneider-Kamp and Stephan Falke,2007,124,Journal of Automated Reasoning
 10.1007/s10817-013-9297-2,A Formalisation of the Myhill-Nerode Theorem Based on Regular Expressions,Chunhan Wu and Xingyuan Zhang and Christian Urban,2014,7,Journal of Automated Reasoning
-10.1007/s10817-019-09516-0,Strong Extension-Free Proof Systems,Marijn J. H. Heule and Benjamin Kiesl and Armin Biere,2020,11,Journal of Automated Reasoning
+10.1007/s10817-022-09655-x,Efficient Extensional Binary Tries,Andrew W. Appel and Xavier Leroy,2023,0,Journal of Automated Reasoning
+10.1023/a:1015741511536,n.m.,Robert Cremanns and Friedrich Otto,2002,1,Journal of Automated Reasoning
+10.1007/s10817-019-09522-2,A Formalized General Theory of Syntax with Bindings: Extended Version,Lorenzo Gheri and Andrei Popescu,2020,4,Journal of Automated Reasoning
+10.1007/s10817-021-09606-y,"Conflict-Driven Satisfiability for Theory Combination: Lemmas, Modules, and Proofs",Maria Paola Bonacina and Stéphane Graham-Lengrand and Natarajan Shankar,2022,1,Journal of Automated Reasoning
+10.1007/s10817-010-9213-y,On Deciding Satisfiability by Theorem Proving with Speculative Inferences,Maria Paola Bonacina and Christopher A. Lynch and Leonardo de Moura,2011,29,Journal of Automated Reasoning
 10.1007/s10817-010-9181-2,Automata-Based Axiom Pinpointing,Franz Baader and Rafael Peñaloza,2010,29,Journal of Automated Reasoning
 10.1007/s10817-006-9051-0,An Optimal Decision Procedure for Right Propositional Neighborhood Logic,Davide Bresolin and Angelo Montanari and Guido Sciavicco,2007,29,Journal of Automated Reasoning
+10.1007/s10817-017-9440-6,The Role of the Mizar Mathematical Library for Interactive Proof Development in Mizar,Grzegorz Bancerek and Czesław Byliński and Adam Grabowski and Artur Korniłowicz and Roman Matuszewski and Adam Naumowicz and Karol Pąk,2018,128,Journal of Automated Reasoning
+10.1007/s10817-017-9413-9,Safe Autonomy Under Perception Uncertainty Using Chance-Constrained Temporal Logic,Susmit Jha and Vasumathi Raman and Dorsa Sadigh and Sanjit A. Seshia,2018,29,Journal of Automated Reasoning
 10.1007/s10817-006-9050-1,Superposition-based Equality Handling for Analytic Tableaux,Martin Giese,2007,1,Journal of Automated Reasoning
 10.1007/s10817-012-9272-3,Set Graphs. III. Proof Pearl: Claw-Free Graphs Mirrored into Transitive Hereditarily Finite Sets,Eugenio G. Omodeo and Alexandru I. Tomescu,2014,5,Journal of Automated Reasoning
 10.1023/a:1017251220541,n.m.,,2000,0,Journal of Automated Reasoning
@@ -719,9 +720,9 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10817-021-09591-2,Automated Discovery of Geometric Theorems Based on Vector Equations,Xicheng Peng and Qihang Chen and Jingzhong Zhang and Mao Chen,2021,1,Journal of Automated Reasoning
 10.1007/s10817-020-09566-9,CoCon: A Conference Management System with Formally Verified Document Confidentiality,Andrei Popescu and Peter Lammich and Ping Hou,2021,1,Journal of Automated Reasoning
 10.1007/s10817-017-9425-5,Selected Extended Papers of NFM 2016: Preface,César A. Muñoz and Sanjai Rayadurgam and Oksana Tkachuk,2018,0,Journal of Automated Reasoning
+10.1007/s10817-022-09656-w,Semantically-Guided Goal-Sensitive Reasoning: Decision Procedures and the Koala Prover,Maria Paola Bonacina and Sarah Winkler,2023,0,Journal of Automated Reasoning
 10.1007/s10817-018-9473-5,A PSpace Algorithm for Acyclic Epistemic DL $$\mathcal {ALCS}5_m$$ ALCS 5 m,Jia Tao,2019,0,Journal of Automated Reasoning
 10.1007/s10817-004-6244-2,On the Complexity of Deduction Modulo Leaf Permutative Equations,Thierry Boy de la Tour and Mnacho Echenim,2004,0,Journal of Automated Reasoning
-10.1023/a:1006350622830,n.m.,Holger H. Hoos and Thomas Stützle,2000,98,Journal of Automated Reasoning
 10.1023/b:jars.0000044825.55318.95,A Proof Environment for Teaching Mathematics,Richard Sommer and Gregory Nuckols,2004,8,Journal of Automated Reasoning
 10.1007/s10817-009-9146-5,Rewriting Conversions Implemented with Continuations,Michael Norrish,2009,1,Journal of Automated Reasoning
 10.1023/a:1017515831550,n.m.,Guido Fiorino,2001,5,Journal of Automated Reasoning
@@ -738,16 +739,12 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10817-017-9430-8,Selected Extended Papers of VSTTE 2016,Sandrine Blazy and Marsha Chechik,2018,0,Journal of Automated Reasoning
 10.1007/s10817-008-9109-2,Data Compression for Proof Replay,Hasan Amjad,2008,6,Journal of Automated Reasoning
 10.1007/s10817-014-9308-y,Erratum to: Extension of a Decision Procedure for a Fragment of Hybrid Logic with Binders,Marta Cialdea Mayer,2015,0,Journal of Automated Reasoning
-10.1007/s10817-019-09525-z,Efficient Verified (UN)SAT Certificate Checking,Peter Lammich,2020,6,Journal of Automated Reasoning
 10.1007/s10817-018-9466-4,Proof Diagrams for Multiplicative Linear Logic: Syntax and Semantics,Matteo Acclavio,2019,2,Journal of Automated Reasoning
-10.1007/s10817-005-9022-x,Mechanically Proving Termination Using Polynomial Interpretations,Evelyne Contejean and Claude Marché and Ana Paula Tomás and Xavier Urbain,2005,41,Journal of Automated Reasoning
-10.1007/s10817-016-9402-4,Complexity and Resource Bound Analysis of Imperative Programs Using Difference Constraints,Moritz Sinn and Florian Zuleger and Helmut Veith,2017,32,Journal of Automated Reasoning
 10.1023/a:1021905232640,n.m.,,2002,0,Journal of Automated Reasoning
 10.1007/s10817-007-9089-7,Connection Tableaux with Lazy Paramodulation,Andrei Paskevich,2008,5,Journal of Automated Reasoning
 10.1007/s10817-007-9088-8,IJCAR Preface,Ulrich Furbach,2008,0,Journal of Automated Reasoning
 10.1023/a:1015889609698,n.m.,,2002,0,Journal of Automated Reasoning
 10.1023/a:1010687609134,n.m.,Kenneth Harris and Branden Fitelson,2001,4,Journal of Automated Reasoning
-10.1023/a:1006393501098,n.m.,Geoff Sutcliffe,2000,20,Journal of Automated Reasoning
 10.1007/s10817-009-9156-3,On Modern Clause-Learning Satisfiability Solvers,Knot Pipatsrisawat and Adnan Darwiche,2010,7,Journal of Automated Reasoning
 10.1007/s10817-016-9392-2,Finding Proofs in Tarskian Geometry,Michael Beeson and Larry Wos,2017,9,Journal of Automated Reasoning
 10.1007/s10817-016-9390-4,Solution Validation and Extraction for QBF Preprocessing,Marijn J. H. Heule and Martina Seidl and Armin Biere,2017,11,Journal of Automated Reasoning
@@ -760,9 +757,9 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10817-018-9488-y,Selected Extended Papers of NFM 2017: Preface,Clark Barrett and Temesghen Kahsai,2019,0,Journal of Automated Reasoning
 10.1007/s10817-006-9047-9,Graph-based Decision for Gödel-Dummett Logics,Dominique Larchey-Wendling,2007,5,Journal of Automated Reasoning
 10.1007/s10817-005-7354-1,First-Order Temporal Verification in Practice,M. C. Fernández-Gago and U. Hustadt and C. Dixon and M. Fisher and B. Konev,2005,8,Journal of Automated Reasoning
-10.1007/s10817-021-09587-y,Message from the New Editor-in-Chief,Jasmin Blanchette,2021,0,Journal of Automated Reasoning
 10.1023/a:1017594402123,n.m.,Lifeng He,2001,5,Journal of Automated Reasoning
 10.1007/s10817-006-9037-y,Checking Consistency and Completeness of On-Line Product Manuals,Carsten Sinz and Wolfgang Küchlin and Dieter Feichtinger and Georg Görtler,2007,0,Journal of Automated Reasoning
+10.1007/s10817-021-09587-y,Message from the New Editor-in-Chief,Jasmin Blanchette,2021,0,Journal of Automated Reasoning
 10.1007/s10817-022-09627-1,Combination of Uniform Interpolants via Beth Definability,Diego Calvanese and Silvio Ghilardi and Alessandro Gianola and Marco Montali and Andrey Rivkin,2022,0,Journal of Automated Reasoning
 10.1023/a:1017369106556,n.m.,,2001,0,Journal of Automated Reasoning
 10.1007/s10817-020-09551-2,Formalization of the Poincaré Disc Model of Hyperbolic Geometry,Danijela Simić and Filip Marić and Pierre Boutry,2021,0,Journal of Automated Reasoning
@@ -775,9 +772,11 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1023/a:1010691726881,n.m.,Larry Wos,2001,3,Journal of Automated Reasoning
 10.1007/s10817-022-09640-4,Tuple Interpretations for Termination of Term Rewriting,Akihisa Yamada,2022,0,Journal of Automated Reasoning
 10.1007/s10817-012-9249-2,Multi-Completion with Termination Tools,Sarah Winkler and Haruhiko Sato and Aart Middeldorp and Masahito Kurihara,2013,6,Journal of Automated Reasoning
-10.1007/s10817-018-9475-3,A Proof Theory for Model Checking,Quentin Heath and Dale Miller,2019,5,Journal of Automated Reasoning
+10.1023/a:1006393501098,n.m.,Geoff Sutcliffe,2000,21,Journal of Automated Reasoning
+10.1007/s10817-017-9407-7,The TPTP Problem Library and Associated Infrastructure,Geoff Sutcliffe,2017,100,Journal of Automated Reasoning
 10.1007/s10817-005-9000-3,Simplifying Proofs in Fitch-Style Natural Deduction Systems,Konstantine Arkoudas,2005,5,Journal of Automated Reasoning
-10.1007/s10817-017-9426-4,Verifying OpenJDK’s Sort Method for Generic Collections,Stijn de Gouw and Frank S. de Boer and Richard Bubel and Reiner Hähnle and Jurriaan Rot and Dominic Steinhöfel,2019,17,Journal of Automated Reasoning
+10.1023/a:1027357912519,n.m.,Gilles Dowek and Thérèse Hardin and Claude Kirchner,2003,109,Journal of Automated Reasoning
+10.1023/a:1006155811656,n.m.,Fabio Massacci,2000,55,Journal of Automated Reasoning
 10.1023/a:1010639725972,n.m.,Robert Veroff,2001,15,Journal of Automated Reasoning
 10.1007/s10817-013-9283-8,Reducing Higher-Order Theorem Proving to a Sequence of SAT Problems,Chad E. Brown,2013,14,Journal of Automated Reasoning
 10.1007/s10817-022-09630-6,Local is Best: Efficient Reductions to Modal Logic K,Fabio Papacchini and Cláudia Nalon and Ullrich Hustadt and Clare Dixon,2022,0,Journal of Automated Reasoning
@@ -785,44 +784,46 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10817-017-9447-z,Formalization of the Resolution Calculus for First-Order Logic,Anders Schlichtkrull,2018,8,Journal of Automated Reasoning
 10.1007/s10817-010-9176-z,A Framework for Certified Boolean Branch-and-Bound Optimization,Javier Larrosa and Robert Nieuwenhuis and Albert Oliveras and Enric Rodríguez-Carbonell,2011,8,Journal of Automated Reasoning
 10.1023/a:1025095122199,n.m.,G. Klein and M. Wildmoser,2003,7,Journal of Automated Reasoning
+10.1007/s10817-016-9402-4,Complexity and Resource Bound Analysis of Imperative Programs Using Difference Constraints,Moritz Sinn and Florian Zuleger and Helmut Veith,2017,33,Journal of Automated Reasoning
 10.1007/s10817-017-9408-6,Conflict Resolution: A First-Order Resolution Calculus with Decision Literals and Conflict-Driven Clause Learning,John Slaney and Bruno Woltzenlogel Paleo,2018,5,Journal of Automated Reasoning
 10.1007/s10817-020-09543-2,"Graph Theory in Coq: Minors, Treewidth, and Isomorphisms",Christian Doczkal and Damien Pous,2020,2,Journal of Automated Reasoning
 10.1007/s10817-020-09555-y,Constructive Decision via Redundancy-Free Proof-Search,Dominique Larchey-Wendling,2020,2,Journal of Automated Reasoning
 10.1007/s10817-019-09533-z,First-Order Automated Reasoning with Theories: When Deduction Modulo Theory Meets Practice,Guillaume Burel and Guillaume Bury and Raphaël Cauderlier and David Delahaye and Pierre Halmagrand and Olivier Hermant,2020,6,Journal of Automated Reasoning
 10.1007/s10817-010-9175-0,Computationally Effective Reasoning About Goal Interactions,John Thangarajah and Lin Padgham,2011,18,Journal of Automated Reasoning
-10.1007/s10817-018-9499-8,Explaining AI Decisions Using Efficient Methods for Learning Sparse Boolean Formulae,Susmit Jha and Tuhin Sahai and Vasumathi Raman and Alessandro Pinto and Michael Francis,2019,7,Journal of Automated Reasoning
 10.1007/s10817-020-09548-x,System-Level Non-interference of Constant-Time Cryptography. Part II: Verified Static Analysis and Stealth Memory,Gilles Barthe and Gustavo Betarte and Juan Diego Campo and Carlos Luna and David Pichardie,2020,1,Journal of Automated Reasoning
-10.1007/s10817-017-9433-5,Relational Program Reasoning Using Compiler IR,Moritz Kiefer and Vladimir Klebanov and Mattias Ulbrich,2018,17,Journal of Automated Reasoning
 10.1007/s10817-021-09600-4,Optimization Modulo the Theories of Signed Bit-Vectors and Floating-Point Numbers,Patrick Trentin and Roberto Sebastiani,2021,0,Journal of Automated Reasoning
 10.1023/b:jars.0000021015.15794.82,Lightweight Bytecode Verification,Eva Rose,2003,38,Journal of Automated Reasoning
-10.1007/s10817-008-9099-0,Formal Verification of a C-like Memory Model and Its Uses for Verifying Program Transformations,Xavier Leroy and Sandrine Blazy,2008,99,Journal of Automated Reasoning
 10.1007/s10817-012-9268-z,Formal Mathematics for Mathematicians,Andrzej Trybulec and Artur Kornilowicz and Adam Naumowicz and Krystyna Kuperberg,2013,12,Journal of Automated Reasoning
 10.1007/s10817-012-9264-3,Eliciting Implicit Assumptions of Mizar Proofs by Property Omission,Jesse Alama,2013,1,Journal of Automated Reasoning
 10.1007/s10817-007-9087-9,Matrix Interpretations for Proving Termination of Term Rewriting,Jörg Endrullis and Johannes Waldmann and Hans Zantema,2008,82,Journal of Automated Reasoning
 10.1007/s10817-013-9298-1,Formalization of Shannon’s Theorems,Reynald Affeldt and Manabu Hagiwara and Jonas Sénizergues,2014,16,Journal of Automated Reasoning
-10.1007/s10817-019-09540-0,The MetaCoq Project,Matthieu Sozeau and Abhishek Anand and Simon Boulier and Cyril Cohen and Yannick Forster and Fabian Kunze and Gregory Malecha and Nicolas Tabareau and Théo Winterhalter,2020,19,Journal of Automated Reasoning
-10.1007/s10817-022-09623-5,The Resolution of Keller’s Conjecture,Joshua Brakensiek and Marijn Heule and John Mackey and David Narváez,2022,1,Journal of Automated Reasoning
-10.1007/s10817-011-9222-5,On Explicit Substitution with Names,Kristoffer H. Rose and Roel Bloo and Frédéric Lang,2012,1,Journal of Automated Reasoning
-10.1007/s10817-022-09651-1,Correction: Towards Formalising Schutz’ Axioms for Minkowski Spacetime in Isabelle/HOL,Richard Schmoetten and Jake E. Palmer and Jacques D. Fleuriot,2023,0,Journal of Automated Reasoning
-10.1007/s10817-016-9366-4,On Definitions of Constants and Types in HOL,Rob Arthan,2016,6,Journal of Automated Reasoning
-10.1007/s10817-022-09656-w,Semantically-Guided Goal-Sensitive Reasoning: Decision Procedures and the Koala Prover,Maria Paola Bonacina and Sarah Winkler,2023,0,Journal of Automated Reasoning
-10.1007/s10817-013-9285-6,Anti-unification for Unranked Terms and Hedges,Temur Kutsia and Jordi Levy and Mateu Villaret,2014,14,Journal of Automated Reasoning
-10.1007/s10817-009-9139-4,Optimal Length Resolution Refutations of Difference Constraint Systems,K. Subramani,2009,20,Journal of Automated Reasoning
-10.1023/a:1021603608656,n.m.,Leila Amgoud and Claudette Cayrol,2002,113,Journal of Automated Reasoning
-10.1007/s10817-008-9107-4,Automatic Symmetry Detection for Promela,Alastair F. Donaldson and Alice Miller,2008,5,Journal of Automated Reasoning
-10.1007/s10817-007-9096-8,Tilting at Windmills with Coq: Formal Verification of a Compilation Algorithm for Parallel Moves,Laurence Rideau and Bernard Paul Serpette and Xavier Leroy,2008,13,Journal of Automated Reasoning
-10.1007/s10817-021-09611-1,A Bi-Directional Extensible Interface Between Lean and Mathematica,Robert Y. Lewis and Minchao Wu,2022,1,Journal of Automated Reasoning
-10.1007/s10817-011-9233-2,Analytic Tableaux for Higher-Order Logic with Choice,Julian Backes and Chad Edward Brown,2011,12,Journal of Automated Reasoning
-10.1007/s10817-018-09508-6,OptiMathSAT: A Tool for Optimization Modulo Theories,Roberto Sebastiani and Patrick Trentin,2020,15,Journal of Automated Reasoning
-10.1007/s10817-011-9225-2,The Locally Nameless Representation,Arthur Charguéraud,2012,63,Journal of Automated Reasoning
-10.1023/a:1006171315513,n.m.,Shang-Ching Chou and Xiao-Shan Gao and Jing-Zhong Zhang,2000,44,Journal of Automated Reasoning
-10.1023/b:jars.0000044872.51237.c9,"Living Book – Deduction, Slicing, and Interaction",P. Baumgartner and U. Furbach and M. Gross-Hardt and A. Sinner,2004,9,Journal of Automated Reasoning
-10.1023/a:1027357912519,n.m.,Gilles Dowek and Thérèse Hardin and Claude Kirchner,2003,109,Journal of Automated Reasoning
-10.1007/s10817-015-9357-x,Self-Formalisation of Higher-Order Logic,Ramana Kumar and Rob Arthan and Magnus O. Myreen and Scott Owens,2016,25,Journal of Automated Reasoning
-10.1023/a:1006155811656,n.m.,Fabio Massacci,2000,55,Journal of Automated Reasoning
-10.1007/s10817-023-09662-6,Computer-Aided Constructions of Commafree Codes,Aaron A. Windsor,2023,0,Journal of Automated Reasoning
 10.1007/s10817-010-9187-9,A Survey of Symbolic Methods in Computational Analysis of Cryptographic Systems,Véronique Cortier and Steve Kremer and Bogdan Warinschi,2011,37,Journal of Automated Reasoning
 10.1007/s10817-014-9310-4,Reasoning with Nominal Schemas through Absorption,Andreas Steigmiller and Birte Glimm and Thorsten Liebig,2014,5,Journal of Automated Reasoning
 10.1007/s10817-007-9076-z,Debugging Incoherent Terminologies,Stefan Schlobach and Zhisheng Huang and Ronald Cornet and Frank van Harmelen,2007,103,Journal of Automated Reasoning
 10.1007/s10817-009-9159-0,Incremental Classification of Description Logics Ontologies,Bernardo Cuenca Grau and Christian Halaschek-Wiener and Yevgeny Kazakov and Boontawee Suntisrivaraporn,2010,18,Journal of Automated Reasoning
-10.1007/s10817-017-9407-7,The TPTP Problem Library and Associated Infrastructure,Geoff Sutcliffe,2017,99,Journal of Automated Reasoning
+10.1023/a:1006171315513,n.m.,Shang-Ching Chou and Xiao-Shan Gao and Jing-Zhong Zhang,2000,45,Journal of Automated Reasoning
+10.1007/s10817-008-9099-0,Formal Verification of a C-like Memory Model and Its Uses for Verifying Program Transformations,Xavier Leroy and Sandrine Blazy,2008,99,Journal of Automated Reasoning
+10.1007/s10817-022-09623-5,The Resolution of Keller’s Conjecture,Joshua Brakensiek and Marijn Heule and John Mackey and David Narváez,2022,1,Journal of Automated Reasoning
+10.1007/s10817-011-9222-5,On Explicit Substitution with Names,Kristoffer H. Rose and Roel Bloo and Frédéric Lang,2012,1,Journal of Automated Reasoning
+10.1007/s10817-016-9366-4,On Definitions of Constants and Types in HOL,Rob Arthan,2016,6,Journal of Automated Reasoning
+10.1007/s10817-013-9285-6,Anti-unification for Unranked Terms and Hedges,Temur Kutsia and Jordi Levy and Mateu Villaret,2014,14,Journal of Automated Reasoning
+10.1007/s10817-009-9139-4,Optimal Length Resolution Refutations of Difference Constraint Systems,K. Subramani,2009,20,Journal of Automated Reasoning
+10.1023/a:1021603608656,n.m.,Leila Amgoud and Claudette Cayrol,2002,113,Journal of Automated Reasoning
+10.1007/s10817-008-9107-4,Automatic Symmetry Detection for Promela,Alastair F. Donaldson and Alice Miller,2008,5,Journal of Automated Reasoning
+10.1007/s10817-015-9357-x,Self-Formalisation of Higher-Order Logic,Ramana Kumar and Rob Arthan and Magnus O. Myreen and Scott Owens,2016,25,Journal of Automated Reasoning
+10.1007/s10817-019-09540-0,The MetaCoq Project,Matthieu Sozeau and Abhishek Anand and Simon Boulier and Cyril Cohen and Yannick Forster and Fabian Kunze and Gregory Malecha and Nicolas Tabareau and Théo Winterhalter,2020,19,Journal of Automated Reasoning
+10.1007/s10817-005-9022-x,Mechanically Proving Termination Using Polynomial Interpretations,Evelyne Contejean and Claude Marché and Ana Paula Tomás and Xavier Urbain,2005,42,Journal of Automated Reasoning
+10.1007/s10817-018-9499-8,Explaining AI Decisions Using Efficient Methods for Learning Sparse Boolean Formulae,Susmit Jha and Tuhin Sahai and Vasumathi Raman and Alessandro Pinto and Michael Francis,2019,7,Journal of Automated Reasoning
+10.1007/s10817-023-09662-6,Computer-Aided Constructions of Commafree Codes,Aaron A. Windsor,2023,0,Journal of Automated Reasoning
+10.1007/s10817-022-09651-1,Correction: Towards Formalising Schutz’ Axioms for Minkowski Spacetime in Isabelle/HOL,Richard Schmoetten and Jake E. Palmer and Jacques D. Fleuriot,2023,0,Journal of Automated Reasoning
+10.1007/s10817-007-9096-8,Tilting at Windmills with Coq: Formal Verification of a Compilation Algorithm for Parallel Moves,Laurence Rideau and Bernard Paul Serpette and Xavier Leroy,2008,13,Journal of Automated Reasoning
+10.1007/s10817-021-09611-1,A Bi-Directional Extensible Interface Between Lean and Mathematica,Robert Y. Lewis and Minchao Wu,2022,1,Journal of Automated Reasoning
+10.1007/s10817-011-9233-2,Analytic Tableaux for Higher-Order Logic with Choice,Julian Backes and Chad Edward Brown,2011,12,Journal of Automated Reasoning
+10.1007/s10817-018-09508-6,OptiMathSAT: A Tool for Optimization Modulo Theories,Roberto Sebastiani and Patrick Trentin,2020,15,Journal of Automated Reasoning
+10.1023/b:jars.0000044872.51237.c9,"Living Book – Deduction, Slicing, and Interaction",P. Baumgartner and U. Furbach and M. Gross-Hardt and A. Sinner,2004,9,Journal of Automated Reasoning
+10.1007/s10817-019-09525-z,Efficient Verified (UN)SAT Certificate Checking,Peter Lammich,2020,6,Journal of Automated Reasoning
+10.1007/s10817-018-9475-3,A Proof Theory for Model Checking,Quentin Heath and Dale Miller,2019,6,Journal of Automated Reasoning
+10.1023/a:1006350622830,n.m.,Holger H. Hoos and Thomas Stützle,2000,99,Journal of Automated Reasoning
+10.1007/s10817-011-9225-2,The Locally Nameless Representation,Arthur Charguéraud,2012,64,Journal of Automated Reasoning
+10.1007/s10817-017-9433-5,Relational Program Reasoning Using Compiler IR,Moritz Kiefer and Vladimir Klebanov and Mattias Ulbrich,2018,17,Journal of Automated Reasoning
+10.1007/s10817-017-9426-4,Verifying OpenJDK’s Sort Method for Generic Collections,Stijn de Gouw and Frank S. de Boer and Richard Bubel and Reiner Hähnle and Jurriaan Rot and Dominic Steinhöfel,2019,17,Journal of Automated Reasoning

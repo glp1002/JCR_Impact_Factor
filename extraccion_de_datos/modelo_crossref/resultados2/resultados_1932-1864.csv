@@ -15,6 +15,7 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1002/sam.2016.9.issue-5,n.m.,,2016,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11331,Issue Information,,2017,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11238,Editorial to the Special Issue of Selected Papers of SDM 2013,Jennifer Dy and Zhi-Hua Zhou,2014,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11461,GRATIS: GeneRAting TIme Series with diverse and controllable characteristics,Yanfei Kang and Rob J. Hyndman and Feng Li,2020,42,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11143,Quantitative Horizon Scanning for Mitigating Technological Surprise: Detecting the Potential for Collaboration at the Interface,Carey E. Priebe and Jeffrey L. Solka and David J. Marchette and Avory C. Bryant,2012,2,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.v6.6,n.m.,,2013,0,Statistical Analysis and Data Mining
 10.1002/sam.11544,Weighted validation of heteroscedastic regression models for better selection,Yoonsuh Jung and Hayoung Kim,2022,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
@@ -36,9 +37,12 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1002/sam.v5.5,n.m.,,2012,3,Statistical Analysis and Data Mining
 10.1002/sam.11404,How to Host An Effective Data Competition: Statistical Advice for Competition Design and Analysis,Christine M. Anderson‐Cook and Kary L. Myers and Lu Lu and Michael L. Fugate and Kevin R. Quinlan and Norma Pawley,2019,6,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11266,Survival prediction and variable selection with simultaneous shrinkage and grouping priors,Kyu Ha Lee and Sounak Chakraborty and Jianguo Sun,2015,7,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11161,A survey on unsupervised outlier detection in high-dimensional numerical data,Arthur Zimek and Erich Schubert and Hans-Peter Kriegel,2012,454,Statistical Analysis and Data Mining
+10.1002/sam.11218,Dual-tree fast exact max-kernel search,Ryan R. Curtin and Parikshit Ram,2014,15,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.v6.3,n.m.,,2013,0,Statistical Analysis and Data Mining
 10.1002/sam.11559,Sample selection bias in evaluation of prediction performance of causal models,James P. Long and Min Jin Ha,2022,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11548,"Bayesian modeling of location, scale, and shape parameters in skew‐normal regression models",Martha Lucía Corrales and Edilberto Cepeda‐Cuervo,2022,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11454,Vertex nomination via seeded graph matching,Heather G. Patsolic and Youngser Park and Vince Lyzinski and Carey E. Priebe,2020,6,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11545,Predictive models with end user preference,Yifan Zhao and Xian Yang and Carolina Bolnykh and Steve Harenberg and Nodirbek Korchiev and Saavan Raj Yerramsetty and Bhanu Prasad Vellanki and Ramakanth Kodumagulla and Nagiza F. Samatova,2022,1,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.10002,Guest editorial,Srinivasan Parthasarathy and Bing Liu,2008,0,Statistical Analysis and Data Mining
 10.1002/sam.11243,Carpe Datum ! Comment on ‘data science: An action plan for expanding the technical areas of the field of statistics’,Steven L. Scott,2014,1,Statistical Analysis and Data Mining: The ASA Data Science Journal
@@ -47,12 +51,11 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1002/sam.11528,Modeling and inference for mixtures of simple symmetric exponential families of ‐dimensional distributions for vectors with binary coordinates,Abhishek Chakraborty and Stephen B. Vardeman,2021,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11532,Application of the Cox proportional hazards model and competing risks models to critical illness insurance data,David Zapletal,2021,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.10066,Constrained overlapping clusters: minimizing the negative effects of bridge-nodes,Jerry Scripps and Pang-Ning Tan,2010,4,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.10023,Application-Driven Data Analysis,Chandrika Kamath,2009,0,Statistical Analysis and Data Mining
 10.1002/sam.10095,On the limits of clustering in high dimensions via cost functions,Hoyt A. Koepke and Bertrand S. Clarke,2011,4,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11401,Erratum,,2019,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11375,Advancing science and technology with big data analytics,Jia Li,2018,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11154,Stochastic methodology for prognostics under continuously varying environmental profiles,Linkan Bian and Nagi Gebraeel,2013,36,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11207,A distributed kernel summation framework for general-dimension machine learning,Dongryeol Lee and Piyush Sao and Richard Vuduc and Alexander G. Gray,2014,5,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11314,Spatial regression and estimation of disease risks: A clustering‐based approach,Wenning Feng and Chae Young Lim and Tapabrata Maiti and Zhen Zhang,2016,8,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11226,Multi-transfer: Transfer learning with multiple views and multiple sources,Ben Tan and Erheng Zhong and Evan Wei Xiang and Qiang Yang,2014,21,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.10088,Model selection procedure for high-dimensional data,Yongli Zhang and Xiaotong Shen,2010,24,Statistical Analysis and Data Mining
 10.1002/sam.2014.7.issue-2,n.m.,,2014,0,Statistical Analysis and Data Mining
@@ -68,14 +71,14 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1002/sam.v3:6,n.m.,,2010,0,Statistical Analysis and Data Mining
 10.1002/sam.11185,A coordinate descent algorithm for sparse positive definite matrix estimation,Ting Yuan and Junhui Wang,2013,1,Statistical Analysis and Data Mining
 10.1002/sam.10068,New Era of SAM,Joseph Verducci,2010,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11345,Panning for gold: Enhancing the precision of sensitivity test data,David H. Collins and Brian P. Weaver and Michael S. Hamada,2017,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11363,A nonparametric test of independence between 2 variables,Bin Li and Qingzhao Yu,2017,1,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11575,Local influence analysis for the sliced average third‐moment estimation,Weidong Rao and Xiaofei Liu and Fei Chen,2022,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11451,Dependability‐based cluster weighting in clustering ensemble,Fatemeh Najafi and Hamid Parvin and Kamal Mirzaie and Samad Nejatian and Vahideh Rezaie,2020,6,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11270,Principal axes analysis of symbolic histogram variables,Sun Makosso‐Kallyth,2016,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11350,A Bayesian mixture model for clustering and selection of feature occurrence rates under mean constraints,Qiwei Li and Michele Guindani and Brian J. Reich and Howard D. Bondell and Marina Vannucci,2017,14,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11265,It takes two to tango: Exploring social tie development with both online and offline interactions,Peifeng Yin and Qi He and Xingjie Liu and Wang‐Chien Lee,2016,6,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11560,The fairness‐accuracy Pareto front,Susan Wei and Marc Niethammer,2022,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.10033,A communication efficient probabilistic algorithm for mining frequent itemsets from a peer-to-peer network,Souptik Datta and Hillol Kargupta,2009,2,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11350,A Bayesian mixture model for clustering and selection of feature occurrence rates under mean constraints,Qiwei Li and Michele Guindani and Brian J. Reich and Howard D. Bondell and Marina Vannucci,2017,12,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.10001,A Perspective on Cluster Analysis,Jon R. Kettenring,2008,6,Statistical Analysis and Data Mining
 10.1002/sam.10138,Reduced rank ridge regression and its kernel extensions,Ashin Mukherjee and Ji Zhu,2011,31,Statistical Analysis and Data Mining
 10.1002/sam.11395,A Min-Max conditional covariance algorithm for structure learning of Gaussian graphical models,Wei Gao and Wenna Ye,2019,1,Statistical Analysis and Data Mining: The ASA Data Science Journal
@@ -90,55 +93,51 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1002/sam.v13.2,n.m.,,2020,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.2019.12.issue-3,n.m.,,2019,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11232,Integrating database knowledge and epidemiological design to improve the implementation of data mining methods that evaluate vaccine safety in large healthcare databases,Jennifer C. Nelson and Susan M. Shortreed and Onchee Yu and Do Peterson and Roger Baxter and Bruce Fireman and Ned Lewis and Dave McClure and Eric Weintraub and Stan Xu and Lisa A. Jackson and n.m. n.m.,2014,4,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11446,Tree aggregation for random forest class probability estimation,Andrew J. Sage and Ulrike Genschel and Dan Nettleton,2020,17,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11418,"Optimal transport, mean partition, and uncertainty assessment in cluster analysis",Jia Li and Beomseok Seo and Lin Lin,2019,9,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.10012,Global Correlation Clustering Based on the Hough Transform,Elke Achtert and Christian Böhm and Jörn David and Peer Kröger and Arthur Zimek,2008,35,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11217,On handling negative transfer and imbalanced distributions in multiple source transfer learning,Liang Ge and Jing Gao and Hung Ngo and Kang Li and Aidong Zhang,2014,56,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11557,Factor analysis for high‐dimensional time series: Consistent estimation and efficient computation,Qiang Xia and Heung Wong and Shirun Shen and Kejun He,2022,1,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11542,Sketched Stochastic Dictionary Learning for large‐scale data and application to high‐throughput mass spectrometry,Olga Permiakova and Thomas Burger,2022,1,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11558,Data‐driven sparse partial least squares,Hadrien Lorenzo and Olivier Cloarec and Rodolphe Thiébaut and Jérôme Saracco,2022,1,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11608,Specifying composites in structural equation modeling: A refinement of the Henseler–Ogasawara specification,Xi Yu and Florian Schuberth and Jörg Henseler,2023,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11218,Dual-tree fast exact max-kernel search,Ryan R. Curtin and Parikshit Ram,2014,15,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.10030,Mining abnormal patterns from heterogeneous time-series with irrelevant features for fault event detection,Ryohei Fujimaki and Takayuki Nakata and Hidenori Tsukahara and Akinori Sato and Kenji Yamanishi,2009,13,Statistical Analysis and Data Mining
 10.1002/sam.11613,Adaptive boosting for ordinal target variables using neural networks,Insung Um and Geonseok Lee and Kichun Lee,2023,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11259,Feature import vector machine: A general classifier with flexible feature selection,Samiran Ghosh and Yazhen Wang,2015,3,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11307,Boosted sparse nonlinear distance metric learning,Yuting Ma and Tian Zheng,2016,2,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.10003,Data Mining Research: Current Status and Future Opportunities,Haym Hirsh,2008,15,Statistical Analysis and Data Mining
 10.1002/sam.10096,A permutation approach to validation*,Malik Magdon-Ismail and Konstantin Mertsalov,2010,3,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11265,It takes two to tango: Exploring social tie development with both online and offline interactions,Peifeng Yin and Qi He and Xingjie Liu and Wang‐Chien Lee,2016,6,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.10129,A scalable gaussian process analysis algorithm for biomass monitoring,Varun Chandola and Ranga Raju Vatsavai,2011,23,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11398,Anomalous cluster detection in spatiotemporal meteorological fields,Bharathkumar Ramachandra and Benjamin Dutton and Ranga Raju Vatsavai,2019,3,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11167,CASOS: a subspace method for anomaly detection in high dimensional astronomical databases,Marc Henrion and David J. Hand and Axel Gandy and Daniel J. Mortlock,2013,8,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11541,Modal linear regression models with multiplicative distortion measurement errors,Jun Zhang and Gaorong Li and Yiping Yang,2022,7,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11615,Buckley–James estimation of generalized additive accelerated lifetime model with ultrahigh‐dimensional data,Zichang Li and Xuejing Zhao,2023,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11173,Measurement errors and scaling relations in astrophysics: a review,Stefano Andreon and Merilee Hurn,2013,29,Statistical Analysis and Data Mining
+10.1002/sam.11602,Cluster analysis via random partition distributions,David B. Dahl and Jacob Andros and J. Brandon Carter,2023,2,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11511,Evaluating causal‐based feature selection for fuel property prediction models,Bernard Nguyen and Leanne S. Whitmore and Anthe George and Corey M. Hudson,2021,1,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.v13.4,n.m.,,2020,1,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.104,Fast Projection-Based Methods for the Least Squares Nonnegative Matrix Approximation Problem,Dongmin Kim and Suvrit Sra and Inderjit S. Dhillon,2008,31,Statistical Analysis and Data Mining
-10.1002/sam.10037,Turbo similarity searching: Effect of fingerprint and dataset on virtual-screening performance,Eleanor J. Gardiner and Valerie J. Gillet and Maciej Haranczyk and Jérôme Hert and John D. Holliday and Nurul Malim and Yogendra Patel and Peter Willett,2009,32,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11296,Attack chain detection,Joseph Sexton and Curtis Storlie and Joshua Neil,2015,23,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11438,Two‐sample test based on classification probability,Haiyan Cai and Bryan Goggin and Qingtang Jiang,2020,2,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11271,Visualizing statistical models: Removing the blindfold,Hadley Wickham and Dianne Cook and Heike Hofmann,2015,25,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11367,Sparse Fisher's linear discriminant analysis for partially labeled data,Qiyi Lu and Xingye Qiao,2018,5,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11354,Context-aided analysis of community evolution in networks,Giuliana Pallotta and Goran Konjevod and Jose Cadena and Phan Nguyen,2017,1,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11441,Neural network for univariate and multivariate nonlinearity tests,Shapour Mohammadi,2020,3,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.10004,ORIGAMI: A Novel and Effective Approach for Mining Representative Orthogonal Graph Patterns,Vineet Chaoji and Mohammad Al Hasan and Saeed Salem and Jeremy Besson and Mohammed J. Zaki,2008,29,Statistical Analysis and Data Mining
-10.1002/sam.11454,Vertex nomination via seeded graph matching,Heather G. Patsolic and Youngser Park and Vince Lyzinski and Carey E. Priebe,2020,5,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11173,Measurement errors and scaling relations in astrophysics: a review,Stefano Andreon and Merilee Hurn,2013,29,Statistical Analysis and Data Mining
-10.1002/sam.11602,Cluster analysis via random partition distributions,David B. Dahl and Jacob Andros and J. Brandon Carter,2023,2,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11271,Visualizing statistical models: Removing the blindfold,Hadley Wickham and Dianne Cook and Heike Hofmann,2015,26,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11152,A variance reduction framework for stable feature selection,Yue Han and Lei Yu,2012,21,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11256,Improving inference of Gaussian mixtures using auxiliary variables,Andrea Mercatanti and Fan Li and Fabrizia Mealli,2015,5,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11377,A systematic review on intrusion detection based on the Hidden Markov Model,Ali Ahmadian Ramaki and Abbas Rasoolzadegan and Abbas Javan Jafari,2018,18,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11617,Issue Information,,2023,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11301,Cross‐validation and peeling strategies for survival bump hunting using recursive peeling methods,Jean‐Eudes Dazard and Michael Choe and Michael LeBlanc and J. Sunil Rao,2016,1,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11369,Clustering over‐dispersed data with mixed feature types,Lu Wang and Dongxiao Zhu and Ming Dong,2018,3,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11461,GRATIS: GeneRAting TIme Series with diverse and controllable characteristics,Yanfei Kang and Rob J. Hyndman and Feng Li,2020,41,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11187,Understanding large text corpora via sparse machine learning,Laurent El Ghaoui and Vu Pham and Guan-Cheng Li and Viet-An Duong and Ashok Srivastava and Kanishka Bhaduri,2013,13,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11154,Stochastic methodology for prognostics under continuously varying environmental profiles,Linkan Bian and Nagi Gebraeel,2013,35,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11196,A weighted random forests approach to improve predictive performance,Stacey J. Winham and Robert R. Freimuth and Joanna M. Biernacka,2013,50,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11161,A survey on unsupervised outlier detection in high-dimensional numerical data,Arthur Zimek and Erich Schubert and Hans-Peter Kriegel,2012,449,Statistical Analysis and Data Mining
+10.1002/sam.11345,Panning for gold: Enhancing the precision of sensitivity test data,David H. Collins and Brian P. Weaver and Michael S. Hamada,2017,2,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11446,Tree aggregation for random forest class probability estimation,Andrew J. Sage and Ulrike Genschel and Dan Nettleton,2020,17,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11314,Spatial regression and estimation of disease risks: A clustering‐based approach,Wenning Feng and Chae Young Lim and Tapabrata Maiti and Zhen Zhang,2016,8,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11539,Survival trees based on heterogeneity in time‐to‐event and censoring distributions using parameter instability test,Madan Gopal Kundu and Samiran Ghosh,2021,1,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11511,Evaluating causal‐based feature selection for fuel property prediction models,Bernard Nguyen and Leanne S. Whitmore and Anthe George and Corey M. Hudson,2021,1,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11367,Sparse Fisher's linear discriminant analysis for partially labeled data,Qiyi Lu and Xingye Qiao,2018,5,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11217,On handling negative transfer and imbalanced distributions in multiple source transfer learning,Liang Ge and Jing Gao and Hung Ngo and Kang Li and Aidong Zhang,2014,56,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11321,Predicting the future performance of soccer players,Cornelius Arndt and Ulf Brefeld,2016,9,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11169,Regularized partial least squares with an application to NMR spectroscopy,Genevera I. Allen and Christine Peterson and Marina Vannucci and Mirjana Maletić-Savatić,2013,35,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.10023,Application-Driven Data Analysis,Chandrika Kamath,2009,1,Statistical Analysis and Data Mining
+10.1002/sam.11196,A weighted random forests approach to improve predictive performance,Stacey J. Winham and Robert R. Freimuth and Joanna M. Biernacka,2013,51,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.10037,Turbo similarity searching: Effect of fingerprint and dataset on virtual-screening performance,Eleanor J. Gardiner and Valerie J. Gillet and Maciej Haranczyk and Jérôme Hert and John D. Holliday and Nurul Malim and Yogendra Patel and Peter Willett,2009,32,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11344,Ensemble simulations of inertial confinement fusion implosions,Ryan Nora and Jayson Luc Peterson and Brian Keith Spears and John Everett Field and Scott Brandon,2017,20,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11293,Issue Information,,2016,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11221,Issue Information,,2014,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
@@ -152,7 +151,15 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1002/sam.2018.11.issue-4,n.m.,,2018,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11189,Sparse inverse kernel Gaussian Process regression,Kamalika Das and Ashok N. Srivastava,2013,1,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11149,Nearest-neighbors medians clustering,Daniel Peña and Júlia Viladomat and Ruben Zamar,2012,1,Statistical Analysis and Data Mining
-10.1002/sam.11134,Significant motifs in time series,Nuno C. Castro and Paulo J. Azevedo,2012,15,Statistical Analysis and Data Mining
+10.1002/sam.10008,Cluster Ensemble Selection,Xiaoli Z. Fern and Wei Lin,2008,115,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11397,Robust variable screening for regression using factor profiling,Yixin Wang and Stefan Van Aelst,2019,5,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.v1:4,n.m.,,2009,5,Statistical Analysis and Data Mining
+10.1002/sam.10148,"Non-negative residual matrix factorization: problem definition, fast solutions, and applications",Hanghang Tong and Ching-Yung Lin,2012,3,Statistical Analysis and Data Mining
+10.1002/sam.11342,A statistical approach to combining multisource information in one‐class classifiers,Katherine M. Simonson and R. Derek West and Ross L. Hansen and Thomas E. LaBruyere and Mark H. Van Benthem,2017,7,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.v3:2,n.m.,,2010,12,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11435,Parameter inference with deep jointly informed neural networks,Kelli D. Humbird and J. Luc Peterson and Ryan G. McClarren,2019,6,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11339,Prediction and characterization of application power use in a high‐performance computing environment,Bruce Bugbee and Caleb Phillips and Hilary Egan and Ryan Elmore and Kenny Gruchalla and Avi Purkayastha,2017,3,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11190,Regression on manifolds using data-dependent regularization with applications in computer vision,David A. Shaw and Rama Chellappa,2013,2,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11524,Issue Information,,2022,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.v15.5,n.m.,,2022,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11588,Kernel learning with nonconvex ramp loss,Xijun Liang and Zhipeng Zhang and Xingke Chen and Ling Jian,2022,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
@@ -161,6 +168,7 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1002/sam.11403,Optimization and testing in linear non‐Gaussian component analysis,Ze Jin and Benjamin B. Risk and David S. Matteson,2019,4,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11447,A flexible procedure for mixture proportion estimation in positive‐unlabeled learning,Zhenfeng Lin and James P. Long,2020,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.10048,Application of model selection technique in chemogenomic data analysis,Xin Gao and Lina Lin and Ying Huang,2009,0,Statistical Analysis and Data Mining
+10.1002/sam.11197,Text mining in computational advertising,Jacopo Soriano and Timothy Au and David Banks,2013,16,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.10093,A compression-based distance measure for texture,Bilson J. L. Campana and Eamonn J. Keogh,2010,37,Statistical Analysis and Data Mining
 10.1002/sam.11290,Issue Information,,2016,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11315,Turbo‐SMT: Parallel coupled sparse matrix‐Tensor factorizations and applications,Evangelos E. Papalexakis and Tom M. Mitchell and Nicholas D. Sidiropoulos and Christos Faloutsos and Partha Pratim Talukdar and Brian Murphy,2016,1,Statistical Analysis and Data Mining: The ASA Data Science Journal
@@ -184,7 +192,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1002/sam.2016.9.issue-3,n.m.,,2016,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11279,Impact of response variability on Pareto front optimization,Jessica L. Chapman and Lu Lu and Christine M. Anderson‐Cook,2015,6,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.v13.1,n.m.,,2020,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11413,Practical Bayesian modeling and inference for massive spatial data sets on modest computing environments †,Lu Zhang and Abhirup Datta and Sudipto Banerjee,2019,17,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11215,"Bayesian survival trees for clustered observations, applied to tooth prognosis",Richard A. Levine and Juanjuan Fan and Xiaogang Su and Martha E. Nunn,2014,1,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11502,Model‐based clustering of time‐dependent categorical sequences with application to the analysis of major life event patterns,Yingying Zhang and Volodymyr Melnykov and Xuwen Zhu,2021,3,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.v6.2,n.m.,,2013,0,Statistical Analysis and Data Mining
@@ -203,47 +210,38 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1002/sam.10046,Chemogenomics: Looking at biology through the lens of chemistry,Munikumar R. Doddareddy and Gerard J. P. van Westen and Eelke van der Horst and Julio E. Peironcely and Frans Corthals and Adriaan P. Ijzerman and Michael Emmerich and Jeremy L. Jenkins and Andreas Bender,2009,10,Statistical Analysis and Data Mining
 10.1002/sam.11378,Some remarks on the R 2 for clustering,Nicola Loperfido and Thaddeus Tarpey,2018,3,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.10079,Prediction of transfers to tertiary care and hospital mortality: A gradient boosting decision tree approach,Jianjun Xie and Stephen Coggeshall,2010,21,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11413,Practical Bayesian modeling and inference for massive spatial data sets on modest computing environments †,Lu Zhang and Abhirup Datta and Sudipto Banerjee,2019,17,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11584,Some Bayesian biclustering methods: Modeling and inference,Abhishek Chakraborty and Stephen B. Vardeman,2022,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.2018.11.issue-1,n.m.,,2018,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11476,The next wave: We will all be data scientists,Margaret Betz and Ellen Gundlach and Elizabett Hillery and Jenna Rickus and Mark D. Ward,2020,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11492,A network model that combines latent factors and sparse graphs,Namjoon Suh and Xiaoming Huo and Eric Heim and Lee Seversky,2021,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.v14.1,n.m.,,2021,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11611,Issue Information,,2023,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.10008,Cluster Ensemble Selection,Xiaoli Z. Fern and Wei Lin,2008,115,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11397,Robust variable screening for regression using factor profiling,Yixin Wang and Stefan Van Aelst,2019,5,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.v1:4,n.m.,,2009,5,Statistical Analysis and Data Mining
-10.1002/sam.10148,"Non-negative residual matrix factorization: problem definition, fast solutions, and applications",Hanghang Tong and Ching-Yung Lin,2012,3,Statistical Analysis and Data Mining
-10.1002/sam.11342,A statistical approach to combining multisource information in one‐class classifiers,Katherine M. Simonson and R. Derek West and Ross L. Hansen and Thomas E. LaBruyere and Mark H. Van Benthem,2017,7,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.v3:2,n.m.,,2010,12,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11435,Parameter inference with deep jointly informed neural networks,Kelli D. Humbird and J. Luc Peterson and Ryan G. McClarren,2019,6,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11339,Prediction and characterization of application power use in a high‐performance computing environment,Bruce Bugbee and Caleb Phillips and Hilary Egan and Ryan Elmore and Kenny Gruchalla and Avi Purkayastha,2017,3,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11190,Regression on manifolds using data-dependent regularization with applications in computer vision,David A. Shaw and Rama Chellappa,2013,2,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11319,Basketball predictions in the NCAAB and NBA: Similarities and differences,Albrecht Zimmermann,2016,6,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11318,Using machine learning to draw inferences from pass location data in soccer,Joel Brooks and Matthew Kerr and John Guttag,2016,22,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.10009,A Scalable Local Algorithm for Distributed Multivariate Regression,Kanishka Bhaduri and Hillol Kargupta,2008,12,Statistical Analysis and Data Mining
 10.1002/sam.11379,The next-generationK-means algorithm,Eugene Demidenko,2018,9,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11318,Using machine learning to draw inferences from pass location data in soccer,Joel Brooks and Matthew Kerr and John Guttag,2016,21,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11198,A framework for dynamic link prediction in heterogeneous networks,Charu C. Aggarwal and Yan Xie and Philip S. Yu,2014,21,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11442,Sufficient dimension folding in regression via distance covariance for matrix‐valued predictors,Wenhui Sheng and Qingcong Yuan,2020,2,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11145,From black and white to full color: extending redescription mining outside the Boolean world,Esther Galbrun and Pauli Miettinen,2012,34,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.10028,Feature extraction through local learning,Yijun Sun and Dapeng Wu,2009,19,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11572,Development and validation of models for two‐week mortality of inpatients with COVID ‐19 infection: A large prospective cohort study,Mohammad Fathi and Nader Markazi Moghaddam and Leila Kheyrati,2022,1,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11138,Efficient estimation in model-based clustering of Gaussian regression time series,Volodymyr Melnykov,2012,7,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11372,Skills in demand for ICT and statistical occupations: Evidence from web-based job vacancies,Pietro Giorgio Lovaglio and Mirko Cesarini and Fabio Mercorio and Mario Mezzanzanica,2018,27,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11146,"Review of statistical network analysis: models, algorithms, and software",M. Salter-Townshend and A. White and I. Gollini and T. B. Murphy,2012,73,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11569,Measure inducing classification and regression trees for functional data,Edoardo Belli and Simone Vantini,2022,2,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11486,Next waves in veridical network embedding*,Owen G. Ward and Zhen Huang and Andrew Davison and Tian Zheng,2021,2,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.10124,Sequential change-point detection based on direct density-ratio estimation,Yoshinobu Kawahara and Masashi Sugiyama,2012,114,Statistical Analysis and Data Mining
 10.1002/sam.11463,Weighted k ‐nearest neighbor based data complexity metrics for imbalanced datasets,Deepika Singh and Anjana Gosain and Anju Saha,2020,7,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11197,Text mining in computational advertising,Jacopo Soriano and Timothy Au and David Banks,2013,16,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11134,Significant motifs in time series,Nuno C. Castro and Paulo J. Azevedo,2012,16,Statistical Analysis and Data Mining
 10.1002/sam.11498,Unsupervised random forests,Alejandro Mantero and Hemant Ishwaran,2021,8,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11448,Hybrid dynamic learning mechanism for multivariate time series segmentation,Ling Wang and Kang Li and Qian Ma and YanRong Lu,2020,2,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11583,Optimal ratio for data splitting,V. Roshan Joseph,2022,39,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11319,Basketball predictions in the NCAAB and NBA: Similarities and differences,Albrecht Zimmermann,2016,5,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11372,Skills in demand for ICT and statistical occupations: Evidence from web-based job vacancies,Pietro Giorgio Lovaglio and Mirko Cesarini and Fabio Mercorio and Mario Mezzanzanica,2018,28,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.10124,Sequential change-point detection based on direct density-ratio estimation,Yoshinobu Kawahara and Masashi Sugiyama,2012,115,Statistical Analysis and Data Mining
+10.1002/sam.11146,"Review of statistical network analysis: models, algorithms, and software",M. Salter-Townshend and A. White and I. Gollini and T. B. Murphy,2012,74,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11169,Regularized partial least squares with an application to NMR spectroscopy,Genevera I. Allen and Christine Peterson and Marina Vannucci and Mirjana Maletić-Savatić,2013,36,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11583,Optimal ratio for data splitting,V. Roshan Joseph,2022,42,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11445,A new method for performance analysis in nonlinear dimensionality reduction,Jiaxi Liang and Shojaeddin Chenouri and Christopher G. Small,2020,1,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11276,Authors' response to discussants,Hadley Wickham and Dianne Cook and Heike Hofmann,2015,1,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11241,A Bayesian beta kernel model for binary classification and online learning problems,Cameron A. MacKenzie and Theodore B. Trafalis and Kash Barker,2014,3,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11406,Materials data analytics for 9% Cr family steel,Vyacheslav N. Romanov and Narayanan Krishnamurthy and Amit K. Verma and Laura S. Bruckman and Roger H. French and Jennifer L.W. Carter and Jeffrey A. Hawk,2019,6,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11536,Negative binomial graphical model with excess zeros,Beomjin Park and Hosik Choi and Changyi Park,2021,1,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11490,An adaptive nonparametric exponentially weighted moving average control chart with dynamic sampling intervals,Liu Liu and Qing Peng and Xin Lai and Zepei Deng,2021,3,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.10113,A likelihood-based comparison of temporal models for physical processes,Amy Braverman and Noel Cressie and Joao Teixeira,2011,9,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11564,Neural‐network transformation models for counting processes,Rongzi Liu and Chenxi Li and Qing Lu,2022,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11426,Issue Information,,2020,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
@@ -254,8 +252,10 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1002/sam.2019.12.issue-2,n.m.,,2019,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.2015.8.issue-4,n.m.,,2015,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.2018.11.issue-3,n.m.,,2018,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11337,Forecasting rare disease outbreaks from open source indicators,Theodoros Rekatsinas and Saurav Ghosh and Sumiko R. Mekaru and Elaine O. Nsoesie and John S. Brownstein and Lise Getoor and Naren Ramakrishnan,2017,4,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.10016,Discovering and Exploiting Statistical Properties for Query Optimization in Relational Databases: A Survey,Peter J. Haas and Ihab F. Ilyas and Guy M. Lohman and Volker Markl,2009,7,Statistical Analysis and Data Mining
 10.1002/sam.10077,In this issue,Joseph Verducci,2010,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11352,Comparative study of clustering techniques for real‐time dynamic model reduction,Emilie Purvine and Eduardo Cotilla‐Sanchez and Mahantesh Halappanavar and Zhenyu Huang and Guang Lin and Shuai Lu and Shaobu Wang,2017,4,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11406,Materials data analytics for 9% Cr family steel,Vyacheslav N. Romanov and Narayanan Krishnamurthy and Amit K. Verma and Laura S. Bruckman and Roger H. French and Jennifer L.W. Carter and Jeffrey A. Hawk,2019,7,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.10131,Special issue on the best papers of the Conference on Intelligent Data Understanding (CIDU 2010),Ashok N. Srivastava and Nitesh V. Chawla,2011,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.10117,In this issue,Lynne Billard,2011,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11203,Graph construction and random graph generation for modeling protein structures,Amy Wagaman,2013,0,Statistical Analysis and Data Mining
@@ -284,7 +284,9 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1002/sam.11360,Issue Information,,2018,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.10127,Retrospective-cost-based adaptive model refinement for the ionosphere and thermosphere,Anthony M. D'Amato and Aaron J. Ridley and Dennis S. Bernstein,2011,21,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.10044,Mining trauma injury data with imputed values,Kay Penny and Thomas Chesney,2009,2,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11253,Bayesian visual analytics: BaVA,Leanna House and Scotland Leman and Chao Han,2015,19,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11416,TiK‐means: Transformation‐infused K ‐means clustering for skewed groups,Nicholas S. Berry and Ranjan Maitra,2019,3,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11150,A resampling approach for interval-valued data regression,Jeongyoun Ahn and Muliang Peng and Cheolwoo Park and Yongho Jeon,2012,20,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11348,Random forest missing data algorithms,Fei Tang and Hemant Ishwaran,2017,270,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.10139,Clusterwise p* models for social network analysis,Douglas Steinley and Michael J. Brusco and Stanley Wasserman,2011,7,Statistical Analysis and Data Mining
 10.1002/sam.10020,An Input Variable Selection Method for the Artificial Neural Network of Shear Stiffness of Worsted Fabrics,Ting Chen and Chong Zhang and Xia Chen and Liqing Li,2009,2,Statistical Analysis and Data Mining
 10.1002/sam.10045,"Chemogenomic databases: Construction, search and analysis",Paul Blower,2009,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
@@ -297,8 +299,10 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1002/sam.11471,Data‐driven dimension reduction in functional principal component analysis identifying the change‐point in functional data,Buddhananda Banerjee and Arnab K. Laha and Arjun Lakra,2020,1,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11177,h-plots for displaying nonmetric dissimilarity matrices,Irene Epifanio,2013,7,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11599,Evaluation and interpretation of driving risks: Automobile claim frequency modeling with telematics data,Yaqian Gao and Yifan Huang and Shengwang Meng,2023,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11538,Imbalanced classification: A paradigm‐based review,Yang Feng and Min Zhou and Xin Tong,2021,6,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.v1:2,n.m.,,2008,16,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11432,Gaussian mixture models as automated particle classifiers for fast neutron detectors,Brenton Blair and Cliff Chen and Andrew Glenn and Alan Kaplan and Jaime Ruz and Lance Simms and Ron Wurtz,2019,5,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11183,Penalized regression and risk prediction in genome-wide association studies,Erin Austin and Wei Pan and Xiaotong Shen,2013,17,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11437,A hybrid deep learning architecture for classification of microscopic damage on National Ignition Facility laser optics,Connor Amorin and Laura M. Kegelmeyer and W. Philip Kegelmeyer,2019,8,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.10017,A statistical learning approach for the design of polycrystalline materials,Veera Sundararaghavan and Nicholas Zabaras,2009,24,Statistical Analysis and Data Mining
 10.1002/sam.11286,On the estimability of the PV single‐diode model parameters,Brian R. Zaharatos and Mark Campanelli and Luis Tenorio,2015,5,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11580,Adversarially robust subspace learning in the spiked covariance model,Fei Sha and Ruizhi Zhang,2022,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
@@ -307,12 +311,16 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1002/sam.v15.4,n.m.,,2022,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.10119,Spatially adaptive semi-supervised learning with Gaussian processes for hyperspectral data analysis,Goo Jun and Joydeep Ghosh,2011,10,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11472,SURE estimates for high dimensional classification,Zhi Ji and Yang Wei and Zhouping Li,2020,2,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.10100,Complex networks as a unified framework for descriptive analysis and predictive modeling in climate science,Karsten Steinhaeuser and Nitesh V. Chawla and Auroop R. Ganguly,2011,92,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11202,Assessing geographic heterogeneity and variable importance in an air pollution data set,S. Stanley Young and Jessie Q. Xia,2013,8,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11253,Bayesian visual analytics: BaVA,Leanna House and Scotland Leman and Chao Han,2015,23,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11570,A tutorial on generative adversarial networks with application to classification of imbalanced data,Yuxiao Huang and Kara G. Fields and Yan Ma,2022,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11571,Weighted AutoEncoding recommender system,Shuying Zhu and Weining Shen and Annie Qu,2022,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11338,Dynamic hierarchical models for monetary transmission,Laura Parisi,2017,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11172,Combining computer models to account for mass loss in stellar evolution,Nathan M. Stein and David A. van Dyk and Ted von Hippel and Steven DeGennaro and Elizabeth J. Jeffery and William H. Jefferys,2013,15,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.10114,Smoothing methods for histogram-valued time series: an application to value-at-risk,Javier Arroyo and Gloria González-Rivera and Carlos Maté and Antonio Muñoz San Roque,2011,13,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11593,Out‐of‐bag stability estimation for k ‐means clustering,Tianmou Liu and Han Yu and Rachael Hageman Blair,2022,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11432,Gaussian mixture models as automated particle classifiers for fast neutron detectors,Brenton Blair and Cliff Chen and Andrew Glenn and Alan Kaplan and Jaime Ruz and Lance Simms and Ron Wurtz,2019,5,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11582,A study of the impact of COVID ‐19 on the Chinese stock market based on a new textual multiple ARMA model,Weijun Xu and Zhineng Fu and Hongyi Li and Jinglong Huang and Weidong Xu and Yiyang Luo,2023,1,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11596,An auxiliary Part‐of‐Speech tagger for blog and microblog cyber‐slang,Silvia Golia and Paola Zola,2023,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11374,Distribution-preservingk-anonymity,Dennis Wei and Karthikeyan Natesan Ramamurthy and Kush R. Varshney,2018,5,Statistical Analysis and Data Mining: The ASA Data Science Journal
@@ -320,33 +328,24 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1002/sam.11489,Learning network event sequences using long short‐term memory and second‐order statistic loss,Hao Sha and Mohammad Al Hasan and George Mohler,2021,1,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11434,A Bayesian structural equation model in general pedigree data analysis,Mahdi Akbarzadeh and Abbas Moghimbeigi and Nathan Morris and Maryam S. Daneshpour and Hossein Mahjub and Ali Reza Soltanian,2019,3,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11540,Multivariate Gaussian RBF‐net for smooth function estimation and variable selection,Arkaprava Roy,2021,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.10021,Least Angle Regression and LASSO for Large Datasets,Chris Fraley and Tim Hesterberg,2009,21,Statistical Analysis and Data Mining
-10.1002/sam.11337,Forecasting rare disease outbreaks from open source indicators,Theodoros Rekatsinas and Saurav Ghosh and Sumiko R. Mekaru and Elaine O. Nsoesie and John S. Brownstein and Lise Getoor and Naren Ramakrishnan,2017,4,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.10016,Discovering and Exploiting Statistical Properties for Query Optimization in Relational Databases: A Survey,Peter J. Haas and Ihab F. Ilyas and Guy M. Lohman and Volker Markl,2009,7,Statistical Analysis and Data Mining
 10.1002/sam.11436,Forecasting basketball players' performance using sparse functional data*,Guillermo Vinué and Irene Epifanio,2019,10,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11546,An efficient k ‐modes algorithm for clustering categorical datasets,Karin S. Dorman and Ranjan Maitra,2022,3,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11204,Semi-supervised logistic discrimination via labeled data and unlabeled data from different sampling distributions,Shuichi Kawano,2013,5,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11150,A resampling approach for interval-valued data regression,Jeongyoun Ahn and Muliang Peng and Cheolwoo Park and Yongho Jeon,2012,20,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11412,Spatial modeling of brain connectivity data via latent distance models with nodes clustering,Emanuele Aliverti and Daniele Durante,2019,4,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11459,Knot selection in sparse Gaussian processes with a variational objective function,Nathaniel Garton and Jarad Niemi and Alicia Carriquiry,2020,3,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11507,A comparison of Gaussian processes and neural networks for computer model emulation and calibration,Samuel Myren and Earl Lawrence,2021,3,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11364,Order priors for Bayesian network discovery with an application to malware phylogeny,Diane Oyen and Blake Anderson and Kari Sentz and Christine Anderson-Cook,2017,2,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.10100,Complex networks as a unified framework for descriptive analysis and predictive modeling in climate science,Karsten Steinhaeuser and Nitesh V. Chawla and Auroop R. Ganguly,2011,92,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.10128,Using spatiotemporal relational random forests to improve our understanding of severe weather processes,Amy McGovern and David John Gagne and Nathaniel Troutman and Rodger A. Brown and Jeffrey Basara and John K. Williams,2011,20,Statistical Analysis and Data Mining
+10.1002/sam.10116,A hybrid data mining metaheuristic for the p-median problem,Alexandre Plastino and Richard Fuchshuber and Simone de L. Martins and Alex A. Freitas and Said Salhi,2011,17,Statistical Analysis and Data Mining
+10.1002/sam.11490,An adaptive nonparametric exponentially weighted moving average control chart with dynamic sampling intervals,Liu Liu and Qing Peng and Xin Lai and Zepei Deng,2021,4,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.10084,Discriminative frequent subgraph mining with optimality guarantees,Marisa Thoma and Hong Cheng and Arthur Gretton and Jiawei Han and Hans-Peter Kriegel and Alex Smola and Le Song and Philip S. Yu and Xifeng Yan and Karsten M. Borgwardt,2010,30,Statistical Analysis and Data Mining
 10.1002/sam.11616,L q regularization for fair artificial intelligence robust to covariate shift,Seonghyeon Kim and Sara Kim and Kunwoong Kim and Yongdai Kim,2023,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11538,Imbalanced classification: A paradigm‐based review,Yang Feng and Min Zhou and Xin Tong,2021,5,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11416,TiK‐means: Transformation‐infused K ‐means clustering for skewed groups,Nicholas S. Berry and Ranjan Maitra,2019,3,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11183,Penalized regression and risk prediction in genome-wide association studies,Erin Austin and Wei Pan and Xiaotong Shen,2013,17,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11437,A hybrid deep learning architecture for classification of microscopic damage on National Ignition Facility laser optics,Connor Amorin and Laura M. Kegelmeyer and W. Philip Kegelmeyer,2019,8,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11202,Assessing geographic heterogeneity and variable importance in an air pollution data set,S. Stanley Young and Jessie Q. Xia,2013,8,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.10116,A hybrid data mining metaheuristic for the p-median problem,Alexandre Plastino and Richard Fuchshuber and Simone de L. Martins and Alex A. Freitas and Said Salhi,2011,17,Statistical Analysis and Data Mining
-10.1002/sam.11348,Random forest missing data algorithms,Fei Tang and Hemant Ishwaran,2017,264,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.10021,Least Angle Regression and LASSO for Large Datasets,Chris Fraley and Tim Hesterberg,2009,21,Statistical Analysis and Data Mining
+10.1002/sam.11507,A comparison of Gaussian processes and neural networks for computer model emulation and calibration,Samuel Myren and Earl Lawrence,2021,3,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11352,Comparative study of clustering techniques for real‐time dynamic model reduction,Emilie Purvine and Eduardo Cotilla‐Sanchez and Mahantesh Halappanavar and Zhenyu Huang and Guang Lin and Shuai Lu and Shaobu Wang,2017,4,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.v1:6,n.m.,,2009,0,Statistical Analysis and Data Mining
 10.1002/sam.11160,Unsupervised classification and analysis of objects described by nonparametric probability distributions,Richard Emilion,2012,2,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11550,"Residual's influence index ( RINFIN ), bad leverage and unmasking in high dimensional L 2 ‐regression",Yannis G. Yatracos,2022,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.v12.6,n.m.,,2019,2,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11303,Big data and the missing links,Richard D. De Veaux and Roger W. Hoerl and Ronald D. Snee,2016,8,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.2017.10.issue-4,n.m.,,2017,1,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.2017.10.issue-1,n.m.,,2017,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11358,Issue Information,,2018,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
@@ -362,25 +361,28 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1002/sam.11522,Issue Information,,2022,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11552,Tracking clusters and anomalies in evolving data streams,Sreelekha Guggilam and Varun Chandola and Abani Patra,2022,1,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.10067,Bayesian adaptive nearest neighbor,Ruixin Guo and Sounak Chakraborty,2010,9,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.10027,Association Rules Network: Definition and Applications,Gaurav Pandey and Sanjay Chawla and Simon Poon and Bavani Arunasalam and Joseph G. Davis,2009,12,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11166,Biclustering scatter plots using data depth measures,Zhanpan Zhang and Xinping Cui and Daniel R. Jeske and James Borneman,2013,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.v5.2,n.m.,,2012,0,Statistical Analysis and Data Mining
-10.1002/sam.10144,A nonparametric frequency domain EM algorithm for time series classification with applications to spike sorting and macro-economics,Georg M. Goerg,2011,4,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11304,Large-margin classification with multiple decision rules,Patrick K. Kimes and David Neil Hayes and J. S. Marron and Yufeng Liu and n.m. n.m.,2016,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11469,Issue Information,,2021,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11433,A sparse Gaussian sigmoid basis function approximation of hyperspectral data for detection of solids,Cory Lanker and Milton O. Smith,2019,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11148,Semi-supervised Eigenbasis novelty detection,David R. Thompson and Walid A. Majid and Colorado J. Reed and Kiri L. Wagstaff,2013,1,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11467,Issue Information,,2021,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11501,An approach to characterizing spatial aspects of image system blur,Jesse Adams and Jessica Pillow and Kevin Joyce and Michael Brennan and Malena I. Español and Matthias Morzfeld and Sean Breckling and Daniel Champion and Eric Clarkson and Ryan Coffee and Amanda Gehring and Margaret Lund and Duane Smalley and Ajanae Williams and Jacob Zier and Daniel Frayer and Marylesa Howard and Eric Machorro,2021,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11294,Computing quality scores and uncertainty for approximate pattern matching in geospatial semantic graphs,David J. Stracuzzi and Randy C. Brost and Cynthia A. Phillips and David G. Robinson and Alyson G. Wilson and Diane M.‐K. Woodbridge,2015,2,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11240,Issue Information,,2014,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.10038,Biplot methodology in exploratory analysis of microarray data,S. Gardner-Lubbe and N. J. le Roux and H. Maunders and V. Shah and S. Patwardhan,2009,2,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11382,Fused lasso regression for identifying differential correlations in brain connectome graphs,Donghyeon Yu and Sang Han Lee and Johan Lim and Guanghua Xiao and Richard Cameron Craddock and Bharat B. Biswal,2018,3,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.10121,Erratum: Emerging Topics and Challenges for Statistical Analysis and Data Mining,Goodman Arnold,2011,0,Statistical Analysis and Data Mining
 10.1002/sam.v15.2,n.m.,,2022,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11465,Issue Information,,2021,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.101,Brief History of the Interface of Computing and Statistics which Preceded Data Mining's Birth,Arnold Goodman,2008,1,Statistical Analysis and Data Mining
 10.1002/sam.2016.9.issue-1,n.m.,,2016,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11311,Great expectations: An analysis of major league baseball free agent performance,Sean L. Barnes and Margrét V. Bjarnadóttir,2016,4,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.10027,Association Rules Network: Definition and Applications,Gaurav Pandey and Sanjay Chawla and Simon Poon and Bavani Arunasalam and Joseph G. Davis,2009,12,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11166,Biclustering scatter plots using data depth measures,Zhanpan Zhang and Xinping Cui and Daniel R. Jeske and James Borneman,2013,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.v5.2,n.m.,,2012,0,Statistical Analysis and Data Mining
+10.1002/sam.10144,A nonparametric frequency domain EM algorithm for time series classification with applications to spike sorting and macro-economics,Georg M. Goerg,2011,4,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.10103,Random survival forests for high-dimensional data,Hemant Ishwaran and Udaya B. Kogalur and Xi Chen and Andy J. Minn,2011,114,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11171,Nonlinear Laplacian spectral analysis: capturing intermittent and low-frequency spatiotemporal patterns in high-dimensional data,Dimitrios Giannakis and Andrew J. Majda,2013,27,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11304,Large-margin classification with multiple decision rules,Patrick K. Kimes and David Neil Hayes and J. S. Marron and Yufeng Liu and n.m. n.m.,2016,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11469,Issue Information,,2021,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11303,Big data and the missing links,Richard D. De Veaux and Roger W. Hoerl and Ronald D. Snee,2016,9,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11433,A sparse Gaussian sigmoid basis function approximation of hyperspectral data for detection of solids,Cory Lanker and Milton O. Smith,2019,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11148,Semi-supervised Eigenbasis novelty detection,David R. Thompson and Walid A. Majid and Colorado J. Reed and Kiri L. Wagstaff,2013,1,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11467,Issue Information,,2021,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11294,Computing quality scores and uncertainty for approximate pattern matching in geospatial semantic graphs,David J. Stracuzzi and Randy C. Brost and Cynthia A. Phillips and David G. Robinson and Alyson G. Wilson and Diane M.‐K. Woodbridge,2015,2,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11240,Issue Information,,2014,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.10038,Biplot methodology in exploratory analysis of microarray data,S. Gardner-Lubbe and N. J. le Roux and H. Maunders and V. Shah and S. Patwardhan,2009,2,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11503,An initial exploration of Bayesian model calibration for estimating the composition of rocks and soils on Mars,Claire‐Alice Hébert and Earl Lawrence and Kary Myers and James P. Colgan and Elizabeth J. Judge,2021,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.10094,Special issue on the best papers of SDM'10,Bart Goethals and Jian Pei,2010,0,Statistical Analysis and Data Mining
 10.1002/sam.11430,An empirical Bayes approach for learning directed acyclic graph using MCMC algorithm,Vahid Rezaei Tabar and Hamid Zareifard and Selva Salimi and Dariusz Plewczynski,2019,2,Statistical Analysis and Data Mining: The ASA Data Science Journal
@@ -391,7 +393,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1002/sam.11576,Regression‐based Bayesian estimation and structure learning for nonparanormal graphical models,Jami J. Mulgrave and Subhashis Ghosal,2022,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11577,A modified least angle regression algorithm for interaction selection with heredity,Woosung Kim and Seonghyeon Kim and Myung Hwan Na and Yongdai Kim,2022,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11323,Conducting sparse feature selection on arbitrarily long phrases in text corpora with a focus on interpretability,Luke Miratrix and Robin Ackerman,2016,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11168,Maximum Likelihood Estimation Over Directed Acyclic Gaussian Graphs,Yiping Yuan and Xiaotong Shen and Wei Pan,2012,3,Statistical Analysis and Data Mining
 10.1002/sam.11497,Identifying build orientation of 3D ‐printed materials using convolutional neural networks,Jan Strube and Malachi Schram and Sabiha Rustam and Zachary Kennedy and Tamas Varga,2021,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.2015.8.issue-5,n.m.,,2015,1,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.10090,A framework for clustering massive graph streams,Charu C. Aggarwal and Yuchen Zhao and Philip S. Yu,2010,5,Statistical Analysis and Data Mining: The ASA Data Science Journal
@@ -400,11 +401,10 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1002/sam.11213,Introduction,David Banks and Xiaotong Shen,2013,1,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.10147,Introduction to the special issue on best papers from the SLDM competition,Joseph Verducci and Hernando Ombao,2011,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11516,Issue Information,,2022,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11366,Whole-volume clustering of time series data from zebrafish brain calcium images via mixture modeling,Hien D. Nguyen and Jeremy F. P. Ullmann and Geoffrey J. McLachlan and Venkatakaushik Voleti and Wenze Li and Elizabeth M. C. Hillman and David C. Reutens and Andrew L. Janke,2018,6,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11330,Issue Information,,2017,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11420,Making social networks more human: A topological approach,Jonathan W. Berry and Cynthia A. Phillips and Jared Saia,2019,1,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.10107,Emerging topics and challenges for statistical analysis and data mining,Arnold Goodman,2011,3,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11410,Pruning variable selection ensembles,Chunxia Zhang and Yilei Wu and Mu Zhu,2019,6,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11192,Mining Compressing Sequential Patterns,Hoang Thanh Lam and Fabian Mörchen and Dmitriy Fradkin and Toon Calders,2014,68,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11457,Delaunay triangulation‐based spatial colocation pattern mining without distance thresholds,Vanha Tran and Lizhen Wang,2020,5,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11210,Two-way regularization for MEG source reconstruction via multilevel coordinate descent,Tian Siva Tian and Jianhua Z. Huang and Haipeng Shen,2013,3,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11450,In praise of partially interpretable predictors,Tri Le and Bertrand Clarke,2020,1,Statistical Analysis and Data Mining: The ASA Data Science Journal
@@ -412,10 +412,7 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1002/sam.10055,A family of large margin linear classifiers and its application in dynamic environments,Jianqiang Shen and Thomas G. Dietterich,2009,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.10122,Discovery of anomalous spatio-temporal windows using discretized spatio-temporal scan statistics,Vandana P. Janeja and Aryya Gangopadhyay and Seyed Mohammadi and Revathi Palanisamy,2011,0,Statistical Analysis and Data Mining
 10.1002/sam.2015.8.issue-2,n.m.,,2015,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11414,Synthesizing simulation and field data of solar irradiance,Furong Sun and Robert B. Gramacy and Benjamin Haaland and Siyuan Lu and Youngdeok Hwang,2019,2,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11311,Great expectations: An analysis of major league baseball free agent performance,Sean L. Barnes and Margrét V. Bjarnadóttir,2016,3,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11194,Special Issue on CIDU '11,Ashok N. Srivastava and Nitesh V. Chawla,2013,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11147,Thought leaders during crises in massive social networks,Courtney D. Corley and Robert M. Farber and William N. Reynolds,2012,4,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11361,Issue Information,,2018,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11427,Issue Information,,2020,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.10070,Modeling user reputation in wikis,Sara Javanmardi and Cristina Lopes and Pierre Baldi,2010,34,Statistical Analysis and Data Mining: The ASA Data Science Journal
@@ -439,37 +436,41 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1002/sam.11533,CLADAG 2019 Special Issue: Selected Papers on Classification and Data Analysis,Francesca Greselin and Thomas Brendan Murphy and Giovanni C. Porzio and Domenico Vistocco,2021,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.10063,A parametric mixture model for clustering multivariate binary data,Ajit C. Tamhane and Dingxi Qiu and Bruce E Ankenman,2010,2,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11527,A fast and efficient Modal EM algorithm for Gaussian mixtures,Luca Scrucca,2021,4,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.10112,Far beyond the classical data models: symbolic data analysis,Monique Noirhomme-Fraiture and Paula Brito,2011,73,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.10061,Roughly balanced bagging for imbalanced data,Shohei Hido and Hisashi Kashima and Yutaka Takahashi,2009,125,Statistical Analysis and Data Mining
 10.1002/sam.10099,Exploiting associations between word clusters and document classes for cross-domain text categorization†,Fuzhen Zhuang and Ping Luo and Hui Xiong and Qing He and Yuhong Xiong and Zhongzhi Shi,2011,38,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.102,Less is More: Sparse Graph Mining with Compact Matrix Decomposition,Jimeng Sun and Yinglian Xie and Hui Zhang and Christos Faloutsos,2008,44,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11597,Feature screening of ultrahigh dimensional longitudinal data based on the C‐statistic,Peng Lai and Qing Di and Zhezi Shen and Yanqiu Zhou,2023,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.10060,Discovering arbitrary event types in time series,Dan Preston and Pavlos Protopapas and Carla Brodley,2009,4,Statistical Analysis and Data Mining
 10.1002/sam.10109,Agglomerative connectivity constrained clustering for image segmentation,Jia Li,2011,9,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11214,Space-efficient tracking of persistent items in a massive data stream,Bibudh Lahiri and Srikanta Tirthapura and Jaideep Chandrashekar,2014,6,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11366,Whole-volume clustering of time series data from zebrafish brain calcium images via mixture modeling,Hien D. Nguyen and Jeremy F. P. Ullmann and Geoffrey J. McLachlan and Venkatakaushik Voleti and Wenze Li and Elizabeth M. C. Hillman and David C. Reutens and Andrew L. Janke,2018,6,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11223,Exploring and inferring user-user pseudo-friendship for sentiment analysis with heterogeneous networks,Hongbo Deng and Jiawei Han and Hao Li and Heng Ji and Hongning Wang and Yue Lu,2014,14,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.v1:1,n.m.,,2008,7,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11192,Mining Compressing Sequential Patterns,Hoang Thanh Lam and Fabian Mörchen and Dmitriy Fradkin and Toon Calders,2014,68,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11487,Comparison of machine learning approaches used to identify the drivers of Bakken oil well productivity,Emil D. Attanasi and Philip A. Freeman and Timothy C. Coburn,2021,2,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11211,Eigen-analysis of nonlinear PCA with polynomial kernels,Zhiyu Liang and Yoonkyung Lee,2013,10,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11408,An unsupervised Bayesian hierarchical method for medical fraud assessment,Tahir Ekin and Greg Lakomski and Rasim Muzaffer Musal,2019,10,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11171,Nonlinear Laplacian spectral analysis: capturing intermittent and low-frequency spatiotemporal patterns in high-dimensional data,Dimitrios Giannakis and Andrew J. Majda,2013,27,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.10006,Distributed Decision-Tree Induction in Peer-to-Peer Systems,Kanishka Bhaduri and Ran Wolff and Chris Giannella and Hillol Kargupta,2008,44,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11170,Minimizing the variance of cluster mixture models for clustering uncertain objects,Francesco Gullo and Giovanni Ponti and Andrea Tagarelli,2013,9,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11419,Enabling immersive engagement in energy system models with deep learning,Bruce Bugbee and Brian W. Bush and Kenny Gruchalla and Kristin Potter and Nicholas Brunhart‐Lupo and Venkat Krishnan,2019,6,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.10141,A novel support vector classifier for longitudinal high-dimensional data and its application to neuroimaging data,Shuo Chen and F. DuBois Bowman,2011,11,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.10091,Coselection of features and instances for unsupervised rare category analysis,Jingrui He and Jaime Carbonell,2010,11,Statistical Analysis and Data Mining
-10.1002/sam.11355,Dimension reduction in magnetohydrodynamics power generation models: Dimensional analysis and active subspaces,Andrew Glaws and Paul G. Constantine and John N. Shadid and Timothy M. Wildey,2017,10,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.10143,Model-based clustering of regression time series data via APECM-an AECM algorithm sung to an even faster beat,Wei-Chen Chen and Ranjan Maitra,2011,19,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.10000,Data Analysis in the 21st Century,Arnold Goodman and Chandrika Kamath and Vipin Kumar,2008,11,Statistical Analysis and Data Mining
-10.1002/sam.10075,Online training on a budget of support vector machines using twin prototypes,Zhuang Wang and Slobodan Vucetic,2010,26,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.10007,Simultaneous Unsupervised Learning of Disparate Clusterings,Prateek Jain and Raghu Meka and Inderjit S. Dhillon,2008,29,Statistical Analysis and Data Mining
-10.1002/sam.10126,Tracking climate models,Claire Monteleoni and Gavin A. Schmidt and Shailesh Saroha and Eva Asplund,2011,39,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.10103,Random survival forests for high-dimensional data,Hemant Ishwaran and Udaya B. Kogalur and Xi Chen and Andy J. Minn,2011,113,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11277,FS 3 : A sampling based method for top‐ k frequent subgraph mining,Tanay Kumar Saha and Mohammad Al Hasan,2015,15,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11488,A clustering method for graphical handwriting components and statistical writership analysis,Amy M. Crawford and Nicholas S. Berry and Alicia L. Carriquiry,2021,3,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11601,Integrative learning of structured high‐dimensional data from multiple datasets,Changgee Chang and Zongyu Dai and Jihwan Oh and Qi Long,2023,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11280,Forest resampling for distributed sequential Monte Carlo,Anthony Lee and Nick Whiteley,2016,10,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.10091,Coselection of features and instances for unsupervised rare category analysis,Jingrui He and Jaime Carbonell,2010,11,Statistical Analysis and Data Mining
+10.1002/sam.11355,Dimension reduction in magnetohydrodynamics power generation models: Dimensional analysis and active subspaces,Andrew Glaws and Paul G. Constantine and John N. Shadid and Timothy M. Wildey,2017,10,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11147,Thought leaders during crises in massive social networks,Courtney D. Corley and Robert M. Farber and William N. Reynolds,2012,5,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.10075,Online training on a budget of support vector machines using twin prototypes,Zhuang Wang and Slobodan Vucetic,2010,26,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.10007,Simultaneous Unsupervised Learning of Disparate Clusterings,Prateek Jain and Raghu Meka and Inderjit S. Dhillon,2008,29,Statistical Analysis and Data Mining
+10.1002/sam.11168,Maximum Likelihood Estimation Over Directed Acyclic Gaussian Graphs,Yiping Yuan and Xiaotong Shen and Wei Pan,2012,3,Statistical Analysis and Data Mining
+10.1002/sam.11488,A clustering method for graphical handwriting components and statistical writership analysis,Amy M. Crawford and Nicholas S. Berry and Alicia L. Carriquiry,2021,3,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11277,FS 3 : A sampling based method for top‐ k frequent subgraph mining,Tanay Kumar Saha and Mohammad Al Hasan,2015,16,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11420,Making social networks more human: A topological approach,Jonathan W. Berry and Cynthia A. Phillips and Jared Saia,2019,1,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11414,Synthesizing simulation and field data of solar irradiance,Furong Sun and Robert B. Gramacy and Benjamin Haaland and Siyuan Lu and Youngdeok Hwang,2019,3,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.10126,Tracking climate models,Claire Monteleoni and Gavin A. Schmidt and Shailesh Saroha and Eva Asplund,2011,39,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.10143,Model-based clustering of regression time series data via APECM-an AECM algorithm sung to an even faster beat,Wei-Chen Chen and Ranjan Maitra,2011,19,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.10061,Roughly balanced bagging for imbalanced data,Shohei Hido and Hisashi Kashima and Yutaka Takahashi,2009,126,Statistical Analysis and Data Mining
+10.1002/sam.10000,Data Analysis in the 21st Century,Arnold Goodman and Chandrika Kamath and Vipin Kumar,2008,11,Statistical Analysis and Data Mining
+10.1002/sam.11501,An approach to characterizing spatial aspects of image system blur,Jesse Adams and Jessica Pillow and Kevin Joyce and Michael Brennan and Malena I. Español and Matthias Morzfeld and Sean Breckling and Daniel Champion and Eric Clarkson and Ryan Coffee and Amanda Gehring and Margaret Lund and Duane Smalley and Ajanae Williams and Jacob Zier and Daniel Frayer and Marylesa Howard and Eric Machorro,2021,1,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.10112,Far beyond the classical data models: symbolic data analysis,Monique Noirhomme-Fraiture and Paula Brito,2011,73,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11619,Share density‐based clustering of income data,Francesca Condino,2023,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11518,Issue Information,,2022,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.103,Harmonium Models for Video Classification,Jun Yang and Rong Yan and Yan Liu and Eric P. Xing,2008,6,Statistical Analysis and Data Mining
 10.1002/sam.2017.10.issue-3,n.m.,,2017,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
@@ -485,7 +486,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1002/sam.11600,Local support vector machine based dimension reduction,Linxi Li and Qin Wang and Chenlu Ke,2022,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11579,Ensembled sparse‐input hierarchical networks for high‐dimensional datasets,Jean Feng and Noah Simon,2022,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11417,Two‐sample homogeneity testing: A procedure based on comparing distributions of interpoint distances,Pablo Montero‐Manso and José A. Vilar,2019,1,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11178,Periodicity detection in irregularly sampled light curves by robust regression and outlier detection,Anita Monika Thieler and Michael Backes and Roland Fried and Wolfgang Rhode,2013,5,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.v16.2,n.m.,,2023,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11285,Distance‐based mixture modeling for classification via hypothetical local mapping,Mu Qiao and Jia Li,2016,2,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.v7.1,n.m.,,2014,0,Statistical Analysis and Data Mining
@@ -521,18 +521,19 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1002/sam.11586,A linear time method for the detection of collective and point anomalies,Alexander T. M. Fisch and Idris A. Eckley and Paul Fearnhead,2022,5,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11598,Frequentist model averaging for zero‐inflated Poisson regression models,Jianhong Zhou and Alan T. K. Wan and Dalei Yu,2022,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11482,Two‐stage hybrid learning techniques for bankruptcy prediction*,Chih‐Fong Tsai,2020,3,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11578,A tree‐based gene–environment interaction analysis with rare features,Mengque Liu and Qingzhao Zhang and Shuangge Ma,2022,1,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11208,SMT: Sparse multivariate tree,Houtao Deng and Mustafa Gokce Baydogan and George Runger,2014,2,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.10041,Review of statistical analyses in drug discovery and chemogenomics,Yushi Liu and Joseph S. Verducci,2009,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11534,Coefficient tree regression for generalized linear models,Özge Sürer and Daniel W. Apley and Edward C. Malthouse,2021,1,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.10031,Principal component analysis and dimensional analysis as materials informatics tools to reduce dimensionality in materials science and engineering,Krishna Rajan and Changwon Suh and Patricio F. Mendez,2009,30,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11312,A review of data mining applications in crime,Hossein Hassani and Xu Huang and Emmanuel S. Silva and Mansi Ghodsi,2016,64,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11179,Bayesian model averaging in astrophysics: a review,David Parkinson and Andrew R. Liddle,2013,13,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.10125,Distributed anomaly detection using 1-class SVM for vertically partitioned data,Kamalika Das and Kanishka Bhaduri and Petr Votava,2011,17,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11431,Sequential optimal positioning of mobile sensors using mutual information,Kathleen Schmidt and Ralph C. Smith and Jason Hite and John Mattingly and Yousry Azmy and Deepak Rajan and Ryan Goldhahn,2019,5,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11328,Issue Information,,2017,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11156,Model guided adaptive design and analysis in computer experiment,Qingzhao Yu and Bin Li and Zhide Fang and Lu Peng,2012,1,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11254,"Regular, median and Huber cross‐validation: A computational comparison",Chi‐Wai Yu and Bertrand Clarke,2015,1,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11347,Time‐dependent global sensitivity analysis with active subspaces for a lithium ion battery model,Paul G. Constantine and Alireza Doostan,2017,22,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11578,A tree‐based gene–environment interaction analysis with rare features,Mengque Liu and Qingzhao Zhang and Shuangge Ma,2022,2,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11341,Clustering complex time‐series databases by using periodic components,Francesco Giordano and Michele La Rocca and Maria Lucia Parrella,2017,8,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11567,Feature selection for imbalanced data with deep sparse autoencoders ensemble,Michela Carlotta Massi and Francesca Gasperoni and Francesca Ieva and Anna Maria Paganoni,2022,2,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11383,Issue Information,,2019,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11273,Discussion of “visualizing statistical models: Removing the blindfold”,Catherine B. Hurley,2015,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.10132,A note on sliced inverse regression with missing predictors,Yuexiao Dong and Liping Zhu,2012,1,Statistical Analysis and Data Mining: The ASA Data Science Journal
@@ -546,28 +547,28 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1002/sam.10062,Efficient mining of distance-based subspace clusters,Guimei Liu and Kelvin Sim and Jinyan Li and Limsoon Wong,2009,14,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11421,Multilevel logistic cluster‐weighted model for outcome evaluation in health care*,Paolo Berta and Veronica Vinciotti,2019,2,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11495,A framework for stability‐based module detection in correlation graphs,Mingmei Tian and Rachael Hageman Blair and Lina Mu and Matthew Bonner and Richard Browne and Han Yu,2021,2,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11365,Cellwise robust regularized discriminant analysis,Stéphanie Aerts and Ines Wilms,2017,2,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.v14.6,n.m.,,2021,1,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11475,The future of precision health is data‐driven decision support,John Sperger and Nikki L. B. Freeman and Xiaotong Jiang and David Bang and Daniel Marchi and Michael R. Kosorok,2020,1,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11455,Lagged encoding for image‐based time series classification using convolutional neural networks,Agnieszka Jastrzebska,2020,6,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11603,Randomized algorithms for tensor response regression,Zhe Cheng and Xiangjian Xu and Zihao Song and Weihua Zhao,2022,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.10080,Relative clustering validity criteria: A comparative overview,Lucas Vendramin and Ricardo J. G. B. Campello and Eduardo R. Hruschka,2010,197,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.v2:5/6,n.m.,,2009,21,Statistical Analysis and Data Mining
+10.1002/sam.11480,Multiclass machine learning classification of functional brain images for Parkinson's disease stage prediction,Guan‐Hua Huang and Chih‐Hsuan Lin and Yu‐Ren Cai and Tai‐Been Chen and Shih‐Yen Hsu and Nan‐Han Lu and Huei‐Yung Chen and Yi‐Chen Wu,2020,13,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11607,Semi‐supervised multi‐label learning with missing labels by exploiting feature‐label correlations,Runxin Li and Xuefeng Zhao and Zhenhong Shang and Lianyin Jia,2022,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11191,Flow field forecasting for univariate time series,Micheal R. Frey and Kyle A. Caudle,2013,3,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11199,MARBLES: Mining association rules buried in long event sequences,Boris Cule and Nikolaj Tatti and Bart Goethals,2014,10,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11264,To catch a fake: Curbing deceptive Yelp ratings and venues,Mahmudur Rahman and Bogdan Carbunar and Jaime Ballesteros and Duen Horng (Polo) Chau,2015,17,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.10035,Predicting the similarity search performance of fingerprints and their combination with molecular property descriptors using probabilistic and information theoretic modeling,Martin Vogt and Britta Nisius and Jürgen Bajorath,2009,5,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11176,A Bayesian criterion for cluster stability,Hoyt Koepke and Bertrand Clarke,2013,4,Statistical Analysis and Data Mining
+10.1002/sam.10078,Large-scale regression-based pattern discovery: The example of screening the WHO global drug safety database,Ola Caster and G. Niklas Norén and David Madigan and Andrew Bate,2010,49,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11263,Constructive setting for problems of density ratio estimation,Vladimir Vapnik and Igor Braga and Rauf Izmailov,2015,2,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.10024,Extraction of knowledge from high strength steel data using soft computing techniques-an overview,Shubhabrata Datta,2009,7,Statistical Analysis and Data Mining
 10.1002/sam.11485,Learning compact physics‐aware delayed photocurrent models using dynamic mode decomposition,Joshua Hanson and Pavel Bochev and Biliana Paskaleva,2021,3,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11610,Robust deep neural network surrogate models with uncertainty quantification via adversarial training,Lixiang Zhang and Jia Li,2023,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11590,Online embedding and clustering of evolving data streams,Alaettin Zubaroğlu and Volkan Atalay,2023,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11549,Comparison of merging strategies for building machine learning models on multiple independent gene expression data sets,Jessica Krepel and Magdalena Kircher and Moritz Kohls and Klaus Jung,2022,1,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11312,A review of data mining applications in crime,Hossein Hassani and Xu Huang and Emmanuel S. Silva and Mansi Ghodsi,2016,65,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11543,Parallel coordinate order for high‐dimensional data,Shaima Tilouche and Vahid Partovi Nia and Samuel Bassetto,2021,1,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11479,Multivariate Hidden Markov Models for disease progression,Andrea Martino and Giuseppina Guatteri and Anna Maria Paganoni,2020,6,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11547,Precision aggregated local models,Adam M. Edwards and Robert B. Gramacy,2021,1,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11176,A Bayesian criterion for cluster stability,Hoyt Koepke and Bertrand Clarke,2013,3,Statistical Analysis and Data Mining
 10.1002/sam.10097,A general framework for efficient clustering of large datasets based on activity detection,Xin Jin and Sangkyum Kim and Jiawei Han and Liangliang Cao and Zhijun Yin,2011,7,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.v3:3,n.m.,,2010,1,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.v3:5,n.m.,,2010,2,Statistical Analysis and Data Mining
@@ -575,25 +576,25 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1002/sam.11356,Sequential geophysical and flow inversion to characterize fracture networks in subsurface systems,Maruti Kumar Mudunuru and Satish Karra and Nataliia Makedonska and Ting Chen,2017,10,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11281,Discovering an active subspace in a single‐diode solar cell model,Paul G. Constantine and Brian Zaharatos and Mark Campanelli,2015,24,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11322,Interactive knowledge discovery from hidden data through sampling of frequent patterns,Mansurul Bhuiyan and Mohammad Al Hasan,2016,8,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11429,Interactive volumetric segmentation for textile micro‐tomography data using wavelets and nonlocal means,J. Michael L. MacNeil and Daniela M. Ushizima and Francesco Panerai and Nagi N. Mansour and Harold S. Barnard and Dilworth Y. Parkinson,2019,6,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11504,Emulated order identification for models of big time series data,Brian Wu and Dorin Drignei,2021,2,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11562,Intuitively adaptable outlier detector,Krystyna Kiersztyn,2022,1,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.10042,Randomization methods for assessing data analysis results on real-valued matrices,Markus Ojala and Niko Vuokko and Aleksi Kallio and Niina Haiminen and Heikki Mannila,2009,15,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11606,Model selection with bootstrap validation,Rafael Savvides and Jarmo Mäkelä and Kai Puolamäki,2023,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11493,Extreme ensemble of extreme learning machines,Eghbal G. Mansoori and Massar Sara,2021,3,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11237,"Big data, big results: Knowledge discovery in output from large-scale analytics",Tyler H. McCormick and Rebecca Ferrell and Alan F. Karr and Patrick B. Ryan,2014,11,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11455,Lagged encoding for image‐based time series classification using convolutional neural networks,Agnieszka Jastrzebska,2020,7,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.10035,Predicting the similarity search performance of fingerprints and their combination with molecular property descriptors using probabilistic and information theoretic modeling,Martin Vogt and Britta Nisius and Jürgen Bajorath,2009,5,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11429,Interactive volumetric segmentation for textile micro‐tomography data using wavelets and nonlocal means,J. Michael L. MacNeil and Daniela M. Ushizima and Francesco Panerai and Nagi N. Mansour and Harold S. Barnard and Dilworth Y. Parkinson,2019,6,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11431,Sequential optimal positioning of mobile sensors using mutual information,Kathleen Schmidt and Ralph C. Smith and Jason Hite and John Mattingly and Yousry Azmy and Deepak Rajan and Ryan Goldhahn,2019,5,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11260,Linear regression model with histogram‐valued variables,Sónia Dias and Paula Brito,2015,18,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.10078,Large-scale regression-based pattern discovery: The example of screening the WHO global drug safety database,Ola Caster and G. Niklas Norén and David Madigan and Andrew Bate,2010,48,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11341,Clustering complex time‐series databases by using periodic components,Francesco Giordano and Michele La Rocca and Maria Lucia Parrella,2017,8,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11567,Feature selection for imbalanced data with deep sparse autoencoders ensemble,Michela Carlotta Massi and Francesca Gasperoni and Francesca Ieva and Anna Maria Paganoni,2022,2,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11409,Marked point process models for the admissions of heart failure patients,Luca Mancini and Anna Maria Paganoni,2019,4,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.10013,The Relevant-Set Correlation Model for Data Clustering,Michael E. Houle,2008,20,Statistical Analysis and Data Mining
 10.1002/sam.10150,Modeling the dynamics of social networks using Bayesian hierarchical blockmodels,Abel Rodríguez,2012,6,Statistical Analysis and Data Mining
 10.1002/sam.10054,Adaptive concept drift detection,Anton Dries and Ulrich Rückert,2009,100,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11224,Wedge sampling for computing clustering coefficients and triangle counts on large graphs†,C. Seshadhri and Ali Pinar and Tamara G. Kolda,2014,43,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11480,Multiclass machine learning classification of functional brain images for Parkinson's disease stage prediction,Guan‐Hua Huang and Chih‐Hsuan Lin and Yu‐Ren Cai and Tai‐Been Chen and Shih‐Yen Hsu and Nan‐Han Lu and Huei‐Yung Chen and Yi‐Chen Wu,2020,12,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.10118,Principal component analysis for interval-valued observations,A. Douzal-Chouakria and L. Billard and E. Diday,2011,41,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11347,Time‐dependent global sensitivity analysis with active subspaces for a lithium ion battery model,Paul G. Constantine and Alireza Doostan,2017,22,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11178,Periodicity detection in irregularly sampled light curves by robust regression and outlier detection,Anita Monika Thieler and Michael Backes and Roland Fried and Wolfgang Rhode,2013,6,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11237,"Big data, big results: Knowledge discovery in output from large-scale analytics",Tyler H. McCormick and Rebecca Ferrell and Alan F. Karr and Patrick B. Ryan,2014,11,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11493,Extreme ensemble of extreme learning machines,Eghbal G. Mansoori and Massar Sara,2021,4,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11365,Cellwise robust regularized discriminant analysis,Stéphanie Aerts and Ines Wilms,2017,3,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11224,Wedge sampling for computing clustering coefficients and triangle counts on large graphs†,C. Seshadhri and Ali Pinar and Tamara G. Kolda,2014,44,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.10047,Time course analysis of microarray data for the pathway of reproductive development in female rainbow trout,Y. Liu and J. Verducci and I. Schultz and S. Hook and J. Nagler and G. Craciun and K. Sundling and W. Hayton,2009,2,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11300,Composite large margin classifiers with latent subclasses for heterogeneous biomedical data,Guanhua Chen and Yufeng Liu and Dinggang Shen and Michael R. Kosorok,2016,2,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.10018,Neural Networks and Information in Materials Science,H. K. D. H. Bhadeshia,2009,63,Statistical Analysis and Data Mining
@@ -608,9 +609,7 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1002/sam.11141,Betti numbers of graphs with an application to anomaly detection,David A. Johannsen and David J. Marchette,2012,5,Statistical Analysis and Data Mining
 10.1002/sam.11272,Comments on “visualizing statistical models”: Visualizing modern statistical methods for Big Data,Genevera I. Allen and Frederick Campbell and Yue Hu,2015,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11139,Introduction to Volume 5 Issue 2,Joseph Verducci,2012,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11212,Iterative selection using orthogonal regression techniques,Bradley Turnbull and Subhashis Ghosal and Hao Helen Zhang,2013,1,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11396,Properties and Bayesian fitting of restricted Boltzmann machines,Andee Kaplan and Daniel Nordman and Stephen Vardeman,2019,1,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11464,MR plot: A big data tool for distinguishing distributions,Omid M. Ardakani and Majid Asadi and Nader Ebrahimi and Ehsan S. Soofi,2020,3,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.10136,Confidence sets for network structure,Edoardo M. Airoldi and David S. Choi and Patrick J. Wolfe,2011,9,Statistical Analysis and Data Mining
 10.1002/sam.2014.7.issue-3,n.m.,,2014,0,Statistical Analysis and Data Mining
 10.1002/sam.11155,Peer-to-peer distributed text classifier learning in PADMINI,Xianshu Zhu and Tushar Mahule and Haimonti Dutta and Sugandha Arora and Hillol Kargupta and Kirk Borne,2012,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
@@ -644,7 +643,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1002/sam.10146,Sequential minimal optimization in convex clustering repetitions,Rikiya Takahashi,2012,0,Statistical Analysis and Data Mining
 10.1002/sam.2019.12.issue-1,n.m.,,2019,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11246,Issue Information,,2015,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11135,Composite distance metric integration by leveraging multiple experts' inputs and its application in patient similarity assessment,Fei Wang and Jimeng Sun and Shahram Ebadollahi,2012,18,Statistical Analysis and Data Mining
 10.1002/sam.11239,Data science: An action plan for expanding the technical areas of the field of statistics,William S. Cleveland,2014,12,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.10073,A stable hyperparameter selection for the Gaussian RBF kernel for discrimination,Jeongyoun Ahn,2010,6,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11609,Hierarchy‐assisted gene expression regulatory network analysis,Han Yan and Sanguo Zhang and Shuangge Ma,2023,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
@@ -665,27 +663,27 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1002/sam.11458,Minimizing information loss in shared data: Hiding frequent patterns with multiple sensitive support thresholds,Belgin Ergenç Bostanoǧlu and Ahmet Cumhur Öztürk,2020,2,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11257,Editorial,David Madigan,2014,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11530,Penalized composite likelihood for colored graphical Gaussian models,Qiong Li and Xiaoying Sun and Nanwei Wang and Xin Gao,2021,1,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11477,Classification of high‐dimensional electroencephalography data with location selection using structured spike‐and‐slab prior,Shariq Mohammed and Dipak K. Dey and Yuping Zhang,2020,1,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11164,Using data mining to enable integration of wind resources on the power grid,Chandrika Kamath and Ya Ju Fan,2012,7,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.10130,A decoupled exponential random graph model for prediction of structure and attributes in temporal social networks,Vladimir Ouzienko and Yuhong Guo and Zoran Obradovic,2011,9,Statistical Analysis and Data Mining
-10.1002/sam.11184,Content-boosted matrix factorization techniques for recommender systems,Jennifer Nguyen and Mu Zhu,2013,41,Statistical Analysis and Data Mining
 10.1002/sam.v2:2,n.m.,,2009,0,Statistical Analysis and Data Mining
 10.1002/sam.11334,Functional confidence bands for lichen biodiversity profiles: A case study in Tuscany region (central Italy),Tonio Di Battista and Francesca Fortuna,2017,10,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11456,A machine learning method for selection of genetic variants to increase prediction accuracy of type 2 diabetes mellitus using sequencing data,Luann C. Jung and Haiyan Wang and Xukun Li and Cen Wu,2020,4,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11477,Classification of high‐dimensional electroencephalography data with location selection using structured spike‐and‐slab prior,Shariq Mohammed and Dipak K. Dey and Yuping Zhang,2020,1,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11164,Using data mining to enable integration of wind resources on the power grid,Chandrika Kamath and Ya Ju Fan,2012,7,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.10130,A decoupled exponential random graph model for prediction of structure and attributes in temporal social networks,Vladimir Ouzienko and Yuhong Guo and Zoran Obradovic,2011,9,Statistical Analysis and Data Mining
 10.1002/sam.11313,Fast robust SUR with economical and actuarial applications,Mia Hubert and Tim Verdonck and Özlem Yorulmaz,2017,11,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.v14.4,n.m.,,2021,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.v13.6,n.m.,,2020,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11605,Simplicial depth and its median: Selected properties and limitations,Stanislav Nagy,2022,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11335,Latent Markov and growth mixture models for ordinal individual responses with covariates: A comparison,Fulvia Pennoni and Isabella Romeo,2017,5,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11390,Adaptive regularization for Lasso models in the context of nonstationary data streams,Ricardo P. Monti and Christoforos Anagnostopoulos and Giovanni Montana,2018,7,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11392,An efficientk-means-type algorithm for clustering datasets with incomplete records,Andrew Lithio and Ranjan Maitra,2018,6,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11453,Bent line quantile regression via a smoothing technique,Xiaoying Zhou and Feipeng Zhang,2020,2,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.10071,Seriation and matrix reordering methods: An historical overview,Innar Liiv,2010,53,Statistical Analysis and Data Mining
+10.1002/sam.11415,Assessing topic model relevance: Evaluation and informative priors,Angela Fan and Finale Doshi‐Velez and Luke Miratrix,2019,7,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11535,Power grid frequency prediction using spatiotemporal modeling,Amanda Lenzi and Julie Bessac and Mihai Anitescu,2021,3,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.10026,Data mining density of states spectra for crystal structure classification: An inverse problem approach,Scott R. Broderick and Hafid Aourag and Krishna Rajan,2009,25,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.10029,How to deal with malicious users in privacy-preserving distributed data mining,Yitao Duan and John Canny,2009,5,Statistical Analysis and Data Mining
+10.1002/sam.11324,"Hierarchical models for multiple, rare outcomes using massive observational healthcare databases",Trevor R. Shaddox and Patrick B. Ryan and Martijn J. Schuemie and David Madigan and Marc A. Suchard,2016,8,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11591,A novel Bayesian method for variable selection and estimation in binary quantile regression,Mai Dao and Min Wang and Souparno Ghosh,2022,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11556,Adaptive batching for Gaussian process surrogates with application in noisy level set estimation,Xiong Lyu and Michael Ludkovski,2022,2,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.10135,Construction of association networks from communication in teams working on complex projects,Laura Dabbish and Ben Towne and Jana Diesner and James Herbsleb,2011,2,Statistical Analysis and Data Mining
 10.1002/sam.11233,A pattern discovery framework for adverse event evaluation and inference in spontaneous reporting systems,Marianthi Markatou and Robert Ball,2014,8,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11415,Assessing topic model relevance: Evaluation and informative priors,Angela Fan and Finale Doshi‐Velez and Luke Miratrix,2019,6,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.v16.1,n.m.,,2023,0,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11399,Elastic functional principal component regression,J. Derek Tucker and John R. Lewis and Anuj Srivastava,2019,7,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11389,"Rotational grid, PAI‐maximizing crime forecasts",George Mohler and Michael D. Porter,2018,26,Statistical Analysis and Data Mining: The ASA Data Science Journal
@@ -693,28 +691,31 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1002/sam.10053,Time-decayed correlated aggregates over data streams,Graham Cormode and Srikanta Tirthapura and Bojian Xu,2009,6,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.10005,Controlling the False Discovery Rate for Feature Selection in High-resolution NMR Spectra,Seoung Bum Kim and Victoria C. P. Chen and Youngja Park and Thomas R. Ziegler and Dean P. Jones,2008,17,Statistical Analysis and Data Mining
 10.1002/sam.11181,A graph-based approach to find teleconnections in climate data,Jaya Kawale and Stefan Liess and Arjun Kumar and Michael Steinbach and Peter Snyder and Vipin Kumar and Auroop R. Ganguly and Nagiza F. Samatova and Fredrick Semazzi,2013,27,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11411,Online detection of financial time series peaks and troughs: A probability‐based approach*,Riccardo Bramante and Silvia Facchinetti and Diego Zappa,2019,4,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.v3:4,n.m.,,2010,13,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.10151,Online linear and quadratic discriminant analysis with adaptive forgetting for streaming classification,Christoforos Anagnostopoulos and Dimitris K. Tasoulis and Niall M. Adams and Nicos G. Pavlidis and David J. Hand,2012,26,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11220,"Causal inference of interaction effects with inverse propensity weighting, G-computation and tree-based standardization",Joseph Kang and Xiaogang Su and Lei Liu and Martha L. Daviglus,2014,3,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11449,An algorithm to compare two‐dimensional footwear outsole images using maximum cliques and speeded‐up robust feature,Soyoung Park and Alicia Carriquiry,2020,8,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11219,Two tales of variable selection for high dimensional regression: Screening and model building,Cong Liu and Tao Shi and Yoonkyung Lee,2014,6,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.10133,A classification for community discovery methods in complex networks,Michele Coscia and Fosca Giannotti and Dino Pedreschi,2011,239,Statistical Analysis and Data Mining
-10.1002/sam.11535,Power grid frequency prediction using spatiotemporal modeling,Amanda Lenzi and Julie Bessac and Mihai Anitescu,2021,3,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.10026,Data mining density of states spectra for crystal structure classification: An inverse problem approach,Scott R. Broderick and Hafid Aourag and Krishna Rajan,2009,25,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.10029,How to deal with malicious users in privacy-preserving distributed data mining,Yitao Duan and John Canny,2009,5,Statistical Analysis and Data Mining
-10.1002/sam.11324,"Hierarchical models for multiple, rare outcomes using massive observational healthcare databases",Trevor R. Shaddox and Patrick B. Ryan and Martijn J. Schuemie and David Madigan and Marc A. Suchard,2016,8,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11508,Supervised compression of big data,V. Roshan Joseph and Simon Mak,2021,7,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11316,The serve impact in tennis: First large-scale study of big Hawk-Eye data,Sami Mecheri and François Rioult and Bruno Mantel and François Kauffmann and Nicolas Benguigui,2016,28,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.10115,Brief overview of symbolic data and analytic issues,L. Billard,2011,26,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11228,Measurement of data complexity for classification problems with unbalanced data,Nafees Anwar and Geoff Jones and Siva Ganesh,2014,18,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11380,An evaluation of data stream clustering algorithms,Stratos Mansalis and Eirini Ntoutsi and Nikos Pelekis and Yannis Theodoridis,2018,30,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11287,Trajectory analysis via a geometric feature space approach,Mark D. Rintoul and Andrew T. Wilson,2015,13,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11573,A general iterative clustering algorithm,Ziqiang Lin and Eugene Laska and Carole Siegel,2022,1,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.v3:4,n.m.,,2010,13,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.10151,Online linear and quadratic discriminant analysis with adaptive forgetting for streaming classification,Christoforos Anagnostopoulos and Dimitris K. Tasoulis and Niall M. Adams and Nicos G. Pavlidis and David J. Hand,2012,26,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11449,An algorithm to compare two‐dimensional footwear outsole images using maximum cliques and speeded‐up robust feature,Soyoung Park and Alicia Carriquiry,2020,8,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11184,Content-boosted matrix factorization techniques for recommender systems,Jennifer Nguyen and Mu Zhu,2013,41,Statistical Analysis and Data Mining
+10.1002/sam.11219,Two tales of variable selection for high dimensional regression: Screening and model building,Cong Liu and Tao Shi and Yoonkyung Lee,2014,6,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11212,Iterative selection using orthogonal regression techniques,Bradley Turnbull and Subhashis Ghosal and Hao Helen Zhang,2013,2,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.10034,Materials informatics: An emerging technology for materials development,Richard LeSar,2009,19,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11302,Use and communication of probabilistic forecasts,Adrian E. Raftery,2016,33,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11236,Survival analysis with electronic health record data: Experiments with chronic kidney disease,Yolanda Hagar and David Albers and Rimma Pivovarov and Herbert Chase and Vanja Dukic and Noémie Elhadad,2014,32,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.10052,Prequential analysis of complex data with adaptive model reselection,Jennifer Clarke and Bertrand Clarke,2009,3,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.10098,Bayesian cluster ensembles,Hongjun Wang and Hanhuai Shan and Arindam Banerjee,2011,59,Statistical Analysis and Data Mining: The ASA Data Science Journal
-10.1002/sam.11267,Summarizing and understanding large graphs,Danai Koutra and U Kang and Jilles Vreeken and Christos Faloutsos,2015,48,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11380,An evaluation of data stream clustering algorithms,Stratos Mansalis and Eirini Ntoutsi and Nikos Pelekis and Yannis Theodoridis,2018,31,Statistical Analysis and Data Mining: The ASA Data Science Journal
 10.1002/sam.11153,Effective graph classification based on topological and label attributes,Geng Li and Murat Semerci and Bülent Yener and Mohammed J. Zaki,2012,65,Statistical Analysis and Data Mining
+10.1002/sam.11316,The serve impact in tennis: First large-scale study of big Hawk-Eye data,Sami Mecheri and François Rioult and Bruno Mantel and François Kauffmann and Nicolas Benguigui,2016,28,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11302,Use and communication of probabilistic forecasts,Adrian E. Raftery,2016,35,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11267,Summarizing and understanding large graphs,Danai Koutra and U Kang and Jilles Vreeken and Christos Faloutsos,2015,48,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.10135,Construction of association networks from communication in teams working on complex projects,Laura Dabbish and Ben Towne and Jana Diesner and James Herbsleb,2011,2,Statistical Analysis and Data Mining
+10.1002/sam.11135,Composite distance metric integration by leveraging multiple experts' inputs and its application in patient similarity assessment,Fei Wang and Jimeng Sun and Shahram Ebadollahi,2012,19,Statistical Analysis and Data Mining
+10.1002/sam.11236,Survival analysis with electronic health record data: Experiments with chronic kidney disease,Yolanda Hagar and David Albers and Rimma Pivovarov and Herbert Chase and Vanja Dukic and Noémie Elhadad,2014,32,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.10098,Bayesian cluster ensembles,Hongjun Wang and Hanhuai Shan and Arindam Banerjee,2011,60,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11508,Supervised compression of big data,V. Roshan Joseph and Simon Mak,2021,7,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11220,"Causal inference of interaction effects with inverse propensity weighting, G-computation and tree-based standardization",Joseph Kang and Xiaogang Su and Lei Liu and Martha L. Daviglus,2014,3,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11392,An efficientk-means-type algorithm for clustering datasets with incomplete records,Andrew Lithio and Ranjan Maitra,2018,6,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11464,MR plot: A big data tool for distinguishing distributions,Omid M. Ardakani and Majid Asadi and Nader Ebrahimi and Ehsan S. Soofi,2020,4,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.11411,Online detection of financial time series peaks and troughs: A probability‐based approach*,Riccardo Bramante and Silvia Facchinetti and Diego Zappa,2019,5,Statistical Analysis and Data Mining: The ASA Data Science Journal
+10.1002/sam.10133,A classification for community discovery methods in complex networks,Michele Coscia and Fosca Giannotti and Dino Pedreschi,2011,243,Statistical Analysis and Data Mining
+10.1002/sam.10071,Seriation and matrix reordering methods: An historical overview,Innar Liiv,2010,56,Statistical Analysis and Data Mining

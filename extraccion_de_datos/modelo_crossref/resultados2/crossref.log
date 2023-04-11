@@ -1,584 +1,583 @@
-2023-03-17 10:12:54,315 - resultados2/crossref_log - INFO - 
+2023-04-10 22:35:50,200 - resultados2/crossref_log - INFO - 
 New CROSSREF execution:
-2023-03-17 10:12:58,065 - resultados2/crossref_log - INFO - Extraccion de la revista Nature Machine Intelligence
-2023-03-17 10:12:58,065 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:12:58.065228
-2023-03-17 10:13:09,497 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:13:09.497358
-2023-03-17 10:13:09,498 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:11.432130
-2023-03-17 10:13:13,859 - resultados2/crossref_log - INFO - Extraccion de la revista IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE
-2023-03-17 10:13:13,860 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:13:13.860651
-2023-03-17 10:14:11,157 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:14:11.157736
-2023-03-17 10:14:11,158 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:57.297085
-2023-03-17 10:14:11,573 - resultados2/crossref_log - INFO - Extraccion de la revista IEEE Transactions on Cybernetics
-2023-03-17 10:14:11,575 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:14:11.575271
-2023-03-17 10:15:10,329 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:15:10.329710
-2023-03-17 10:15:10,329 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:58.754439
-2023-03-17 10:15:11,350 - resultados2/crossref_log - INFO - Extraccion de la revista Information Fusion
-2023-03-17 10:15:11,350 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:15:11.350689
-2023-03-17 10:15:32,812 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:15:32.812707
-2023-03-17 10:15:32,812 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:21.462018
-2023-03-17 10:15:37,645 - resultados2/crossref_log - INFO - Extraccion de la revista IEEE TRANSACTIONS ON EVOLUTIONARY COMPUTATION
-2023-03-17 10:15:37,645 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:15:37.645970
-2023-03-17 10:15:57,545 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:15:57.545671
-2023-03-17 10:15:57,545 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:19.899701
-2023-03-17 10:15:57,979 - resultados2/crossref_log - INFO - Extraccion de la revista IEEE Transactions on Neural Networks and Learning Systems
-2023-03-17 10:15:57,979 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:15:57.979128
-2023-03-17 10:17:14,977 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:17:14.977455
-2023-03-17 10:17:14,977 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:01:16.998327
-2023-03-17 10:17:15,460 - resultados2/crossref_log - INFO - Extraccion de la revista ARTIFICIAL INTELLIGENCE
-2023-03-17 10:17:15,460 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:17:15.460883
-2023-03-17 10:17:42,513 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:17:42.513634
-2023-03-17 10:17:42,513 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:27.052751
-2023-03-17 10:17:43,077 - resultados2/crossref_log - INFO - Extraccion de la revista IEEE Transactions on Affective Computing
-2023-03-17 10:17:43,077 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:17:43.077648
-2023-03-17 10:17:56,893 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:17:56.893568
-2023-03-17 10:17:56,893 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:13.815920
-2023-03-17 10:17:57,310 - resultados2/crossref_log - INFO - Extraccion de la revista MEDICAL IMAGE ANALYSIS
-2023-03-17 10:17:57,310 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:17:57.310204
-2023-03-17 10:18:38,681 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:18:38.681296
-2023-03-17 10:18:38,681 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:41.371092
-2023-03-17 10:18:39,111 - resultados2/crossref_log - INFO - Extraccion de la revista INTERNATIONAL JOURNAL OF COMPUTER VISION
-2023-03-17 10:18:39,126 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:18:39.126334
-2023-03-17 10:19:10,877 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:19:10.877994
-2023-03-17 10:19:10,877 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:31.751660
-2023-03-17 10:19:11,365 - resultados2/crossref_log - INFO - Extraccion de la revista IEEE TRANSACTIONS ON FUZZY SYSTEMS
-2023-03-17 10:19:11,367 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:19:11.367028
-2023-03-17 10:19:56,108 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:19:56.108039
-2023-03-17 10:19:56,108 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:44.741011
-2023-03-17 10:20:00,041 - resultados2/crossref_log - INFO - Extraccion de la revista IEEE TRANSACTIONS ON IMAGE PROCESSING
-2023-03-17 10:20:00,041 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:20:00.041548
-2023-03-17 10:21:29,305 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:21:29.305253
-2023-03-17 10:21:29,305 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:01:29.263705
-2023-03-17 10:21:29,724 - resultados2/crossref_log - INFO - Extraccion de la revista ACM Transactions on Intelligent Systems and Technology
-2023-03-17 10:21:29,725 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:21:29.725094
-2023-03-17 10:21:40,468 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:21:40.468394
-2023-03-17 10:21:40,469 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:10.743300
-2023-03-17 10:21:40,906 - resultados2/crossref_log - INFO - Extraccion de la revista Swarm and Evolutionary Computation
-2023-03-17 10:21:40,906 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:21:40.906339
-2023-03-17 10:22:05,606 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:22:05.606106
-2023-03-17 10:22:05,606 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:24.699767
-2023-03-17 10:22:06,050 - resultados2/crossref_log - INFO - Extraccion de la revista IEEE Computational Intelligence Magazine
-2023-03-17 10:22:06,050 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:22:06.050860
-2023-03-17 10:22:21,636 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:22:21.636381
-2023-03-17 10:22:21,636 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:15.585521
-2023-03-17 10:22:24,589 - resultados2/crossref_log - INFO - Extraccion de la revista NEURAL NETWORKS
-2023-03-17 10:22:24,589 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:22:24.589218
-2023-03-17 10:23:49,604 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:23:49.604143
-2023-03-17 10:23:49,604 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:01:25.014925
-2023-03-17 10:23:50,020 - resultados2/crossref_log - INFO - Extraccion de la revista ARTIFICIAL INTELLIGENCE REVIEW
-2023-03-17 10:23:50,020 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:23:50.020728
-2023-03-17 10:24:11,777 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:24:11.777150
-2023-03-17 10:24:11,777 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:21.756422
-2023-03-17 10:24:14,220 - resultados2/crossref_log - INFO - Extraccion de la revista IEEE TRANSACTIONS ON KNOWLEDGE AND DATA ENGINEERING
-2023-03-17 10:24:14,236 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:24:14.236893
-2023-03-17 10:24:50,926 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:24:50.926229
-2023-03-17 10:24:50,926 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:36.689336
-2023-03-17 10:24:52,411 - resultados2/crossref_log - INFO - Extraccion de la revista Transactions of the Association for Computational Linguistics
-2023-03-17 10:24:52,412 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:24:52.412859
-2023-03-17 10:25:00,674 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:25:00.674077
-2023-03-17 10:25:00,674 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:08.261218
-2023-03-17 10:25:01,126 - resultados2/crossref_log - INFO - Extraccion de la revista INTERNATIONAL JOURNAL OF INTELLIGENT SYSTEMS
-2023-03-17 10:25:01,128 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:25:01.128609
-2023-03-17 10:25:35,452 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:25:35.452591
-2023-03-17 10:25:35,452 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:34.323982
-2023-03-17 10:25:35,882 - resultados2/crossref_log - INFO - Extraccion de la revista EXPERT SYSTEMS WITH APPLICATIONS
-2023-03-17 10:25:35,883 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:25:35.883435
-2023-03-17 10:27:44,717 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:27:44.717252
-2023-03-17 10:27:44,717 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:02:08.833817
-2023-03-17 10:27:45,128 - resultados2/crossref_log - INFO - Extraccion de la revista PATTERN RECOGNITION
-2023-03-17 10:27:45,130 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:27:45.130175
-2023-03-17 10:29:52,405 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:29:52.405921
-2023-03-17 10:29:52,405 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:02:07.275746
-2023-03-17 10:29:52,836 - resultados2/crossref_log - INFO - Extraccion de la revista APPLIED SOFT COMPUTING
-2023-03-17 10:29:52,840 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:29:52.840046
-2023-03-17 10:31:39,376 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:31:39.376297
-2023-03-17 10:31:39,376 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:01:46.536251
-2023-03-17 10:31:39,791 - resultados2/crossref_log - INFO - Extraccion de la revista KNOWLEDGE-BASED SYSTEMS
-2023-03-17 10:31:39,793 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:31:39.793524
-2023-03-17 10:32:57,211 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:32:57.211288
-2023-03-17 10:32:57,211 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:01:17.417764
-2023-03-17 10:32:57,628 - resultados2/crossref_log - ERROR - Error para "CAAI Transactions on Intelligence Technology" al realizar la solicitud: 404
-2023-03-17 10:32:58,061 - resultados2/crossref_log - INFO - Extraccion de la revista ADVANCED ENGINEERING INFORMATICS
-2023-03-17 10:32:58,061 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:32:58.061867
-2023-03-17 10:33:17,073 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:33:17.073910
-2023-03-17 10:33:17,073 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:19.012043
-2023-03-17 10:33:17,486 - resultados2/crossref_log - INFO - Extraccion de la revista ENGINEERING APPLICATIONS OF ARTIFICIAL INTELLIGENCE
-2023-03-17 10:33:17,487 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:33:17.487997
-2023-03-17 10:34:14,320 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:34:14.320966
-2023-03-17 10:34:14,320 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:56.832969
-2023-03-17 10:34:14,718 - resultados2/crossref_log - INFO - Extraccion de la revista COMPUTATIONAL LINGUISTICS
-2023-03-17 10:34:14,719 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:34:14.719016
-2023-03-17 10:34:22,926 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:34:22.926731
-2023-03-17 10:34:22,926 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:08.207715
-2023-03-17 10:34:23,343 - resultados2/crossref_log - INFO - Extraccion de la revista Wiley Interdisciplinary Reviews-Data Mining and Knowledge Discovery
-2023-03-17 10:34:23,343 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:34:23.343429
-2023-03-17 10:34:30,393 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:34:30.393433
-2023-03-17 10:34:30,393 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:07.050004
-2023-03-17 10:34:32,503 - resultados2/crossref_log - INFO - Extraccion de la revista Advanced Intelligent Systems
-2023-03-17 10:34:32,505 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:34:32.505453
-2023-03-17 10:34:38,306 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:34:38.306988
-2023-03-17 10:34:38,306 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:05.801535
-2023-03-17 10:34:38,748 - resultados2/crossref_log - INFO - Extraccion de la revista JOURNAL OF INTELLIGENT MANUFACTURING
-2023-03-17 10:34:38,749 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:34:38.749696
-2023-03-17 10:35:08,807 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:35:08.807321
-2023-03-17 10:35:08,807 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:30.057625
-2023-03-17 10:35:09,228 - resultados2/crossref_log - INFO - Extraccion de la revista Artificial Intelligence in Medicine
-2023-03-17 10:35:09,228 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:35:09.228567
-2023-03-17 10:35:26,185 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:35:26.185741
-2023-03-17 10:35:26,185 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:16.957174
-2023-03-17 10:35:29,225 - resultados2/crossref_log - INFO - Extraccion de la revista DECISION SUPPORT SYSTEMS
-2023-03-17 10:35:29,240 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:35:29.240081
-2023-03-17 10:36:00,608 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:36:00.608447
-2023-03-17 10:36:00,608 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:31.368366
-2023-03-17 10:36:01,058 - resultados2/crossref_log - INFO - Extraccion de la revista IEEE INTELLIGENT SYSTEMS
-2023-03-17 10:36:01,058 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:36:01.058665
-2023-03-17 10:36:21,302 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:36:21.302102
-2023-03-17 10:36:21,302 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:20.243437
-2023-03-17 10:36:23,874 - resultados2/crossref_log - INFO - Extraccion de la revista Complex & Intelligent Systems
-2023-03-17 10:36:23,875 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:36:23.875055
-2023-03-17 10:36:31,007 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:36:31.007916
-2023-03-17 10:36:31,007 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:07.132861
-2023-03-17 10:36:31,453 - resultados2/crossref_log - INFO - Extraccion de la revista International Journal of Neural Systems
-2023-03-17 10:36:31,454 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:36:31.454593
-2023-03-17 10:36:42,357 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:36:42.356401
-2023-03-17 10:36:42,357 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:10.901808
-2023-03-17 10:36:42,791 - resultados2/crossref_log - INFO - Extraccion de la revista INTEGRATED COMPUTER-AIDED ENGINEERING
-2023-03-17 10:36:42,791 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:36:42.791014
-2023-03-17 10:36:46,667 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:36:46.667436
-2023-03-17 10:36:46,667 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:03.876422
-2023-03-17 10:36:47,094 - resultados2/crossref_log - INFO - Extraccion de la revista Machine Learning-Science and Technology
-2023-03-17 10:36:47,095 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:36:47.095597
-2023-03-17 10:36:54,704 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:36:54.704425
-2023-03-17 10:36:54,704 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:07.608828
-2023-03-17 10:37:00,140 - resultados2/crossref_log - INFO - Extraccion de la revista NEUROCOMPUTING
-2023-03-17 10:37:00,140 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:37:00.140811
-2023-03-17 10:40:41,270 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:40:41.270882
-2023-03-17 10:40:41,270 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:03:41.130071
-2023-03-17 10:40:49,141 - resultados2/crossref_log - INFO - Extraccion de la revista MACHINE LEARNING
-2023-03-17 10:40:49,141 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:40:49.141206
-2023-03-17 10:40:58,953 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:40:58.953542
-2023-03-17 10:40:58,953 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:09.812336
-2023-03-17 10:40:59,380 - resultados2/crossref_log - INFO - Extraccion de la revista DATA MINING AND KNOWLEDGE DISCOVERY
-2023-03-17 10:40:59,381 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:40:59.381969
-2023-03-17 10:41:04,636 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:41:04.636696
-2023-03-17 10:41:04,636 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:05.254727
-2023-03-17 10:41:13,903 - resultados2/crossref_log - INFO - Extraccion de la revista MINDS AND MACHINES
-2023-03-17 10:41:13,903 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:41:13.903510
-2023-03-17 10:41:31,437 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:41:31.437939
-2023-03-17 10:41:31,437 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:17.534429
-2023-03-17 10:41:31,963 - resultados2/crossref_log - INFO - Extraccion de la revista Fuzzy Optimization and Decision Making
-2023-03-17 10:41:31,965 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:41:31.965274
-2023-03-17 10:41:41,292 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:41:41.292177
-2023-03-17 10:41:41,292 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:09.326903
-2023-03-17 10:41:45,414 - resultados2/crossref_log - INFO - Extraccion de la revista JOURNAL OF MACHINE LEARNING RESEARCH
-2023-03-17 10:41:45,415 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:41:45.415903
-2023-03-17 10:41:50,427 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:41:50.427719
-2023-03-17 10:41:50,428 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:05.011816
-2023-03-17 10:41:50,867 - resultados2/crossref_log - INFO - Extraccion de la revista NEURAL COMPUTING & APPLICATIONS
-2023-03-17 10:41:50,868 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:41:50.868976
-2023-03-17 10:44:28,992 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:44:28.992758
-2023-03-17 10:44:28,992 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:02:38.123782
-2023-03-17 10:44:29,633 - resultados2/crossref_log - INFO - Extraccion de la revista APPLIED INTELLIGENCE
-2023-03-17 10:44:29,664 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:44:29.664269
-2023-03-17 10:45:39,066 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:45:39.066580
-2023-03-17 10:45:39,070 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:01:09.402311
-2023-03-17 10:45:39,681 - resultados2/crossref_log - INFO - Extraccion de la revista IEEE Transactions on Intelligent Vehicles
-2023-03-17 10:45:39,708 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:45:39.708728
-2023-03-17 10:45:48,111 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:45:48.111931
-2023-03-17 10:45:48,114 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:08.403203
-2023-03-17 10:45:55,113 - resultados2/crossref_log - INFO - Extraccion de la revista International Journal of Interactive Multimedia and Artificial Intelligence
-2023-03-17 10:45:55,113 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:45:55.113666
-2023-03-17 10:46:08,009 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:46:08.000981
-2023-03-17 10:46:08,009 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:12.887315
-2023-03-17 10:46:08,665 - resultados2/crossref_log - INFO - Extraccion de la revista Cognitive Computation
-2023-03-17 10:46:08,692 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:46:08.692336
-2023-03-17 10:46:32,032 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:46:32.032851
-2023-03-17 10:46:32,032 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:23.340515
-2023-03-17 10:46:32,733 - resultados2/crossref_log - INFO - Extraccion de la revista COMPUTER VISION AND IMAGE UNDERSTANDING
-2023-03-17 10:46:32,761 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:46:32.761397
-2023-03-17 10:46:55,015 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:46:55.015131
-2023-03-17 10:46:55,015 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:22.253734
-2023-03-17 10:46:56,080 - resultados2/crossref_log - INFO - Extraccion de la revista IEEE Transactions on Emerging Topics in Computational Intelligence
-2023-03-17 10:46:56,108 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:46:56.108132
-2023-03-17 10:47:14,183 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:47:14.183889
-2023-03-17 10:47:14,183 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:18.075757
-2023-03-17 10:47:14,815 - resultados2/crossref_log - INFO - Extraccion de la revista EVOLUTIONARY COMPUTATION
-2023-03-17 10:47:14,850 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:47:14.850032
-2023-03-17 10:47:21,695 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:47:21.695450
-2023-03-17 10:47:21,696 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:06.845418
-2023-03-17 10:47:22,106 - resultados2/crossref_log - INFO - Extraccion de la revista PATTERN RECOGNITION LETTERS
-2023-03-17 10:47:22,125 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:47:22.125156
-2023-03-17 10:49:00,961 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:49:00.961845
-2023-03-17 10:49:00,961 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:01:38.836689
-2023-03-17 10:49:01,480 - resultados2/crossref_log - INFO - Extraccion de la revista IEEE Transactions on Cognitive and Developmental Systems
-2023-03-17 10:49:01,480 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:49:01.480247
-2023-03-17 10:49:05,212 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:49:05.212080
-2023-03-17 10:49:05,212 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:03.731833
-2023-03-17 10:49:05,662 - resultados2/crossref_log - ERROR - Error para "Cognitive Systems Research" al realizar la solicitud: 404
-2023-03-17 10:49:06,096 - resultados2/crossref_log - INFO - Extraccion de la revista INTERNATIONAL JOURNAL OF APPROXIMATE REASONING
-2023-03-17 10:49:06,105 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:49:06.105811
-2023-03-17 10:49:22,263 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:49:22.263166
-2023-03-17 10:49:22,263 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:16.157355
-2023-03-17 10:49:22,746 - resultados2/crossref_log - INFO - Extraccion de la revista International Journal of Machine Learning and Cybernetics
-2023-03-17 10:49:22,757 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:49:22.757062
-2023-03-17 10:49:35,278 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:49:35.278449
-2023-03-17 10:49:35,278 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:12.521387
-2023-03-17 10:49:36,446 - resultados2/crossref_log - INFO - Extraccion de la revista Egyptian Informatics Journal
-2023-03-17 10:49:36,463 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:49:36.463867
-2023-03-17 10:49:50,683 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:49:50.683182
-2023-03-17 10:49:50,683 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:14.219315
-2023-03-17 10:49:54,799 - resultados2/crossref_log - INFO - Extraccion de la revista CHEMOMETRICS AND INTELLIGENT LABORATORY SYSTEMS
-2023-03-17 10:49:54,803 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:49:54.803408
-2023-03-17 10:51:01,292 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:51:01.292881
-2023-03-17 10:51:01,292 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:01:06.489473
-2023-03-17 10:51:01,742 - resultados2/crossref_log - INFO - Extraccion de la revista IEEE Transactions on Human-Machine Systems
-2023-03-17 10:51:01,746 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:51:01.746643
-2023-03-17 10:51:24,025 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:51:24.025006
-2023-03-17 10:51:24,025 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:22.278363
-2023-03-17 10:51:24,500 - resultados2/crossref_log - INFO - Extraccion de la revista International Journal of Fuzzy Systems
-2023-03-17 10:51:24,505 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:51:24.505018
-2023-03-17 10:51:38,316 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:51:38.316628
-2023-03-17 10:51:38,316 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:13.811610
-2023-03-17 10:51:38,777 - resultados2/crossref_log - INFO - Extraccion de la revista International Journal on Document Analysis and Recognition
-2023-03-17 10:51:38,785 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:51:38.785732
-2023-03-17 10:51:44,910 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:51:44.910337
-2023-03-17 10:51:44,910 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:06.124605
-2023-03-17 10:51:45,377 - resultados2/crossref_log - INFO - Extraccion de la revista IMAGE AND VISION COMPUTING
-2023-03-17 10:51:45,387 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:51:45.387599
-2023-03-17 10:52:34,443 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:52:34.443539
-2023-03-17 10:52:34,443 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:49.055940
-2023-03-17 10:52:34,878 - resultados2/crossref_log - INFO - Extraccion de la revista Big Data Research
-2023-03-17 10:52:34,880 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:52:34.880063
-2023-03-17 10:52:49,408 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:52:49.408015
-2023-03-17 10:52:49,408 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:14.527952
-2023-03-17 10:52:50,524 - resultados2/crossref_log - INFO - Extraccion de la revista SOFT COMPUTING
-2023-03-17 10:52:50,524 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:52:50.524396
-2023-03-17 10:55:32,138 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:55:32.138638
-2023-03-17 10:55:32,138 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:02:41.614242
-2023-03-17 10:55:32,559 - resultados2/crossref_log - INFO - Extraccion de la revista Swarm Intelligence
-2023-03-17 10:55:32,559 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:55:32.559364
-2023-03-17 10:55:42,309 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:55:42.309305
-2023-03-17 10:55:42,309 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:09.749941
-2023-03-17 10:55:42,705 - resultados2/crossref_log - INFO - Extraccion de la revista ROBOTICS AND AUTONOMOUS SYSTEMS
-2023-03-17 10:55:42,705 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:55:42.705057
-2023-03-17 10:56:33,855 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:56:33.855459
-2023-03-17 10:56:33,855 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:51.150402
-2023-03-17 10:56:34,292 - resultados2/crossref_log - INFO - Extraccion de la revista Journal of Ambient Intelligence and Humanized Computing
-2023-03-17 10:56:34,294 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:56:34.294193
-2023-03-17 10:57:16,057 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:57:16.057167
-2023-03-17 10:57:16,057 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:41.762974
-2023-03-17 10:57:16,481 - resultados2/crossref_log - INFO - Extraccion de la revista JOURNAL OF ARTIFICIAL INTELLIGENCE RESEARCH
-2023-03-17 10:57:16,483 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:57:16.483413
-2023-03-17 10:57:37,819 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:57:37.819621
-2023-03-17 10:57:37,819 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:21.336208
-2023-03-17 10:57:38,269 - resultados2/crossref_log - INFO - Extraccion de la revista Memetic Computing
-2023-03-17 10:57:38,269 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:57:38.269656
-2023-03-17 10:57:48,652 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:57:48.652484
-2023-03-17 10:57:48,652 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:10.382828
-2023-03-17 10:57:49,078 - resultados2/crossref_log - INFO - Extraccion de la revista INTERNATIONAL JOURNAL OF INFORMATION TECHNOLOGY & DECISION MAKING
-2023-03-17 10:57:49,079 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:57:49.079993
-2023-03-17 10:58:17,518 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:58:17.518918
-2023-03-17 10:58:17,518 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:28.438925
-2023-03-17 10:58:18,135 - resultados2/crossref_log - INFO - Extraccion de la revista Frontiers in Neurorobotics
-2023-03-17 10:58:18,135 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:58:18.135942
-2023-03-17 10:58:37,535 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:58:37.535386
-2023-03-17 10:58:37,535 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:19.399444
-2023-03-17 10:58:37,966 - resultados2/crossref_log - INFO - Extraccion de la revista INTELLIGENT AUTOMATION AND SOFT COMPUTING
-2023-03-17 10:58:37,968 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:58:37.968583
-2023-03-17 10:59:18,034 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:59:18.034695
-2023-03-17 10:59:18,034 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:40.066112
-2023-03-17 10:59:18,456 - resultados2/crossref_log - INFO - Extraccion de la revista International Journal of Bio-Inspired Computation
-2023-03-17 10:59:18,457 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:59:18.457986
-2023-03-17 10:59:27,917 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 10:59:27.917796
-2023-03-17 10:59:27,917 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:09.459810
-2023-03-17 10:59:28,351 - resultados2/crossref_log - INFO - Extraccion de la revista NEURAL COMPUTATION
-2023-03-17 10:59:28,351 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 10:59:28.351360
-2023-03-17 11:00:10,650 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:00:10.650369
-2023-03-17 11:00:10,650 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:42.299009
-2023-03-17 11:00:11,753 - resultados2/crossref_log - INFO - Extraccion de la revista AUTONOMOUS ROBOTS
-2023-03-17 11:00:11,753 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:00:11.753512
-2023-03-17 11:00:35,883 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:00:35.883316
-2023-03-17 11:00:35,883 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:24.129804
-2023-03-17 11:00:36,333 - resultados2/crossref_log - INFO - Extraccion de la revista COMPUTER SPEECH AND LANGUAGE
-2023-03-17 11:00:36,333 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:00:36.333500
-2023-03-17 11:00:52,283 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:00:52.283327
-2023-03-17 11:00:52,283 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:15.949827
-2023-03-17 11:00:52,716 - resultados2/crossref_log - INFO - Extraccion de la revista JOURNAL OF INTELLIGENT & ROBOTIC SYSTEMS
-2023-03-17 11:00:52,718 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:00:52.718639
-2023-03-17 11:01:29,282 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:01:29.282354
-2023-03-17 11:01:29,282 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:36.563715
-2023-03-17 11:01:29,699 - resultados2/crossref_log - INFO - Extraccion de la revista Semantic Web
-2023-03-17 11:01:29,699 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:01:29.699391
-2023-03-17 11:01:40,998 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:01:40.998841
-2023-03-17 11:01:40,998 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:11.299450
-2023-03-17 11:01:41,476 - resultados2/crossref_log - INFO - Extraccion de la revista MACHINE VISION AND APPLICATIONS
-2023-03-17 11:01:41,478 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:01:41.478191
-2023-03-17 11:02:01,531 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:02:01.531817
-2023-03-17 11:02:01,531 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:20.053626
-2023-03-17 11:02:03,432 - resultados2/crossref_log - INFO - Extraccion de la revista EXPERT SYSTEMS
-2023-03-17 11:02:03,432 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:02:03.432070
-2023-03-17 11:02:25,483 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:02:25.483897
-2023-03-17 11:02:25,483 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:22.051827
-2023-03-17 11:02:28,897 - resultados2/crossref_log - INFO - Extraccion de la revista APPLIED ARTIFICIAL INTELLIGENCE
-2023-03-17 11:02:28,897 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:02:28.897690
-2023-03-17 11:02:42,647 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:02:42.647765
-2023-03-17 11:02:42,647 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:13.750075
-2023-03-17 11:02:43,081 - resultados2/crossref_log - INFO - Extraccion de la revista Journal of Web Semantics
-2023-03-17 11:02:43,081 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:02:43.081083
-2023-03-17 11:02:54,981 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:02:54.981856
-2023-03-17 11:02:54,981 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:11.900773
-2023-03-17 11:02:56,097 - resultados2/crossref_log - INFO - Extraccion de la revista Journal of Ambient Intelligence and Smart Environments
-2023-03-17 11:02:56,097 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:02:56.097774
-2023-03-17 11:03:19,797 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:03:19.797329
-2023-03-17 11:03:19,797 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:23.699555
-2023-03-17 11:03:20,197 - resultados2/crossref_log - INFO - Extraccion de la revista Artificial Intelligence and Law
-2023-03-17 11:03:20,197 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:03:20.197379
-2023-03-17 11:03:33,150 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:03:33.150689
-2023-03-17 11:03:33,150 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:12.953310
-2023-03-17 11:03:34,230 - resultados2/crossref_log - INFO - Extraccion de la revista IET Biometrics
-2023-03-17 11:03:34,230 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:03:34.230088
-2023-03-17 11:03:42,446 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:03:42.446761
-2023-03-17 11:03:42,462 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:08.216673
-2023-03-17 11:03:42,880 - resultados2/crossref_log - INFO - Extraccion de la revista Journal of Artificial Intelligence and Soft Computing Research
-2023-03-17 11:03:42,880 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:03:42.880385
-2023-03-17 11:03:44,796 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:03:44.796672
-2023-03-17 11:03:44,796 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:01.916287
-2023-03-17 11:03:45,280 - resultados2/crossref_log - INFO - Extraccion de la revista NEURAL PROCESSING LETTERS
-2023-03-17 11:03:45,280 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:03:45.280024
-2023-03-17 11:04:05,373 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:04:05.373223
-2023-03-17 11:04:05,373 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:20.093199
-2023-03-17 11:04:05,796 - resultados2/crossref_log - INFO - Extraccion de la revista International Journal of Multimedia Information Retrieval
-2023-03-17 11:04:05,796 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:04:05.796678
-2023-03-17 11:04:12,629 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:04:12.629471
-2023-03-17 11:04:12,629 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:06.832793
-2023-03-17 11:04:13,073 - resultados2/crossref_log - INFO - Extraccion de la revista KNOWLEDGE AND INFORMATION SYSTEMS
-2023-03-17 11:04:13,075 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:04:13.075430
-2023-03-17 11:04:31,849 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:04:31.849667
-2023-03-17 11:04:31,849 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:18.774237
-2023-03-17 11:04:32,385 - resultados2/crossref_log - INFO - Extraccion de la revista AI MAGAZINE
-2023-03-17 11:04:32,386 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:04:32.386292
-2023-03-17 11:04:43,212 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:04:43.212351
-2023-03-17 11:04:43,212 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:10.826059
-2023-03-17 11:04:43,645 - resultados2/crossref_log - INFO - Extraccion de la revista Genetic Programming and Evolvable Machines
-2023-03-17 11:04:43,645 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:04:43.645676
-2023-03-17 11:04:55,845 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:04:55.845365
-2023-03-17 11:04:55,845 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:12.199689
-2023-03-17 11:04:56,761 - resultados2/crossref_log - INFO - Extraccion de la revista JOURNAL OF INTELLIGENT INFORMATION SYSTEMS
-2023-03-17 11:04:56,762 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:04:56.762329
-2023-03-17 11:05:04,512 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:05:04.512129
-2023-03-17 11:05:04,512 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:07.749800
-2023-03-17 11:05:05,150 - resultados2/crossref_log - INFO - Extraccion de la revista JOURNAL OF CHEMOMETRICS
-2023-03-17 11:05:05,152 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:05:05.152054
-2023-03-17 11:06:05,951 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:06:05.951382
-2023-03-17 11:06:05,951 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:01:00.799328
-2023-03-17 11:06:06,397 - resultados2/crossref_log - INFO - Extraccion de la revista AUTONOMOUS AGENTS AND MULTI-AGENT SYSTEMS
-2023-03-17 11:06:06,397 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:06:06.397371
-2023-03-17 11:06:14,360 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:06:14.360654
-2023-03-17 11:06:14,360 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:07.963283
-2023-03-17 11:06:14,810 - resultados2/crossref_log - INFO - Extraccion de la revista PeerJ Computer Science
-2023-03-17 11:06:14,810 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:06:14.810780
-2023-03-17 11:06:31,743 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:06:31.743800
-2023-03-17 11:06:31,759 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:16.933020
-2023-03-17 11:06:32,177 - resultados2/crossref_log - INFO - Extraccion de la revista Evolving Systems
-2023-03-17 11:06:32,177 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:06:32.177315
-2023-03-17 11:07:22,728 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:07:22.728103
-2023-03-17 11:07:22,728 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:50.550788
-2023-03-17 11:07:23,159 - resultados2/crossref_log - INFO - Extraccion de la revista PATTERN ANALYSIS AND APPLICATIONS
-2023-03-17 11:07:23,159 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:07:23.159701
-2023-03-17 11:07:41,226 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:07:41.226862
-2023-03-17 11:07:41,226 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:18.067161
-2023-03-17 11:07:41,642 - resultados2/crossref_log - INFO - Extraccion de la revista Traitement du Signal
-2023-03-17 11:07:41,642 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:07:41.642998
-2023-03-17 11:07:50,625 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:07:50.625895
-2023-03-17 11:07:50,625 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:08.982897
-2023-03-17 11:07:52,959 - resultados2/crossref_log - INFO - Extraccion de la revista JOURNAL OF EXPERIMENTAL & THEORETICAL ARTIFICIAL INTELLIGENCE
-2023-03-17 11:07:52,959 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:07:52.959350
-2023-03-17 11:08:00,525 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:08:00.525706
-2023-03-17 11:08:00,525 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:07.566356
-2023-03-17 11:08:01,024 - resultados2/crossref_log - INFO - Extraccion de la revista Journal of Real-Time Image Processing
-2023-03-17 11:08:01,025 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:08:01.025624
-2023-03-17 11:08:18,825 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:08:18.825259
-2023-03-17 11:08:18,825 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:17.799635
-2023-03-17 11:08:19,308 - resultados2/crossref_log - INFO - Extraccion de la revista International Journal of Computational Intelligence Systems
-2023-03-17 11:08:19,308 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:08:19.308811
-2023-03-17 11:08:24,458 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:08:24.458741
-2023-03-17 11:08:24,458 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:05.149930
-2023-03-17 11:08:24,875 - resultados2/crossref_log - INFO - Extraccion de la revista JOURNAL OF HEURISTICS
-2023-03-17 11:08:24,875 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:08:24.875245
-2023-03-17 11:08:35,975 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:08:35.975264
-2023-03-17 11:08:35,975 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:11.100019
-2023-03-17 11:08:37,334 - resultados2/crossref_log - INFO - Extraccion de la revista International Journal of Applied Mathematics and Computer Science
-2023-03-17 11:08:37,336 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:08:37.336239
-2023-03-17 11:08:42,325 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:08:42.325394
-2023-03-17 11:08:42,325 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:04.989155
-2023-03-17 11:08:42,758 - resultados2/crossref_log - INFO - Extraccion de la revista COMPUTATIONAL INTELLIGENCE
-2023-03-17 11:08:42,758 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:08:42.758281
-2023-03-17 11:08:54,041 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:08:54.041318
-2023-03-17 11:08:54,041 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:11.283037
-2023-03-17 11:08:54,491 - resultados2/crossref_log - INFO - Extraccion de la revista KNOWLEDGE ENGINEERING REVIEW
-2023-03-17 11:08:54,491 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:08:54.491391
-2023-03-17 11:08:58,758 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:08:58.758033
-2023-03-17 11:08:58,758 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:04.266642
-2023-03-17 11:08:59,191 - resultados2/crossref_log - INFO - Extraccion de la revista SIAM Journal on Imaging Sciences
-2023-03-17 11:08:59,191 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:08:59.191610
-2023-03-17 11:09:07,291 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:09:07.291235
-2023-03-17 11:09:07,291 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:08.099625
-2023-03-17 11:09:12,447 - resultados2/crossref_log - INFO - Extraccion de la revista ACM Transactions on Autonomous and Adaptive Systems
-2023-03-17 11:09:12,448 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:09:12.448732
-2023-03-17 11:09:18,136 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:09:18.136588
-2023-03-17 11:09:18,137 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:05.687856
-2023-03-17 11:09:18,620 - resultados2/crossref_log - INFO - Extraccion de la revista ACM Transactions on Interactive Intelligent Systems
-2023-03-17 11:09:18,622 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:09:18.622733
-2023-03-17 11:09:26,441 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:09:26.441215
-2023-03-17 11:09:26,441 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:07.818482
-2023-03-17 11:09:31,080 - resultados2/crossref_log - INFO - Extraccion de la revista ADAPTIVE BEHAVIOR
-2023-03-17 11:09:31,082 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:09:31.082202
-2023-03-17 11:09:38,173 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:09:38.173985
-2023-03-17 11:09:38,173 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:07.091783
-2023-03-17 11:09:41,709 - resultados2/crossref_log - INFO - Extraccion de la revista Natural Language Engineering
-2023-03-17 11:09:41,710 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:09:41.710133
-2023-03-17 11:09:45,490 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:09:45.490675
-2023-03-17 11:09:45,490 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:03.780542
-2023-03-17 11:09:48,549 - resultados2/crossref_log - INFO - Extraccion de la revista IET Image Processing
-2023-03-17 11:09:48,549 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:09:48.549052
-2023-03-17 11:10:00,756 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:10:00.756780
-2023-03-17 11:10:00,772 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:12.207728
-2023-03-17 11:10:02,274 - resultados2/crossref_log - INFO - Extraccion de la revista JOURNAL OF INTELLIGENT & FUZZY SYSTEMS
-2023-03-17 11:10:02,275 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:10:02.275994
-2023-03-17 11:11:46,569 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:11:46.569615
-2023-03-17 11:11:46,569 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:01:44.293621
-2023-03-17 11:11:47,001 - resultados2/crossref_log - INFO - Extraccion de la revista ARTIFICIAL LIFE
-2023-03-17 11:11:47,003 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:11:47.003008
-2023-03-17 11:11:53,341 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:11:53.341351
-2023-03-17 11:11:53,341 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:06.338343
-2023-03-17 11:11:53,830 - resultados2/crossref_log - INFO - Extraccion de la revista Journal on Multimodal User Interfaces
-2023-03-17 11:11:53,830 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:11:53.830620
-2023-03-17 11:12:08,575 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:12:08.575071
-2023-03-17 11:12:08,575 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:14.744451
-2023-03-17 11:12:09,051 - resultados2/crossref_log - INFO - Extraccion de la revista AI EDAM-ARTIFICIAL INTELLIGENCE FOR ENGINEERING DESIGN ANALYSIS AND MANUFACTURING
-2023-03-17 11:12:09,056 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:12:09.056204
-2023-03-17 11:12:21,111 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:12:21.111121
-2023-03-17 11:12:21,111 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:12.054917
-2023-03-17 11:12:21,562 - resultados2/crossref_log - INFO - Extraccion de la revista JOURNAL OF MATHEMATICAL IMAGING AND VISION
-2023-03-17 11:12:21,566 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:12:21.566618
-2023-03-17 11:12:39,066 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:12:39.066734
-2023-03-17 11:12:39,066 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:17.500116
-2023-03-17 11:12:39,512 - resultados2/crossref_log - INFO - Extraccion de la revista Natural Computing
-2023-03-17 11:12:39,513 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:12:39.513492
-2023-03-17 11:13:13,820 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:13:13.820378
-2023-03-17 11:13:13,820 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:34.306886
-2023-03-17 11:13:14,264 - resultados2/crossref_log - INFO - Extraccion de la revista NETWORK-COMPUTATION IN NEURAL SYSTEMS
-2023-03-17 11:13:14,265 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:13:14.265579
-2023-03-17 11:13:23,524 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:13:23.524201
-2023-03-17 11:13:23,524 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:09.258622
-2023-03-17 11:13:23,970 - resultados2/crossref_log - INFO - Extraccion de la revista DATA & KNOWLEDGE ENGINEERING
-2023-03-17 11:13:23,970 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:13:23.970205
-2023-03-17 11:13:46,369 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:13:46.369700
-2023-03-17 11:13:46,369 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:22.399495
-2023-03-17 11:13:49,086 - resultados2/crossref_log - INFO - Extraccion de la revista IET Computer Vision
-2023-03-17 11:13:49,086 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:13:49.086389
-2023-03-17 11:14:01,119 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:14:01.119582
-2023-03-17 11:14:01,119 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:12.033193
-2023-03-17 11:14:01,569 - resultados2/crossref_log - INFO - Extraccion de la revista International Journal on Semantic Web and Information Systems
-2023-03-17 11:14:01,569 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:14:01.569533
-2023-03-17 11:14:12,956 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:14:12.956224
-2023-03-17 11:14:12,956 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:11.386691
-2023-03-17 11:14:13,536 - resultados2/crossref_log - INFO - Extraccion de la revista ACM Transactions on Asian and Low-Resource Language Information Processing
-2023-03-17 11:14:13,536 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:14:13.536166
-2023-03-17 11:14:32,535 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:14:32.535694
-2023-03-17 11:14:32,535 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:18.999528
-2023-03-17 11:14:33,012 - resultados2/crossref_log - INFO - Extraccion de la revista Applied Ontology
-2023-03-17 11:14:33,014 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:14:33.014104
-2023-03-17 11:14:39,426 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:14:39.426722
-2023-03-17 11:14:39,426 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:06.412618
-2023-03-17 11:14:39,852 - resultados2/crossref_log - INFO - Extraccion de la revista Intelligent Data Analysis
-2023-03-17 11:14:39,852 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:14:39.852371
-2023-03-17 11:14:53,567 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:14:53.567309
-2023-03-17 11:14:53,567 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:13.714938
-2023-03-17 11:14:53,979 - resultados2/crossref_log - INFO - Extraccion de la revista Neural Network World
-2023-03-17 11:14:53,980 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:14:53.980889
-2023-03-17 11:14:56,191 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:14:56.191547
-2023-03-17 11:14:56,191 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:02.210658
-2023-03-17 11:14:56,622 - resultados2/crossref_log - INFO - Extraccion de la revista INTERNATIONAL JOURNAL OF PATTERN RECOGNITION AND ARTIFICIAL INTELLIGENCE
-2023-03-17 11:14:56,623 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:14:56.623476
-2023-03-17 11:15:23,309 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:15:23.309430
-2023-03-17 11:15:23,309 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:26.685954
-2023-03-17 11:15:30,107 - resultados2/crossref_log - INFO - Extraccion de la revista Statistical Analysis and Data Mining
-2023-03-17 11:15:30,109 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:15:30.109465
-2023-03-17 11:15:40,100 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:15:40.099157
-2023-03-17 11:15:40,100 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:09.989692
-2023-03-17 11:15:40,548 - resultados2/crossref_log - INFO - Extraccion de la revista IEEE Transactions on Games
-2023-03-17 11:15:40,549 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:15:40.549797
-2023-03-17 11:15:50,307 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:15:50.307101
-2023-03-17 11:15:50,307 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:09.757304
-2023-03-17 11:15:50,740 - resultados2/crossref_log - INFO - Extraccion de la revista JOURNAL OF AUTOMATED REASONING
-2023-03-17 11:15:50,741 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:15:50.741856
-2023-03-17 11:15:59,248 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:15:59.248240
-2023-03-17 11:15:59,248 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:08.506384
-2023-03-17 11:15:59,681 - resultados2/crossref_log - INFO - Extraccion de la revista International Journal on Artificial Intelligence Tools
-2023-03-17 11:15:59,682 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:15:59.682633
-2023-03-17 11:16:26,350 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:16:26.350545
-2023-03-17 11:16:26,350 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:26.667912
-2023-03-17 11:16:26,798 - resultados2/crossref_log - INFO - Extraccion de la revista AI COMMUNICATIONS
-2023-03-17 11:16:26,799 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:16:26.799856
-2023-03-17 11:16:39,466 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:16:39.466905
-2023-03-17 11:16:39,466 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:12.667049
-2023-03-17 11:16:39,916 - resultados2/crossref_log - INFO - Extraccion de la revista INTERNATIONAL JOURNAL OF UNCERTAINTY FUZZINESS AND KNOWLEDGE-BASED SYSTEMS
-2023-03-17 11:16:39,916 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:16:39.916857
-2023-03-17 11:16:59,550 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:16:59.550487
-2023-03-17 11:16:59,550 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:19.633630
-2023-03-17 11:17:00,054 - resultados2/crossref_log - INFO - Extraccion de la revista ANNALS OF MATHEMATICS AND ARTIFICIAL INTELLIGENCE
-2023-03-17 11:17:00,056 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:17:00.056479
-2023-03-17 11:17:32,165 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:17:32.165838
-2023-03-17 11:17:32,165 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:32.109359
-2023-03-17 11:17:32,617 - resultados2/crossref_log - INFO - Extraccion de la revista INTERNATIONAL JOURNAL OF SOFTWARE ENGINEERING AND KNOWLEDGE ENGINEERING
-2023-03-17 11:17:32,619 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:17:32.619690
-2023-03-17 11:17:51,249 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:17:51.249452
-2023-03-17 11:17:51,249 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:18.629762
-2023-03-17 11:17:51,665 - resultados2/crossref_log - INFO - Extraccion de la revista International Arab Journal of Information Technology
-2023-03-17 11:17:51,682 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:17:51.682186
-2023-03-17 11:18:10,215 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:18:10.215453
-2023-03-17 11:18:10,215 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:18.533267
-2023-03-17 11:18:10,648 - resultados2/crossref_log - INFO - Extraccion de la revista Turkish Journal of Electrical Engineering and Computer Sciences
-2023-03-17 11:18:10,648 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:18:10.648882
-2023-03-17 11:18:14,908 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:18:14.908746
-2023-03-17 11:18:14,908 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:04.259864
-2023-03-17 11:18:15,355 - resultados2/crossref_log - INFO - Extraccion de la revista Advances in Electrical and Computer Engineering
-2023-03-17 11:18:15,357 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:18:15.357206
-2023-03-17 11:18:25,991 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:18:25.991265
-2023-03-17 11:18:25,991 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:10.634059
-2023-03-17 11:18:26,434 - resultados2/crossref_log - INFO - Extraccion de la revista Information Technology and Control
-2023-03-17 11:18:26,435 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:18:26.435822
-2023-03-17 11:18:33,956 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:18:33.956922
-2023-03-17 11:18:33,956 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:07.521100
-2023-03-17 11:18:34,366 - resultados2/crossref_log - ERROR - Error para "JOURNAL OF MULTIPLE-VALUED LOGIC AND SOFT COMPUTING" al realizar la solicitud: 404
-2023-03-17 11:18:34,781 - resultados2/crossref_log - INFO - Extraccion de la revista JOURNAL OF COMPUTER AND SYSTEMS SCIENCES INTERNATIONAL
-2023-03-17 11:18:34,781 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:18:34.781594
-2023-03-17 11:18:48,814 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:18:48.814493
-2023-03-17 11:18:48,814 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:14.032899
-2023-03-17 11:18:49,231 - resultados2/crossref_log - INFO - Extraccion de la revista Journal of Logic Language and Information
-2023-03-17 11:18:49,231 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:18:49.231171
-2023-03-17 11:18:51,264 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:18:51.264603
-2023-03-17 11:18:51,264 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:02.033432
-2023-03-17 11:18:51,697 - resultados2/crossref_log - INFO - Extraccion de la revista CONSTRAINTS
-2023-03-17 11:18:51,697 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:18:51.697975
-2023-03-17 11:18:56,665 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:18:56.665009
-2023-03-17 11:18:56,665 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:04.967034
-2023-03-17 11:18:57,131 - resultados2/crossref_log - INFO - Extraccion de la revista COMPUTING AND INFORMATICS
-2023-03-17 11:18:57,131 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:18:57.131123
-2023-03-17 11:18:59,114 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:18:59.114329
-2023-03-17 11:18:59,114 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:01.983206
-2023-03-17 11:19:02,809 - resultados2/crossref_log - INFO - Extraccion de la revista Malaysian Journal of Computer Science
-2023-03-17 11:19:02,809 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:19:02.809596
-2023-03-17 11:19:25,846 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:19:25.846288
-2023-03-17 11:19:25,846 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:23.036692
-2023-03-17 11:19:26,278 - resultados2/crossref_log - INFO - Extraccion de la revista CONNECTION SCIENCE
-2023-03-17 11:19:26,279 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:19:26.279854
-2023-03-17 11:19:35,165 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion es: 11:19:35.165438
-2023-03-17 11:19:35,165 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:08.885584
-2023-03-17 11:23:10,911 - resultados2/crossref_log - INFO - Extraccion de la revista Cognitive Systems Research
-2023-03-17 11:23:10,913 - resultados2/crossref_log - INFO - [TIME] La hora de comienzo es: 11:23:10.913914
-2023-03-17 11:24:02,003 - resultados2/crossref_log - INFO - 
-2023-03-19 10:10:02,362 - resultados2/crossref_log - INFO - Extraccion de la revista IEEE Transactions on Big Data
-2023-03-19 10:10:03,046 - resultados2/crossref_log - ERROR - Error para "Nonexistent Journal" al realizar la solicitud: 404
-2023-03-19 10:10:19,941 - resultados2/crossref_log - INFO - Extraccion de la revista IEEE Transactions on Big Data
-2023-03-19 10:10:22,606 - resultados2/crossref_log - ERROR - Error para "Nonexistent Journal" al realizar la solicitud: 404
+2023-04-10 22:35:50,624 - resultados2/crossref_log - INFO - Extraccion de la revista Nature Machine Intelligence
+2023-04-10 22:35:50,624 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 22:35:56,406 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 22:35:56,406 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:05.781868
+2023-04-10 22:35:56,853 - resultados2/crossref_log - INFO - Extraccion de la revista IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE
+2023-04-10 22:35:56,853 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 22:37:12,760 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 22:37:12,760 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:01:15.906509
+2023-04-10 22:37:13,187 - resultados2/crossref_log - INFO - Extraccion de la revista IEEE Transactions on Cybernetics
+2023-04-10 22:37:13,187 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 22:38:14,389 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 22:38:14,389 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:01:01.201413
+2023-04-10 22:38:16,387 - resultados2/crossref_log - INFO - Extraccion de la revista Information Fusion
+2023-04-10 22:38:16,387 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 22:38:34,428 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 22:38:34,428 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:18.041502
+2023-04-10 22:38:34,841 - resultados2/crossref_log - INFO - Extraccion de la revista IEEE TRANSACTIONS ON EVOLUTIONARY COMPUTATION
+2023-04-10 22:38:34,841 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 22:38:51,955 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 22:38:51,955 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:17.113166
+2023-04-10 22:38:53,694 - resultados2/crossref_log - INFO - Extraccion de la revista IEEE Transactions on Neural Networks and Learning Systems
+2023-04-10 22:38:53,695 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 22:39:34,365 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 22:39:34,365 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:40.669898
+2023-04-10 22:39:34,795 - resultados2/crossref_log - INFO - Extraccion de la revista ARTIFICIAL INTELLIGENCE
+2023-04-10 22:39:34,795 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 22:40:04,462 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 22:40:04,463 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:29.666703
+2023-04-10 22:40:04,914 - resultados2/crossref_log - INFO - Extraccion de la revista IEEE Transactions on Affective Computing
+2023-04-10 22:40:04,915 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 22:40:08,247 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 22:40:08,247 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:03.331810
+2023-04-10 22:40:08,679 - resultados2/crossref_log - INFO - Extraccion de la revista MEDICAL IMAGE ANALYSIS
+2023-04-10 22:40:08,680 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 22:40:43,063 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 22:40:43,064 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:34.382614
+2023-04-10 22:40:43,488 - resultados2/crossref_log - INFO - Extraccion de la revista INTERNATIONAL JOURNAL OF COMPUTER VISION
+2023-04-10 22:40:43,488 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 22:41:22,756 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 22:41:22,756 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:39.267758
+2023-04-10 22:41:23,214 - resultados2/crossref_log - INFO - Extraccion de la revista IEEE TRANSACTIONS ON FUZZY SYSTEMS
+2023-04-10 22:41:23,214 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 22:42:08,842 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 22:42:08,842 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:45.628461
+2023-04-10 22:42:11,136 - resultados2/crossref_log - INFO - Extraccion de la revista IEEE TRANSACTIONS ON IMAGE PROCESSING
+2023-04-10 22:42:11,136 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 22:43:10,648 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 22:43:10,648 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:59.511805
+2023-04-10 22:43:11,106 - resultados2/crossref_log - INFO - Extraccion de la revista ACM Transactions on Intelligent Systems and Technology
+2023-04-10 22:43:11,106 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 22:43:16,118 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 22:43:16,118 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:05.012339
+2023-04-10 22:43:17,269 - resultados2/crossref_log - INFO - Extraccion de la revista Swarm and Evolutionary Computation
+2023-04-10 22:43:17,269 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 22:43:37,992 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 22:43:37,992 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:20.722866
+2023-04-10 22:43:39,679 - resultados2/crossref_log - INFO - Extraccion de la revista IEEE Computational Intelligence Magazine
+2023-04-10 22:43:39,679 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 22:43:47,291 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 22:43:47,292 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:07.612534
+2023-04-10 22:43:47,740 - resultados2/crossref_log - INFO - Extraccion de la revista NEURAL NETWORKS
+2023-04-10 22:43:47,741 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 22:44:31,616 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 22:44:31,617 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:43.875073
+2023-04-10 22:44:32,046 - resultados2/crossref_log - INFO - Extraccion de la revista ARTIFICIAL INTELLIGENCE REVIEW
+2023-04-10 22:44:32,046 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 22:44:59,074 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 22:44:59,074 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:27.028391
+2023-04-10 22:44:59,575 - resultados2/crossref_log - INFO - Extraccion de la revista IEEE TRANSACTIONS ON KNOWLEDGE AND DATA ENGINEERING
+2023-04-10 22:44:59,576 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 22:46:12,629 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 22:46:12,629 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:01:13.052420
+2023-04-10 22:46:13,073 - resultados2/crossref_log - INFO - Extraccion de la revista Transactions of the Association for Computational Linguistics
+2023-04-10 22:46:13,073 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 22:46:26,909 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 22:46:26,909 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:13.835875
+2023-04-10 22:46:30,692 - resultados2/crossref_log - INFO - Extraccion de la revista INTERNATIONAL JOURNAL OF INTELLIGENT SYSTEMS
+2023-04-10 22:46:30,693 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 22:46:44,948 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 22:46:44,948 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:14.254225
+2023-04-10 22:46:45,389 - resultados2/crossref_log - INFO - Extraccion de la revista EXPERT SYSTEMS WITH APPLICATIONS
+2023-04-10 22:46:45,389 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 22:48:58,966 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 22:48:58,966 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:02:13.576886
+2023-04-10 22:48:59,371 - resultados2/crossref_log - INFO - Extraccion de la revista PATTERN RECOGNITION
+2023-04-10 22:48:59,372 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 22:50:34,519 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 22:50:34,519 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:01:35.147316
+2023-04-10 22:50:34,983 - resultados2/crossref_log - INFO - Extraccion de la revista APPLIED SOFT COMPUTING
+2023-04-10 22:50:34,983 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 22:52:35,292 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 22:52:35,292 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:02:00.308142
+2023-04-10 22:52:36,627 - resultados2/crossref_log - INFO - Extraccion de la revista KNOWLEDGE-BASED SYSTEMS
+2023-04-10 22:52:36,627 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 22:54:10,692 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 22:54:10,692 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:01:34.064431
+2023-04-10 22:54:11,153 - resultados2/crossref_log - INFO - Extraccion de la revista CAAI Transactions on Intelligence Technology
+2023-04-10 22:54:11,154 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 22:54:20,458 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 22:54:20,458 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:09.303576
+2023-04-10 22:54:20,894 - resultados2/crossref_log - INFO - Extraccion de la revista ADVANCED ENGINEERING INFORMATICS
+2023-04-10 22:54:20,895 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 22:54:40,130 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 22:54:40,130 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:19.234917
+2023-04-10 22:54:40,567 - resultados2/crossref_log - INFO - Extraccion de la revista ENGINEERING APPLICATIONS OF ARTIFICIAL INTELLIGENCE
+2023-04-10 22:54:40,567 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 22:55:04,610 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 22:55:04,610 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:24.041208
+2023-04-10 22:55:05,101 - resultados2/crossref_log - INFO - Extraccion de la revista COMPUTATIONAL LINGUISTICS
+2023-04-10 22:55:05,102 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 22:55:11,185 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 22:55:11,185 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:06.082721
+2023-04-10 22:55:11,620 - resultados2/crossref_log - INFO - Extraccion de la revista Wiley Interdisciplinary Reviews-Data Mining and Knowledge Discovery
+2023-04-10 22:55:11,620 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 22:55:19,909 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 22:55:19,909 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:08.289425
+2023-04-10 22:55:24,770 - resultados2/crossref_log - INFO - Extraccion de la revista Advanced Intelligent Systems
+2023-04-10 22:55:24,770 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 22:55:45,524 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 22:55:45,524 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:20.753854
+2023-04-10 22:55:45,973 - resultados2/crossref_log - INFO - Extraccion de la revista JOURNAL OF INTELLIGENT MANUFACTURING
+2023-04-10 22:55:45,973 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 22:56:12,944 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 22:56:12,944 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:26.970890
+2023-04-10 22:56:14,427 - resultados2/crossref_log - INFO - Extraccion de la revista Artificial Intelligence in Medicine
+2023-04-10 22:56:14,427 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 22:56:40,395 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 22:56:40,395 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:25.967227
+2023-04-10 22:56:40,821 - resultados2/crossref_log - INFO - Extraccion de la revista DECISION SUPPORT SYSTEMS
+2023-04-10 22:56:40,821 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 22:57:19,374 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 22:57:19,374 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:38.553681
+2023-04-10 22:57:19,820 - resultados2/crossref_log - INFO - Extraccion de la revista IEEE INTELLIGENT SYSTEMS
+2023-04-10 22:57:19,820 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 22:57:26,142 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 22:57:26,142 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:06.321733
+2023-04-10 22:57:26,616 - resultados2/crossref_log - INFO - Extraccion de la revista Complex & Intelligent Systems
+2023-04-10 22:57:26,616 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 22:57:35,320 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 22:57:35,320 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:08.704176
+2023-04-10 22:57:35,770 - resultados2/crossref_log - INFO - Extraccion de la revista International Journal of Neural Systems
+2023-04-10 22:57:35,770 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 22:57:50,308 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 22:57:50,308 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:14.538574
+2023-04-10 22:57:50,734 - resultados2/crossref_log - INFO - Extraccion de la revista INTEGRATED COMPUTER-AIDED ENGINEERING
+2023-04-10 22:57:50,735 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 22:57:57,515 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 22:57:57,515 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:06.780241
+2023-04-10 22:57:57,955 - resultados2/crossref_log - INFO - Extraccion de la revista Machine Learning-Science and Technology
+2023-04-10 22:57:57,955 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 22:58:05,188 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 22:58:05,188 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:07.232868
+2023-04-10 22:58:05,612 - resultados2/crossref_log - INFO - Extraccion de la revista NEUROCOMPUTING
+2023-04-10 22:58:05,613 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:00:28,875 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:00:28,876 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:02:23.261627
+2023-04-10 23:00:29,332 - resultados2/crossref_log - INFO - Extraccion de la revista MACHINE LEARNING
+2023-04-10 23:00:29,333 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:00:49,193 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:00:49,193 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:19.860010
+2023-04-10 23:00:52,155 - resultados2/crossref_log - INFO - Extraccion de la revista DATA MINING AND KNOWLEDGE DISCOVERY
+2023-04-10 23:00:52,156 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:01:09,798 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:01:09,798 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:17.641678
+2023-04-10 23:01:10,279 - resultados2/crossref_log - INFO - Extraccion de la revista MINDS AND MACHINES
+2023-04-10 23:01:10,279 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:01:20,557 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:01:20,557 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:10.277125
+2023-04-10 23:01:20,972 - resultados2/crossref_log - INFO - Extraccion de la revista Fuzzy Optimization and Decision Making
+2023-04-10 23:01:20,972 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:01:28,930 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:01:28,930 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:07.957230
+2023-04-10 23:01:29,344 - resultados2/crossref_log - INFO - Extraccion de la revista JOURNAL OF MACHINE LEARNING RESEARCH
+2023-04-10 23:01:29,345 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:01:34,543 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:01:34,543 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:05.198561
+2023-04-10 23:01:34,960 - resultados2/crossref_log - INFO - Extraccion de la revista NEURAL COMPUTING & APPLICATIONS
+2023-04-10 23:01:34,961 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:02:31,906 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:02:31,906 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:56.945432
+2023-04-10 23:02:32,361 - resultados2/crossref_log - INFO - Extraccion de la revista APPLIED INTELLIGENCE
+2023-04-10 23:02:32,361 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:03:35,406 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:03:35,406 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:01:03.044924
+2023-04-10 23:03:35,843 - resultados2/crossref_log - INFO - Extraccion de la revista IEEE Transactions on Intelligent Vehicles
+2023-04-10 23:03:35,843 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:03:39,468 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:03:39,468 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:03.625277
+2023-04-10 23:03:39,923 - resultados2/crossref_log - INFO - Extraccion de la revista International Journal of Interactive Multimedia and Artificial Intelligence
+2023-04-10 23:03:39,924 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:03:40,979 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:03:40,979 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:01.055033
+2023-04-10 23:03:41,627 - resultados2/crossref_log - INFO - Extraccion de la revista Cognitive Computation
+2023-04-10 23:03:41,627 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:03:49,595 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:03:49,595 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:07.967567
+2023-04-10 23:03:50,062 - resultados2/crossref_log - INFO - Extraccion de la revista COMPUTER VISION AND IMAGE UNDERSTANDING
+2023-04-10 23:03:50,063 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:04:14,465 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:04:14,466 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:24.401781
+2023-04-10 23:04:14,887 - resultados2/crossref_log - INFO - Extraccion de la revista IEEE Transactions on Emerging Topics in Computational Intelligence
+2023-04-10 23:04:14,887 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:04:20,140 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:04:20,140 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:05.253157
+2023-04-10 23:04:20,625 - resultados2/crossref_log - INFO - Extraccion de la revista EVOLUTIONARY COMPUTATION
+2023-04-10 23:04:20,625 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:04:29,232 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:04:29,232 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:08.606087
+2023-04-10 23:04:34,119 - resultados2/crossref_log - INFO - Extraccion de la revista PATTERN RECOGNITION LETTERS
+2023-04-10 23:04:34,119 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:05:14,052 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:05:14,052 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:39.932918
+2023-04-10 23:05:14,849 - resultados2/crossref_log - INFO - Extraccion de la revista IEEE Transactions on Cognitive and Developmental Systems
+2023-04-10 23:05:14,850 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:05:22,605 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:05:22,605 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:07.755403
+2023-04-10 23:05:23,085 - resultados2/crossref_log - INFO - Extraccion de la revista Cognitive Systems Research
+2023-04-10 23:05:23,085 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:05:40,252 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:05:40,252 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:17.166934
+2023-04-10 23:05:40,704 - resultados2/crossref_log - INFO - Extraccion de la revista INTERNATIONAL JOURNAL OF APPROXIMATE REASONING
+2023-04-10 23:05:40,705 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:06:26,828 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:06:26,828 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:46.123354
+2023-04-10 23:06:27,275 - resultados2/crossref_log - INFO - Extraccion de la revista International Journal of Machine Learning and Cybernetics
+2023-04-10 23:06:27,275 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:07:02,312 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:07:02,312 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:35.036831
+2023-04-10 23:07:10,422 - resultados2/crossref_log - INFO - Extraccion de la revista Egyptian Informatics Journal
+2023-04-10 23:07:10,422 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:07:18,170 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:07:18,170 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:07.747737
+2023-04-10 23:07:18,638 - resultados2/crossref_log - INFO - Extraccion de la revista CHEMOMETRICS AND INTELLIGENT LABORATORY SYSTEMS
+2023-04-10 23:07:18,638 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:07:51,515 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:07:51,515 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:32.877684
+2023-04-10 23:07:52,019 - resultados2/crossref_log - INFO - Extraccion de la revista IEEE Transactions on Human-Machine Systems
+2023-04-10 23:07:52,019 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:08:10,213 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:08:10,213 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:18.193946
+2023-04-10 23:08:18,900 - resultados2/crossref_log - INFO - Extraccion de la revista International Journal of Fuzzy Systems
+2023-04-10 23:08:18,900 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:08:49,303 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:08:49,303 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:30.402526
+2023-04-10 23:08:49,758 - resultados2/crossref_log - INFO - Extraccion de la revista International Journal on Document Analysis and Recognition
+2023-04-10 23:08:49,758 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:08:59,385 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:08:59,385 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:09.626218
+2023-04-10 23:09:00,317 - resultados2/crossref_log - INFO - Extraccion de la revista IMAGE AND VISION COMPUTING
+2023-04-10 23:09:00,317 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:09:38,082 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:09:38,082 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:37.764775
+2023-04-10 23:09:38,589 - resultados2/crossref_log - INFO - Extraccion de la revista Big Data Research
+2023-04-10 23:09:38,589 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:09:45,778 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:09:45,778 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:07.188608
+2023-04-10 23:09:46,256 - resultados2/crossref_log - INFO - Extraccion de la revista SOFT COMPUTING
+2023-04-10 23:09:46,256 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:11:14,652 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:11:14,652 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:01:28.395442
+2023-04-10 23:11:15,128 - resultados2/crossref_log - INFO - Extraccion de la revista Swarm Intelligence
+2023-04-10 23:11:15,128 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:11:23,853 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:11:23,853 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:08.724355
+2023-04-10 23:11:24,288 - resultados2/crossref_log - INFO - Extraccion de la revista ROBOTICS AND AUTONOMOUS SYSTEMS
+2023-04-10 23:11:24,288 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:12:04,396 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:12:04,396 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:40.107725
+2023-04-10 23:12:04,870 - resultados2/crossref_log - INFO - Extraccion de la revista Journal of Ambient Intelligence and Humanized Computing
+2023-04-10 23:12:04,870 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:12:58,710 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:12:58,710 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:53.840006
+2023-04-10 23:13:00,602 - resultados2/crossref_log - INFO - Extraccion de la revista JOURNAL OF ARTIFICIAL INTELLIGENCE RESEARCH
+2023-04-10 23:13:00,602 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:13:08,390 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:13:08,390 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:07.787396
+2023-04-10 23:13:08,845 - resultados2/crossref_log - INFO - Extraccion de la revista Memetic Computing
+2023-04-10 23:13:08,845 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:13:25,070 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:13:25,070 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:16.225888
+2023-04-10 23:13:25,743 - resultados2/crossref_log - INFO - Extraccion de la revista INTERNATIONAL JOURNAL OF INFORMATION TECHNOLOGY & DECISION MAKING
+2023-04-10 23:13:25,743 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:13:40,103 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:13:40,103 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:14.359888
+2023-04-10 23:13:40,600 - resultados2/crossref_log - INFO - Extraccion de la revista Frontiers in Neurorobotics
+2023-04-10 23:13:40,600 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:13:59,687 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:13:59,687 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:19.087030
+2023-04-10 23:14:00,160 - resultados2/crossref_log - INFO - Extraccion de la revista INTELLIGENT AUTOMATION AND SOFT COMPUTING
+2023-04-10 23:14:00,160 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:14:09,558 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:14:09,558 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:09.398251
+2023-04-10 23:14:09,986 - resultados2/crossref_log - INFO - Extraccion de la revista International Journal of Bio-Inspired Computation
+2023-04-10 23:14:09,986 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:14:19,568 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:14:19,568 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:09.581558
+2023-04-10 23:14:20,027 - resultados2/crossref_log - INFO - Extraccion de la revista NEURAL COMPUTATION
+2023-04-10 23:14:20,028 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:14:43,568 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:14:43,568 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:23.539932
+2023-04-10 23:14:46,866 - resultados2/crossref_log - INFO - Extraccion de la revista AUTONOMOUS ROBOTS
+2023-04-10 23:14:46,867 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:15:04,032 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:15:04,032 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:17.164515
+2023-04-10 23:15:09,797 - resultados2/crossref_log - INFO - Extraccion de la revista COMPUTER SPEECH AND LANGUAGE
+2023-04-10 23:15:09,797 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:15:26,707 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:15:26,707 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:16.910028
+2023-04-10 23:15:27,133 - resultados2/crossref_log - INFO - Extraccion de la revista JOURNAL OF INTELLIGENT & ROBOTIC SYSTEMS
+2023-04-10 23:15:27,133 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:16:01,165 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:16:01,166 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:34.031796
+2023-04-10 23:16:01,622 - resultados2/crossref_log - INFO - Extraccion de la revista Semantic Web
+2023-04-10 23:16:01,623 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:16:06,883 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:16:06,883 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:05.259926
+2023-04-10 23:16:07,707 - resultados2/crossref_log - INFO - Extraccion de la revista MACHINE VISION AND APPLICATIONS
+2023-04-10 23:16:07,708 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:16:28,000 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:16:28,000 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:20.291789
+2023-04-10 23:16:28,511 - resultados2/crossref_log - INFO - Extraccion de la revista EXPERT SYSTEMS
+2023-04-10 23:16:28,512 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:16:49,065 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:16:49,065 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:20.553067
+2023-04-10 23:16:49,519 - resultados2/crossref_log - INFO - Extraccion de la revista APPLIED ARTIFICIAL INTELLIGENCE
+2023-04-10 23:16:49,520 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:17:01,064 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:17:01,064 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:11.544649
+2023-04-10 23:17:06,824 - resultados2/crossref_log - INFO - Extraccion de la revista Journal of Web Semantics
+2023-04-10 23:17:06,824 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:17:25,748 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:17:25,749 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:18.924329
+2023-04-10 23:17:26,209 - resultados2/crossref_log - INFO - Extraccion de la revista Journal of Ambient Intelligence and Smart Environments
+2023-04-10 23:17:26,209 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:17:34,226 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:17:34,226 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:08.016203
+2023-04-10 23:17:34,648 - resultados2/crossref_log - INFO - Extraccion de la revista Artificial Intelligence and Law
+2023-04-10 23:17:34,649 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:17:39,461 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:17:39,461 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:04.812038
+2023-04-10 23:17:40,758 - resultados2/crossref_log - INFO - Extraccion de la revista IET Biometrics
+2023-04-10 23:17:40,758 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:17:52,468 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:17:52,468 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:11.709753
+2023-04-10 23:17:55,337 - resultados2/crossref_log - INFO - Extraccion de la revista Journal of Artificial Intelligence and Soft Computing Research
+2023-04-10 23:17:55,337 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:18:07,815 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:18:07,815 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:12.478286
+2023-04-10 23:18:08,258 - resultados2/crossref_log - INFO - Extraccion de la revista NEURAL PROCESSING LETTERS
+2023-04-10 23:18:08,258 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:18:29,067 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:18:29,068 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:20.809474
+2023-04-10 23:18:29,574 - resultados2/crossref_log - INFO - Extraccion de la revista International Journal of Multimedia Information Retrieval
+2023-04-10 23:18:29,574 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:18:45,874 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:18:45,874 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:16.299442
+2023-04-10 23:18:46,289 - resultados2/crossref_log - INFO - Extraccion de la revista KNOWLEDGE AND INFORMATION SYSTEMS
+2023-04-10 23:18:46,289 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:19:03,064 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:19:03,064 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:16.774453
+2023-04-10 23:19:10,988 - resultados2/crossref_log - INFO - Extraccion de la revista AI MAGAZINE
+2023-04-10 23:19:10,988 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:19:24,184 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:19:24,184 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:13.196324
+2023-04-10 23:19:24,674 - resultados2/crossref_log - INFO - Extraccion de la revista Genetic Programming and Evolvable Machines
+2023-04-10 23:19:24,674 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:19:27,825 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:19:27,825 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:03.150922
+2023-04-10 23:19:28,248 - resultados2/crossref_log - INFO - Extraccion de la revista JOURNAL OF INTELLIGENT INFORMATION SYSTEMS
+2023-04-10 23:19:28,248 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:19:38,296 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:19:38,297 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:10.047212
+2023-04-10 23:19:41,523 - resultados2/crossref_log - INFO - Extraccion de la revista JOURNAL OF CHEMOMETRICS
+2023-04-10 23:19:41,523 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:20:11,383 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:20:11,383 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:29.859769
+2023-04-10 23:20:11,887 - resultados2/crossref_log - INFO - Extraccion de la revista AUTONOMOUS AGENTS AND MULTI-AGENT SYSTEMS
+2023-04-10 23:20:11,887 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:20:26,525 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:20:26,525 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:14.638309
+2023-04-10 23:20:32,085 - resultados2/crossref_log - INFO - Extraccion de la revista PeerJ Computer Science
+2023-04-10 23:20:32,085 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:20:53,417 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:20:53,417 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:21.331460
+2023-04-10 23:20:55,900 - resultados2/crossref_log - INFO - Extraccion de la revista Evolving Systems
+2023-04-10 23:20:55,901 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:21:05,775 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:21:05,775 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:09.873531
+2023-04-10 23:21:06,235 - resultados2/crossref_log - INFO - Extraccion de la revista PATTERN ANALYSIS AND APPLICATIONS
+2023-04-10 23:21:06,235 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:21:28,146 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:21:28,146 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:21.910685
+2023-04-10 23:21:29,761 - resultados2/crossref_log - INFO - Extraccion de la revista Traitement du Signal
+2023-04-10 23:21:29,762 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:21:38,822 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:21:38,822 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:09.060245
+2023-04-10 23:21:39,304 - resultados2/crossref_log - INFO - Extraccion de la revista JOURNAL OF EXPERIMENTAL & THEORETICAL ARTIFICIAL INTELLIGENCE
+2023-04-10 23:21:39,304 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:21:48,253 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:21:48,253 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:08.949003
+2023-04-10 23:21:48,674 - resultados2/crossref_log - INFO - Extraccion de la revista Journal of Real-Time Image Processing
+2023-04-10 23:21:48,674 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:22:11,843 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:22:11,843 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:23.169419
+2023-04-10 23:22:18,192 - resultados2/crossref_log - INFO - Extraccion de la revista International Journal of Computational Intelligence Systems
+2023-04-10 23:22:18,193 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:22:19,526 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:22:19,526 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:01.333818
+2023-04-10 23:22:20,000 - resultados2/crossref_log - INFO - Extraccion de la revista JOURNAL OF HEURISTICS
+2023-04-10 23:22:20,000 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:22:23,248 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:22:23,248 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:03.247825
+2023-04-10 23:22:25,043 - resultados2/crossref_log - INFO - Extraccion de la revista International Journal of Applied Mathematics and Computer Science
+2023-04-10 23:22:25,043 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:22:28,043 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:22:28,044 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:03.000582
+2023-04-10 23:22:28,461 - resultados2/crossref_log - INFO - Extraccion de la revista COMPUTATIONAL INTELLIGENCE
+2023-04-10 23:22:28,461 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:22:41,670 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:22:41,670 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:13.209842
+2023-04-10 23:22:42,131 - resultados2/crossref_log - INFO - Extraccion de la revista KNOWLEDGE ENGINEERING REVIEW
+2023-04-10 23:22:42,131 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:22:45,284 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:22:45,284 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:03.152544
+2023-04-10 23:22:45,696 - resultados2/crossref_log - INFO - Extraccion de la revista SIAM Journal on Imaging Sciences
+2023-04-10 23:22:45,696 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:23:00,053 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:23:00,054 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:14.356438
+2023-04-10 23:23:00,523 - resultados2/crossref_log - INFO - Extraccion de la revista ACM Transactions on Autonomous and Adaptive Systems
+2023-04-10 23:23:00,523 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:23:07,219 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:23:07,219 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:06.696042
+2023-04-10 23:23:07,675 - resultados2/crossref_log - INFO - Extraccion de la revista ACM Transactions on Interactive Intelligent Systems
+2023-04-10 23:23:07,675 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:23:10,190 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:23:10,190 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:02.514632
+2023-04-10 23:23:10,652 - resultados2/crossref_log - INFO - Extraccion de la revista ADAPTIVE BEHAVIOR
+2023-04-10 23:23:10,652 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:23:16,124 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:23:16,124 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:05.471103
+2023-04-10 23:23:16,544 - resultados2/crossref_log - INFO - Extraccion de la revista Natural Language Engineering
+2023-04-10 23:23:16,544 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:23:30,534 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:23:30,534 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:13.989156
+2023-04-10 23:23:30,938 - resultados2/crossref_log - INFO - Extraccion de la revista IET Image Processing
+2023-04-10 23:23:30,938 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:23:37,958 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:23:37,958 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:07.020405
+2023-04-10 23:23:38,372 - resultados2/crossref_log - INFO - Extraccion de la revista JOURNAL OF INTELLIGENT & FUZZY SYSTEMS
+2023-04-10 23:23:38,373 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:24:40,935 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:24:40,936 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:01:02.562493
+2023-04-10 23:24:41,363 - resultados2/crossref_log - INFO - Extraccion de la revista ARTIFICIAL LIFE
+2023-04-10 23:24:41,363 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:24:47,214 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:24:47,214 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:05.851512
+2023-04-10 23:24:48,227 - resultados2/crossref_log - INFO - Extraccion de la revista Journal on Multimodal User Interfaces
+2023-04-10 23:24:48,227 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:24:55,566 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:24:55,566 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:07.339183
+2023-04-10 23:24:56,023 - resultados2/crossref_log - INFO - Extraccion de la revista AI EDAM-ARTIFICIAL INTELLIGENCE FOR ENGINEERING DESIGN ANALYSIS AND MANUFACTURING
+2023-04-10 23:24:56,023 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:25:05,693 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:25:05,693 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:09.668799
+2023-04-10 23:25:09,418 - resultados2/crossref_log - INFO - Extraccion de la revista JOURNAL OF MATHEMATICAL IMAGING AND VISION
+2023-04-10 23:25:09,418 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:25:35,652 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:25:35,652 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:26.234006
+2023-04-10 23:25:36,128 - resultados2/crossref_log - INFO - Extraccion de la revista Natural Computing
+2023-04-10 23:25:36,129 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:25:44,355 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:25:44,355 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:08.225480
+2023-04-10 23:25:44,805 - resultados2/crossref_log - INFO - Extraccion de la revista NETWORK-COMPUTATION IN NEURAL SYSTEMS
+2023-04-10 23:25:44,805 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:25:54,639 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:25:54,640 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:09.833854
+2023-04-10 23:25:56,316 - resultados2/crossref_log - INFO - Extraccion de la revista DATA & KNOWLEDGE ENGINEERING
+2023-04-10 23:25:56,317 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:26:08,016 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:26:08,016 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:11.699335
+2023-04-10 23:26:08,468 - resultados2/crossref_log - INFO - Extraccion de la revista IET Computer Vision
+2023-04-10 23:26:08,468 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:26:13,168 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:26:13,168 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:04.699709
+2023-04-10 23:26:13,647 - resultados2/crossref_log - INFO - Extraccion de la revista International Journal on Semantic Web and Information Systems
+2023-04-10 23:26:13,647 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:26:15,345 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:26:15,345 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:01.697925
+2023-04-10 23:26:15,756 - resultados2/crossref_log - INFO - Extraccion de la revista ACM Transactions on Asian and Low-Resource Language Information Processing
+2023-04-10 23:26:15,756 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:26:23,845 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:26:23,845 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:08.089331
+2023-04-10 23:26:24,267 - resultados2/crossref_log - INFO - Extraccion de la revista Applied Ontology
+2023-04-10 23:26:24,267 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:26:30,884 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:26:30,884 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:06.617413
+2023-04-10 23:26:31,352 - resultados2/crossref_log - INFO - Extraccion de la revista Intelligent Data Analysis
+2023-04-10 23:26:31,352 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:26:49,551 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:26:49,551 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:18.198669
+2023-04-10 23:26:50,000 - resultados2/crossref_log - INFO - Extraccion de la revista Neural Network World
+2023-04-10 23:26:50,000 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:27:03,792 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:27:03,792 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:13.792071
+2023-04-10 23:27:04,286 - resultados2/crossref_log - INFO - Extraccion de la revista INTERNATIONAL JOURNAL OF PATTERN RECOGNITION AND ARTIFICIAL INTELLIGENCE
+2023-04-10 23:27:04,286 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:27:44,582 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:27:44,582 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:40.296290
+2023-04-10 23:27:47,729 - resultados2/crossref_log - INFO - Extraccion de la revista Statistical Analysis and Data Mining
+2023-04-10 23:27:47,729 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:27:54,864 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:27:54,864 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:07.135306
+2023-04-10 23:27:55,297 - resultados2/crossref_log - INFO - Extraccion de la revista IEEE Transactions on Games
+2023-04-10 23:27:55,297 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:28:03,240 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:28:03,240 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:07.942710
+2023-04-10 23:28:03,736 - resultados2/crossref_log - INFO - Extraccion de la revista JOURNAL OF AUTOMATED REASONING
+2023-04-10 23:28:03,736 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:28:13,269 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:28:13,269 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:09.532929
+2023-04-10 23:28:13,729 - resultados2/crossref_log - INFO - Extraccion de la revista International Journal on Artificial Intelligence Tools
+2023-04-10 23:28:13,729 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:28:19,124 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:28:19,124 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:05.394358
+2023-04-10 23:28:19,623 - resultados2/crossref_log - INFO - Extraccion de la revista AI COMMUNICATIONS
+2023-04-10 23:28:19,624 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:28:25,935 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:28:25,935 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:06.310971
+2023-04-10 23:28:26,404 - resultados2/crossref_log - INFO - Extraccion de la revista INTERNATIONAL JOURNAL OF UNCERTAINTY FUZZINESS AND KNOWLEDGE-BASED SYSTEMS
+2023-04-10 23:28:26,404 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:28:40,186 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:28:40,186 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:13.782156
+2023-04-10 23:28:40,645 - resultados2/crossref_log - INFO - Extraccion de la revista ANNALS OF MATHEMATICS AND ARTIFICIAL INTELLIGENCE
+2023-04-10 23:28:40,645 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:28:45,243 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:28:45,243 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:04.597135
+2023-04-10 23:28:45,677 - resultados2/crossref_log - INFO - Extraccion de la revista INTERNATIONAL JOURNAL OF SOFTWARE ENGINEERING AND KNOWLEDGE ENGINEERING
+2023-04-10 23:28:45,677 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:28:58,707 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:28:58,707 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:13.029799
+2023-04-10 23:28:59,186 - resultados2/crossref_log - INFO - Extraccion de la revista International Arab Journal of Information Technology
+2023-04-10 23:28:59,186 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:29:07,846 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:29:07,846 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:08.659985
+2023-04-10 23:29:08,276 - resultados2/crossref_log - INFO - Extraccion de la revista Turkish Journal of Electrical Engineering and Computer Sciences
+2023-04-10 23:29:08,276 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:29:18,312 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:29:18,312 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:10.036279
+2023-04-10 23:29:19,671 - resultados2/crossref_log - INFO - Extraccion de la revista Advances in Electrical and Computer Engineering
+2023-04-10 23:29:19,672 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:29:37,778 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:29:37,778 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:18.106812
+2023-04-10 23:29:38,236 - resultados2/crossref_log - INFO - Extraccion de la revista Information Technology and Control
+2023-04-10 23:29:38,236 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:29:44,928 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:29:44,929 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:06.691302
+2023-04-10 23:29:45,351 - resultados2/crossref_log - ERROR - Error para "JOURNAL OF MULTIPLE-VALUED LOGIC AND SOFT COMPUTING" al realizar la solicitud: 404
+2023-04-10 23:29:45,795 - resultados2/crossref_log - INFO - Extraccion de la revista JOURNAL OF COMPUTER AND SYSTEMS SCIENCES INTERNATIONAL
+2023-04-10 23:29:45,795 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:29:50,408 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:29:50,408 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:04.613129
+2023-04-10 23:29:50,855 - resultados2/crossref_log - INFO - Extraccion de la revista Journal of Logic Language and Information
+2023-04-10 23:29:50,856 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:30:01,060 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:30:01,061 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:10.204294
+2023-04-10 23:30:04,568 - resultados2/crossref_log - INFO - Extraccion de la revista CONSTRAINTS
+2023-04-10 23:30:04,569 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:30:22,053 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:30:22,053 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:17.484692
+2023-04-10 23:30:26,846 - resultados2/crossref_log - INFO - Extraccion de la revista COMPUTING AND INFORMATICS
+2023-04-10 23:30:26,847 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:30:34,279 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:30:34,279 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:07.432128
+2023-04-10 23:30:34,729 - resultados2/crossref_log - INFO - Extraccion de la revista Malaysian Journal of Computer Science
+2023-04-10 23:30:34,729 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:30:44,284 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:30:44,284 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:09.554068
+2023-04-10 23:30:47,158 - resultados2/crossref_log - INFO - Extraccion de la revista CONNECTION SCIENCE
+2023-04-10 23:30:47,158 - resultados2/crossref_log - INFO - [TIME] Hora de comienzo.
+2023-04-10 23:30:55,148 - resultados2/crossref_log - INFO - [TIME] La hora de finalizacion.
+2023-04-10 23:30:55,148 - resultados2/crossref_log - INFO - [TIME] El tiempo que ha tardado es: 0:00:07.990240

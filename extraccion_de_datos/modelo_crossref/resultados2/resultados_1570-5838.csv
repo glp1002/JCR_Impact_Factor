@@ -2,33 +2,36 @@ DOI,Título,Autores,Año,Citas,Revista
 10.3233/ao-150144,What’s a “disease”? Questions for applied ontologies of diseases,Alan Rector,2015,0,Applied Ontology
 10.3233/ao-140133,On generically dependent entities,Antony Galton,2014,5,Applied Ontology
 10.3233/ao-2008-0056,OntoPneumo: An ontology of pneumology domain,Audrey Baneyx and Jean Charlet,2008,0,Applied Ontology
+10.3233/ao-2008-0050,The role of ontologies in creating and maintaining corporate knowledge: A case study from the aero industry,Derek Sleeman and Suraj Ajit and David W. Fowler and David Knott,2008,2,Applied Ontology
 10.3233/ao-210253,Formalizing commitments using the event calculus and RuleML,Joost de Kruijff and Hans Weigand,2021,0,Applied Ontology
 10.3233/ao-2011-0097,Flexibility and utility of the cell cycle ontology,Vladimir Mironov and Erick Antezana and Mikel Egaña and Ward Blondé and Bernard De Baets and Martin Kuiper and Robert Stevens,2011,1,Applied Ontology
 10.3233/ao-210258,GUM: The generalized upper model,John A. Bateman,2022,1,Applied Ontology
+10.3233/ao-210260,Evaluating and extending the Informed Consent Ontology for representing permissions from the clinical domain,Elizabeth E. Umberfield and Cooper Stansbury and Kathleen Ford and Yun Jiang and Sharon L.R. Kardia and Andrea K. Thomer and Marcelline R. Harris,2022,0,Applied Ontology
 10.3233/ao-170179,Auditing National Cancer Institute thesaurus neoplasm concepts in groups of high error concentration,Ling Zheng and Hua Min and Yan Chen and Julia Xu and James Geller and Yehoshua Perl,2017,3,Applied Ontology
 10.3233/ao-170176,"An ontology-driven framework for specifying, adapting and implementing educational settings",Àngels Rius and Jordi Conesa and Elena García-Barriocanal and Miguel Ángel Sicilia,2017,3,Applied Ontology
 10.3233/ao-150159,Signs and reality,John F. Sowa,2015,4,Applied Ontology
-10.3233/ao-200223,Handling Crimes of Omission by reconciling a criminal core ontology with UFO,Cleyton Mário de Oliveira Rodrigues and Camila Bezerra and Fred Freitas and Italo Oliveira,2020,4,Applied Ontology
-10.3233/ao-150155,Towards ontology-driven situation-aware disaster management,João L.R. Moreira and Luís Ferreira Pires and Marten van Sinderen and Patricia Dockhorn Costa,2015,7,Applied Ontology
-10.3233/ao-160170,A hybrid approach to domain-independent taxonomy learning,Els Lefever,2016,7,Applied Ontology
-10.3233/ao-220268,The semantics of extensive quantities within geographic information,Eric Top and Simon Scheider and Haiqi Xu and Enkhbold Nyamsuren and Niels Steenbergen,2022,2,Applied Ontology
-10.3233/ao-2008-0050,The role of ontologies in creating and maintaining corporate knowledge: A case study from the aero industry,Derek Sleeman and Suraj Ajit and David W. Fowler and David Knott,2008,2,Applied Ontology
+10.3233/ao-150152,Ontologies and historical archives: A way to tell new stories,Anna Goy and Diego Magro and Marco Rovera,2015,6,Applied Ontology
+10.3233/ao-160171,Choosing ontologies for reuse,Megan Katsumi and Michael Grüninger,2017,9,Applied Ontology
+10.3233/ao-230278,Designing ontologies for behaviours based on temporal passive data,Clauirton Siebra and Katarzyna Wac,2023,0,Applied Ontology
 10.3233/ao-2011-0086,Overcoming the ontology enrichment bottleneck with Quick Term Templates,Philippe Rocca-Serra and Alan Ruttenberg and Martin J. O'Connor and Patricia L. Whetzel and Daniel Schober and Jay Greenbaum and Mélanie Courtot and Ryan R. Brinkman and Susanna Assunta Sansone and Richard Scheuermann and n.m. The OBI Consortium and Bjoern Peters,2011,5,Applied Ontology
+10.3233/ao-220268,The semantics of extensive quantities within geographic information,Eric Top and Simon Scheider and Haiqi Xu and Enkhbold Nyamsuren and Niels Steenbergen,2022,2,Applied Ontology
 10.3233/ao-2011-0094,Combining Linked Data and knowledge engineering best practices to design a lightweight role ontology,Alexandre Passant and Antoine Isaac and Philippe Laublet,2011,1,Applied Ontology
 10.3233/ao-2012-0116,"Terms as labels for concepts, terms as lexical units: A comparative analysis in ontologies and specialized dictionaries",Marie-Claude L'Homme and Gabriel Bernier-Colborne,2012,6,Applied Ontology
 10.3233/ao-220269,A goal-oriented framework for ontology reuse,Cássio C. Reginato and Jordana S. Salamon and Gabriel G. Nogueira and Monalessa P. Barcellos and Vítor E. Silva Souza and Maxwell E. Monteiro and Renata Guizzardi,2022,0,Applied Ontology
-10.3233/ao-210260,Evaluating and extending the Informed Consent Ontology for representing permissions from the clinical domain,Elizabeth E. Umberfield and Cooper Stansbury and Kathleen Ford and Yun Jiang and Sharon L.R. Kardia and Andrea K. Thomer and Marcelline R. Harris,2022,0,Applied Ontology
+10.3233/ao-160170,A hybrid approach to domain-independent taxonomy learning,Els Lefever,2016,7,Applied Ontology
+10.3233/ao-190218,Embodied contextualization: Towards a multistratal ontological treatment,John A. Bateman and Mihai Pomarlan and Gayane Kazhoyan,2019,2,Applied Ontology
+10.3233/ao-2008-0046,"Observations, measurements and semantic reference spaces",Florian Probst,2008,16,Applied Ontology
+10.3233/ao-160163,An ontology of suspicious software behavior,André Grégio and Rodrigo Bonacin and Antonio Carlos de Marchi and Olga Fernanda Nabuco and Paulo Lício de Geus,2016,10,Applied Ontology
 10.3233/ao-200234,Representing scientific knowledge for quantitative analysis of physical systems,Soroush Mobasheri and Mehrnoush Shamsfard,2020,0,Applied Ontology
 10.3233/ao-160162,Automated generation of structural design models from SBVR specification,Mohammed Bonais and Kinh Nguyen and Eric Pardede and Wenny Rahayu,2016,2,Applied Ontology
-10.3233/ao-190218,Embodied contextualization: Towards a multistratal ontological treatment,John A. Bateman and Mihai Pomarlan and Gayane Kazhoyan,2019,2,Applied Ontology
-10.3233/ao-160171,Choosing ontologies for reuse,Megan Katsumi and Michael Grüninger,2017,9,Applied Ontology
 10.3233/ao-2008-0048,AEON – An approach to the automatic evaluation of ontologies,Johanna Völker and Denny Vrandečić and York Sure and Andreas Hotho,2008,25,Applied Ontology
-10.3233/ao-150152,Ontologies and historical archives: A way to tell new stories,Anna Goy and Diego Magro and Marco Rovera,2015,6,Applied Ontology
-10.3233/ao-160163,An ontology of suspicious software behavior,André Grégio and Rodrigo Bonacin and Antonio Carlos de Marchi and Olga Fernanda Nabuco and Paulo Lício de Geus,2016,10,Applied Ontology
-10.3233/ao-2012-0111,Ontology for Big Systems: The Ontology Summit 2012 Communiqué,Todd Schneider and Ali Hashemi and Mike Bennett and Mary Brady and Cory Casanave and Henson Graves and Michael Gruninger and Nicola Guarino and Anatoly Levenchuk and Ernie Lucier and Leo Obrst and Steve Ray and Ram D. Sriram and Amanda Vizedom and Matthew West and Trish Whetzel and Peter Yim,2012,8,Applied Ontology
-10.3233/ao-2008-0046,"Observations, measurements and semantic reference spaces",Florian Probst,2008,16,Applied Ontology
-10.3233/ao-230278,Designing ontologies for behaviours based on temporal passive data,Clauirton Siebra and Katarzyna Wac,2023,0,Applied Ontology
+10.3233/ao-200223,Handling Crimes of Omission by reconciling a criminal core ontology with UFO,Cleyton Mário de Oliveira Rodrigues and Camila Bezerra and Fred Freitas and Italo Oliveira,2020,4,Applied Ontology
+10.3233/ao-150155,Towards ontology-driven situation-aware disaster management,João L.R. Moreira and Luís Ferreira Pires and Marten van Sinderen and Patricia Dockhorn Costa,2015,8,Applied Ontology
+10.3233/ao-2012-0111,Ontology for Big Systems: The Ontology Summit 2012 Communiqué,Todd Schneider and Ali Hashemi and Mike Bennett and Mary Brady and Cory Casanave and Henson Graves and Michael Gruninger and Nicola Guarino and Anatoly Levenchuk and Ernie Lucier and Leo Obrst and Steve Ray and Ram D. Sriram and Amanda Vizedom and Matthew West and Trish Whetzel and Peter Yim,2012,9,Applied Ontology
+10.3233/ao-2011-0096,Designing core ontologies,Ansgar Scherp and Carsten Saathoff and Thomas Franz and Steffen Staab,2011,45,Applied Ontology
 10.3233/ao-2008-0059,A special issue of Applied Ontology on “Beautiful Ontologies”,,2008,0,Applied Ontology
+10.3233/ao-190210,An ontological approach to representing the product life cycle,J. Neil Otte and Dimitris Kiritsi and Munira Mohd Ali and Ruoyu Yang and Binbin Zhang and Ron Rudnicki and Rahul Rai and Barry Smith,2019,13,Applied Ontology
+10.3233/ao-170184,Integrating GoodRelations in a domain-specific ontology,Andrea Westerinen and Rebecca Tauber,2017,6,Applied Ontology
 10.3233/ao-220271,CHAMEO: An ontology for the harmonisation of materials characterisation methodologies,Pierluigi Del Nostro and Gerhard Goldbeck and Daniele Toti,2022,0,Applied Ontology
 10.3233/ao-2012-0110,Erratum,,2012,1,Applied Ontology
 10.3233/ao-160165,A unifying definition for artifact and biological functions,Riichiro Mizoguchi and Yoshinobu Kitamura and Stefano Borgo,2016,17,Applied Ontology
@@ -46,7 +49,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.3233/ao-200224,Location ontologies based on mereotopological pluralism,Bahar Aameri and Michael Grüninger,2020,2,Applied Ontology
 10.3233/ao-230275,Guidelines for the reuse of ontology content,Michael Halper and Larisa N. Soldatova and Mathias Brochhausen and Fatima Sabiu Maikore and Christopher Ochs and Yehoshua Perl,2023,0,Applied Ontology
 10.3233/ao-150145,The NeOn Methodology framework: A scenario-based methodology for ontology development,Mari Carmen Suárez-Figueroa and Asunción Gómez-Pérez and Mariano Fernández-López,2015,85,Applied Ontology
-10.3233/ao-2011-0092,Semantic reconciliation across design and manufacturing knowledge models: A logic-based approach,N. Chungoora and R.I.M. Young,2011,10,Applied Ontology
 10.3233/ao-190211,Quality assurance of complex ChEBI concepts based on number of relationship types,Hasan Yumak and Ling Zheng and Ling Chen and Michael Halper and Yehoshua Perl and Gareth Owen,2019,2,Applied Ontology
 10.3233/ao-190219,Natural necessity: An introductory guide for ontologists,Fumiaki Toyoshima,2020,2,Applied Ontology
 10.3233/ao-2011-0099,Making the case for ontology,Michael Uschold,2011,8,Applied Ontology
@@ -56,7 +58,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.3233/ao-2008-0052,"Ontology Summit 2007 – Ontology, taxonomy, folksonomy: Understanding the distinctions",Michael Gruninger and Olivier Bodenreider and Frank Olken and Leo Obrst and Peter Yim,2008,16,Applied Ontology
 10.3233/ao-170192,On the role of thematic roles in a historical event ontology,Anna Goy and Diego Magro and Marco Rovera,2018,4,Applied Ontology
 10.3233/ao-2012-0114,Corpus-based terminological evaluation of ontologies,Marco Rospocher and Sara Tonelli and Luciano Serafini and Emanuele Pianta,2012,6,Applied Ontology
-10.3233/ao-190210,An ontological approach to representing the product life cycle,J. Neil Otte and Dimitris Kiritsi and Munira Mohd Ali and Ruoyu Yang and Binbin Zhang and Ron Rudnicki and Rahul Rai and Barry Smith,2019,12,Applied Ontology
 10.3233/ao-170189,Framework for ontology-driven decision making,Kenneth Baclawski and Eric S. Chan and Dieter Gawlick and Adel Ghoneimy and Kenny Gross and Zhen Hua Liu and Xing Zhang,2017,11,Applied Ontology
 10.3233/ao-200241,The Arabic ontology – an Arabic wordnet with ontologically clean content,Mustafa Jarrar,2021,7,Applied Ontology
 10.3233/ao-200226,Ontology summit 2019 communiqué: Explanations,Kenneth Baclawski and Mike Bennett and Gary Berg-Cross and Donna Fritzsche and Ravi Sharma and Janet Singer and John F. Sowa and Ram D. Sriram and Mark Underwood and David Whitten,2020,3,Applied Ontology
@@ -69,99 +70,98 @@ DOI,Título,Autores,Año,Citas,Revista
 10.3233/ao-210243,A faster and less aggressive algorithm for correcting conservativity violations in ontology alignments,Cauã Roca Antunes and Alexandre Rademaker and Mara Abel,2021,1,Applied Ontology
 10.3233/ao-2012-0119,Ontologies and terminologies: Continuum or dichotomy?,Natalia Grabar and Thierry Hamon and Olivier Bodenreider,2012,8,Applied Ontology
 10.3233/ao-150150,An ontology of online user feedback in software engineering,Itzel Morales-Ramirez and Anna Perini and Renata S.S. Guizzardi,2015,31,Applied Ontology
-10.3233/ao-2011-0096,Designing core ontologies,Ansgar Scherp and Carsten Saathoff and Thomas Franz and Steffen Staab,2011,45,Applied Ontology
-10.3233/ao-170184,Integrating GoodRelations in a domain-specific ontology,Andrea Westerinen and Rebecca Tauber,2017,6,Applied Ontology
+10.3233/ao-2011-0092,Semantic reconciliation across design and manufacturing knowledge models: A logic-based approach,N. Chungoora and R.I.M. Young,2011,10,Applied Ontology
+10.3233/ao-210244,Roles and their three facets: A foundational perspective,Fumiaki Toyoshima,2021,1,Applied Ontology
+10.3233/ao-2008-0045,Epistemological perspectives on ontology-based theories for conceptual modeling,Jan Recker and Björn Niehaves,2008,9,Applied Ontology
+10.3233/ao-210257,YAMATO: Yet-another more advanced top-level ontology,Riichiro Mizoguchi and Stefano Borgo,2022,3,Applied Ontology
 10.3233/ao-200227,Proposed guidelines for publishing ontology papers,Roberta Ferrario and Michael Grüninger,2020,1,Applied Ontology
 10.3233/ao-140130,Engineering ontologies for question answering,Marten Teitsma and Jacobijn Sandberg and Guus Schreiber and Bob Wielinga and Willem Robert van Hage,2014,2,Applied Ontology
 10.3233/ao-2009-0062,The development of a schema for semantic annotation: Gain brought by a formal ontological method,Ai Kawazoe and Lihua Jin and Mika Shigematsu and Daisuke Bekki and Roberto Barrero and Kiyosu Taniguchi and Nigel Collier,2009,1,Applied Ontology
 10.3233/ao-210250,CargO-S: A pattern-based well-founded legal domain ontology for the traceability of goods in logistic sea corridors,Mirna El Ghosh and Habib Abdulrab,2021,1,Applied Ontology
 10.3233/ao-2008-0058,The philosophy of computer science,,2008,0,Applied Ontology
-10.3233/ao-210244,Roles and their three facets: A foundational perspective,Fumiaki Toyoshima,2021,1,Applied Ontology
 10.3233/ao-140129,The formal REA model at the operational level,Sohei Ito and Dominik Vymětal,2013,4,Applied Ontology
-10.3233/ao-2010-0077,An ontological analysis of states: Organizations vs. legal persons,Edward Heath Robinson,2010,6,Applied Ontology
 10.3233/ao-210252,Identitas: Semantics-free and human-readable identifiers,Nizal Alshammry and Phillip Lord,2021,0,Applied Ontology
 10.3233/ao-200238,Ricardo de Almeida Falbo (1964–2020),Giancarlo Guizzardi and João Paulo A. Almeida and Monalessa Perini Barcellos and Renata Silva Souza Guizzardi and Vítor E. Silva Souza,2020,0,Applied Ontology
 10.3233/ao-2008-0054,Pathway knowledge base: An integrated pathway resource using BioPAX,Nikesh Kotecha and Kyle Bruck and William Lu and Nigam Shah,2008,1,Applied Ontology
 10.3233/ao-2009-0070,A proposal to evaluate ontology content,Mauricio Barcellos Almeida,2009,12,Applied Ontology
 10.3233/ao-160173,RecOn: Ontology recommendation for structureless queries,Anila Sahar Butt and Armin Haller and Lexing Xie,2017,3,Applied Ontology
+10.3233/ao-170181,Ontology Summit 2016 Communique: Ontologies within semantic interoperability ecosystems,Donna Fritzsche and Michael Grüninger and Ken Baclawski and Mike Bennett and Gary Berg-Cross and Todd Schneider and Ram Sriram and Mark Underwood and Andrea Westerinen,2017,11,Applied Ontology
+10.3233/ao-221287,Food identity and the passage of time,Andrea Borghini and Nicola Piras,2022,0,Applied Ontology
 10.3233/ao-2008-0051,Representing the NCI Thesaurus in OWL DL: Modeling tools help modeling languages,Natalya F. Noy and Sherri de Coronado and Harold Solbrig and Gilberto Fragoso and Frank W. Hartel and Mark A. Musen,2008,16,Applied Ontology
+10.3233/ao-190214,Representing a reference foundational ontology of events in SROIQ,Alessander Botti Benevides and Jean-Rémi Bourguet and Giancarlo Guizzardi and Rafael Peñaloza and João Paulo A. Almeida,2019,15,Applied Ontology
+10.3233/ao-2010-0077,An ontological analysis of states: Organizations vs. legal persons,Edward Heath Robinson,2010,6,Applied Ontology
 10.3233/ao-150154,Ontology-driven conceptual modeling: A systematic literature mapping and review,Michaël Verdonck and Frederik Gailly and Sergio de Cesare and Geert Poels,2015,22,Applied Ontology
+10.3233/ao-190204,The ontology of drama,Rossana Damiano and Vincenzo Lombardo and Antonio Pizzo,2019,8,Applied Ontology
 10.3233/ao-190220,How versioning of terminology systems can be supported by ontological models – a case study on TNM tumor classification,Susanne Zabka and Stefan Schulz and Oliver Brunner and Martin Boeker,2020,0,Applied Ontology
 10.3233/ao-160168,Extensional and intensional collectives and the de re/de dicto distinction,Antony Galton and Zena Wood,2016,1,Applied Ontology
 10.3233/ao-200233,CODI: A multidimensional theory of mereotopology with closure operations,Torsten Hahmann,2020,0,Applied Ontology
 10.3233/ao-200239,Representing wine concepts: A hybrid approach,M. Cristina Amoretti and Marcello Frixione,2020,1,Applied Ontology
 10.3233/ao-160169,An ontological investigation over human relations in linked data,Miroslav Vacura and Vojtěch Svátek and Aldo Gangemi,2016,0,Applied Ontology
 10.3233/ao-2009-0066,Special Issue: Biomedical Ontology in Action,Olivier Bodenreider,2009,2,Applied Ontology
-10.3233/ao-210257,YAMATO: Yet-another more advanced top-level ontology,Riichiro Mizoguchi and Stefano Borgo,2022,3,Applied Ontology
-10.3233/ao-2008-0045,Epistemological perspectives on ontology-based theories for conceptual modeling,Jan Recker and Björn Niehaves,2008,9,Applied Ontology
-10.3233/ao-2011-0083,Creating the ontologists of the future,Fabian Neuhaus and Elizabeth Florescu and Antony Galton and Michael Gruninger and Nicola Guarino and Leo Obrst and Arturo Sanchez and Amanda Vizedom and Peter Yim and Barry Smith,2011,5,Applied Ontology
-10.3233/ao-221287,Food identity and the passage of time,Andrea Borghini and Nicola Piras,2022,0,Applied Ontology
+10.3233/ao-2011-0090,If engineering function is a family resemblance concept: Assessing three formalization strategies,Massimiliano Carrara and Pawel Garbacz and Pieter E. Vermaas,2011,23,Applied Ontology
+10.3233/ao-190212,OntoGamif: A modular ontology for integrated gamification,Rokia Bouzidi and Antonio De Nicola and Fahima Nader and Rachid Chalal,2019,8,Applied Ontology
 10.3233/ao-2011-0091,Re-organizing organizational accounts of function,Marc Artiga,2011,14,Applied Ontology
-10.3233/ao-170181,Ontology Summit 2016 Communique: Ontologies within semantic interoperability ecosystems,Donna Fritzsche and Michael Grüninger and Ken Baclawski and Mike Bennett and Gary Berg-Cross and Todd Schneider and Ram Sriram and Mark Underwood and Andrea Westerinen,2017,11,Applied Ontology
-10.3233/ao-220270,The TAO CI ontology of vases of the Ming and Qing dynasties,Tong Wei and Christophe Roche and Maria Papadopoulou and Yangli Jia,2022,0,Applied Ontology
-10.3233/ao-190207,Towards an ontology for generative design of mechanical assemblies,Bahar Aameri and Hyunmin Cheong and J. Christopher Beck,2019,8,Applied Ontology
+10.3233/ao-2010-0074,A perdurant ontology for interoperating information systems based on interlocking institutional worlds,Robert M. Colomb and Mohammad Nazir Ahmad,2010,11,Applied Ontology
 10.3233/ao-160167,FueL: Representing function structure and function dependencies with a UML profile for function modeling,Patryk Burek and Frank Loebe and Heinrich Herre,2016,4,Applied Ontology
 10.3233/ao-200235,Identity of historical localities in information systems1,Pawel Garbacz and Bogumił Szady and Agnieszka Ławrynowicz,2021,3,Applied Ontology
-10.3233/ao-2008-0041,Institutionalising ontology-based semantic integration,Marco Schorlemmer and Yannis Kalfoglou,2008,15,Applied Ontology
-10.3233/ao-190212,OntoGamif: A modular ontology for integrated gamification,Rokia Bouzidi and Antonio De Nicola and Fahima Nader and Rachid Chalal,2019,8,Applied Ontology
-10.3233/ao-190214,Representing a reference foundational ontology of events in SROIQ,Alessander Botti Benevides and Jean-Rémi Bourguet and Giancarlo Guizzardi and Rafael Peñaloza and João Paulo A. Almeida,2019,14,Applied Ontology
-10.3233/ao-220264,GFO: The General Formal Ontology,Frank Loebe and Patryk Burek and Heinrich Herre,2022,2,Applied Ontology
+10.3233/ao-220270,The TAO CI ontology of vases of the Ming and Qing dynasties,Tong Wei and Christophe Roche and Maria Papadopoulou and Yangli Jia,2022,0,Applied Ontology
 10.3233/ao-170183,Ontology development by domain experts (without using the “O” word),Andrea Westerinen and Rebecca Tauber,2017,11,Applied Ontology
 10.3233/ao-2012-0112,A formal ontology for industrial maintenance,Mohamed Hedi Karray and Brigitte Chebel-Morello and Noureddine Zerhouni,2012,22,Applied Ontology
-10.3233/ao-2012-0104,Ontological modelling of form and function for architectural design,Mehul Bhatt and Joana Hois and Oliver Kutz,2012,27,Applied Ontology
 10.3233/ao-2011-0087,MIREOT: The minimum information to reference an external ontology term,Mélanie Courtot and Frank Gibson and Allyson L. Lister and James Malone and Daniel Schober and Ryan R. Brinkman and Alan Ruttenberg,2011,59,Applied Ontology
-10.3233/ao-190204,The ontology of drama,Rossana Damiano and Vincenzo Lombardo and Antonio Pizzo,2019,8,Applied Ontology
-10.3233/ao-160164,Functions in Basic Formal Ontology,Andrew D. Spear and Werner Ceusters and Barry Smith,2016,22,Applied Ontology
+10.3233/ao-2011-0083,Creating the ontologists of the future,Fabian Neuhaus and Elizabeth Florescu and Antony Galton and Michael Gruninger and Nicola Guarino and Leo Obrst and Arturo Sanchez and Amanda Vizedom and Peter Yim and Barry Smith,2011,5,Applied Ontology
+10.3233/ao-220264,GFO: The General Formal Ontology,Frank Loebe and Patryk Burek and Heinrich Herre,2022,2,Applied Ontology
+10.3233/ao-2008-0041,Institutionalising ontology-based semantic integration,Marco Schorlemmer and Yannis Kalfoglou,2008,15,Applied Ontology
 10.3233/ao-150143,Applied ontology: The next decade begins,Nicola Guarino and Mark Musen,2015,19,Applied Ontology
-10.3233/ao-2010-0074,A perdurant ontology for interoperating information systems based on interlocking institutional worlds,Robert M. Colomb and Mohammad Nazir Ahmad,2010,11,Applied Ontology
-10.3233/ao-2011-0090,If engineering function is a family resemblance concept: Assessing three formalization strategies,Massimiliano Carrara and Pawel Garbacz and Pieter E. Vermaas,2011,23,Applied Ontology
+10.3233/ao-230277,"Information, mereology and vagueness",Thomas Bittner,2023,0,Applied Ontology
 10.3233/ao-2008-0047,An ontology engineering methodology for DOGMA,Peter Spyns and Yan Tang and Robert Meersman,2008,53,Applied Ontology
-10.3233/ao-2009-0067,"The water falls but the waterfall does not fall: New perspectives on objects, processes and events",Antony Galton and Riichiro Mizoguchi,2009,75,Applied Ontology
+10.3233/ao-190207,Towards an ontology for generative design of mechanical assemblies,Bahar Aameri and Hyunmin Cheong and J. Christopher Beck,2019,8,Applied Ontology
+10.3233/ao-160164,Functions in Basic Formal Ontology,Andrew D. Spear and Werner Ceusters and Barry Smith,2016,22,Applied Ontology
 10.3233/ao-2011-0084,Consolidating SNOMED CT's ontological commitment,Stefan Schulz and Ronald Cornet and Kent Spackman,2011,20,Applied Ontology
-10.3233/ao-150141,A new view of REA state machine,Frantisek Hunka and Jaroslav Zacek,2015,4,Applied Ontology
-10.3233/ao-210248,The ideal Benedictine Monastery: From the Saint Gall map to ontologies,Claudia Cantale and Domenico Cantone and Manuela Lupica Rinato and Marianna Nicolosi-Asmundo and Daniele Francesco Santamaria and Maria Rosaria Stufano Melone,2021,0,Applied Ontology
-10.3233/ao-220267,Affordances and their ontological core,Fumiaki Toyoshima and Adrien Barton and Jean-François Ethier,2022,0,Applied Ontology
-10.3233/ao-2012-0103,"Reexamining fiat, bona fide and force dynamic boundaries for geopolitical entities and their placement in DOLCE",Edward Heath Robinson,2012,5,Applied Ontology
-10.3233/ao-150140,A survey and classification of principles for domain-specific ontology design patterns development,Marko Vujasinovic and Nenad Ivezic and Boonserm Kulvatunyou,2015,2,Applied Ontology
-10.3233/ao-2012-0109,Modularity in ontologies,Oliver Kutz and Joana Hois,2012,3,Applied Ontology
-10.3233/ao-150161,"Bootstrapping the applied ontology practice: Ontology communities, then and now",Peter P. Yim,2015,2,Applied Ontology
+10.3233/ao-2012-0104,Ontological modelling of form and function for architectural design,Mehul Bhatt and Joana Hois and Oliver Kutz,2012,27,Applied Ontology
+10.3233/ao-2009-0067,"The water falls but the waterfall does not fall: New perspectives on objects, processes and events",Antony Galton and Riichiro Mizoguchi,2009,75,Applied Ontology
 10.3233/ao-150146,Towards ontology-based retrieval of historical images,Mickael Coustaty and Norbert Tsopze and Alain Bouju and Karell Bertet and Georges Louis,2015,3,Applied Ontology
-10.3233/ao-2011-0082,The RNA Ontology (RNAO): An ontology for integrating RNA sequence and structure data,Robert Hoehndorf and Colin Batchelor and Thomas Bittner and Michel Dumontier and Karen Eilbeck and Rob Knight and Chris J. Mungall and Jane S. Richardson and Jesse Stombaugh and Eric Westhof and Craig L. Zirbel and Neocles B. Leontis,2011,22,Applied Ontology
 10.3233/ao-220274,Foundational patterns benchmark,Jana Ahmad and Petr Křemen,2022,0,Applied Ontology
-10.3233/ao-210246,Ontologies for information entities: State of the art and open challenges,Emilio M. Sanfilippo,2021,1,Applied Ontology
-10.3233/ao-2010-0073,Development and construction of an ontology to represent simulation data for a generic enterprise,Brian Kernan and Con Sheahan,2010,1,Applied Ontology
-10.3233/ao-130127,e3service: An ontology for needs-driven real-world service bundling in a multi-supplier setting,Sybren De Kinderen and Pieter De Leenheer and Jaap Gordijn and Hans Akkermans and Rose-Marie Dröes and Franka Meiland,2013,1,Applied Ontology
-10.3233/ao-190216,Context for language understanding by intelligent agents,Marjorie McShane and Sergei Nirenburg,2019,3,Applied Ontology
-10.3233/ao-190208,ROMAIN: Towards a BFO compliant reference ontology for industrial maintenance,Mohamed Hedi Karray and Farhad Ameri and Melinda Hodkiewicz and Thierry Louge,2019,25,Applied Ontology
-10.3233/ao-130121,Diverse perspectives on ontology: A joint report on the First IAOA Interdisciplinary Summer School on Ontological Analysis,Federico Boem and Gaoussou Camara and Eric Chuk and Francesca Quattri and Emanuele Ratti and Emilio M. Sanfilippo and Aleksandra Sojic,2013,0,Applied Ontology
+10.3233/ao-150161,"Bootstrapping the applied ontology practice: Ontology communities, then and now",Peter P. Yim,2015,2,Applied Ontology
+10.3233/ao-210248,The ideal Benedictine Monastery: From the Saint Gall map to ontologies,Claudia Cantale and Domenico Cantone and Manuela Lupica Rinato and Marianna Nicolosi-Asmundo and Daniele Francesco Santamaria and Maria Rosaria Stufano Melone,2021,0,Applied Ontology
 10.3233/ao-2009-0068,Ontological representation of tactile information for software development,Eirini V. Myrgioti and Vasilios G. Chouvardas and Amalia N. Miliou,2009,6,Applied Ontology
-10.3233/ao-150158,Ontology and database schema: What’s the difference?,Michael Uschold,2015,11,Applied Ontology
-10.3233/ao-170174,"The European Legal Taxonomy Syllabus: A multi-lingual, multi-level ontology framework to untangle the web of European legal terminology",Gianmaria Ajani and Guido Boella and Luigi di Caro and Livio Robaldo and Llio Humphreys and Sabrina Praduroux and Piercarlo Rossi and Andrea Violato,2017,16,Applied Ontology
-10.3233/ao-200232,SAREF4health: Towards IoT standard-based ontology-driven cardiac e-health systems,João Moreira and Luís Ferreira Pires and Marten van Sinderen and Laura Daniele and Marc Girod-Genet,2020,7,Applied Ontology
+10.3233/ao-130127,e3service: An ontology for needs-driven real-world service bundling in a multi-supplier setting,Sybren De Kinderen and Pieter De Leenheer and Jaap Gordijn and Hans Akkermans and Rose-Marie Dröes and Franka Meiland,2013,1,Applied Ontology
+10.3233/ao-2012-0103,"Reexamining fiat, bona fide and force dynamic boundaries for geopolitical entities and their placement in DOLCE",Edward Heath Robinson,2012,5,Applied Ontology
+10.3233/ao-170175,Ontological distinctions between hardware and software,William D. Duncan,2017,5,Applied Ontology
+10.3233/ao-2012-0109,Modularity in ontologies,Oliver Kutz and Joana Hois,2012,3,Applied Ontology
+10.3233/ao-2010-0073,Development and construction of an ontology to represent simulation data for a generic enterprise,Brian Kernan and Con Sheahan,2010,1,Applied Ontology
+10.3233/ao-2008-0049,Ontological foundations for conceptual modelling,Giancarlo Guizzardi and Terry Halpin,2008,27,Applied Ontology
+10.3233/ao-2011-0082,The RNA Ontology (RNAO): An ontology for integrating RNA sequence and structure data,Robert Hoehndorf and Colin Batchelor and Thomas Bittner and Michel Dumontier and Karen Eilbeck and Rob Knight and Chris J. Mungall and Jane S. Richardson and Jesse Stombaugh and Eric Westhof and Craig L. Zirbel and Neocles B. Leontis,2011,22,Applied Ontology
+10.3233/ao-130121,Diverse perspectives on ontology: A joint report on the First IAOA Interdisciplinary Summer School on Ontological Analysis,Federico Boem and Gaoussou Camara and Eric Chuk and Francesca Quattri and Emanuele Ratti and Emilio M. Sanfilippo and Aleksandra Sojic,2013,0,Applied Ontology
+10.3233/ao-220267,Affordances and their ontological core,Fumiaki Toyoshima and Adrien Barton and Jean-François Ethier,2022,0,Applied Ontology
 10.3233/ao-170187,Ontology design patterns and semantic abstractions in ontology integration,Mike Bennett,2017,1,Applied Ontology
-10.3233/ao-220262,BFO: Basic Formal Ontology1,J. Neil Otte and John Beverley and Alan Ruttenberg,2022,6,Applied Ontology
 10.3233/ao-130122,Referring to institutional entities: Semantic and ontological perspectives,Alexandra Arapinis,2013,12,Applied Ontology
 10.3233/ao-150156,A plea for complex categories in ontologies,Alexandra Arapinis and Laure Vieu,2015,15,Applied Ontology
-10.3233/ao-150151,An empirically-based framework for ontology modularisation,Zubeida Casmod Khan and C. Maria Keet,2015,12,Applied Ontology
-10.3233/ao-150160,Ten years of Applied Ontology,Nicola Guarino and Mark A. Musen,2015,9,Applied Ontology
+10.3233/ao-150140,A survey and classification of principles for domain-specific ontology design patterns development,Marko Vujasinovic and Nenad Ivezic and Boonserm Kulvatunyou,2015,2,Applied Ontology
+10.3233/ao-150141,A new view of REA state machine,Frantisek Hunka and Jaroslav Zacek,2015,4,Applied Ontology
+10.3233/ao-190216,Context for language understanding by intelligent agents,Marjorie McShane and Sergei Nirenburg,2019,3,Applied Ontology
+10.3233/ao-2011-0100,An ontological approach to focusing attention and enhancing machine perception on the Web,Cory Henson and Krishnaprasad Thirunarayan and Amit Sheth,2011,13,Applied Ontology
+10.3233/ao-130125,Towards ontology evaluation across the life cycle,Fabian Neuhaus and Amanda Vizedom and Ken Baclawski and Mike Bennett and Mike Dean and Michael Denny and Michael Grüninger and Ali Hashemi and Terry Longstreth and Leo Obrst and Steve Ray and Ram Sriram and Todd Schneider and Marcela Vegetti and Matthew West and Peter Yim,2013,32,Applied Ontology
 10.3233/ao-140134,Place reference systems,Simon Scheider and Krzysztof Janowicz,2014,31,Applied Ontology
 10.3233/ao-2010-0075,A note on ontology localization,Philipp Cimiano and Elena Montiel-Ponsoda and Paul Buitelaar and Mauricio Espinoza and Asunción Gómez-Pérez,2010,15,Applied Ontology
-10.3233/ao-180202,An ontological analysis of drug prescriptions,Jean-François Ethier and Adrien Barton and Ryeyan Taseen,2018,3,Applied Ontology
+10.3233/ao-170174,"The European Legal Taxonomy Syllabus: A multi-lingual, multi-level ontology framework to untangle the web of European legal terminology",Gianmaria Ajani and Guido Boella and Luigi di Caro and Livio Robaldo and Llio Humphreys and Sabrina Praduroux and Piercarlo Rossi and Andrea Violato,2017,16,Applied Ontology
 10.3233/ao-170190,Ontohub: A semantic repository engine for heterogeneous ontologies,Mihai Codescu and Eugen Kuksa and Oliver Kutz and Till Mossakowski and Fabian Neuhaus,2017,14,Applied Ontology
-10.3233/ao-170175,Ontological distinctions between hardware and software,William D. Duncan,2017,5,Applied Ontology
+10.3233/ao-150160,Ten years of Applied Ontology,Nicola Guarino and Mark A. Musen,2015,9,Applied Ontology
+10.3233/ao-210246,Ontologies for information entities: State of the art and open challenges,Emilio M. Sanfilippo,2021,1,Applied Ontology
+10.3233/ao-180202,An ontological analysis of drug prescriptions,Jean-François Ethier and Adrien Barton and Ryeyan Taseen,2018,3,Applied Ontology
 10.3233/ao-210255,Ontologies in human–computer interaction: A systematic literature review,Simone Dornelas Costa and Monalessa Perini Barcellos and Ricardo de Almeida Falbo,2021,3,Applied Ontology
-10.3233/ao-220261,"Events, their names, and their synchronic structure",Nicola Guarino and Riccardo Baratella and Giancarlo Guizzardi,2022,3,Applied Ontology
-10.3233/ao-130125,Towards ontology evaluation across the life cycle,Fabian Neuhaus and Amanda Vizedom and Ken Baclawski and Mike Bennett and Mike Dean and Michael Denny and Michael Grüninger and Ali Hashemi and Terry Longstreth and Leo Obrst and Steve Ray and Ram Sriram and Todd Schneider and Marcela Vegetti and Matthew West and Peter Yim,2013,32,Applied Ontology
-10.3233/ao-2011-0100,An ontological approach to focusing attention and enhancing machine perception on the Web,Cory Henson and Krishnaprasad Thirunarayan and Amit Sheth,2011,13,Applied Ontology
-10.3233/ao-2010-0079,Ontological realism: A methodology for coordinated evolution of scientific ontologies,Barry Smith and Werner Ceusters,2010,113,Applied Ontology
-10.3233/ao-2008-0049,Ontological foundations for conceptual modelling,Giancarlo Guizzardi and Terry Halpin,2008,27,Applied Ontology
+10.3233/ao-200232,SAREF4health: Towards IoT standard-based ontology-driven cardiac e-health systems,João Moreira and Luís Ferreira Pires and Marten van Sinderen and Laura Daniele and Marc Girod-Genet,2020,7,Applied Ontology
 10.3233/ao-210251,A validation &amp; verification driven ontology: An iterative process,Angelina Espinoza and Ernesto Del-Moral and Alfonso Martínez-Martínez and Nour Alí,2021,1,Applied Ontology
+10.3233/ao-2010-0079,Ontological realism: A methodology for coordinated evolution of scientific ontologies,Barry Smith and Werner Ceusters,2010,113,Applied Ontology
+10.3233/ao-190208,ROMAIN: Towards a BFO compliant reference ontology for industrial maintenance,Mohamed Hedi Karray and Farhad Ameri and Melinda Hodkiewicz and Thierry Louge,2019,25,Applied Ontology
+10.3233/ao-220262,BFO: Basic Formal Ontology1,J. Neil Otte and John Beverley and Alan Ruttenberg,2022,6,Applied Ontology
+10.3233/ao-220261,"Events, their names, and their synchronic structure",Nicola Guarino and Riccardo Baratella and Giancarlo Guizzardi,2022,3,Applied Ontology
+10.3233/ao-150151,An empirically-based framework for ontology modularisation,Zubeida Casmod Khan and C. Maria Keet,2015,13,Applied Ontology
+10.3233/ao-150158,Ontology and database schema: What’s the difference?,Michael Uschold,2015,13,Applied Ontology
 10.3233/ao-220273,"Ontology development is consensus creation, not (merely) representation",Fabian Neuhaus and Janna Hastings,2022,0,Applied Ontology
 10.3233/ao-200237,Time is ripe to embrace the scientific approach in Applied Ontology,Stefano Borgo and Pascal Hitzler and Cogan Shimizu,2020,0,Applied Ontology
 10.3233/ao-2011-0101,An ontology for enterprise and information systems modelling,Andreas L. Opdahl and Giuseppe Berio and Mounira Harzallah and Raimundas Matulevičius,2012,17,Applied Ontology
 10.3233/ao-180200,Ontology Summit 2018 Communiqué: Contexts in context,Kenneth Baclawski and Mike Bennett and Gary Berg-Cross and Cory Casanave and Donna Fritzsche and Joanne Luciano and Todd Schneider and Ravi Sharma and Janet Singer and John Sowa and Ram D. Sriram and Andrea Westerinen and David Whitten,2018,8,Applied Ontology
 10.3233/ao-150153,Internet of things: Toward smart networked systems and societies,Mark Underwood and Michael Gruninger and Leo Obrst and Ken Baclawski and Mike Bennett and Gary Berg-Cross and Torsten Hahmann and Ram Sriram,2015,4,Applied Ontology
-10.3233/ao-180197,Ontological foundations for software requirements with a focus on requirements at runtime,Bruno Borlini Duarte and Andre Luiz de Castro Leal and Ricardo de Almeida Falbo and Giancarlo Guizzardi and Renata S.S. Guizzardi and Vítor E. Silva Souza,2018,12,Applied Ontology
 10.3233/ao-170178,Applied Ontology: A foreword by the new Editors-in-Chief,Roberta Ferrario and Michael Grüninger,2017,4,Applied Ontology
 10.3233/ao-140132,Measuring concept similarity in ontologies using weighted concept paths,Delia Rusu and Blaž Fortuna and Dunja Mladenić,2014,1,Applied Ontology
 10.3233/ao-2011-0085,On the ontology of functions,Stefano Borgo and Riichiro Mizoguchi and Barry Smith,2011,2,Applied Ontology
@@ -173,24 +173,25 @@ DOI,Título,Autores,Año,Citas,Revista
 10.3233/ao-140136,Axiomatic theories of the ontology of time in GFO,Ringo Baumann and Frank Loebe and Heinrich Herre,2014,12,Applied Ontology
 10.3233/ao-200230,Parthood and part–whole relations in Zulu language and culture,C. Maria Keet and Langa Khumalo,2020,0,Applied Ontology
 10.3233/ao-220266,Ontology Summit 2021 Communiqué: Ontology generation and harmonization,Ken Baclawski and Michael Bennett and Gary Berg-Cross and Leia Dickerson and Todd Schneider and Selja Seppälä and Ravi Sharma and Ram D. Sriram and Andrea Westerinen,2022,0,Applied Ontology
+10.3233/ao-140137,Technical artifacts: An integrated perspective,Stefano Borgo and Maarten Franssen and Paweł Garbacz and Yoshinobu Kitamura and Riichiro Mizoguchi and Pieter E. Vermaas,2014,22,Applied Ontology
+10.3233/ao-2008-0055,GFO-Bio: A biological core ontology,Robert Hoehndorf and Frank Loebe and Roberto Poli and Heinrich Herre and Janet Kelso,2008,14,Applied Ontology
 10.3233/ao-210254,BFO-based ontology enhancement to promote interoperability in BIM,Justine Flore Tchouanguem and Mohamed Hedi Karray and Bernard Kamsu Foguem and Camille Magniont and F. Henry Abanda and Barry Smith,2021,1,Applied Ontology
 10.3233/ao-180196,Finitist set theory in ontological modeling,Avril Styrman and Aapo Halko,2018,0,Applied Ontology
 10.3233/ao-190206,Causation: A functional perspective,Fumiaki Toyoshima and Riichiro Mizoguchi and Mitsuru Ikeda,2019,3,Applied Ontology
-10.3233/ao-2012-0115,Beyond terminologies: Using psychometrics to validate shared ontologies,Dirk van der Linden and Stijn Hoppenbrouwers and Alina Lartseva and Wolfgang Molnar,2012,7,Applied Ontology
-10.3233/ao-150139,Requirements engineering for the design of conceptual modeling languages,Sybren de Kinderen and Qin Ma,2015,12,Applied Ontology
+10.3233/ao-130123,Characterizing functions based on phase- and evolution-oriented models,Yoshinobu Kitamura and Riichiro Mizoguchi,2013,6,Applied Ontology
+10.3233/ao-160166,New perspectives on artifactual and biological functions,Marc Artiga,2016,6,Applied Ontology
 10.3233/ao-190205,Water features and their parts,Boyan Brodaric and Torsten Hahmann and Michael Gruninger,2019,8,Applied Ontology
 10.3233/ao-2012-0113,A type-theoretical approach for ontologies: The case of roles,Patrick Barlatier and Richard Dapoigny,2012,12,Applied Ontology
 10.3233/ao-200229,Aging Neuro-Behavior Ontology,Fernando Martínez-Santiago and M. Rosario García-Viedma and John A. Williams and Luke T. Slater and Georgios V. Gkoutos,2020,4,Applied Ontology
-10.3233/ao-170177,ROoST: Reference Ontology on Software Testing,Érica Ferreira de Souza and Ricardo de Almeida Falbo and Nandamudi Lankalapali Vijaykumar,2017,13,Applied Ontology
 10.3233/ao-180201,Modeling cultural heritage data for online publication,Chris Dijkshoorn and Lora Aroyo and Jacco van Ossenbruggen and Guus Schreiber,2018,7,Applied Ontology
-10.3233/ao-2012-0105,Towards ABox Modularization of semi-expressive Description Logics,Sebastian Wandelt and Ralf Möller,2012,10,Applied Ontology
 10.3233/ao-2011-0095,The identity of resources on the Web: An ontology for Web architecture,Harry Halpin and Valentina Presutti,2011,10,Applied Ontology
-10.3233/ao-2008-0055,GFO-Bio: A biological core ontology,Robert Hoehndorf and Frank Loebe and Roberto Poli and Heinrich Herre and Janet Kelso,2008,14,Applied Ontology
 10.3233/ao-2009-0069,A core ontology for requirements,Ivan J. Jureta and John Mylopoulos and Stéphane Faulkner,2009,30,Applied Ontology
-10.3233/ao-130123,Characterizing functions based on phase- and evolution-oriented models,Yoshinobu Kitamura and Riichiro Mizoguchi,2013,6,Applied Ontology
-10.3233/ao-210259,DOLCE: A descriptive ontology for linguistic and cognitive engineering1,Stefano Borgo and Roberta Ferrario and Aldo Gangemi and Nicola Guarino and Claudio Masolo and Daniele Porello and Emilio M. Sanfilippo and Laure Vieu,2022,10,Applied Ontology
-10.3233/ao-160166,New perspectives on artifactual and biological functions,Marc Artiga,2016,6,Applied Ontology
-10.3233/ao-140137,Technical artifacts: An integrated perspective,Stefano Borgo and Maarten Franssen and Paweł Garbacz and Yoshinobu Kitamura and Riichiro Mizoguchi and Pieter E. Vermaas,2014,22,Applied Ontology
+10.3233/ao-180197,Ontological foundations for software requirements with a focus on requirements at runtime,Bruno Borlini Duarte and Andre Luiz de Castro Leal and Ricardo de Almeida Falbo and Giancarlo Guizzardi and Renata S.S. Guizzardi and Vítor E. Silva Souza,2018,13,Applied Ontology
+10.3233/ao-170177,ROoST: Reference Ontology on Software Testing,Érica Ferreira de Souza and Ricardo de Almeida Falbo and Nandamudi Lankalapali Vijaykumar,2017,14,Applied Ontology
+10.3233/ao-2012-0115,Beyond terminologies: Using psychometrics to validate shared ontologies,Dirk van der Linden and Stijn Hoppenbrouwers and Alina Lartseva and Wolfgang Molnar,2012,7,Applied Ontology
+10.3233/ao-150139,Requirements engineering for the design of conceptual modeling languages,Sybren de Kinderen and Qin Ma,2015,12,Applied Ontology
+10.3233/ao-210259,DOLCE: A descriptive ontology for linguistic and cognitive engineering1,Stefano Borgo and Roberta Ferrario and Aldo Gangemi and Nicola Guarino and Claudio Masolo and Daniele Porello and Emilio M. Sanfilippo and Laure Vieu,2022,11,Applied Ontology
+10.3233/ao-2012-0105,Towards ABox Modularization of semi-expressive Description Logics,Sebastian Wandelt and Ralf Möller,2012,11,Applied Ontology
 10.3233/ao-200228,BiGe-Onto: An ontology-based system for managing biodiversity and biogeography data1,Marcos Zárate and Germán Braun and Pablo Fillottrani and Claudio Delrieux and Mirtha Lewis,2020,6,Applied Ontology
 10.3233/ao-2010-0080,"Realism and reference ontologies: Considerations, reflections and problems",Gary H. Merrill,2010,14,Applied Ontology
 10.3233/ao-200236,Modeling artificial agents’ actions in context – a deontic cognitive event ontology,Miroslav Vacura,2020,0,Applied Ontology
@@ -198,7 +199,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.3233/ao-2010-0072,The OAEI food task: An analysis of a thesaurus alignment task,Willem Robert van Hage and Margherita Sini and Lori Finch and Hap Kolb and Guus Schreiber,2010,5,Applied Ontology
 10.3233/ao-180199,The metatheory of ontology reuse,Megan Katsumi and Michael Grüninger,2018,1,Applied Ontology
 10.3233/ao-150149,"VetiVoc: A modular ontology for the fashion, textile and clothing domain",Xavier Aimé and Sophie George and Jeremy Hornung,2016,5,Applied Ontology
-10.3233/ao-2010-0078,A formal ontology of artefacts,Gilles Kassel,2010,27,Applied Ontology
 10.3233/ao-2012-0118,Relationships and relata in ontologies and thesauri: Differences and similarities,Daniel Kless and Simon Milton and Edmund Kazmierczak,2012,8,Applied Ontology
 10.3233/ao-170188,Framing ontology distinctions: An exploration,Mike Bennett,2017,1,Applied Ontology
 10.3233/ao-200231,"The FOUnt ontologies for quantities, units, and the physical world",Bahar Aameri and Carmen Chui and Michael Grüninger and Torsten Hahmann and Yi Ru,2020,2,Applied Ontology
@@ -213,8 +213,8 @@ DOI,Título,Autores,Año,Citas,Revista
 10.3233/ao-180195,"Formal ontology of space, time, and physical entities in classical mechanics",Thomas Bittner,2018,3,Applied Ontology
 10.3233/ao-170186,Semantic annotation of collaborative work environments,Kenneth Baclawski,2017,2,Applied Ontology
 10.3233/ao-230276,Towards a core ontology of organisational transformation,Silvia Bogea Gomes and Flavia Maria Santoro and Miguel Mira da Silva and Paulo Pinto and Giancarlo Guizzardi,2023,0,Applied Ontology
-10.3233/ao-2009-0061,Molecular interactions: On the ambiguity of ordinary statements in biomedical literature,Stefan Schulz and Ludger Jansen,2009,3,Applied Ontology
 10.3233/ao-130120,A metaontology for applied ontology,Pawel Garbacz and Robert Trypuz,2013,2,Applied Ontology
+10.3233/ao-2009-0061,Molecular interactions: On the ambiguity of ordinary statements in biomedical literature,Stefan Schulz and Ludger Jansen,2009,3,Applied Ontology
 10.3233/ao-200225,MODDALS methodology for designing layered ontology structures,Javier Cuenca and Félix Larrinaga and Edward Curry,2020,0,Applied Ontology
 10.3233/ao-2008-0057,BioTop: An upper domain ontology for the life sciences,Elena Beisswanger and Stefan Schulz and Holger Stenzhorn and Udo Hahn,2008,57,Applied Ontology
 10.3233/ao-140138,The MATHESIS meta-knowledge engineering framework: Ontology-driven development of intelligent tutoring systems,Dimitrios Sklavakis and Ioannis Refanidis,2014,6,Applied Ontology
@@ -222,14 +222,15 @@ DOI,Título,Autores,Año,Citas,Revista
 10.3233/ao-210247,Content extraction of historical Malay manuscripts based on Event Ontology Framework,M.N. Zahila and A. Noorhidawati and M.K. Yanti Idaya Aspura,2021,1,Applied Ontology
 10.3233/ao-190217,What to consider about events: A survey on the ontology of occurrents,Fabrício Henrique Rodrigues and Mara Abel,2019,8,Applied Ontology
 10.3233/ao-190221,Meaning in Context: Ontologically and linguistically motivated representations of objects and events,Valerio Basile and Tommaso Caselli and Daniele P. Radicioni,2019,2,Applied Ontology
+10.3233/ao-2008-0044,Representing and reasoning over a taxonomy of part–whole relations,C. Maria Keet and Alessandro Artale,2008,52,Applied Ontology
 10.3233/ao-2009-0063,Binding ontologies and coding systems to electronic health records and messages,A.L. Rector and R. Qamar and T. Marley,2009,51,Applied Ontology
 10.3233/ao-140135,Semantic Web and Big Data meets Applied Ontology,Leo Obrst and Michael Gruninger and Ken Baclawski and Mike Bennett and Dan Brickley and Gary Berg-Cross and Pascal Hitzler and Krzysztof Janowicz and Christine Kapp and Oliver Kutz and Christoph Lange and Anatoly Levenchuk and Francesca Quattri and Alan Rector and Todd Schneider and Simon Spero and Anne Thessen and Marcela Vegetti and Amanda Vizedom and Andrea Westerinen and Matthew West and Peter Yim,2014,26,Applied Ontology
+10.3233/ao-210256,UFO: Unified Foundational Ontology,Giancarlo Guizzardi and Alessander Botti Benevides and Claudenir M. Fonseca and Daniele Porello and João Paulo A. Almeida and Tiago Prince Sales,2022,13,Applied Ontology
 10.3233/ao-2012-0102,A core reference ontology for the customer relationship domain,Diego Magro and Anna Goy,2012,9,Applied Ontology
 10.3233/ao-2011-0089,Functions and fixed types: Biological and other functions in the post-adaptationist era,Ulrich Krohs,2011,8,Applied Ontology
 10.3233/ao-2011-0093,Is there beauty in ontologies?,Mathieu d'Aquin and Aldo Gangemi,2011,20,Applied Ontology
-10.3233/ao-150147,Causality and the ontology of disease,Robert J. Rovetto and Riichiro Mizoguchi,2015,12,Applied Ontology
-10.3233/ao-2008-0044,Representing and reasoning over a taxonomy of part–whole relations,C. Maria Keet and Alessandro Artale,2008,52,Applied Ontology
-10.3233/ao-210256,UFO: Unified Foundational Ontology,Giancarlo Guizzardi and Alessander Botti Benevides and Claudenir M. Fonseca and Daniele Porello and João Paulo A. Almeida and Tiago Prince Sales,2022,11,Applied Ontology
-10.3233/ao-150157,Towards ontological foundations for conceptual modeling: The unified foundational ontology (UFO) story,Giancarlo Guizzardi and Gerd Wagner and João Paulo Andrade Almeida and Renata S.S. Guizzardi,2015,107,Applied Ontology
 10.3233/ao-210242,Ontological modeling of manufacturing resources,Emilio M. Sanfilippo and Walter Terkaj and Stefano Borgo,2021,3,Applied Ontology
 10.3233/ao-160172,An ontology-based graph approach to support buildings design conformity with a given style,Grażyna Ślusarczyk and Barbara Strug and Karolina Stasiak,2017,4,Applied Ontology
+10.3233/ao-2010-0078,A formal ontology of artefacts,Gilles Kassel,2010,27,Applied Ontology
+10.3233/ao-150157,Towards ontological foundations for conceptual modeling: The unified foundational ontology (UFO) story,Giancarlo Guizzardi and Gerd Wagner and João Paulo Andrade Almeida and Renata S.S. Guizzardi,2015,107,Applied Ontology
+10.3233/ao-150147,Causality and the ontology of disease,Robert J. Rovetto and Riichiro Mizoguchi,2015,12,Applied Ontology

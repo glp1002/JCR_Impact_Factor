@@ -1,6 +1,5 @@
 DOI,Título,Autores,Año,Citas,Revista
 10.1109/tg.2018.2844945,Introducing IEEE Collabratec,,2018,0,IEEE Transactions on Games
-10.1109/tg.2021.3057288,An Empirical Study of Trends of Popular Virtual Reality Games and Their Complaints,Rain Epp and Dayi Lin and Cor-Paul Bezemer,2021,3,IEEE Transactions on Games
 10.1109/tg.2020.3014660,Bayesian Inference for Predicting the Monetization Percentage in Free-to-Play Games,Riikka Numminen and Markus Juhani Viljanen and Tapio Pahikkala,2022,0,IEEE Transactions on Games
 10.1109/tg.2018.2810464,IEEE Transactions on Computational Intelligence and AI in Games,,2018,0,IEEE Transactions on Games
 10.1109/tg.2018.2810466,IEEE Computational Intelligence Society,,2018,0,IEEE Transactions on Games
@@ -9,13 +8,14 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/tg.2020.3041916,IEEE Transactions on Games,,2020,0,IEEE Transactions on Games
 10.1109/tg.2020.3044428,TechRxiv: Share Your Preprint Research with the World!,,2020,0,IEEE Transactions on Games
 10.1109/tg.2020.2993746,IEEE Transactions on Games,,2020,0,IEEE Transactions on Games
+10.1109/tg.2019.2947597,Automated Video Game Testing Using Synthetic and Humanlike Agents,Sinan Ariyurek and Aysu Betin-Can and Elif Surer,2021,20,IEEE Transactions on Games
 10.1109/tg.2017.2783361,Procedural Generation of Game Maps With Human-in-the-Loop Algorithms,Levi H. S. Lelis and Willian M. P. Reis and Ya akov Gal,2018,6,IEEE Transactions on Games
+10.1109/tg.2023.3236065,Multi-attribute decision-making in wargames leveraging the Entropy-Weight method in conjunction with deep reinforcement learning,Yufan Xue and Yuxiang Sun and Jiawei Zhou and Lisha Peng and Xianzhong Zhou,2023,1,IEEE Transactions on Games
 10.1109/tg.2020.3012602,Static Rectangle Expansion A*Algorithm for Pathfinding,Li Chong and Li Jian and Liu XueQuan,2022,1,IEEE Transactions on Games
 10.1109/tciaig.2017.2766218,Tanager: A Generator of Feasible and Engaging Levels for &lt;italic&gt;Angry Birds&lt;/italic&gt;,Lucas Nascimento Ferreira and Claudio Fabiano Motta Toledo,2018,7,IEEE Transactions on Games
 10.1109/tg.2018.2844947,Become a published author in 4 to 6 weeks,,2018,0,IEEE Transactions on Games
 10.1109/tg.2021.3072417,Overtaking Uncertainty With Evolutionary TORCS Controllers: Combining BLX With Decreasing $\alpha$ Operator and Grand Prix Selection,Mohammed Salem and Antonio M. Mora and Juan Julian Merelo Guervos,2022,1,IEEE Transactions on Games
 10.1109/tg.2022.3173399,Explainable AI for Cheating Detection and Churn Prediction in Online Games,Jianrong Tao and Yu Xiong and Shiwei Zhao and Runze Wu and Xudong Shen and Tangjie Lyu and Changjie Fan and Zhipeng Hu and Sha Zhao and Gang Pan,2022,3,IEEE Transactions on Games
-10.1109/tg.2020.3008002,Exception-Tolerant Hierarchical Knowledge Bases for Forward Model Learning,Daan Apeldoorn and Alexander Dockhorn,2021,3,IEEE Transactions on Games
 10.1109/tg.2022.3177598,Dynamically Interrupting Deadlocks in Game Learning Using Multi-Sampling Multi-Armed Bandits,Rendong Chen and Fa Wu,2022,0,IEEE Transactions on Games
 10.1109/tg.2021.3069833,TOAD-GAN: A Flexible Framework for Few-Shot Level Generation in Token-Based Games,Frederik Schubert and Maren Awiszus and Bodo Rosenhahn,2022,2,IEEE Transactions on Games
 10.1109/tg.2022.3189426,Open-Ended Evolution for Minecraft Building Generation,Matthew Barthet and Antonios Liapis and Georgios N. Yannakakis,2022,0,IEEE Transactions on Games
@@ -32,7 +32,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/tg.2019.2954880,A Game Design Plot: Exploring the Educational Potential of History-Based Video Games,Farzan Baradaran Rahimi and Beaumie Kim and Richard M. Levy and Jeffrey E. Boyd,2020,5,IEEE Transactions on Games
 10.1109/tg.2020.2992858,Learning the Game of Go by Scalable Network Without Prior Knowledge of Komi,Bohong Yang and Lin Wang and Hong Lu and Youzhao Yang,2020,3,IEEE Transactions on Games
 10.1109/tg.2019.2943227,Balancing Turn-Based Games With Chained Strategy Generation,William Kavanagh and Alice Miller and Gethin Norman and Oana Andrei,2021,4,IEEE Transactions on Games
-10.1109/tg.2020.3022698,Enhanced Rolling Horizon Evolution Algorithm with Opponent Model Learning,Zhentao Tang and Yuanheng Zhu and Dongbin Zhao and Simon M. Lucas,2020,8,IEEE Transactions on Games
 10.1109/tg.2021.3094054,Trading Behind-the-Scene: Analysis of Online Gold Farming Network in the Auction House System,Yuseung Noh and Seonghoon Jeong and Huy Kang Kim,2022,0,IEEE Transactions on Games
 10.1109/tciaig.2017.2765599,From Mechanics to Meaning,Adam Summerville and Chris Martens and Sarah Harmon and Michael Mateas and Joseph Osborn and Noah Wardrip-Fruin and Arnav Jhala,2019,8,IEEE Transactions on Games
 10.1109/tciaig.2017.2706745,Symbolic Reasoning for &lt;italic&gt;Hearthstone&lt;/italic&gt;,Andreas Stiegler and Keshav P. Dahal and Johannes Maucher and Daniel Livingstone,2018,7,IEEE Transactions on Games
@@ -40,18 +39,19 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/tg.2023.3239795,Optimal Decision Strategies for the Generalized Cuckoo Card Game,Nicola Mignoni and Raffaele Carli and Mariagrazia Dotoli,2023,0,IEEE Transactions on Games
 10.1109/tg.2021.3134259,Deep Reinforcement Learning With Part-Aware Exploration Bonus in Video Games,Pei Xu and Qiyue Yin and Junge Zhang and Kaiqi Huang,2022,1,IEEE Transactions on Games
 10.1109/tg.2018.2849942,Learning to Navigate Through Complex Dynamic Environment With Modular Deep Reinforcement Learning,Yuanda Wang and Haibo He and Changyin Sun,2018,46,IEEE Transactions on Games
-10.1109/tg.2019.2947597,Automated Video Game Testing Using Synthetic and Humanlike Agents,Sinan Ariyurek and Aysu Betin-Can and Elif Surer,2021,18,IEEE Transactions on Games
 10.1109/tciaig.2017.2766980,Discovering Agent Behaviors Through Code Reuse: Examples From Half-Field Offense and Ms. Pac-Man,Stephen Kelly and Malcolm I. Heywood,2018,7,IEEE Transactions on Games
-10.1109/tg.2023.3236065,Multi-attribute decision-making in wargames leveraging the Entropy-Weight method in conjunction with deep reinforcement learning,Yufan Xue and Yuxiang Sun and Jiawei Zhou and Lisha Peng and Xianzhong Zhou,2023,0,IEEE Transactions on Games
-10.1109/tciaig.2017.2651887,"Mastering 2048 With Delayed Temporal Coherence Learning, Multistage Weight Promotion, Redundant Encoding, and Carousel Shaping",Wojciech Jaskowski,2018,14,IEEE Transactions on Games
+10.1109/tg.2020.3008002,Exception-Tolerant Hierarchical Knowledge Bases for Forward Model Learning,Daan Apeldoorn and Alexander Dockhorn,2021,3,IEEE Transactions on Games
 10.1109/tg.2018.2794419,Modeling Users' Collaborative Behavior With a Serious Game,Franco D. Berdun and Marcelo G. Armentano,2019,5,IEEE Transactions on Games
 10.1109/tg.2019.2961836,Avatars of a Feather Flock Together: Gender Homophily in Online Video Games Revealed via Exponential Random Graph Modeling,Shiyu Zhang and Sander Bakkes and Diederik Roijers and Pieter Spronck,2020,1,IEEE Transactions on Games
+10.1109/tciaig.2017.2651887,"Mastering 2048 With Delayed Temporal Coherence Learning, Multistage Weight Promotion, Redundant Encoding, and Carousel Shaping",Wojciech Jaskowski,2018,15,IEEE Transactions on Games
+10.1109/tg.2021.3057288,An Empirical Study of Trends of Popular Virtual Reality Games and Their Complaints,Rain Epp and Dayi Lin and Cor-Paul Bezemer,2021,3,IEEE Transactions on Games
 10.1109/tciaig.2017.2727642,Playtime Measurement With Survival Analysis,Markus Viljanen and Antti Airola and Jukka Heikkonen and Tapio Pahikkala,2018,21,IEEE Transactions on Games
+10.1109/tg.2023.3264457,Preference-Learning Emitters for Mixed-Initiative Quality-Diversity Algorithms,Roberto Gallotta and Kai Arulkumaran and L. B. Soros,2023,0,IEEE Transactions on Games
+10.1109/tg.2020.3022698,Enhanced Rolling Horizon Evolution Algorithm With Opponent Model Learning: Results for the Fighting Game AI Competition,Zhentao Tang and Yuanheng Zhu and Dongbin Zhao and Simon M. Lucas,2023,8,IEEE Transactions on Games
 10.1109/tg.2022.3151025,Transfer Dynamics in Emergent Evolutionary Curricula,Aaron Dharna and Amy K. Hoover and Julian Togelius and Lisa Soros,2022,0,IEEE Transactions on Games
 10.1109/tg.2021.3082960,IEEE Computational Intelligence Society,,2021,0,IEEE Transactions on Games
 10.1109/tg.2020.3030742,Deep Learning Techniques for Explainable Resource Scales in Collectible Card Games,Gianlucca Zuin and Luiz Chaimowicz and Adriano Veloso,2022,2,IEEE Transactions on Games
 10.1109/tg.2021.3078323,Danesh: Interactive Tools for Understanding Procedural Content Generators,Michael Cook and Jeremy Gow and Gillian Smith and Simon Colton,2022,0,IEEE Transactions on Games
-10.1109/tg.2022.3171908,Rinascimento: Playing Splendor-like Games with Event-value Functions,Ivan Bravi and Simon M. Lucas,2022,0,IEEE Transactions on Games
 10.1109/tg.2017.2785042,Move Prediction Using Deep Convolutional Neural Networks in &lt;italic&gt;Hex&lt;/italic&gt;,Chao Gao and Ryan Hayward and Martin Muller,2018,8,IEEE Transactions on Games
 10.1109/tg.2019.2894532,“Are You Playing a Shooter Again?!” Deep Representation Learning for Audio-Based Video Game Genre Recognition,Shahin Amiriparian and Nicholas Cummins and Maurice Gerczuk and Sergey Pugachevskiy and Sandra Ottl and Bjorn Schuller,2020,10,IEEE Transactions on Games
 10.1109/tg.2018.2835764,Emulating Human Play in a Leading Mobile Card Game,Hendrik Baier and Adam Sattaur and Edward J. Powley and Sam Devlin and Jeff Rollason and Peter I. Cowling,2019,9,IEEE Transactions on Games
@@ -82,7 +82,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/tg.2019.2900683,IEEE Transactions on Games,,2019,0,IEEE Transactions on Games
 10.1109/tg.2022.3166874,Turing Completeness and &lt;i&gt;Sid Meier's Civilization&lt;/i&gt;,Adrian De Wynter,2022,0,IEEE Transactions on Games
 10.1109/tg.2019.2903377,Guest Editorial Special Issue on AI-Based and AI-Assisted Game Design,,2019,2,IEEE Transactions on Games
-10.1109/tg.2018.2871185,Pacman Capture the Flag in AI Courses,Nir Lipovetzky and Sebastian Sardina,2019,1,IEEE Transactions on Games
 10.1109/tg.2020.3025042,Investigating the Relation Between Playing Style and National Culture,Yaser Norouzzadeh Ravari and Lars Strijbos and Pieter Spronck,2022,0,IEEE Transactions on Games
 10.1109/tg.2018.2880953,Construction of Strongly Mutually Distinct Sudoku Tables and Solid Sudoku Cubes by Cyclotomic Cosets,Mehrab Najafian and Mohammad Hesam Tadayon and Morteza Esmaeili,2020,3,IEEE Transactions on Games
 10.1109/tg.2019.2957733,Procedural Generation of Multistory Buildings With Interior,Jonas Freiknecht and Wolfgang Effelsberg,2020,2,IEEE Transactions on Games
@@ -92,13 +91,11 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/tg.2022.3225731,Guest Editorial Special Issue on User Experience of AI in Games,Henrik Warpefelt and Christoph Salge and Mirjam Palosaari Eladhari and Magy Seif El-Nasr and Jichen Zhu,2022,0,IEEE Transactions on Games
 10.1109/tg.2021.3062436,2021 IEEE Conference on Games,,2021,0,IEEE Transactions on Games
 10.1109/tg.2022.3156246,Table of Contents,,2022,0,IEEE Transactions on Games
-10.1109/tg.2022.3170730,Hybrid Encoding For Generating Large Scale Game Level Patterns With Local Variations,Jacob Schrum and Benjamin Capps and Kirby Steckel and Vanessa Volz and Sebastian Risi,2022,0,IEEE Transactions on Games
 10.1109/tg.2021.3082956,Table of Contents,,2021,0,IEEE Transactions on Games
 10.1109/tg.2021.3060839,Table of Contents,,2021,1,IEEE Transactions on Games
-10.1109/tg.2022.3159704,"Predicting Events in MOBA Games: Prediction, Attribution, and Evaluation",Zelong Yang and Yan Wang and Piji Li and Shaobin Lin and Shuming Shi and Shao-Lun Huang and Wei Bi,2022,1,IEEE Transactions on Games
 10.1109/tg.2022.3228401,Go-Explore Complex 3D Game Environments for Automated Reachability Testing,Cong Lu and Raluca Georgescu and Johan Verwey,2022,0,IEEE Transactions on Games
-10.1109/tg.2018.2882899,Guest Editorial Special Issue on Deep/Reinforcement Learning and Games,,2018,3,IEEE Transactions on Games
 10.1109/tg.2020.3006053,Impact of Visual and Sound Orchestration on Physiological Arousal and Tension in a Horror Game,Sarra Graja and Phil Lopes and Guillaume Chanel,2021,4,IEEE Transactions on Games
+10.1109/tg.2018.2877047,ViZDoom Competitions: Playing Doom From Pixels,Marek Wydmuch and Michal Kempka and Wojciech Jaskowski,2019,28,IEEE Transactions on Games
 10.1109/tg.2021.3066245,Learning the Rules of the Game: An Interpretable AI for Learning How to Play,Jared L. Aurentz and Adrian Martinez Navarro and David Rios Insua,2022,0,IEEE Transactions on Games
 10.1109/tg.2020.3024829,Utilizing Players’ Playtime Records for Churn Prediction: Mining Playtime Regularity,Wanshan Yang and Ting Huang and Junlin Zeng and Lijun Chen and Shivakant Mishra and Youjian Eugene Liu,2022,2,IEEE Transactions on Games
 10.1109/tg.2022.3202050,Table of Contents,,2022,0,IEEE Transactions on Games
@@ -106,27 +103,35 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/tg.2022.3216582,Procedural Generation of Narrative Worlds,J. Timothy Balint and Rafael Bidarra,2022,3,IEEE Transactions on Games
 10.1109/tg.2022.3143800,Toward Designer Modeling Through Design Style Clustering,Alberto Alvarez and Jose Font and Julian Togelius,2022,0,IEEE Transactions on Games
 10.1109/tg.2022.3142954,Neural Correlates of Cognitive Load While Playing an Emergency Simulation Game: A Functional Near-Infrared Spectroscopy (fNIRS) Study,Natalia Sevcenko and Betti Schopp and Thomas Dresler and Ann-Christine Ehlis and Manuel Ninaus and Korbinian Moeller and Peter Gerjets,2022,0,IEEE Transactions on Games
-10.1109/tg.2018.2808525,Serious Games for Training Social Skills in Job Interviews,Patrick Gebhard and Tanja Schneeberger and Elisabeth Andre and Tobias Baur and Ionut Damian and Gregor Mehlmann and Cornelius Konig and Markus Langer,2019,11,IEEE Transactions on Games
-10.1109/tg.2018.2808198,Automated Playtesting With Procedural Personas Through MCTS With Evolved Heuristics,Christoffer Holmgard and Michael Cerny Green and Antonios Liapis and Julian Togelius,2019,34,IEEE Transactions on Games
-10.1109/tg.2017.2782846,Building a Planner: A Survey of Planning Systems Used in Commercial Video Games,Xenija Neufeld and Sanaz Mostaghim and Dario L. Sancho-Pradel and Sandy Brand,2019,2,IEEE Transactions on Games
 10.1109/tg.2018.2854896,The 2017 AIBIRDS Level Generation Competition,Matthew Stephenson and Jochen Renz and Xiaoyu Ge and Lucas Ferreira and Julian Togelius and Peng Zhang,2019,7,IEEE Transactions on Games
 10.1109/tg.2021.3116077,"Gender, Gaming Motives, and Genre: Comparing Singaporean, German, and American Players",Rabindra Ratan and Vivian Chen and Frederik De Grove and Johannes Breuer and Thorsten Quandt and Patrick Williams,2022,3,IEEE Transactions on Games
-10.1109/tg.2017.2771831,Trained Behavior Trees: Programming by Demonstration to Support AI Game Designers,Ismael Sagredo-Olivenza and Pedro Pablo Gomez-Martin and Marco Antonio Gomez-Martin and Pedro Antonio Gonzalez-Calero,2019,19,IEEE Transactions on Games
-10.1109/tg.2019.2948469,Win Prediction in Multiplayer Esports: Live Professional Match Prediction,Victoria J. Hodge and Sam Devlin and Nick Sephton and Florian Block and Peter I. Cowling and Anders Drachen,2021,20,IEEE Transactions on Games
-10.1109/tg.2020.2992282,Prediction of Player Churn and Disengagement Based on User Activity Data of a Freemium Online Strategy Game,Karsten Rothmeier and Nicolas Pflanzl and Joschka A. Hullmann and Mike Preuss,2021,9,IEEE Transactions on Games
 10.1109/tciaig.2017.2743341,Multimodal Student Engagement Recognition in Prosocial Games,Athanasios Psaltis and Konstantinos C. Apostolakis and Kosmas Dimitropoulos and Petros Daras,2018,24,IEEE Transactions on Games
-10.1109/tg.2018.2877047,ViZDoom Competitions: Playing Doom From Pixels,Marek Wydmuch and Michal Kempka and Wojciech Jaskowski,2019,25,IEEE Transactions on Games
+10.1109/tg.2019.2948469,Win Prediction in Multiplayer Esports: Live Professional Match Prediction,Victoria J. Hodge and Sam Devlin and Nick Sephton and Florian Block and Peter I. Cowling and Anders Drachen,2021,20,IEEE Transactions on Games
 10.1109/tg.2019.2896017,The Text-Based Adventure AI Competition,Timothy Atkinson and Hendrik Baier and Tara Copplestone and Sam Devlin and Jerry Swan,2019,7,IEEE Transactions on Games
-10.1109/tg.2018.2844121,Recommender System for Items in Dota 2,Wenli Looi and Manmeet Dhaliwal and Reda Alhajj and Jon Rokne,2019,11,IEEE Transactions on Games
 10.1109/tg.2018.2852806,Multilabeled Value Networks for Computer Go,Ti-Rong Wu and I-Chen Wu and Guan-Wun Chen and Ting-Han Wei and Hung-Chun Wu and Tung-Yi Lai and Li-Cheng Lan,2018,4,IEEE Transactions on Games
 10.1109/tg.2018.2883773,"Dual Indicators to Analyze AI Benchmarks: Difficulty, Discrimination, Ability, and Generality",Fernando Martinez-Plumed and Jose Hernandez-Orallo,2020,6,IEEE Transactions on Games
-10.1109/tg.2019.2901021,"General Video Game AI: A Multitrack Framework for Evaluating Agents, Games, and Content Generation Algorithms",Diego Perez-Liebana and Jialin Liu and Ahmed Khalifa and Raluca D. Gaina and Julian Togelius and Simon M. Lucas,2019,52,IEEE Transactions on Games
+10.1109/tg.2020.2992282,Prediction of Player Churn and Disengagement Based on User Activity Data of a Freemium Online Strategy Game,Karsten Rothmeier and Nicolas Pflanzl and Joschka A. Hullmann and Mike Preuss,2021,9,IEEE Transactions on Games
+10.1109/tg.2018.2871185,Pacman Capture the Flag in AI Courses,Nir Lipovetzky and Sebastian Sardina,2019,2,IEEE Transactions on Games
+10.1109/tg.2023.3263536,A Local-Pattern Related Look-Up Table,Chung-Chin Shih and Ting Han Wei and Ti-Rong Wu and I-Chen Wu,2023,0,IEEE Transactions on Games
+10.1109/tg.2019.2901021,"General Video Game AI: A Multitrack Framework for Evaluating Agents, Games, and Content Generation Algorithms",Diego Perez-Liebana and Jialin Liu and Ahmed Khalifa and Raluca D. Gaina and Julian Togelius and Simon M. Lucas,2019,54,IEEE Transactions on Games
+10.1109/tg.2018.2808198,Automated Playtesting With Procedural Personas Through MCTS With Evolved Heuristics,Christoffer Holmgard and Michael Cerny Green and Antonios Liapis and Julian Togelius,2019,36,IEEE Transactions on Games
 10.1109/tg.2018.2816806,Learning of Behavior Trees for Autonomous Agents,Michele Colledanchise and Ramviyas Parasuraman and Petter Ogren,2019,25,IEEE Transactions on Games
+10.1109/tg.2023.3254680,IEEE Transactions on Games Information for Authors,,2023,0,IEEE Transactions on Games
+10.1109/tg.2023.3250061,IEEE Computational Intelligence Society Information,,2023,0,IEEE Transactions on Games
+10.1109/tg.2023.3250063,IEEE Transactions on Games Publication Information,,2023,0,IEEE Transactions on Games
+10.1109/tg.2023.3258840,Promoting Healthy Behaviors Through an RPG Videogame: an Elaboration Likelihood Model Based Approach,Claudio Rubio and Ismael Gallardo and Felipe Besoain,2023,0,IEEE Transactions on Games
+10.1109/tg.2018.2882899,Guest Editorial Special Issue on Deep/Reinforcement Learning and Games,,2018,3,IEEE Transactions on Games
+10.1109/tg.2017.2782846,Building a Planner: A Survey of Planning Systems Used in Commercial Video Games,Xenija Neufeld and Sanaz Mostaghim and Dario L. Sancho-Pradel and Sandy Brand,2019,3,IEEE Transactions on Games
+10.1109/tg.2017.2771831,Trained Behavior Trees: Programming by Demonstration to Support AI Game Designers,Ismael Sagredo-Olivenza and Pedro Pablo Gomez-Martin and Marco Antonio Gomez-Martin and Pedro Antonio Gonzalez-Calero,2019,20,IEEE Transactions on Games
+10.1109/tg.2023.3262507,Recent Advances in Procedural Generation of Buildings: From Diversity to Integration,Damian Kutzias and Sebastian von Mammen,2023,0,IEEE Transactions on Games
+10.1109/tg.2018.2808525,Serious Games for Training Social Skills in Job Interviews,Patrick Gebhard and Tanja Schneeberger and Elisabeth Andre and Tobias Baur and Ionut Damian and Gregor Mehlmann and Cornelius Konig and Markus Langer,2019,12,IEEE Transactions on Games
+10.1109/tg.2018.2844121,Recommender System for Items in Dota 2,Wenli Looi and Manmeet Dhaliwal and Reda Alhajj and Jon Rokne,2019,11,IEEE Transactions on Games
+10.1109/tg.2022.3159704,"Predicting Events in MOBA Games: Prediction, Attribution, and Evaluation",Zelong Yang and Yan Wang and Piji Li and Shaobin Lin and Shuming Shi and Shao-Lun Huang and Wei Bi,2022,2,IEEE Transactions on Games
+10.1109/tg.2022.3171908,Rinascimento: Playing Splendor-Like Games With Event-Value Functions,Ivan Bravi and Simon Lucas,2023,0,IEEE Transactions on Games
+10.1109/tg.2022.3170730,Hybrid Encoding for Generating Large Scale Game Level Patterns With Local Variations,Jacob Schrum and Benjamin Capps and Kirby Steckel and Vanessa Volz and Sebastian Risi,2023,0,IEEE Transactions on Games
 10.1109/tg.2022.3167728,Dungeons &amp; Replicants II: Automated Game Balancing Across Multiple Difficulty Dimensions via Deep Player Behavior Modeling,Johannes Pfau and Antonios Liapis and Georgios N. Yannakakis and Rainer Malaka,2022,2,IEEE Transactions on Games
 10.1109/tg.2022.3165882,Playtesting: What is Beyond Personas,Sinan Ariyurek and Elif Surer and Aysu Betin-Can,2022,0,IEEE Transactions on Games
-10.1109/tg.2020.3025003,Increasing Engagement With Engineering Escape Rooms,Robert Ross and Artemisia Bennett,2022,5,IEEE Transactions on Games
 10.1109/tg.2020.3033437,User-Centered Design of a Scenario-Based Serious Game: Game-Based Teaching of Future Healthcare,Renee Schulz and Berglind Smaradottir and Andreas Prinz and Takahiro Hara,2020,1,IEEE Transactions on Games
-10.1109/tg.2023.3251663,A Quantum Adaptation for the Morra Game and some of its Variants,Antonio Costantino Marceddu and Bartolomeo Montrucchio,2023,0,IEEE Transactions on Games
 10.1109/tg.2018.2830746,Multiobjective Evolutionary Map Design for Cube 2: Sauerbraten,Daniele Loiacono and Luca Arnaboldi,2019,5,IEEE Transactions on Games
 10.1109/tg.2020.3042425,Guest Editorial: Special Issue on Serious Games for Health,Duarte Duque and Joao L. Vilaca and Marjorie A. Zielke and Nuno Dias and Nuno F. Rodrigues and Ruck Thawonmas,2020,1,IEEE Transactions on Games
 10.1109/tg.2022.3156250,IEEE Computational Intelligence Society,,2022,0,IEEE Transactions on Games
@@ -140,30 +145,38 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/tg.2019.2963108,GAMEREHAB@HOME: A New Engineering System Using Serious Game and Multisensor Fusion for Functional Rehabilitation at Home,Halim Tannous and Dan Istrate and Anaick Perrochon and Jean-Christophe Daviet and Aziz Benlarbi-Delai and Julien Sarrazin and Marie-Christine Ho Ba Tho and Tien Tuan Dao,2021,4,IEEE Transactions on Games
 10.1109/tg.2018.2869192,Information for Authors,,2018,0,IEEE Transactions on Games
 10.1109/tg.2018.2842344,IEEE Computational Intelligence Society,,2018,0,IEEE Transactions on Games
+10.1109/tg.2022.3227220,Personality and Emotion in Strong-Story Narrative Planning,Alireza Shirvani and Stephen G. Ware and Lewis J. Baker,2022,0,IEEE Transactions on Games
 10.1109/tg.2021.3084265,TechRxiv: Share Your Preprint Research with the World!,,2021,0,IEEE Transactions on Games
+10.1109/tg.2020.3025003,Increasing Engagement With Engineering Escape Rooms,Robert Ross and Artemisia Bennett,2022,5,IEEE Transactions on Games
 10.1109/tg.2018.2882717,Table of Contents,,2018,0,IEEE Transactions on Games
 10.1109/tg.2022.3156255,Connect. Support. Inspire,,2022,0,IEEE Transactions on Games
 10.1109/tg.2021.3097071,Fighting-Game Gameplay Generation Using Highlight Cues,Ryota Ishii and Keita Fujimaki and Ruck Thawonmas,2022,0,IEEE Transactions on Games
 10.1109/tg.2022.3164242,Reinforcement Learning with Dual-Observation for General Video Game Playing,Chengpeng Hu and Ziqi Wang and Tianye Shu and Hao Tong and Julian Togelius and Xin Yao and Jialin Liu,2022,0,IEEE Transactions on Games
 10.1109/tg.2018.2869188,IEEE Transactions on Computational Intelligence and AI in Games,,2018,0,IEEE Transactions on Games
 10.1109/tg.2021.3082909,Multi-Armed Bandits for Minesweeper: Profiting From Exploration–Exploitation Synergy,Igor Q. Lordeiro and Diego B. Haddad and Douglas O. Cardoso,2022,1,IEEE Transactions on Games
+10.1109/tg.2023.3263001,Infrared-Visible Synthetic Data from Game Engine for Image Fusion Improvement,Xinjie Gu and Gang Liu and Xiangbo Zhang and Lili Tang and Xihong Zhou and Weifang Qiu,2023,0,IEEE Transactions on Games
+10.1109/tg.2019.2896986,Deep Learning for Video Game Playing,Niels Justesen and Philip Bontrager and Julian Togelius and Sebastian Risi,2020,72,IEEE Transactions on Games
 10.1109/tg.2020.3023756,On Solving Link-a-Pix Picture Puzzles,Sanghai Guan and Jingjing Wang and Zhengru Fang and Yong Ren,2021,0,IEEE Transactions on Games
-10.1109/tg.2020.2995370,Are Exergames Exercise? A Scoping Review of the Short-Term Effects of Exertion Games,Joe Marshall and Conor Linehan,2021,5,IEEE Transactions on Games
 10.1109/tg.2020.3020015,On the Robustness of Stealth Assessment,Konstantinos Georgiadis and Giel van Lankveld and Kiavash Bahreini and Wim Westera,2021,4,IEEE Transactions on Games
 10.1109/tg.2021.3060845,Information for Authors,,2021,0,IEEE Transactions on Games
 10.1109/tg.2021.3130389,Table of Contents,,2021,0,IEEE Transactions on Games
 10.1109/tg.2021.3130393,IEEE Computational Intelligence Society,,2021,0,IEEE Transactions on Games
 10.1109/tg.2021.3133555,Give a Gift of an IEEE Membership,,2021,0,IEEE Transactions on Games
+10.1109/tg.2023.3251663,A Quantum Adaptation for the Morra Game and some of its Variants,Antonio Costantino Marceddu and Bartolomeo Montrucchio,2023,0,IEEE Transactions on Games
 10.1109/tg.2021.3082958,IEEE Transactions on Games,,2021,0,IEEE Transactions on Games
 10.1109/tg.2018.2842346,Information for Authors,,2018,0,IEEE Transactions on Games
 10.1109/tg.2022.3164470,Improving Deep Reinforcement Learning with Mirror Loss,Jian Zhao and Weide Shu and Youpeng Zhao and Wengang Zhou and Houqiang Li,2022,0,IEEE Transactions on Games
 10.1109/tg.2020.3036687,Solving Nonograms Using Integer Programming Without Coloring,Kamil A. Khan,2022,1,IEEE Transactions on Games
 10.1109/tg.2019.2928795,Does Winning or Losing Change Players’ Engagement in Competitive Games? Experiments in Virtual Reality,Roni Barak Ventura and Samuel Richmond and Matthieu Nadini and Shinnosuke Nakayama and Maurizio Porfiri,2021,9,IEEE Transactions on Games
+10.1109/tg.2021.3072241,Designing Game Feel: A Survey,Martin Pichlmair and Mads Johansen,2022,4,IEEE Transactions on Games
 10.1109/tg.2022.3176849,“Bad Vibrations”: Sensing Toxicity From In-Game Audio Features,Elizabeth Reid and Regan L. Mandryk and Nicole A. Beres and Madison Klarkowski and Julian Frommel,2022,0,IEEE Transactions on Games
 10.1109/tg.2021.3138561,Visualizing Multiplayer Game Spaces,James Goodman and Diego Perez-Liebana and Simon Lucas,2022,1,IEEE Transactions on Games
 10.1109/tg.2022.3176215,On Mixed-Initiative Content Creation for Video Games,Gorm Lai and Frederic Fol Leymarie and William Latham,2022,0,IEEE Transactions on Games
 10.1109/tg.2019.2923223,The Influence of Social Ties on Performance in Team-Based Online Games,Yilei Zeng and Anna Sapienza and Emilio Ferrara,2021,2,IEEE Transactions on Games
 10.1109/tg.2022.3176066,Table of Contents,,2022,0,IEEE Transactions on Games
+10.1109/tg.2020.2995370,Are Exergames Exercise? A Scoping Review of the Short-Term Effects of Exertion Games,Joe Marshall and Conor Linehan,2021,6,IEEE Transactions on Games
+10.1109/tg.2019.2899159,Crawling in Rogue's Dungeons With Deep Reinforcement Techniques,Andrea Asperti and Daniele Cortesi and Carlo De Pieri and Gianmaria Pedrini and Francesco Sovrano,2020,3,IEEE Transactions on Games
+10.1109/tg.2019.2921979,Adaptive Music Composition for Games,Patrick Edward Hutchings and Jon McCormack,2020,9,IEEE Transactions on Games
 10.1109/tg.2022.3223926,MDou: Accelerating DouDiZhu Self-Play Learning Using Monte-Carlo Method With Minimum Split Pruning and a Single Q-Network,Qian Luo and Tien-Ping Tan and Yi Su and Zhanggen Jin,2022,0,IEEE Transactions on Games
 10.1109/tg.2018.2861759,Exploration in NetHack With Secret Discovery,Jonathan Campbell and Clark Verbrugge,2019,0,IEEE Transactions on Games
 10.1109/tg.2019.2956428,IEEE Computational Intelligence Society,,2019,0,IEEE Transactions on Games
@@ -171,46 +184,42 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/tg.2019.2939692,IEEE Transactions on Games,,2019,0,IEEE Transactions on Games
 10.1109/tg.2019.2912051,IEEE Computational Intelligence Society,,2019,0,IEEE Transactions on Games
 10.1109/tg.2021.3060005,Conceptual Game Expansion,Matthew Guzdial and Mark O. Riedl,2022,2,IEEE Transactions on Games
-10.1109/tg.2019.2899159,Crawling in Rogue's Dungeons With Deep Reinforcement Techniques,Andrea Asperti and Daniele Cortesi and Carlo De Pieri and Gianmaria Pedrini and Francesco Sovrano,2020,3,IEEE Transactions on Games
 10.1109/tciaig.2017.2738156,Playing Multiaction Adversarial Games: Online Evolutionary Planning Versus Tree Search,Niels Justesen and Tobias Mahlmann and Sebastian Risi and Julian Togelius,2018,10,IEEE Transactions on Games
 10.1109/tg.2022.3202054,IEEE Computational Intelligence Society Information,,2022,0,IEEE Transactions on Games
-10.1109/tg.2022.3227220,Personality and Emotion in Strong-Story Narrative Planning,Alireza Shirvani and Stephen G. Ware and Lewis J. Baker,2022,0,IEEE Transactions on Games
+10.1109/tg.2018.2871215,Profit Optimizing Churn Prediction for Long-Term Loyal Customers in Online Games,Eunjo Lee and Boram Kim and Sungwook Kang and Byungsoo Kang and Yoonjae Jang and Huy Kang Kim,2020,14,IEEE Transactions on Games
+10.1109/tg.2019.2957963,A Comparison of Mobile VR Display Running on an Ordinary Smartphone With Standard PC Display for P300-BCI Stimulus Presentation,Gregoire Hugues Cattan and Anton Andreev and Cesar Mendoza and Marco Congedo,2021,7,IEEE Transactions on Games
 10.1109/tg.2021.3068360,SuSketch: Surrogate Models of Gameplay as a Design Assistant,Panagiotis Migkotzidis and Antonios Liapis,2022,4,IEEE Transactions on Games
+10.1109/tg.2018.2883661,Toward Personalized Adaptive Gamification: A Machine Learning Model for Predicting Performance,Christian Lopez and Conrad Tucker,2020,19,IEEE Transactions on Games
 10.1109/tg.2021.3067114,RFM-LIR Feature Framework for Churn Prediction in the Mobile Games Market,Ana Perisic and Marko Pahor,2022,2,IEEE Transactions on Games
 10.1109/tg.2023.3242217,A Dive into the State of the Practice of the Brazilian Game Software Ecosystem,Bruno Xavier and Davi Viana and Rodrigo Santos,2023,0,IEEE Transactions on Games
 10.1109/tg.2018.2870876,Orchestrating Game Generation,Antonios Liapis and Georgios N. Yannakakis and Mark J. Nelson and Mike Preuss and Rafael Bidarra,2019,28,IEEE Transactions on Games
 10.1109/tciaig.2017.2678759,Authoring Adaptive Game World Generation,Ricardo Lopes and Elmar Eisemann and Rafael Bidarra,2018,8,IEEE Transactions on Games
-10.1109/tg.2018.2884768,Self-Adaptive Monte Carlo Tree Search in General Game Playing,Chiara F. Sironi and Jialin Liu and Mark H. M. Winands,2020,8,IEEE Transactions on Games
 10.1109/tg.2019.2893343,Reinforcement Learning to Create Value and Policy Functions Using Minimax Tree Search in Hex,Kei Takada and Hiroyuki Iizuka and Masahito Yamamoto,2020,3,IEEE Transactions on Games
 10.1109/tciaig.2017.2722235,Informed Hybrid Game Tree Search for General Video Game Playing,Tobias Joppen and Miriam Ulrike Moneke and Nils Schroder and Christian Wirth and Johannes Furnkranz,2018,11,IEEE Transactions on Games
-10.1109/tg.2019.2921979,Adaptive Music Composition for Games,Patrick Edward Hutchings and Jon McCormack,2020,7,IEEE Transactions on Games
-10.1109/tg.2021.3072241,Designing Game Feel: A Survey,Martin Pichlmair and Mads Johansen,2022,4,IEEE Transactions on Games
-10.1109/tg.2018.2883661,Toward Personalized Adaptive Gamification: A Machine Learning Model for Predicting Performance,Christian Lopez and Conrad Tucker,2020,19,IEEE Transactions on Games
-10.1109/tg.2021.3065410,AI World Cup: Robot-Soccer-Based Competitions,Chansol Hong and Inbae Jeong and Luiz Felipe Vecchietti and Dongsoo Har and Jong-Hwan Kim,2021,7,IEEE Transactions on Games
-10.1109/tg.2019.2896986,Deep Learning for Video Game Playing,Niels Justesen and Philip Bontrager and Julian Togelius and Sebastian Risi,2020,69,IEEE Transactions on Games
-10.1109/tg.2018.2846639,Procedural Content Generation via Machine Learning (PCGML),Adam Summerville and Sam Snodgrass and Matthew Guzdial and Christoffer Holmgard and Amy K. Hoover and Aaron Isaksen and Andy Nealen and Julian Togelius,2018,136,IEEE Transactions on Games
-10.1109/tg.2018.2871215,Profit Optimizing Churn Prediction for Long-Term Loyal Customers in Online Games,Eunjo Lee and Boram Kim and Sungwook Kang and Byungsoo Kang and Yoonjae Jang and Huy Kang Kim,2020,14,IEEE Transactions on Games
-10.1109/tg.2019.2957963,A Comparison of Mobile VR Display Running on an Ordinary Smartphone With Standard PC Display for P300-BCI Stimulus Presentation,Gregoire Hugues Cattan and Anton Andreev and Cesar Mendoza and Marco Congedo,2021,7,IEEE Transactions on Games
+10.1109/tg.2018.2884768,Self-Adaptive Monte Carlo Tree Search in General Game Playing,Chiara F. Sironi and Jialin Liu and Mark H. M. Winands,2020,9,IEEE Transactions on Games
+10.1109/tg.2022.3225730,Guest Editorial: Special Issue on Evolutionary Computation for Games,Jacob Schrum and Jialin Liu and Cameron Browne and Anikó Ekárt and Marcus Gallagher,2023,0,IEEE Transactions on Games
+10.1109/tg.2023.3250059,Table of Contents,,2023,0,IEEE Transactions on Games
+10.1109/tg.2021.3065410,AI World Cup: Robot-Soccer-Based Competitions,Chansol Hong and Inbae Jeong and Luiz Felipe Vecchietti and Dongsoo Har and Jong-Hwan Kim,2021,8,IEEE Transactions on Games
+10.1109/tg.2018.2846639,Procedural Content Generation via Machine Learning (PCGML),Adam Summerville and Sam Snodgrass and Matthew Guzdial and Christoffer Holmgard and Amy K. Hoover and Aaron Isaksen and Andy Nealen and Julian Togelius,2018,140,IEEE Transactions on Games
 10.1109/tg.2021.3088696,TechRxiv: Share Your Preprint Research with the World!,,2021,0,IEEE Transactions on Games
 10.1109/tg.2021.3130391,IEEE Transactions on Games,,2021,0,IEEE Transactions on Games
 10.1109/tg.2021.3132708,Editorial IEEE Transactions on Games: The First Four Years,Julian Togelius,2021,0,IEEE Transactions on Games
 10.1109/tg.2022.3173450,GAN-Aimbots: Using Machine Learning for Cheating in First Person Shooters,Anssi Kanervisto and Tomi Kinnunen and Ville Hautamaki,2022,0,IEEE Transactions on Games
 10.1109/tciaig.2017.2681042,Residual Networks for Computer Go,Tristan Cazenave,2018,16,IEEE Transactions on Games
-10.1109/tg.2021.3064749,Full-Body Motion Recognition in Immersive- Virtual-Reality-Based Exergame,Polona Caserman and Shule Liu and Stefan Gobel,2022,1,IEEE Transactions on Games
+10.1109/tg.2020.3040357,Impact of Using Active Locomotion Interfaces for Gameplay: A Study on Exertion Levels and Presence,Leigh Gray and Erandi Lakshika and Michael Barlow,2020,1,IEEE Transactions on Games
 10.1109/tg.2021.3067723,Learning to Play Imperfect-Information Games by Imitating an Oracle Planner,Rinu Boney and Alexander Ilin and Juho Kannala and Jarno Seppanen,2022,0,IEEE Transactions on Games
 10.1109/tg.2023.3236490,A Novel Evolutionary Algorithm with Column and Sub-Block Local Search for Sudoku Puzzles,Chuan Wang and Bing Sun and Ke-Jing Du and Jian-Yu Li and Zhi-Hui Zhan and Sang-Woon Jeon and Hua Wang and Jun Zhang,2023,0,IEEE Transactions on Games
 10.1109/tg.2022.3148791,Impact of Full-Body Avatars in Immersive Multiplayer Virtual Reality Training for Police Forces,Polona Caserman and Philip Schmidt and Thorsten Gobel and Jonas Zinnacker and Andre Kecke and Stefan Gobel,2022,1,IEEE Transactions on Games
 10.1109/tg.2022.3182901,Measuring Control to Dynamically Induce Flow in Tetris,Diana Sofia Lora-Ariza and Antonio A. Sanchez-Ruiz and Pedro Antonio Gonzalez-Calero and Irene Camps-Ortueta,2022,0,IEEE Transactions on Games
 10.1109/tg.2018.2810468,Information for Authors,,2018,0,IEEE Transactions on Games
-10.1109/tg.2022.3178539,Real-time Prediction of Simulator Sickness in Virtual Reality Games,Jialin Wang and Hai-Ning Liang and Diego Monteiro and Wenge Xu and Jimin Xiao,2022,5,IEEE Transactions on Games
 10.1109/tg.2021.3104319,Find Your Organization in MMORPGs,Qilin Deng and Minghao Zhao and Kai Wang and Runze Wu and Xudong Shen and Jianrong Tao and Changjie Fan,2022,0,IEEE Transactions on Games
 10.1109/tg.2021.3119521,Beyond Genre: Classifying Virtual Reality Experiences,Maxwell Foxman and David Beyea and Alex Leith and Rabindra A. Ratan and Vivian Chen and Brian Klebig,2022,0,IEEE Transactions on Games
 10.1109/tg.2021.3081817,J-POP: Japanese Puzzles as Optimization Problems,Huw Lloyd and Matthew Crossley and Mark Sinclair and Martyn Amos,2022,1,IEEE Transactions on Games
+10.1109/tg.2021.3060282,Rolling Horizon Evolutionary Algorithms for General Video Game Playing,Raluca D. Gaina and Sam Devlin and Simon M. Lucas and Diego Perez-Liebana,2022,4,IEEE Transactions on Games
+10.1109/tg.2020.3039974,Staying Motivated During Difficult Times: A Snapshot of Serious Games for Paediatric Cancer Patients,Ezwan Shah Abd Majid and Jaime A. Garcia and A. Imran Nordin and William L. Raffe,2020,5,IEEE Transactions on Games
 10.1109/tg.2018.2882719,IEEE Transactions on Computational Intelligence and AI in Games,,2018,0,IEEE Transactions on Games
 10.1109/tg.2022.3186919,"A Formal Approach to Distinguish Games, Toys, Serious Games &amp; Toys, Serious Re-purposing &amp; Modding and Simulators",Julian Alvarez and Damien Djaouti and Sandy Louchart and Yoann Lebrun and Nabil Zary and Sophie Lepreux and Christophe Kolski,2022,0,IEEE Transactions on Games
-10.1109/tg.2022.3185959,educating Youth About Human Impact on Freshwater Ecosystems Using an Online Serious Game,Daniel A. Burbano Lombana and Roni Barak Ventura and Yin Tian Chen and Maurizio Porfiri,2022,0,IEEE Transactions on Games
 10.1109/tg.2022.3221849,Graph Embedding Augmented Skill Rating System,Jiasheng Wang,2022,0,IEEE Transactions on Games
-10.1109/tg.2020.3040357,Impact of Using Active Locomotion Interfaces for Gameplay: A Study on Exertion Levels and Presence,Leigh Gray and Erandi Lakshika and Michael Barlow,2020,1,IEEE Transactions on Games
 10.1109/tciaig.2017.2771241,The 2016 Two-Player GVGAI Competition,Raluca D. Gaina and Adrien Couetoux and Dennis J. N. J. Soemers and Mark H. M. Winands and Tom Vodopivec and Florian Kirchgesner and Jialin Liu and Simon M. Lucas and Diego Perez-Liebana,2018,17,IEEE Transactions on Games
 10.1109/tg.2019.2956426,IEEE Transactions on Games,,2019,0,IEEE Transactions on Games
 10.1109/tg.2019.2939690,Table of Contents,,2019,0,IEEE Transactions on Games
@@ -239,7 +248,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/tg.2022.3221607,Case Study of Player Behaviour in a Mobile Free-to-play Interactive Story Telling Game,Mirko Suznjevic and Mihael Miklec and Suraja Postic,2022,0,IEEE Transactions on Games
 10.1109/tg.2020.3003315,The Anesthesia Crisis Scenario Builder for Authoring Anesthesia Crisis-Based Simulations,Kyle Wilcocks and Bill Kapralos and Alvaro Uribe Quevedo and Fahad Alam and Adam Dubrowski,2020,6,IEEE Transactions on Games
 10.1109/tg.2020.3042900,Training a Gaming Agent on Brainwaves,Bartolome Francisco and Moreno Juan and Navas Natalia and Vitali Jose and Ramele Rodrigo and Santos Juan Miguel,2022,1,IEEE Transactions on Games
-10.1109/tg.2023.3238163,Using Evolutionary Algorithms to Target Complexity Levels in Game Economies,Katja Rogers and Vincent Le Claire and Julian Frommel and Regan Mandryk and Lennart E. Nacke,2023,0,IEEE Transactions on Games
 10.1109/tg.2022.3186386,Cognition-Driven Multi-Agent Policy Learning Framework for Promoting Cooperation,Zhiqiang Pu and Huimu Wang and Boyin Liu and Jianqiang Yi,2022,0,IEEE Transactions on Games
 10.1109/tg.2022.3176068,IEEE Transactions on Games,,2022,0,IEEE Transactions on Games
 10.1109/tg.2022.3206733,AlphaZero-Inspired Game Learning: Faster Training by Using MCTS Only at Test Time,Johannes Scheiermann and Wolfgang Konen,2022,0,IEEE Transactions on Games
@@ -247,16 +255,20 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/tciaig.2017.2743347,HearthBot: An Autonomous Agent Based on Fuzzy ART Adaptive Neural Networks for the Digital Collectible Card Game HearthStone,Alysson Ribeiro da Silva and Luis Fabricio Wanderley Goes,2018,6,IEEE Transactions on Games
 10.1109/tg.2020.3021728,"A Distributed Multiplayer Game to Promote Active Transport at Workplaces: User-Centered Design, Implementation, and Lessons Learned",Teemu H. Laine and Jorgen Normark and Helena Lindvall and Anna-Karin Lindqvist and Stina Rutberg,2020,6,IEEE Transactions on Games
 10.1109/tg.2021.3072545,What Causes Wrong Sentiment Classifications of Game Reviews?,Markos Viggiato and Dayi Lin and Abram Hindle and Cor-Paul Bezemer,2022,4,IEEE Transactions on Games
+10.1109/tg.2022.3178539,Real-time Prediction of Simulator Sickness in Virtual Reality Games,Jialin Wang and Hai-Ning Liang and Diego Monteiro and Wenge Xu and Jimin Xiao,2022,6,IEEE Transactions on Games
+10.1109/tg.2022.3185959,educating Youth About Human Impact on Freshwater Ecosystems Using an Online Serious Game,Daniel A. Burbano Lombana and Roni Barak Ventura and Yin Tian Chen and Maurizio Porfiri,2022,1,IEEE Transactions on Games
 10.1109/tg.2020.3039838,Correlating Psychophysiological Responses of Exergaming Boxing for Predictive Heart Rate Regression Models in Young Adults,Nor Aina Mohd Jai and Maziah Mat Rosly and Nasrul Anuar Abd Razak,2020,1,IEEE Transactions on Games
 10.1109/tg.2019.2931044,A Multifaceted Surrogate Model for Search-Based Procedural Content Generation,Daniel Karavolos and Antonios Liapis and Georgios Yannakakis,2021,8,IEEE Transactions on Games
 10.1109/tg.2022.3217737,DIJS: Methodology for the Design and Development of Digital Educational Serious Games,Federico Archuby and Cecilia Sanz and Cristina Manresa-Yee,2023,0,IEEE Transactions on Games
-10.1109/tg.2020.2990865,Winning Is Not Everything: Enhancing Game Development With Intelligent Agents,Yunqi Zhao and Igor Borovikov and Fernando de Mesentier Silva and Ahmad Beirami and Jason Rupert and Caedmon Somers and Jesse Harder and John Kolen and Jervis Pinto and Reza Pourabolghasem and James Pestrak and Harold Chaput and Mohsen Sardari and Long Lin and Sundeep Narravula and Navid Aghdaie and Kazi Zaman,2020,10,IEEE Transactions on Games
+10.1109/tg.2021.3069445,Gaming Beyond the Novelty Effect of Immersive Virtual Reality for Physical Rehabilitation,Aviv Elor and Michael Powell and Evanjelin Mahmoodi and Mircea Teodorescu and Sri Kurniawan,2022,8,IEEE Transactions on Games
+10.1109/tg.2023.3258149,CreativeStone: a Creativity Booster for Hearthstone Card Decks,Celso Franca and Zisen Zhou and Carolina Fernanda da Silva and Cibele Simoes de Oliveira Santos and Lucas Braga Ferreira and Lucas Henrique Pereira and Marcos Pablo Souza de Almeida and Marina Iolanda Oliveira and Thais Regina Damasio and Vinicius Silva Pacheco and Fabricio Goes,2023,0,IEEE Transactions on Games
+10.1109/tg.2021.3064749,Full-Body Motion Recognition in Immersive- Virtual-Reality-Based Exergame,Polona Caserman and Shule Liu and Stefan Gobel,2022,2,IEEE Transactions on Games
 10.1109/tg.2022.3153206,Wor(l)d-GAN: Towards Natural Language Based PCG in Minecraft,Maren Awiszus and Frederik Schubert and Bodo Rosenhahn,2022,1,IEEE Transactions on Games
 10.1109/tg.2022.3213127,Learning and Motivational Impact of Using a Virtual Reality Serious Video Game to Learn Scrum,Daniel Lopez-Fernandez and Jesus Mayor and Jennifer Perez and Aldo Gordillo,2022,1,IEEE Transactions on Games
-10.1109/tg.2020.3039974,Staying Motivated During Difficult Times: A Snapshot of Serious Games for Paediatric Cancer Patients,Ezwan Shah Abd Majid and Jaime A. Garcia and A. Imran Nordin and William L. Raffe,2020,5,IEEE Transactions on Games
-10.1109/tg.2021.3069445,Gaming Beyond the Novelty Effect of Immersive Virtual Reality for Physical Rehabilitation,Aviv Elor and Michael Powell and Evanjelin Mahmoodi and Mircea Teodorescu and Sri Kurniawan,2022,8,IEEE Transactions on Games
-10.1109/tg.2021.3060282,Rolling Horizon Evolutionary Algorithms for General Video Game Playing,Raluca D. Gaina and Sam Devlin and Simon M. Lucas and Diego Perez-Liebana,2022,4,IEEE Transactions on Games
-10.1109/tg.2023.3258149,CreativeStone: a Creativity Booster for Hearthstone Card Decks,Celso Franca and Zisen Zhou and Carolina Fernanda da Silva and Cibele Simoes de Oliveira Santos and Lucas Braga Ferreira and Lucas Henrique Pereira and Marcos Pablo Souza de Almeida and Marina Iolanda Oliveira and Thais Regina Damasio and Vinicius Silva Pacheco and Fabricio Goes,2023,0,IEEE Transactions on Games
+10.1109/tg.2023.3262297,State Space Closure: Revisiting Endless Online Level Generation via Reinforcement Learning,Ziqi Wang and Tianye Shu and Jialin Liu,2023,0,IEEE Transactions on Games
+10.1109/tg.2023.3263070,Personalized Feature Importance Ranking for Affect Recognition From Behavioral and Physiological Data,Luis Quintero and Uno Fors and Panagiotis Papapetrou,2023,0,IEEE Transactions on Games
+10.1109/tg.2020.2990865,Winning Is Not Everything: Enhancing Game Development With Intelligent Agents,Yunqi Zhao and Igor Borovikov and Fernando de Mesentier Silva and Ahmad Beirami and Jason Rupert and Caedmon Somers and Jesse Harder and John Kolen and Jervis Pinto and Reza Pourabolghasem and James Pestrak and Harold Chaput and Mohsen Sardari and Long Lin and Sundeep Narravula and Navid Aghdaie and Kazi Zaman,2020,11,IEEE Transactions on Games
+10.1109/tg.2023.3238163,Using Evolutionary Algorithms to Target Complexity Levels in Game Economies,Katja Rogers and Vincent Le Claire and Julian Frommel and Regan Mandryk and Lennart E. Nacke,2023,0,IEEE Transactions on Games
 10.1109/tg.2021.3082962,Information for Authors,,2021,0,IEEE Transactions on Games
 10.1109/tg.2021.3062246,Current Special Issues,,2021,0,IEEE Transactions on Games
 10.1109/tg.2019.2943751,Hexagonal Grid Numbering,Tomas By,2021,0,IEEE Transactions on Games
@@ -265,7 +277,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/tg.2020.3035593,Controlling Melody Structures in Automatic Game Soundtrack Compositions With Adversarial Learning Guided Gaussian Mixture Models,Zhiyang Xiang and Yibo Guo,2021,0,IEEE Transactions on Games
 10.1109/tg.2019.2900687,Information for Authors,,2019,1,IEEE Transactions on Games
 10.1109/tg.2018.2842340,Table of contents,,2018,0,IEEE Transactions on Games
-10.1109/tg.2022.3145886,Automated Team Assembly in Mobile Games: A Data-Driven Evolutionary Approach using a Deep Learning Surrogate,Yue-Jiao Gong and Jian-Xiong Guo and Da-Lue Lin and Yuan-Lin Zuo and Jun-Chao Liang and Lin-Jun Luo and Xian-Xin Shao and Chao Zhou and Meng-Ting Li,2022,0,IEEE Transactions on Games
 10.1109/tg.2022.3159090,Games for Change - A Comparative Systematic Review of Persuasive Strategies in Games for Behaviour Change,Chinenye Ndulue and Rita Orji,2022,5,IEEE Transactions on Games
 10.1109/tg.2018.2867743,Gamorithm,Moshe Sipper and Jason H. Moore,2020,1,IEEE Transactions on Games
 10.1109/tg.2020.2993744,Table of Contents,,2020,0,IEEE Transactions on Games
@@ -283,8 +294,8 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/tg.2018.2809901,IEEE Transactions on Games: A Leading Journal for Games Research,,2018,0,IEEE Transactions on Games
 10.1109/tg.2022.3202052,IEEE Transactions on Games Publication Information,,2022,0,IEEE Transactions on Games
 10.1109/tg.2018.2858024,Inside the Group: Investigating Social Structures in Player Groups and Their Influence on Activity,Michael H. Schiller and Gunter Wallner and Christopher Schinnerl and Alexander Monte Calvo and Johanna Pirker and Rafet Sifa and Anders Drachen,2019,9,IEEE Transactions on Games
-10.1109/tg.2022.3143701,Exploring the Balance Between Computational Thinking and Learning Motivation in Elementary Programming Education: An Empirical Study with Game-based Learning,Huizhong Liu and Zengqing Wu and Yili Lu and Ling Zhu,2022,0,IEEE Transactions on Games
 10.1109/tg.2019.2957353,Clues About Bluffing in Clue: Is Conventional Wisdom Wise?,David Marshall Hansen and Kyle Dean Hansen,2021,0,IEEE Transactions on Games
+10.1109/tg.2018.2791019,Implementing Adaptive Game Difficulty Balancing in Serious Games,Maurice Hendrix and Tyrone Bellamy-Wood and Sam McKay and Victoria Bloom and Ian Dunwell,2019,26,IEEE Transactions on Games
 10.1109/tg.2018.2835776,Identifying Regional Trends in Avatar Customization,Peter Mawhorter and Sercan Sengun and Haewoon Kwak and D. Fox Harrell,2019,0,IEEE Transactions on Games
 10.1109/tg.2021.3109887,Optimistic Temporal Difference Learning for 2048,Hung Guei and Lung-Pin Chen and I-Chen Wu,2022,0,IEEE Transactions on Games
 10.1109/tg.2022.3203232,Evolving the MCTS Upper Confidence Bounds for Trees Using a Semantic-inspired Evolutionary Algorithm in the Game of Carcassonne,Edgar Galvan and Gavin Simpson and Fred Valdez Ameneyro,2022,1,IEEE Transactions on Games
@@ -297,38 +308,36 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/tg.2021.3076368,WaveFunctionCollapse: Content Generation via Constraint Solving and Machine Learning,Isaac Karth and Adam M. Smith,2022,1,IEEE Transactions on Games
 10.1109/tg.2021.3113313,Generation of Game Stages With Quality and Diversity by Reinforcement Learning in Turn-Based RPG,Sang-Gyu Nam and Chu-Hsuan Hsueh and Kokolo Ikeda,2022,0,IEEE Transactions on Games
 10.1109/tg.2018.2803843,How the Business Model of Customizable Card Games Influences Player Engagement,Victoria J. Hodge and Feng Li and Nick Sephton and Sam Devlin and Peter I. Cowling and Nikolaos Goumagias and Jianhua Shao and Kieran Purvis and Ignazio Cabras and Kiran J. Fernandes,2019,8,IEEE Transactions on Games
-10.1109/tg.2020.3032796,Video Game Automated Testing Approaches: An Assessment Framework,Aghyad Mohammad Albaghajati and Moataz Aly Kamaleldin Ahmed,2020,4,IEEE Transactions on Games
 10.1109/tg.2020.3046133,Interactive Constrained MAP-Elites: Analysis and Evaluation of the Expressiveness of the Feature Dimensions,Alberto Alvarez and Steve Dahlskog and Jose Font and Julian Togelius,2022,3,IEEE Transactions on Games
-10.1109/tg.2019.2942773,Solving Sudoku With Ant Colony Optimization,Huw Lloyd and Martyn Amos,2020,5,IEEE Transactions on Games
 10.1109/tg.2022.3232390,CTDS: Centralized Teacher With Decentralized Student for Multi-Agent Reinforcement Learning,Jian Zhao and Xunhan Hu and Mingyu Yang and Wengang Zhou and Jiangcheng Zhu and Houqiang Li,2022,0,IEEE Transactions on Games
-10.1109/tg.2020.3024160,A Game AI Competition to Foster Collaborative AI Research and Development,Ana Salta and Rui Prada and Francisco S. Melo,2021,3,IEEE Transactions on Games
 10.1109/tg.2021.3095264,Which Heroes to Pick? Learning to Draft in MOBA Games With Neural Networks and Tree Search,Sheng Chen and Menghui Zhu and Deheng Ye and Weinan Zhang and Qiang Fu and Wei Yang,2021,4,IEEE Transactions on Games
 10.1109/tg.2021.3128714,Spaz! The Effects of Local Latency on Player Actions in a Desktop-Based Exergame,Wouter Durnez and Aleksandra Zheleva and Mark Claypool and Mathias Maes and Klaas Bombeke and Jan Van Looy and Lieven De Marez,2022,0,IEEE Transactions on Games
 10.1109/tg.2022.3149044,Interpretable Real-Time Win Prediction for Honor of Kings—A Popular Mobile MOBA Esport,Zelong Yang and Zhufeng Pan and Yan Wang and Deng Cai and Shuming Shi and Shao-Lun Huang and Wei Bi and Xiaojiang Liu,2022,4,IEEE Transactions on Games
 10.1109/tg.2021.3118273,An Adaptive System for Emerging Serious Games Using a Swarm Intelligence Algorithm,Jose Aguilar and Francisco Diaz and Junior Altamiranda and Nelson Perez Garcia and Angel Dario Pinto,2022,0,IEEE Transactions on Games
 10.1109/tg.2021.3134894,Deployment of Causal Effect Estimation in Live Games of Dota 2,Anders Harboell Christiansen and Emil Gensby and Bryan S. Weber,2022,0,IEEE Transactions on Games
 10.1109/tciaig.2017.2679115,Multiagent Inverse Reinforcement Learning for Two-Person Zero-Sum Games,Xiaomin Lin and Peter A. Beling and Randy Cogill,2018,20,IEEE Transactions on Games
-10.1109/tg.2018.2791019,Implementing Adaptive Game Difficulty Balancing in Serious Games,Maurice Hendrix and Tyrone Bellamy-Wood and Sam McKay and Victoria Bloom and Ian Dunwell,2019,24,IEEE Transactions on Games
 10.1109/tg.2017.2787343,An Enhanced Particle Swarm Optimization Method Integrated With Evolutionary Game Theory,Cedric Leboucher and Hyo-Sang Shin and Rachid Chelouah and Stephane Le Menec and Patrick Siarry and Mathias Formoso and Antonios Tsourdos and Alexandre Kotenkoff,2018,28,IEEE Transactions on Games
 10.1109/tg.2023.3241864,Beyond Playing to Win: Creating a Team of Agents with Distinct Behaviours for Automated Gameplay,Cristina Guerrero-Romero and Simon Lucas and Diego Perez-Liebana,2023,0,IEEE Transactions on Games
 10.1109/tg.2020.3009359,Operationalizing Intentionality to Play Hanabi With Human Players,Markus Eger and Chris Martens and Pablo Sauma Chacon and Marcela Alfaro Cordoba and Jeisson Hidalgo-Cespedes,2021,2,IEEE Transactions on Games
 10.1109/tg.2018.2834618,Traditional Wisdom and Monte Carlo Tree Search Face-to-Face in the Card Game Scopone,Stefano Di Palma and Pier Luca Lanzi,2018,8,IEEE Transactions on Games
-10.1109/tg.2020.3017817,"Analysis, Design, and Prototypical Implementation of a Serious Game Reha@Stroke to Support Rehabilitation of Stroke Patients With the Help of a Mobile Phone",Rene Baranyi and Pawel Czech and Stefan Hofstatter and Christoph Aigner and Thomas Grechenig,2020,4,IEEE Transactions on Games
 10.1109/tg.2018.2834566,Dota 2 Bot Competition,Jose M. Font and Tobias Mahlmann,2019,10,IEEE Transactions on Games
 10.1109/tciaig.2017.2717902,Game Tree Search Based on Nondeterministic Action Scripts in Real-Time Strategy Games,Nicolas A. Barriga and Marius Stanescu and Michael Buro,2018,11,IEEE Transactions on Games
 10.1109/tciaig.2017.2696045,Integrating Skills and Simulation to Solve Complex Navigation Tasks in Infinite Mario,Michael Dann and Fabio Zambetta and John Thangarajah,2018,5,IEEE Transactions on Games
+10.1109/tg.2020.3017817,"Analysis, Design, and Prototypical Implementation of a Serious Game Reha@Stroke to Support Rehabilitation of Stroke Patients With the Help of a Mobile Phone",Rene Baranyi and Pawel Czech and Stefan Hofstatter and Christoph Aigner and Thomas Grechenig,2020,4,IEEE Transactions on Games
+10.1109/tg.2019.2942773,Solving Sudoku With Ant Colony Optimization,Huw Lloyd and Martyn Amos,2020,6,IEEE Transactions on Games
 10.1109/tg.2022.3212201,A Deep Learning Based Multi-Dimensional Aesthetic Quality Assessment Method for Mobile Game Images,Tao Wang and Wei Sun and Wei Wu and Ying Chen and Xiongkuo Min and Wei Lu and Zicheng Zhang and Guangtao Zhai,2022,1,IEEE Transactions on Games
+10.1109/tg.2020.3024160,A Game AI Competition to Foster Collaborative AI Research and Development,Ana Salta and Rui Prada and Francisco S. Melo,2021,3,IEEE Transactions on Games
+10.1109/tg.2023.3263013,Attention-based Intrinsic Reward Mixing Network for Credit Assignment in Multi-Agent Reinforcement Learning,Wei Li and Weiyan Liu and Shitong Shao and Shiyi Huang and Aiguo Song,2023,0,IEEE Transactions on Games
+10.1109/tg.2022.3143701,Exploring the Balance Between Computational Thinking and Learning Motivation in Elementary Programming Education: An Empirical Study With Game-Based Learning,Huizhong Liu and Zengqing Wu and Yili Lu and Ling Zhu,2023,0,IEEE Transactions on Games
+10.1109/tg.2020.3032796,Video Game Automated Testing Approaches: An Assessment Framework,Aghyad Albaghajati and Moataz Ahmed,2023,4,IEEE Transactions on Games
+10.1109/tg.2022.3145886,Automated Team Assembly in Mobile Games: A Data-Driven Evolutionary Approach Using a Deep Learning Surrogate,Yue-Jiao Gong and Jian-Xiong Guo and Da-Lue Lin and Yuan-Lin Zuo and Jun-Chao Liang and Lin-Jun Luo and Xian-Xin Shao and Chao Zhou and Meng-Ting Li,2023,1,IEEE Transactions on Games
 10.1109/tg.2018.2882721,IEEE Computational Intelligence Society,,2018,0,IEEE Transactions on Games
 10.1109/tg.2022.3190792,HyperColor: A HyperNetwork Approach for Synthesizing Auto-Colored 3D Models for Game Scenes Population,Ivan Kostiuk and Przemyslaw Stachura and Slawomir K. Tadeja and Tomasz Trzcinski and Przemyslaw Spurek,2022,0,IEEE Transactions on Games
 10.1109/tg.2021.3068426,An Augmented Reality Implementation of the Pong Game,Joaquin Salas and Pablo Vera and Angel Hernandez and Maria-Elena Meza-de-Luna,2021,1,IEEE Transactions on Games
-10.1109/tg.2022.3175795,Procedural Level Generation for Sokoban via Deep Learning: An Experimental Study,Yahia Zakaria and Magda Fayek and Mayada Hadhoud,2022,0,IEEE Transactions on Games
-10.1109/tg.2022.3192930,Genetic-WFC: Extending Wave Function Collapse With Genetic Search,Raphael Bailly and Guillaume Levieux,2022,0,IEEE Transactions on Games
 10.1109/tg.2018.2869186,Table of Contents,,2018,0,IEEE Transactions on Games
 10.1109/tg.2018.2842342,IEEE Transactions on Computational Intelligence and AI in Games,,2018,0,IEEE Transactions on Games
 10.1109/tg.2018.2802484,Compressing Chinese Dark Chess Endgame Databases by Deep Learning,Jr-Chang Chen and Gang-Yu Fan and Hung-Jui Chang and Tsan-sheng Hsu,2018,5,IEEE Transactions on Games
-10.1109/tg.2018.2888863,Game Data Mining Competition on Churn Prediction and Survival Analysis Using Commercial Game Log Data,Eunjo Lee and Yoonjae Jang and Du-Mim Yoon and Jihoon Jeon and Seong-il Yang and Sang-Kwang Lee and Dae-Wook Kim and Pei Pei Chen and Anna Guitart and Paul Bertens and Africa Perianez and Fabian Hadiji and Marc Muller and Youngjun Joo and Jiyeon Lee and Inchon Hwang and Kyung-Joong Kim,2019,16,IEEE Transactions on Games
 10.1109/tg.2021.3110704,IEEE Computational Intelligence Society,,2021,0,IEEE Transactions on Games
-10.1109/tg.2022.3157247,Evolutionary Algorithm for Parameter Optimization of Context Steering Agents,Alexander Dockhorn and Martin Kirst and Sanaz Mostaghim and Martin Wieczorek and Heiner Zille,2022,0,IEEE Transactions on Games
 10.1109/tg.2019.2905230,Manipulating Narrative Salience in Interactive Stories Using Indexter's Pairwise Event Salience Hypothesis,Rachelyn Farrell and Stephen G. Ware and Lewis J. Baker,2020,2,IEEE Transactions on Games
 10.1109/tg.2018.2808201,Analysis of Agent Expertise in Ms. Pac-Man Using Value-of-Information-Based Policies,Isaac John Sledge and Jose C. Principe,2019,8,IEEE Transactions on Games
 10.1109/tg.2018.2859424,Evolving Roguelike Dungeons With Deluged Novelty Search Local Competition,Alexandre Santos Melotti and Carlos Henrique Valerio de Moraes,2019,1,IEEE Transactions on Games
@@ -342,7 +351,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/tg.2021.3110700,Table of Contents,,2021,0,IEEE Transactions on Games
 10.1109/tg.2022.3149275,Advanced Lanchester Combat Model for Inhomogeneous Armies in RTS Games,Ivan Dmitrievich Laryushin,2022,0,IEEE Transactions on Games
 10.1109/tg.2020.3004366,Gamification of Online Surveys: A Systematic Mapping,Kayque W. R. Oliveira and Melise M. V. Paula,2021,1,IEEE Transactions on Games
-10.1109/tg.2021.3075065,Game Strategies for Physical Robot Soccer Players: A Survey,Emanuele Antonioni and Vincenzo Suriani and Francesco Riccio and Daniele Nardi,2021,6,IEEE Transactions on Games
 10.1109/tg.2020.3036471,Method for Constructing Artificial Intelligence Player With Abstractions to Markov Decision Processes in Multiplayer Game ofMahjong,Moyuru Kurita and Kunihito Hoki,2021,5,IEEE Transactions on Games
 10.1109/tciaig.2017.2750181,Exploring Game Space of Minimal Action Games via Parameter Tuning and Survival Analysis,Aaron Isaksen and Dan Gopstein and Julian Togelius and Andy Nealen,2018,8,IEEE Transactions on Games
 10.1109/tg.2022.3224088,Curriculum Goal-Conditioned Imitation for Offline Reinforcement Learning,Xiaoyun Feng and Li Jiang and Xudong Yu and Haoran Xu and Xiaoyan Sun and Jie Wang and Xianyuan Zhan and Wai Kin Victor Chan,2022,0,IEEE Transactions on Games
@@ -354,13 +362,14 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/tg.2019.2900685,IEEE Computational Intelligence Society,,2019,0,IEEE Transactions on Games
 10.1109/tg.2019.2939696,Information for Authors,,2019,0,IEEE Transactions on Games
 10.1109/tg.2019.2917792,Procedural Puzzle Generation: A Survey,Barbara De Kegel and Mads Haahr,2020,18,IEEE Transactions on Games
-10.1109/tg.2018.2806007,Exploration in Continuous Control Tasks via Continually Parameterized Skills,Michael Dann and Fabio Zambetta and John Thangarajah,2018,1,IEEE Transactions on Games
-10.1109/tg.2020.3041375,Mobile Networks for Computer Go,Tristan Cazenave,2022,2,IEEE Transactions on Games
 10.1109/tg.2021.3113644,Student-Initiated Action Advising via Advice Novelty,Ercument Ilhan and Jeremy Gow and Diego Perez,2022,1,IEEE Transactions on Games
 10.1109/tg.2021.3127967,Guest Editorial Special Issue on Team AI in Games,Maxim Mozgovoy and Mike Preuss and Rafael Bidarra,2021,2,IEEE Transactions on Games
 10.1109/tg.2021.3095393,Hyperstate Space Graphs,Michael Cook and Azalea Raad,2022,0,IEEE Transactions on Games
 10.1109/tg.2021.3086215,Evaluating Mixed-Initiative Procedural Level Design Tools Using a Triple-Blind Mixed-Method User Study,Sean P. Walton and Alma A. M. Rahat and James Stovold,2022,2,IEEE Transactions on Games
+10.1109/tg.2018.2806007,Exploration in Continuous Control Tasks via Continually Parameterized Skills,Michael Dann and Fabio Zambetta and John Thangarajah,2018,1,IEEE Transactions on Games
+10.1109/tg.2020.3041375,Mobile Networks for Computer Go,Tristan Cazenave,2022,2,IEEE Transactions on Games
 10.1109/tg.2022.3156252,Information for Authors,,2022,0,IEEE Transactions on Games
+10.1109/tg.2018.2841057,Machine Learning Approaches to Competing in Fantasy Leagues for the NFL,Jonathan Robert Landers and Brian Duperrouzel,2019,6,IEEE Transactions on Games
 10.1109/tg.2022.3228480,Generating Role-Playing Game Quests With GPT Language Models,Susanna Vartinen and Perttu Hamalainen and Christian Guckelsberger,2022,0,IEEE Transactions on Games
 10.1109/tg.2020.3044426,Acknowledgment to Reviewers 2020,,2020,0,IEEE Transactions on Games
 10.1109/tg.2020.3021870,IEEE Transactions on Games,,2020,0,IEEE Transactions on Games
@@ -374,23 +383,28 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/tg.2022.3181976,Exergaming Training Experience for Children: A Systematic Review of Qualitative Assessments With Meta-Synthesis,Maziah Mat Rosly and Nor Aina Mohd Jai and Nasrul Anuar Abd Razak and Dorothy Dewitt,2022,0,IEEE Transactions on Games
 10.1109/tg.2019.2893430,Comparison Training for Computer Chinese Chess,Jr-Chang Chen and Wen-Jie Tseng and I-Chen Wu and Ting-Han Wei,2020,0,IEEE Transactions on Games
 10.1109/tg.2022.3177125,Multi-Agent Narrative Experience Management as Story Graph Pruning,Stephen G. Ware and Edward Garcia and Mira Fisher and Alireza Shirvani and Rachelyn Farrell,2022,1,IEEE Transactions on Games
-10.1109/tg.2020.3000261,Does Improved Sound Rendering Increase Player Performance? A Graph-Based Spatial Audio Framework,Brent Cowan and Bill Kapralos and Karen Collins,2021,2,IEEE Transactions on Games
 10.1109/tg.2018.2806302,Spread-It: A Strategic Game of Competitive Diffusion Through Social Networks,Shimon Ben-Ishay and Alon Sela and Irad E. Ben-Gal,2019,3,IEEE Transactions on Games
 10.1109/tg.2022.3161737,Match Our Cities: Cross-Location-Based Games to Enable Simultaneous Multiplayer,Thomas Tregel and Lukas Raymann and Stefan Gobel,2022,1,IEEE Transactions on Games
+10.1109/tg.2019.2913320,Infinite Loot Box: A Platform for Simulating Video Game Loot Boxes,Dominic Kao,2020,11,IEEE Transactions on Games
 10.1109/tg.2022.3216750,Gamification of Citizen Participation: A Systematic Mapping,Caroline L. Resek and Pedro P. Siniscalchi and Barbara P. Caetano and Kayque W. R. Oliveira and Melise M. V. Paula and Jano M. Souza,2022,0,IEEE Transactions on Games
+10.1109/tg.2018.2877325,A Mobile Game for Automatic Emotion-Labeling of Images,Haik Kalantarian and Khaled Jedoui and Peter Washington and Dennis P. Wall,2020,27,IEEE Transactions on Games
 10.1109/tg.2021.3128753,Using Simple Design Features to Recapture the Essence of Real-Time Strategy Games,Hsuan-Min Wang and Chia-Yuan Hou and Chuen-Tsai Sun,2022,0,IEEE Transactions on Games
 10.1109/tg.2021.3131960,Twin Sudoku Puzzles and Triplet Solid Sudoku Cubes From Strongly Mutually Distinct Twin Sudoku Tables,Mehrab Najafian and Morteza Esmaeili and T. Aaron Gulliver and Mohammad Hesam Tadayon,2022,1,IEEE Transactions on Games
 10.1109/tg.2022.3149529,Solution Density and Search Strategy in Narrative Generation,Cory Siler and Stephen G. Ware,2022,0,IEEE Transactions on Games
 10.1109/tg.2021.3124340,EEG-Induced Autonomous Game-Teaching to a Robot Arm by Human Trainers Using Reinforcement Learning,Reshma Kar and Lidia Ghosh and Amit Konar and Aruna Chakraborty and Atulya K. Nagar,2022,2,IEEE Transactions on Games
 10.1109/tg.2018.2864640,The ASC-Inclusion Perceptual Serious Gaming Platform for Autistic Children,Erik Marchi and Tadas Baltrusaitis and Andra Adams and Marwa Mahmoud and Ofer Golan and Shimrit Fridenson-Hayo and Shahar Tal and Shai Newman and Noga Meir-Goren and Antonio Camurri and Stefano Piana and Bjorn Schuller and Sven Bolte and Metin Sezgin and Nese Alyuz and Agnieszka Rynkiewicz and Aurelie Baranger and Alice Baird and Simon Baron-Cohen and Amandine Lassalle and Helen O'Reilly and Delia Pigat and Peter Robinson and Ian Davies,2019,14,IEEE Transactions on Games
 10.1109/tciaig.2017.2734067,Belief-State Monte Carlo Tree Search for Phantom Go,Jiao Wang and Tan Zhu and Hongye Li and Chu-Husan Hsueh and I.-Chen Wu,2018,1,IEEE Transactions on Games
-10.1109/tg.2020.3003324,Play With One’s Feelings: A Study on Emotion Awareness for Player Experience,Yoones A. Sekhavat and Samad Roohi and Hesam Sakian Mohammadi and Georgios N. Yannakakis,2022,4,IEEE Transactions on Games
-10.1109/tg.2018.2877325,A Mobile Game for Automatic Emotion-Labeling of Images,Haik Kalantarian and Khaled Jedoui and Peter Washington and Dennis P. Wall,2020,25,IEEE Transactions on Games
+10.1109/tg.2018.2883499,"StarCraft AI Competitions, Bots, and Tournament Manager Software",Michal Certicky and David Churchill and Kyung-Joong Kim and Martin Certicky and Richard Kelly,2019,11,IEEE Transactions on Games
+10.1109/tg.2020.3003324,Play With One’s Feelings: A Study on Emotion Awareness for Player Experience,Yoones A. Sekhavat and Samad Roohi and Hesam Sakian Mohammadi and Georgios N. Yannakakis,2022,5,IEEE Transactions on Games
+10.1109/tg.2018.2888863,Game Data Mining Competition on Churn Prediction and Survival Analysis Using Commercial Game Log Data,Eunjo Lee and Yoonjae Jang and Du-Mim Yoon and Jihoon Jeon and Seong-il Yang and Sang-Kwang Lee and Dae-Wook Kim and Pei Pei Chen and Anna Guitart and Paul Bertens and Africa Perianez and Fabian Hadiji and Marc Muller and Youngjun Joo and Jiyeon Lee and Inchon Hwang and Kyung-Joong Kim,2019,19,IEEE Transactions on Games
 10.1109/tg.2019.2918223,Improving Solvability for Procedurally Generated Challenges in Physical Solitaire Games Through Entangled Components,Mark Goadrich and James Droscha,2020,3,IEEE Transactions on Games
 10.1109/tg.2020.3005214,Heuristic Search Value Iteration for Zero-Sum Stochastic Games,Olivier Buffet and Jilles Dibangoye and Abdallah Saffidine and Vincent Thomas,2021,1,IEEE Transactions on Games
+10.1109/tg.2023.3259724,The Fittest Wins: a Multi-Stage Framework Achieving New SOTA in ViZDoom Competition,Shuxing Li and Jiawei Xu and Honghua Dong and Yu Yang and Chun Yuan and Peng Sun and Lei Han,2023,0,IEEE Transactions on Games
 10.1109/tg.2023.3237943,Predictive Dead Reckoning for Online Peer-to-Peer Games,Tristan Walker and Barry Gilhuly and Armin Sadeghi and Matt Delbosc and Stephen L. Smith,2023,0,IEEE Transactions on Games
 10.1109/tg.2021.3139036,Bespoke Exergames for Balance Improvement and Fall Risk Reduction in Community-Dwelling Older Adults: A Systematic Review and Meta-Analysis of Randomized Controlled Trials,Peter Fermin Dajime and Heather Smith and Yanxin Zhang,2022,2,IEEE Transactions on Games
-10.1109/tg.2021.3049539,Creating Pro-Level AI for a Real-Time Fighting Game Using Deep Reinforcement Learning,Inseok Oh and Seungeun Rho and Sangbin Moon and Seongho Son and Hyoil Lee and Jinyun Chung,2022,10,IEEE Transactions on Games
-10.1109/tg.2019.2913320,Infinite Loot Box: A Platform for Simulating Video Game Loot Boxes,Dominic Kao,2020,11,IEEE Transactions on Games
-10.1109/tg.2018.2883499,"StarCraft AI Competitions, Bots, and Tournament Manager Software",Michal Certicky and David Churchill and Kyung-Joong Kim and Martin Certicky and Richard Kelly,2019,11,IEEE Transactions on Games
-10.1109/tg.2018.2841057,Machine Learning Approaches to Competing in Fantasy Leagues for the NFL,Jonathan Robert Landers and Brian Duperrouzel,2019,6,IEEE Transactions on Games
+10.1109/tg.2021.3049539,Creating Pro-Level AI for a Real-Time Fighting Game Using Deep Reinforcement Learning,Inseok Oh and Seungeun Rho and Sangbin Moon and Seongho Son and Hyoil Lee and Jinyun Chung,2022,11,IEEE Transactions on Games
+10.1109/tg.2021.3075065,Game Strategies for Physical Robot Soccer Players: A Survey,Emanuele Antonioni and Vincenzo Suriani and Francesco Riccio and Daniele Nardi,2021,8,IEEE Transactions on Games
+10.1109/tg.2020.3000261,Does Improved Sound Rendering Increase Player Performance? A Graph-Based Spatial Audio Framework,Brent Cowan and Bill Kapralos and Karen Collins,2021,2,IEEE Transactions on Games
+10.1109/tg.2022.3157247,Evolutionary Algorithm for Parameter Optimization of Context-Steering Agents,Alexander Dockhorn and Martin Kirst and Sanaz Mostaghim and Martin Wieczorek and Heiner Zille,2023,0,IEEE Transactions on Games
+10.1109/tg.2022.3192930,Genetic-WFC: Extending Wave Function Collapse With Genetic Search,Raphael Bailly and Guillaume Levieux,2023,0,IEEE Transactions on Games
+10.1109/tg.2022.3175795,Procedural Level Generation for Sokoban via Deep Learning: An Experimental Study,Yahia Zakaria and Magda Fayek and Mayada Hadhoud,2023,0,IEEE Transactions on Games

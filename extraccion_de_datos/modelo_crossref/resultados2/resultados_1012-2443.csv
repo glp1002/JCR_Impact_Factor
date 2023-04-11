@@ -15,6 +15,8 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10472-007-9081-2,Logics in AI: post-proceedings JELIA06 (Editorial),Michael Fisher and Wiebe van der Hoek,2007,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-011-9260-z,Most Relevant Explanation: computational complexity and approximation methods,Changhe Yuan and Heejin Lim and Michael L. Littman,2011,5,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-021-09730-w,Parameterised complexity of model checking and satisfiability in propositional dependence logic,Yasir Mahmood and Arne Meier,2022,0,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-020-09695-2,Instance space analysis for a personnel scheduling problem,Lucas Kletzander and Nysret Musliu and Kate Smith-Miles,2021,5,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-019-09647-5,Soft computing methods for multiobjective location of garbage accumulation points in smart cities,Jamal Toutouh and Diego Rossit and Sergio Nesmachnow,2020,15,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-016-9511-0,Using the affordance concept for model design in agent-based simulation,Franziska Klügl,2016,7,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-012-9312-z,Overview on the connection between reactive Kripke models and argumentation networks,Dov M. Gabbay,2012,3,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-007-9077-y,Comparing action descriptions based on semantic preferences,Thomas Eiter and Esra Erdem and Michael Fink and Ján Senko,2007,2,Annals of Mathematics and Artificial Intelligence
@@ -24,7 +26,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10472-019-09619-9,Towards a model of creative understanding: deconstructing and recreating conceptual blends using image schemas and qualitative spatial descriptors,Zoe Falomir and Enric Plaza,2020,5,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-012-9308-8,Minimal hypotheses: extension-based semantics to argumentation,Zhihu Zhang and Zuoquan Lin,2012,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-008-9095-4,"Comparing the notions of optimality in CP-nets, strategic games and soft constraints",Krzysztof R. Apt and Francesca Rossi and Kristen Brent Venable,2008,7,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-020-09725-z,Column generation for the equilibrium route-flow traffic assignment problem,Alexander Krylatov,2022,1,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-013-9342-1,Query answering under probabilistic uncertainty in Datalog+ / − ontologies,Georg Gottlob and Thomas Lukasiewicz and Maria Vanina Martinez and Gerardo I. Simari,2013,23,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1016619613658,n.m.,Jonas Kvarnström and Patrick Doherty,2000,46,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-011-9224-3,Formal testing for separation assurance,Dimitra Giannakopoulou and David H. Bushnell and Johann Schumann and Heinz Erzberger and Karen Heere,2011,10,Annals of Mathematics and Artificial Intelligence
@@ -35,7 +36,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1023/a:1015851820698,n.m.,Luca Chittaro and Carlo Combi,2002,5,Annals of Mathematics and Artificial Intelligence
 10.1023/b:amai.0000031194.57352.e7,Rapid Prototyping of Large Multi-Agent Systems Through Logic Programming,W. Vasconcelos and D. Robertson and C. Sierra and M. Esteva and J. Sabater and M. Wooldridge,2004,18,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-015-9495-1,Weighted heuristic anytime search: new schemes for optimization over graphical models,Natalia Flerova and Radu Marinescu and Rina Dechter,2017,2,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-020-09710-6,Multivariate time series analysis from a Bayesian machine learning perspective,Jinwen Qiu and S. Rao Jammalamadaka and Ning Ning,2020,6,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-014-9443-5,Automated generation of machine verifiable and readable proofs: A case study of Tarski’s geometry,Sana Stojanović Ðurđević and Julien Narboux and Predrag Janičić,2015,8,Annals of Mathematics and Artificial Intelligence
 10.1023/b:amai.0000012866.73509.10,A Theory of Frame Transformations for Belief Combination,Sergio A. Alvarez,2004,1,Annals of Mathematics and Artificial Intelligence
 10.1023/b:amai.0000031199.58726.9a,Improving Performance of Heterogeneous Agents,Fatma Özcan and V.S. Subrahmanian and Jürgen Dix,2004,0,Annals of Mathematics and Artificial Intelligence
@@ -64,9 +64,13 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10472-014-9435-5,Exploration costs as a means for improving performance in multiagent systems,David Sarne and Yonatan Aumann,2014,1,Annals of Mathematics and Artificial Intelligence
 10.1023/b:amai.0000018603.33579.ca,Volume Index,,2004,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-019-09662-6,Fundamental conditions on the sampling pattern for union of low-rank subspaces retrieval,Morteza Ashraphijuo and Xiaodong Wang,2019,3,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-022-09798-y,Analogical proportions,Christian Antić,2022,2,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-006-9023-4,Preface,,2006,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-013-9382-6,Generalized modus Ponens using various implications and T-norm product with threshold,Ion Iancu,2013,0,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1015835418881,n.m.,Peng Ning and Xiaoyang Sean Wang and Sushil Jajodia,2002,40,Annals of Mathematics and Artificial Intelligence
+10.1023/a:1014492408220,n.m.,Filippo Focacci and Andrea Lodi and Michela Milano,2002,23,Annals of Mathematics and Artificial Intelligence
+10.1023/a:1014440424150,n.m.,Greger Ottosson and Erlendur S. Thorsteinsson and John N. Hooker,2002,13,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-015-9491-5,Matching couples with Scarf’s algorithm,Péter Biró and Tamás Fleiner and Robert W. Irving,2016,5,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-022-09795-1,A semiotic perspective on polysemy,Uta Priss,2022,1,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-022-09819-w,Special issue on conceptual structures,Mehwish Alam and Tanya Braun and Dominik Endres and Bruno Yun,2022,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-022-09817-y,On Shapley value interpretability in concept-based learning with formal concept analysis,Dmitry I. Ignatov and Léonard Kwuida,2022,0,Annals of Mathematics and Artificial Intelligence
@@ -87,6 +91,7 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10472-005-0429-1,A SAT approach to query optimization in mediator systems,Steven Prestwich and Stéphane Bressan,2005,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-021-09739-1,Integrated inventory and production policy for manufacturing with perishable raw materials,Chaoming Hu and Min Kong and Jun Pei and Xinbao Liu and Panos M. Pardalos,2021,1,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1016668707781,n.m.,Bernhard Gramlich and Hélène Kirchner and Frank Pfenning,2000,1,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-010-9187-9,Forgetting for knowledge bases in DL-Lite,Zhe Wang and Kewen Wang and Rodney Topor and Jeff Z. Pan,2010,36,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1016813008900,n.m.,,2002,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-018-9592-z,Restricted semantics for default reasoning,Zuoquan Lin and Chen Chen,2018,0,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1013189515673,n.m.,Alexander Leontjev and Vladimir Sazonov,2001,1,Annals of Mathematics and Artificial Intelligence
@@ -101,7 +106,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10472-007-9049-2,Strong and uniform equivalence of nonmonotonic theories – an algebraic approach,Mirosław Truszczyński,2007,8,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1016650101473,n.m.,Barry Brian Werger and Maja J. Matarić,2001,35,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-009-9111-3,Exploiting conjunctive queries in description logic programs,Thomas Eiter and Giovambattista Ianni and Thomas Krennwallner and Roman Schindlauer,2008,10,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-011-9267-5,Using formal methods with SysML in aerospace design and engineering,Henson Graves and Yvonne Bijan,2011,19,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1016015612905,n.m.,,2002,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-019-09655-5,Checking inference-proofness of attribute-disjoint and duplicate-preserving fragmentations,Joachim Biskup and Marcel Preuß,2019,0,Annals of Mathematics and Artificial Intelligence
 10.1023/b:amai.0000034529.83643.ce,Speculative Computation Through Consequence-Finding in Multi-Agent Environments,Katsumi Inoue and Koji Iwanuma,2004,7,Annals of Mathematics and Artificial Intelligence
@@ -119,24 +123,18 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1023/b:amai.0000018579.44321.6a,The Difficulty of Reduced Error Pruning of Leveled Branching Programs,Tapio Elomaa and Matti Kääriäinen,2004,0,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1018991803336,n.m.,Michael M. Richter,2000,1,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-017-9550-1,Current application of conformal prediction in drug discovery,Ernst Ahlberg and Oscar Hammar and Claus Bendtsen and Lars Carlsson,2017,3,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-009-9123-z,Efficient exploration of unknown indoor environments using a team of mobile robots,Cyrill Stachniss and Óscar Martínez Mozos and Wolfram Burgard,2008,42,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-009-9155-4,A new methodology for developing deduction methods,Renate A. Schmidt,2009,4,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-013-9363-9,Group planning with time constraints,Meirav Hadad and Sarit Kraus and Irith Ben-Arroyo Hartman and Avi Rosenfeld,2013,13,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-010-9176-z,A description logic based situation calculus,Yilan Gu and Mikhail Soutchanski,2010,5,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-008-9103-8,"Epistemic formulae, argument structures, and a narrative on identity and deception: a formal representation from the AJIT subproject within AURANGZEB",Ephraim Nissan,2008,8,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1014445017537,n.m.,Thomas Lukasiewicz,2002,57,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-010-9187-9,Forgetting for knowledge bases in DL-Lite,Zhe Wang and Kewen Wang and Rodney Topor and Jeff Z. Pan,2010,35,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-016-9515-9,Improving configuration checking for satisfiable random k-SAT instances,André Abramé and Djamal Habet and Donia Toumi,2017,12,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-012-9293-y,"Variable space diversity, crossover and mutation in MOEA solving many-objective knapsack problems",Hiroyuki Sato and Hernán Aguirre and Kiyoshi Tanaka,2013,23,Annals of Mathematics and Artificial Intelligence
-10.1023/a:1014440424150,n.m.,Greger Ottosson and Erlendur S. Thorsteinsson and John N. Hooker,2002,13,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1021231610627,n.m.,Alasdair Urquhart,2003,2,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-011-9230-5,Discovering the suitability of optimisation algorithms by learning from evolved instances,Kate Smith-Miles and Jano van Hemert,2011,69,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-007-9062-5,Exploiting multivalued knowledge in variable selection heuristics for SAT solvers,Carlos Ansótegui and Jose Larrubia and Chu–Min Li and Felip Manyà,2007,8,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-014-9446-2,Erratum to: Database preference queries - a possibilistic logic approach with symbolic priorities,Didier Dubois and Allel Hadjali and Henri Prade and Fayçal Touazi,2015,5,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1014535200933,n.m.,G. Coletti and R. Scozzafava,2002,17,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-006-9041-2,An explicit semidefinite characterization of satisfiability for Tseitin instances on toroidal grid graphs,Miguel F. Anjos,2006,1,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-020-09694-3,Approximate kernel partial least squares,Xiling Liu and Shuisheng Zhou,2020,1,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-016-9496-8,Compact representations of all members of an independence system,Utz-Uwe Haus and Carla Michini,2017,3,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-018-9614-x,Changing channels: divergent approaches to the creative streaming of texts,Tony Veale,2020,0,Annals of Mathematics and Artificial Intelligence
 10.1023/b:amai.0000034525.49481.4a,Algebras for Agent Norm-Regulation,J. Odelstad and M. Boman,2004,13,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-005-9006-x,Belief models: An order-theoretic investigation,Gert de Cooman,2005,24,Annals of Mathematics and Artificial Intelligence
@@ -149,7 +147,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10472-011-9256-8,Aggregated Fuzzy Answer Set Programming,Jeroen Janssen and Steven Schockaert and Dirk Vermeir and Martine De Cock,2011,4,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-008-9099-0,"Approximate well-founded semantics, query answering and generalized normal logic programs over lattices",Yann Loyer and Umberto Straccia,2009,6,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-005-1810-9,A new tractable class of constraint satisfaction problems,V�ctor Dalmau,2005,12,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-015-9491-5,Matching couples with Scarf’s algorithm,Péter Biró and Tamás Fleiner and Robert W. Irving,2016,5,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-011-9241-2,Knowledge-based multi-criteria optimization to support indoor positioning,Alessandra Mileo and Torsten Schaub and Davide Merico and Roberto Bisiani,2011,1,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-014-9439-1,Heuristics as Markov chains,Carlos Linares López,2015,1,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-006-9024-3,Guest editorial: Temporal representation and reasoning,Maroua Bouzid and Carlo Combi and Michael Fisher and Gérard Ligozat,2006,9,Annals of Mathematics and Artificial Intelligence
@@ -160,26 +157,25 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10472-021-09744-4,Neighborhood density information in clustering,Mujahid N. Syed,2022,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-019-09638-6,Controlling sub-tournaments: easy or hard problem?,Noa Eidelstein and Lior Aronshtam and Eitan Eidelstein and Tammar Shrot,2019,1,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-011-9243-0,NeVer: a tool for artificial neural networks verification,Luca Pulina and Armando Tacchella,2011,7,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-020-09695-2,Instance space analysis for a personnel scheduling problem,Lucas Kletzander and Nysret Musliu and Kate Smith-Miles,2021,5,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-021-09742-6,Coherent lower and upper conditional previsions defined by Hausdorff inner and outer measures to represent the role of conscious and unconscious thought in human decision making,Serena Doria,2021,2,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-019-09645-7,Voting-based ensemble learning for partial lexicographic preference forests over combinatorial domains,Xudong Liu and Miroslaw Truszczynski,2019,2,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-022-09798-y,Analogical proportions,Christian Antić,2022,0,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-020-09689-0,Human-in-the-loop active learning via brain computer interface,Eitan Netzer and Amir B. Geva,2020,7,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-007-9084-z,On variable-weighted exact satisfiability problems,Stefan Porschen,2007,2,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-014-9406-x,On 2D constrained discrete rigid transformations,Phuc Ngo and Yukiko Kenmochi and Nicolas Passat and Hugues Talbot,2015,7,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-021-09745-3,Normal forms of conditional knowledge bases respecting system P-entailments and signature renamings,Christoph Beierle and Jonas Haldimann,2022,2,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-015-9473-7,Implication and axiomatization of functional and constant constraints,Jelle Hellings and Marc Gyssens and Jan Paredaens and Yuqing Wu,2016,5,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-014-9404-z,Cellular topology and topological coordinate systems on the hexagonal and on the triangular grids,Benedek Nagy,2015,26,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1013134906161,n.m.,Joachim Biskup and Torsten Polle,2001,4,Annals of Mathematics and Artificial Intelligence
 10.1023/b:amai.0000034524.89865.d2,Extending Answer Sets for Logic Programming Agents,M. De Vos and D. Vermeir,2004,11,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1016710009814,n.m.,,2001,2,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-009-9125-x,A geometric approach to deploying robot swarms,Geunho Lee and Nak Young Chong,2008,31,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-013-9383-5,Cooperative exploration and protection of a workspace assisted by information networks,Jonghoek Kim,2014,19,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-009-9146-5,Congruence relations on some hyperstructures,Inma P. Cabrera and Pablo Cordero and Gloria Gutiérrez and Javier Martínez and Manuel Ojeda-Aciego,2009,10,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-017-9569-3,"A unifying logic for non-deterministic, parallel and concurrent abstract state machines",Flavio Ferrarotti and Klaus-Dieter Schewe and Loredana Tec and Qing Wang,2018,8,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-009-9160-7,Spectral schemes as ringed lattices,Thierry Coquand and Henri Lombardi and Peter Schuster,2009,3,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-009-9124-y,"Distributed multirobot exploration, mapping, and task allocation",Regis Vincent and Dieter Fox and Jonathan Ko and Kurt Konolige and Benson Limketkai and Benoit Morisset and Charles Ortiz and Dirk Schulz and Benjamin Stewart,2008,29,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-010-9222-x,A new stochastic approach for solution of Riccati differential equation of fractional order,Muhammad Asif Zahoor Raja and Junaid Ali Khan and Ijaz Mansoor Qureshi,2010,73,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-009-9162-5,On the computational complexity of weighted voting games,Edith Elkind and Leslie Ann Goldberg and Paul W. Goldberg and Michael Wooldridge,2009,32,Annals of Mathematics and Artificial Intelligence
+10.1023/a:1016713501153,n.m.,Manfred Jaeger,2001,24,Annals of Mathematics and Artificial Intelligence
+10.1023/a:1026106029043,n.m.,Joachim Biskup and Piero A. Bonatti,2004,40,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-007-9056-3,Relational concept discovery in structured datasets,M. Huchard and M. Rouane Hacene and C. Roume and P. Valtchev,2007,44,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-019-09630-0,Competing hypotheses and abductive inference,David H. Glass,2021,2,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-005-9001-2,Finding optimal solutions to the graph partitioning problem with heuristic search,Ariel Felner,2005,10,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-022-09828-9,Optimization strategies for the bilevel network design problem with affine cost functions,Alexander Krylatov and Anastasiya Raevskaya and Petr Ageev,2022,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-021-09746-2,Ranking kinematics for revising by contextual information,Meliha Sezgin and Gabriele Kern-Isberner and Christoph Beierle,2021,1,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-019-09633-x,A multiparametric view on answer set programming,Johannes K. Fichte and Martin Kronegger and Stefan Woltran,2019,3,Annals of Mathematics and Artificial Intelligence
@@ -197,44 +193,53 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10472-013-9365-7,Representing and solving finite-domain constraint problems using systems of polynomials,Christopher Jefferson and Peter Jeavons and Martin J. Green and M. R. C. van Dongen,2013,5,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-007-9068-z,Evolving objects in temporal information systems,Alessandro Artale and Christine Parent and Stefano Spaccapietra,2007,19,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1015869832085,n.m.,,2002,2,Annals of Mathematics and Artificial Intelligence
-10.1023/a:1013133428451,n.m.,Sven Hartmann,2001,37,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1015868307494,n.m.,Vijay Khatri and Sudha Ram and Richard T. Snodgrass and Grady M. O'Brien,2002,11,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-022-09830-1,On the finite representation of linear group equivariant operators via permutant measures,Giovanni Bocchi and Stefano Botteghi and Martina Brasini and Patrizio Frosini and Nicola Quercioli,2023,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-007-9069-y,Solving abduction by computing joint explanations,Gianluigi Greco,2007,2,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1014422615720,n.m.,Angelo Gilio,2002,66,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-017-9535-0,A spatio-temporal framework for managing archeological data,Alberto Belussi and Sara Migliorini,2017,12,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-009-9162-5,On the computational complexity of weighted voting games,Edith Elkind and Leslie Ann Goldberg and Paul W. Goldberg and Michael Wooldridge,2009,32,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-014-9425-7,Fitting discrete polynomial curve and surface to noisy data,Fumiki Sekiya and Akihiro Sugimoto,2015,6,Annals of Mathematics and Artificial Intelligence
-10.1023/a:1016713501153,n.m.,Manfred Jaeger,2001,24,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-011-9247-9,The algorithmization of counterfactuals,Judea Pearl,2011,16,Annals of Mathematics and Artificial Intelligence
-10.1023/a:1014492408220,n.m.,Filippo Focacci and Andrea Lodi and Michela Milano,2002,23,Annals of Mathematics and Artificial Intelligence
-10.1023/a:1026106029043,n.m.,Joachim Biskup and Piero A. Bonatti,2004,40,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-007-9056-3,Relational concept discovery in structured datasets,M. Huchard and M. Rouane Hacene and C. Roume and P. Valtchev,2007,44,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-019-09630-0,Competing hypotheses and abductive inference,David H. Glass,2021,2,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-005-9001-2,Finding optimal solutions to the graph partitioning problem with heuristic search,Ariel Felner,2005,10,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-021-09742-6,Coherent lower and upper conditional previsions defined by Hausdorff inner and outer measures to represent the role of conscious and unconscious thought in human decision making,Serena Doria,2021,2,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-013-9383-5,Cooperative exploration and protection of a workspace assisted by information networks,Jonghoek Kim,2014,21,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-008-9088-3,A three-valued semantics for querying and repairing inconsistent databases,Filippo Furfaro and Sergio Greco and Cristian Molinaro,2007,21,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-018-9613-y,Relative deviation learning bounds and generalization with unbounded loss functions,Corinna Cortes and Spencer Greenberg and Mehryar Mohri,2019,4,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-020-09697-0,LogAG: An algebraic non-monotonic logic for reasoning with graded propositions,Nourhan Ehab and Haythem O. Ismail,2021,3,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-013-9368-4,Cross-conformal predictors,Vladimir Vovk,2015,52,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-012-9293-y,"Variable space diversity, crossover and mutation in MOEA solving many-objective knapsack problems",Hiroyuki Sato and Hernán Aguirre and Kiyoshi Tanaka,2013,24,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-023-09836-3,Practical investment with the long-short game,Najim Al-baghdadi and Yuri Kalnishkan and David Lindsay and Siân Lindsay,2023,0,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-009-9123-z,Efficient exploration of unknown indoor environments using a team of mobile robots,Cyrill Stachniss and Óscar Martínez Mozos and Wolfram Burgard,2008,42,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-009-9121-1,The giving tree: constructing trees for efficient offline and online multi-robot coverage,Noa Agmon and n.m. n.m. and Noam Hazon and Gal A. Kaminka,2008,49,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-019-09647-5,Soft computing methods for multiobjective location of garbage accumulation points in smart cities,Jamal Toutouh and Diego Rossit and Sergio Nesmachnow,2020,15,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-013-9368-4,Cross-conformal predictors,Vladimir Vovk,2015,50,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-010-9222-x,A new stochastic approach for solution of Riccati differential equation of fractional order,Muhammad Asif Zahoor Raja and Junaid Ali Khan and Ijaz Mansoor Qureshi,2010,73,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-022-09825-y,Correction to: The logic of secrets and the interpolation rule,Zuojun Xiong and Thomas Ågotnes,2023,0,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-011-9230-5,Discovering the suitability of optimisation algorithms by learning from evolved instances,Kate Smith-Miles and Jano van Hemert,2011,70,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-014-9425-7,Fitting discrete polynomial curve and surface to noisy data,Fumiki Sekiya and Akihiro Sugimoto,2015,6,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-014-9404-z,Cellular topology and topological coordinate systems on the hexagonal and on the triangular grids,Benedek Nagy,2015,26,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-020-09725-z,Column generation for the equilibrium route-flow traffic assignment problem,Alexander Krylatov,2022,1,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-011-9267-5,Using formal methods with SysML in aerospace design and engineering,Henson Graves and Yvonne Bijan,2011,19,Annals of Mathematics and Artificial Intelligence
+10.1023/a:1013133428451,n.m.,Sven Hartmann,2001,38,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-020-09710-6,Multivariate time series analysis from a Bayesian machine learning perspective,Jinwen Qiu and S. Rao Jammalamadaka and Ning Ning,2020,7,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-020-09689-0,Human-in-the-loop active learning via brain computer interface,Eitan Netzer and Amir B. Geva,2020,8,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-011-9247-9,The algorithmization of counterfactuals,Judea Pearl,2011,16,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-016-9496-8,Compact representations of all members of an independence system,Utz-Uwe Haus and Carla Michini,2017,4,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-009-9159-0,Disjunctive databases for representing repairs,Cristian Molinaro and Jan Chomicki and Jerzy Marcinkowski,2009,6,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-007-9064-3,Region–based theory of discrete spaces: A proximity approach,Ivo Düntsch and Dimiter Vakarelov,2007,35,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-017-9540-3,Criteria of efficiency for set-valued classification,Vladimir Vovk and Ilia Nouretdinov and Valentina Fedorova and Ivan Petej and Alex Gammerman,2017,5,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-017-9553-y,A symbolic algebra for the computation of expected utilities in multiplicative influence diagrams,Manuele Leonelli and Eva Riccomagno and Jim Q. Smith,2017,1,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-020-09715-1,Correction to: Directed Lovász Local Lemma and Shearer’s Lemma,Lefteris Kirousis and John Livieratos and Kostas I. Psaromiligkos,2021,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-017-9549-7,Tennis manipulation: can we help serena williams win another tournament?,Lior Aronshtam and Havazelet Cohen and Tammar Shrot,2017,3,Annals of Mathematics and Artificial Intelligence
 10.1023/b:amai.0000012868.41613.e7,Locally Determined Logic Programs and Recursive Stable Models,Douglas Cenzer and Jeffrey B. Remmel and Amy Vanderbilt,2004,2,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-020-09692-5,Learning non-convex abstract concepts with regulated activation networks,Rahul Sharma and Bernardete Ribeiro and Alexandre Miguel Pinto and F. Amílcar Cardoso,2020,3,Annals of Mathematics and Artificial Intelligence
+10.1023/a:1016734104787,n.m.,A.P. Dawid,2001,32,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-022-09823-0,A data-driven approach to neural architecture search initialization,Kalifou René Traoré and Andrés Camero and Xiao Xiang Zhu,2023,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-010-9189-7,Factorization of fuzzy concept lattices with hedges by modification of input data,Michal Krupka,2010,1,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-018-9596-8,Path homotopy invariants and their application to optimal trajectory planning,Subhrajit Bhattacharya and Robert Ghrist,2018,14,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-009-9159-0,Disjunctive databases for representing repairs,Cristian Molinaro and Jan Chomicki and Jerzy Marcinkowski,2009,6,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-017-9543-0,Robust visual tracking using information theoretical learning,Weifu Ding and Jiangshe Zhang,2017,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-021-09760-4,On matrices and K-relations,Robert Brijder and Marc Gyssens and Jan Van den Bussche,2022,0,Annals of Mathematics and Artificial Intelligence
 10.1023/b:amai.0000034521.22009.8d,Multi-Agent Dynamic Logics with Informational Test,Renate A. Schmidt and Dmitry Tishkovsky,2004,5,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-020-09712-4,Black-box combinatorial optimization using models with integer-valued minima,Laurens Bliek and Sicco Verwer and Mathijs de Weerdt,2021,4,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-017-9564-8,A Bayesian interpretation of the confusion matrix,Olivier Caelen,2017,57,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-015-9482-6,Constraint-preserving snapshot isolation,Stephen J. Hegner,2016,0,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1018943920174,n.m.,Bart Selman,2000,4,Annals of Mathematics and Artificial Intelligence
 10.1023/b:amai.0000034534.36300.73,Introduction,Jürgen Dix and João Leite and Ken Satoh,2004,1,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-013-9375-5,Functional dependencies are helpful for partial materialization of data cubes,Eve Garnaud and Sofian Maabout and Mohamed Mosbah,2015,4,Annals of Mathematics and Artificial Intelligence
-10.1023/a:1018995904244,n.m.,Oliviero Stock,2000,1,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-015-9484-4,Assessing the epistemological relevance of Dung-style argumentation theories,Gregor Betz,2016,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-014-9421-y,On finding a shortest isothetic path and its monotonicity inside a digital object,Mousumi Dutt and Arindam Biswas and Partha Bhowmick and Bhargab B. Bhattacharya,2015,3,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-018-9599-5,Towards a better integration of modelers and black box constraint solvers within the product design process,Jean-Philippe Pernot and Dominique Michelucci and Marc Daniel and Sebti Foufou,2019,2,Annals of Mathematics and Artificial Intelligence
@@ -277,7 +282,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10472-009-9161-6,General default logic,Yi Zhou and Fangzhen Lin and Yan Zhang,2009,3,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1016358201013,n.m.,Ofer Arieli,2002,17,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1022959613174,n.m.,n.m. The ACTIVEMATH group and Erica Melis and Jochen Büdenbender and George Goguadze and Paul Libbrecht and Carsten Ullrich,2003,8,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-019-09626-w,Complexity and approximability of the Euclidean generalized traveling salesman problem in grid clusters,Michael Khachay and Katherine Neznakhina,2020,8,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-009-9151-8,Automated verification of refinement laws,Peter Höfner and Georg Struth and Geoff Sutcliffe,2009,8,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-010-9183-0,A resistant learning procedure for coping with outliers,Rua-Huan Tsaih and Tsung-Chi Cheng,2009,8,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-016-9533-7,Foreword,Lisa Hellerstein and Lev Reyzin and Gyorgy Turan,2017,0,Annals of Mathematics and Artificial Intelligence
@@ -286,8 +290,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10472-017-9554-x,Conformal decision-tree approach to instance transfer,S. Zhou and E. N. Smirnov and G. Schoenmakers and R. Peeters,2017,4,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-011-9242-1,Computing weighted solutions in ASP: representation-based method vs. search-based method,Duygu Cakmak and Esra Erdem and Halit Erdogan,2011,0,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1016850221182,n.m.,,2001,0,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-020-09692-5,Learning non-convex abstract concepts with regulated activation networks,Rahul Sharma and Bernardete Ribeiro and Alexandre Miguel Pinto and F. Amílcar Cardoso,2020,2,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-016-9500-3,Computing envelopes in dynamic geometry environments,Francisco Botana and Tomas Recio,2017,7,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-007-9052-7,Derivative of functions over lattices as a basis for the notion of interaction between attributes,Michel Grabisch and Christophe Labreuche,2007,7,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-018-9590-1,Rewriting input expressions in complex algebraic geometry provers,Z. Kovács and T. Recio and C. Sólyom-Gecse,2019,9,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-012-9276-z,Autonomous sets for the hypergraph of all canonical covers,Henning Köhler,2011,1,Annals of Mathematics and Artificial Intelligence
@@ -306,6 +308,7 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10472-009-9137-6,A semiparametric generative model for efficient structured-output supervised learning,Fabrizio Costa and Andrea Passerini and Marco Lippi and Paolo Frasconi,2008,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-010-9209-7,Preface,Frank van Harmelen and Andreas Herzig and Pascal Hitzler and Guilin Qi,2010,1,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-012-9307-9,A propositional probabilistic logic with discrete linear time for reasoning about evidence,Zoran Ognjanović and Zoran Marković and Miodrag Rašković and Dragan Doder and Aleksandar Perović,2012,1,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-014-9403-0,A semantic approach to concept lattice-based information retrieval,Victor Codocedo and Ioanna Lykourentzou and Amedeo Napoli,2014,19,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-009-9156-3,Invariants for the FoCaL language,Renaud Rioboo,2009,4,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1016688707365,n.m.,Vladimir Yanovski and Israel A. Wagner and Alfred M. Bruckstein,2001,12,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-010-9207-9,FO(ID) as an extension of DL with rules,Joost Vennekens and Marc Denecker and Maurice Bruynooghe,2010,4,Annals of Mathematics and Artificial Intelligence
@@ -333,16 +336,20 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10472-012-9321-y,A logic-algebraic approach to decision taking in a railway interlocking system,Antonio Hernando and Eugenio Roanes-Lozano and Roberto Maestre-Martínez and Jorge Tejedor,2012,6,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1018987702427,n.m.,Hélène Kirchner,2000,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-018-9603-0,Implementing Euclid’s straightedge and compass constructions in type theory,Ariel Kellison and Mark Bickford and Robert Constable,2019,1,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-016-9500-3,Computing envelopes in dynamic geometry environments,Francisco Botana and Tomas Recio,2017,8,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-016-9527-5,Meeting a deadline: shortest paths on stochastic directed acyclic graphs with information gathering,Mikko Lauri and Aino Ropponen and Risto Ritala,2017,1,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-011-9269-3,Preface to the special issue on computational logics in multi-agent systems,Jürgen Dix and João Leite,2011,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-014-9419-5,The IBMAP approach for Markov network structure learning,Federico Schlüter and Facundo Bromberg and Alejandro Edera,2014,3,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1026045117768,n.m.,,2003,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-021-09771-1,Order-sorted equational generalization algorithm revisited,María Alpuente and Santiago Escobar and José Meseguer and Julia Sapiña,2022,3,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-015-9483-5,Belief revision in structured probabilistic argumentation,Paulo Shakarian and Gerardo I. Simari and Geoffrey Moores and Damon Paulo and Simon Parsons and Marcelo A. Falappa and Ashkan Aleali,2016,16,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-012-9280-3,Tightly integrated probabilistic description logic programs for representing ontology mappings,Thomas Lukasiewicz and Livia Predoiu and Heiner Stuckenschmidt,2011,11,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-010-9196-8,An application of formal concept analysis to semantic neural decoding,Dominik Maria Endres and Peter Földiák and Uta Priss,2009,9,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-013-9376-4,The dark side of interval temporal logic: marking the undecidability border,Davide Bresolin and Dario Della Monica and Valentin Goranko and Angelo Montanari and Guido Sciavicco,2014,21,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-012-9311-0,Dealing with explicit preferences and uncertainty in answer set programming,Roberto Confalonieri and Juan Carlos Nieves and Mauricio Osorio and Javier Vázquez-Salceda,2012,8,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1024412831598,n.m.,Shlomo Zilberstein and François Charpillet and Philippe Chassaing,2003,7,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-015-9456-8,A kd-tree algorithm to discover the boundary of a black box hypervolume,Jean-Baptiste Rouquier and Isabelle Alvarez and Romain Reuillon and Pierre-Henri Wuillemin,2015,5,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-005-0417-5,On SAT instance classes and a method for reliable performance experiments with SAT solvers,Franc Brglez and Xiao Yu Li and Matthias F. Stallmann,2005,8,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-006-9042-1,Mechanizing common knowledge logic using COQ,Pierre Lescanne,2006,3,Annals of Mathematics and Artificial Intelligence
-10.1023/a:1016734104787,n.m.,A.P. Dawid,2001,31,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1014531116863,n.m.,Andrea Capotorti and Barbara Vantaggi,2002,31,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1022976016809,n.m.,Peter Baumgartner and Ulrich Furbach,2003,4,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-014-9405-y,Multi-adjoint concept lattices with heterogeneous conjunctors and hedges,J. Konecny and J. Medina and M. Ojeda-Aciego,2014,24,Annals of Mathematics and Artificial Intelligence
@@ -354,9 +361,9 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10472-018-9597-7,From informal to formal proofs in Euclidean geometry,Sana Stojanović-Ðurđević,2019,2,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-022-09791-5,Multiple-source adaptation theory and algorithms – addendum,Judy Hoffman and Mehryar Mohri and Ningshan Zhang,2022,1,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-021-09729-3,Evolutionary game analysis on government subsidy policy and bank loan strategy in China’s distributed photovoltaic market,Xing Zhu and Baoyu Liao and Shanlin Yang and Panos M. Pardalos,2022,1,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-019-09628-8,Privacy stochastic games in distributed constraint reasoning,Julien Savaux and Julien Vion and Sylvain Piechowiak and René Mandiau and Toshihiro Matsui and Katsutoshi Hirayama and Makoto Yokoo and Shakre Elmane and Marius Silaghi,2020,2,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-020-09717-z,Data-driven algorithm selection and tuning in optimization and signal processing,Jesús A. De Loera and Jamie Haddock and Anna Ma and Deanna Needell,2021,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-022-09818-x,Road networks structure analysis: A preliminary network science-based approach,Selim Reza and Marta Campos Ferreira and J.J.M. Machado and João Manuel R.S. Tavares,2022,0,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-015-9456-8,A kd-tree algorithm to discover the boundary of a black box hypervolume,Jean-Baptiste Rouquier and Isabelle Alvarez and Romain Reuillon and Pierre-Henri Wuillemin,2015,5,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-019-09654-6,Blending under deconstruction,Roberto Confalonieri and Oliver Kutz,2020,3,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1022911730013,n.m.,F. Fürst and M. Leclère and F. Trichet,2003,6,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-019-09679-x,Multiple k −opt evaluation multiple k −opt moves with GPU high performance local search to large-scale traveling salesman problems,Wen-Bao Qiao and Jean-Charles Créput,2020,1,Annals of Mathematics and Artificial Intelligence
@@ -377,10 +384,9 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10472-007-9063-4,A local approach to concept generation,Anne Berry and Jean-Paul Bordat and Alain Sigayret,2007,17,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-011-9248-8,Automated theorem provers: a practical tool for the working mathematician?,Alan Bundy,2011,15,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-023-09837-2,Investigating the impact of calibration on the quality of explanations,Helena Löfström and Tuwe Löfström and Ulf Johansson and Cecilia Sönströd,2023,0,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-020-09712-4,Black-box combinatorial optimization using models with integer-valued minima,Laurens Bliek and Sicco Verwer and Mathijs de Weerdt,2021,5,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-015-9461-y,Toward the complexity of the existence of wonderfully stable partitions and strictly core stable coalition structures in enemy-oriented hedonic games,Anja Rey and Jörg Rothe and Hilmar Schadrack and Lena Schend,2016,4,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-017-9563-9,Bringing existential variables in answer set programming and bringing non-monotony in existential rules: two sides of the same coin,Jean-François Baget and Laurent Garcia and Fabien Garreau and Claire Lefèvre and Swan Rocher and Igor Stéphan,2018,1,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-007-9064-3,Region–based theory of discrete spaces: A proximity approach,Ivo Düntsch and Dimiter Vakarelov,2007,34,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-011-9270-x,Kripke modelling and verification of temporal specifications of a multiple UAV system,Gopinadh Sirigineedi and Antonios Tsourdos and Brian A. White and Rafał Żbikowski,2011,9,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1026088710874,n.m.,Pierre Marquis and Nadège Porquet,2003,7,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-019-09646-6,Effective IG heuristics for a single-machine scheduling problem with family setups and resource constraints,Júlio C. S. N. Pinheiro and José Elias C. Arroyo,2020,6,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1018932114059,n.m.,Maria Paola Bonacina,2000,17,Annals of Mathematics and Artificial Intelligence
@@ -399,28 +405,25 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1023/a:1018956702672,n.m.,Patricia Johann and Eelco Visser,2000,9,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-008-9086-5,Complexity results for answer set programming with bounded predicate arities and implications,Thomas Eiter and Wolfgang Faber and Michael Fink and Stefan Woltran,2007,25,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-009-9145-6,A formal analysis of interest-based negotiation,Iyad Rahwan and Philippe Pasquier and Liz Sonenberg and Frank Dignum,2009,11,Annals of Mathematics and Artificial Intelligence
-10.1023/a:1018960323808,n.m.,Samir Chopra and Rohit Parikh,2000,26,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-017-9538-x,Knowledge transfer in SVM and neural networks,Vladimir Vapnik and Rauf Izmailov,2017,57,Annals of Mathematics and Artificial Intelligence
+10.1023/a:1022967814992,n.m.,Bruce R. Miller and Abdou Youssef,2003,52,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-012-9279-9,Database preference queries—a possibilistic logic approach with symbolic priorities,Allel Hadjali and Souhila Kaci and Henri Prade,2011,20,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-005-9011-0,Epistemic irrelevance on sets of desirable gambles,Serafín Moral,2005,26,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-013-9374-6,Preserving confidentiality while reacting on iterated queries and belief revisions,Joachim Biskup and Cornelia Tadros,2015,7,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-013-9330-5,Bribery in voting with CP-nets,Nicholas Mattei and Maria Silvia Pini and Francesca Rossi and K. Brent Venable,2013,11,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-022-09829-8,Automatic error function learning with interpretable compositional networks,Florian Richoux and Jean-François Baffier,2023,0,Annals of Mathematics and Artificial Intelligence
 10.1023/b:amai.0000034522.25580.09,Logical Preference Representation and Combinatorial Vote,Jérôme Lang,2004,67,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-014-9427-5,Offline handwritten signature verification using local and global features,The-Anh Pham and Hong-Ha Le and Nang-Toan Do,2015,12,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-015-9483-5,Belief revision in structured probabilistic argumentation,Paulo Shakarian and Gerardo I. Simari and Geoffrey Moores and Damon Paulo and Simon Parsons and Marcelo A. Falappa and Ashkan Aleali,2016,16,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-012-9280-3,Tightly integrated probabilistic description logic programs for representing ontology mappings,Thomas Lukasiewicz and Livia Predoiu and Heiner Stuckenschmidt,2011,11,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-010-9196-8,An application of formal concept analysis to semantic neural decoding,Dominik Maria Endres and Peter Földiák and Uta Priss,2009,9,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-013-9376-4,The dark side of interval temporal logic: marking the undecidability border,Davide Bresolin and Dario Della Monica and Valentin Goranko and Angelo Montanari and Guido Sciavicco,2014,21,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-018-9608-8,"Acronyms: identification, expansion and disambiguation",Kayla Jacobs and Alon Itai and Shuly Wintner,2020,7,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-014-9403-0,A semantic approach to concept lattice-based information retrieval,Victor Codocedo and Ioanna Lykourentzou and Amedeo Napoli,2014,19,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-012-9311-0,Dealing with explicit preferences and uncertainty in answer set programming,Roberto Confalonieri and Juan Carlos Nieves and Mauricio Osorio and Javier Vázquez-Salceda,2012,8,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-021-09743-5,A robust multiobjective model for the integrated berth and quay crane scheduling problem at seaside container terminals,Abtin Nourmohammadzadeh and Stefan Voß,2022,4,Annals of Mathematics and Artificial Intelligence
-10.1023/a:1022967814992,n.m.,Bruce R. Miller and Abdou Youssef,2003,51,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-022-09813-2,Learning from obstructions: An effective deep learning approach for minimum vertex cover,Faisal N. Abu-Khzam and Mohamed M. Abd El-Wahab and Moussa Haidous and Noureldin Yosri,2022,1,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-017-9564-8,A Bayesian interpretation of the confusion matrix,Olivier Caelen,2017,55,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-009-9157-2,Is VAT really single linkage in disguise?,Timothy C. Havens and James C. Bezdek and James M. Keller and Mihail Popescu and Jacalyn M. Huband,2009,25,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-021-09743-5,A robust multiobjective model for the integrated berth and quay crane scheduling problem at seaside container terminals,Abtin Nourmohammadzadeh and Stefan Voß,2022,4,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-011-9270-x,Kripke modelling and verification of temporal specifications of a multiple UAV system,Gopinadh Sirigineedi and Antonios Tsourdos and Brian A. White and Rafał Żbikowski,2011,9,Annals of Mathematics and Artificial Intelligence
+10.1023/a:1018960323808,n.m.,Samir Chopra and Rohit Parikh,2000,27,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-014-9427-5,Offline handwritten signature verification using local and global features,The-Anh Pham and Hong-Ha Le and Nang-Toan Do,2015,12,Annals of Mathematics and Artificial Intelligence
+10.1023/a:1018995904244,n.m.,Oliviero Stock,2000,2,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-019-09628-8,Privacy stochastic games in distributed constraint reasoning,Julien Savaux and Julien Vion and Sylvain Piechowiak and René Mandiau and Toshihiro Matsui and Katsutoshi Hirayama and Makoto Yokoo and Shakre Elmane and Marius Silaghi,2020,3,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-018-9608-8,"Acronyms: identification, expansion and disambiguation",Kayla Jacobs and Alon Itai and Shuly Wintner,2020,7,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-017-9542-1,Efficient design of experiments for sensitivity analysis based on polynomial chaos expansions,Evgeny Burnaev and Ivan Panin and Bruno Sudret,2017,26,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-012-9279-9,Database preference queries—a possibilistic logic approach with symbolic priorities,Allel Hadjali and Souhila Kaci and Henri Prade,2011,20,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-019-09626-w,Complexity and approximability of the Euclidean generalized traveling salesman problem in grid clusters,Michael Khachay and Katherine Neznakhina,2020,8,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-008-9105-6,"Editorial: Annals of Mathematics and Artificial Intelligence special issue on multi-robot coverage, search, and exploration",Gal A. Kaminka and Amir Shapiro,2008,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-009-9134-9,Learning directed probabilistic logical models: ordering-search versus structure-search,Daan Fierens and Jan Ramon and Maurice Bruynooghe and Hendrik Blockeel,2008,2,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-010-9204-z,Preface,Berthe Y. Choueiry and Bob Givan,2010,0,Annals of Mathematics and Artificial Intelligence
@@ -429,12 +432,10 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10472-016-9519-5,How does incoherence affect inconsistency-tolerant semantics for Datalog±?,Cristhian A. D. Deagustini and M. Vanina Martinez and Marcelo A. Falappa and Guillermo R. Simari,2018,5,Annals of Mathematics and Artificial Intelligence
 10.1023/b:amai.0000012872.46214.11,Satisfiability-Based Algorithms for Boolean Optimization,Vasco M. Manquinho and João P. Marques-Silva,2004,8,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-007-9082-1,A new approach to hybrid probabilistic logic programs,Emad Saad and Enrico Pontelli,2007,1,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-015-9478-2,The complexity of priced control in elections,Tomasz Miasko and Piotr Faliszewski,2016,4,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-010-9211-0,Genetic algorithms and particle swarm optimization for exploratory projection pursuit,Alain Berro and Souad Larabi Marie-Sainte and Anne Ruiz-Gazen,2010,30,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-009-9128-7,Multiple UAV exploration of an unknown region,P. B. Sujit and Randy Beard,2008,6,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-017-9570-x,Sentence entailment in compositional distributional semantics,Mehrnoosh Sadrzadeh and Dimitri Kartsaklis and Esma Balkır,2018,8,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1024480428872,n.m.,Rachel A. Bourne and Simon Parsons,2003,2,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-009-9140-y,"The monoids of orders eight, nine &amp; ten",Andreas Distler and Tom Kelsey,2009,17,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-019-09648-4,Optimal probability aggregation based on generalized brier scoring,Christian J. Feldbacher-Escamilla and Gerhard Schurz,2020,5,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-010-9175-0,On the decentralized coordination of herding activities: a Jadex-based solution,Gregor Balthasar and Jan Sudeikat and Wolfgang Renz,2010,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-005-0426-4,Restarts and exponential acceleration of the Davis-Putnam-Loveland-Logemann algorithm: A large deviation analysis of the generalized unit clause heuristic for random 3-SAT,Simona Cocco and Rémi Monasson,2005,0,Annals of Mathematics and Artificial Intelligence
@@ -449,12 +450,16 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10472-011-9239-9,Guest editorial: Special issue based on the LION 4 conference,Christian Blum and Roberto Battiti,2011,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-021-09765-z,Structured argumentation dynamics,Stipe Pandžić,2022,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-007-9066-1,Introduction to the special volume on knowledge discovery and discrete mathematics and a tribute to the memory of Peter L. Hammer,Anne Berry and Eric SanJuan and Maurice Pouzet and Martin C. Golumbic,2007,1,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-013-9384-4,Reliable indoor location prediction using conformal prediction,Khuong An Nguyen and Zhiyuan Luo,2015,6,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-011-9257-7,Similarity measures in formal concept analysis,Faris Alqadah and Raj Bhatnagar,2011,31,Annals of Mathematics and Artificial Intelligence
+10.1023/a:1016399308282,n.m.,Peter Revesz and Mengchu Cai,2002,14,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1016777919808,n.m.,Roger Cooke and Philippe Smets,2001,1,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-018-9572-3,Introducing statistical consistency for infinite chance constraints,Imen Zghidi and Brahim Hnich and Abdelwaheb Rebai,2018,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-016-9504-z,Design and implementation of maple packages for processing offsets and conchoids,Juana Sendra and David Gómez Sánchez-Pascuala and Valerio Morán,2017,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-021-09766-y,Uncertain reasoning,Alessandro Antonucci and Salem Benferhat and Kamal Premaratne,2021,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-013-9349-7,A model for learning the news in social networks,Krishnan Rajagopalan and Venkatesh Srinivasan and Alex Thomo,2015,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-005-0428-2,Exact 3-satisfiability is decidable in time O(20.16254n ),Stefan Porschen and Bert Randerath and Ewald Speckenmeyer,2005,4,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-013-9366-6,A conformal prediction approach to explore functional data,Jing Lei and Alessandro Rinaldo and Larry Wasserman,2015,21,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-011-9234-1,The impact of available information on negotiation results,Rina Azoulay-Schwartz and Daphna Dor-Shiffer,2010,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-017-9566-6,A polynomial relational class of binary CSP,Wafa Jguirim and Wady Naanaa and Martin C. Cooper,2018,0,Annals of Mathematics and Artificial Intelligence
 10.1023/b:amai.0000038175.53999.3a,Bounded Nondeterminism of Logic Programs,Dino Pedreschi and Salvatore Ruggieri,2004,0,Annals of Mathematics and Artificial Intelligence
@@ -481,7 +486,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10472-012-9278-x,Information-based distance measures and the canonical reflection of view updates,Stephen J. Hegner,2011,1,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-010-9223-9,Where logic and agents meet,Jürgen Dix and Michael Fisher,2011,5,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-020-09713-3,Cognition and Neurocomputation,Larry M. Manevitz and Alex Frid,2020,0,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-014-9426-6,Topology preservation on the triangular grid,Péter Kardos and Kálmán Palágyi,2015,18,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-011-9249-7,Combining and automating classical and non-classical logics in classical higher-order logics,Christoph Benzmüller,2011,8,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1016692827517,n.m.,,2001,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-018-9595-9,Preface,Marc Gyssens and Guillermo R. Simari,2018,0,Annals of Mathematics and Artificial Intelligence
@@ -489,8 +493,8 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10472-006-9018-1,A clausal resolution method for branching-time logic ECTL+,Alexander Bolotov and Artie Basukoski,2006,3,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-005-9017-7,Sequent forms of Herbrand theorem and their applications,Alexander Lyaletski,2006,3,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1016094912264,n.m.,Jochen Pfalzgraf,2002,0,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-006-9026-1,Answer set based design of knowledge systems,Marcello Balduccini and Michael Gelfond and Monica Nogueira,2006,33,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-006-9037-y,Bargaining over multiple issues in finite horizon alternating-offers protocol,Francesco Di Giunta and Nicola Gatti,2006,11,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-023-09831-8,Hypergeometric structures in Feynman integrals,J. Blümlein and M. Saragnese and C. Schneider,2023,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-005-1808-3,Sequent calculi for skeptical reasoning in predicate default logic and other nonmonotonic logics,Robert Saxon Milnikel,2005,3,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-015-9469-3,On the hardness of bribery variants in voting with CP-nets,Britta Dorn and Dominikus Krüger,2016,4,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1024694828898,n.m.,,2003,0,Annals of Mathematics and Artificial Intelligence
@@ -502,6 +506,8 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10472-018-9594-x,Multi-agent programming contest 2017,Tobias Ahlbrecht and Jürgen Dix and Niklas Fiekas,2018,8,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-009-9119-8,Hyperequivalence of logic programs with respect to supported models,Mirosław Truszczyński and Stefan Woltran,2008,3,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-021-09738-2,Automated non-monotonic reasoning in System P,Tatjana Stojanović and Nebojša Ikodinović and Tatjana Davidović and Zoran Ognjanović,2021,0,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-015-9478-2,The complexity of priced control in elections,Tomasz Miasko and Piotr Faliszewski,2016,5,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-009-9140-y,"The monoids of orders eight, nine &amp; ten",Andreas Distler and Tom Kelsey,2009,18,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-015-9454-x,Two axiomatic characterizations for the system of spheres-based (and the Epistemic Entrenchment-based) multiple contractions,Maurício D. L. Reis and Pavlos Peppas and Eduardo Fermé,2016,1,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-019-09639-5,A framework for comparing query languages in their ability to express boolean queries,Dimitri Surinx and Jan Van den Bussche and Dirk Van Gucht,2019,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-011-9244-z,Forward,Martin Charles Golumbic,2011,0,Annals of Mathematics and Artificial Intelligence
@@ -517,19 +523,20 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10472-009-9172-3,Static and dynamic structural symmetry breaking,Pierre Flener and Justin Pearson and Meinolf Sellmann,2009,3,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-020-09707-1,Categorical study for algebras of Fitting’s lattice-valued logic and lattice-valued modal logic,Kumar Sankar Ray and Litan Kumar Das,2021,1,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-022-09826-x,Cost-aware sequential diagnostics,Bernhard Ganter,2022,0,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-022-09788-0,Learning machiavellian strategies for manipulation in Stackelberg security games,Julio B. Clempner,2022,3,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-022-09793-3,Hyperparameter autotuning of programs with HybridTuner,Benjamin Sauk and Nikolaos V. Sahinidis,2022,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-019-09661-7,Dynamic search trajectory methods for global optimization,Stamatios-Aggelos N. Alexandropoulos and Panos M. Pardalos and Michael N. Vrahatis,2020,2,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-005-0419-3,The complexity of Boolean constraint satisfaction local search problems,Philippe Chapdelaine and Nadia Creignou,2005,5,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-019-09621-1,"A parallel memory-efficient epistemic logic program solver: harder, better, faster",Patrick Thor Kahl and Anthony P. Leclerc and Son Cao Tran,2019,0,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1016007415899,n.m.,Russell Bradford and Robert M. Corless and James H. Davenport and David J. Jeffrey and Stephen M. Watt,2002,18,Annals of Mathematics and Artificial Intelligence
-10.1023/a:1021560510377,n.m.,Jürgen Dix and Héctor Muñoz-Avila and Dana S. Nau and Lingling Zhang,2003,12,Annals of Mathematics and Artificial Intelligence
 10.1023/b:amai.0000031196.24935.b5,Programming Rational Agents in a Modal Action Logic,Matteo Baldoni and Alberto Martelli and Viviana Patti and Laura Giordano,2004,14,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-022-09811-4,Adversarial attacks on graph-level embedding methods: a case study,Maurizio Giordano and Lucia Maddalena and Mario Manzo and Mario Rosario Guarracino,2022,1,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-012-9291-0,Qualitative and quantitative conditions for the transitivity of perceived causation:,Jean-François Bonnefon and Rui Da Silva Neves and Didier Dubois and Henri Prade,2012,8,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-013-9339-9,A math-heuristic Dantzig-Wolfe algorithm for capacitated lot sizing,Marco Caserta and Stefan Voß,2013,10,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-008-9089-2,"Computing most probable worlds of action probabilistic logic programs: scalable estimation for 1030,000 worlds",Samir Khuller and M. Vanina Martinez and Dana Nau and Amy Sliva and Gerardo I. Simari and V. S. Subrahmanian,2007,27,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-007-9076-z,External sources of knowledge and value invention in logic programming,Francesco Calimeri and Susanna Cozza and Giovambattista Ianni,2007,30,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1016638723526,n.m.,Geoffroy De Schutter and Guy Theraulaz and Jean-Louis Deneubourg,2001,21,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-014-9424-8,Skin lesion feature vectors classification in models of a Riemannian manifold,Nikolay Metodiev Sirakov and Ye-Lin Ou and Mutlu Mete,2015,8,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-014-9418-6,Hermes: a simple and efficient algorithm for building the AOC-poset of a binary relation,Anne Berry and Alain Gutierrez and Marianne Huchard and Amedeo Napoli and Alain Sigayret,2014,16,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-021-09756-0,A dual RAMP algorithm for single source capacitated facility location problems,Óscar Oliveira and Telmo Matos and Dorabela Gamboa,2021,2,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-021-09761-3,Topological measurement of deep neural networks using persistent homology,Satoru Watanabe and Hayato Yamana,2022,5,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-014-9434-6,Formalizing a discrete model of the continuum in Coq from a discrete geometry perspective,Nicolas Magaud and Agathe Chollet and Laurent Fuchs,2015,3,Annals of Mathematics and Artificial Intelligence
@@ -550,20 +557,15 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10472-005-0425-5,Efficient data structures for backtrack search SAT solvers,Inês Lynce and João Marques-Silva,2005,7,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1022907629104,n.m.,Andrea Asperti and Luca Padovani and Claudio Sacerdoti Coen and Ferruccio Guidi and Irene Schena,2003,31,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1013121110704,n.m.,Thomas Eiter and Thomas Lukasiewicz and Michael Walter,2001,16,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-013-9384-4,Reliable indoor location prediction using conformal prediction,Khuong An Nguyen and Zhiyuan Luo,2015,6,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-011-9257-7,Similarity measures in formal concept analysis,Faris Alqadah and Raj Bhatnagar,2011,31,Annals of Mathematics and Artificial Intelligence
-10.1023/a:1016399308282,n.m.,Peter Revesz and Mengchu Cai,2002,14,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-006-9026-1,Answer set based design of knowledge systems,Marcello Balduccini and Michael Gelfond and Monica Nogueira,2006,35,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-021-09759-x,Irreducible bin packing and normality in routing open shop,Ilya Chernykh and Artem Pyatkin,2021,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-006-9030-5,Conceptual logic programs,Stijn Heymans and Davy Van Nieuwenborgh and Dirk Vermeir,2006,7,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-022-09821-2,Correction to: Parametrized topological complexity of collision‑free motion planning in the plane,Daniel C. Cohen and Michael Farber and Shmuel Weinberger,2023,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-007-9078-x,Decision procedures for extensions of the theory of arrays,Silvio Ghilardi and Enrica Nicolini and Silvio Ranise and Daniele Zucchelli,2007,24,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-005-7036-z,Improving exact algorithms for MAX-2-SAT,Haiou Shen and Hantao Zhang,2005,12,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-015-9492-4,How many crowdsourced workers should a requester hire?,Arthur Carvalho and Stanko Dimitrov and Kate Larson,2016,12,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-010-9185-y,Optimal decompositions of matrices with grades into binary and graded matrices,Eduard Bartl and Radim Belohlavek and Jan Konecny,2010,6,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-009-9133-x,Bayesian learning of Bayesian networks with informative priors,Nicos Angelopoulos and James Cussens,2008,15,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-015-9450-1,A unifying learning framework for building artificial game-playing agents,Wenlin Chen and Yixin Chen and David K. Levine,2015,6,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-010-9186-x,Geometry of relative plausibility and relative belief of singletons,Fabio Cuzzolin,2010,5,Annals of Mathematics and Artificial Intelligence
-10.1023/a:1016705331195,n.m.,Gert de Cooman,2001,24,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-014-9411-0,Generalized pattern extraction from concept lattices,Léonard Kwuida and Rokia Missaoui and Abdélilah Balamane and Jean Vaillancourt,2014,5,Annals of Mathematics and Artificial Intelligence
 10.1023/b:amai.0000031195.87297.d9,Go! – A Multi-Paradigm Programming Language for Implementing Multi-Threaded Agents,K.L. Clark and F.G. McCabe,2004,24,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-008-9090-9,Enhancing DLV instantiator by backjumping techniques,Simona Perri and Francesco Scarcello and Gelsomina Catalano and Nicola Leone,2007,15,Annals of Mathematics and Artificial Intelligence
@@ -573,23 +575,24 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10472-009-9118-9,Stable models and difference logic,Ilkka Niemelä,2008,18,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-023-09832-7,Mechanical certification of FOLID cyclic proofs,Sorin Stratulat,2023,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-018-9573-2,Parsing as semantically guided constraint solving: the role of ontologies,Veronica Dahl and Sergio Tessaris and Mariano De Sousa Bispo,2018,1,Annals of Mathematics and Artificial Intelligence
-10.1023/a:1022915830921,n.m.,Daniel W. Lozier,2003,32,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-009-9120-2,Efficient Boustrophedon Multi-Robot Coverage: an algorithmic approach,Ioannis Rekleitis and Ai Peng New and Edward Samuel Rankin and Howie Choset,2008,124,Annals of Mathematics and Artificial Intelligence
-10.1023/a:1018939819265,n.m.,Monty Newborn,2000,17,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-015-9492-4,How many crowdsourced workers should a requester hire?,Arthur Carvalho and Stanko Dimitrov and Kate Larson,2016,12,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-009-9127-8,Distributed boundary coverage with a team of networked miniature robots using a robust market-based algorithm,Patrick Amstutz and Nikolaus Correll and Alcherio Martinoli,2008,18,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-013-9366-6,A conformal prediction approach to explore functional data,Jing Lei and Alessandro Rinaldo and Larry Wasserman,2015,19,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-019-09668-0,Deep learning models for brain machine interfaces,Lachezar Bozhkov and Petia Georgieva,2020,7,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-014-9426-6,Topology preservation on the triangular grid,Péter Kardos and Kálmán Palágyi,2015,18,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-013-9340-3,"Confluence operators and their relationships with revision, update and merging",Sébastien Konieczny and Ramon Pino Pérez,2013,2,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1016636131405,n.m.,Alessandro Artale and Enrico Franconi,2000,101,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-012-9275-0,Appropriate inferences of data dependencies in relational databases,Joachim Biskup and Sebastian Link,2011,13,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-005-9015-9,Functional and multivalued dependencies in nested databases generated by record and list constructor,Sven Hartmann and Sebastian Link and Klaus-Dieter Schewe,2006,17,Annals of Mathematics and Artificial Intelligence
-10.1023/a:1015812206586,n.m.,Kathleen Hornsby and Max J. Egenhofer,2002,177,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-014-9424-8,Skin lesion feature vectors classification in models of a Riemannian manifold,Nikolay Metodiev Sirakov and Ye-Lin Ou and Mutlu Mete,2015,8,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-014-9418-6,Hermes: a simple and efficient algorithm for building the AOC-poset of a binary relation,Anne Berry and Alain Gutierrez and Marianne Huchard and Amedeo Napoli and Alain Sigayret,2014,16,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-022-09788-0,Learning machiavellian strategies for manipulation in Stackelberg security games,Julio B. Clempner,2022,3,Annals of Mathematics and Artificial Intelligence
+10.1023/a:1018939819265,n.m.,Monty Newborn,2000,20,Annals of Mathematics and Artificial Intelligence
+10.1023/a:1016705331195,n.m.,Gert de Cooman,2001,26,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-022-09811-4,Adversarial attacks on graph-level embedding methods: a case study,Maurizio Giordano and Lucia Maddalena and Mario Manzo and Mario Rosario Guarracino,2022,1,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-012-9316-8,Global view on reactivity: switch graphs and their logics,Dov Gabbay and Sérgio Marcelino,2012,7,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-009-9120-2,Efficient Boustrophedon Multi-Robot Coverage: an algorithmic approach,Ioannis Rekleitis and Ai Peng New and Edward Samuel Rankin and Howie Choset,2008,126,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-015-9450-1,A unifying learning framework for building artificial game-playing agents,Wenlin Chen and Yixin Chen and David K. Levine,2015,6,Annals of Mathematics and Artificial Intelligence
+10.1023/a:1022915830921,n.m.,Daniel W. Lozier,2003,32,Annals of Mathematics and Artificial Intelligence
+10.1023/a:1015812206586,n.m.,Kathleen Hornsby and Max J. Egenhofer,2002,177,Annals of Mathematics and Artificial Intelligence
+10.1023/a:1021560510377,n.m.,Jürgen Dix and Héctor Muñoz-Avila and Dana S. Nau and Lingling Zhang,2003,12,Annals of Mathematics and Artificial Intelligence
 10.1023/b:amai.0000012873.60775.ba,Persistent and Quasi-Persistent Lemmas in Propositional Model Elimination,Fumiaki Okushi and Allen Van Gelder,2004,2,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-014-9423-9,Constructing Armstrong tables for general cardinality constraints and not-null constraints,Sven Hartmann and Henning Köhler and Uwe Leck and Sebastian Link and Bernhard Thalheim and Jing Wang,2015,10,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-019-09674-2,"Introduction to the special issue on belief revision, argumentation, ontologies, and norms",Eduardo Fermé and Guillermo R. Simari,2019,0,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1018952121991,n.m.,Jianguo Lu and John Mylopoulos and Masateru Harao and Masami Hagiya,2000,9,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-009-9130-0,Cooperative behavior of nano-robots as an analogous of the quantum harmonic oscillator,Gerasimos G. Rigatos,2009,2,Annals of Mathematics and Artificial Intelligence
@@ -604,10 +607,13 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10472-015-9474-6,Notes on the existence of a solution in the pairwise comparisons method using the heuristic rating estimation approach,Konrad Kułakowski,2016,3,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-019-09642-w,Kernel classification using a linear programming approach,Alexander M. Malyscheff and Theodore B. Trafalis,2020,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-005-9007-9,Robust inference of trees,Marco Zaffalon and Marcus Hutter,2005,2,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-013-9334-1,t-DeLP: an argumentation-based Temporal Defeasible Logic Programming framework,Pere Pardo and Lluís Godo,2013,5,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-020-09699-y,Foreword to special issue for ISAIM 2018,Dimitrios I. Diochnos and Jürgen Dix and Guillermo R. Simari,2020,0,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-005-9009-7,Editorial: Imprecise probability perspectives on artificial intelligence,Marco Zaffalon and Gert de Cooman,2005,0,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-005-0418-4,On exact selection of minimally unsatisfiable subformulae,Renato Bruni,2005,12,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1024456630690,n.m.,Alexander Bochman,2003,3,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1014551721406,n.m.,F.M. Malvestuto,2002,0,Annals of Mathematics and Artificial Intelligence
 10.1023/b:amai.0000012867.03976.a5,Approximation Algorithms for the Class Cover Problem,Adam H. Cannon and Lenore J. Cowen,2004,20,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-010-9213-y,Analyzing bandit-based adaptive operator selection mechanisms,Álvaro Fialho and Luis Da Costa and Marc Schoenauer and Michèle Sebag,2010,100,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-017-9537-y,Erratum to: Analyzing restricted fragments of the theory of linear arithmetic,Piotr Wojciechowski and Pavlos Eirinakis and K. Subramani,2017,1,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-005-9003-0,The complexity of agent design problems: Determinism and history dependence,Michael Wooldridge and Paul E. Dunne,2005,8,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-022-09822-1,Chance constrained conic-segmentation support vector machine with uncertain data,Shen Peng and Gianpiero Canessa and Zhihua Allen-Zhao,2023,0,Annals of Mathematics and Artificial Intelligence
@@ -615,11 +621,14 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10472-012-9301-2,On the algebra of regular sets,Michael Winter and Torsten Hahmann and Michael Grüninger,2012,2,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-012-9325-7,PAC-learning in the presence of one-sided classification noise,Hans Ulrich Simon,2014,1,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-019-09686-y,Festschrift in honor of Oliviero Stock—— Preface,Marco Gori and Ramon Lopez de Mantaras and Carlo Strapparava,2020,0,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-021-09740-8,"General information spaces: measuring inconsistency, rationality postulates, and complexity",John Grant and Francesco Parisi,2022,3,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-020-09711-5,Preface,Andrew S. Gordon and Rob Miller and Leora Morgenstern and György Turán,2021,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-005-7035-0,Learning via finitely many queries,Andrew C. Lee,2005,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-013-9356-8,Compositional reasoning using intervals and time reversal,Ben Moszkowski,2014,4,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-012-9320-z,Embedding and automating conditional logics in classical higher-order logic,Christoph Benzmüller and Dov Gabbay and Valerio Genovese and Daniele Rispoli,2012,4,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-017-9567-5,Equivalence between answer-set programs under (partially) fixed input,Bernhard Bliem and Stefan Woltran,2018,0,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-013-9372-8,"A fast compound algorithm for mining generators, closed itemsets, and computing links between equivalence classes",Laszlo Szathmary and Petko Valtchev and Amedeo Napoli and Robert Godin and Alix Boc and Vladimir Makarenkov,2014,13,Annals of Mathematics and Artificial Intelligence
+10.1023/a:1014490210693,n.m.,Leila Amgoud and Claudette Cayrol,2002,219,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-014-9437-3,Lang’s Universal molecule algorithm,John C. Bowers and Ileana Streinu,2015,1,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-009-9170-5,Set-structured and cost-sharing heuristics for classical planning,Carmel Domshlak and Vitaly Mirkis,2009,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-016-9502-1,On the performance of MaxSAT and MinSAT solvers on 2SAT-MaxOnes,Josep Argelich and Ramón Béjar and Cèsar Fernández and Carles Mateu and Jordi Planes,2016,0,Annals of Mathematics and Artificial Intelligence
@@ -628,15 +637,10 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10472-016-9528-4,Local and global symmetry breaking in itemset mining,Belaïd Benhamou,2017,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-008-9100-y,Mental states as multi-context systems,Aldo Franco Dragoni,2008,4,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-019-09684-0,A branch &amp; bound algorithm to determine optimal cross-splits for decision tree induction,Ferdinand Bollwein and Martin Dahmen and Stephan Westphal,2020,0,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-013-9372-8,"A fast compound algorithm for mining generators, closed itemsets, and computing links between equivalence classes",Laszlo Szathmary and Petko Valtchev and Amedeo Napoli and Robert Godin and Alix Boc and Vladimir Makarenkov,2014,12,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-022-09808-z,Preface selected revised papers from the LION 14 conference,Ilias S. Kotsireas and Panos M. Pardalos,2022,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-021-09728-4,Interpreting rate-distortion of variational autoencoder and using model uncertainty for anomaly detection,Seonho Park and George Adosoglou and Panos M. Pardalos,2022,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-021-09773-z,Selecting a subset of diverse points based on the squared euclidean distance,Anton V. Eremeev and Alexander V. Kel’manov and Mikhail Y. Kovalyov and Artem V. Pyatkin,2022,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-014-9409-7,Polynomial function intervals for floating-point software verification,Jan Duracz and Michal Konečný,2014,3,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-013-9334-1,t-DeLP: an argumentation-based Temporal Defeasible Logic Programming framework,Pere Pardo and Lluís Godo,2013,5,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-020-09699-y,Foreword to special issue for ISAIM 2018,Dimitrios I. Diochnos and Jürgen Dix and Guillermo R. Simari,2020,0,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-005-9009-7,Editorial: Imprecise probability perspectives on artificial intelligence,Marco Zaffalon and Gert de Cooman,2005,0,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-005-0418-4,On exact selection of minimally unsatisfiable subformulae,Renato Bruni,2005,12,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1013180132511,n.m.,Dietmar Seipel,2001,2,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-016-9525-7,Analyzing restricted fragments of the theory of linear arithmetic,Piotr Wojciechowski and Pavlos Eirinakis and K. Subramani,2017,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-010-9188-8,On the connection between many-valued contexts and general geometric structures,Tim B. Kaiser,2010,0,Annals of Mathematics and Artificial Intelligence
@@ -667,12 +671,13 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10472-018-9585-y,Geometric and cognitive differences between logical diagrams for the Boolean algebra B 4 $\mathbb {B}_{4}$,Lorenz Demey and Hans Smessaert,2018,6,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-014-9399-5,Preliminary numerical investigations of conformal predictors based on fuzzy logic classifiers,A. Murari and n.m. n.m. and J. Vega and D. Mazon and T. Courregelongue,2015,2,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-012-9304-z,Preface,Sebastian Link and Henri Prade,2012,1,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-007-9074-1,Distance semantics for database repair,Ofer Arieli and Marc Denecker and Maurice Bruynooghe,2007,23,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-021-09757-z,RAMP algorithms for the capacitated facility location problem,Telmo Matos and Óscar Oliveira and Dorabela Gamboa,2021,3,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-013-9361-y,Planning for multiple measurement channels in a continuous-state POMDP,Mikko Lauri and Risto Ritala,2013,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-005-2369-1,"Correlations between Horn fractions, satisfiability and solver performance for fixed density random 3-CNF instances",Hans van Maaren and Linda van Norden,2005,3,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-012-9284-z,Preface,Sergio Greco and Thomas Lukasiewicz,2012,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-015-9479-1,"Schulze and ranked-pairs voting are fixed-parameter tractable to bribe, manipulate, and control",Lane A. Hemaspaandra and Rahman Lavaee and Curtis Menton,2016,7,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-016-9529-3,Tableau reasoning for description logics and its extension to probabilities,Riccardo Zese and Elena Bellodi and Fabrizio Riguzzi and Giuseppe Cota and Evelina Lamma,2018,10,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-021-09727-5,A survey on the applications of variable neighborhood search algorithm in healthcare management,Shaowen Lan and Wenjuan Fan and Shanlin Yang and Panos M. Pardalos and Nenad Mladenovic,2021,4,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-011-9251-0,A normative programming language for multi-agent organisations,Jomi F. Hübner and Olivier Boissier and Rafael H. Bordini,2011,16,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-019-09678-y,Multi-valued logic in graph transformation theory and self-adaptive systems,Dmitry Maximov and Sergey Ryvkin,2019,2,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-012-9295-9,Betti numbers of polynomial hierarchical models for experimental designs,Hugo Maruri-Aguilar and Eduardo Sáenz-de-Cabezón and Henry P. Wynn,2012,4,Annals of Mathematics and Artificial Intelligence
@@ -684,7 +689,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10472-021-09764-0,The undecidability of proof search when equality is a logical connective,Dale Miller and Alexandre Viel,2022,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-019-09651-9,Combining intelligent heuristics with simulators in hotel revenue management,Mauro Brunato and Roberto Battiti,2020,3,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1016651613285,n.m.,Aaron E. Hirsh and Deborah M. Gordon,2001,17,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-021-09757-z,RAMP algorithms for the capacitated facility location problem,Telmo Matos and Óscar Oliveira and Dorabela Gamboa,2021,3,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-020-09718-y,An integrated bi-objective U-shaped assembly line balancing and parts feeding problem: optimization model and exact solution method,Ömer Faruk Yılmaz,2022,3,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-021-09781-z,Foreword,Lev Reyzin,2022,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-016-9514-x,Erratum to: The RABTree and RAB− Tree: lean index structures for snapshot access in transaction-time databases,Fabio Grandi,2017,0,Annals of Mathematics and Artificial Intelligence
@@ -711,7 +715,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10472-022-09814-1,Time and space complexity of deterministic and nondeterministic decision trees,Mikhail Moshkov,2023,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-018-9602-1,A BRKGA-DE algorithm for parallel-batching scheduling with deterioration and learning effects on parallel machines under preventive maintenance consideration,Min Kong and Xinbao Liu and Jun Pei and Hao Cheng and Panos M. Pardalos,2020,12,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-010-9208-8,Efficient approximate verification of B and Z models via symmetry markers,Michael Leuschel and Thierry Massart,2010,9,Annals of Mathematics and Artificial Intelligence
-10.1023/a:1018912507879,n.m.,Jin Tian and Judea Pearl,2000,75,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-019-09632-y,Digital forensics and investigations meet artificial intelligence,Stefania Costantini and Giovanni De Gasperis and Raffaele Olivieri,2019,21,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-019-09687-x,Semantic string operation for specializing AHC algorithm for text clustering,Taeho Jo,2020,4,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1018935718357,n.m.,Harvey J. Greenberg,2000,3,Annals of Mathematics and Artificial Intelligence
@@ -719,9 +722,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10472-016-9534-6,Reliable region predictions for automated valuation models,Anthony Bellotti,2017,10,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-009-9135-8,Variational Bayes via propositionalized probability computation in PRISM,Taisuke Sato and Yoshitaka Kameya and Kenichi Kurihara,2008,12,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1016757315265,n.m.,Peter McBurney and Simon Parsons,2001,42,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-006-9028-z,Equilibrium logic,David Pearce,2006,104,Annals of Mathematics and Artificial Intelligence
-10.1023/a:1024653703689,n.m.,Endre Boros and Takashi Horiyama and Toshihide Ibaraki and Kazuhisa Makino and Mutsunori Yagiura,2003,17,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-018-9609-7,“All the world’s a stage”: incongruity humour revisited,Anton Nijholt,2020,1,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-019-09657-3,A linear relation between input and first layer in neural networks,Sebastián A. Grillo,2019,1,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-009-9158-1,Extending the alternating-offers protocol in the presence of competition: models and theoretical analysis,Nicola Gatti,2009,4,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-016-9521-y,Refining complexity analyses in planning by exploiting the exponential time hypothesis,Meysam Aghighi and Christer Bäckström and Peter Jonsson and Simon Ståhlberg,2016,1,Annals of Mathematics and Artificial Intelligence
@@ -738,7 +738,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1023/a:1016666118983,n.m.,Israel A. Wagner and Alfred M. Bruckstein,2001,29,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1020259411066,n.m.,Anna Ciampolini and Evelina Lamma and Paola Mello and Francesca Toni and Paolo Torroni,2003,22,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-006-9034-1,Stochastic process semantics for dynamical grammars,Eric Mjolsness and Guy Yosiphon,2007,15,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-007-9074-1,Distance semantics for database repair,Ofer Arieli and Marc Denecker and Maurice Bruynooghe,2007,22,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-005-4689-6,Using multi-agent simulation to understand trading dynamics of a derivatives market,Alan J. King and Olga Streltchenko and Yelena Yesha,2005,5,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-011-9235-0,Improving the anytime behavior of two-phase local search,Jérémie Dubois-Lacoste and Manuel López-Ibáñez and Thomas Stützle,2011,25,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-014-9397-7,Application of the L-fuzzy concept analysis in the morphological image and signal processing,Cristina Alcalde and Ana Burusco and Ramón Fuentes-González,2014,16,Annals of Mathematics and Artificial Intelligence
@@ -747,24 +746,29 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10472-007-9050-9,Learning parallel portfolios of algorithms,Marek Petrik and Shlomo Zilberstein,2006,9,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1014512024132,n.m.,Settimo Termini,2002,12,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-013-9391-5,Robust domain adaptation,Yishay Mansour and Mariano Schain,2014,10,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-019-09683-1,Discrepancy-Based Theory and Algorithms for Forecasting Non-Stationary Time Series,Vitaly Kuznetsov and Mehryar Mohri,2020,6,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-018-9576-z,Minimal bases of temporal attribute implications,Jan Triska and Vilem Vychodil,2018,2,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1016738205696,n.m.,Paulo Mateus and António Pacheco and Javier Pinto and Amílcar Sernadas and Cristina Sernadas,2001,15,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-008-9102-9,Guest editorial: Marco Somalvico memorial issue,Ephraim Nissan and Giuseppina Gini and Marco Colombetti,2008,6,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-012-9329-3,Relational concept analysis: mining concept lattices from multi-relational data,Mohamed Rouane-Hacene and Marianne Huchard and Amedeo Napoli and Petko Valtchev,2013,81,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-014-9414-x,Impact of Boolean factorization as preprocessing methods for classification of Boolean data,Radim Belohlavek and Jan Outrata and Martin Trnecka,2014,12,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-021-09740-8,"General information spaces: measuring inconsistency, rationality postulates, and complexity",John Grant and Francesco Parisi,2022,3,Annals of Mathematics and Artificial Intelligence
+10.1023/a:1014446411602,n.m.,Salem Benferhat and Didier Dubois and Souhila Kaci and Henri Prade,2002,58,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-013-9389-z,RGITL: A temporal logic framework for compositional reasoning about interleaved programs,Gerhard Schellhorn and Bogdan Tofan and Gidon Ernst and Jörg Pfähler and Wolfgang Reif,2014,19,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-022-09802-5,Complexity of shift bribery for iterative voting rules,Cynthia Maushagen and Marc Neveling and Jörg Rothe and Ann-Kathrin Selker,2022,0,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1026162114022,n.m.,Krisztián Tichler,2004,4,Annals of Mathematics and Artificial Intelligence
-10.1023/a:1024460714760,n.m.,Amnon Meisels and Andrea Schaerf,2003,41,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-006-9022-5,An algebraic framework for temporal attribute characteristics,Michael Böhlen and Johann Gamper and Christian S. Jensen,2006,5,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-020-09723-1,The Universal Approximation Property,Anastasis Kratsios,2021,23,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-019-09683-1,Discrepancy-Based Theory and Algorithms for Forecasting Non-Stationary Time Series,Vitaly Kuznetsov and Mehryar Mohri,2020,6,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-010-9213-y,Analyzing bandit-based adaptive operator selection mechanisms,Álvaro Fialho and Luis Da Costa and Marc Schoenauer and Michèle Sebag,2010,100,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-021-09752-4,Chunking and cooperation in particle swarm optimization for feature selection,Malek Sarhani and Stefan Voß,2022,2,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-015-9475-5,Preferences in artificial intelligence,Gabriella Pigozzi and Alexis Tsoukiàs and Paolo Viappiani,2016,46,Annals of Mathematics and Artificial Intelligence
-10.1023/a:1014490210693,n.m.,Leila Amgoud and Claudette Cayrol,2002,217,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-006-9029-y,Possibilistic uncertainty handling for answer set programming,Pascal Nicolas and Laurent Garcia and Igor Stéphan and Claire Lefèvre,2006,50,Annals of Mathematics and Artificial Intelligence
-10.1023/a:1014446411602,n.m.,Salem Benferhat and Didier Dubois and Souhila Kaci and Henri Prade,2002,58,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-014-9423-9,Constructing Armstrong tables for general cardinality constraints and not-null constraints,Sven Hartmann and Henning Köhler and Uwe Leck and Sebastian Link and Bernhard Thalheim and Jing Wang,2015,11,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-006-9028-z,Equilibrium logic,David Pearce,2006,106,Annals of Mathematics and Artificial Intelligence
+10.1023/a:1024460714760,n.m.,Amnon Meisels and Andrea Schaerf,2003,41,Annals of Mathematics and Artificial Intelligence
+10.1023/a:1024653703689,n.m.,Endre Boros and Takashi Horiyama and Toshihide Ibaraki and Kazuhisa Makino and Mutsunori Yagiura,2003,17,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-020-09723-1,The Universal Approximation Property,Anastasis Kratsios,2021,23,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-018-9609-7,“All the world’s a stage”: incongruity humour revisited,Anton Nijholt,2020,2,Annals of Mathematics and Artificial Intelligence
+10.1023/a:1018912507879,n.m.,Jin Tian and Judea Pearl,2000,75,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-021-09727-5,A survey on the applications of variable neighborhood search algorithm in healthcare management,Shaowen Lan and Wenjuan Fan and Shanlin Yang and Panos M. Pardalos and Nenad Mladenovic,2021,6,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-006-9020-7,Tableau-based automata construction for dynamic linear time temporal logic*,Laura Giordano and Alberto Martelli,2006,6,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-007-9047-4,Preface,Michael Kaminski,2007,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-008-9096-3,On the complexity of binary samples,Joel Ratsaby,2008,0,Annals of Mathematics and Artificial Intelligence
@@ -791,13 +795,11 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10472-016-9523-9,Bagging strategies for learning planning policies,Tomás de la Rosa and Raquel Fuentetaja,2017,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-017-9544-z,Hyper-arc consistency of polynomial constraints over finite domains using the modified Bernstein form,Federico Bergenti and Stefania Monica,2017,2,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-022-09820-3,Lexicographically maximal edges of dual hypergraphs and Nash-solvability of tight game forms,Vladimir Gurvich and Mariya Naumova,2022,0,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-014-9448-0,Models and algorithms for competitive facility location problems with different customer behavior,Benjamin Biesinger and Bin Hu and Günther Raidl,2016,20,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-012-9317-7,Modelling defeasible and prioritized support in bipolar argumentation,Serena Villata and Guido Boella and Dov M. Gabbay and Leendert van der Torre,2012,17,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1016339119669,n.m.,Hans Kleine Büning and Xishun Zhao,2002,14,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-010-9206-x,Prime forms and minimal change in propositional belief bases,Jerusa Marchi and Guilherme Bittencourt and Laurent Perrussel,2010,7,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-014-9431-9,Preface,Thomas Lukasiewicz and Attila Sali,2015,0,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1021568818251,n.m.,,2003,0,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-019-09658-2,Contextual rational closure for defeasible $\mathcal {ALC}$,Katarina Britz and Ivan Varzinczak,2019,1,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-010-9218-6,Editorial,Michael Köster and Tristan Behrens and Jürgen Dix and Jomi Hübner and Mehdi Dastani and Peter Novák,2010,0,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1016345810582,n.m.,M.A. Cárdenas Viedma and R. Marín Morales,2002,4,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-007-9061-6,The structure of the overhanging relations associated with some types of closure systems,Florent Domenach and Bruno Leclerc,2007,0,Annals of Mathematics and Artificial Intelligence
@@ -807,11 +809,11 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1023/a:1018940332714,n.m.,L.A. Dennis and A. Bundy and I. Green,2000,4,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-019-09667-1,Preface,Flavio Ferrarotti and Stefan Woltran,2019,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-019-09680-4,A subdivision algorithm to reason on high-degree polynomial constraints over finite domains,Federico Bergenti and Stefania Monica,2019,0,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-015-9455-9,Controlling selection areas of useful infeasible solutions for directed mating in evolutionary constrained multi-objective optimization,Minami Miyakawa and Keiki Takadama and Hiroyuki Sato,2016,5,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-007-9073-2,Preface,Jürgen Dix and Stephen J. Hegner,2007,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-014-9447-1,On some statistical procedures for stock selection problem,Petr A. Koldanov and Valeriy A. Kalyagin and Grigory A. Bautin,2016,0,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1020236119243,n.m.,Mathijs de Weerdt and André Bos and Hans Tonino and Cees Witteveen,2003,19,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-010-9197-7,A subclass of Horn CNFs optimally compressible in polynomial time,Endre Boros and Ondřej Čepek and Alexander Kogan and Petr Kučera,2009,9,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-005-4692-y,Auction design with costly preference elicitation,David C. Parkes,2005,20,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-010-9180-3,AF-ABLE in the multi agent contest 2009,Howell Jordan and Jennifer Treanor and David Lillis and Mauro Dragone and Rem W. Collier and G. M. P. O’Hare,2010,1,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-014-9438-2,A Singular web service for geometric computations,Francisco Botana and Zoltán Kovács,2015,7,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-020-09704-4,Real-time solving of computationally hard problems using optimal algorithm portfolios,Yair Nof and Ofer Strichman,2021,1,Annals of Mathematics and Artificial Intelligence
@@ -834,14 +836,12 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10472-017-9539-9,Accelerating difficulty estimation for conformal regression forests,Henrik Boström and Henrik Linusson and Tuve Löfström and Ulf Johansson,2017,18,Annals of Mathematics and Artificial Intelligence
 10.1023/b:amai.0000012871.08577.0b,Upper and Lower Bounds on the Complexity of Generalised Resolution and Generalised Constraint Satisfaction Problems,Oliver Kullmann,2004,13,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-023-09834-5,Physician scheduling problem in Mobile Cabin Hospitals of China during Covid-19 outbreak,Shaowen Lan and Wenjuan Fan and Shanlin Yang and Panos M. Pardalos,2023,0,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-006-9025-2,A generalization of the Lin-Zhao theorem,Paolo Ferraris and Joohyung Lee and Vladimir Lifschitz,2006,22,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-021-09747-1,Least squares approach to K-SVCR multi-class classification with its applications,Hossein Moosaei and Milan Hladík,2022,2,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-009-9109-x,Default logic generalized and simplified,Alexander Bochman,2008,2,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-009-9142-9,A full first-order constraint solver for decomposable theories,Khalil Djelloul,2009,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-015-9467-5,A theory of subtree matching and tree kernels based on the edit distance concept,Kilho Shin,2015,2,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-007-9057-2,Attribute-incremental construction of the canonical implication basis,S. Obiedkov and V. Duquenne,2007,32,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1018900105153,n.m.,Luca Chittaro and Angelo Montanari,2000,46,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-016-9508-8,Synthesis with rational environments,Orna Kupferman and Giuseppe Perelli and Moshe Y. Vardi,2016,21,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-013-9336-z,A continuous analog for 4-dimensional objects,A. Pacheco and J.-L. Mari and P. Real,2013,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-016-9530-x,Belief change and argumentation in multi-agent scenarios,Jürgen Dix and Sven Ove Hansson and Gabriele Kern-Isberner and Guillermo R. Simari,2016,3,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-010-9220-z,Detecting and repairing anomalous evolutions in noisy environments,Fabrizio Angiulli and Gianluigi Greco and Luigi Palopoli,2010,0,Annals of Mathematics and Artificial Intelligence
@@ -861,7 +861,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1023/a:1021200130191,n.m.,Hans van Maaren and Joost P. Warners,2003,1,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-014-9428-4,Preface to the special issue,Robert H. Sloan,2014,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-012-9282-1,Exception diagnosis in multiagent contract executions,Özgür Kafalı and Paolo Torroni,2012,11,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-021-09736-4,Classifier-based constraint acquisition,S. D. Prestwich and E. C. Freuder and B. O’Sullivan and D. Browne,2021,2,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1014453222080,n.m.,Lluís Godo and Ricardo Oscar Rodríguez,2002,8,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1016782020717,n.m.,Michael Goldstein and Darren J. Wilkinson,2001,1,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-019-09685-z,Energy allocation and payment: a game-theoretic approach,Paolo Giuliodori and Stefano Bistarelli and Dimitri Mugnai,2020,0,Annals of Mathematics and Artificial Intelligence
@@ -869,10 +868,10 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10472-022-09803-4,Knowledge forgetting in propositional μ-calculus,Renyan Feng and Yisong Wang and Ren Qian and Lei Yang and Panfeng Chen,2023,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-009-9136-7,"Probabilistic modelling, inference and learning using logical theories",K. S. Ng and J. W. Lloyd and W. T. B. Uther,2008,11,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-020-09706-2,Correction to: LogAG: An algebraic non-monotonic logic for reasoning with graded propositions,Nourhan Ehab and Haythem O. Ismail,2021,0,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-013-9381-7,Inductive conformal anomaly detection for sequential detection of anomalous sub-trajectories,Rikard Laxhammar and Göran Falkman,2015,25,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-012-9306-x,On the distance of databases,Gyula O. H. Katona and Attila Sali,2012,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-018-9578-x,Efficient suspect selection in unreachable state diagnosis,Ryan Berryhill and Andreas Veneris,2018,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-016-9499-5,Distributive mereotopology: extended distributive contact lattices,Tatyana Ivanova and Dimiter Vakarelov,2016,4,Annals of Mathematics and Artificial Intelligence
-10.1023/a:1015860121607,n.m.,Barry Smith and Berit Brogaard,2002,9,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1016670220800,n.m.,T.J. Richardson,2001,22,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-005-9012-z,Computational methods for database repair by signed formulae*,Ofer Arieli and Marc Denecker and Bert Van Nuffelen and Maurice Bruynooghe,2006,10,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1014514730066,n.m.,Patrizia Berti and Pietro Rigo,2002,16,Annals of Mathematics and Artificial Intelligence
@@ -885,12 +884,13 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10472-012-9297-7,Homological spanning forest framework for 2D image analysis,Helena Molina-Abril and Pedro Real,2012,19,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-017-9557-7,Foreword to this special issue: conformal and probabilistic prediction with applications,Alexander Gammerman and Vladimir Vovk,2017,1,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1014482025714,n.m.,J. Kohlas and D. Berzati and R. Haenni,2002,8,Annals of Mathematics and Artificial Intelligence
+10.1023/a:1016636024246,n.m.,Ioannis Rekleitis and Gregory Dudek and Evangelos Milios,2001,107,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-014-9448-0,Models and algorithms for competitive facility location problems with different customer behavior,Benjamin Biesinger and Bin Hu and Günther Raidl,2016,20,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-019-09665-3,Lattice map spiking neural networks (LM-SNNs) for clustering and classifying image data,Hananel Hazan and Daniel J. Saunders and Darpan T. Sanghavi and Hava Siegelmann and Robert Kozma,2020,9,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-018-9604-z,Two cryptomorphic formalizations of projective incidence geometry,David Braun and Nicolas Magaud and Pascal Schreck,2019,2,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-006-9033-2,Message delay and DisCSP search algorithms,Roie Zivan and Amnon Meisels,2006,28,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-015-9480-8,Structures of opposition induced by relations,Davide Ciucci and Didier Dubois and Henri Prade,2016,27,Annals of Mathematics and Artificial Intelligence
-10.1023/a:1016636024246,n.m.,Ioannis Rekleitis and Gregory Dudek and Evangelos Milios,2001,107,Annals of Mathematics and Artificial Intelligence
-10.1023/a:1016725902970,n.m.,Tim Bedford and Roger M. Cooke,2001,542,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-019-09658-2,Contextual rational closure for defeasible $\mathcal {ALC}$,Katarina Britz and Ivan Varzinczak,2019,2,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-005-0433-5,Toward leaner binary-clause reasoning in a satisfiability solver,Allen Van Gelder,2005,13,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-021-09754-2,Constraint-based learning for non-parametric continuous bayesian networks,Marvin Lasserre and Régis Lebrun and Pierre-Henri Wuillemin,2021,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-012-9303-0,Multi-objective optimization with an adaptive resonance theory-based estimation of distribution algorithm,Luis Martí and Jesús García and Antonio Berlanga and José M. Molina,2013,6,Annals of Mathematics and Artificial Intelligence
@@ -898,6 +898,7 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10472-018-9575-0,A new causal discovery heuristic,S. D. Prestwich and S. A. Tarim and I. Ozkan,2018,1,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-009-9153-6,Solving quantified verification conditions using satisfiability modulo theories,Yeting Ge and Clark Barrett and Cesare Tinelli,2009,16,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1014585822798,n.m.,Marco Baioletti and Andrea Capotorti and Sauro Tulipani and Barbara Vantaggi,2002,21,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-006-9025-2,A generalization of the Lin-Zhao theorem,Paolo Ferraris and Joohyung Lee and Vladimir Lifschitz,2006,22,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-017-9571-9,Properties of skeptical c-inference for conditional knowledge bases and its realization as a constraint satisfaction problem,Christoph Beierle and Christian Eichhorn and Gabriele Kern-Isberner and Steven Kutsch,2018,23,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1024452529781,n.m.,Ariel Felner and Sarit Kraus and Richard E. Korf,2003,24,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1020207321544,n.m.,Leendert van der Torre,2003,26,Annals of Mathematics and Artificial Intelligence
@@ -909,7 +910,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1023/a:1016769618900,n.m.,Helge Langseth and Olav Bangsø,2001,17,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-005-9008-8,Robust reasoning with rules that have exceptions: From second-order probability to argumentation via upper envelopes of probability and possibility plus directed graphs,Donald Bamber and I. R. Goodman and Hung T. Nguyen,2005,8,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-005-7033-2,Spines of random constraint satisfaction problems: definition and connection with computational complexity,Gabriel Istrate and Stefan Boettcher and Allon G. Percus,2005,5,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-005-4692-y,Auction design with costly preference elicitation,David C. Parkes,2005,20,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-013-9371-9,Domain adaptation–can quantity compensate for quality?,Shai Ben-David and Ruth Urner,2014,14,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-020-09702-6,Derivation and analysis of parallel-in-time neural ordinary differential equations,E. Lorin,2020,2,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-009-9112-2,"Justification logics, logics of knowledge, and conservativity",Melvin Fitting,2008,11,Annals of Mathematics and Artificial Intelligence
@@ -926,12 +926,17 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10472-012-9287-9,Probabilistic query answering over inconsistent databases,Sergio Greco and Cristian Molinaro,2012,10,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-005-9005-y,Probabilistic logic under coherence: complexity and algorithms,Veronica Biazzo and Angelo Gilio and Thomas Lukasiewicz and Giuseppe Sanfilippo,2005,39,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-007-9053-6,On stability of a formal concept,Sergei O. Kuznetsov,2007,105,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-013-9381-7,Inductive conformal anomaly detection for sequential detection of anomalous sub-trajectories,Rikard Laxhammar and Göran Falkman,2015,23,Annals of Mathematics and Artificial Intelligence
+10.1023/a:1015860121607,n.m.,Barry Smith and Berit Brogaard,2002,10,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-021-09736-4,Classifier-based constraint acquisition,S. D. Prestwich and E. C. Freuder and B. O’Sullivan and D. Browne,2021,2,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-023-09833-6,Galois theory for analogical classifiers,Miguel Couceiro and Erkko Lehtonen,2023,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-007-9065-2,Logical analysis of data – the vision of Peter L. Hammer,Gabriela Alexe and Sorin Alexe and Tibérius O. Bonates and Alexander Kogan,2007,43,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-014-9398-6,Factor analysis of ordinal data via decomposition of matrices with grades,Radim Belohlavek and Marketa Krmelova,2014,9,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-011-9258-6,Multi-armed bandits with episode context,Christopher D. Rosin,2011,69,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-018-9612-z,Spam detection in social media using convolutional and long short term memory neural network,Gauri Jain and Manisha Sharma and Basant Agarwal,2019,71,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-014-9420-z,Inductive Venn Prediction,Antonis Lambrou and Ilia Nouretdinov and Harris Papadopoulos,2015,12,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-015-9455-9,Controlling selection areas of useful infeasible solutions for directed mating in evolutionary constrained multi-objective optimization,Minami Miyakawa and Keiki Takadama and Hiroyuki Sato,2016,6,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-016-9508-8,Synthesis with rational environments,Orna Kupferman and Giuseppe Perelli and Moshe Y. Vardi,2016,21,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-018-9612-z,Spam detection in social media using convolutional and long short term memory neural network,Gauri Jain and Manisha Sharma and Basant Agarwal,2019,72,Annals of Mathematics and Artificial Intelligence
+10.1023/a:1016725902970,n.m.,Tim Bedford and Roger M. Cooke,2001,547,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-019-09649-3,"Probability, coherent belief and coherent belief changes",John Cantwell and Hans Rott,2019,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-005-1809-2,A cost-reducing question-selection algorithm for propositional knowledge-based systems,Jinchang Wang,2005,1,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1016085111355,n.m.,,2002,0,Annals of Mathematics and Artificial Intelligence
@@ -958,7 +963,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1023/a:1016809922263,n.m.,,2002,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-018-9615-9,Equilibrium graphs,Pedro Cabalar and Carlos Pérez and Gilberto Pérez,2019,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-019-09672-4,What do you really want to do? Towards a Theory of Intentions for Human-Robot Collaboration,Rocio Gomez and Mohan Sridharan and Heather Riley,2021,6,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-013-9359-5,Challenges to complexity shields that are supposed to protect elections against manipulation and control: a survey,Jörg Rothe and Lena Schend,2013,16,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1016686623228,n.m.,Claudio Bettini and Roberto De Sibi,2000,25,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-013-9364-8,Toward incremental computation of argumentation semantics: A decomposition-based approach,Beishui Liao,2013,15,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-012-9310-1,Semantical investigations into nonmonotonic and probabilistic logics,Christoph Beierle and Gabriele Kern-Isberner,2012,16,Annals of Mathematics and Artificial Intelligence
@@ -976,7 +980,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1023/b:amai.0000038312.77514.3c,A New Algebraic Tool for Automatic Theorem Provers,P. Cordero and G. Gutiérrez and J. Martínez and I.P. de Guzmán,2004,14,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-010-9216-8,Ranking policies in discrete Markov decision processes,Peng Dai and Judy Goldsmith,2010,3,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-005-0435-3,Extension and equivalence problems for clause minimal formulae,Hans Kleine Büning and Xishun Zhao,2005,3,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-022-09815-0,The logic of secrets and the interpolation rule,Zuojun Xiong and Thomas Ågotnes,2022,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-010-9190-1,A dynamic programming strategy to balance exploration and exploitation in the bandit problem,Olivier Caelen and Gianluca Bontempi,2010,2,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-017-9546-x,"To be fair, use bundles",John McCabe-Dansted and Mark Reynolds,2017,1,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-015-9476-4,A quantitative approach to belief revision in structured probabilistic argumentation,Gerardo I. Simari and Paulo Shakarian and Marcelo A. Falappa,2016,5,Annals of Mathematics and Artificial Intelligence
@@ -1007,7 +1010,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1023/b:amai.0000038372.49575.cf,Volume Contents,,2004,0,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1013112907978,n.m.,Michael Dekhtyar and Alexander Dikovsky and Sergey Dudakov and Nicolas Spyratos,2001,1,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-014-9430-x,Combinatorial properties of support vectors of separating hyperplanes,Peter Veelaert,2015,0,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-019-09669-z,Analyzing cognitive processes from complex neuro-physiologically based data: some lessons,Alex Frid and Larry M. Manevitz,2020,2,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-017-9536-z,Quasi-classical reasoning in paraconsistent databases,Badrinath Jayakumar and Rajshekhar Sunderraman,2018,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-009-9154-5,Inductive proof search modulo,Fabrice Nahon and Claude Kirchner and Hélène Kirchner and Paul Brauner,2009,3,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-006-9035-0,A formal mathematical framework for modeling probabilistic hybrid systems,Robert St-Aubin and Joel Friedman and Alan K. Mackworth,2007,3,Annals of Mathematics and Artificial Intelligence
@@ -1029,35 +1031,33 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10472-007-9059-0,Incidence structures and Stone–Priestley duality,Mohamed Bekkali and Maurice Pouzet and Driss Zhani,2007,4,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-011-9265-7,Experimental evaluation of pheromone models in ACOPlan,Marco Baioletti and Alfredo Milani and Valentina Poggioni and Fabio Rossi,2011,17,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-019-09622-0,Multi-context systems in dynamic environments,Pedro Cabalar and Stefania Costantini and Giovanni De Gasperis and Andrea Formisano,2019,3,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-014-9445-3,Lattice-based and topological representations of binary relations with an application to music,Anton Freund and Moreno Andreatta and Jean-Louis Giavitto,2015,3,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-020-09716-0,Multiple-source adaptation theory and algorithms,Ningshan Zhang and Mehryar Mohri and Judy Hoffman,2021,2,Annals of Mathematics and Artificial Intelligence
-10.1023/b:amai.0000018577.32783.d2,Improvement of Boosting Algorithm by Modifying the Weighting Rule,Masayuki Nakamura and Hiroki Nomiya and Kuniaki Uehara,2004,19,Annals of Mathematics and Artificial Intelligence
-10.1023/a:1022955412266,n.m.,Bill Naylor and Stephen Watt,2003,3,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-016-9522-x,Submodularity and its application to some global constraints,D. Magos and I. Mourtos,2017,1,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-021-09735-5,Integrating domain and constraint privacy reasoning in the distributed stochastic algorithm with breakouts,Julien Vion and René Mandiau and Sylvain Piechowiak and Marius Silaghi,2022,0,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-017-9559-5,Automated conjecturing III,C. E. Larson and N. Van Cleemput,2017,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-015-9485-3,Preface,Christoph Beierle and Carlo Meghini,2016,0,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1018931617448,n.m.,Nachum Dershowitz,2000,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-022-09812-3,Real-time passenger bus routing problems with preferences and tradeoffs,Suhendry Effendy and Roland H. C. Yap,2022,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-019-09620-2,P-log: refinement and a new coherency condition,Evgenii Balai and Michael Gelfond and Yuanlin Zhang,2019,3,Annals of Mathematics and Artificial Intelligence
+10.1023/a:1022955412266,n.m.,Bill Naylor and Stephen Watt,2003,3,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-016-9522-x,Submodularity and its application to some global constraints,D. Magos and I. Mourtos,2017,1,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-021-09735-5,Integrating domain and constraint privacy reasoning in the distributed stochastic algorithm with breakouts,Julien Vion and René Mandiau and Sylvain Piechowiak and Marius Silaghi,2022,0,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-017-9559-5,Automated conjecturing III,C. E. Larson and N. Van Cleemput,2017,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-019-09624-y,Knowledge representation analysis of graph mining,Matthias van der Hallen and Sergey Paramonov and Gerda Janssens and Marc Denecker,2019,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-005-4691-z,Used car salesman problem: A differential auction–barter market,Can Özturan,2005,4,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-015-9460-z,Preface to the special issue on geometric reasoning,Jacques Fleuriot and Tetsuo Ida,2016,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-014-9413-y,Efficient segmentation with the convex local-global fuzzy Gaussian distribution active contour for medical applications,Quang Tung Thieu and Marie Luong and Jean-Marie Rocchisani and Nikolay Metodiev Sirakov and Emmanuel Viennet,2015,14,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-022-09801-6,Parametrized topological complexity of collision-free motion planning in the plane,Daniel C. Cohen and Michael Farber and Shmuel Weinberger,2022,2,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-011-9233-2,Boolean lexicographic optimization: algorithms &amp; applications,Joao Marques-Silva and Josep Argelich and Ana Graça and Inês Lynce,2011,39,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-022-09810-5,Parallel machine scheduling with linearly increasing energy consumption cost,Chaoming Hu and Shaojun Lu and Min Kong and Xinbao Liu and Panos M. Pardalos,2022,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-020-09722-2,Data driven design for online industrial auctions,Qing Chuan Ye and Jason Rhuggenaath and Yingqian Zhang and Sicco Verwer and Michiel Jurgen Hilgeman,2021,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-020-09703-5,On integer closure in a system of unit two variable per inequality constraints,K. Subramani and P. Wojciechowski,2020,1,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1014450507312,n.m.,Mark Wallace and Joachim Schimpf,2002,9,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-021-09767-x,Logic programming in tensor spaces,Chiaki Sakama and Katsumi Inoue and Taisuke Sato,2021,5,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-021-09772-0,An exploration of combinatorial testing-based approaches to fault localization for explainable AI,Ludwig Kampel and Dimitris E. Simos and D. Richard Kuhn and Raghu N. Kacker,2022,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-022-09789-z,Minimising inequality in multiagent resource allocation,Sebastian Schneckenburger and Britta Dorn and Ulle Endriss,2022,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-022-09783-5,A lagrangian-based approach for universum twin bounded support vector machine with its applications,Hossein Moosaei and Milan Hladík,2022,1,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-022-09794-2,Theory-relational belief revision,Theofanis Aravanis and Pavlos Peppas,2022,1,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-018-9611-0,An optimal bidimensional multi-armed bandit auction for multi-unit procurement,Satyanath Bhat and Shweta Jain and Sujit Gujar and Y. Narahari,2019,0,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-020-09720-4,Schema mapping coverage,Ning Deng and Jan Chomicki,2021,0,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-007-9070-5,Controlled query evaluation with open queries for a decidable relational submodel,Joachim Biskup and Piero Bonatti,2007,27,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-022-09787-1,On pruning techniques in map-reduce style CbO algorithms,Jan Konecny and Petr Krajča,2022,0,Annals of Mathematics and Artificial Intelligence
-10.1023/a:1016740830286,n.m.,Didier Dubois and Henri Prade,2001,277,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-017-9561-y,State duration and interval modeling in hidden semi-Markov model for sequential data analysis,Hiromi Narimatsu and Hiroyuki Kasai,2017,8,Annals of Mathematics and Artificial Intelligence
 10.1023/a:1014537925523,n.m.,Salem Benferhat and Didier Dubois and Henri Prade,2002,5,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-017-9560-z,Time-expanded graph-based propositional encodings for makespan-optimal solving of cooperative path finding problems,Pavel Surynek,2017,13,Annals of Mathematics and Artificial Intelligence
@@ -1068,34 +1068,39 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10472-012-9322-x,Producing and verifying extremely large propositional refutations,Allen Van Gelder,2012,18,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-019-09666-2,Data-driven Koopman operator approach for computational neuroscience,Natasza Marrouch and Joanna Slawinska and Dimitrios Giannakis and Heather L. Read,2020,6,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-007-9072-3,Database querying under changing preferences,Jan Chomicki,2007,24,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-013-9378-2,The application of conformal prediction to the drug discovery process,Martin Eklund and Ulf Norinder and Scott Boyer and Lars Carlsson,2015,41,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-013-9392-4,Conformal predictions for information fusion,Vineeth N. Balasubramanian and Shayok Chakraborty and Sethuraman Panchanathan,2015,9,Annals of Mathematics and Artificial Intelligence
-10.1023/a:1016622202755,n.m.,Han-Chieh Wei and Ramez Elmasri,2000,9,Annals of Mathematics and Artificial Intelligence
-10.1023/a:1024605820527,n.m.,E. Boros and V. Gurvich and L. Khachiyan and K. Makino,2003,32,Annals of Mathematics and Artificial Intelligence
-10.1023/a:1020255204705,n.m.,Riccardo Rosati,2003,4,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-011-9271-9,A new approach for preference-based argumentation frameworks,Leila Amgoud and Srdjan Vesic,2011,41,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-017-9562-x,On extreme points of p-boxes and belief functions,Ignacio Montes and Sebastien Destercke,2017,9,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-019-09629-7,A review of the relations between logical argumentation and reasoning with maximal consistency,Ofer Arieli and AnneMarie Borg and Jesse Heyninck,2019,4,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-013-9355-9,Fast algorithms for implication bases and attribute exploration using proper premises,Uwe Ryssel and Felix Distel and Daniel Borchmann,2014,16,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-013-9353-y,Optimizations in computing the Duquenne–Guigues basis of implications,Konstantin Bazhanov and Sergei Obiedkov,2014,13,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-010-9201-2,Reducing reinforcement learning to KWIK online regression,Lihong Li and Michael L. Littman,2010,3,Annals of Mathematics and Artificial Intelligence
-10.1023/a:1016003314081,n.m.,José-Luis Ruiz-Reina and José-Antonio Alonso and María-José Hidalgo and Francisco-Jesús Martín-Mateos,2002,8,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-021-09767-x,Logic programming in tensor spaces,Chiaki Sakama and Katsumi Inoue and Taisuke Sato,2021,4,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-021-09733-7,Joint desirability foundations of social choice and opinion pooling,Arianna Casanova and Enrique Miranda and Marco Zaffalon,2021,2,Annals of Mathematics and Artificial Intelligence
-10.1023/a:1026086723558,n.m.,Jan Chomicki and Sofie Haesevoets and Bart Kuijpers and Peter Revesz,2003,20,Annals of Mathematics and Artificial Intelligence
-10.1023/a:1012332915908,n.m.,Kim Allan Andersen and Daniele Pretolani,2001,16,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-022-09786-2,On the antiderivatives of xp/(1 − x) with an application to optimize loss functions for classification with neural networks,Andreas Knoblauch,2022,3,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-021-09751-5,Evolution of Gaussian Process kernels for machine translation post-editing effort estimation,Ibai Roman and Roberto Santana and Alexander Mendiburu and Jose A. Lozano,2021,2,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-007-9070-5,Controlled query evaluation with open queries for a decidable relational submodel,Joachim Biskup and Piero Bonatti,2007,27,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-021-09758-y,On the correspondence between abstract dialectical frameworks and nonmonotonic conditional logics,Jesse Heyninck and Gabriele Kern-Isberner and Matthias Thimm and Kenneth Skiba,2021,2,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-018-9574-1,A labelling framework for probabilistic argumentation,Régis Riveret and Pietro Baroni and Yang Gao and Guido Governatori and Antonino Rotolo and Giovanni Sartor,2018,11,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-020-09693-4,Valid attacks in argumentation frameworks with recursive attacks,C. Cayrol and J. Fandinno and L. Fariñas del Cerro and M.-C. Lagasquie-Schiex,2021,2,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-010-9199-5,Parallel algorithm for computing fixpoints of Galois connections,Petr Krajca and Jan Outrata and Vilem Vychodil,2010,32,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-013-9370-x,Boolean factors as a means of clustering of interestingness measures of association rules,Radim Belohlavek and Dhouha Grissa and Sylvie Guillaume and Engelbert Mephu Nguifo and Jan Outrata,2014,10,Annals of Mathematics and Artificial Intelligence
-10.1023/a:1016639210559,n.m.,Howie Choset,2001,790,Annals of Mathematics and Artificial Intelligence
-10.1023/a:1016610507833,n.m.,Yoav Gabriely and Elon Rimon,2001,197,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-013-9335-0,A polynomial-time maximum common subgraph algorithm for outerplanar graphs and its application to chemoinformatics,Leander Schietgat and Jan Ramon and Maurice Bruynooghe,2013,11,Annals of Mathematics and Artificial Intelligence
+10.1023/a:1016622202755,n.m.,Han-Chieh Wei and Ramez Elmasri,2000,9,Annals of Mathematics and Artificial Intelligence
+10.1023/a:1024605820527,n.m.,E. Boros and V. Gurvich and L. Khachiyan and K. Makino,2003,32,Annals of Mathematics and Artificial Intelligence
+10.1023/a:1020255204705,n.m.,Riccardo Rosati,2003,4,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-019-09629-7,A review of the relations between logical argumentation and reasoning with maximal consistency,Ofer Arieli and AnneMarie Borg and Jesse Heyninck,2019,4,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-013-9355-9,Fast algorithms for implication bases and attribute exploration using proper premises,Uwe Ryssel and Felix Distel and Daniel Borchmann,2014,16,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-013-9353-y,Optimizations in computing the Duquenne–Guigues basis of implications,Konstantin Bazhanov and Sergei Obiedkov,2014,13,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-010-9201-2,Reducing reinforcement learning to KWIK online regression,Lihong Li and Michael L. Littman,2010,3,Annals of Mathematics and Artificial Intelligence
+10.1023/a:1016003314081,n.m.,José-Luis Ruiz-Reina and José-Antonio Alonso and María-José Hidalgo and Francisco-Jesús Martín-Mateos,2002,8,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-021-09733-7,Joint desirability foundations of social choice and opinion pooling,Arianna Casanova and Enrique Miranda and Marco Zaffalon,2021,2,Annals of Mathematics and Artificial Intelligence
+10.1023/a:1026086723558,n.m.,Jan Chomicki and Sofie Haesevoets and Bart Kuijpers and Peter Revesz,2003,20,Annals of Mathematics and Artificial Intelligence
+10.1023/a:1012332915908,n.m.,Kim Allan Andersen and Daniele Pretolani,2001,16,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-022-09786-2,On the antiderivatives of xp/(1 − x) with an application to optimize loss functions for classification with neural networks,Andreas Knoblauch,2022,3,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-009-9169-y,Short PCPPs verifiable in polylogarithmic time with O(1) queries,Thilo Mie,2009,18,Annals of Mathematics and Artificial Intelligence
-10.1007/s10472-015-9463-9,Bayesian optimization for learning gaits under uncertainty,Roberto Calandra and André Seyfarth and Jan Peters and Marc Peter Deisenroth,2016,127,Annals of Mathematics and Artificial Intelligence
 10.1007/s10472-019-09640-y,Model simplification for supervised classification of metabolic networks,Ilaria Granata and Mario R. Guarracino and Valery A. Kalyagin and Lucia Maddalena and Ichcha Manipur and Panos M. Pardalos,2020,11,Annals of Mathematics and Artificial Intelligence
-10.1023/b:amai.0000018580.96245.c6,Theoretical Comparison between the Gini Index and Information Gain Criteria,Laura Elena Raileanu and Kilian Stoffel,2004,380,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-013-9335-0,A polynomial-time maximum common subgraph algorithm for outerplanar graphs and its application to chemoinformatics,Leander Schietgat and Jan Ramon and Maurice Bruynooghe,2013,12,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-017-9562-x,On extreme points of p-boxes and belief functions,Ignacio Montes and Sebastien Destercke,2017,10,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-022-09815-0,The logic of secrets and the interpolation rule,Zuojun Xiong and Thomas Ågotnes,2022,0,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-021-09751-5,Evolution of Gaussian Process kernels for machine translation post-editing effort estimation,Ibai Roman and Roberto Santana and Alexander Mendiburu and Jose A. Lozano,2021,2,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-011-9271-9,A new approach for preference-based argumentation frameworks,Leila Amgoud and Srdjan Vesic,2011,42,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-013-9359-5,Challenges to complexity shields that are supposed to protect elections against manipulation and control: a survey,Jörg Rothe and Lena Schend,2013,16,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-014-9445-3,Lattice-based and topological representations of binary relations with an application to music,Anton Freund and Moreno Andreatta and Jean-Louis Giavitto,2015,4,Annals of Mathematics and Artificial Intelligence
+10.1023/b:amai.0000018577.32783.d2,Improvement of Boosting Algorithm by Modifying the Weighting Rule,Masayuki Nakamura and Hiroki Nomiya and Kuniaki Uehara,2004,19,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-013-9378-2,The application of conformal prediction to the drug discovery process,Martin Eklund and Ulf Norinder and Scott Boyer and Lars Carlsson,2015,41,Annals of Mathematics and Artificial Intelligence
+10.1023/a:1016639210559,n.m.,Howie Choset,2001,790,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-022-09801-6,Parametrized topological complexity of collision-free motion planning in the plane,Daniel C. Cohen and Michael Farber and Shmuel Weinberger,2022,3,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-015-9463-9,Bayesian optimization for learning gaits under uncertainty,Roberto Calandra and André Seyfarth and Jan Peters and Marc Peter Deisenroth,2016,128,Annals of Mathematics and Artificial Intelligence
+10.1023/a:1016740830286,n.m.,Didier Dubois and Henri Prade,2001,279,Annals of Mathematics and Artificial Intelligence
+10.1007/s10472-019-09669-z,Analyzing cognitive processes from complex neuro-physiologically based data: some lessons,Alex Frid and Larry M. Manevitz,2020,3,Annals of Mathematics and Artificial Intelligence
+10.1023/b:amai.0000018580.96245.c6,Theoretical Comparison between the Gini Index and Information Gain Criteria,Laura Elena Raileanu and Kilian Stoffel,2004,384,Annals of Mathematics and Artificial Intelligence
+10.1023/a:1016610507833,n.m.,Yoav Gabriely and Elon Rimon,2001,200,Annals of Mathematics and Artificial Intelligence

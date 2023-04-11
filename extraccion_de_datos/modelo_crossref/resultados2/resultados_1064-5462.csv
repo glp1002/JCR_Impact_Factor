@@ -4,12 +4,17 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1162/artl_a_00075,Evolution and Analysis of Genetic Networks for Stable Cellular Growth and Regeneration,Lisa Schramm and Yaochu Jin and Bernhard Sendhoff,2012,7,Artificial Life
 10.1162/artl_a_00364,"Making Artificial Brains: Components, Topology, and Optimization",Christoph Adami,2022,0,Artificial Life
 10.1162/106454606775186473,Book Review,Moshe Sipper,2006,0,Artificial Life
+10.1162/artl.2009.15.2.15200,Heterochrony and Artificial Embryogeny: A Method for Analyzing Artificial Embryogenies Based on Developmental Dynamics,Artur Matos and Reiji Suzuki and Takaya Arita,2009,7,Artificial Life
 10.1162/artl_a_00363,"A Response to Paolo Euron’s “Uncanny Beauty: Aesthetics of Companionship, Love, and Sex Robots”",Maria O’Sullivan,2022,0,Artificial Life
 10.1162/artl_a_00108,Results on the Convergence of Braitenberg Vehicle 3a,Iñaki Rañó,2014,8,Artificial Life
 10.1162/artl_x_00124,Reviewers of Volume 19,,2013,0,Artificial Life
 10.1162/artl_a_00137,Evolving Functional and Structural Dynamism in Coupled Boolean Networks,Larry Bull,2014,1,Artificial Life
-10.1162/106454600300103629,"Editor's Introduction: Artificial Life VII: Looking Backward, Looking Forward (Editor's Introduction to the Special Issue)",Mark A. Bedau,2000,1,Artificial Life
 10.1162/106454600568311,The Evolution and Understanding of Hierarchical Complexity in Biology from an Algebraic Perspective,Chrystopher L. Nehaniv and John L. Rhodes,2000,32,Artificial Life
+10.1162/artl_a_00202,Active Shape Discrimination with Compliant Bodies as Reservoir Computers,Chris Johnson and Andrew Philippides and Philip Husbands,2016,4,Artificial Life
+10.1162/artl_e_00394,The “Agent-Based Modeling for Human Behavior” Special Issue,Soo Ling Lim and Peter J. Bentley,2023,0,Artificial Life
+10.1162/artl_a_00387,"Expertise, Social Influence, and Knowledge Aggregation in Distributed Information Processing",Asimina Mertzani and Jeremy Pitt and Andrzej Nowak and Tomasz Michalak,2023,0,Artificial Life
+10.1162/106454600300103629,"Editor's Introduction: Artificial Life VII: Looking Backward, Looking Forward (Editor's Introduction to the Special Issue)",Mark A. Bedau,2000,1,Artificial Life
+10.1162/artl_a_00293,Nanoscale Robots Exhibiting Quorum Sensing,Yaniv Amir and Almogit Abu-Horowitz and Justin Werfel and Ido Bachelet,2019,3,Artificial Life
 10.1162/artl.2010.16.2.16205,"Recovering the Machine's Enemies: Circularity, Emergence, Evolution, and Chance Emergence, Complexity, and Self-Organization: Precursors and Prototypes. Alicia Juarrero and Carl A. Rubino (Eds.). Exploring Complexity Book Series: Volume 4. (2008, Goodyear, AZ: ISCE Publishers.) $52.99, 247 pp.",Luis Ramírez-Trejo and Gertrudis Van de Vijver,2010,0,Artificial Life
 10.1162/artl_a_00298,Introduction to the ECAL 2017 Special Issue,Carole Knibbe and Guillaume Beslon and Dusan Misevic,2019,0,Artificial Life
 10.1162/artl_e_00161,Editorial,Martyn Amos and Steen Rasmussen and John McCaskill and Peter Dittrich,2015,1,Artificial Life
@@ -18,28 +23,19 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1162/artl_a_00230,Self-Organization of Vocabularies under Different Interaction Orders,Javier Vera,2017,0,Artificial Life
 10.1162/artl.2007.13.4.415,"Information and its Role in Nature. J. G. Roederer. (2005, Springer.) Hardcover, $59.95, 235 pages. ISBN 3-540-23075-0",David C. Krakauer,2007,0,Artificial Life
 10.1162/106454606775186419,"Maintenance of Environmental Homeostasis by Biota, Selected Nonlocally by Circulation and Fluctuation Mechanisms",Tasuku Akagi,2006,3,Artificial Life
-10.1162/artl.2009.15.1.15107,Swarm Chemistry,Hiroki Sayama,2009,51,Artificial Life
-10.1162/artl_a_00310,Autonomously Moving Pine-Cone Robots: Using Pine Cones as Natural Hygromorphic Actuators and as Components of Mechanisms,Juntaro Tamaru and Toshiya Yui and Tomoko Hashida,2020,3,Artificial Life
+10.1162/artl_a_00335,On the Emergence of Intersexual Selection: Arbitrary Trait Preference Improves Female-Male Coevolution,Larry Bull,2021,0,Artificial Life
+10.1162/artl_a_00067,Naming Game on Adaptive Weighted Networks,Dorota Lipowska and Adam Lipowski,2012,14,Artificial Life
 10.1162/artl.2003.9.issue-2,n.m.,,2003,0,Artificial Life
 10.1162/artl_a_00176,Creativity and ALife,Margaret A. Boden,2015,7,Artificial Life
 10.1162/artl_a_00181,What is Life—in Everyday Understanding? A Focus Group Study on Lay Perspectives on the Term Life,Wolfgang Kerbe,2016,3,Artificial Life
 10.1162/106454603322221522,Evolutionary Plantographics,Alon Gal and Gady Mahal and Moshe Sipper,2003,0,Artificial Life
 10.1162/artl.2007.13.4.423,"Evolutionary Computation. A Unified Approach. Kenneth A. De Jong. (2006, MIT Press.) £32.95, $50.00, 256 pages",Efrén Mezura-Montes,2007,1,Artificial Life
-10.1162/artl_a_00112,Living in Living Cities,Carlos Gershenson,2013,13,Artificial Life
-10.1162/artl.2006.12.3.411,Self-Replication and Self-Assembly for Manufacturing,Robert Ewaschuk and Peter D. Turney,2006,10,Artificial Life
-10.1162/106454602320184220,Self-Reproduction in Three-Dimensional Reversible Cellular Space,Katsunobu Imai and Takahiro Hori and Kenichi Morita,2002,39,Artificial Life
-10.1162/106454603321489509,Self-Replicating Machines in Continuous Space with Virtual Physics,Arnold Smith and Peter Turney and Robert Ewaschuk,2003,16,Artificial Life
-10.1162/artl.2009.15.1.15103,An Effective Hierarchical Model for the Biomolecular Covalent Bond: An Approach Integrating Artificial Chemistry and an Actual Terrestrial Life System,Tsutomu Oohashi and Osamu Ueno and Tadao Maekawa and Norie Kawai and Emi Nishina and Manabu Honda,2009,3,Artificial Life
 10.1162/artl_a_00305,Alteration of (Frequency-Dependent) Fitness in Time-Shift Experiments Reveals Cryptic Coevolution and Uncoordinated Stasis in a Virtual Jurassic Park,Tian-tong Luo and Jian-long Zhu and Trond Reitan and Gabriel Yedid,2020,0,Artificial Life
 10.1162/artl_a_00325,Genetic Music System with Synthetic Biology,Eduardo Reck Miranda,2020,0,Artificial Life
-10.1162/artl_a_00202,Active Shape Discrimination with Compliant Bodies as Reservoir Computers,Chris Johnson and Andrew Philippides and Philip Husbands,2016,4,Artificial Life
-10.1162/artl_a_00387,"Expertise, Social Influence, and Knowledge Aggregation in Distributed Information Processing",Asimina Mertzani and Jeremy Pitt and Andrzej Nowak and Tomasz Michalak,2023,0,Artificial Life
 10.1162/artl_a_00300,"Circular Causation, Circular Cognition: A Tour Around Some Common Confusions",Inman Harvey,2019,1,Artificial Life
 10.1162/1064546041766479,Cooperation in the Iterated Prisoner's Dilemma Is Learned by Operant Conditioning Mechanisms,D. A. Gutnisky and B. S. Zanutto,2004,13,Artificial Life
-10.1162/artl_a_00343,A Comprehensive Conceptual and Computational Dynamics Framework for Autonomous Regeneration Systems,Tran Nguyen Minh-Thai and Sandhya Samarasinghe and Michael Levin,2021,2,Artificial Life
 10.1162/artl_a_00116,Pervasive Flexibility in Living Technologies through Degeneracy-Based Design,James Whitacre and Axel Bender,2013,5,Artificial Life
 10.1162/artl_r_00069,"Information and Living Systems: Philosophical and Scientific Perspectives. G. Terzis and R. Arp (Eds.). (2011, MIT Press.) $50.",Yair Neuman,2012,0,Artificial Life
-10.1162/1064546041255575,"Autopoiesis and Natural Drift: Genetic Information, Reproduction, and Evolution Revisited",Arantza Etxeberria,2004,15,Artificial Life
 10.1162/artl.2006.12.4.643,Reviewers of Volume 12,,2006,0,Artificial Life
 10.1162/artl.2010.izquierdo.b8,"Complexity: A Guided Tour. Melanie Mitchell. (2009, New York: Oxford University Press.) $29.95, 368 pages.",Luis R. Izquierdo,2010,1,Artificial Life
 10.1162/artl.2008.14.3.14303,The Emergence of Overlapping Scale-free Genetic Architecture in Digital Organisms,P. Gerlee and T. Lundh,2008,2,Artificial Life
@@ -47,22 +43,25 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1162/artl_a_00244,Minimally Sufficient Conditions for the Evolution of Social Learning and the Emergence of Non-Genetic Evolutionary Systems,Miguel Gonzalez and Richard Watson and Seth Bullock,2017,2,Artificial Life
 10.1162/1064546054407211,Artificial Life Down Under,Hussein A. Abbass,2005,0,Artificial Life
 10.1162/106454603321489527,RandScape: Complex Images from Simple Algorithms,Jeremy Smith,2003,0,Artificial Life
-10.1162/artl_a_00293,Nanoscale Robots Exhibiting Quorum Sensing,Yaniv Amir and Almogit Abu-Horowitz and Justin Werfel and Ido Bachelet,2019,3,Artificial Life
+10.1162/artl_a_00170,Ant- and Ant-Colony-Inspired ALife Visual Art,Gary Greenfield and Penousal Machado,2015,17,Artificial Life
+10.1162/artl_a_00201,Population and Evolutionary Dynamics based on Predator–Prey Relationships in a 3D Physical Simulation,Takashi Ito and Marcin L. Pilat and Reiji Suzuki and Takaya Arita,2016,7,Artificial Life
+10.1162/artl.2008.14.1.81,Algebraic Method for the Analysis of Signaling Crosstalk,Yoshiya Matsubara and Shinichi Kikuchi and Masahiro Sugimoto and Kotaro Oka and Masaru Tomita,2008,2,Artificial Life
+10.1162/106454606775186400,Ant-Based Clustering and Topographic Mapping,J. Handl and J. Knowles and M. Dorigo,2006,136,Artificial Life
+10.1162/106454603322694807,Simulating Market Dynamics: Interactions between Consumer Psychology and Social Networks,Marco A. Janssen and Wander Jager,2003,75,Artificial Life
 10.1162/106454601300328043,Book Reviews,Gérard Weisbuch,2001,0,Artificial Life
 10.1162/artl_a_00302,Evolving Complexity in Cooperative and Competitive Noisy Prediction Games,Nick Moran and Jordan Pollack,2019,0,Artificial Life
 10.1162/artl_a_00308,How Computational Experiments Can Improve Our Understanding of the Genetic Architecture of Common Human Diseases,Jason H. Moore and Randal S. Olson and Peter Schmitt and Yong Chen and Elisabetta Manduchi,2020,2,Artificial Life
 10.1162/artl.2008.14.2.227,"Probabilistic Robotics. Sebastian Thrun, Wolfram Burgard, and Dieter Fox. (2005, MIT Press.) 647 pages",Josh Bongard,2008,6,Artificial Life
 10.1162/artl_a_00381,Crowd-Sourced Identification of Characteristics of Collective Human Motion,Martyn Amos and Jamie Webster,2022,1,Artificial Life
 10.1162/artl_e_00385,Editorial Introduction to the 2021 Conference on Artificial Life Special Issue,Jitka Čejková and Silvia Holler and Richard Löffler and Olaf Witkowski,2022,0,Artificial Life
-10.1162/artl.2008.14.4.14400,The Embodiment of Cockroach Aggregation Behavior in a Group of Micro-robots,Simon Garnier and Christian Jost and Jacques Gautrais and Masoud Asadpour and Gilles Caprari and Raphaël Jeanson and Anne Grimal and Guy Theraulaz,2008,62,Artificial Life
 10.1162/artl.2006.12.4.639,"Nature's Magic: Synergy in Evolution and the Fate of Humankind. Peter Corning. (2003, Cambridge University Press.), Hardback, £25, $39. 464 pages. http://www.complexsystems.org/magic.html",Marko A. Rodriguez,2006,0,Artificial Life
 10.1162/artl_r_00018,"Handbook of Biological Networks. Lecture Notes in Complex Systems—Vol. 10. Stefano Boccaletti, Vito Latora, and Yamir Moreno (Eds.). (2010, World Scientific Publishing Company, Singapore.) GBP90.00 (hardcover), x + 441 pages. ISBN: 978-981-283-879-7.",Ferenc Jordán,2011,0,Artificial Life
+10.1162/artl_a_00318,Engineering Life: A Review of Synthetic Biology,Martin M. Hanczyc,2020,8,Artificial Life
 10.1162/106454602321202426,Bioinspired Engineering of Exploration Systems for NASA and DoD,Sarita Thakoor and Javaan Chahl and M. V. Srinivasan and L. Young and Frank Werblin and Butler Hine and Steven Zornetzer,2002,20,Artificial Life
 10.1162/artl.2005.11.issue-3,n.m.,,2005,0,Artificial Life
 10.1162/artl_a_00205,Emergence of Signal-Based Self-Replication without Manual Design,David Ripps,2016,0,Artificial Life
 10.1162/artl_a_00234,Self-Replicators Emerge from a Self-Organizing Prebiotic Computer World,B. Greenbaum and A. N. Pargellis,2017,1,Artificial Life
 10.1162/artl_a_00200,A General Statistical Method for Identifying Adaptations by Parameterizing Trait Space,Drew Blount,2016,0,Artificial Life
-10.1162/artl_a_00201,Population and Evolutionary Dynamics based on Predator–Prey Relationships in a 3D Physical Simulation,Takashi Ito and Marcin L. Pilat and Reiji Suzuki and Takaya Arita,2016,6,Artificial Life
 10.1162/artl_a_00370,An Ansatz for computational undecidability in RNA automata,Adam J. Svahn and Mikhail Prokopenko,2022,0,Artificial Life
 10.1162/artl.2000.6.issue-4,n.m.,,2000,0,Artificial Life
 10.1162/artl_a_00165,Minimal Conditions for Protocell Stationary Growth,Erwan Bigan and Jean-Marc Steyaert and Stéphane Douady,2015,3,Artificial Life
@@ -72,193 +71,192 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1162/artl.2008.14.3.14308,Natural or Internal Selection? The Case of Canalization in Complex Evolutionary Systems,Alexander Riegler,2008,6,Artificial Life
 10.1162/artl.2008.14.3.14301,Hierarchical Self-Organization in the Finitary Process Soup,Olof Görnerup and James P. Crutchfield,2008,11,Artificial Life
 10.1162/artl_a_00353,Resolving Anomalies in the Behaviour of a Modularity-Inducing Problem Domain with Distributional Fitness Evaluation,Zhenyue Qin and Tom Gedeon and R. I. McKay,2022,0,Artificial Life
-10.1162/artl.2008.14.1.81,Algebraic Method for the Analysis of Signaling Crosstalk,Yoshiya Matsubara and Shinichi Kikuchi and Masahiro Sugimoto and Kotaro Oka and Masaru Tomita,2008,2,Artificial Life
-10.1162/artl_a_00235,Molecular Robots Obeying Asimov's Three Laws of Robotics,Gal A. Kaminka and Rachel Spokoini-Stern and Yaniv Amir and Noa Agmon and Ido Bachelet,2017,29,Artificial Life
-10.1162/106454600568302,Asymmetry of Configuration Space Induced by Unequal Crossover: Implications for a Mathematical Theory of Evolutionary Innovation,Max Shpak and Günter P. Wagner,2000,17,Artificial Life
+10.1162/1064546053278955,Learning From and About Others: Towards Using Imitation to Bootstrap the Social Understanding of Others by Robots,Cynthia Breazeal and Daphna Buchsbaum and Jesse Gray and David Gatenby and Bruce Blumberg,2005,137,Artificial Life
+10.1162/artl_a_00207,"Artificial Metamorphosis: Evolutionary Design of Transforming, Soft-Bodied Robots",Michał Joachimczak and Reiji Suzuki and Takaya Arita,2016,17,Artificial Life
 10.1162/artl_a_00368,Machines That Feel and Think: The Role of Affective Feelings and Mental Action in (Artificial) General Intelligence,George Deane,2022,0,Artificial Life
 10.1162/106454601317296988,Ansatz for Dynamical Hierarchies,Steen Rasmussen and Nils A. Baas and Bernd Mayer and Martin Nilsson,2001,60,Artificial Life
+10.1162/artl.2008.14.2.203,Towards Unconventional Computing through Simulated Evolution: Control of Nonlinear Media by a Learning Classifier System,Larry Bull and Adam Budd and Christopher Stone and Ivan Uroukov and Ben de Lacy Costello and Andrew Adamatzky,2008,11,Artificial Life
+10.1162/artl_a_00312,"The Complexity Ratchet: Stronger than Selection, Stronger than Evolvability, Weaker than Robustness",Vincent Liard and David P. Parsons and Jonathan Rouzaud-Cornabas and Guillaume Beslon,2020,7,Artificial Life
+10.1162/artl_e_00400,Reviewers for Volume 27,,2022,0,Artificial Life
 10.1162/artl_a_00159,Autonomous Pattern Formation of Micro-organic Cell Density with Optical Interlink between Two Isolated Culture Dishes,Kazunari Ozasa and Jeesoo Lee and Simon Song and Masahiko Hara and Mizuo Maeda,2015,2,Artificial Life
 10.1162/artl_a_00016,Noise and the Evolution of Neural Network Modularity,Boye Annfelt Høverstad,2011,7,Artificial Life
 10.1162/artl_a_00135,Simulated Predator Attacks on Flocks: A Comparison of Tactics,Jure Demšar and Iztok Lebar Bajec,2014,13,Artificial Life
-10.1162/artl.2006.12.4.513,The Origin of the Eukaryotic Cell Based on Conservation of Existing Interfaces,Albert D. G. de Roos,2006,9,Artificial Life
-10.1162/artl_a_00106,Different Genetic Algorithms and the Evolution of Specialization: A Study with Groups of Simulated Neural Robots,Tomassino Ferrauto and Domenico Parisi and Gabriele Di Stefano and Gianluca Baldassarre,2013,4,Artificial Life
-10.1162/artl_a_00335,On the Emergence of Intersexual Selection: Arbitrary Trait Preference Improves Female-Male Coevolution,Larry Bull,2021,0,Artificial Life
 10.1162/artl.2009.15.1.15106,A Synthon Approach to Artificial Chemistry,Tom Lenaerts and Hugues Bersini,2009,9,Artificial Life
-10.1162/artl_a_00187,Experiments on and Numerical Modeling of the Capture and Concentration of Transcription-Translation Machinery inside Vesicles,Fabio Mavelli and Pasquale Stano,2015,19,Artificial Life
+10.1162/artl_a_00106,Different Genetic Algorithms and the Evolution of Specialization: A Study with Groups of Simulated Neural Robots,Tomassino Ferrauto and Domenico Parisi and Gabriele Di Stefano and Gianluca Baldassarre,2013,4,Artificial Life
+10.1162/artl.2006.12.4.513,The Origin of the Eukaryotic Cell Based on Conservation of Existing Interfaces,Albert D. G. de Roos,2006,9,Artificial Life
+10.1162/artl_a_00297,Towards Computational Models and Applications of Insect Visual Systems for Motion Perception: A Review,Qinbing Fu and Hongxin Wang and Cheng Hu and Shigang Yue,2019,26,Artificial Life
+10.1162/artl_a_00219,What Is Morphological Computation? On How the Body Contributes to Cognition and Control,Vincent C. Müller and Matej Hoffmann,2017,78,Artificial Life
 10.1162/artl_a_00290,Evolutionary Innovations and Where to Find Them: Routes to Open-Ended Evolution in Natural and Artificial Systems,Tim Taylor,2019,10,Artificial Life
 10.1162/artl_e_00203,Artificial Life Journal—ALIFE 14 Special Issue,,2016,1,Artificial Life
 10.1162/artl_a_00328,The Effect of Social Information Use Without Learning on the Evolution of Social Behavior,James M. Borg and Alastair Channon,2021,2,Artificial Life
-10.1162/artl.2008.14.2.203,Towards Unconventional Computing through Simulated Evolution: Control of Nonlinear Media by a Learning Classifier System,Larry Bull and Adam Budd and Christopher Stone and Ivan Uroukov and Ben de Lacy Costello and Andrew Adamatzky,2008,11,Artificial Life
-10.1162/artl_a_00067,Naming Game on Adaptive Weighted Networks,Dorota Lipowska and Adam Lipowski,2012,14,Artificial Life
-10.1162/artl_a_00347,Network-Based Phase Space Analysis of the El Farol Bar Problem,Shane St. Luce and Hiroki Sayama,2021,2,Artificial Life
-10.1162/artl_a_00207,"Artificial Metamorphosis: Evolutionary Design of Transforming, Soft-Bodied Robots",Michał Joachimczak and Reiji Suzuki and Takaya Arita,2016,17,Artificial Life
-10.1162/artl_a_00312,"The Complexity Ratchet: Stronger than Selection, Stronger than Evolvability, Weaker than Robustness",Vincent Liard and David P. Parsons and Jonathan Rouzaud-Cornabas and Guillaume Beslon,2020,7,Artificial Life
-10.1162/artl.2009.15.2.15200,Heterochrony and Artificial Embryogeny: A Method for Analyzing Artificial Embryogenies Based on Developmental Dynamics,Artur Matos and Reiji Suzuki and Takaya Arita,2009,7,Artificial Life
-10.1162/artl_e_00394,The “Agent-Based Modeling for Human Behavior” Special Issue,Soo Ling Lim and Peter J. Bentley,2023,0,Artificial Life
-10.1162/106454601317297022,Comparison of Different Genotype Encodings for Simulated Three-Dimensional Agents,Maciej Komosiński and Adam Rotaru-Varga,2001,51,Artificial Life
-10.1162/artl.2006.12.3.289,Distributed Coordination of Simulated Robots Based on Self-Organization,Gianluca Baldassarre and Domenico Parisi and Stefano Nolfi,2006,33,Artificial Life
+10.1162/artl.2009.15.1.15107,Swarm Chemistry,Hiroki Sayama,2009,51,Artificial Life
+10.1162/106454600568302,Asymmetry of Configuration Space Induced by Unequal Crossover: Implications for a Mathematical Theory of Evolutionary Innovation,Max Shpak and Günter P. Wagner,2000,17,Artificial Life
+10.1162/artl_a_00235,Molecular Robots Obeying Asimov's Three Laws of Robotics,Gal A. Kaminka and Rachel Spokoini-Stern and Yaniv Amir and Noa Agmon and Ido Bachelet,2017,29,Artificial Life
 10.1162/106454600568861,Talking Helps: Evolving Communicating Agents for the Predator-Prey Pursuit Problem,Kam-Chuen Jim and C. Lee Giles,2000,46,Artificial Life
+10.1162/artl.2006.12.3.289,Distributed Coordination of Simulated Robots Based on Self-Organization,Gianluca Baldassarre and Domenico Parisi and Stefano Nolfi,2006,33,Artificial Life
+10.1162/106454601317297022,Comparison of Different Genotype Encodings for Simulated Three-Dimensional Agents,Maciej Komosiński and Adam Rotaru-Varga,2001,51,Artificial Life
 10.1162/106454601317297013,A Macroscopic Analytical Model of Collaboration in Distributed Robotic Systems,Kristina Lerman and Aram Galstyan and Alcherio Martinoli and Auke Ijspeert,2001,88,Artificial Life
-10.1162/106454606775186400,Ant-Based Clustering and Topographic Mapping,J. Handl and J. Knowles and M. Dorigo,2006,136,Artificial Life
-10.1162/artl_a_00318,Engineering Life: A Review of Synthetic Biology,Martin M. Hanczyc,2020,8,Artificial Life
-10.1162/artl_e_00400,Reviewers for Volume 27,,2022,0,Artificial Life
+10.1162/artl_a_00110,Slimeware: Engineering Devices with Slime Mold,Andrew Adamatzky,2013,9,Artificial Life
 10.1162/artl_a_00177,Computational Social Creativity,Rob Saunders and Oliver Bown,2015,8,Artificial Life
-10.1162/artl_a_00170,Ant- and Ant-Colony-Inspired ALife Visual Art,Gary Greenfield and Penousal Machado,2015,16,Artificial Life
+10.1162/106454602320184220,Self-Reproduction in Three-Dimensional Reversible Cellular Space,Katsunobu Imai and Takahiro Hori and Kenichi Morita,2002,39,Artificial Life
+10.1162/106454603321489509,Self-Replicating Machines in Continuous Space with Virtual Physics,Arnold Smith and Peter Turney and Robert Ewaschuk,2003,16,Artificial Life
+10.1162/artl.2006.12.3.411,Self-Replication and Self-Assembly for Manufacturing,Robert Ewaschuk and Peter D. Turney,2006,10,Artificial Life
+10.1162/artl.2009.15.1.15103,An Effective Hierarchical Model for the Biomolecular Covalent Bond: An Approach Integrating Artificial Chemistry and an Actual Terrestrial Life System,Tsutomu Oohashi and Osamu Ueno and Tadao Maekawa and Norie Kawai and Emi Nishina and Manabu Honda,2009,3,Artificial Life
+10.1162/artl_a_00187,Experiments on and Numerical Modeling of the Capture and Concentration of Transcription-Translation Machinery inside Vesicles,Fabio Mavelli and Pasquale Stano,2015,19,Artificial Life
+10.1162/artl_a_00307,An Investigation into the Origin of Autopoiesis,Randall D. Beer,2020,12,Artificial Life
 10.1162/artl.2009.15.2.15203,Stochastic Simulation of the Chemoton,Sven Van Segbroeck and Ann Nowé and Tom Lenaerts,2009,12,Artificial Life
 10.1162/106454602320184248,Natural Language From Artificial Life,Simon Kirby,2002,112,Artificial Life
-10.1162/artl_a_00040,Information Dynamics in Small-World Boolean Networks,Joseph T. Lizier and Siddharth Pritam and Mikhail Prokopenko,2011,71,Artificial Life
 10.1162/artl_a_00041,Fisher Information at the Edge of Chaos in Random Boolean Networks,X. Rosalind Wang and Joseph T. Lizier and Mikhail Prokopenko,2011,33,Artificial Life
-10.1162/artl_a_00307,An Investigation into the Origin of Autopoiesis,Randall D. Beer,2020,12,Artificial Life
-10.1162/artl_a_00110,Slimeware: Engineering Devices with Slime Mold,Andrew Adamatzky,2013,9,Artificial Life
-10.1162/1064546053278955,Learning From and About Others: Towards Using Imitation to Bootstrap the Social Understanding of Others by Robots,Cynthia Breazeal and Daphna Buchsbaum and Jesse Gray and David Gatenby and Bruce Blumberg,2005,137,Artificial Life
-10.1162/artl_a_00297,Towards Computational Models and Applications of Insect Visual Systems for Motion Perception: A Review,Qinbing Fu and Hongxin Wang and Cheng Hu and Shigang Yue,2019,26,Artificial Life
-10.1162/artl_a_00219,What Is Morphological Computation? On How the Body Contributes to Cognition and Control,Vincent C. Müller and Matej Hoffmann,2017,77,Artificial Life
-10.1162/106454603322694807,Simulating Market Dynamics: Interactions between Consumer Psychology and Social Networks,Marco A. Janssen and Wander Jager,2003,75,Artificial Life
-10.1162/artl.2008.14.4.14406,Reviewers of Volume 14,,2008,0,Artificial Life
-10.1162/artl_a_00073,Evolving Boolean Networks with Structural Dynamism,Larry Bull,2012,5,Artificial Life
-10.1162/artl_a_00250,Social Learning and Cultural Evolution in Artificial Life,Chris Marriott and James M. Borg and Peter Andras and Paul E. Smaldino,2018,2,Artificial Life
-10.1162/artl_a_00252,Robustness and Contingent History: From Prisoner's Dilemma to Gaia Theory,Inman Harvey,2018,1,Artificial Life
-10.1162/artl.2009.16.1.16104,Computational Discovery of Instructionless Self-Replicating Structures in Cellular Automata,Zhijian Pan and James A. Reggia,2010,7,Artificial Life
-10.1162/artl_e_00386,Editorial Introduction to the Special Issue on Embodied Intelligence,Fumiya Iida and Josie Hughes,2022,0,Artificial Life
-10.1162/artl.2001.7.issue-4,n.m.,,2001,0,Artificial Life
-10.1162/artl_a_00158,Excitability Modulation of Oscillating Media in 3D-Printed Structures,Philip H. King and Chinnu H. Abraham and Klaus-Peter Zauner and Maurits R. R. de Planque,2015,2,Artificial Life
-10.1162/artl_a_00215,The Structure of Ontogenies in a Model Protocell,Eran Agmon and Alexander J. Gates and Randall D. Beer,2016,5,Artificial Life
-10.1162/artl_a_00392,Self-Isolation and Testing Behaviour During the COVID-19 Pandemic: An Agent-Based Model,Umberto Gostoli and Eric Silverman,2023,0,Artificial Life
+10.1162/artl_a_00310,Autonomously Moving Pine-Cone Robots: Using Pine Cones as Natural Hygromorphic Actuators and as Components of Mechanisms,Juntaro Tamaru and Toshiya Yui and Tomoko Hashida,2020,3,Artificial Life
+10.1162/artl_a_00343,A Comprehensive Conceptual and Computational Dynamics Framework for Autonomous Regeneration Systems,Tran Nguyen Minh-Thai and Sandhya Samarasinghe and Michael Levin,2021,3,Artificial Life
+10.1162/1064546041255575,"Autopoiesis and Natural Drift: Genetic Information, Reproduction, and Evolution Revisited",Arantza Etxeberria,2004,15,Artificial Life
+10.1162/artl_a_00040,Information Dynamics in Small-World Boolean Networks,Joseph T. Lizier and Siddharth Pritam and Mikhail Prokopenko,2011,71,Artificial Life
+10.1162/artl_a_00112,Living in Living Cities,Carlos Gershenson,2013,13,Artificial Life
+10.1162/artl.2008.14.4.14400,The Embodiment of Cockroach Aggregation Behavior in a Group of Micro-robots,Simon Garnier and Christian Jost and Jacques Gautrais and Masoud Asadpour and Gilles Caprari and Raphaël Jeanson and Anne Grimal and Guy Theraulaz,2008,63,Artificial Life
+10.1162/artl_a_00347,Network-Based Phase Space Analysis of the El Farol Bar Problem,Shane St. Luce and Hiroki Sayama,2021,2,Artificial Life
 10.1162/artl.2005.11.3.365,Reply to Ripps,John Stewart and Paul Bourgine,2005,0,Artificial Life
-10.1162/artl_e_00275,Reviewers for Volume 24,,2019,0,Artificial Life
 10.1162/artl_a_00098,Evolutionary Acquisition of a Mortal Genetic Program: The Origin of an Altruistic Gene,Tsutomu Oohashi and Tadao Maekawa and Osamu Ueno and Norie Kawai and Emi Nishina and Manabu Honda,2014,1,Artificial Life
-10.1162/artl_a_00171,Accretor: Generative Materiality in the Work of Driessens and Verstappen,Mitchell Whitelaw,2015,3,Artificial Life
-10.1162/artl.2006.12.3.449,A New Kind of Science,Ray Kurzweil,2006,0,Artificial Life
-10.1162/artl_e_00189,Advances in Artificial Life: Synthesis and Simulation of Living Systems: Editorial,Pietro Liò and Orazio Miglino and Giuseppe Nicosia and Stefano Nolfi and Mario Pavone,2015,1,Artificial Life
-10.1162/artl.2002.8.issue-4,n.m.,,2002,0,Artificial Life
-10.1162/artl_a_00261,An Agent-Based Model for the Role of Short-Term Memory Enhancement in the Emergence of Grammatical Agreement,Javier Vera,2018,0,Artificial Life
-10.1162/artl.2009.16.1.16101,"Systems Architecture: A New Model for Sustainability and the Built Environment using Nanotechnology, Biotechnology, Information Technology, and Cognitive Science with Living Technology",Rachel Armstrong,2010,3,Artificial Life
-10.1162/106454604322875931,Building Artificial Life for Play,Alan Dorin,2004,2,Artificial Life
-10.1162/106454603321489491,High-Dimensional Analysis of Evolutionary Autonomous Agents,Lior Segev and Ranit Aharonov and Isaac Meilijson and Eytan Ruppin,2003,3,Artificial Life
-10.1162/artl.2000.6.issue-2,n.m.,,2000,0,Artificial Life
-10.1162/artl.2003.9.issue-4,n.m.,,2003,0,Artificial Life
-10.1162/artl_a_00208,Cyclic Incrementality in Competitive Coevolution: Evolvability through Pseudo-Baldwinian Switching-Genes,Rick Janssen and Stefano Nolfi and Pim Haselager and Ida Sprinkhuizen-Kuyper,2016,6,Artificial Life
-10.1162/1064546053279026,Transient Phenomena in Learning and Evolution: Genetic Assimilation and Genetic Redistribution,Janet Wiles and James Watson and Bradley Tonkes and Terrence Deacon,2005,12,Artificial Life
-10.1162/106454601317297040,"Silicon Second Nature: Culturing Artificial Life in a Digital World. Stefan Helmreich. (1998, University of California Press). $40.00 hardcover, 316 pages",Katherine Hayles,2001,2,Artificial Life
-10.1162/106454602320184239,An Interactive Self-Replicator Implemented in Hardware,André Stauffer and Moshe Sipper,2002,10,Artificial Life
-10.1162/artl_e_00147,Reviewers of Volume 20,,2014,0,Artificial Life
-10.1162/artl.2008.14.2.235,"Conceptual Issues in Evolutionary Biology (3rd ed.). Elliott Sober (Ed.). (2006, Cambridge MA: MIT Press.) $42.00 (paper), 640 pages",Arantza Etxeberria and Jon Umerez,2008,0,Artificial Life
-10.1162/artl_a_00169,You Pretty Little Flocker: Exploring the Aesthetic State Space of Creative Ecosystems,Alice Eldridge,2015,5,Artificial Life
-10.1162/artl_a_00344,Pleasing Enhances Indirect Reciprocity-Based Cooperation Under Private Assessment,Marcus Krellner and The Anh Han,2022,4,Artificial Life
-10.1162/1064546054407194,Emergence of Cooperation: State of the Art,Geoff Nitschke,2005,14,Artificial Life
-10.1162/artl_a_00315,MetaChem: An Algebraic Framework for Artificial Chemistries,Penelope Faulkner Rainford and Angelika Sebald and Susan Stepney,2020,1,Artificial Life
-10.1162/artl.2008.14.3.14300,Evolution of Complexity,Carlos Gershenson and Tom Lenaerts,2008,10,Artificial Life
-10.1162/artl_x_00332,Reviewers for Volume 26,,2021,0,Artificial Life
-10.1162/artl_a_00225,On Design Mining: Coevolution and Surrogate Models,Richard J. Preen and Larry Bull,2017,3,Artificial Life
-10.1162/1064546053278937,Friends Reunited? Evolutionary Robotics and Representational Explanation,Michael Wheeler,2005,4,Artificial Life
-10.1162/artl_a_00269,Measuring Fitness Effects of Agent-Environment Interactions,Simon McGregor and Pedro A. M. Mediano,2018,0,Artificial Life
-10.1162/artl_a_00042,Modular Random Boolean Networks,Rodrigo Poblanno-Balp and Carlos Gershenson,2011,18,Artificial Life
-10.1162/106454601753238663,Collective Complexity out of Individual Simplicity,Alcherio Martinoli,2001,12,Artificial Life
-10.1162/artl.2000.6.3.259,"From Animals to Animats 5, Proceedings of the Fifth International Conference on Simulation of Adaptive Behavior. Rolf Pfeifer, Bruce Blumberg, Jean-Arcady Meyer, and Stewart W. Wilson (Eds.). 1998, MIT Press. 564 pages. $69.95, paper.",Sven Koenig,2000,0,Artificial Life
-10.1162/106454601753238672,"Discovering Artificial Economics: How Agents Learn and Economies Evolve. David F. Batten. 2000, Westview Press. 336 pages. $39.00 hardcover.",John Duffy,2001,0,Artificial Life
-10.1162/artl_r_00035,"The Ethics of Protocells: Moral and Social Implications of Creating Life in the Laboratory. Mark A. Bedau and Emily C. Parke (Eds.). (2009, MIT Press.) $29.00, £21.95, 392 pages. ISBN-10: 0-262-51269-6, ISBN-13: 978-0-262-51269-5.",Alfred Nordmann,2011,0,Artificial Life
-10.1162/artl.2008.14.1.49,Exploring the Operational Characteristics of Inference Algorithms for Transcriptional Networks by Means of Synthetic Data,Koenraad Van Leemput and Tim Van den Bulcke and Thomas Dhollander and Bart De Moor and Kathleen Marchal and Piet van Remortel,2008,1,Artificial Life
-10.1162/106454604773563595,Evolution of Robustness in Digital Organisms,Jeffrey A. Edlund and Christoph Adami,2004,27,Artificial Life
-10.1162/artl.2000.6.2.185,"The Shape of Actions: What Machines and Humans Can Do. Harry Collins and Martin Kusch, MIT Press, 1999",Edward Theil,2000,0,Artificial Life
-10.1162/artl.2007.13.2.209,"Artificial Life Models in Software. Andrew Adamatzky and Maciej Komosinski (Eds.). (2005, Springer-Verlag.) Hardcover, $69.95, 344 pages, 189 illustrations",Hiroki Sayama,2007,0,Artificial Life
-10.1162/artl_a_00097,Analysis of Swarm Behaviors Based on an Inversion of the Fluctuation Theorem,Heiko Hamann and Thomas Schmickl and Karl Crailsheim,2014,1,Artificial Life
-10.1162/artl.2006.12.2.217,Understanding the Course and State of Evolutionary Optimizations Using Visualization: Ten Years of Industry Experience with Evolutionary Algorithms,Hartmut Pohlheim,2006,5,Artificial Life
-10.1162/artl.2006.12.2.193,Exploring the Dynamics of Adaptation with Evolutionary Activity Plots,Seth Bullock and Mark A. Bedau,2006,11,Artificial Life
-10.1162/106454602753694738,News from the Editor,Mark Bedau,2002,1,Artificial Life
-10.1162/artl_a_00236,Physical Scaffolding Accelerates the Evolution of Robot Behavior,David Buckingham and Josh Bongard,2017,8,Artificial Life
-10.1162/artl_a_00357,Morphological Development at the Evolutionary Timescale: Robotic Developmental Evolution,Fabien C. Y. Benureau and Jun Tani,2022,1,Artificial Life
-10.1162/artl_r_00003,"Biomimetic Robotics: Mechanisms and Control. Ranjan Vepa. (2009, Cambridge University Press.) $99, 360 pages.",Adalberto Llarena,2010,0,Artificial Life
-10.1162/artl_a_00229,A General Architecture for Robotics Systems: A Perception-Based Approach to Artificial Life,Rupert Young,2017,13,Artificial Life
-10.1162/artl_a_00007,Modeling Social Learning of Language and Skills,Paul Vogt and Evert Haasdijk,2010,8,Artificial Life
-10.1162/artl_a_00125,The Cognitive Domain of a Glider in the Game of Life,Randall D. Beer,2014,34,Artificial Life
+10.1162/artl_e_00275,Reviewers for Volume 24,,2019,0,Artificial Life
+10.1162/artl_a_00393,A Generalised Dropout Mechanism for Distributed Systems,Larry Bull and Haixia Liu,2022,0,Artificial Life
+10.1162/106454603321489545,"The Atoms of Language: The Mind's Hidden Rules of Grammar; Foundations of Language: Brain, Meaning, Grammar, Evolution",Bart de Boer,2003,2,Artificial Life
+10.1162/artl_a_00031,Engineering the Evolution of Self-Organizing Behaviors in Swarm Robotics: A Case Study,Vito Trianni and Stefano Nolfi,2011,44,Artificial Life
 10.1162/artl.2000.6.issue-1,n.m.,,2000,0,Artificial Life
 10.1162/artl_r_00068,"Exploring Discrete Dynamics. Andrew Wuensche. (2011, Luniver Press.) xxxvii + 498 pages, 290 figures, 31 tables.",Genaro J. Martínez,2012,0,Artificial Life
-10.1162/artl_a_00393,A Generalised Dropout Mechanism for Distributed Systems,Larry Bull and Haixia Liu,2022,0,Artificial Life
+10.1162/artl_a_00117,Bespoke Physics for Living Technology,David H. Ackley,2013,4,Artificial Life
+10.1162/artl_a_00158,Excitability Modulation of Oscillating Media in 3D-Printed Structures,Philip H. King and Chinnu H. Abraham and Klaus-Peter Zauner and Maurits R. R. de Planque,2015,2,Artificial Life
+10.1162/artl_a_00392,Self-Isolation and Testing Behaviour During the COVID-19 Pandemic: An Agent-Based Model,Umberto Gostoli and Eric Silverman,2023,0,Artificial Life
+10.1162/artl_a_00042,Modular Random Boolean Networks,Rodrigo Poblanno-Balp and Carlos Gershenson,2011,18,Artificial Life
+10.1162/artl_a_00269,Measuring Fitness Effects of Agent-Environment Interactions,Simon McGregor and Pedro A. M. Mediano,2018,0,Artificial Life
+10.1162/106454601753238663,Collective Complexity out of Individual Simplicity,Alcherio Martinoli,2001,12,Artificial Life
+10.1162/artl_a_00171,Accretor: Generative Materiality in the Work of Driessens and Verstappen,Mitchell Whitelaw,2015,3,Artificial Life
+10.1162/artl.2008.14.4.14406,Reviewers of Volume 14,,2008,0,Artificial Life
+10.1162/artl.2006.12.3.449,A New Kind of Science,Ray Kurzweil,2006,0,Artificial Life
+10.1162/artl_e_00189,Advances in Artificial Life: Synthesis and Simulation of Living Systems: Editorial,Pietro Liò and Orazio Miglino and Giuseppe Nicosia and Stefano Nolfi and Mario Pavone,2015,1,Artificial Life
+10.1162/artl_a_00038,Local-Global Interaction and the Emergence of Scale-Free Networks with Community Structures,Jing Liu and Hussein A. Abbass and Weicai Zhong and David G. Green,2011,8,Artificial Life
 10.1162/artl_a_00146,Evolution of Communication Protocols Using an Artificial Regulatory Network,W. Garrett Mitchener,2014,1,Artificial Life
 10.1162/106454601753138952,Guest Editors' Introduction: Special Issue on Sensor Evolution,Kerstin Dautenhahn and Daniel Polani and Thomas Uthmann,2001,9,Artificial Life
-10.1162/artl_a_00038,Local-Global Interaction and the Emergence of Scale-Free Networks with Community Structures,Jing Liu and Hussein A. Abbass and Weicai Zhong and David G. Green,2011,8,Artificial Life
-10.1162/artl_a_00126,Institutions and Cooperation in an Ecology of Games,Paul E. Smaldino and Mark Lubell,2014,20,Artificial Life
-10.1162/artl_a_00117,Bespoke Physics for Living Technology,David H. Ackley,2013,4,Artificial Life
-10.1162/artl.2009.15.1.15105,A Topological Approach to Chemical Organizations,Gil Benkö and Florian Centler and Peter Dittrich and Christoph Flamm and Bärbel M. R. Stadler and Peter F. Stadler,2009,11,Artificial Life
-10.1162/artl.2009.16.1.16102,Artificial Symbiogenesis and Differing Reproduction Rates,Larry Bull,2010,5,Artificial Life
-10.1162/artl_a_00280,The MODES Toolbox: Measurements of Open-Ended Dynamics in Evolving Systems,Emily L. Dolson and Anya E. Vostinar and Michael J. Wiser and Charles Ofria,2019,6,Artificial Life
-10.1162/artl.2007.13.1.31,The Dynamic Changes in Roles of Learning through the Baldwin Effect,Reiji Suzuki and Takaya Arita,2007,16,Artificial Life
-10.1162/artl.2008.14.1.121,Bio-Logic: Gene Expression and the Laws of Combinatorial Logic,Maria J. Schilstra and Chrystopher L. Nehaniv,2008,17,Artificial Life
-10.1162/artl.2002.8.issue-2,n.m.,,2002,0,Artificial Life
-10.1162/106454601317297004,Defense of the Ansatz for Dynamical Hierarchies,Steen Rasmussen and Nils A. Baas and Bernd Mayer and Martin Nilsson,2001,11,Artificial Life
+10.1162/106454603321489491,High-Dimensional Analysis of Evolutionary Autonomous Agents,Lior Segev and Ranit Aharonov and Isaac Meilijson and Eytan Ruppin,2003,3,Artificial Life
+10.1162/artl.2001.7.issue-4,n.m.,,2001,0,Artificial Life
+10.1162/artl_a_00215,The Structure of Ontogenies in a Model Protocell,Eran Agmon and Alexander J. Gates and Randall D. Beer,2016,5,Artificial Life
+10.1162/artl.2000.6.issue-2,n.m.,,2000,0,Artificial Life
+10.1162/artl_a_00210,Open-Ended Evolution: Perspectives from the OEE Workshop in York,Tim Taylor and Mark Bedau and Alastair Channon and David Ackley and Wolfgang Banzhaf and Guillaume Beslon and Emily Dolson and Tom Froese and Simon Hickinbotham and Takashi Ikegami and Barry McMullin and Norman Packard and Steen Rasmussen and Nathaniel Virgo and Eran Agmon and Edward Clark and Simon McGregor and Charles Ofria and Glen Ropella and Lee Spector and Kenneth O. Stanley and Adam Stanton and Christopher Timperley and Anya Vostinar and Michael Wiser,2016,49,Artificial Life
+10.1162/artl_a_00229,A General Architecture for Robotics Systems: A Perception-Based Approach to Artificial Life,Rupert Young,2017,14,Artificial Life
+10.1162/artl.2003.9.issue-4,n.m.,,2003,0,Artificial Life
+10.1162/artl.2000.6.3.259,"From Animals to Animats 5, Proceedings of the Fifth International Conference on Simulation of Adaptive Behavior. Rolf Pfeifer, Bruce Blumberg, Jean-Arcady Meyer, and Stewart W. Wilson (Eds.). 1998, MIT Press. 564 pages. $69.95, paper.",Sven Koenig,2000,0,Artificial Life
+10.1162/artl_a_00208,Cyclic Incrementality in Competitive Coevolution: Evolvability through Pseudo-Baldwinian Switching-Genes,Rick Janssen and Stefano Nolfi and Pim Haselager and Ida Sprinkhuizen-Kuyper,2016,6,Artificial Life
 10.1162/106454605774270606,Dynamical Hierarchies (Guest Editors' Introduction),Tom Lenaerts and Dominique Chu and Richard Watson,2005,8,Artificial Life
-10.1162/artl_r_00266,Soonish: Ten Emerging Technologies That'll Improve and/or Ruin Everything,Michael Wiser,2018,0,Artificial Life
-10.1162/artl_r_00053,"Flying Insects and Robots. Dario Floreano, Jean-Christophe Zufferey, Mandyam V. Srinivasan, and Charlie Elington (Eds.). (2009, Springer.) $119, 328 pages.",Fumiya Iida,2011,1,Artificial Life
+10.1162/artl_a_00153,A Would-Be Nervous System Made from a Slime Mold,Andrew Adamatzky,2015,9,Artificial Life
+10.1162/artl_a_00095,Staging the Self-Assembly Process: Inspiration from Biological Development,Navneet Bhalla and Peter J. Bentley and Peter D. Vize and Christian Jacob,2014,3,Artificial Life
+10.1162/artl_a_00206,Evolution of Swarming Behavior Is Shaped by How Predators Attack,Randal S. Olson and David B. Knoester and Christoph Adami,2016,26,Artificial Life
+10.1162/artl_a_00280,The MODES Toolbox: Measurements of Open-Ended Dynamics in Evolving Systems,Emily L. Dolson and Anya E. Vostinar and Michael J. Wiser and Charles Ofria,2019,6,Artificial Life
+10.1162/artl_a_00007,Modeling Social Learning of Language and Skills,Paul Vogt and Evert Haasdijk,2010,8,Artificial Life
+10.1162/1064546041766433,The Data-and-Signals Cellular Automaton and Its Application to Growing Structures,André Stauffer and Moshe Sipper,2004,21,Artificial Life
+10.1162/artl_a_00196,Exploring the Space of Viable Configurations in a Model of Metabolism–Boundary Co-construction,Eran Agmon and Alexander J. Gates and Valentin Churavy and Randall D. Beer,2016,15,Artificial Life
+10.1162/1064546054407167,Emergent Patterning Phenomena in 2D Cellular Automata,Eleonora Bilotta and Pietro Pantano,2005,27,Artificial Life
+10.1162/artl_a_00257,Methods for Measuring Viability and Evaluating Viability Indicators,Matthew D. Egbert and Juan Pérez-Mercader,2018,2,Artificial Life
+10.1162/artl.2008.14.1.121,Bio-Logic: Gene Expression and the Laws of Combinatorial Logic,Maria J. Schilstra and Chrystopher L. Nehaniv,2008,17,Artificial Life
+10.1162/artl_a_00261,An Agent-Based Model for the Role of Short-Term Memory Enhancement in the Emergence of Grammatical Agreement,Javier Vera,2018,0,Artificial Life
+10.1162/artl.2008.14.2.235,"Conceptual Issues in Evolutionary Biology (3rd ed.). Elliott Sober (Ed.). (2006, Cambridge MA: MIT Press.) $42.00 (paper), 640 pages",Arantza Etxeberria and Jon Umerez,2008,0,Artificial Life
+10.1162/1064546053279026,Transient Phenomena in Learning and Evolution: Genetic Assimilation and Genetic Redistribution,Janet Wiles and James Watson and Bradley Tonkes and Terrence Deacon,2005,12,Artificial Life
+10.1162/artl.2006.12.4.461,Spatial-Pattern-Induced Evolution of a Self-Replicating Loop Network,Keisuke Suzuki and Takashi Ikegami,2006,9,Artificial Life
+10.1162/artl_r_00003,"Biomimetic Robotics: Mechanisms and Control. Ranjan Vepa. (2009, Cambridge University Press.) $99, 360 pages.",Adalberto Llarena,2010,0,Artificial Life
+10.1162/artl.2007.13.2.209,"Artificial Life Models in Software. Andrew Adamatzky and Maciej Komosinski (Eds.). (2005, Springer-Verlag.) Hardcover, $69.95, 344 pages, 189 illustrations",Hiroki Sayama,2007,0,Artificial Life
+10.1162/106454604773563540,Experiments in Digital Evolution (Editors' Introduction to the Special Issue),Christoph Adami and Claus O. Wilke,2004,7,Artificial Life
+10.1162/106454604773563603,"Influence of Chance, History, and Adaptation on Digital Evolution",Daniel A. Wagenaar and Christoph Adami,2004,18,Artificial Life
+10.1162/artl_a_00383,When to Be Critical? Performance and Evolvability in Different Regimes of Neural Ising Agents,Sina Khajehabdollahi and Jan Prosi and Emmanouil Giannakakis and Georg Martius and Anna Levina,2022,3,Artificial Life
+10.1162/artl.2008.14.2.157,"Evolving Homogeneous Neurocontrollers for a Group of Heterogeneous Robots: Coordinated Motion, Cooperation, and Acoustic Communication",Elio Tuci and Christos Ampatzis and Federico Vicentini and Marco Dorigo,2008,14,Artificial Life
+10.1162/artl.2009.16.1.16104,Computational Discovery of Instructionless Self-Replicating Structures in Cellular Automata,Zhijian Pan and James A. Reggia,2010,7,Artificial Life
+10.1162/artl_a_00315,MetaChem: An Algebraic Framework for Artificial Chemistries,Penelope Faulkner Rainford and Angelika Sebald and Susan Stepney,2020,1,Artificial Life
+10.1162/1064546054407194,Emergence of Cooperation: State of the Art,Geoff Nitschke,2005,14,Artificial Life
+10.1162/artl_x_00332,Reviewers for Volume 26,,2021,0,Artificial Life
+10.1162/106454601753238672,"Discovering Artificial Economics: How Agents Learn and Economies Evolve. David F. Batten. 2000, Westview Press. 336 pages. $39.00 hardcover.",John Duffy,2001,0,Artificial Life
+10.1162/artl.2008.14.1.49,Exploring the Operational Characteristics of Inference Algorithms for Transcriptional Networks by Means of Synthetic Data,Koenraad Van Leemput and Tim Van den Bulcke and Thomas Dhollander and Bart De Moor and Kathleen Marchal and Piet van Remortel,2008,1,Artificial Life
+10.1162/artl_r_00035,"The Ethics of Protocells: Moral and Social Implications of Creating Life in the Laboratory. Mark A. Bedau and Emily C. Parke (Eds.). (2009, MIT Press.) $29.00, £21.95, 392 pages. ISBN-10: 0-262-51269-6, ISBN-13: 978-0-262-51269-5.",Alfred Nordmann,2011,0,Artificial Life
+10.1162/artl.2009.16.1.16102,Artificial Symbiogenesis and Differing Reproduction Rates,Larry Bull,2010,5,Artificial Life
+10.1162/106454604322875887,Assessing the Likelihood of Recurrence during RNA Evolution in Vitro,Niles Lehman,2004,27,Artificial Life
+10.1162/artl_e_00386,Editorial Introduction to the Special Issue on Embodied Intelligence,Fumiya Iida and Josie Hughes,2022,0,Artificial Life
+10.1162/1064546053278937,Friends Reunited? Evolutionary Robotics and Representational Explanation,Michael Wheeler,2005,4,Artificial Life
+10.1162/artl_a_00225,On Design Mining: Coevolution and Surrogate Models,Richard J. Preen and Larry Bull,2017,3,Artificial Life
+10.1162/artl_a_00252,Robustness and Contingent History: From Prisoner's Dilemma to Gaia Theory,Inman Harvey,2018,1,Artificial Life
+10.1162/artl_a_00169,You Pretty Little Flocker: Exploring the Aesthetic State Space of Creative Ecosystems,Alice Eldridge,2015,5,Artificial Life
+10.1162/106454601317297040,"Silicon Second Nature: Culturing Artificial Life in a Digital World. Stefan Helmreich. (1998, University of California Press). $40.00 hardcover, 316 pages",Katherine Hayles,2001,2,Artificial Life
+10.1162/artl_e_00147,Reviewers of Volume 20,,2014,0,Artificial Life
+10.1162/106454604773563595,Evolution of Robustness in Digital Organisms,Jeffrey A. Edlund and Christoph Adami,2004,27,Artificial Life
+10.1162/artl.2010.16.2.16200,Codd's Self-Replicating Computer,Tim J. Hutton,2010,16,Artificial Life
+10.1162/106454600568339,Shapes in the Shadow: Evolutionary Dynamics of Morphogenesis,P. Hogeweg,2000,45,Artificial Life
+10.1162/artl.2000.6.2.185,"The Shape of Actions: What Machines and Humans Can Do. Harry Collins and Martin Kusch, MIT Press, 1999",Edward Theil,2000,0,Artificial Life
+10.1162/artl_a_00250,Social Learning and Cultural Evolution in Artificial Life,Chris Marriott and James M. Borg and Peter Andras and Paul E. Smaldino,2018,2,Artificial Life
+10.1162/artl_a_00126,Institutions and Cooperation in an Ecology of Games,Paul E. Smaldino and Mark Lubell,2014,20,Artificial Life
+10.1162/artl_a_00073,Evolving Boolean Networks with Structural Dynamism,Larry Bull,2012,5,Artificial Life
+10.1162/artl.2002.8.issue-4,n.m.,,2002,0,Artificial Life
+10.1162/artl.2008.14.3.14300,Evolution of Complexity,Carlos Gershenson and Tom Lenaerts,2008,10,Artificial Life
 10.1162/artl.2002.8.issue-3,n.m.,,2002,0,Artificial Life
-10.1162/artl_e_00350,Editorial: News from the New Co-Editors in Chief,Alan Dorin and Susan Stepney,2021,0,Artificial Life
+10.1162/artl.2006.12.2.259,Issues in Auditory Display,Alice Eldridge,2006,13,Artificial Life
+10.1162/106454605774270615,Levels of Description: A Novel Approach to Dynamical Hierarchies,Simon McGregor and Chrisantha Fernando,2005,10,Artificial Life
+10.1162/artl.2009.stekel.006,A New Model for Investigating the Evolution of Transcription Control Networks,Dafyd J. Jenkins and Dov J. Stekel,2009,8,Artificial Life
+10.1162/artl_a_00354,The Importance of Noise Colour in Simulations of Evolutionary Systems,Matt Grove and Lucy Timbrell and Ben Jolley and Fiona Polack and James M. Borg,2022,3,Artificial Life
+10.1162/106454601317297004,Defense of the Ansatz for Dynamical Hierarchies,Steen Rasmussen and Nils A. Baas and Bernd Mayer and Martin Nilsson,2001,11,Artificial Life
+10.1162/artl.2002.8.issue-2,n.m.,,2002,0,Artificial Life
+10.1162/artl_a_00097,Analysis of Swarm Behaviors Based on an Inversion of the Fluctuation Theorem,Heiko Hamann and Thomas Schmickl and Karl Crailsheim,2014,1,Artificial Life
+10.1162/artl.2007.13.1.1,Simple Models of Assortment through Environmental Feedback,John W. Pepper,2007,45,Artificial Life
 10.1162/artl_a_00084,Morphological Computation of Multi-Gaited Robot Locomotion Based on Free Vibration,Murat Reis and Xiaoxiang Yu and Nandan Maheshwari and Fumiya Iida,2013,18,Artificial Life
+10.1162/artl_r_00053,"Flying Insects and Robots. Dario Floreano, Jean-Christophe Zufferey, Mandyam V. Srinivasan, and Charlie Elington (Eds.). (2009, Springer.) $119, 328 pages.",Fumiya Iida,2011,1,Artificial Life
+10.1162/artl_r_00266,Soonish: Ten Emerging Technologies That'll Improve and/or Ruin Everything,Michael Wiser,2018,0,Artificial Life
+10.1162/106454602320991864,“Artificial Societies” and the Social Sciences,J. Stephen Lansing,2002,32,Artificial Life
+10.1162/106454600568843,Pattern Formation and Optimization in Army Ant Raids,Ricard V. Solé and Eric Bonabeau and Jordi Delgado and Pau Fernández and Jesus Marín,2000,38,Artificial Life
 10.1162/artl_a_00134,Generation of Diversity in a Reaction-Diffusion-Based Controller,Payam Zahadat and Thomas Schmickl,2014,14,Artificial Life
+10.1162/artl_e_00350,Editorial: News from the New Co-Editors in Chief,Alan Dorin and Susan Stepney,2021,0,Artificial Life
+10.1162/artl_a_00286,On the Potential for Open-Endedness in Neural Networks,Nicholas Guttenberg and Nathaniel Virgo and Alexandra Penn,2019,4,Artificial Life
+10.1162/artl_a_00346,IMPROBED: Multiple Problem-Solving Brain via Evolved Developmental Programs,Julian Francis Miller,2021,1,Artificial Life
+10.1162/artl_a_00301,Reinforcement Learning for Improving Agent Design,David Ha,2019,22,Artificial Life
+10.1162/106454601753138989,Artificial Ears for a Biomimetic Sonarhead: From Multiple Reflectors to Surfaces,J. M. Carmena and N. Kämpchen and D. Kim and J. C. T. Hallam,2001,15,Artificial Life
+10.1162/artl_a_00334,Evolution of Autopoiesis and Multicellularity in the Game of Life,Peter D. Turney,2021,2,Artificial Life
+10.1162/artl_a_00278,Escalation of Memory Length in Finite Populations,Kyle Harrington and Jordan Pollack,2019,4,Artificial Life
+10.1162/1064546041766442,Adaptability and Diversity in Simulated Turn-taking Behavior,Hiroyuki Iizuka and Takashi Ikegami,2004,33,Artificial Life
+10.1162/artl_a_00359,Self-Replication in Neural Networks,Thomas Gabor and Steffen Illium and Maximilian Zorn and Cristian Lenta and Andy Mattausch and Lenz Belzner and Claudia Linnhoff-Popien,2022,1,Artificial Life
+10.1162/artl_a_00344,Pleasing Enhances Indirect Reciprocity-Based Cooperation Under Private Assessment,Marcus Krellner and The Anh Han,2022,4,Artificial Life
+10.1162/artl.2007.13.2.93,A Synthetic Vision System Using Directionally Selective Motion Detectors to Recognize Collision,Shigang Yue and F. Claire Rind,2007,22,Artificial Life
+10.1162/artl_a_00183,Multi-crease Self-folding by Global Heating,Shuhei Miyashita and Cagdas D. Onal and Daniela Rus,2015,6,Artificial Life
+10.1162/artl_a_00096,Motility at the Origin of Life: Its Characterization and a Model,Tom Froese and Nathaniel Virgo and Takashi Ikegami,2014,24,Artificial Life
+10.1162/artl.2009.15.1.15105,A Topological Approach to Chemical Organizations,Gil Benkö and Florian Centler and Peter Dittrich and Christoph Flamm and Bärbel M. R. Stadler and Peter F. Stadler,2009,11,Artificial Life
+10.1162/artl.2007.13.1.31,The Dynamic Changes in Roles of Learning through the Baldwin Effect,Reiji Suzuki and Takaya Arita,2007,16,Artificial Life
+10.1162/artl.2006.12.2.193,Exploring the Dynamics of Adaptation with Evolutionary Activity Plots,Seth Bullock and Mark A. Bedau,2006,11,Artificial Life
+10.1162/artl.2006.12.2.217,Understanding the Course and State of Evolutionary Optimizations Using Visualization: Ten Years of Industry Experience with Evolutionary Algorithms,Hartmut Pohlheim,2006,5,Artificial Life
+10.1162/artl.2007.13.3.303,"NetLogo, a Multi-agent Simulation Environment",Elizabeth Sklar,2007,122,Artificial Life
+10.1162/artl_a_00227,"Abstraction, Sensory-Motor Coordination, and the Reality Gap in Evolutionary Robotics",Kirk Y. W. Scheper and Guido C. H. E. de Croon,2017,5,Artificial Life
+10.1162/106454604322875931,Building Artificial Life for Play,Alan Dorin,2004,2,Artificial Life
+10.1162/106454600568834,A Developmental Model for the Evolution of Artificial Neural Networks,J. C. Astor and C. Adami,2000,52,Artificial Life
+10.1162/106454601753238654,Synthesizing Emotional Behavior in a Simple Animated Character,Katrin Hille,2001,3,Artificial Life
+10.1162/106454602753694738,News from the Editor,Mark Bedau,2002,1,Artificial Life
+10.1162/artl_a_00357,Morphological Development at the Evolutionary Timescale: Robotic Developmental Evolution,Fabien C. Y. Benureau and Jun Tani,2022,1,Artificial Life
+10.1162/artl_a_00236,Physical Scaffolding Accelerates the Evolution of Robot Behavior,David Buckingham and Josh Bongard,2017,8,Artificial Life
 10.1162/106454606775186392,A Category Theoretical Argument against the Possibility of Artificial Life: Robert Rosen's Central Proof Revisited,Dominique Chu and Weng Kin Ho,2006,26,Artificial Life
 10.1162/artl.2007.13.3.299,The Localization Hypothesis and Machines,Dominique Chu and Weng Kin Ho,2007,10,Artificial Life
 10.1162/106454600300103674,"John von Neumann and the Evolutionary Growth of Complexity: Looking Backward, Looking Forward",Barry McMullin,2000,62,Artificial Life
-10.1162/artl_a_00286,On the Potential for Open-Endedness in Neural Networks,Nicholas Guttenberg and Nathaniel Virgo and Alexandra Penn,2019,4,Artificial Life
-10.1162/artl_a_00334,Evolution of Autopoiesis and Multicellularity in the Game of Life,Peter D. Turney,2021,2,Artificial Life
-10.1162/artl.2006.12.4.461,Spatial-Pattern-Induced Evolution of a Self-Replicating Loop Network,Keisuke Suzuki and Takashi Ikegami,2006,9,Artificial Life
-10.1162/artl_a_00346,IMPROBED: Multiple Problem-Solving Brain via Evolved Developmental Programs,Julian Francis Miller,2021,1,Artificial Life
-10.1162/106454601753138989,Artificial Ears for a Biomimetic Sonarhead: From Multiple Reflectors to Surfaces,J. M. Carmena and N. Kämpchen and D. Kim and J. C. T. Hallam,2001,15,Artificial Life
-10.1162/106454603321489545,"The Atoms of Language: The Mind's Hidden Rules of Grammar; Foundations of Language: Brain, Meaning, Grammar, Evolution",Bart de Boer,2003,2,Artificial Life
-10.1162/106454604773563603,"Influence of Chance, History, and Adaptation on Digital Evolution",Daniel A. Wagenaar and Christoph Adami,2004,18,Artificial Life
-10.1162/106454604773563540,Experiments in Digital Evolution (Editors' Introduction to the Special Issue),Christoph Adami and Claus O. Wilke,2004,7,Artificial Life
-10.1162/artl_a_00096,Motility at the Origin of Life: Its Characterization and a Model,Tom Froese and Nathaniel Virgo and Takashi Ikegami,2014,24,Artificial Life
-10.1162/artl_a_00183,Multi-crease Self-folding by Global Heating,Shuhei Miyashita and Cagdas D. Onal and Daniela Rus,2015,6,Artificial Life
-10.1162/artl_a_00153,A Would-Be Nervous System Made from a Slime Mold,Andrew Adamatzky,2015,9,Artificial Life
-10.1162/artl.2007.13.1.1,Simple Models of Assortment through Environmental Feedback,John W. Pepper,2007,45,Artificial Life
-10.1162/artl_a_00278,Escalation of Memory Length in Finite Populations,Kyle Harrington and Jordan Pollack,2019,4,Artificial Life
-10.1162/106454601753238654,Synthesizing Emotional Behavior in a Simple Animated Character,Katrin Hille,2001,3,Artificial Life
-10.1162/106454600568843,Pattern Formation and Optimization in Army Ant Raids,Ricard V. Solé and Eric Bonabeau and Jordi Delgado and Pau Fernández and Jesus Marín,2000,38,Artificial Life
-10.1162/artl_a_00354,The Importance of Noise Colour in Simulations of Evolutionary Systems,Matt Grove and Lucy Timbrell and Ben Jolley and Fiona Polack and James M. Borg,2022,3,Artificial Life
-10.1162/artl_a_00095,Staging the Self-Assembly Process: Inspiration from Biological Development,Navneet Bhalla and Peter J. Bentley and Peter D. Vize and Christian Jacob,2014,3,Artificial Life
-10.1162/artl_a_00206,Evolution of Swarming Behavior Is Shaped by How Predators Attack,Randal S. Olson and David B. Knoester and Christoph Adami,2016,26,Artificial Life
-10.1162/106454602320991864,“Artificial Societies” and the Social Sciences,J. Stephen Lansing,2002,32,Artificial Life
-10.1162/artl.2007.13.2.93,A Synthetic Vision System Using Directionally Selective Motion Detectors to Recognize Collision,Shigang Yue and F. Claire Rind,2007,22,Artificial Life
-10.1162/106454604322875887,Assessing the Likelihood of Recurrence during RNA Evolution in Vitro,Niles Lehman,2004,27,Artificial Life
-10.1162/artl.2010.16.2.16200,Codd's Self-Replicating Computer,Tim J. Hutton,2010,16,Artificial Life
-10.1162/artl.2009.stekel.006,A New Model for Investigating the Evolution of Transcription Control Networks,Dafyd J. Jenkins and Dov J. Stekel,2009,8,Artificial Life
-10.1162/106454600568339,Shapes in the Shadow: Evolutionary Dynamics of Morphogenesis,P. Hogeweg,2000,45,Artificial Life
-10.1162/artl.2007.13.3.303,"NetLogo, a Multi-agent Simulation Environment",Elizabeth Sklar,2007,122,Artificial Life
-10.1162/artl_a_00383,When to Be Critical? Performance and Evolvability in Different Regimes of Neural Ising Agents,Sina Khajehabdollahi and Jan Prosi and Emmanouil Giannakakis and Georg Martius and Anna Levina,2022,3,Artificial Life
-10.1162/artl_a_00031,Engineering the Evolution of Self-Organizing Behaviors in Swarm Robotics: A Case Study,Vito Trianni and Stefano Nolfi,2011,44,Artificial Life
-10.1162/artl_a_00336,The Impossibility of Automating Ambiguity,Abeba Birhane,2021,25,Artificial Life
-10.1162/artl.2008.14.2.157,"Evolving Homogeneous Neurocontrollers for a Group of Heterogeneous Robots: Coordinated Motion, Cooperation, and Acoustic Communication",Elio Tuci and Christos Ampatzis and Federico Vicentini and Marco Dorigo,2008,14,Artificial Life
-10.1162/artl_a_00397,Emergence in Artificial Life,Carlos Gershenson,2023,0,Artificial Life
-10.1162/artl_a_00301,Reinforcement Learning for Improving Agent Design,David Ha,2019,21,Artificial Life
-10.1162/1064546054407167,Emergent Patterning Phenomena in 2D Cellular Automata,Eleonora Bilotta and Pietro Pantano,2005,27,Artificial Life
-10.1162/1064546041766442,Adaptability and Diversity in Simulated Turn-taking Behavior,Hiroyuki Iizuka and Takashi Ikegami,2004,33,Artificial Life
-10.1162/artl_a_00210,Open-Ended Evolution: Perspectives from the OEE Workshop in York,Tim Taylor and Mark Bedau and Alastair Channon and David Ackley and Wolfgang Banzhaf and Guillaume Beslon and Emily Dolson and Tom Froese and Simon Hickinbotham and Takashi Ikegami and Barry McMullin and Norman Packard and Steen Rasmussen and Nathaniel Virgo and Eran Agmon and Edward Clark and Simon McGregor and Charles Ofria and Glen Ropella and Lee Spector and Kenneth O. Stanley and Adam Stanton and Christopher Timperley and Anya Vostinar and Michael Wiser,2016,48,Artificial Life
-10.1162/artl_a_00257,Methods for Measuring Viability and Evaluating Viability Indicators,Matthew D. Egbert and Juan Pérez-Mercader,2018,2,Artificial Life
-10.1162/1064546041766433,The Data-and-Signals Cellular Automaton and Its Application to Growing Structures,André Stauffer and Moshe Sipper,2004,21,Artificial Life
-10.1162/artl_a_00359,Self-Replication in Neural Networks,Thomas Gabor and Steffen Illium and Maximilian Zorn and Cristian Lenta and Andy Mattausch and Lenz Belzner and Claudia Linnhoff-Popien,2022,1,Artificial Life
-10.1162/artl_a_00196,Exploring the Space of Viable Configurations in a Model of Metabolism–Boundary Co-construction,Eran Agmon and Alexander J. Gates and Valentin Churavy and Randall D. Beer,2016,15,Artificial Life
-10.1162/artl_a_00227,"Abstraction, Sensory-Motor Coordination, and the Reality Gap in Evolutionary Robotics",Kirk Y. W. Scheper and Guido C. H. E. de Croon,2017,5,Artificial Life
-10.1162/106454602321202417,Evolvable Self-Replicating Molecules in an Artificial Chemistry,Tim J. Hutton,2002,46,Artificial Life
-10.1162/artl_a_00220,Invasion of Cooperation in Scale-Free Networks: Accumulated versus Average Payoffs,Genki Ichinose and Hiroki Sayama,2017,21,Artificial Life
-10.1162/106454600568834,A Developmental Model for the Evolution of Artificial Neural Networks,J. C. Astor and C. Adami,2000,52,Artificial Life
-10.1162/106454605774270615,Levels of Description: A Novel Approach to Dynamical Hierarchies,Simon McGregor and Chrisantha Fernando,2005,10,Artificial Life
-10.1162/artl.2006.12.2.259,Issues in Auditory Display,Alice Eldridge,2006,13,Artificial Life
+10.1162/artl_a_00125,The Cognitive Domain of a Glider in the Game of Life,Randall D. Beer,2014,35,Artificial Life
 10.1162/artl_a_00023,Interactive Evolution of Camouflage,Craig Reynolds,2011,18,Artificial Life
+10.1162/artl_a_00220,Invasion of Cooperation in Scale-Free Networks: Accumulated versus Average Payoffs,Genki Ichinose and Hiroki Sayama,2017,21,Artificial Life
+10.1162/artl_a_00397,Emergence in Artificial Life,Carlos Gershenson,2023,0,Artificial Life
+10.1162/artl.2009.16.1.16101,"Systems Architecture: A New Model for Sustainability and the Built Environment using Nanotechnology, Biotechnology, Information Technology, and Cognitive Science with Living Technology",Rachel Armstrong,2010,4,Artificial Life
+10.1162/106454602320184239,An Interactive Self-Replicator Implemented in Hardware,André Stauffer and Moshe Sipper,2002,11,Artificial Life
+10.1162/106454602321202417,Evolvable Self-Replicating Molecules in an Artificial Chemistry,Tim J. Hutton,2002,47,Artificial Life
 10.1162/artl.2009.ampatzis.013,Evolving Self-Assembly in Autonomous Homogeneous Robots: Experiments with Two Physical Robots,Christos Ampatzis and Elio Tuci and Vito Trianni and Anders Lyhne Christensen and Marco Dorigo,2009,38,Artificial Life
+10.1162/artl_a_00336,The Impossibility of Automating Ambiguity,Abeba Birhane,2021,28,Artificial Life
 10.1162/artl.2006.12.issue-3,n.m.,,2006,0,Artificial Life
 10.1162/106454603322694852,Emergent Properties in Small-Scale Societies,Dwight W. Read,2003,10,Artificial Life
 10.1162/artl_e_00166,"Artificial Life Art, Creativity, and Techno-hybridization (editor's introduction)",Alan Dorin,2015,2,Artificial Life
 10.1162/artl_a_00015,Identifying Patterns from One-Rule-Firing Cellular Automata,Jae Kyun Shin,2011,0,Artificial Life
 10.1162/artl_a_00264,Bringing ALife and Complex Systems Science to Population Health Research,Eric Silverman,2018,5,Artificial Life
 10.1162/artl_a_00082,Self-Organized Translational Wheeling Motion in Stochastic Self-Assembling Modules,Shuhei Miyashita and Kohei Nakajima and Zoltán Nagy and Rolf Pfeifer,2013,3,Artificial Life
+10.1162/artl_a_00349,A Brief History of Artificial Intelligence Research,Christoph Adami,2021,1,Artificial Life
 10.1162/artl_r_00004,"Mechanical Love. Phie Ambo. (2009, Icarus Films.) $390, 52 min.",Carlos Gershenson and Iván V. Meza and Héctor Avilés and Luis A. Pineda,2010,1,Artificial Life
-10.1162/artl_a_00326,Symbiosis Promotes Fitness Improvements in the Game of Life,Peter D. Turney,2020,2,Artificial Life
-10.1162/artl.2006.12.4.525,"Through the Interaction of Neutral and Adaptive Mutations, Evolutionary Search Finds a Way",Tina Yu and Julian Francis Miller,2006,28,Artificial Life
-10.1162/106454602320184266,"Cycles of Contingency: Developmental Systems and Evolution. Susan Oyama, Paul E. Griffiths, &amp; Russell D. Gray (Eds.). (2000, MIT Press). $50.00, 377 pages.",Ezequiel A. Di Paolo,2002,1,Artificial Life
-10.1162/artl_a_00284,Toward Open-Ended Fraternal Transitions in Individuality,Matthew Andres Moreno and Charles Ofria,2019,5,Artificial Life
-10.1162/artl_a_00186,Lessons from Speciation Dynamics: How to Generate Selective Pressure Towards Diversity,Heiko Hamann,2015,1,Artificial Life
+10.1162/artl_a_00056,Evolvable Physical Self-Replicators,Nathaniel Virgo and Chrisantha Fernando and Bill Bigge and Phil Husbands,2012,9,Artificial Life
+10.1162/artl.2006.12.2.189,Picture This: The State of the Art in Visualization for Complex Adaptive Systems,Seth Bullock and Tom Smith and Jon Bird,2006,2,Artificial Life
 10.1162/artl_a_00253,The Biological Foundations of Enactivism: A Report on a Workshop Held at Artificial Life XV,Eran Agmon and Matthew Egbert and Nathaniel Virgo,2018,1,Artificial Life
 10.1162/artl.2009.bullinaria.010,Lifetime Learning as a Factor in Life History Evolution,John A. Bullinaria,2009,0,Artificial Life
-10.1162/artl_e_00378,Editorial Introduction for 28:1,Alan Dorin and Susan Stepney,2022,0,Artificial Life
 10.1162/106454600568393,Book Reviews,Holly A. Yanco,2000,3,Artificial Life
 10.1162/artl_a_00342,Classification of Discrete Dynamical Systems Based on Transients,Barbora Hudcová and Tomáš Mikolov,2022,0,Artificial Life
+10.1162/artl.2006.12.4.561,Evolving Physically Simulated Flying Creatures for Efficient Cruising,Yoon-Sik Shim and Chang-Hun Kim,2006,13,Artificial Life
 10.1162/artl_a_00245,"A Chemical Reaction Network to Generate Random, Power-Law-Distributed Time Intervals",Patrick Krauss and Holger Schulze and Claus Metzner,2017,0,Artificial Life
 10.1162/artl.2007.13.3.279,Genetic Exchange Leading to Self-Assembling RNA Species upon Encapsulation in Artificial Protocells,Sergio-Francis M. Zenisek and Eric J. Hayden and Niles Lehman,2007,4,Artificial Life
 10.1162/artl_a_00214,Evolvability Tradeoffs in Emergent Digital Replicators,Thomas LaBar and Arend Hintze and Christoph Adami,2016,3,Artificial Life
@@ -277,15 +275,12 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1162/106454603322694834,Evolution of an Optimal Lexicon under Constraints from Embodiment,Willem Zuidema and Gert Westermann,2003,10,Artificial Life
 10.1162/artl_x_00270,Erratum,,2018,0,Artificial Life
 10.1162/artl_a_00087,Modeling the Frictional Interaction in the Tendon-Pulley System of the Human Finger for Use in Robotics,Konstantinos Dermitzakis and Marco Roberto Morales and Andreas Schweizer,2013,5,Artificial Life
-10.1162/artl_a_00064,Excess Mutual Catalysis Is Required for Effective Evolvability,Omer Markovitch and Doron Lancet,2012,43,Artificial Life
-10.1162/artl_a_00033,Autocatalysis: At the Root of Self-Replication,Raphaël Plasson and Axel Brandenburg and Ludovic Jullien and Hugues Bersini,2011,16,Artificial Life
-10.1162/artl_a_00051,Exploring the Roles of Complex Networks in Linguistic Categorization,Tao Gong and Andrea Baronchelli and Andrea Puglisi and Vittorio Loreto,2011,14,Artificial Life
 10.1162/106454603322392497,Viscous Populations and Their Support for Reciprocal Cooperation,James A. R. Marshall and Jonathan E. Rowe,2003,8,Artificial Life
 10.1162/artl.2009.15.2.15207,"The Art of Artificial Evolution: A Handbook on Evolutionary Art and Music. Juan Romero and Penousal Machado (Eds.). (2007, Springer-Verlag.) $119.00 (hardback), 458 pages",Alice Eldridge,2009,0,Artificial Life
-10.1162/artl_a_00351,Monte Carlo Physarum Machine: Characteristics of Pattern Formation in Continuous Stochastic Transport Networks,Oskar Elek and Joseph N. Burchett and J. Xavier Prochaska and Angus G. Forbes,2022,2,Artificial Life
-10.1162/106454600568285,The Right Stuff: Appropriate Mathematics for Evolutionary and Developmental Biology (Editors' Introduction to the Special Issue),Chrystopher L. Nehaniv and Günter P. Wagner,2000,1,Artificial Life
 10.1162/artl_a_00120,Harnessing Our Very Life,Peter R. Wills and David L. F. Williams and Denys Trussell and L. R. B. Mann,2013,3,Artificial Life
 10.1162/artl_a_00128,Statistical Thermodynamics Concepts and Mathematical Tools for a Multi-Agent Ecosystem,Javier Segovia,2014,0,Artificial Life
+10.1162/artl_a_00186,Lessons from Speciation Dynamics: How to Generate Selective Pressure Towards Diversity,Heiko Hamann,2015,1,Artificial Life
+10.1162/artl_a_00211,WebAL Comes of Age: A Review of the First 21 Years of Artificial Life on the Web,Tim Taylor and Joshua E. Auerbach and Josh Bongard and Jeff Clune and Simon Hickinbotham and Charles Ofria and Mizuki Oka and Sebastian Risi and Kenneth O. Stanley and Jason Yosinski,2016,5,Artificial Life
 10.1162/artl.2006.12.2.243,Visualizing Speciation in Artificial Cichlid Fish,Ross Clement,2006,3,Artificial Life
 10.1162/artl.2006.12.4.635,"Metacreation: Art and Artificial Life. Mitchell Whitelaw. (2004, MIT Press.) 281 pages.",Alan Dorin,2006,1,Artificial Life
 10.1162/artl_r_00052,"Wetware: A Computer in Every Living Cell. Dennis Bray. (2009, New Haven, London: Yale University Press.) $28 (hardback), 267 pages.",Keith D. Farnsworth,2011,0,Artificial Life
@@ -293,11 +288,16 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1162/artl.2006.12.issue-1,n.m.,,2006,0,Artificial Life
 10.1162/artl.2009.gershenson.b6,"Reinventing the Sacred: A New View of Science, Reason, and Religion. Stuart A. Kauffman. (2008, Basic Books.) $27.",Carlos Gershenson,2009,0,Artificial Life
 10.1162/1064546041255593,The Affirmation of Self: A New Perspective on the Immune System,John Stewart and Antonio Coutinho,2004,16,Artificial Life
-10.1162/artl.2006.12.4.561,Evolving Physically Simulated Flying Creatures for Efficient Cruising,Yoon-Sik Shim and Chang-Hun Kim,2006,13,Artificial Life
-10.1162/artl_a_00057,Size Selection and Adaptive Evolution in an Artificial Chemistry,Michael W. Lucht,2012,1,Artificial Life
+10.1162/artl_a_00295,Exploring Bipedal Hopping through Computational Evolution,Jared M. Moore and Catherine L. Shine and Craig P. McGowan and Philip K. McKinley,2019,4,Artificial Life
 10.1162/artl.2008.14.2.231,"Biological Emergences: Evolution by Natural Experiment. Robert G. B. Reid. (2007, Cambridge, MA: MIT Press.) $38.00, £23.95, xv + 517 pages. Index. ISBN-10: 0-262-18257-2 (cloth: alk. paper); ISBN-13: 978-0-262-18257-7 (paper: alk. paper)",Stanley N. Salthe,2008,0,Artificial Life
 10.1162/artl_a_00133,Intermittent Animal Behavior: The Adjustment-Deployment Dilemma,Miguel Aguilera and Manuel G. Bedia and Francisco Seron and Xabier E. Barandiaran,2014,0,Artificial Life
+10.1162/artl_a_00017,Artificial Cybernetic Living Individuals Based on SupraMolecular-Level Organization as Dispersed Individuals,Bernard Korzeniewski,2011,5,Artificial Life
 10.1162/artl_a_00111,Bütschli Dynamic Droplet System,Rachel Armstrong and Martin Hanczyc,2013,7,Artificial Life
+10.1162/106454602321202408,Learning and the Evolution of Language: The Role of Cultural Variation and Learning Costs in the Baldwin Effect,Steve Munroe and Angelo Cangelosi,2002,26,Artificial Life
+10.1162/artl_a_00057,Size Selection and Adaptive Evolution in an Artificial Chemistry,Michael W. Lucht,2012,1,Artificial Life
+10.1162/artl_a_00059,Emergent Diversity in an Open-Ended Evolving Virtual Community,Jose D. Fernández and Daniel Lobo and Gema M. Martn and René Doursat and Francisco J. Vico,2012,12,Artificial Life
+10.1162/artl_a_00351,Monte Carlo Physarum Machine: Characteristics of Pattern Formation in Continuous Stochastic Transport Networks,Oskar Elek and Joseph N. Burchett and J. Xavier Prochaska and Angus G. Forbes,2022,2,Artificial Life
+10.1162/106454600568285,The Right Stuff: Appropriate Mathematics for Evolutionary and Developmental Biology (Editors' Introduction to the Special Issue),Chrystopher L. Nehaniv and Günter P. Wagner,2000,1,Artificial Life
 10.1162/artl_x_00193,Reviewers of Volume 21,,2015,0,Artificial Life
 10.1162/artl.2008.14.1.65,Constructing Gene Networks Using Variational Bayesian Variable Selection,Isabel M. Tienda-Luna and Yufang Yin and Yufei Huang and Diego P. Ruiz Padillo and Maria C. Carrion Perez and Yufeng Wang,2008,3,Artificial Life
 10.1162/artl_r_00239,Book Review: Search and Construct,Susan Stepney,2017,0,Artificial Life
@@ -317,58 +317,59 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1162/106454602320991873,Book Review,Daniel E. Glaser,2002,0,Artificial Life
 10.1162/artl_a_00115,Governance Strategies for Living Technologies: Bridging the Gap between Stimulating and Regulating Technoscience,Rinie van Est and Dirk Stemerding,2013,4,Artificial Life
 10.1162/1064546041766415,Tracking the Trajectories of Evolution,Mikhail S. Burtsev,2004,3,Artificial Life
-10.1162/artl_a_00017,Artificial Cybernetic Living Individuals Based on SupraMolecular-Level Organization as Dispersed Individuals,Bernard Korzeniewski,2011,5,Artificial Life
-10.1162/artl_a_00056,Evolvable Physical Self-Replicators,Nathaniel Virgo and Chrisantha Fernando and Bill Bigge and Phil Husbands,2012,9,Artificial Life
-10.1162/artl.2006.12.2.189,Picture This: The State of the Art in Visualization for Complex Adaptive Systems,Seth Bullock and Tom Smith and Jon Bird,2006,2,Artificial Life
-10.1162/artl.2007.13.4.419,"Autonomous Robots: From Biological Inspiration to Implementation and Control. George A. Bekey. (2005, MIT Press.) Hardcover, 577 pages. ISBN 0262025787",Fumiya Iida,2007,5,Artificial Life
+10.1162/106454602320184266,"Cycles of Contingency: Developmental Systems and Evolution. Susan Oyama, Paul E. Griffiths, &amp; Russell D. Gray (Eds.). (2000, MIT Press). $50.00, 377 pages.",Ezequiel A. Di Paolo,2002,1,Artificial Life
+10.1162/106454606775186437,Resilient Individuals Improve Evolutionary Search,Terence Soule,2006,15,Artificial Life
+10.1162/1064546053279044,Flexible Couplings: Diffusing Neuromodulators and Adaptive Robotics,Andy Philippides and Phil Husbands and Tom Smith and Michael O'Shea,2005,26,Artificial Life
 10.1162/artl_a_00048,Optimal Seeding of Self-Reproducing Systems,Amor A. Menezes and Pierre T. Kabamba,2011,2,Artificial Life
 10.1162/artl.2009.15.3.bullinaria.010,Lifetime Learning as a Factor in Life History Evolution,John A. Bullinaria,2009,7,Artificial Life
 10.1162/artl_r_00352,Review of Art in the Age of Machine Learning by Sofian Audry,Simon Penny,2022,0,Artificial Life
 10.1162/artl.2008.14.4.14402,The Numerical Measure of Symmetry for 3D Stick Creatures,Wojciech Jaśkowski and Maciej Komosinski,2008,8,Artificial Life
 10.1162/artl_a_00263,"The Emergence of Canalization and Evolvability in an Open-Ended, Interactive Evolutionary System",Joost Huizinga and Kenneth O. Stanley and Jeff Clune,2018,6,Artificial Life
+10.1162/artl.2007.13.1.69,Using the XCS Classifier System for Multi-objective Reinforcement Learning Problems,Matthew Studley and Larry Bull,2007,10,Artificial Life
+10.1162/artl.2007.13.2.159,An Artificial Ecosystem: Emergent Dynamics and Lifelike Properties,Mauno Rönkkö,2007,17,Artificial Life
+10.1162/artl_e_00378,Editorial Introduction for 28:1,Alan Dorin and Susan Stepney,2022,0,Artificial Life
+10.1162/artl_c_00024,An Artificial Life View of the Collatz Problem,Hiroki Sayama,2011,4,Artificial Life
+10.1162/1064546041255601,A Possible Route to Prebiotic Vesicle Reproduction,Pier Luigi Luisi and Pasquale Stano and Silvia Rasi and Fabio Mavelli,2004,64,Artificial Life
+10.1162/artl_a_00398,DigiHive: Artificial Chemistry Environment for Modeling of Self-Organization Phenomena,Rafał Sienkiewicz and Wojciech Jędruch,2023,0,Artificial Life
+10.1162/artl_r_00061,"Self-Reconfigurable Robots—An Introduction. Kasper Stoy, David Brandt, and David J. Christensen. (2010, MIT Press.) $35.00, £24.95, 224 pages.",Anders Lyhne Christensen,2012,4,Artificial Life
+10.1162/artl_a_00173,On Writing and Reading Artistic Computational Ecosystems,Rui Filipe Antunes and Frederic Fol Leymarie and William Latham,2015,5,Artificial Life
+10.1162/artl.2006.12.4.593,The Infection Algorithm: An Artificial Epidemic Approach for Dense Stereo Correspondence,Gustavo Olague and Francisco Fernández and Cynthia B. Pérez and Evelyne Lutton,2006,18,Artificial Life
 10.1162/artl_a_00213,Programs as Polypeptides,Lance R. Williams,2016,4,Artificial Life
 10.1162/artl_a_00369,Deterministic Response Threshold Models of Reproductive Division of Labor Are More Robust Than Probabilistic Models in Artificial Ants,Chris Marriott and Peter Bae and Jobran Chebib,2022,0,Artificial Life
-10.1162/artl_a_00144,Building Polyhedra by Self-Assembly: Theory and Experiment,Ryan Kaplan and Joseph Klobušický and Shivendra Pandey and David H. Gracias and Govind Menon,2014,12,Artificial Life
-10.1162/artl_a_00349,A Brief History of Artificial Intelligence Research,Christoph Adami,2021,1,Artificial Life
-10.1162/artl_r_00061,"Self-Reconfigurable Robots—An Introduction. Kasper Stoy, David Brandt, and David J. Christensen. (2010, MIT Press.) $35.00, £24.95, 224 pages.",Anders Lyhne Christensen,2012,4,Artificial Life
-10.1162/artl_a_00211,WebAL Comes of Age: A Review of the First 21 Years of Artificial Life on the Web,Tim Taylor and Joshua E. Auerbach and Josh Bongard and Jeff Clune and Simon Hickinbotham and Charles Ofria and Mizuki Oka and Sebastian Risi and Kenneth O. Stanley and Jason Yosinski,2016,5,Artificial Life
-10.1162/106454606775186437,Resilient Individuals Improve Evolutionary Search,Terence Soule,2006,15,Artificial Life
-10.1162/artl_a_00079,Morphological Computation and Morphological Control: Steps Toward a Formal Theory and Applications,Rudolf M. Füchslin and Andrej Dzyakanchuk and Dandolo Flumini and Helmut Hauser and Kenneth J. Hunt and Rolf H. Luchsinger and Benedikt Reller and Stephan Scheidegger and Richard Walker,2013,50,Artificial Life
-10.1162/artl_a_00173,On Writing and Reading Artistic Computational Ecosystems,Rui Filipe Antunes and Frederic Fol Leymarie and William Latham,2015,5,Artificial Life
 10.1162/106454604773563559,Digital Evolution in Time-Dependent Fitness Landscapes,Ye Li and Claus O. Wilke,2004,10,Artificial Life
-10.1162/artl.2006.12.4.593,The Infection Algorithm: An Artificial Epidemic Approach for Dense Stereo Correspondence,Gustavo Olague and Francisco Fernández and Cynthia B. Pérez and Evelyne Lutton,2006,18,Artificial Life
-10.1162/106454602320991837,Creating High-Level Components with a Generative Representation for Body-Brain Evolution,Gregory S. Hornby and Jordan B. Pollack,2002,149,Artificial Life
-10.1162/artl.2006.12.3.353,A Neural Learning Classifier System with Self-Adaptive Constructivism for Mobile Robot Control,Jacob Hurst and Larry Bull,2006,32,Artificial Life
-10.1162/106454602321202408,Learning and the Evolution of Language: The Role of Cultural Variation and Learning Costs in the Baldwin Effect,Steve Munroe and Angelo Cangelosi,2002,26,Artificial Life
-10.1162/artl_a_00242,The Evolution of Sex through the Baldwin Effect,Larry Bull,2017,5,Artificial Life
-10.1162/artl_a_00311,Death and Progress: How Evolvability is Influenced by Intrinsic Mortality,Frank Veenstra and Pablo González de Prado Salas and Kasper Stoy and Josh Bongard and Sebastian Risi,2020,3,Artificial Life
-10.1162/artl.2007.13.2.159,An Artificial Ecosystem: Emergent Dynamics and Lifelike Properties,Mauno Rönkkö,2007,17,Artificial Life
-10.1162/artl.2007.13.1.69,Using the XCS Classifier System for Multi-objective Reinforcement Learning Problems,Matthew Studley and Larry Bull,2007,10,Artificial Life
-10.1162/artl.2009.gotts.009,"Ramifying Feedback Networks, Cross-Scale Interactions, and Emergent Quasi Individuals in Conway's Game of Life",Nicholas M. Gotts,2009,6,Artificial Life
-10.1162/artl_a_00059,Emergent Diversity in an Open-Ended Evolving Virtual Community,Jose D. Fernández and Daniel Lobo and Gema M. Martn and René Doursat and Francisco J. Vico,2012,11,Artificial Life
-10.1162/artl_a_00184,The Search for Candidate Relevant Subsets of Variables in Complex Systems,M. Villani and A. Roli and A. Filisetti and M. Fiorucci and I. Poli and R. Serra,2015,24,Artificial Life
-10.1162/artl.2010.16.2.16204,Measuring Autonomy and Emergence via Granger Causality,Anil K. Seth,2010,45,Artificial Life
+10.1162/artl_a_00144,Building Polyhedra by Self-Assembly: Theory and Experiment,Ryan Kaplan and Joseph Klobušický and Shivendra Pandey and David H. Gracias and Govind Menon,2014,12,Artificial Life
+10.1162/artl_a_00326,Symbiosis Promotes Fitness Improvements in the Game of Life,Peter D. Turney,2020,2,Artificial Life
+10.1162/artl.2006.12.4.525,"Through the Interaction of Neutral and Adaptive Mutations, Evolutionary Search Finds a Way",Tina Yu and Julian Francis Miller,2006,28,Artificial Life
 10.1162/artl_a_00045,Information Content of Colored Motifs in Complex Networks,Christoph Adami and Jifeng Qian and Matthew Rupp and Arend Hintze,2011,18,Artificial Life
 10.1162/artl_a_00314,Neural Autopoiesis: Organizing Self-Boundaries by Stimulus Avoidance in Biological and Artificial Neural Networks,Atsushi Masumori and Lana Sinapayen and Norihiro Maruyama and Takeshi Mita and Douglas Bakkum and Urs Frey and Hirokazu Takahashi and Takashi Ikegami,2020,3,Artificial Life
 10.1162/artl.2008.14.3.14305,"Hierarchical Coordinate Systems for Understanding Complexity and its Evolution, with Applications to Genetic Regulatory Networks",Attila Egri-Nagy and Chrystopher L. Nehaniv,2008,16,Artificial Life
-10.1162/artl.2010.bongard.024,The Utility of Evolving Simulated Robot Morphology Increases with Task Complexity for Object Manipulation,Josh Bongard,2010,27,Artificial Life
-10.1162/1064546053279044,Flexible Couplings: Diffusing Neuromodulators and Adaptive Robotics,Andy Philippides and Phil Husbands and Tom Smith and Michael O'Shea,2005,26,Artificial Life
-10.1162/1064546053278973,The Development of Embodied Cognition: Six Lessons from Babies,Linda Smith and Michael Gasser,2005,293,Artificial Life
-10.1162/artl_a_00295,Exploring Bipedal Hopping through Computational Evolution,Jared M. Moore and Catherine L. Shine and Craig P. McGowan and Philip K. McKinley,2019,4,Artificial Life
+10.1162/artl_a_00033,Autocatalysis: At the Root of Self-Replication,Raphaël Plasson and Axel Brandenburg and Ludovic Jullien and Hugues Bersini,2011,16,Artificial Life
+10.1162/artl.2009.gotts.009,"Ramifying Feedback Networks, Cross-Scale Interactions, and Emergent Quasi Individuals in Conway's Game of Life",Nicholas M. Gotts,2009,6,Artificial Life
+10.1162/artl_a_00184,The Search for Candidate Relevant Subsets of Variables in Complex Systems,M. Villani and A. Roli and A. Filisetti and M. Fiorucci and I. Poli and R. Serra,2015,24,Artificial Life
+10.1162/artl_a_00242,The Evolution of Sex through the Baldwin Effect,Larry Bull,2017,5,Artificial Life
+10.1162/artl_a_00284,Toward Open-Ended Fraternal Transitions in Individuality,Matthew Andres Moreno and Charles Ofria,2019,5,Artificial Life
+10.1162/artl_a_00311,Death and Progress: How Evolvability is Influenced by Intrinsic Mortality,Frank Veenstra and Pablo González de Prado Salas and Kasper Stoy and Josh Bongard and Sebastian Risi,2020,3,Artificial Life
+10.1162/artl.2006.12.4.617,Simulating the Hallmarks of Cancer,Robert G. Abbott and Stephanie Forrest and Kenneth J. Pienta,2006,71,Artificial Life
 10.1162/1064546054407202,A Gene Network Model for Developing Cell Lineages,Nicholas Geard and Janet Wiles,2005,28,Artificial Life
 10.1162/artl.2008.14.1.3,Construction of a Biological Tissue Model Based on a Single-Cell Model: A Computer Simulation of Metabolic Heterogeneity in the Liver Lobule,Hiroshi Ohno and Yasuhiro Naito and Hiromu Nakajima and Masaru Tomita,2008,36,Artificial Life
-10.1162/artl.2006.12.4.617,Simulating the Hallmarks of Cancer,Robert G. Abbott and Stephanie Forrest and Kenneth J. Pienta,2006,71,Artificial Life
-10.1162/artl_c_00024,An Artificial Life View of the Collatz Problem,Hiroki Sayama,2011,4,Artificial Life
-10.1162/artl_a_00105,Online Learning in a Chemical Perceptron,Peter Banda and Christof Teuscher and Matthew R. Lakin,2013,18,Artificial Life
 10.1162/106454602320184202,Ant Colony Optimization and Stochastic Gradient Descent,Nicolas Meuleau and Marco Dorigo,2002,64,Artificial Life
+10.1162/artl_a_00105,Online Learning in a Chemical Perceptron,Peter Banda and Christof Teuscher and Matthew R. Lakin,2013,18,Artificial Life
 10.1162/1064546041255566,Unbinding Biological Autonomy: Francisco Varela's Contributions to Artificial Life,Ezequiel A. Di Paolo,2004,11,Artificial Life
-10.1162/1064546041255601,A Possible Route to Prebiotic Vesicle Reproduction,Pier Luigi Luisi and Pasquale Stano and Silvia Rasi and Fabio Mavelli,2004,64,Artificial Life
-10.1162/artl_a_00398,DigiHive: Artificial Chemistry Environment for Modeling of Self-Organization Phenomena,Rafał Sienkiewicz and Wojciech Jędruch,2023,0,Artificial Life
+10.1162/artl.2006.12.3.353,A Neural Learning Classifier System with Self-Adaptive Constructivism for Mobile Robot Control,Jacob Hurst and Larry Bull,2006,32,Artificial Life
+10.1162/106454602320991837,Creating High-Level Components with a Generative Representation for Body-Brain Evolution,Gregory S. Hornby and Jordan B. Pollack,2002,149,Artificial Life
+10.1162/artl_a_00064,Excess Mutual Catalysis Is Required for Effective Evolvability,Omer Markovitch and Doron Lancet,2012,43,Artificial Life
+10.1162/artl_a_00051,Exploring the Roles of Complex Networks in Linguistic Categorization,Tao Gong and Andrea Baronchelli and Andrea Puglisi and Vittorio Loreto,2011,14,Artificial Life
 10.1162/artl_a_00180,Maximizing the Adjacent Possible in Automata Chemistries,Simon Hickinbotham and Edward Clark and Adam Nellis and Susan Stepney and Tim Clarke and Peter Young,2016,7,Artificial Life
-10.1162/106454603322694825,Iterated Learning: A Framework for the Emergence of Language,Kenny Smith and Simon Kirby and Henry Brighton,2003,116,Artificial Life
-10.1162/1064546053279035,Introduction to the Special Issue: Embodied and Situated Cognition,Fernando Almeida e Costa and Luis Mateus Rocha,2005,7,Artificial Life
-10.1162/artl_a_00192,Behavior Trees for Evolutionary Robotics,Kirk Y. W. Scheper and Sjoerd Tijmons and Cornelis C. de Visser and Guido C. H. E. de Croon,2016,25,Artificial Life
+10.1162/artl.2010.16.2.16204,Measuring Autonomy and Emergence via Granger Causality,Anil K. Seth,2010,45,Artificial Life
 10.1162/artl_a_00330,Reality-Assisted Evolution of Soft Robots through Large-Scale Physical Experimentation: A Review,Toby Howison and Simon Hauser and Josie Hughes and Fumiya Iida,2021,19,Artificial Life
+10.1162/1064546053279035,Introduction to the Special Issue: Embodied and Situated Cognition,Fernando Almeida e Costa and Luis Mateus Rocha,2005,7,Artificial Life
+10.1162/artl.2010.bongard.024,The Utility of Evolving Simulated Robot Morphology Increases with Task Complexity for Object Manipulation,Josh Bongard,2010,27,Artificial Life
+10.1162/106454603322694825,Iterated Learning: A Framework for the Emergence of Language,Kenny Smith and Simon Kirby and Henry Brighton,2003,117,Artificial Life
+10.1162/artl.2007.13.4.419,"Autonomous Robots: From Biological Inspiration to Implementation and Control. George A. Bekey. (2005, MIT Press.) Hardcover, 577 pages. ISBN 0262025787",Fumiya Iida,2007,6,Artificial Life
+10.1162/artl_a_00079,Morphological Computation and Morphological Control: Steps Toward a Formal Theory and Applications,Rudolf M. Füchslin and Andrej Dzyakanchuk and Dandolo Flumini and Helmut Hauser and Kenneth J. Hunt and Rolf H. Luchsinger and Benedikt Reller and Stephan Scheidegger and Richard Walker,2013,51,Artificial Life
+10.1162/artl_a_00403,Interdependent Self-Organizing Mechanisms for Cooperative Survival,Matthew Scott and Jeremy Pitt,2023,0,Artificial Life
+10.1162/1064546053278973,The Development of Embodied Cognition: Six Lessons from Babies,Linda Smith and Michael Gasser,2005,294,Artificial Life
+10.1162/artl_a_00192,Behavior Trees for Evolutionary Robotics,Kirk Y. W. Scheper and Sjoerd Tijmons and Cornelis C. de Visser and Guido C. H. E. de Croon,2016,26,Artificial Life
 10.1162/artl_a_00241,On the Relation between Chemical Oscillations and Self-Replication,Erwan Bigan and Pierre Plateau,2017,0,Artificial Life
 10.1162/artl_a_00191,Evolutionary Growth of Genome Representations on Artificial Cellular Organisms with Indirect Encodings,Stefano Nichele and Andreas Giskeødegård and Gunnar Tufte,2016,4,Artificial Life
 10.1162/artl.2006.12.4.487,From Machine and Tape to Structure and Function: Formulation of a Reflexively Computing System,Chris Salzberg,2006,4,Artificial Life
@@ -380,6 +381,8 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1162/artl_a_00107,The Conduciveness of CA-Rule Graphs,Valmir C. Barbosa,2013,0,Artificial Life
 10.1162/artl_e_00218,Editorial/Introduction to the Artificial Life 2015 Conference Special Issue,Simon Hickinbotham and Susan Stepney,2016,0,Artificial Life
 10.1162/artl_a_00167,"Emergence, Agency, and Interaction—Notes from the Field",Simon Penny,2015,3,Artificial Life
+10.1162/artl_r_00025,"Applications of Automata Theory and Algebra via the Mathematical Theory of Complexity to Biology, Physics, Psychology, Philosophy, and Games. John Rhodes. Chrystopher L. Nehaniv (Ed.). Foreword by Morris W. Hirsch. (2009, World Scientific Books.) ISBN: 978-981-283-696-0, US$65 (hardcover); ISBN: 978-981-283-697-7, US$39 (paperback).",Attila Egri-Nagy,2011,0,Artificial Life
+10.1162/artl_a_00014,Evolution of Synchronization and Desynchronization in Digital Organisms,David B. Knoester and Philip K. McKinley,2011,5,Artificial Life
 10.1162/artl.2007.13.3.313,"Webots Simulator 5.1.7. Cyberbotics Ltd. (2006). Available in different versions at different prices; CHF 3600 ($2940) for the PRO version, normal price",R. Téllez and C. Angulo,2007,0,Artificial Life
 10.1162/artl.2005.11.issue-1-2,n.m.,,2005,0,Artificial Life
 10.1162/1064546053278982,Beyond Robotics: A New Proactive Research Initiative from the EU IST Program,Pekka Karp,2005,0,Artificial Life
@@ -388,6 +391,8 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1162/artl_a_00226,Automating the Incremental Evolution of Controllers for Physical Robots,Andrés Faíña and Lars Toft Jacobsen and Sebastian Risi,2017,3,Artificial Life
 10.1162/1064546054407158,Book Review,Terry Bossomaier,2005,2,Artificial Life
 10.1162/artl_a_00168,"The Life of the Mimetic Starfish, 2000–2012",Richard Brown,2015,1,Artificial Life
+10.1162/artl_a_00047,Behavioral Metabolution: The Adaptive and Evolutionary Potential of Metabolism-Based Chemotaxis,Matthew D. Egbert and Xabier E. Barandiaran and Ezequiel A. Di Paolo,2011,16,Artificial Life
+10.1162/106454603322392479,Bridging Nonliving and Living Matter,Steen Rasmussen and Liaohai Chen and Martin Nilsson and Shigeaki Abe,2003,140,Artificial Life
 10.1162/106454602320184257,Book Reviews,David G. Stork,2002,0,Artificial Life
 10.1162/artl.2001.7.4.429,Reviewers of Volume 7,,2001,0,Artificial Life
 10.1162/artl.2004.10.issue-4,n.m.,,2004,0,Artificial Life
@@ -401,8 +406,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1162/artl.2007.13.issue-4,n.m.,,2007,0,Artificial Life
 10.1162/artl_a_00085,Stochastic Optimal Control Methods for Investigating the Power of Morphological Computation,Elmar A. Rückert and Gerhard Neumann,2013,13,Artificial Life
 10.1162/artl_a_00289,Open-Endedness for the Sake of Open-Endedness,Arend Hintze,2019,4,Artificial Life
-10.1162/artl_r_00025,"Applications of Automata Theory and Algebra via the Mathematical Theory of Complexity to Biology, Physics, Psychology, Philosophy, and Games. John Rhodes. Chrystopher L. Nehaniv (Ed.). Foreword by Morris W. Hirsch. (2009, World Scientific Books.) ISBN: 978-981-283-696-0, US$65 (hardcover); ISBN: 978-981-283-697-7, US$39 (paperback).",Attila Egri-Nagy,2011,0,Artificial Life
-10.1162/artl_a_00014,Evolution of Synchronization and Desynchronization in Digital Organisms,David B. Knoester and Philip K. McKinley,2011,5,Artificial Life
 10.1162/106454603322392505,Biologically Inspired?,Charlie Phoenix,2003,0,Artificial Life
 10.1162/artl_a_00043,Properties of Biological Mutation Networks and Their Implications for ALife,Alastair P. Droop and Simon J. Hickinbotham,2011,1,Artificial Life
 10.1162/artl_r_00008,"Adaptive Networks: Theory, Models and Applications. T. Gross and H. Sayama (Eds.). (2009, Springer-Verlag.) £108, $159, 332 pages, 162 illustrations, 15 in color (hardcover).",Nicholas Geard,2010,0,Artificial Life
@@ -421,6 +424,7 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1162/artl.2006.12.issue-4,n.m.,,2006,0,Artificial Life
 10.1162/artl.2006.12.3.457,Visualizing Evolutionary Dynamics of Self-Replicators: A Graph-Based Approach,Chris Salzberg and Antony Antony and Hiroki Sayama,2006,0,Artificial Life
 10.1162/106454603322694843,Emergent Patterns of Mate Choice in Human Populations,Jorge Simão and Peter M. Todd,2003,32,Artificial Life
+10.1162/artl_a_00231,Real-World Evolution of Robot Morphologies: A Proof of Concept,Milan Jelisavcic and Matteo de Carlo and Elte Hupkes and Panagiotis Eustratiadis and Jakub Orlowski and Evert Haasdijk and Joshua E. Auerbach and A. E. Eiben,2017,39,Artificial Life
 10.1162/artl.2007.13.1.87,"Endless Forms Most Beautiful. Sean B. Carroll. (2005, W. W. Norton.) $25.95. ISBN 0-393-06016-0",Douglas H. Erwin,2007,0,Artificial Life
 10.1162/artl_e_00055,Reviewers of Volume 17,,2011,0,Artificial Life
 10.1162/artl_a_00006,"Relaxation of Selection, Niche Construction, and the Baldwin Effect in Language Evolution",Hajime Yamauchi and Takashi Hashimoto,2010,5,Artificial Life
@@ -430,11 +434,11 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1162/106454604773563586,Using Avida to Test the Effects of Natural Selection on Phylogenetic Reconstruction Methods,George I. Hagstrom and Dehua H. Hang and Charles Ofria and Eric Torng,2004,7,Artificial Life
 10.1162/artl_e_00204,Editorial Introduction to the Artificial Life 14 Conference Special Issue,Hiroki Sayama and John Rieffel and Sebastian Risi and René Doursat and Hod Lipson,2016,0,Artificial Life
 10.1162/artl_e_00083,Introduction to the Special Issue on Morphological Computation,Helmut Hauser and Hidenobu Sumioka and Rudolf M. Füchslin and Rolf Pfeifer,2013,5,Artificial Life
+10.1162/artl_a_00194,A Non-Newtonian Fluid Robot,Guy Hachmon and Noam Mamet and Sapir Sasson and Tal Barkai and Nomi Hadar and Almogit Abu-Horowitz and Ido Bachelet,2016,5,Artificial Life
 10.1162/artl.2004.10.issue-3,n.m.,,2004,0,Artificial Life
 10.1162/artl.2009.15.4.489,Reviewers of Volume 15,,2009,0,Artificial Life
 10.1162/106454603322221513,Intelligent Meaning Creation in a Clumpy World Helps Communication,Andrew D. M. Smith,2003,25,Artificial Life
 10.1162/artl_a_00247,RAIN: A Bio-Inspired Communication and Data Storage Infrastructure,Matteo Monti and Steen Rasmussen,2017,19,Artificial Life
-10.1162/artl_a_00231,Real-World Evolution of Robot Morphologies: A Proof of Concept,Milan Jelisavcic and Matteo de Carlo and Elte Hupkes and Panagiotis Eustratiadis and Jakub Orlowski and Evert Haasdijk and Joshua E. Auerbach and A. E. Eiben,2017,38,Artificial Life
 10.1162/artl_a_00254,Undecidability and Irreducibility Conditions for Open-Ended Evolution and Emergence,Santiago Hernández-Orozco and Francisco Hernández-Quiroz and Hector Zenil,2018,7,Artificial Life
 10.1162/106454601753138961,A Study of the Simulated Evolution of the Spectral Sensitivity of Visual Agent Receptors,Achim Liese and Daniel Polani and Thomas Uthmann,2001,4,Artificial Life
 10.1162/artl_a_00118,Readiness for Living Technology: A Comparative Study of the Uptake of Robot Technology in the Danish Health-Care Sector,Jean-Paul Peronard,2013,3,Artificial Life
@@ -444,42 +448,35 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1162/artl_a_00362,"Comment on Paolo Euron’s “Uncanny Beauty: Aesthetics of Companionship, Love, and Sex Robots”",Thomas Arnold,2022,0,Artificial Life
 10.1162/artl_a_00237,Imitative and Direct Learning as Interacting Factors in Life History Evolution,John A. Bullinaria,2017,6,Artificial Life
 10.1162/artl_a_00221,Quantifying Long-Range Interactions and Coherent Structure in Multi-Agent Dynamics,Oliver M. Cliff and Joseph T. Lizier and X. Rosalind Wang and Peter Wang and Oliver Obst and Mikhail Prokopenko,2017,18,Artificial Life
-10.1162/artl_a_00002,Chemical Basis for Minimal Cognition,Martin M. Hanczyc and Takashi Ikegami,2010,28,Artificial Life
 10.1162/artl_a_00376,The Enactive and Interactive Dimensions of AI: Ingenuity and Imagination Through the Lens of Art and Music,Maki Sato and Jonathan McKinney,2022,0,Artificial Life
 10.1162/artl_a_00313,Interpreting the Tape of Life: Ancestry-Based Analyses Provide Insights and Intuition about Evolutionary Dynamics,Emily Dolson and Alexander Lalejini and Steven Jorgensen and Charles Ofria,2020,9,Artificial Life
-10.1162/artl_a_00194,A Non-Newtonian Fluid Robot,Guy Hachmon and Noam Mamet and Sapir Sasson and Tal Barkai and Nomi Hadar and Almogit Abu-Horowitz and Ido Bachelet,2016,4,Artificial Life
 10.1162/artl.2007.13.2.139,Evolving Virtual Creatures and Catapults,Nicolas Chaumont and Richard Egli and Christoph Adami,2007,33,Artificial Life
 10.1162/106454602753694747,Mutualism Promotes Diversity and Stability in a Simple Artificial Ecosystem,Elizaveta Pachepsky and Tim Taylor and Stephen Jones,2002,27,Artificial Life
 10.1162/artl.2007.13.1.45,The Effects of Cultural Learning in Populations of Neural Networks,Dara Curran and Colm O'Riordan,2007,4,Artificial Life
 10.1162/106454600568348,Evolution of Self-Reproducing Programs in a Core Propelled by Parallel Protein Execution,Hideaki Suzuki,2000,9,Artificial Life
 10.1162/106454601300328025,Digital Life Behavior in the Amoeba World,A. N. Pargellis,2001,22,Artificial Life
 10.1162/artl_a_00080,Locomotion Without a Brain: Physical Reservoir Computing in Tensegrity Structures,K. Caluwaerts and M. D'Haene and D. Verstraeten and B. Schrauwen,2013,77,Artificial Life
-10.1162/1064546041255557,Autopoiesis and Cognition,Paul Bourgine and John Stewart,2004,116,Artificial Life
 10.1162/1064546053278919,Agency in Natural and Artificial Systems,Alvaro Moreno and Arantza Etxeberria,2005,48,Artificial Life
+10.1162/artl.2008.14.2.179,V-like Formations in Flocks of Artificial Birds,Andre Nathan and Valmir C. Barbosa,2008,27,Artificial Life
 10.1162/artl_a_00058,A Hormone-Based Controller for Evaluation-Minimal Evolution in Decentrally Controlled Systems,Heiko Hamann and Thomas Schmickl and Karl Crailsheim,2012,12,Artificial Life
-10.1162/1064546041255584,Basic Autonomy as a Fundamental Step in the Synthesis of Life,Kepa Ruiz-Mirazo and Alvaro Moreno,2004,126,Artificial Life
 10.1162/1064546041766424,Extending Self-Organizing Particle Systems to Problem Solving,Alejandro Rodríguez and James A. Reggia,2004,24,Artificial Life
 10.1162/artl.2007.13.1.11,Evolvable Self-Reproducing Cells in a Two-Dimensional Artificial Chemistry,Tim J. Hutton,2007,33,Artificial Life
 10.1162/artl_a_00287,Open-Ended Evolution and a Mechanism of Novelties in Web Services,Takashi Ikegami and Yasuhiro Hashimoto and Mizuki Oka,2019,2,Artificial Life
 10.1162/artl_a_00030,"“If You Can't Be With the One You Love, Love the One You're With”: How Individual Habituation of Agent Interactions Improves Global Utility",Adam P. Davies and Richard A. Watson and Rob Mills and C. L. Buckley and Jason Noble,2011,12,Artificial Life
 10.1162/artl.2007.13.3.291,Interpreting Rosen,Olaf Wolkenhauer,2007,8,Artificial Life
-10.1162/artl.2008.14.2.179,V-like Formations in Flocks of Artificial Birds,Andre Nathan and Valmir C. Barbosa,2008,26,Artificial Life
 10.1162/artl_a_00320,Report on Workshop: Planning the Future of Agent Simulation,Fiona Polack and Steffen Zschaler,2020,1,Artificial Life
-10.1162/artl_a_00020,Untethered Hovering Flapping Flight of a 3D-Printed Mechanical Insect,Charles Richter and Hod Lipson,2011,74,Artificial Life
-10.1162/artl_a_00088,"Toward Anthropomimetic Robotics: Development, Simulation, and Control of a Musculoskeletal Torso",Steffen Wittmeier and Cristiano Alessandro and Nenad Bascarevic and Konstantinos Dalamagkidis and David Devereux and Alan Diamond and Michael Jäntsch and Kosta Jovanovic and Rob Knight and Hugo Gravato Marques and Predrag Milosavljevic and Bhargav Mitra and Bratislav Svetozarevic and Veljko Potkonjak and Rolf Pfeifer and Alois Knoll and Owen Holland,2013,59,Artificial Life
+10.1162/106454600300103656,Connecting Brains to Robots: An Artificial Body for Studying the Computational Properties of Neural Tissues,Bernard D. Reger and Karen M. Fleming and Vittorio Sanguineti and Simon Alford and Ferdinando A. Mussa-Ivaldi,2000,80,Artificial Life
 10.1162/artl.2008.14.3.14310,Full Body: The Importance of the Phenotype in Evolution,George Kampis and László Gulyás,2008,7,Artificial Life
 10.1162/artl_a_00222,Evolution of Joint-Level Control for Quadrupedal Locomotion,Jared M. Moore and Philip K. McKinley,2017,1,Artificial Life
 10.1162/106454601300328007,Conditions Enabling the Evolution of Inter-Agent Signaling in an Artificial World,James A. Reggia and Reiner Schulz and Gerald S. Wilkinson and Juan Uriagereka,2001,10,Artificial Life
 10.1162/106454603321489518,Toward a Formalization of Emergence,Aleš Kubí,2003,76,Artificial Life
 10.1162/artl.2009.winkler.011,Predictive Mesoscale Network Model of Cell Fate Decisions during C. elegans Embryogenesis,David A. Winkler and Frank R. Burden and Julianne D. Halley,2009,6,Artificial Life
 10.1162/1064546041255548,Thirty Years of Computational Autopoiesis: A Review,Barry McMullin,2004,55,Artificial Life
+10.1162/artl_a_00088,"Toward Anthropomimetic Robotics: Development, Simulation, and Control of a Musculoskeletal Torso",Steffen Wittmeier and Cristiano Alessandro and Nenad Bascarevic and Konstantinos Dalamagkidis and David Devereux and Alan Diamond and Michael Jäntsch and Kosta Jovanovic and Rob Knight and Hugo Gravato Marques and Predrag Milosavljevic and Bhargav Mitra and Bratislav Svetozarevic and Veljko Potkonjak and Rolf Pfeifer and Alois Knoll and Owen Holland,2013,60,Artificial Life
 10.1162/1064546053279008,Beyond the Flesh: Some Lessons from a Mole Cricket,Andy Clark,2005,35,Artificial Life
-10.1162/artl_a_00243,Droplets As Liquid Robots,Jitka Čejková and Taisuke Banno and Martin M. Hanczyc and František Štěpánek,2017,39,Artificial Life
 10.1162/artl_a_00143,Characterizing Autopoiesis in the Game of Life,Randall D. Beer,2015,15,Artificial Life
 10.1162/106454603322392460,Evolving Mobile Robots Able to Display Collective Behaviors,Gianluca Baldassarre and Stefano Nolfi and Domenico Parisi,2003,121,Artificial Life
-10.1162/artl_a_00047,Behavioral Metabolution: The Adaptive and Evolutionary Potential of Metabolism-Based Chemotaxis,Matthew D. Egbert and Xabier E. Barandiaran and Ezequiel A. Di Paolo,2011,16,Artificial Life
 10.1162/artl_a_00094,Norm-Establishing and Norm-Following in Autonomous Agency,Xabier E. Barandiaran and Matthew D. Egbert,2014,45,Artificial Life
-10.1162/artl_a_00129,The Practice of Agent-Based Model Visualization,Alan Dorin and Nicholas Geard,2014,10,Artificial Life
 10.1162/106454603322221487,A Taxonomy for Artificial Embryogeny,Kenneth O. Stanley and Risto Miikkulainen,2003,306,Artificial Life
 10.1162/artl_a_00228,Evolutionary Developmental Robotics: Improving Morphology and Control of Physical Robots,Vuk Vujovic and Andre Rosendo and Luzius Brodbeck and Fumiya Iida,2017,40,Artificial Life
 10.1162/106454600300103638,Complex Organization in Multicellularity as a Necessity in Evolution,Chikara Furusawa and Kunihiko Kaneko,2000,16,Artificial Life
@@ -488,8 +485,12 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1162/artl.2007.13.3.293,A Living System Must Have Noncomputable Models,A. H. Louie,2007,23,Artificial Life
 10.1162/artl_a_00005,A First Attempt to Numerically Compute Forces on Birds in V Formation,C. M. Sewatkar and Atul Sharma and Amit Agrawal,2010,8,Artificial Life
 10.1162/artl.2007.13.4.319,Life Cycle of a Minimal Protocell—A Dissipative Particle Dynamics Study,Harold Fellermann and Steen Rasmussen and Hans-Joachim Ziock and Ricard V. Solé,2007,37,Artificial Life
-10.1162/106454600300103656,Connecting Brains to Robots: An Artificial Body for Studying the Computational Properties of Neural Tissues,Bernard D. Reger and Karen M. Fleming and Vittorio Sanguineti and Simon Alford and Ferdinando A. Mussa-Ivaldi,2000,80,Artificial Life
-10.1162/106454603322392479,Bridging Nonliving and Living Matter,Steen Rasmussen and Liaohai Chen and Martin Nilsson and Shigeaki Abe,2003,140,Artificial Life
+10.1162/artl_a_00020,Untethered Hovering Flapping Flight of a 3D-Printed Mechanical Insect,Charles Richter and Hod Lipson,2011,74,Artificial Life
+10.1162/artl_a_00002,Chemical Basis for Minimal Cognition,Martin M. Hanczyc and Takashi Ikegami,2010,28,Artificial Life
+10.1162/1064546041255584,Basic Autonomy as a Fundamental Step in the Synthesis of Life,Kepa Ruiz-Mirazo and Alvaro Moreno,2004,126,Artificial Life
+10.1162/artl_a_00243,Droplets As Liquid Robots,Jitka Čejková and Taisuke Banno and Martin M. Hanczyc and František Štěpánek,2017,41,Artificial Life
+10.1162/1064546041255557,Autopoiesis and Cognition,Paul Bourgine and John Stewart,2004,118,Artificial Life
+10.1162/artl_a_00129,The Practice of Agent-Based Model Visualization,Alan Dorin and Nicholas Geard,2014,10,Artificial Life
 10.1162/artl_a_00119,The Ultimate Technology: The End of Technology and the Task of Nature,Søren Riis,2013,4,Artificial Life
 10.1162/artl_a_00291,An Overview of Open-Ended Evolution: Editorial Introduction to the Open-Ended Evolution II Special Issue,Norman Packard and Mark A. Bedau and Alastair Channon and Takashi Ikegami and Steen Rasmussen and Kenneth O. Stanley and Tim Taylor,2019,7,Artificial Life
 10.1162/artl.2010.16.2.16201,Using Economy of Means to Evolve Transition Rules within 2D Cellular Automata,David L. Ripps,2010,1,Artificial Life
@@ -551,9 +552,9 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1162/artl_a_00157,Complexity Measurement Based on Information Theory and Kolmogorov Complexity,Leong Ting Lui and Germán Terrazas and Hector Zenil and Cameron Alexander and Natalio Krasnogor,2015,11,Artificial Life
 10.1162/artl_e_00265,Moving from Overwhelming to Actionable Complexity in Population Health Policy: Can ALife help?,Alexandra Penn,2018,3,Artificial Life
 10.1162/106454605774270598,Hierarchical Organization in Smooth Dynamical Systems,Martin N. Jacobi,2005,6,Artificial Life
-10.1162/artl_a_00050,Animation of Flocks Flying in Line Formations,Marina Klotsman and Ayellet Tal,2011,13,Artificial Life
 10.1162/artl_a_00072,Corpus-Based Intention Recognition in Cooperation Dilemmas,The Anh Han and Luís Moniz Pereira and Francisco C. Santos,2012,27,Artificial Life
 10.1162/artl_a_00391,Social Search and Resource Clustering as Emergent Stable States,Mahi Luthra and Peter M. Todd,2023,0,Artificial Life
+10.1162/artl_a_00395,On the Stability and Behavioral Diversity of Single and Collective Bernoulli Balls,Toby Howison and Harriet Crisp and Simon Hauser and Fumiya Iida,2023,0,Artificial Life
 10.1162/artl_a_00296,Mapping the Peaks: Fitness Landscapes of the Fittest and the Flattest,Joshua Franklin and Thomas LaBar and Christoph Adami,2019,3,Artificial Life
 10.1162/artl_a_00260,A Micro-Level Data-Calibrated Agent-Based Model: The Synergy between Microsimulation and Agent-Based Modeling,Karandeep Singh and Chang-Won Ahn and Euihyun Paik and Jang Won Bae and Chun-Hee Lee,2018,1,Artificial Life
 10.1162/artl.2008.14.2.189,"Metabolic Photofragmentation Kinetics for a Minimal Protocell: Rate-Limiting Factors, Efficiency, and Implications for Evolution",Chad Knutson and Gil Benkö and Tristan Rocheleau and Fouzi Mouffouk and Jerzy Maselko and Liaohai Chen and Andrew P. Shreve and Steen Rasmussen,2008,5,Artificial Life
@@ -563,14 +564,15 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1162/artl.2002.8.4.383,Reviewers of Volume 8,,2002,0,Artificial Life
 10.1162/artl.2009.marriott.014,Imitation as a Mechanism of Cultural Transmission,Chris Marriott and James Parker and Jörg Denzinger,2010,5,Artificial Life
 10.1162/artl_a_00309,Evolution Towards Criticality in Ising Neural Agents,Sina Khajehabdollahi and Olaf Witkowski,2020,4,Artificial Life
-10.1162/artl_a_00324,Self-Organization and Artificial Life,Carlos Gershenson and Vito Trianni and Justin Werfel and Hiroki Sayama,2020,13,Artificial Life
+10.1162/106454601753139005,Evolving Collective Behavior in an Artificial Ecology,Christopher R. Ward and Fernand Gobet and Graham Kendall,2001,56,Artificial Life
+10.1162/106454600568294,RNA Shape Space Topology,Jan Cupal and Stephan Kopp and Peter F. Stadler,2000,16,Artificial Life
 10.1162/106454600300103647,Evolution of Genetic Codes through Isologous Diversification of Cellular States,Hiroaki Takagi and Kunihiko Kaneko and Tetsuya Yomo,2000,7,Artificial Life
 10.1162/artl.2008.14.1.149,The Topology of the Protein Network Influences the Dynamics of Gene Order: From Systems Biology to a Systemic Understanding of Evolution,Carole Knibbe and Jean-Michel Fayard and Guillaume Beslon,2008,10,Artificial Life
 10.1162/artl_a_00174,Performative Apparatus and Diffractive Practices: An Account of Artificial Life Art,Jane Prophet and Helen Pritchard,2015,10,Artificial Life
 10.1162/artl_a_00198,Compartmentalization of an all-E. coli Cell-Free Expression System for the Construction of a Minimal Cell,Filippo Caschera and Vincent Noireaux,2016,28,Artificial Life
 10.1162/106454606776073305,Multidimensional Scaling for Evolutionary Algorithms—Visualization of the Path through Search Space and Solution Space Using Sammon Mapping,Hartmut Pohlheim,2006,3,Artificial Life
 10.1162/artl_a_00178,Studying Collective Human Decision Making and Creativity with Evolutionary Computation,Hiroki Sayama and Shelley D. Dionne,2015,12,Artificial Life
-10.1162/artl_a_00319,The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities,Joel Lehman and Jeff Clune and Dusan Misevic and Christoph Adami and Lee Altenberg and Julie Beaulieu and Peter J. Bentley and Samuel Bernard and Guillaume Beslon and David M. Bryson and Nick Cheney and Patryk Chrabaszcz and Antoine Cully and Stephane Doncieux and Fred C. Dyer and Kai Olav Ellefsen and Robert Feldt and Stephan Fischer and Stephanie Forrest and Antoine Fŕenoy and Christian Gagńe and Leni Le Goff and Laura M. Grabowski and Babak Hodjat and Frank Hutter and Laurent Keller and Carole Knibbe and Peter Krcah and Richard E. Lenski and Hod Lipson and Robert MacCurdy and Carlos Maestre and Risto Miikkulainen and Sara Mitri and David E. Moriarty and Jean-Baptiste Mouret and Anh Nguyen and Charles Ofria and Marc Parizeau and David Parsons and Robert T. Pennock and William F. Punch and Thomas S. Ray and Marc Schoenauer and Eric Schulte and Karl Sims and Kenneth O. Stanley and François Taddei and Danesh Tarapore and Simon Thibault and Richard Watson and Westley Weimer and Jason Yosinski,2020,52,Artificial Life
+10.1162/artl_a_00262,How Criticality of Gene Regulatory Networks Affects the Resulting Morphogenesis under Genetic Perturbations,Hyobin Kim and Hiroki Sayama,2018,5,Artificial Life
 10.1162/artl_a_00384,Braitenberg Vehicles as Developmental Neurosimulation,Stefan Dvoretskii and Ziyi Gong and Ankit Gupta and Jesse Parent and Bradly Alicea,2022,2,Artificial Life
 10.1162/artl_a_00032,Prebiological Evolution and the Metabolic Origins of Life,Andrew J. Pratt,2011,9,Artificial Life
 10.1162/106454606775186464,A Control System for a Flexible Spine Belly-Dancing Humanoid,Jimmy Or,2006,17,Artificial Life
@@ -578,12 +580,11 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1162/1064546054407149,Automated Selection of Appropriate Pheromone Representations in Ant Colony Optimization,James Montgomery and Marcus Randall and Tim Hendtlass,2005,12,Artificial Life
 10.1162/artl.2008.14.1.95,A Model of the Quorum Sensing System in Vibrio fischeri Using P Systems,Francisco J. Romero-Campero and Mario J. Pérez-Jiménez,2008,64,Artificial Life
 10.1162/artl_a_00365,From Dynamics to Novelty: An Agent-Based Model of the Economic System,Gustavo Recio and Wolfgang Banzhaf and Roger White,2022,1,Artificial Life
-10.1162/artl.2006.12.3.333,Axiomatic Scalable Neurocontroller Analysis via the Shapley Value,Alon Keinan and Ben Sandbank and Claus C. Hilgetag and Isaac Meilijson and Eytan Ruppin,2006,39,Artificial Life
 10.1162/artl_a_00317,Decentralized Control for Swarm Robots That Can Effectively Execute Spatially Distributed Tasks,Takeshi Kano and Eiichi Naito and Takenobu Aoshima and Akio Ishiguro,2020,5,Artificial Life
+10.1162/106454601753238636,Artificial Chemistries—A Review,Peter Dittrich and Jens Ziegler and Wolfgang Banzhaf,2001,249,Artificial Life
 10.1162/106454603322221504,Several Necessary Conditions for the Evolution of Complex Forms of Life in an Artificial Environment,Hideaki Suzuki and Naoaki Ono and Kikuo Yuta,2003,15,Artificial Life
 10.1162/artl_a_00022,Measuring the Evolution of the Drivers of Technological Innovation in the Patent Record,Andrew Buchanan and Norman H. Packard and Mark A. Bedau,2011,8,Artificial Life
 10.1162/1064546053278928,Note from the Editor,Mark A. Bedau,2005,5,Artificial Life
-10.1162/106454600568294,RNA Shape Space Topology,Jan Cupal and Stephan Kopp and Peter F. Stadler,2000,16,Artificial Life
 10.1162/artl.2006.12.4.553,Genetic Stability and Territorial Structure Facilitate the Evolution of Tag-Mediated Altruism,Lee Spector and Jon Klein,2006,15,Artificial Life
 10.1162/artl_a_00279,Open-Ended Technological Innovation,Mark A. Bedau and Nicholas Gigliotti and Tobias Janssen and Alec Kosik and Ananthan Nambiar and Norman Packard,2019,6,Artificial Life
 10.1162/artl_e_00232,Introduction to the Evolution of Physical Systems Special Issue,John Rieffel and Jean-Baptiste Mouret and Nicolas Bredeche and Evert Haasdijk,2017,3,Artificial Life
@@ -592,142 +593,144 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1162/artl.2009.16.1.16100,The Evolution of Reaction-Diffusion Controllers for Minimally Cognitive Agents,Kyran Dale and Phil Husbands,2010,28,Artificial Life
 10.1162/106454601753138970,Evolution of Visual Resolution Constrained by a Trade-off,Rens Kortmann and Eric Postma and Jaap van den Herik,2001,6,Artificial Life
 10.1162/106454600300103683,Open Problems in Artificial Life,Mark A. Bedau and John S. McCaskill and Norman H. Packard and Steen Rasmussen and Chris Adami and David G. Green and Takashi Ikegami and Kunihiko Kaneko and Thomas S. Ray,2000,170,Artificial Life
-10.1162/106454601753238636,Artificial Chemistries—A Review,Peter Dittrich and Jens Ziegler and Wolfgang Banzhaf,2001,248,Artificial Life
 10.1162/106454606775186428,Neural Processing of Counting in Evolved Spiking and McCulloch-Pitts Agents,Keren Saggie-Wexler and Alon Keinan and Eytan Ruppin,2006,11,Artificial Life
 10.1162/106454605774270642,Self-Organizing Hierarchies in Sensor and Communication Networks,Mikhail Prokopenko and Peter Wang and Philip Valencia and Don Price and Mark Foreman and Anthony Farmer,2005,19,Artificial Life
-10.1162/106454601753139005,Evolving Collective Behavior in an Artificial Ecology,Christopher R. Ward and Fernand Gobet and Graham Kendall,2001,56,Artificial Life
 10.1162/artl_a_00288,How to Make Swarms Open-Ended? Evolving Collective Intelligence Through a Constricted Exploration of Adjacent Possibles,Olaf Witkowski and Takashi Ikegami,2019,4,Artificial Life
 10.1162/106454600568852,On Meme–Gene Coevolution,Larry Bull and Owen Holland and Susan Blackmore,2000,30,Artificial Life
 10.1162/artl.2009.15.1.15104,Shapes and Self-Movement in Protocell Systems,Keisuke Suzuki and Takashi Ikegami,2009,18,Artificial Life
 10.1162/artl.2007.13.2.123,Synchronization Phenomena in Surface-Reaction Models of Protocells,Roberto Serra and Timoteo Carletti and Irene Poli,2007,22,Artificial Life
-10.1162/1064546053278900,From Wheels to Wings with Evolutionary Spiking Circuits,Dario Floreano and Jean-Christophe Zufferey and Jean-Daniel Nicoud,2005,45,Artificial Life
 10.1162/1064546053278991,Evolutionary Robotics: A New Scientific Tool for Studying Cognition,Inman Harvey and Ezequiel Di Paolo and Rachel Wood and Matt Quinn and Elio Tuci,2005,148,Artificial Life
 10.1162/artl_a_00255,Multi-Armed Droplets as Shape-Changing Protocells,Jitka Čejková and Martin M. Hanczyc and František Štěpánek,2018,6,Artificial Life
 10.1162/106454601300328034,Recent Developments in the Evolution of Morphologies and Controllers for Physically Simulated Creatures,Tim Taylor and Colm Massey,2001,40,Artificial Life
-10.1162/106454604773563612,Avida: A Software Platform for Research in Computational Evolutionary Biology,Charles Ofria and Claus O. Wilke,2004,222,Artificial Life
+10.1162/artl_a_00404,Understanding Social Robots: Attribution of Intentional Agency to Artificial and Biological Bodies,Tom Ziemke,2023,0,Artificial Life
 10.1162/1064546053279017,New Robotics: Design Principles for Intelligent Systems,Rolf Pfeifer and Fumiya Iida and Josh Bongard,2005,81,Artificial Life
 10.1162/artl.2009.15.2.15204,The Influence of Learning on Evolution: A Mathematical Framework,Ingo Paenke and Tadeusz J. Kawecki and Bernhard Sendhoff,2009,20,Artificial Life
-10.1162/106454603322392451,"Artificial Fish Schools: Collective Effects of School Size, Body Size, and Body Form",Hanspeter Kunz and Charlotte K. Hemelrijk,2003,102,Artificial Life
 10.1162/artl_a_00071,"An Enhanced Hypercube-Based Encoding for Evolving the Placement, Density, and Connectivity of Neurons",Sebastian Risi and Kenneth O. Stanley,2012,31,Artificial Life
 10.1162/artl_a_00109,Quantifying the Evolutionary Self-Structuring of Embodied Cognitive Networks,Fabio Bonsignorio,2013,7,Artificial Life
-10.1162/artl_a_00262,How Criticality of Gene Regulatory Networks Affects the Resulting Morphogenesis under Genetic Perturbations,Hyobin Kim and Hiroki Sayama,2018,5,Artificial Life
-10.1162/1064546054407130,Comment on Bourgine and Stewart's “Autopoiesis and Cognition”,David L. Ripps,2005,1,Artificial Life
+10.1162/106454603322392451,"Artificial Fish Schools: Collective Effects of School Size, Body Size, and Body Form",Hanspeter Kunz and Charlotte K. Hemelrijk,2003,102,Artificial Life
+10.1162/artl_a_00050,Animation of Flocks Flying in Line Formations,Marina Klotsman and Ayellet Tal,2011,13,Artificial Life
+10.1162/1064546053278900,From Wheels to Wings with Evolutionary Spiking Circuits,Dario Floreano and Jean-Christophe Zufferey and Jean-Daniel Nicoud,2005,45,Artificial Life
+10.1162/artl.2006.12.3.333,Axiomatic Scalable Neurocontroller Analysis via the Shapley Value,Alon Keinan and Ben Sandbank and Claus C. Hilgetag and Isaac Meilijson and Eytan Ruppin,2006,40,Artificial Life
+10.1162/106454604773563612,Avida: A Software Platform for Research in Computational Evolutionary Biology,Charles Ofria and Claus O. Wilke,2004,224,Artificial Life
+10.1162/artl_a_00324,Self-Organization and Artificial Life,Carlos Gershenson and Vito Trianni and Justin Werfel and Hiroki Sayama,2020,15,Artificial Life
+10.1162/artl_a_00319,The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities,Joel Lehman and Jeff Clune and Dusan Misevic and Christoph Adami and Lee Altenberg and Julie Beaulieu and Peter J. Bentley and Samuel Bernard and Guillaume Beslon and David M. Bryson and Nick Cheney and Patryk Chrabaszcz and Antoine Cully and Stephane Doncieux and Fred C. Dyer and Kai Olav Ellefsen and Robert Feldt and Stephan Fischer and Stephanie Forrest and Antoine Fŕenoy and Christian Gagńe and Leni Le Goff and Laura M. Grabowski and Babak Hodjat and Frank Hutter and Laurent Keller and Carole Knibbe and Peter Krcah and Richard E. Lenski and Hod Lipson and Robert MacCurdy and Carlos Maestre and Risto Miikkulainen and Sara Mitri and David E. Moriarty and Jean-Baptiste Mouret and Anh Nguyen and Charles Ofria and Marc Parizeau and David Parsons and Robert T. Pennock and William F. Punch and Thomas S. Ray and Marc Schoenauer and Eric Schulte and Karl Sims and Kenneth O. Stanley and François Taddei and Danesh Tarapore and Simon Thibault and Richard Watson and Westley Weimer and Jason Yosinski,2020,56,Artificial Life
 10.1162/artl.2004.10.issue-1,n.m.,,2004,0,Artificial Life
-10.1162/106454603322392488,Selective Instability: Maternal Effort and the Evolution of Gene Activation and Deactivation Rates,Carlo C. Maley and Stephen J. Tapscott,2003,0,Artificial Life
-10.1162/artl.2008.14.4.14405,"Origin and Early Evolution of Life. Tom Fenchel. (2002, Oxford University Press.) 171 pages, 7 color plates",David Deamer,2008,0,Artificial Life
-10.1162/artl_a_00145,The Effects of Recombination on Phenotypic Exploration and Robustness in Evolution,Ting Hu and Wolfgang Banzhaf and Jason H. Moore,2014,12,Artificial Life
-10.1162/artl_a_00001,Concurrency and Network Disassortativity,Susan Khor,2010,4,Artificial Life
-10.1162/artl_a_00074,Wains: A Pattern-Seeking Artificial Life Species,Amy de Buitléir and Michael Russell and Mark Daly,2012,4,Artificial Life
-10.1162/106454601317297031,Book Reviews,Hod Lipson,2001,5,Artificial Life
-10.1162/artl_a_00195,Complex Autocatalysis in Simple Chemistries,Nathaniel Virgo and Takashi Ikegami and Simon McGregor,2016,11,Artificial Life
-10.1162/artl_a_00060,A Simple Computational Cell: Coupling Boolean Gene and Protein Networks,Larry Bull,2012,4,Artificial Life
-10.1162/106454602320184211,The Simulated Emergence of Distributed Environmental Control in Evolving Microcosms,Keith L. Downing,2002,4,Artificial Life
-10.1162/106454601300328052,"Jinkou-Seimei (Artificial Life: A Constructive Approach to the Origin/Evolution of Life, Society, and Language). Takaya Arita, Science Press, 2000 (In Japanese)",Yukihiko Toquenaga,2001,0,Artificial Life
-10.1162/106454606775186482,Book Review,Shimon Edelman,2006,1,Artificial Life
-10.1162/artl.2005.11.issue-4,n.m.,,2005,0,Artificial Life
 10.1162/artl_x_00217,Reviewers of Volume 22,,2016,0,Artificial Life
-10.1162/artl.2007.13.issue-1,n.m.,,2007,0,Artificial Life
-10.1162/artl_a_00277,Two Modes of Evolution: Optimization and Expansion,Steen Rasmussen and Paolo Sibani,2019,6,Artificial Life
-10.1162/artl.2006.12.issue-2,n.m.,,2006,0,Artificial Life
-10.1162/artl_a_00086,Emotion as Morphofunctionality,Carlos Herrera Pérez and Ricardo Sanz,2013,2,Artificial Life
-10.1162/artl.2001.7.issue-1,n.m.,,2001,0,Artificial Life
-10.1162/artl.2007.13.issue-2,n.m.,,2007,0,Artificial Life
-10.1162/106454606775186446,Chemical Genetic Algorithms—Evolutionary Optimization of Binary-to-Real-Value Translation in Genetic Algorithms,Hideaki Suzuki and Hidefumi Sawai and Wojciech Piaseczny,2006,3,Artificial Life
-10.1162/artl.2009.gras.012,An Individual-Based Evolving Predator-Prey Ecosystem Simulation Using a Fuzzy Cognitive Map as the Behavior Model,Robin Gras and Didier Devaurs and Adrianna Wozniak and Adam Aspinall,2009,56,Artificial Life
-10.1162/106454605774270589,Modular Interdependency in Complex Dynamical Systems,Richard A. Watson and Jordan B. Pollack,2005,38,Artificial Life
-10.1162/artl.2009.15.1.15102,The Organic Builder: A Public Experiment in Artificial Chemistries and Self-Replication,Tim J. Hutton,2009,9,Artificial Life
-10.1162/artl.2008.14.2.239,"Self-Organization and Emergence in Life Sciences. Bernard Feltz, Marc Crommelinck, and Philippe Goujon (Eds.). (2006, Synthese Library Vol. 331, Springer.) Hardcover, €139, $179, 360 pages",Carlos Gershenson,2008,0,Artificial Life
-10.1162/106454601300328016,Symbiogenesis in Learning Classifier Systems,Andy Tomlinson and Larry Bull,2001,7,Artificial Life
-10.1162/106454600300103665,Exploring the Relationship between Neutral and Selective Mutations in Cancer,Carlo C. Maley and Stephanie Forrest,2000,24,Artificial Life
+10.1162/artl.2007.13.4.427,Reviewers of Volume 13,,2007,0,Artificial Life
+10.1162/106454601300328052,"Jinkou-Seimei (Artificial Life: A Constructive Approach to the Origin/Evolution of Life, Society, and Language). Takaya Arita, Science Press, 2000 (In Japanese)",Yukihiko Toquenaga,2001,0,Artificial Life
+10.1162/artl_a_00299,Can Signal Delay be Functional? Including Delay in Evolved Robot Controllers,Matthew Egbert and Andrew Keane and Claire Postlethwaite and Nelson Wong,2019,1,Artificial Life
+10.1162/artl.2007.13.3.223,Modeling Molecular Computing Systems by an Artificial Chemistry—Its Expressive Power and Application,Kazuto Tominaga and Tooru Watanabe and Keiji Kobayashi and Masaki Nakamura and Koji Kishi and Mitsuyoshi Kazuno,2007,7,Artificial Life
+10.1162/artl.2009.15.1.15108,Modeling Biochemical Pathways Using an Artificial Chemistry,Kazuto Tominaga and Yoshikazu Suzuki and Keiji Kobayashi and Tooru Watanabe and Kazumasa Koizumi and Koji Kishi,2009,2,Artificial Life
+10.1162/artl_a_00163,Learning Tensegrity Locomotion Using Open-Loop Control Signals and Coevolutionary Algorithms,Atil Iscen and Ken Caluwaerts and Jonathan Bruce and Adrian Agogino and Vytas SunSpiral and Kagan Tumer,2015,20,Artificial Life
+10.1162/artl_a_00388,The Effects of Information on the Formation of Migration Routes and the Dynamics of Migration,Martin Hinsch and Jakub Bijak,2023,0,Artificial Life
+10.1162/106454603322221531,"Collective Intelligence of the Artificial Life Community on Its Own Successes, Failures, and Future",Steen Rasmussen and Michael J. Raven and Gordon N. Keating and Mark A. Bedau,2003,10,Artificial Life
+10.1162/106454602320184211,The Simulated Emergence of Distributed Environmental Control in Evolving Microcosms,Keith L. Downing,2002,4,Artificial Life
 10.1162/artl_a_00281,Evolving Complexity in Prediction Games,Nick Moran and Jordan Pollack,2019,5,Artificial Life
-10.1162/artl.2008.14.3.14302,On the Gradual Evolution of Complexity and the Sudden Emergence of Complex Features,Charles Ofria and Wei Huang and Eric Torng,2008,8,Artificial Life
-10.1162/artl.2009.15.2.15205,"Evolution and Learning: The Baldwin Effect Reconsidered. Bruce H. Weber and David J. Depew (Eds.). (2003, MIT Press.) $50 (hardcover), $25 (paper), 351 pages",Reiji Suzuki,2009,0,Artificial Life
+10.1162/artl_a_00156,Autonomous Droplet Architectures,Gareth Jones and Philip H. King and Hywel Morgan and Maurits R. R. de Planque and Klaus-Peter Zauner,2015,12,Artificial Life
+10.1162/106454603321489536,Artifact &amp; Artifice: Views on Life,Alan Dorin,2003,3,Artificial Life
+10.1162/artl_a_00060,A Simple Computational Cell: Coupling Boolean Gene and Protein Networks,Larry Bull,2012,4,Artificial Life
 10.1162/106454601753139014,Specialist and Generalist Strategies in Sensory Evolution,Peter A. Cariani,2001,6,Artificial Life
+10.1162/106454606775186482,Book Review,Shimon Edelman,2006,1,Artificial Life
+10.1162/106454600568870,Book Reviews,Andreas Blume,2000,0,Artificial Life
 10.1162/106454602753694792,Adventures in Modeling,Kathy Griffis,2002,0,Artificial Life
-10.1162/artl_a_00267,Artificial Gene Regulatory Networks—A Review,Sylvain Cussat-Blanc and Kyle Harrington and Wolfgang Banzhaf,2019,19,Artificial Life
+10.1162/106454605774270651,Reviewers of Volume 11,,2005,0,Artificial Life
+10.1162/106454601300328016,Symbiogenesis in Learning Classifier Systems,Andy Tomlinson and Larry Bull,2001,7,Artificial Life
+10.1162/artl_a_00012,Enzyme-like Replication de Novo in a Microcontroller Environment,Uwe Tangen,2010,2,Artificial Life
+10.1162/artl.2006.12.issue-2,n.m.,,2006,0,Artificial Life
+10.1162/106454606775186446,Chemical Genetic Algorithms—Evolutionary Optimization of Binary-to-Real-Value Translation in Genetic Algorithms,Hideaki Suzuki and Hidefumi Sawai and Wojciech Piaseczny,2006,3,Artificial Life
 10.1162/artl.2009.15.3.michael.008,Ant-Based Computing,Loizos Michael,2009,2,Artificial Life
-10.1162/artl.2006.12.3.435,Neurocontroller Analysis via Evolutionary Network Minimization,Zohar Ganon and Alon Keinan and Eytan Ruppin,2006,1,Artificial Life
-10.1162/106454604322875922,Self-Protection and Diversity in Self-Replicating Cellular Automata,Hiroki Sayama,2004,12,Artificial Life
-10.1162/artl.2008.14.1.111,Phase Transitions and Bistability in Honeybee Foraging Dynamics,Andreas Loengarov and Valery Tereshko,2008,13,Artificial Life
-10.1162/artl_a_00188,Cell-Division Behavior in a Heterogeneous Swarm Environment,Adam Erskine and J. Michael Herrmann,2015,3,Artificial Life
+10.1162/artl.2007.13.issue-1,n.m.,,2007,0,Artificial Life
+10.1162/1064546054407130,Comment on Bourgine and Stewart's “Autopoiesis and Cognition”,David L. Ripps,2005,1,Artificial Life
+10.1162/artl.2005.11.issue-4,n.m.,,2005,0,Artificial Life
+10.1162/artl_e_00306,Artificial Life Next Generation Perspectives: Echoes from the 2018 Conference in Tokyo,Olaf Witkowski and Takashi Ikegami and Nathaniel Virgo and Mizuki Oka and Hiroyuki Iizuka,2020,1,Artificial Life
+10.1162/artl.2007.13.3.249,The Role of Translocation and Selection in the Emergence of Genetic Clusters and Modules,David Newth and David G. Green,2007,3,Artificial Life
 10.1162/106454600568366,Effects of Compression on Language Evolution,Tracy K. Teal and Charles E. Taylor,2000,11,Artificial Life
 10.1162/artl.2004.10.issue-2,n.m.,,2004,0,Artificial Life
-10.1162/artl.2007.13.3.249,The Role of Translocation and Selection in the Emergence of Genetic Clusters and Modules,David Newth and David G. Green,2007,3,Artificial Life
-10.1162/1064546054407176,Evolution of DNA Uptake Signal Sequences,Dominique Chu and Hoong-Chien Lee and Tom Lenaerts,2005,6,Artificial Life
-10.1162/artl.2008.14.1.1,Systems Biology and Artificial Life: Towards Predictive Modeling of Biological Systems,Jan T. Kim and Roland Eils,2008,3,Artificial Life
-10.1162/artl_a_00373,A Genome-Wide Evolutionary Simulation of the Transcription-Supercoiling Coupling,Théotime Grohens and Sam Meyer and Guillaume Beslon,2022,1,Artificial Life
-10.1162/artl_a_00012,Enzyme-like Replication de Novo in a Microcontroller Environment,Uwe Tangen,2010,2,Artificial Life
-10.1162/106454603321489536,Artifact &amp; Artifice: Views on Life,Alan Dorin,2003,3,Artificial Life
-10.1162/artl_a_00216,Partial Redundancy and Morphological Homeostasis: Reliable Development through Overlapping Mechanisms,Micah Brodsky,2016,1,Artificial Life
-10.1162/artl.2003.9.issue-1,n.m.,,2003,0,Artificial Life
-10.1162/artl_e_00306,Artificial Life Next Generation Perspectives: Echoes from the 2018 Conference in Tokyo,Olaf Witkowski and Takashi Ikegami and Nathaniel Virgo and Mizuki Oka and Hiroyuki Iizuka,2020,1,Artificial Life
-10.1162/106454602321202390,Emergence of Modularity in Genotype-Phenotype Mappings,Vladimír Kvasnička and Jiří Pospí,2002,8,Artificial Life
-10.1162/artl_a_00360,Long-Term Evolution Experiment with Genetic Programming,William B. Langdon and Wolfgang Banzhaf,2022,2,Artificial Life
-10.1162/artl_a_00238,Cultural Transmission and Evolution of Melodic Structures in Multi-generational Signaling Games,Massimo Lumaca and Giosuè Baggio,2017,21,Artificial Life
-10.1162/artl.2007.13.4.427,Reviewers of Volume 13,,2007,0,Artificial Life
-10.1162/artl.2009.15.1.15101,Computing Algebraic Functions with Biochemical Reaction Networks,H. J. Buisman and H. M. M. ten Eikelder and P. A. J. Hilbers and A. M. L. Liekens,2009,38,Artificial Life
-10.1162/artl.2006.12.3.381,"Evolution and Development of a Multicellular Organism: Scalability, Resilience, and Neutral Complexification",Diego Federici and Keith Downing,2006,37,Artificial Life
-10.1162/artl_a_00029,Global Adaptation in Networks of Selfish Components: Emergent Associative Memory at the System Scale,Richard A. Watson and Rob Mills and C. L. Buckley,2011,27,Artificial Life
-10.1162/106454605774270651,Reviewers of Volume 11,,2005,0,Artificial Life
-10.1162/artl_a_00372,Using the Comparative Hybrid Approach to Disentangle the Role of Substrate Choice on the Evolution of Cognition,Clifford Bohm and Sarah Albani and Charles Ofria and Acacia Ackles,2022,1,Artificial Life
-10.1162/artl.2009.16.1.16103,Living Technology: Exploiting Life's Principles in Technology,Mark A. Bedau and John S. McCaskill and Norman H. Packard and Steen Rasmussen,2010,63,Artificial Life
-10.1162/artl_a_00034,Happiness Is Assortative in Online Social Networks,Johan Bollen and Bruno Gonçalves and Guangchen Ruan and Huina Mao,2011,160,Artificial Life
-10.1162/artl.2010.16.2.16202,Characteristics of Pattern Formation and Evolution in Approximations of Physarum Transport Networks,Jeff Jones,2010,66,Artificial Life
-10.1162/artl.2008.14.issue-3,n.m.,,2008,0,Artificial Life
-10.1162/106454605774270624,State Aggregation and Population Dynamics in Linear Systems,Jonathan E. Rowe and Michael D. Vose and Alden H. Wright,2005,8,Artificial Life
-10.1162/106454602320991855,Genetic Redundancy in Evolving Populations of Simulated Robots,Orazio Miglino and Richard Walker,2002,7,Artificial Life
-10.1162/artl_a_00102,Many Hands Make Light Work: Further Studies in Group Evolution,Nicholas Tomko and Inman Harvey and Nathaniel Virgo and Andrew Philippides,2014,0,Artificial Life
-10.1162/artl_a_00299,Can Signal Delay be Functional? Including Delay in Evolved Robot Controllers,Matthew Egbert and Andrew Keane and Claire Postlethwaite and Nelson Wong,2019,1,Artificial Life
-10.1162/artl_a_00251,The Institutional Approach for Modeling the Evolution of Human Societies,Simon T. Powers,2018,6,Artificial Life
-10.1162/artl_a_00066,Evolution of Resistance to Quorum Quenching in Digital Organisms,Benjamin E. Beckmann and David B. Knoester and Brian D. Connelly and Christopher M. Waters and Philip K. McKinley,2012,10,Artificial Life
-10.1162/artl.2006.12.3.453,Life's Solution: Inevitable Humans in a Lonely Universe,Thomas S. Ray,2006,1,Artificial Life
+10.1162/artl.2008.14.2.223,"Evolution and Culture. Stephen C. Levinson and Pierre Jaisson (Eds.). (2006, MIT Press.) $75 (cloth), $35 (paper), xvii + 296 pages",Bart de Boer,2008,0,Artificial Life
 10.1162/artl.2008.14.4.14404,"The Principles of Life Tibor Ganti. (2003, Oxford University Press.) £70.00, $168.00, 220 pages",Chrisantha Fernando,2008,1,Artificial Life
 10.1162/artl_a_00303,Measuring Time with Minimal Clocks,Andrei D. Robu and Christoph Salge and Chrystopher L. Nehaniv and Daniel Polani,2019,0,Artificial Life
-10.1162/106454600568870,Book Reviews,Andreas Blume,2000,0,Artificial Life
-10.1162/artl.2008.14.2.223,"Evolution and Culture. Stephen C. Levinson and Pierre Jaisson (Eds.). (2006, MIT Press.) $75 (cloth), $35 (paper), xvii + 296 pages",Bart de Boer,2008,0,Artificial Life
-10.1162/artl_a_00240,The Influence of Cellular Characteristics on the Evolution of Shape Homeostasis,Philip Gerlee and David Basanta and Alexander R. A. Anderson,2017,2,Artificial Life
-10.1162/artl_a_00233,Feedforward Chemical Neural Network: An In Silico Chemical System That Learns xor,Drew Blount and Peter Banda and Christof Teuscher and Darko Stefanovic,2017,21,Artificial Life
+10.1162/artl.2007.13.issue-2,n.m.,,2007,0,Artificial Life
+10.1162/artl_a_00001,Concurrency and Network Disassortativity,Susan Khor,2010,4,Artificial Life
+10.1162/artl_a_00145,The Effects of Recombination on Phenotypic Exploration and Robustness in Evolution,Ting Hu and Wolfgang Banzhaf and Jason H. Moore,2014,12,Artificial Life
+10.1162/artl.2008.14.2.239,"Self-Organization and Emergence in Life Sciences. Bernard Feltz, Marc Crommelinck, and Philippe Goujon (Eds.). (2006, Synthese Library Vol. 331, Springer.) Hardcover, €139, $179, 360 pages",Carlos Gershenson,2008,0,Artificial Life
+10.1162/artl_a_00216,Partial Redundancy and Morphological Homeostasis: Reliable Development through Overlapping Mechanisms,Micah Brodsky,2016,1,Artificial Life
+10.1162/106454606775186455,A Comprehensive Overview of the Applications of Artificial Life,Kyung-Joong Kim and Sung-Bae Cho,2006,33,Artificial Life
+10.1162/106454601317297031,Book Reviews,Hod Lipson,2001,5,Artificial Life
+10.1162/artl_a_00074,Wains: A Pattern-Seeking Artificial Life Species,Amy de Buitléir and Michael Russell and Mark Daly,2012,4,Artificial Life
+10.1162/1064546054407176,Evolution of DNA Uptake Signal Sequences,Dominique Chu and Hoong-Chien Lee and Tom Lenaerts,2005,6,Artificial Life
+10.1162/artl_a_00188,Cell-Division Behavior in a Heterogeneous Swarm Environment,Adam Erskine and J. Michael Herrmann,2015,3,Artificial Life
+10.1162/artl.2003.9.issue-1,n.m.,,2003,0,Artificial Life
+10.1162/artl_e_00401,Reviewers for Volume 28,,2022,0,Artificial Life
+10.1162/artl_a_00021,In Silico Evolution of Early Metabolism,Alexander Ullrich and Markus Rohrschneider and Gerik Scheuermann and Peter F. Stadler and Christoph Flamm,2011,9,Artificial Life
+10.1162/106454602320991855,Genetic Redundancy in Evolving Populations of Simulated Robots,Orazio Miglino and Richard Walker,2002,7,Artificial Life
+10.1162/artl_a_00102,Many Hands Make Light Work: Further Studies in Group Evolution,Nicholas Tomko and Inman Harvey and Nathaniel Virgo and Andrew Philippides,2014,0,Artificial Life
+10.1162/106454601753238627,Three Generations of Automatically Designed Robots,Jordan B. Pollack and Hod Lipson and Gregory Hornby and Pablo Funes,2001,45,Artificial Life
+10.1162/artl.2006.12.3.435,Neurocontroller Analysis via Evolutionary Network Minimization,Zohar Ganon and Alon Keinan and Eytan Ruppin,2006,1,Artificial Life
+10.1162/106454603322392488,Selective Instability: Maternal Effort and the Evolution of Gene Activation and Deactivation Rates,Carlo C. Maley and Stephen J. Tapscott,2003,0,Artificial Life
+10.1162/artl.2008.14.4.14405,"Origin and Early Evolution of Life. Tom Fenchel. (2002, Oxford University Press.) 171 pages, 7 color plates",David Deamer,2008,0,Artificial Life
+10.1162/artl_a_00277,Two Modes of Evolution: Optimization and Expansion,Steen Rasmussen and Paolo Sibani,2019,6,Artificial Life
+10.1162/artl.2009.15.2.15205,"Evolution and Learning: The Baldwin Effect Reconsidered. Bruce H. Weber and David J. Depew (Eds.). (2003, MIT Press.) $50 (hardcover), $25 (paper), 351 pages",Reiji Suzuki,2009,0,Artificial Life
+10.1162/artl.2008.14.3.14302,On the Gradual Evolution of Complexity and the Sudden Emergence of Complex Features,Charles Ofria and Wei Huang and Eric Torng,2008,8,Artificial Life
+10.1162/artl_a_00065,"Wasps, Termites, and Waspmites: Distinguishing Competence from Performance in Collective Construction",Seth Bullock and Dan Ladley and Michael Kerby,2012,6,Artificial Life
+10.1162/artl.2001.7.issue-1,n.m.,,2001,0,Artificial Life
+10.1162/artl_a_00086,Emotion as Morphofunctionality,Carlos Herrera Pérez and Ricardo Sanz,2013,2,Artificial Life
+10.1162/artl.2008.14.issue-3,n.m.,,2008,0,Artificial Life
+10.1162/artl.2008.14.1.1,Systems Biology and Artificial Life: Towards Predictive Modeling of Biological Systems,Jan T. Kim and Roland Eils,2008,3,Artificial Life
+10.1162/artl_r_00345,"Rise of the Self-Replicators: Early Visions of Machines, AI and Robots That Can Reproduce and Evolve by Tim Taylor and Alan Dorin",Jitka Čejková,2021,0,Artificial Life
+10.1162/artl_a_00333,The Expected Number of Viable Autocatalytic Sets in Chemical Reaction Systems,Stuart Kauffman and Mike Steel,2021,1,Artificial Life
+10.1162/artl_a_00366,Effect of Environmental Change Distribution on Artificial Life Simulations,John A. Bullinaria,2022,0,Artificial Life
+10.1162/artl_a_00361,"Uncanny Beauty: Aesthetics of Companionship, Love, and Sex Robots",Paolo Euron,2022,0,Artificial Life
+10.1162/artl.2009.15.1.15102,The Organic Builder: A Public Experiment in Artificial Chemistries and Self-Replication,Tim J. Hutton,2009,9,Artificial Life
+10.1162/106454604322875922,Self-Protection and Diversity in Self-Replicating Cellular Automata,Hiroki Sayama,2004,12,Artificial Life
+10.1162/106454604322875904,Development and the Baldwin Effect,Keith L. Downing,2004,14,Artificial Life
 10.1162/artl.2008.14.3.14309,Natural Selection in Relation to Complexity,Stanley N. Salthe,2008,9,Artificial Life
 10.1162/artl_a_00379,How the History of Changing Environments Affects Traits of Evolvable Robot Populations,Karine Miras and A. E. Eiben,2022,0,Artificial Life
 10.1162/artl_e_00380,Editorial: The 2019 Conference on Artificial Life Special Issue,Harold Fellermann and Rudolf M. Füchslin,2022,0,Artificial Life
-10.1162/artl_a_00164,On the Evolution of Behaviors through Embodied Imitation,Mehmet D. Erbas and Larry Bull and Alan F. T. Winfield,2015,6,Artificial Life
-10.1162/artl_r_00345,"Rise of the Self-Replicators: Early Visions of Machines, AI and Robots That Can Reproduce and Evolve by Tim Taylor and Alan Dorin",Jitka Čejková,2021,0,Artificial Life
-10.1162/artl_a_00333,The Expected Number of Viable Autocatalytic Sets in Chemical Reaction Systems,Stuart Kauffman and Mike Steel,2021,1,Artificial Life
-10.1162/artl_a_00375,An Embodied Intelligence-Based Biologically Inspired Strategy for Searching a Moving Target,Julian K. P. Tan and Chee Pin Tan and Surya G. Nurzaman,2022,0,Artificial Life
-10.1162/artl_a_00337,Measuring Behavioral Similarity of Cellular Automata,Peter D. Turney,2021,2,Artificial Life
-10.1162/artl_a_00366,Effect of Environmental Change Distribution on Artificial Life Simulations,John A. Bullinaria,2022,0,Artificial Life
-10.1162/artl_a_00361,"Uncanny Beauty: Aesthetics of Companionship, Love, and Sex Robots",Paolo Euron,2022,0,Artificial Life
-10.1162/artl_e_00401,Reviewers for Volume 28,,2022,0,Artificial Life
-10.1162/106454606775186455,A Comprehensive Overview of the Applications of Artificial Life,Kyung-Joong Kim and Sung-Bae Cho,2006,33,Artificial Life
-10.1162/artl_a_00329,Long-Term Progress and Behavior Complexification in Competitive Coevolution,Luca Simione and Stefano Nolfi,2021,1,Artificial Life
 10.1162/artl_a_00348,Life Worth Mentioning: Complexity in Life-Like Cellular Automata,Eric Peña and Hiroki Sayama,2021,1,Artificial Life
-10.1162/artl_a_00285,Maximum Individual Complexity is Indefinitely Scalable in Geb,Alastair Channon,2019,4,Artificial Life
-10.1162/106454604322875904,Development and the Baldwin Effect,Keith L. Downing,2004,14,Artificial Life
-10.1162/artl_a_00390,Adapting the Exploration–Exploitation Balance in Heterogeneous Swarms: Tracking Evasive Targets,Hian Lee Kwa and Victor Babineau and Julien Philippot and Roland Bouffanais,2023,1,Artificial Life
-10.1162/artl_a_00388,The Effects of Information on the Formation of Migration Routes and the Dynamics of Migration,Martin Hinsch and Jakub Bijak,2023,0,Artificial Life
-10.1162/artl.2008.14.3.14304,LinMap: Visualizing Complexity Gradients in Evolutionary Landscapes,Nicholas Geard and Janet Wiles,2008,2,Artificial Life
+10.1162/artl.2008.14.1.111,Phase Transitions and Bistability in Honeybee Foraging Dynamics,Andreas Loengarov and Valery Tereshko,2008,13,Artificial Life
+10.1162/artl.2006.12.3.453,Life's Solution: Inevitable Humans in a Lonely Universe,Thomas S. Ray,2006,1,Artificial Life
+10.1162/artl_a_00375,An Embodied Intelligence-Based Biologically Inspired Strategy for Searching a Moving Target,Julian K. P. Tan and Chee Pin Tan and Surya G. Nurzaman,2022,0,Artificial Life
+10.1162/artl_a_00066,Evolution of Resistance to Quorum Quenching in Digital Organisms,Benjamin E. Beckmann and David B. Knoester and Brian D. Connelly and Christopher M. Waters and Philip K. McKinley,2012,10,Artificial Life
+10.1162/artl_a_00337,Measuring Behavioral Similarity of Cellular Automata,Peter D. Turney,2021,2,Artificial Life
+10.1162/106454600300103665,Exploring the Relationship between Neutral and Selective Mutations in Cancer,Carlo C. Maley and Stephanie Forrest,2000,24,Artificial Life
+10.1162/artl.2006.12.3.381,"Evolution and Development of a Multicellular Organism: Scalability, Resilience, and Neutral Complexification",Diego Federici and Keith Downing,2006,37,Artificial Life
 10.1162/artl.2008.14.1.135,Genetic Regulatory Network Models of Biological Clocks: Evolutionary History Matters,Johannes F. Knabe and Chrystopher L. Nehaniv and Maria J. Schilstra,2008,14,Artificial Life
+10.1162/artl.2008.14.3.14304,LinMap: Visualizing Complexity Gradients in Evolutionary Landscapes,Nicholas Geard and Janet Wiles,2008,2,Artificial Life
+10.1162/artl_a_00285,Maximum Individual Complexity is Indefinitely Scalable in Geb,Alastair Channon,2019,4,Artificial Life
+10.1162/106454605774270624,State Aggregation and Population Dynamics in Linear Systems,Jonathan E. Rowe and Michael D. Vose and Alden H. Wright,2005,8,Artificial Life
+10.1162/106454602321202390,Emergence of Modularity in Genotype-Phenotype Mappings,Vladimír Kvasnička and Jiří Pospí,2002,8,Artificial Life
+10.1162/artl_a_00360,Long-Term Evolution Experiment with Genetic Programming,William B. Langdon and Wolfgang Banzhaf,2022,2,Artificial Life
+10.1162/artl_a_00238,Cultural Transmission and Evolution of Melodic Structures in Multi-generational Signaling Games,Massimo Lumaca and Giosuè Baggio,2017,22,Artificial Life
 10.1162/artl_a_00151,Creating and Maintaining Chemical Artificial Life by Robotic Symbiosis,Martin M. Hanczyc and Juan M. Parrilla and Arwen Nicholson and Kliment Yanev and Kasper Stoy,2015,9,Artificial Life
-10.1162/artl_a_00156,Autonomous Droplet Architectures,Gareth Jones and Philip H. King and Hywel Morgan and Maurits R. R. de Planque and Klaus-Peter Zauner,2015,12,Artificial Life
-10.1162/artl_a_00021,In Silico Evolution of Early Metabolism,Alexander Ullrich and Markus Rohrschneider and Gerik Scheuermann and Peter F. Stadler and Christoph Flamm,2011,9,Artificial Life
-10.1162/artl_a_00065,"Wasps, Termites, and Waspmites: Distinguishing Competence from Performance in Collective Construction",Seth Bullock and Dan Ladley and Michael Kerby,2012,6,Artificial Life
-10.1162/artl_a_00396,Perspectives on Computation in Plants,Emanuela Del Dottore and Barbara Mazzolai,2023,0,Artificial Life
-10.1162/artl_a_00163,Learning Tensegrity Locomotion Using Open-Loop Control Signals and Coevolutionary Algorithms,Atil Iscen and Ken Caluwaerts and Jonathan Bruce and Adrian Agogino and Vytas SunSpiral and Kagan Tumer,2015,20,Artificial Life
-10.1162/artl.2009.15.1.15108,Modeling Biochemical Pathways Using an Artificial Chemistry,Kazuto Tominaga and Yoshikazu Suzuki and Keiji Kobayashi and Tooru Watanabe and Kazumasa Koizumi and Koji Kishi,2009,2,Artificial Life
-10.1162/artl.2007.13.3.223,Modeling Molecular Computing Systems by an Artificial Chemistry—Its Expressive Power and Application,Kazuto Tominaga and Tooru Watanabe and Keiji Kobayashi and Masaki Nakamura and Koji Kishi and Mitsuyoshi Kazuno,2007,7,Artificial Life
-10.1162/artl.2008.14.4.14401,Self-Organization of Intertidal Snails Facilitates Evolution of Aggregation Behavior,Richard Stafford and Mark S. Davies and Gray A. Williams,2008,9,Artificial Life
-10.1162/106454601753238645,Definition and Application of a Five-Parameter Characterization of One-Dimensional Cellular Automata Rule Space,Gina M. B. Oliveira and Pedro P. B. de Oliveira and Nizam Omar,2001,38,Artificial Life
-10.1162/artl.2008.14.3.14306,Criteria for Conceptual and Operational Notions of Complexity,Dominique Chu,2008,9,Artificial Life
-10.1162/artl_a_00331,Evolutionary Robotics Controllers with Proprioception Facilitated by Neural-Network-Based Simulators,Antin Phillips and Mathys C. du Plessis,2021,3,Artificial Life
+10.1162/artl_a_00240,The Influence of Cellular Characteristics on the Evolution of Shape Homeostasis,Philip Gerlee and David Basanta and Alexander R. A. Anderson,2017,2,Artificial Life
 10.1162/artl.2008.14.1.29,Comparative Study of Circadian Oscillatory Network Models of Drosophila,Yukino Ogawa and Kazuharu Arakawa and Kazunari Kaizu and Fumihiko Miyoshi and Yoichi Nakayama and Masaru Tomita,2008,2,Artificial Life
-10.1162/artl_a_00276,"Evolved Open-Endedness, Not Open-Ended Evolution",Howard H. Pattee and Hiroki Sayama,2019,6,Artificial Life
-10.1162/106454603322221531,"Collective Intelligence of the Artificial Life Community on Its Own Successes, Failures, and Future",Steen Rasmussen and Michael J. Raven and Gordon N. Keating and Mark A. Bedau,2003,10,Artificial Life
-10.1162/106454601753238627,Three Generations of Automatically Designed Robots,Jordan B. Pollack and Hod Lipson and Gregory Hornby and Pablo Funes,2001,45,Artificial Life
-10.1162/106454601753138998,Evolving Control Metabolisms for a Robot,Jens Ziegler and Wolfgang Banzhaf,2001,28,Artificial Life
+10.1162/artl_a_00331,Evolutionary Robotics Controllers with Proprioception Facilitated by Neural-Network-Based Simulators,Antin Phillips and Mathys C. du Plessis,2021,3,Artificial Life
 10.1162/artl_a_00399,On the Open-Endedness of Detecting Open-Endedness,Susan Stepney and Simon Hickinbotham,2023,0,Artificial Life
-10.1162/artl_a_00323,Chemobrionics: From Self-Assembled Material Architectures to the Origin of Life,Silvana S. S. Cardoso and Julyan H. E. Cartwright and Jitka Čejková and Leroy Cronin and Anne De Wit and Simone Giannerini and Dezső Horváth and Alírio Rodrigues and Michael J. Russell and C. Ignacio Sainz-Díaz and Ágota Tóth,2020,27,Artificial Life
-10.1162/artl_a_00101,Growing and Evolving Soft Robots,John Rieffel and Davis Knox and Schuyler Smith and Barry Trimmer,2014,55,Artificial Life
-10.1162/1064546041255539,Autopoiesis and Cognition in the Game of Life,Randall D. Beer,2004,58,Artificial Life
 10.1162/artl_a_00099,"Robustness, Evolvability, and the Logic of Genetic Regulation",Joshua L. Payne and Jason H. Moore and Andreas Wagner,2014,35,Artificial Life
-10.1162/artl.2009.15.2.15202,A Hypercube-Based Encoding for Evolving Large-Scale Neural Networks,Kenneth O. Stanley and David B. D'Ambrosio and Jason Gauci,2009,449,Artificial Life
+10.1162/1064546041255539,Autopoiesis and Cognition in the Game of Life,Randall D. Beer,2004,58,Artificial Life
+10.1162/artl_a_00373,A Genome-Wide Evolutionary Simulation of the Transcription-Supercoiling Coupling,Théotime Grohens and Sam Meyer and Guillaume Beslon,2022,1,Artificial Life
+10.1162/artl_a_00372,Using the Comparative Hybrid Approach to Disentangle the Role of Substrate Choice on the Evolution of Cognition,Clifford Bohm and Sarah Albani and Charles Ofria and Acacia Ackles,2022,1,Artificial Life
+10.1162/artl_a_00251,The Institutional Approach for Modeling the Evolution of Human Societies,Simon T. Powers,2018,6,Artificial Life
+10.1162/artl_a_00164,On the Evolution of Behaviors through Embodied Imitation,Mehmet D. Erbas and Larry Bull and Alan F. T. Winfield,2015,6,Artificial Life
+10.1162/artl.2008.14.4.14401,Self-Organization of Intertidal Snails Facilitates Evolution of Aggregation Behavior,Richard Stafford and Mark S. Davies and Gray A. Williams,2008,9,Artificial Life
+10.1162/artl.2009.16.1.16103,Living Technology: Exploiting Life's Principles in Technology,Mark A. Bedau and John S. McCaskill and Norman H. Packard and Steen Rasmussen,2010,63,Artificial Life
+10.1162/artl_a_00029,Global Adaptation in Networks of Selfish Components: Emergent Associative Memory at the System Scale,Richard A. Watson and Rob Mills and C. L. Buckley,2011,27,Artificial Life
+10.1162/artl.2009.15.1.15101,Computing Algebraic Functions with Biochemical Reaction Networks,H. J. Buisman and H. M. M. ten Eikelder and P. A. J. Hilbers and A. M. L. Liekens,2009,38,Artificial Life
+10.1162/artl_a_00276,"Evolved Open-Endedness, Not Open-Ended Evolution",Howard H. Pattee and Hiroki Sayama,2019,6,Artificial Life
+10.1162/artl_a_00396,Perspectives on Computation in Plants,Emanuela Del Dottore and Barbara Mazzolai,2023,0,Artificial Life
+10.1162/106454605774270589,Modular Interdependency in Complex Dynamical Systems,Richard A. Watson and Jordan B. Pollack,2005,38,Artificial Life
+10.1162/106454601753138998,Evolving Control Metabolisms for a Robot,Jens Ziegler and Wolfgang Banzhaf,2001,28,Artificial Life
+10.1162/106454601753238645,Definition and Application of a Five-Parameter Characterization of One-Dimensional Cellular Automata Rule Space,Gina M. B. Oliveira and Pedro P. B. de Oliveira and Nizam Omar,2001,38,Artificial Life
+10.1162/artl_a_00034,Happiness Is Assortative in Online Social Networks,Johan Bollen and Bruno Gonçalves and Guangchen Ruan and Huina Mao,2011,160,Artificial Life
+10.1162/artl_a_00267,Artificial Gene Regulatory Networks—A Review,Sylvain Cussat-Blanc and Kyle Harrington and Wolfgang Banzhaf,2019,19,Artificial Life
+10.1162/artl_a_00101,Growing and Evolving Soft Robots,John Rieffel and Davis Knox and Schuyler Smith and Barry Trimmer,2014,55,Artificial Life
+10.1162/artl.2009.gras.012,An Individual-Based Evolving Predator-Prey Ecosystem Simulation Using a Fuzzy Cognitive Map as the Behavior Model,Robin Gras and Didier Devaurs and Adrianna Wozniak and Adam Aspinall,2009,56,Artificial Life
+10.1162/artl.2008.14.3.14306,Criteria for Conceptual and Operational Notions of Complexity,Dominique Chu,2008,9,Artificial Life
 10.1162/106454602753694765,Agent-Based Computational Economics: Growing Economies From the Bottom Up,Leigh Tesfatsion,2002,396,Artificial Life
+10.1162/artl_a_00323,Chemobrionics: From Self-Assembled Material Architectures to the Origin of Life,Silvana S. S. Cardoso and Julyan H. E. Cartwright and Jitka Čejková and Leroy Cronin and Anne De Wit and Simone Giannerini and Dezső Horváth and Alírio Rodrigues and Michael J. Russell and C. Ignacio Sainz-Díaz and Ágota Tóth,2020,28,Artificial Life
+10.1162/artl_a_00390,Adapting the Exploration–Exploitation Balance in Heterogeneous Swarms: Tracking Evasive Targets,Hian Lee Kwa and Victor Babineau and Julien Philippot and Roland Bouffanais,2023,1,Artificial Life
+10.1162/artl_a_00233,Feedforward Chemical Neural Network: An In Silico Chemical System That Learns xor,Drew Blount and Peter Banda and Christof Teuscher and Darko Stefanovic,2017,22,Artificial Life
+10.1162/artl_a_00329,Long-Term Progress and Behavior Complexification in Competitive Coevolution,Luca Simione and Stefano Nolfi,2021,3,Artificial Life
+10.1162/artl.2009.15.2.15202,A Hypercube-Based Encoding for Evolving Large-Scale Neural Networks,Kenneth O. Stanley and David B. D'Ambrosio and Jason Gauci,2009,456,Artificial Life
+10.1162/artl.2010.16.2.16202,Characteristics of Pattern Formation and Evolution in Approximations of Physarum Transport Networks,Jeff Jones,2010,68,Artificial Life
+10.1162/artl_a_00195,Complex Autocatalysis in Simple Chemistries,Nathaniel Virgo and Takashi Ikegami and Simon McGregor,2016,11,Artificial Life

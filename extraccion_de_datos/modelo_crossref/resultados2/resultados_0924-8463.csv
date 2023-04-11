@@ -3,7 +3,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10506-013-9144-0,Agile: a problem-based model of regulatory policy making,Alexander Boer and Tom van Engers,2013,2,Artificial Intelligence and Law
 10.1007/s10506-006-8203-1,Instructions for Authors,,2004,0,Artificial Intelligence and Law
 10.1007/s10506-013-9150-2,Cross-categorization of legal concepts across boundaries of legal systems: in consideration of inferential links,Fumiko Kano Glückstad and Tue Herlau and Mikkel N. Schmidt and Morten Mørup,2014,3,Artificial Intelligence and Law
-10.1007/s10506-015-9169-7,A fourth law of robotics? Copyright and the law and ethics of machine co-production,Burkhard Schafer and David Komuves and Jesus Manuel Niebla Zatarain and Laurence Diver,2015,7,Artificial Intelligence and Law
 10.1023/a:1019516031847,n.m.,Carole D. Hafner and Donald H. Berman,2002,35,Artificial Intelligence and Law
 10.1023/a:1019536206548,n.m.,Henry Prakken,2002,41,Artificial Intelligence and Law
 10.1007/s10506-013-9141-3,Holdings about holdings: modeling contradictions in judicial precedent,Matthew Carey,2013,1,Artificial Intelligence and Law
@@ -31,13 +30,11 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10506-011-9115-2,A framework for the extraction and modeling of fact-finding reasoning from legal decisions: lessons from the Vaccine/Injury Project Corpus,Vern R. Walker and Nathaniel Carie and Courtney C. DeWitt and Eric Lesh,2011,7,Artificial Intelligence and Law
 10.1007/s10506-021-09305-4,Improving abstractive summarization of legal rulings through textual entailment,Diego de Vargas Feijo and Viviane P. Moreira,2023,2,Artificial Intelligence and Law
 10.1007/s10506-018-9228-y,Semantic types of legal norms in German laws: classification and analysis using local linear explanations,Bernhard Waltl and Georg Bonczek and Elena Scepankova and Florian Matthes,2019,9,Artificial Intelligence and Law
-10.1007/s10506-019-09252-1,Taking stock of legal ontologies: a feature-based comparative analysis,Valentina Leone and Luigi Di Caro and Serena Villata,2020,10,Artificial Intelligence and Law
 10.1007/s10506-018-9217-1,Automatic semantic edge labeling over legal citation graphs,Ali Sadeghian and Laksshman Sundaram and Daisy Zhe Wang and William F. Hamilton and Karl Branting and Craig Pfeifer,2018,13,Artificial Intelligence and Law
 10.1007/s10506-020-09277-x,On argument acceptability change towards legal interpretation dynamics,Martín O. Moguillansky and Luciano H. Tamargo,2021,0,Artificial Intelligence and Law
 10.1007/s10506-022-09320-z,A user-centered approach to developing an AI system analyzing U.S. federal court data,Rachel F. Adler and Andrew Paley and Andong L. Li Zhao and Harper Pack and Sergio Servantez and Adam R. Pah and Kristian Hammond and SCALES OKN Consortium,2022,0,Artificial Intelligence and Law
 10.1007/s10506-015-9173-y,The open agent society: retrospective and prospective views,Jeremy Pitt and Alexander Artikis,2015,6,Artificial Intelligence and Law
 10.1023/b:arti.0000045994.96685.21,Classification System for Serial Criminal Patterns,Kamal Dahbur and Thomas Muscarello,2003,16,Artificial Intelligence and Law
-10.1023/a:1019589831118,n.m.,Giovanni Sartor,2002,27,Artificial Intelligence and Law
 10.1007/s10506-013-9149-8,Automated reference resolution in legal texts,Oanh Thi Tran and Bach Xuan Ngo and Minh Le Nguyen and Akira Shimazu,2014,12,Artificial Intelligence and Law
 10.1007/s10506-020-09269-x,Administrative due process when using automated decision-making in public administration: some notes from a Finnish perspective,Markku Suksi,2021,8,Artificial Intelligence and Law
 10.1007/s10506-018-9239-8,Semi-automatic knowledge population in a legal document management system,Guido Boella and Luigi Di Caro and Valentina Leone,2019,6,Artificial Intelligence and Law
@@ -50,10 +47,16 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10506-013-9142-2,Bridging narrative scenario texts and formal policy modeling through conceptual policy modeling,Sabrina Scherer and Maria A. Wimmer and Suvad Markisic,2013,7,Artificial Intelligence and Law
 10.1007/s10506-020-09271-3,Populating legal ontologies using semantic role labeling,Llio Humphreys and Guido Boella and Leendert van der Torre and Livio Robaldo and Luigi Di Caro and Sepideh Ghanavati and Robert Muthuri,2021,2,Artificial Intelligence and Law
 10.1007/s10506-022-09314-x,A collaboration between judge and machine to reduce legal uncertainty in disputes concerning ex aequo et bono compensations,Wim De Mulder and Peggy Valcke and Joke Baeck,2022,1,Artificial Intelligence and Law
+10.1007/s10506-012-9126-7,Identifying prohibition norms in agent societies,Bastin Tony Roy Savarimuthu and Stephen Cranefield and Maryam A. Purvis and Martin K. Purvis,2013,22,Artificial Intelligence and Law
+10.1007/s10506-012-9121-z,Argument diagram extraction from evidential Bayesian networks,Jeroen Keppens,2012,22,Artificial Intelligence and Law
+10.1007/s10506-012-9117-8,Reconstructing Popov v. Hayashi in a framework for argumentation with structured arguments and Dungean semantics,Henry Prakken,2012,10,Artificial Intelligence and Law
+10.1023/a:1008308627745,n.m.,T. J. M. Bench-Capon and T. Geldard and P.H. Leng,2000,30,Artificial Intelligence and Law
+10.1023/a:1008348321016,n.m.,Jaap Hage,2000,17,Artificial Intelligence and Law
+10.1007/s10506-007-9028-2,Merging of legal micro-ontologies from European directives,Sylvie Despres and Sylvie Szulman,2007,10,Artificial Intelligence and Law
+10.1007/s10506-020-09273-1,Scalable and explainable legal prediction,L. Karl Branting and Craig Pfeifer and Bradford Brown and Lisa Ferro and John Aberdeen and Brandy Weiss and Mark Pfaff and Bill Liao,2021,19,Artificial Intelligence and Law
 10.1007/s10506-021-09281-9,Two-layered fuzzy logic-based model for predicting court decisions in construction contract disputes,Navid Bagherian-Marandi and Mehdi Ravanshadnia and Mohammad-R. Akbarzadeh-T,2021,6,Artificial Intelligence and Law
 10.1007/s10506-018-9229-x,"The boundaries of legal personhood: how spontaneous intelligence can problematise differences between humans, artificial intelligence, companies and animals",Jiahong Chen and Paul Burgess,2019,13,Artificial Intelligence and Law
 10.1007/s10506-006-9011-3,The appropriate role of dispute resolution in building trust online,Colin Rule and Larry Friedberg,2005,12,Artificial Intelligence and Law
-10.1007/s10506-006-9009-x,Fundamental legal concepts: A formal and teleological characterisation*,Giovanni Sartor,2007,27,Artificial Intelligence and Law
 10.1007/s10506-007-9055-z,Artificial institutions: a model of institutional reality for open multiagent systems,Nicoletta Fornara and Francesco Viganò and Mario Verdicchio and Marco Colombetti,2008,44,Artificial Intelligence and Law
 10.1007/s10506-007-9030-8,"The ontological properties of social roles in multi-agent systems: definitional dependence, powers and roles playing roles",Guido Boella and Leendert van der Torre,2007,30,Artificial Intelligence and Law
 10.1023/a:1008385531494,n.m.,Harm Kloosterhuis,2000,8,Artificial Intelligence and Law
@@ -61,90 +64,87 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10506-015-9167-9,Monitoring compliance with E-contracts and norms,Sanjay Modgil and Nir Oren and Noura Faci and Felipe Meneguzzi and Simon Miles and Michael Luck,2015,5,Artificial Intelligence and Law
 10.1007/s10506-015-9175-9,Transition systems for designing and reasoning about norms,Trevor J. M. Bench-Capon,2015,5,Artificial Intelligence and Law
 10.1007/s10506-015-9176-8,Establishing norms with metanorms in distributed computational systems,Samhar Mahmoud and Nathan Griffiths and Jeroen Keppens and Adel Taweel and Trevor J. M. Bench-Capon and Michael Luck,2015,10,Artificial Intelligence and Law
-10.1007/s10506-012-9126-7,Identifying prohibition norms in agent societies,Bastin Tony Roy Savarimuthu and Stephen Cranefield and Maryam A. Purvis and Martin K. Purvis,2013,22,Artificial Intelligence and Law
-10.1007/s10506-004-1922-2,"Normative autonomy and normative co-ordination: Declarative power, representation, and mandate",Jonathan Gelati and Antonino Rotolo and Giovanni Sartor and Guido Governatori,2004,33,Artificial Intelligence and Law
-10.1007/s10506-012-9121-z,Argument diagram extraction from evidential Bayesian networks,Jeroen Keppens,2012,22,Artificial Intelligence and Law
-10.1007/s10506-012-9117-8,Reconstructing Popov v. Hayashi in a framework for argumentation with structured arguments and Dungean semantics,Henry Prakken,2012,10,Artificial Intelligence and Law
-10.1023/a:1008308627745,n.m.,T. J. M. Bench-Capon and T. Geldard and P.H. Leng,2000,30,Artificial Intelligence and Law
-10.1023/a:1008348321016,n.m.,Jaap Hage,2000,17,Artificial Intelligence and Law
-10.1007/s10506-007-9028-2,Merging of legal micro-ontologies from European directives,Sylvie Despres and Sylvie Szulman,2007,10,Artificial Intelligence and Law
 10.1007/s10506-018-9223-3,"On legal contracts, imperative and declarative smart contracts, and blockchain systems",Guido Governatori and Florian Idelberger and Zoran Milosevic and Regis Riveret and Giovanni Sartor and Xiwei Xu,2018,117,Artificial Intelligence and Law
-10.1007/s10506-020-09273-1,Scalable and explainable legal prediction,L. Karl Branting and Craig Pfeifer and Bradford Brown and Lisa Ferro and John Aberdeen and Brandy Weiss and Mark Pfaff and Bill Liao,2021,19,Artificial Intelligence and Law
-10.1007/s10506-018-9233-1,Assessment criteria or standards of proof? An effort in clarification,Giovanni Tuzet,2020,5,Artificial Intelligence and Law
+10.1007/s10506-019-09252-1,Taking stock of legal ontologies: a feature-based comparative analysis,Valentina Leone and Luigi Di Caro and Serena Villata,2020,11,Artificial Intelligence and Law
 10.1007/s10506-017-9201-1,HYPO’S legacy: introduction to the virtual special issue,T. J. M. Bench-Capon,2017,20,Artificial Intelligence and Law
 10.1007/s10506-017-9216-7,Representing dimensions within the reason model of precedent,Adam Rigoni,2018,15,Artificial Intelligence and Law
-10.1007/s10506-010-9093-9,Evaluation of information retrieval for E-discovery,Douglas W. Oard and Jason R. Baron and Bruce Hedin and David D. Lewis and Stephen Tomlinson,2010,43,Artificial Intelligence and Law
 10.1007/s10506-010-9087-7,Identification of Rhetorical Roles for Segmentation and Summarization of a Legal Judgment,M. Saravanan and B. Ravindran,2010,24,Artificial Intelligence and Law
-10.1007/s10506-018-9218-0,RuleRS: a rule-based architecture for decision support systems,Mohammad Badiul Islam and Guido Governatori,2018,10,Artificial Intelligence and Law
+10.1007/s10506-004-1922-2,"Normative autonomy and normative co-ordination: Declarative power, representation, and mandate",Jonathan Gelati and Antonino Rotolo and Giovanni Sartor and Guido Governatori,2004,33,Artificial Intelligence and Law
+10.1007/s10506-006-9009-x,Fundamental legal concepts: A formal and teleological characterisation*,Giovanni Sartor,2007,27,Artificial Intelligence and Law
+10.1023/a:1019589831118,n.m.,Giovanni Sartor,2002,27,Artificial Intelligence and Law
+10.1007/s10506-018-9233-1,Assessment criteria or standards of proof? An effort in clarification,Giovanni Tuzet,2020,5,Artificial Intelligence and Law
 10.1007/s10506-018-9225-1,Recurrent neural network-based models for recognizing requisite and effectuation parts in legal texts,Truong-Son Nguyen and Le-Minh Nguyen and Satoshi Tojo and Ken Satoh and Akira Shimazu,2018,25,Artificial Intelligence and Law
-10.1007/s10506-020-09265-1,Law and software agents: Are they “Agents” by the way?,Emad Abdel Rahim Dahiyat,2021,8,Artificial Intelligence and Law
-10.1007/s10506-017-9214-9,"Of, for, and by the people: the legal lacuna of synthetic persons",Joanna J. Bryson and Mihailis E. Diamantis and Thomas D. Grant,2017,118,Artificial Intelligence and Law
-10.1007/s10506-007-9041-5,"An Ontology for G2G Collaboration in Public Policy Making, Implementation and Evaluation",Euripidis N. Loukis,2007,19,Artificial Intelligence and Law
-10.1007/s10506-007-9027-3,Legal ontology of sales law application to ecommerce,John Bagby and Tracy Mullen,2007,12,Artificial Intelligence and Law
+10.1007/s10506-017-9214-9,"Of, for, and by the people: the legal lacuna of synthetic persons",Joanna J. Bryson and Mihailis E. Diamantis and Thomas D. Grant,2017,122,Artificial Intelligence and Law
+10.1007/s10506-015-9169-7,A fourth law of robotics? Copyright and the law and ethics of machine co-production,Burkhard Schafer and David Komuves and Jesus Manuel Niebla Zatarain and Laurence Diver,2015,7,Artificial Intelligence and Law
+10.1007/s10506-018-9218-0,RuleRS: a rule-based architecture for decision support systems,Mohammad Badiul Islam and Guido Governatori,2018,10,Artificial Intelligence and Law
+10.1007/s10506-020-09265-1,Law and software agents: Are they “Agents” by the way?,Emad Abdel Rahim Dahiyat,2021,9,Artificial Intelligence and Law
+10.1007/s10506-010-9093-9,Evaluation of information retrieval for E-discovery,Douglas W. Oard and Jason R. Baron and Bruce Hedin and David D. Lewis and Stephen Tomlinson,2010,44,Artificial Intelligence and Law
+10.1007/s10506-006-9022-0,Book Review,John Rooney,2007,0,Artificial Intelligence and Law
+10.1007/s10506-017-9197-6,Recognizing cited facts and principles in legal judgements,Olga Shulayeva and Advaith Siddharthan and Adam Wyner,2017,26,Artificial Intelligence and Law
+10.1007/s10506-006-9025-x,How to make and defend a proposal in a deliberation dialogue,Douglas Walton,2006,19,Artificial Intelligence and Law
+10.1023/a:1019501830692,n.m.,T. J. M. Bench-Capon,2002,34,Artificial Intelligence and Law
 10.1007/s10506-006-9020-2,Book Review,John Zeleznikow,2007,0,Artificial Intelligence and Law
-10.1023/a:1011264731135,n.m.,Arno R. Lodder,2001,0,Artificial Intelligence and Law
-10.1007/s10506-013-9148-9,Introduction to special issue on modelling policy-making,Adam Wyner and Neil Benn,2013,0,Artificial Intelligence and Law
+10.1023/a:1019584605638,n.m.,L. Thorne McCarty,2002,13,Artificial Intelligence and Law
+10.1007/s10506-016-9189-y,Formalizing value-guided argumentation for ethical systems design,Bart Verheij,2016,19,Artificial Intelligence and Law
 10.1007/s10506-020-09267-z,"ICAIL Doctoral Consortium, Montreal 2019",Michał Araszkiewicz and Ilaria Angela Amantea and Saurabh Chakravarty and Robert van Doesburg and Maria Dymitruk and Marie Garin and Leilani Gilpin and Daphne Odekerken and Seyedeh Sajedeh Salehi,2020,0,Artificial Intelligence and Law
+10.1023/a:1011264731135,n.m.,Arno R. Lodder,2001,0,Artificial Intelligence and Law
+10.1023/a:1011286814747,n.m.,Trevor Bench-Capon,2001,0,Artificial Intelligence and Law
+10.1023/a:1013866317222,n.m.,Ajit Narayanan and Sharon Hibbin,2001,4,Artificial Intelligence and Law
+10.1007/s10506-013-9148-9,Introduction to special issue on modelling policy-making,Adam Wyner and Neil Benn,2013,0,Artificial Intelligence and Law
+10.1007/s10506-022-09315-w,Law Smells,Corinna Coupette and Dirk Hartung and Janis Beckedorf and Maximilian Böther and Daniel Martin Katz,2022,1,Artificial Intelligence and Law
+10.1007/s10506-009-9081-0,Cognitive automata and the law: electronic contracting and the intentionality of software agents,Giovanni Sartor,2009,34,Artificial Intelligence and Law
+10.1007/s10506-021-09289-1,"Symbiosis with artificial intelligence via the prism of law, robots, and society",Stamatis Karnouskos,2022,9,Artificial Intelligence and Law
+10.1007/s10506-012-9138-3,"Introduction to the special issue: simulation, norms and laws",Giulia Andrighetto and Rosaria Conte and Eunate Mayor Villalba and Giovanni Sartor,2012,0,Artificial Intelligence and Law
+10.1007/s10506-011-9106-3,A model of juridical acts: part 2: the operation of juridical acts,Jaap Hage,2011,10,Artificial Intelligence and Law
+10.1007/s10506-004-3889-4,"Book Review: Bram Roth, Case-based Reasoning in the Law: A Formal Theory of Reasoning by Case Comparison. Ph. D. Thesis, The University of Maastricht, 2003. 181 pp.",Trevor Bench-Capon,2004,0,Artificial Intelligence and Law
 10.1023/a:1025469602656,n.m.,Go Eguchi and Laurence L. Leff,2002,4,Artificial Intelligence and Law
 10.1023/a:1011274720031,n.m.,Ronald P. Loui,2001,0,Artificial Intelligence and Law
-10.1023/a:1013866317222,n.m.,Ajit Narayanan and Sharon Hibbin,2001,4,Artificial Intelligence and Law
-10.1007/s10506-022-09311-0,How to justify a backing’s eligibility for a warrant: the justification of a legal interpretation in a hard case,Shiyang Yu and Xi Chen,2022,1,Artificial Intelligence and Law
-10.1007/s10506-006-9022-0,Book Review,John Rooney,2007,0,Artificial Intelligence and Law
-10.1007/s10506-012-9138-3,"Introduction to the special issue: simulation, norms and laws",Giulia Andrighetto and Rosaria Conte and Eunate Mayor Villalba and Giovanni Sartor,2012,0,Artificial Intelligence and Law
-10.1007/s10506-022-09310-1,Smart criminal justice: exploring the use of algorithms in the Swiss criminal justice system,Monika Simmler and Simone Brunner and Giulia Canova and Kuno Schedler,2022,1,Artificial Intelligence and Law
+10.1007/s10506-022-09309-8,"The winter, the summer and the summer dream of artificial intelligence in law",Enrico Francesconi,2022,5,Artificial Intelligence and Law
+10.1007/s10506-017-9207-8,On the legal responsibility of autonomous machines,Bartosz Brożek and Marek Jakubiec,2017,22,Artificial Intelligence and Law
 10.1023/a:1008313700065,n.m.,Giovanni Sartor,2000,0,Artificial Intelligence and Law
-10.1023/a:1011286814747,n.m.,Trevor Bench-Capon,2001,0,Artificial Intelligence and Law
-10.1007/s10506-015-9168-8,Extracting indices from Japanese legal documents,Tho Thi Ngoc Le and Kiyoaki Shirai and Minh Le Nguyen and Akira Shimazu,2015,6,Artificial Intelligence and Law
-10.1023/a:1008327715564,n.m.,José Plug,2000,5,Artificial Intelligence and Law
-10.1007/s10506-004-3889-4,"Book Review: Bram Roth, Case-based Reasoning in the Law: A Formal Theory of Reasoning by Case Comparison. Ph. D. Thesis, The University of Maastricht, 2003. 181 pp.",Trevor Bench-Capon,2004,0,Artificial Intelligence and Law
-10.1007/s10506-020-09260-6,Explainable AI under contract and tort law: legal incentives and technical challenges,Philipp Hacker and Ralf Krestel and Stefan Grundmann and Felix Naumann,2020,31,Artificial Intelligence and Law
-10.1007/s10506-014-9154-6,Anonymity preserving sequential pattern mining,Anna Monreale and Dino Pedreschi and Ruggero G. Pensa and Fabio Pinelli,2014,16,Artificial Intelligence and Law
-10.1007/s10506-004-6488-5,Anonymity and software agents: An interdisciplinary challenge,Frances Brazier and Anja Oskamp and Corien Prins and Maurice Schellekens and Niek Wijngaards,2004,13,Artificial Intelligence and Law
-10.1007/s10506-011-9108-1,Moral particularism in the light of deontic logic,Xavier Parent,2011,12,Artificial Intelligence and Law
-10.1007/s10506-010-9098-4,Emerging AI &amp; Law approaches to automating analysis and retrieval of electronically stored information in discovery proceedings,Kevin D. Ashley and Will Bridewell,2010,10,Artificial Intelligence and Law
-10.1007/s10506-012-9120-0,A Carneades reconstruction of Popov v Hayashi,Thomas F. Gordon and Douglas Walton,2012,10,Artificial Intelligence and Law
-10.1007/s10506-013-9140-4,Automatic deception detection in Italian court cases,Tommaso Fornaciari and Massimo Poesio,2013,30,Artificial Intelligence and Law
-10.1007/s10506-006-9023-z,Decision support systems for police: Lessons from the application of data mining techniques to “soft” forensic evidence,Giles Oatley and Brian Ewart and John Zeleznikow,2007,29,Artificial Intelligence and Law
-10.1023/a:1011249417505,n.m.,Trevor J.M. Bench-Capon,2001,2,Artificial Intelligence and Law
-10.1007/s10506-021-09301-8,Unsupervised law article mining based on deep pre-trained language representation models with application to the Italian civil code,Andrea Tagarelli and Andrea Simeri,2022,5,Artificial Intelligence and Law
-10.1007/s10506-019-09246-z,Arguing about causes in law: a semi-formal framework for causal arguments,Rūta Liepiņa and Giovanni Sartor and Adam Wyner,2020,2,Artificial Intelligence and Law
-10.1007/s10506-017-9197-6,Recognizing cited facts and principles in legal judgements,Olga Shulayeva and Advaith Siddharthan and Adam Wyner,2017,26,Artificial Intelligence and Law
 10.1023/b:arti.0000045970.25670.25,Book Review: Bayesian Artificial Intelligence,Gerard A.W. Vreeswijk,2003,2,Artificial Intelligence and Law
-10.1007/s10506-012-9132-9,The epistemology of scientific evidence,Douglas Walton and Nanning Zhang,2013,20,Artificial Intelligence and Law
 10.1007/s10506-022-09317-8,Patterns for legal compliance checking in a decidable framework of linked open data,Enrico Francesconi and Guido Governatori,2022,0,Artificial Intelligence and Law
-10.1007/s10506-008-9063-7,A dialogical theory of presumption,Douglas Walton,2008,15,Artificial Intelligence and Law
+10.1007/s10506-020-09272-2,In memoriam Douglas N. Walton: the influence of Doug Walton on AI and law,Katie Atkinson and Trevor Bench-Capon and Floris Bex and Thomas F. Gordon and Henry Prakken and Giovanni Sartor and Bart Verheij,2020,4,Artificial Intelligence and Law
 10.1007/s10506-019-09249-w,When expert opinion evidence goes wrong,Douglas Walton,2019,2,Artificial Intelligence and Law
 10.1007/s10506-007-9043-3,Preface,Tom van Engers and Ann McIntosh,2006,1,Artificial Intelligence and Law
-10.1007/s10506-008-9071-7,An object model for use in oral and written advocacy,Charles Unwin,2008,3,Artificial Intelligence and Law
 10.1007/s10506-019-09253-0,"Evidence &amp; decision making in the law: theoretical, computational and empirical approaches",Marcello Di Bello and Bart Verheij,2020,3,Artificial Intelligence and Law
-10.1007/s10506-020-09272-2,In memoriam Douglas N. Walton: the influence of Doug Walton on AI and law,Katie Atkinson and Trevor Bench-Capon and Floris Bex and Thomas F. Gordon and Henry Prakken and Giovanni Sartor and Bart Verheij,2020,4,Artificial Intelligence and Law
-10.1007/s10506-017-9207-8,On the legal responsibility of autonomous machines,Bartosz Brożek and Marek Jakubiec,2017,22,Artificial Intelligence and Law
+10.1007/s10506-008-9071-7,An object model for use in oral and written advocacy,Charles Unwin,2008,3,Artificial Intelligence and Law
+10.1007/s10506-008-9063-7,A dialogical theory of presumption,Douglas Walton,2008,15,Artificial Intelligence and Law
+10.1023/a:1011249417505,n.m.,Trevor J.M. Bench-Capon,2001,2,Artificial Intelligence and Law
+10.1007/s10506-011-9108-1,Moral particularism in the light of deontic logic,Xavier Parent,2011,12,Artificial Intelligence and Law
+10.1007/s10506-022-09311-0,How to justify a backing’s eligibility for a warrant: the justification of a legal interpretation in a hard case,Shiyang Yu and Xi Chen,2022,1,Artificial Intelligence and Law
+10.1007/s10506-006-9005-1,Towards a multi-agent system for regulated information exchange in crime investigations,Pieter Dijkstra and Floris Bex and Henry Prakken and Kees de Vey Mestdagh,2005,6,Artificial Intelligence and Law
+10.1007/s10506-014-9156-4,Combating discrimination using Bayesian networks,Koray Mancuhan and Chris Clifton,2014,28,Artificial Intelligence and Law
+10.1007/s10506-006-9023-z,Decision support systems for police: Lessons from the application of data mining techniques to “soft” forensic evidence,Giles Oatley and Brian Ewart and John Zeleznikow,2007,29,Artificial Intelligence and Law
+10.1007/s10506-023-09348-9,Joining metadata and textual features to advise administrative courts decisions: a cascading classifier approach,Hugo Mentzingen and Nuno Antonio and Victor Lobo,2023,0,Artificial Intelligence and Law
+10.1007/s10506-012-9120-0,A Carneades reconstruction of Popov v Hayashi,Thomas F. Gordon and Douglas Walton,2012,10,Artificial Intelligence and Law
+10.1007/s10506-013-9140-4,Automatic deception detection in Italian court cases,Tommaso Fornaciari and Massimo Poesio,2013,30,Artificial Intelligence and Law
+10.1007/s10506-019-09246-z,Arguing about causes in law: a semi-formal framework for causal arguments,Rūta Liepiņa and Giovanni Sartor and Adam Wyner,2020,2,Artificial Intelligence and Law
+10.1007/s10506-015-9168-8,Extracting indices from Japanese legal documents,Tho Thi Ngoc Le and Kiyoaki Shirai and Minh Le Nguyen and Akira Shimazu,2015,6,Artificial Intelligence and Law
+10.1023/b:arti.0000045997.45038.8f,Try to See it My Way: Modelling Persuasion in Legal Discourse,Trevor J. M. Bench-Capon,2003,18,Artificial Intelligence and Law
+10.1007/s10506-007-9027-3,Legal ontology of sales law application to ecommerce,John Bagby and Tracy Mullen,2007,12,Artificial Intelligence and Law
+10.1007/s10506-007-9041-5,"An Ontology for G2G Collaboration in Public Policy Making, Implementation and Evaluation",Euripidis N. Loukis,2007,19,Artificial Intelligence and Law
+10.1023/b:arti.0000046010.14101.04,Why Non-Monotonic Logic is Inadequate to Represent Balancing Arguments,Jan-R. Sieckmann,2003,4,Artificial Intelligence and Law
 10.1007/s10506-007-9056-y,A computational framework for institutional agency,Guido Governatori and Antonino Rotolo,2008,23,Artificial Intelligence and Law
 10.1007/s10506-005-4162-1,A Methodology to Create Legal Ontologies in a Logic Programming Based Web Information Retrieval System,José Saias and Paulo Quaresma,2004,19,Artificial Intelligence and Law
-10.1023/b:arti.0000046010.14101.04,Why Non-Monotonic Logic is Inadequate to Represent Balancing Arguments,Jan-R. Sieckmann,2003,4,Artificial Intelligence and Law
-10.1007/s10506-006-9025-x,How to make and defend a proposal in a deliberation dialogue,Douglas Walton,2006,18,Artificial Intelligence and Law
-10.1007/s10506-014-9156-4,Combating discrimination using Bayesian networks,Koray Mancuhan and Chris Clifton,2014,28,Artificial Intelligence and Law
-10.1023/b:arti.0000045997.45038.8f,Try to See it My Way: Modelling Persuasion in Legal Discourse,Trevor J. M. Bench-Capon,2003,18,Artificial Intelligence and Law
-10.1007/s10506-021-09293-5,Legal information retrieval for understanding statutory terms,Jaromír Šavelka and Kevin D. Ashley,2022,3,Artificial Intelligence and Law
-10.1007/s10506-023-09348-9,Joining metadata and textual features to advise administrative courts decisions: a cascading classifier approach,Hugo Mentzingen and Nuno Antonio and Victor Lobo,2023,0,Artificial Intelligence and Law
-10.1007/s10506-006-9005-1,Towards a multi-agent system for regulated information exchange in crime investigations,Pieter Dijkstra and Floris Bex and Henry Prakken and Kees de Vey Mestdagh,2005,6,Artificial Intelligence and Law
+10.1007/s10506-010-9098-4,Emerging AI &amp; Law approaches to automating analysis and retrieval of electronically stored information in discovery proceedings,Kevin D. Ashley and Will Bridewell,2010,10,Artificial Intelligence and Law
+10.1023/a:1008327715564,n.m.,José Plug,2000,5,Artificial Intelligence and Law
+10.1007/s10506-022-09310-1,Smart criminal justice: exploring the use of algorithms in the Swiss criminal justice system,Monika Simmler and Simone Brunner and Giulia Canova and Kuno Schedler,2022,3,Artificial Intelligence and Law
+10.1007/s10506-020-09260-6,Explainable AI under contract and tort law: legal incentives and technical challenges,Philipp Hacker and Ralf Krestel and Stefan Grundmann and Felix Naumann,2020,35,Artificial Intelligence and Law
+10.1007/s10506-012-9132-9,The epistemology of scientific evidence,Douglas Walton and Nanning Zhang,2013,21,Artificial Intelligence and Law
+10.1007/s10506-014-9160-8,Measuring the complexity of the law: the United States Code,Daniel Martin Katz and M. J. Bommarito,2014,47,Artificial Intelligence and Law
+10.1007/s10506-021-09293-5,Legal information retrieval for understanding statutory terms,Jaromír Šavelka and Kevin D. Ashley,2022,4,Artificial Intelligence and Law
+10.1007/s10506-022-09321-y,The potential of an artificial intelligence (AI) application for the tax administration system’s modernization: the case of Indonesia,Arfah Habib Saragih and Qaumy Reyhani and Milla Sepliana Setyowati and Adang Hendrawan,2022,2,Artificial Intelligence and Law
+10.1007/s10506-021-09304-5,DeepRhole: deep learning for rhetorical role labeling of sentences in legal case documents,Paheli Bhattacharya and Shounak Paul and Kripabandhu Ghosh and Saptarshi Ghosh and Adam Wyner,2023,13,Artificial Intelligence and Law
+10.1007/s10506-021-09301-8,Unsupervised law article mining based on deep pre-trained language representation models with application to the Italian civil code,Andrea Tagarelli and Andrea Simeri,2022,6,Artificial Intelligence and Law
 10.1007/s10506-022-09312-z,Perceptions of Justice By Algorithms,Gizem Yalcin and Erlis Themeli and Evert Stamhuis and Stefan Philipsen and Stefano Puntoni,2022,4,Artificial Intelligence and Law
-10.1007/s10506-011-9106-3,A model of juridical acts: part 2: the operation of juridical acts,Jaap Hage,2011,10,Artificial Intelligence and Law
-10.1007/s10506-022-09315-w,Law Smells,Corinna Coupette and Dirk Hartung and Janis Beckedorf and Maximilian Böther and Daniel Martin Katz,2022,1,Artificial Intelligence and Law
-10.1007/s10506-014-9160-8,Measuring the complexity of the law: the United States Code,Daniel Martin Katz and M. J. Bommarito,2014,45,Artificial Intelligence and Law
-10.1007/s10506-021-09289-1,"Symbiosis with artificial intelligence via the prism of law, robots, and society",Stamatis Karnouskos,2022,9,Artificial Intelligence and Law
 10.1007/s10506-016-9190-5,Accommodating change,Latifa Al-Abdulkarim and Katie Atkinson and Trevor Bench-Capon,2016,8,Artificial Intelligence and Law
 10.1007/s10506-015-9166-x,An improved factor based approach to precedential constraint,Adam Rigoni,2015,18,Artificial Intelligence and Law
-10.1007/s10506-022-09321-y,The potential of an artificial intelligence (AI) application for the tax administration system’s modernization: the case of Indonesia,Arfah Habib Saragih and Qaumy Reyhani and Milla Sepliana Setyowati and Adang Hendrawan,2022,2,Artificial Intelligence and Law
+10.1007/s10506-014-9154-6,Anonymity preserving sequential pattern mining,Anna Monreale and Dino Pedreschi and Ruggero G. Pensa and Fabio Pinelli,2014,16,Artificial Intelligence and Law
 10.1007/s10506-007-9036-2,OPJK and DILIGENT: ontology modeling in a distributed environment,Pompeu Casanovas and Núria Casellas and Christoph Tempich and Denny Vrandečić and Richard Benjamins,2007,22,Artificial Intelligence and Law
 10.1007/s10506-012-9131-x,A history of AI and Law in 50 papers: 25 years of the international conference on AI and Law,Trevor Bench-Capon and Michał Araszkiewicz and Kevin Ashley and Katie Atkinson and Floris Bex and Filipe Borges and Daniele Bourcier and Paul Bourgine and Jack G. Conrad and Enrico Francesconi and Thomas F. Gordon and Guido Governatori and Jochen L. Leidner and David D. Lewis and Ronald P. Loui and L. Thorne McCarty and Henry Prakken and Frank Schilder and Erich Schweighofer and Paul Thompson and Alex Tyrrell and Bart Verheij and Douglas N. Walton and Adam Z. Wyner,2012,85,Artificial Intelligence and Law
-10.1023/a:1019584605638,n.m.,L. Thorne McCarty,2002,13,Artificial Intelligence and Law
-10.1023/a:1019501830692,n.m.,T. J. M. Bench-Capon,2002,34,Artificial Intelligence and Law
-10.1007/s10506-016-9189-y,Formalizing value-guided argumentation for ethical systems design,Bart Verheij,2016,19,Artificial Intelligence and Law
-10.1007/s10506-009-9081-0,Cognitive automata and the law: electronic contracting and the intentionality of software agents,Giovanni Sartor,2009,33,Artificial Intelligence and Law
-10.1007/s10506-022-09309-8,"The winter, the summer and the summer dream of artificial intelligence in law",Enrico Francesconi,2022,5,Artificial Intelligence and Law
-10.1007/s10506-021-09304-5,DeepRhole: deep learning for rhetorical role labeling of sentences in legal case documents,Paheli Bhattacharya and Shounak Paul and Kripabandhu Ghosh and Saptarshi Ghosh and Adam Wyner,2023,13,Artificial Intelligence and Law
-10.1007/s10506-007-9039-z,Extractive summarisation of legal texts,Ben Hachey and Claire Grover,2007,61,Artificial Intelligence and Law
+10.1007/s10506-004-6488-5,Anonymity and software agents: An interdisciplinary challenge,Frances Brazier and Anja Oskamp and Corien Prins and Maurice Schellekens and Niek Wijngaards,2004,14,Artificial Intelligence and Law
+10.1007/s10506-007-9039-z,Extractive summarisation of legal texts,Ben Hachey and Claire Grover,2007,62,Artificial Intelligence and Law
 10.1023/b:arti.0000046022.21182.32,Preface,Jaap Hage,2003,0,Artificial Intelligence and Law
 10.1023/a:1013803600690,n.m.,Bart Verheij,2001,2,Artificial Intelligence and Law
 10.1023/a:1025402013007,n.m.,Anja Oskamp and Marc Lauritsen,2002,16,Artificial Intelligence and Law
@@ -156,6 +156,8 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1023/b:arti.0000013352.63798.08,What an Agent Ought To Do,Jan Broersen and Leendert van der Torre,2003,4,Artificial Intelligence and Law
 10.1007/s10506-017-9209-6,Do androids dream of normative endorsement? On the fallibility of artificial moral agents,Frodo Podschwadek,2017,3,Artificial Intelligence and Law
 10.1007/s10506-021-09292-6,Abstract meaning representation for legal documents: an empirical research on a human-annotated dataset,Sinh Trong Vu and Minh Le Nguyen and Ken Satoh,2022,0,Artificial Intelligence and Law
+10.1007/s10506-006-9014-0,Persuasion Dialogue in Online Dispute Resolution,Douglas Walton and David M. Godden,2005,10,Artificial Intelligence and Law
+10.1007/s10506-009-9075-y,Improving legal information retrieval using an ontological framework,M. Saravanan and B. Ravindran and S. Raman,2009,40,Artificial Intelligence and Law
 10.1023/a:1017970106739,n.m.,Ephraim Nissan,2001,1,Artificial Intelligence and Law
 10.1007/s10506-019-09247-y,A system of communication rules for justifying and explaining beliefs about facts in civil trials,João Marques Martins,2020,1,Artificial Intelligence and Law
 10.1007/s10506-012-9124-9,Implications of a logical paradox for computer-dispensed justice reconsidered: some key differences between minds and machines,Joseph S. Fulda,2012,1,Artificial Intelligence and Law
@@ -173,6 +175,7 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10506-006-9026-9,Who should own access rights? A game-theoretical approach to striking the optimal balance in the debate over Digital Rights Management,Yu-Lin Chang,2007,5,Artificial Intelligence and Law
 10.1007/s10506-011-9114-3,A dynamic logic for privacy compliance,Guillaume Aucher and Guido Boella and Leendert van der Torre,2011,7,Artificial Intelligence and Law
 10.1007/s10506-022-09328-5,Catala: Moving towards the future of legal expert systems,Liane Huttner and Denis Merigoux,2022,1,Artificial Intelligence and Law
+10.1007/s10506-020-09268-y,Evaluating causes of algorithmic bias in juvenile criminal recidivism,Marius Miron and Songül Tolan and Emilia Gómez and Carlos Castillo,2021,10,Artificial Intelligence and Law
 10.1007/s10506-006-9021-1,Book Review,Jelle van Veenen,2006,0,Artificial Intelligence and Law
 10.1007/s10506-004-0815-8,A legal analysis of human and electronic agents,Steffen Wettig and Eberhard Zehender,2004,19,Artificial Intelligence and Law
 10.1007/s10506-021-09288-2,Detecting and explaining unfairness in consumer contracts through memory networks,Federico Ruggeri and Francesca Lagioia and Marco Lippi and Paolo Torroni,2022,6,Artificial Intelligence and Law
@@ -181,63 +184,59 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10506-020-09276-y,Automatically running experiments on checking multi-party contracts,Adilson Luiz Bonifacio and Wellington Aparecido Della Mura,2021,1,Artificial Intelligence and Law
 10.1007/s10506-017-9198-5,Introduction to the special issue on Artificial Intelligence for Justice (AI4J),Floris Bex and Henry Prakken and Tom van Engers and Bart Verheij,2017,16,Artificial Intelligence and Law
 10.1007/s10506-019-09256-x,Appellate Court Modifications Extraction for Portuguese,William Paulo Ducca Fernandes and Luiz José Schirmer Silva and Isabella Zalcberg Frajhof and Guilherme da Franca Couto Fernandes de Almeida and Carlos Nelson Konder and Rafael Barbosa Nasser and Gustavo Robichez de Carvalho and Simone Diniz Junqueira Barbosa and Hélio Côrtes Vieira Lopes,2020,4,Artificial Intelligence and Law
-10.1023/b:arti.0000046008.49443.36,Dialectical Argumentation with Argumentation Schemes: An Approach to Legal Logic,Bart Verheij,2003,100,Artificial Intelligence and Law
-10.1007/s10506-022-09319-6,SM-BERT-CR: a deep learning approach for case law retrieval with supporting model,Yen Thi-Hai Vuong and Quan Minh Bui and Ha-Thanh Nguyen and Thi-Thu-Trang Nguyen and Vu Tran and Xuan-Hieu Phan and Ken Satoh and Le-Minh Nguyen,2022,0,Artificial Intelligence and Law
+10.1007/s10506-018-9222-4,Automated patent landscaping,Aaron Abood and Dave Feltenberger,2018,24,Artificial Intelligence and Law
 10.1007/s10506-021-09306-3,Rethinking the field of automatic prediction of court decisions,Masha Medvedeva and Martijn Wieling and Michel Vols,2023,4,Artificial Intelligence and Law
+10.1007/s10506-010-9104-x,Argumentation mining,Raquel Mochales and Marie-Francine Moens,2011,115,Artificial Intelligence and Law
+10.1007/s10506-012-9119-6,A legal case OWL ontology with an instantiation of Popov v. Hayashi,Adam Wyner and Rinke Hoekstra,2012,19,Artificial Intelligence and Law
+10.1007/s10506-020-09262-4,Encoded summarization: summarizing documents into continuous vector space for legal case retrieval,Vu Tran and Minh Le Nguyen and Satoshi Tojo and Ken Satoh,2020,14,Artificial Intelligence and Law
 10.1007/s10506-021-09283-7,Resolving counterintuitive consequences in law using legal debugging,Wachara Fungwacharakorn and Kanae Tsushima and Ken Satoh,2021,4,Artificial Intelligence and Law
 10.1007/s10506-010-9085-9,Disclosing false identity through hybrid link analysis,Tossapon Boongoen and Qiang Shen and Chris Price,2010,30,Artificial Intelligence and Law
 10.1023/a:1008394902165,n.m.,Bernardo Magnini and Elena Not and Oliviero Stock and Carlo Strapparava,2000,5,Artificial Intelligence and Law
 10.1007/s10506-012-9127-6,TULSI: an NLP system for extracting legal modificatory provisions,Leonardo Lesmo and Alessandro Mazzei and Monica Palmirani and Daniele P. Radicioni,2013,11,Artificial Intelligence and Law
-10.1007/s10506-016-9183-4,A method for explaining Bayesian networks for legal evidence with scenarios,Charlotte S. Vlek and Henry Prakken and Silja Renooij and Bart Verheij,2016,34,Artificial Intelligence and Law
 10.1007/s10506-018-9235-z,A new use case for argumentation support tools: supporting discussions of Bayesian analyses of complex criminal cases,Henry Prakken,2020,2,Artificial Intelligence and Law
 10.1023/a:1025450015111,n.m.,John Hokkanen and Marc Lauritsen,2002,4,Artificial Intelligence and Law
 10.1007/s10506-014-9159-1,A crowdsourcing approach to building a legal ontology from text,Anatoly P. Getman and Volodymyr V. Karasiuk,2014,12,Artificial Intelligence and Law
 10.1007/s10506-007-9034-4,The structuring of legal knowledge in LOIS,Wim Peters and Maria-Teresa Sagri and Daniela Tiscornia,2007,26,Artificial Intelligence and Law
 10.1007/s10506-006-0002-1,Legal Ontologies in Knowledge Engineering and Information Management,Joost Breuker and André Valente and Radboud Winkels,2004,31,Artificial Intelligence and Law
 10.1007/s10506-007-9029-1,Advanced lexical ontologies and hybrid knowledge based systems: First steps to a dynamic legal electronic commentary,Erich Schweighofer and Doris Liebwald,2007,7,Artificial Intelligence and Law
-10.1007/s10506-010-9100-1,Automation of legal sensemaking in e-discovery,Christopher Hogan and Robert S. Bauer and Dan Brassil,2010,6,Artificial Intelligence and Law
-10.1007/s10506-006-9014-0,Persuasion Dialogue in Online Dispute Resolution,Douglas Walton and David M. Godden,2005,10,Artificial Intelligence and Law
-10.1007/s10506-009-9075-y,Improving legal information retrieval using an ontological framework,M. Saravanan and B. Ravindran and S. Raman,2009,40,Artificial Intelligence and Law
-10.1007/s10506-020-09268-y,Evaluating causes of algorithmic bias in juvenile criminal recidivism,Marius Miron and Songül Tolan and Emilia Gómez and Carlos Castillo,2021,8,Artificial Intelligence and Law
-10.1007/s10506-017-9206-9,Using artificial intelligence to support compliance with the general data protection regulation,John Kingston,2017,14,Artificial Intelligence and Law
-10.1007/s10506-020-09262-4,Encoded summarization: summarizing documents into continuous vector space for legal case retrieval,Vu Tran and Minh Le Nguyen and Satoshi Tojo and Ken Satoh,2020,13,Artificial Intelligence and Law
 10.1007/s10506-022-09323-w,Mapping the Issues of Automated Legal Systems: Why Worry About Automatically Processable Regulation?,Clement Guitton and Aurelia Tamò-Larrieux and Simon Mayer,2022,1,Artificial Intelligence and Law
 10.1007/s10506-021-09303-6,Towards a machine understanding of Malawi legal text,Amelia V. Taylor and Eva Mfutso-Bengo,2023,0,Artificial Intelligence and Law
 10.1007/s10506-023-09344-z,A novel MRC framework for evidence extracts in judgment documents,Yulin Zhou and Lijuan Liu and Yanping Chen and Ruizhang Huang and Yongbin Qin and Chuan Lin,2023,0,Artificial Intelligence and Law
 10.1007/s10506-021-09298-0,Lawmaps: enabling legal AI development through visualisation of the implicit structure of legislation and lawyerly process,Scott McLachlan and Evangelia Kyrimi and Kudakwashe Dube and Norman Fenton and Lisa C. Webley,2023,1,Artificial Intelligence and Law
 10.1007/s10506-012-9129-4,The cognitive legacy of norm simulation,Martin Neumann,2012,5,Artificial Intelligence and Law
 10.1007/s10506-010-9086-8,Intelligent agents and liability: is it a doctrinal problem or merely a problem of explanation?,Emad Abdel Rahim Dahiyat,2010,9,Artificial Intelligence and Law
-10.1007/s10506-012-9119-6,A legal case OWL ontology with an instantiation of Popov v. Hayashi,Adam Wyner and Rinke Hoekstra,2012,19,Artificial Intelligence and Law
-10.1007/s10506-011-9116-1,A network approach to the French system of legal codes—part I: analysis of a dense network,Romain Boulet and Pierre Mazzega and Danièle Bourcier,2011,19,Artificial Intelligence and Law
 10.1007/s10506-010-9094-8,Using argument schemes for hypothetical reasoning in law,Trevor Bench-Capon and Henry Prakken,2010,39,Artificial Intelligence and Law
-10.1007/s10506-016-9184-3,"Eunomos, a legal document and knowledge management system for the Web to provide relevant, reliable and up-to-date information on the law",Guido Boella and Luigi Di Caro and Llio Humphreys and Livio Robaldo and Piercarlo Rossi and Leendert van der Torre,2016,48,Artificial Intelligence and Law
 10.1007/s10506-017-9208-7,Theoretical foundations for the responsibility of autonomous agents,Jaap Hage,2017,19,Artificial Intelligence and Law
 10.1007/s10506-018-9219-z,Narration in judiciary fact-finding: a probabilistic explication,Rafal Urbaniak,2018,6,Artificial Intelligence and Law
-10.1007/s10506-017-9205-x,Norm conflict identification in contracts,João Paulo Aires and Daniele Pinheiro and Vera Strube de Lima and Felipe Meneguzzi,2017,7,Artificial Intelligence and Law
 10.1007/s10506-019-09245-0,Reasoning with dimensions and magnitudes,John Horty,2019,11,Artificial Intelligence and Law
+10.1007/s10506-017-9206-9,Using artificial intelligence to support compliance with the general data protection regulation,John Kingston,2017,15,Artificial Intelligence and Law
+10.1007/s10506-007-9044-2,Electronic institutions for B2B: dynamic normative environments,Henrique Lopes Cardoso and Eugénio Oliveira,2008,22,Artificial Intelligence and Law
 10.1023/a:1017993913369,n.m.,John A. Barnden,2001,10,Artificial Intelligence and Law
 10.1007/s10506-006-9007-z,Argumentation in AI and Law: Editors' Introduction,Trevor J.M. Bench-Capon and Paul E. Dunne,2005,5,Artificial Intelligence and Law
 10.1007/s10506-008-9066-4,A formal model of adjudication dialogues,Henry Prakken,2008,21,Artificial Intelligence and Law
-10.1007/s10506-007-9044-2,Electronic institutions for B2B: dynamic normative environments,Henrique Lopes Cardoso and Eugénio Oliveira,2008,21,Artificial Intelligence and Law
 10.1023/a:1008304521924,n.m.,Gerard A. W. Vreeswijk,2000,12,Artificial Intelligence and Law
 10.1007/s10506-010-9092-x,"A hybrid formal theory of arguments, stories and criminal evidence",Floris J. Bex and Peter J. van Koppen and Henry Prakken and Bart Verheij,2010,63,Artificial Intelligence and Law
 10.1007/s10506-005-4158-x,On the Ontological Status of Plans and Norms,Guido Boella and Leonardo Lesmo and Rossana Damiano,2004,8,Artificial Intelligence and Law
 10.1007/s10506-013-9139-x,Argument from analogy in legal rhetoric,Douglas Walton,2013,6,Artificial Intelligence and Law
 10.1007/s10506-011-9112-5,The modular logic of private international law,Phan Minh Dung and Giovanni Sartor,2011,14,Artificial Intelligence and Law
-10.1007/s10506-018-9222-4,Automated patent landscaping,Aaron Abood and Dave Feltenberger,2018,24,Artificial Intelligence and Law
-10.1007/s10506-010-9104-x,Argumentation mining,Raquel Mochales and Marie-Francine Moens,2011,114,Artificial Intelligence and Law
+10.1007/s10506-011-9116-1,A network approach to the French system of legal codes—part I: analysis of a dense network,Romain Boulet and Pierre Mazzega and Danièle Bourcier,2011,19,Artificial Intelligence and Law
+10.1007/s10506-016-9184-3,"Eunomos, a legal document and knowledge management system for the Web to provide relevant, reliable and up-to-date information on the law",Guido Boella and Luigi Di Caro and Llio Humphreys and Livio Robaldo and Piercarlo Rossi and Leendert van der Torre,2016,50,Artificial Intelligence and Law
+10.1007/s10506-016-9183-4,A method for explaining Bayesian networks for legal evidence with scenarios,Charlotte S. Vlek and Henry Prakken and Silja Renooij and Bart Verheij,2016,35,Artificial Intelligence and Law
+10.1007/s10506-010-9100-1,Automation of legal sensemaking in e-discovery,Christopher Hogan and Robert S. Bauer and Dan Brassil,2010,6,Artificial Intelligence and Law
+10.1023/b:arti.0000046008.49443.36,Dialectical Argumentation with Argumentation Schemes: An Approach to Legal Logic,Bart Verheij,2003,101,Artificial Intelligence and Law
+10.1007/s10506-022-09319-6,SM-BERT-CR: a deep learning approach for case law retrieval with supporting model,Yen Thi-Hai Vuong and Quan Minh Bui and Ha-Thanh Nguyen and Thi-Thu-Trang Nguyen and Vu Tran and Xuan-Hieu Phan and Ken Satoh and Le-Minh Nguyen,2022,1,Artificial Intelligence and Law
+10.1007/s10506-017-9205-x,Norm conflict identification in contracts,João Paulo Aires and Daniele Pinheiro and Vera Strube de Lima and Felipe Meneguzzi,2017,8,Artificial Intelligence and Law
 10.1023/b:arti.0000046006.52190.33,Some Remarks on Performatives in the Law,Lennart Åqvist,2003,3,Artificial Intelligence and Law
 10.1007/s10506-006-9006-0,A Value-based Argument Model of Convention Degradation,Paul E. Dunne,2005,0,Artificial Intelligence and Law
-10.1007/s10506-011-9105-4,A model of juridical acts: part 1: the world of law,Jaap Hage,2011,14,Artificial Intelligence and Law
-10.1007/s10506-006-9004-2,AGATHA: Using heuristic search to automate the construction of case law theories,Alison Chorley and Trevor Bench-Capon,2005,23,Artificial Intelligence and Law
 10.1007/s10506-009-9076-x,Modular argumentation for modelling legal doctrines in common law of contract,Phan Minh Dung and Phan Minh Thang,2009,12,Artificial Intelligence and Law
 10.1007/s10506-012-9134-7,Probabilistic rule-based argumentation for norm-governed learning agents,Régis Riveret and Antonino Rotolo and Giovanni Sartor,2012,15,Artificial Intelligence and Law
 10.1007/s10506-017-9213-x,Introduction to the special issue on machine law,Bartosz Brożek and Jaap Hage and Bipin Indurkhya,2017,0,Artificial Intelligence and Law
+10.1007/s10506-020-09261-5,Modeling law search as prediction,Faraz Dadgostari and Mauricio Guim and Peter A. Beling and Michael A. Livermore and Daniel N. Rockmore,2021,12,Artificial Intelligence and Law
+10.1007/s10506-006-9004-2,AGATHA: Using heuristic search to automate the construction of case law theories,Alison Chorley and Trevor Bench-Capon,2005,23,Artificial Intelligence and Law
 10.1007/s10506-008-9068-2,Introduction to special issue on modelling legal cases,Katie Atkinson,2008,1,Artificial Intelligence and Law
 10.1007/s10506-010-9101-0,"Afterword: data, knowledge, and e-discovery",David D. Lewis,2010,0,Artificial Intelligence and Law
 10.1007/s10506-016-9186-1,From Berman and Hafner’s teleological context to Baude and Sachs’ interpretive defaults: an ontological challenge for the next decades of AI and Law,Ronald P. Loui,2016,3,Artificial Intelligence and Law
 10.1023/b:arti.0000046012.44321.27,Review of Jaap Hage's Law and Defeasibility,Eugenio Bulygin,2003,1,Artificial Intelligence and Law
-10.1007/s10506-022-09322-x,Definitions of intent suitable for algorithms,Hal Ashton,2022,0,Artificial Intelligence and Law
 10.1007/s10506-012-9123-x,Contrary to time conditionals in Talmudic logic,M. Abraham and D. M. Gabbay and U. Schild,2012,3,Artificial Intelligence and Law
 10.1007/s10506-018-9234-0,Group-to-individual (G2i) inferences: challenges in modeling how the U.S. court system uses brain data,Valerie Gray Hardcastle,2020,1,Artificial Intelligence and Law
 10.1007/s10506-015-9171-0,Introduction,Emily M. Weitzenboeck and Tobias Mahler and Andrew J. I. Jones,2015,0,Artificial Intelligence and Law
@@ -248,12 +247,10 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1023/a:1025430726233,n.m.,,2002,0,Artificial Intelligence and Law
 10.1023/a:1017989812461,n.m.,Ephraim Nissan,2001,0,Artificial Intelligence and Law
 10.1007/s10506-007-9059-8,Institutions with a hierarchy of authorities in distributed dynamic environments,Guido Boella and Leendert van der Torre,2008,20,Artificial Intelligence and Law
-10.1007/s10506-017-9215-8,Norms modeling constructs of business process compliance management frameworks: a conceptual evaluation,Mustafa Hashmi and Guido Governatori,2018,10,Artificial Intelligence and Law
+10.1007/s10506-023-09351-0,A formalization of the Protagoras court paradox in a temporal logic of epistemic and normative reasons,Meghdad Ghari,2023,0,Artificial Intelligence and Law
 10.1007/s10506-018-9227-z,Introduction to the special issue on legal text analytics,Jack G. Conrad and L. Karl Branting,2018,4,Artificial Intelligence and Law
 10.1007/s10506-016-9180-7,35 years of Multilateral Environmental Agreements ratifications: a network analysis,Romain Boulet and Ana Flavia Barros-Platiau and Pierre Mazzega,2016,11,Artificial Intelligence and Law
 10.1007/s10506-022-09332-9,Analogical lightweight ontology of EU criminal procedural rights in judicial cooperation,Davide Audrito and Emilio Sulis and Llio Humphreys and Luigi Di Caro,2022,0,Artificial Intelligence and Law
-10.1007/s10506-021-09287-3,Clustering of Brazilian legal judgments about failures in air transport service: an evaluation of different approaches,Isabela Cristina Sabo and Thiago Raulino Dal Pont and Pablo Ernesto Vigneaux Wilton and Aires José Rover and Jomi Fred Hübner,2022,1,Artificial Intelligence and Law
-10.1007/s10506-021-09295-3,Logical English meets legal English for swaps and derivatives,Robert Kowalski and Akber Datoo,2022,6,Artificial Intelligence and Law
 10.1007/s10506-022-09313-y,Using machine learning to create a repository of judgments concerning a new practice area: a case study in animal protection law,Joe Watson and Guy Aglionby and Samuel March,2022,0,Artificial Intelligence and Law
 10.1007/s10506-019-09259-8,Legal and ethical implications of applications based on agreement technologies: the case of auction-based road intersections,José-Antonio Santos and Alberto Fernández and Mar Moreno-Rebato and Holger Billhardt and José-A. Rodríguez-García and Sascha Ossowski,2020,2,Artificial Intelligence and Law
 10.1007/s10506-022-09339-2,Legal document assembly system for introducing law students with legal drafting,Marko Marković and Stevan Gostojić,2022,0,Artificial Intelligence and Law
@@ -261,8 +258,8 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1023/a:1017941304013,n.m.,David A. Schum,2001,11,Artificial Intelligence and Law
 10.1007/s10506-006-9015-z,"GearBi: Towards an online arbitration environment based on the design principles simplicity, awareness, orientation, and timeliness",Gerard A.W. Vreeswijk and Arno R. Lodder,2005,3,Artificial Intelligence and Law
 10.1007/s10506-009-9079-7,Legal concepts as inferential nodes and ontological categories,Giovanni Sartor,2009,17,Artificial Intelligence and Law
-10.1007/s10506-021-09297-1,PRILJ: an efficient two-step method based on embedding and clustering for the identification of regularities in legal case judgments,Graziella De Martino and Gianvito Pio and Michelangelo Ceci,2022,3,Artificial Intelligence and Law
-10.1007/s10506-022-09334-7,Knowledge mining and social dangerousness assessment in criminal justice: metaheuristic integration of machine learning and graph-based inference,Nicola Lettieri and Alfonso Guarino and Delfina Malandrino and Rocco Zaccagnino,2022,0,Artificial Intelligence and Law
+10.1007/s10506-023-09356-9,The black box problem revisited. Real and imaginary challenges for automated legal decision making,Bartosz Brożek and Michał Furman and Marek Jakubiec and Bartłomiej Kucharzyk,2023,0,Artificial Intelligence and Law
+10.1007/s10506-022-09334-7,Knowledge mining and social dangerousness assessment in criminal justice: metaheuristic integration of machine learning and graph-based inference,Nicola Lettieri and Alfonso Guarino and Delfina Malandrino and Rocco Zaccagnino,2022,1,Artificial Intelligence and Law
 10.1007/s10506-022-09336-5,Masked prediction and interdependence network of the law using data from large-scale Japanese court judgments,Ryoma Kondo and Takahiro Yoshida and Ryohei Hisano,2022,0,Artificial Intelligence and Law
 10.1023/a:1008327629468,n.m.,Arno R. Lodder,2000,4,Artificial Intelligence and Law
 10.1023/a:1019511830613,n.m.,Carole D. Hafner and Edwina L. Rissland,2002,1,Artificial Intelligence and Law
@@ -276,8 +273,8 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1023/a:1019543817123,n.m.,Edwina L. Rissland and Kevin D. Ashley,2002,23,Artificial Intelligence and Law
 10.1007/s10506-012-9122-y,Introduction to special issue on modelling Popov v. Hayashi,Katie Atkinson,2012,17,Artificial Intelligence and Law
 10.1023/b:arti.0000046005.10529.47,Normative Systems and their Revision: An Algebraic Approach,Lars Lindahl and Jan Odelstad,2003,8,Artificial Intelligence and Law
-10.1007/s10506-020-09261-5,Modeling law search as prediction,Faraz Dadgostari and Mauricio Guim and Peter A. Beling and Michael A. Livermore and Daniel N. Rockmore,2021,11,Artificial Intelligence and Law
 10.1007/s10506-011-9113-4,Value-based argumentation for justifying compliance,Brigitte Burgemeestre and Joris Hulstijn and Yao-Hua Tan,2011,20,Artificial Intelligence and Law
+10.1007/s10506-009-9077-9,Automatically classifying case texts and predicting outcomes,Kevin D. Ashley and Stefanie Brüninghaus,2009,78,Artificial Intelligence and Law
 10.1007/s10506-012-9137-4,Legal stories and the process of proof,Floris Bex and Bart Verheij,2013,13,Artificial Intelligence and Law
 10.1007/s10506-018-9231-3,Maintainable process model driven online legal expert systems,Johannes Dimyadi and Sam Bookman and David Harvey and Robert Amor,2019,3,Artificial Intelligence and Law
 10.1023/a:1011271122687,n.m.,Luuk Matthijssen,2001,2,Artificial Intelligence and Law
@@ -290,21 +287,26 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10506-005-4163-0,Towards a Financial Fraud Ontology: A Legal Modelling Approach,John Kingston and Burkhard Schafer and Wim Vandenberghe,2004,21,Artificial Intelligence and Law
 10.1007/s10506-009-9078-8,PADUA: a protocol for argumentation dialogue using association rules,Maya Wardeh and Trevor Bench-Capon and Frans Coenen,2009,20,Artificial Intelligence and Law
 10.1007/s10506-006-9002-4,Argument Based Machine Learning Applied to Law,Martin Možina and Jure Žabkar and Trevor Bench-Capon and Ivan Bratko,2005,24,Artificial Intelligence and Law
+10.1007/s10506-017-9210-0,On the problem of making autonomous vehicles conform to traffic law,Henry Prakken,2017,47,Artificial Intelligence and Law
 10.1007/s10506-005-5081-x,Deontic logics for prioritized imperatives,Jörg Hansen,2007,14,Artificial Intelligence and Law
 10.1007/s10506-007-9038-0,Automatic Classification of Provisions in Legislative Texts,E. Francesconi and A. Passerini,2007,26,Artificial Intelligence and Law
 10.1007/s10506-007-9037-1,Ontologies and reasoning techniques for (legal) intelligent information retrieval systems,Gian Piero Zarri,2007,6,Artificial Intelligence and Law
 10.1007/s10506-005-4159-9,Ontologies of Professional Legal Knowledge as the Basis for Intelligent IT Support for Judges,V. R. Benjamins and J. Contreras and P. Casanovas and M. Ayuso and M. Becue and L. Lemus and C. Urios,2004,16,Artificial Intelligence and Law
-10.1007/s10506-016-9182-5,Using sensitive personal data may be necessary for avoiding discrimination in data-driven decision models,Indrė Žliobaitė and Bart Custers,2016,55,Artificial Intelligence and Law
-10.1007/s10506-017-9210-0,On the problem of making autonomous vehicles conform to traffic law,Henry Prakken,2017,47,Artificial Intelligence and Law
 10.1007/s10506-012-9125-8,A factor-based definition of precedential constraint,John F. Horty and Trevor J. M. Bench-Capon,2012,43,Artificial Intelligence and Law
-10.1007/s10506-013-9152-0,Better decision support through exploratory discrimination-aware data mining: foundations and empirical evidence,Bettina Berendt and Sören Preibusch,2014,21,Artificial Intelligence and Law
 10.1023/a:1017941929299,n.m.,Ronald J. Allen,2001,14,Artificial Intelligence and Law
-10.1007/s10506-018-9238-9,Deep learning in law: early adaptation and legal word embeddings trained on large corpora,Ilias Chalkidis and Dimitrios Kampas,2019,52,Artificial Intelligence and Law
+10.1007/s10506-021-09287-3,Clustering of Brazilian legal judgments about failures in air transport service: an evaluation of different approaches,Isabela Cristina Sabo and Thiago Raulino Dal Pont and Pablo Ernesto Vigneaux Wilton and Aires José Rover and Jomi Fred Hübner,2022,2,Artificial Intelligence and Law
+10.1007/s10506-021-09297-1,PRILJ: an efficient two-step method based on embedding and clustering for the identification of regularities in legal case judgments,Graziella De Martino and Gianvito Pio and Michelangelo Ceci,2022,5,Artificial Intelligence and Law
+10.1007/s10506-013-9152-0,Better decision support through exploratory discrimination-aware data mining: foundations and empirical evidence,Bettina Berendt and Sören Preibusch,2014,21,Artificial Intelligence and Law
 10.1007/s10506-005-4160-3,Using NLP Techniques to Identify Legal Ontology Components: Concepts and Relations,Guiraude Lame,2004,20,Artificial Intelligence and Law
-10.1007/s10506-009-9077-9,Automatically classifying case texts and predicting outcomes,Kevin D. Ashley and Stefanie Brüninghaus,2009,78,Artificial Intelligence and Law
-10.1007/s10506-019-09255-y,Using machine learning to predict decisions of the European Court of Human Rights,Masha Medvedeva and Michel Vols and Martijn Wieling,2020,92,Artificial Intelligence and Law
-10.1007/s10506-008-9070-8,An ontology in OWL for legal case-based reasoning,Adam Wyner,2008,31,Artificial Intelligence and Law
-10.1007/s10506-023-09351-0,A formalization of the Protagoras court paradox in a temporal logic of epistemic and normative reasons,Meghdad Ghari,2023,0,Artificial Intelligence and Law
+10.1007/s10506-023-09353-y,The use of AI in legal systems: determining independent contractor vs. employee status,Maxime C. Cohen and Samuel Dahan and Warut Khern-am-nuai and Hajime Shimao and Jonathan Touboul,2023,0,Artificial Intelligence and Law
+10.1007/s10506-018-9238-9,Deep learning in law: early adaptation and legal word embeddings trained on large corpora,Ilias Chalkidis and Dimitrios Kampas,2019,52,Artificial Intelligence and Law
+10.1007/s10506-008-9070-8,An ontology in OWL for legal case-based reasoning,Adam Wyner,2008,32,Artificial Intelligence and Law
+10.1007/s10506-019-09255-y,Using machine learning to predict decisions of the European Court of Human Rights,Masha Medvedeva and Michel Vols and Martijn Wieling,2020,93,Artificial Intelligence and Law
+10.1007/s10506-016-9182-5,Using sensitive personal data may be necessary for avoiding discrimination in data-driven decision models,Indrė Žliobaitė and Bart Custers,2016,56,Artificial Intelligence and Law
+10.1007/s10506-022-09322-x,Definitions of intent suitable for algorithms,Hal Ashton,2022,1,Artificial Intelligence and Law
+10.1007/s10506-011-9105-4,A model of juridical acts: part 1: the world of law,Jaap Hage,2011,14,Artificial Intelligence and Law
+10.1007/s10506-021-09295-3,Logical English meets legal English for swaps and derivatives,Robert Kowalski and Akber Datoo,2022,6,Artificial Intelligence and Law
+10.1007/s10506-017-9215-8,Norms modeling constructs of business process compliance management frameworks: a conceptual evaluation,Mustafa Hashmi and Guido Governatori,2018,11,Artificial Intelligence and Law
 10.1023/a:1011200909212,n.m.,Joseph S. Fulda,2001,3,Artificial Intelligence and Law
 10.1023/a:1008345320940,n.m.,Gerard A.W. Vreeswijk,2000,1,Artificial Intelligence and Law
 10.1007/s10506-007-9045-1,Normative-informational positions: a modal-logical approach,Andrew J. I. Jones and Xavier Parent,2008,1,Artificial Intelligence and Law
@@ -312,9 +314,7 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10506-005-6742-5,AI and the Conquest of Complexity in Law,L. Wolfgang Bibel,2004,9,Artificial Intelligence and Law
 10.1023/a:1008347201300,n.m.,Michael Aikenhead,2000,0,Artificial Intelligence and Law
 10.1007/s10506-022-09338-3,Towards a simple mathematical model for the legal concept of balancing of interests,Frederike Zufall and Rampei Kimura and Linyu Peng,2022,0,Artificial Intelligence and Law
-10.1007/s10506-016-9178-1,A methodology for designing systems to reason with legal cases using Abstract Dialectical Frameworks,Latifa Al-Abdulkarim and Katie Atkinson and Trevor Bench-Capon,2016,32,Artificial Intelligence and Law
 10.1007/s10506-021-09284-6,A formal analysis of some factor- and precedent-based accounts of precedential constraint,Henry Prakken,2021,6,Artificial Intelligence and Law
-10.1007/s10506-018-9236-y,Unsupervised and supervised text similarity systems for automated identification of national implementing measures of European directives,Rohan Nanda and Giovanni Siragusa and Luigi Di Caro and Guido Boella and Lorenzo Grossio and Marco Gerbaudo and Francesco Costamagna,2019,14,Artificial Intelligence and Law
 10.1007/s10506-018-9230-4,Consistent pathway analysis: a structured analytic method,Lee Tobin and Pavel Gladyshev,2019,0,Artificial Intelligence and Law
 10.1007/s10506-011-9110-7,"Relationships between obligations and actions in the context of institutional agents, human agents or software agents",Robert Demolombe,2011,3,Artificial Intelligence and Law
 10.1007/s10506-017-9202-0,Dynamic epistemic logic of belief change in legal judgments,Pimolluck Jirakunkanok and Katsuhiko Sano and Satoshi Tojo,2018,0,Artificial Intelligence and Law
@@ -322,9 +322,7 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10506-007-9033-5,Commonsense Causal Explanation in a Legal Domain,Rinke Hoekstra and Joost Breuker,2007,8,Artificial Intelligence and Law
 10.1007/s10506-021-09302-7,Algorithmic disclosure rules,Fabiana Di Porto,2023,1,Artificial Intelligence and Law
 10.1007/s10506-022-09308-9,Black is the new orange: how to determine AI liability,Paulo Henrique Padovan and Clarice Marinho Martins and Chris Reed,2023,0,Artificial Intelligence and Law
-10.1007/s10506-019-09251-2,Introduction for artificial intelligence and law: special issue “natural language processing for legal texts”,Livio Robaldo and Serena Villata and Adam Wyner and Matthias Grabmair,2019,8,Artificial Intelligence and Law
 10.1007/s10506-010-9096-6,E-Discovery revisited: the need for artificial intelligence beyond information retrieval,Jack G. Conrad,2010,8,Artificial Intelligence and Law
-10.1023/a:1013824413224,n.m.,Kathryn E. Sanders,2001,2,Artificial Intelligence and Law
 10.1023/a:1008344203269,n.m.,Eveline T. Feteris,2000,4,Artificial Intelligence and Law
 10.1007/s10506-019-09257-w,Interactive virtue and vice in systems of arguments: a logocratic analysis,Scott Brewer,2020,0,Artificial Intelligence and Law
 10.1023/b:arti.0000013333.96215.a9,Is there a Burden of Questioning?,Douglas Walton,2003,12,Artificial Intelligence and Law
@@ -336,18 +334,21 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10506-018-9237-x,Judicial analytics and the great transformation of American Law,Daniel L. Chen,2019,10,Artificial Intelligence and Law
 10.1007/s10506-021-09290-8,A quantitative approach to ranking corporate law precedents in the Brazilian Superior Court of Justice,José Luiz Nunes and Ivar A. Hartmann,2022,0,Artificial Intelligence and Law
 10.1007/s10506-008-9062-8,A multi-agent legal recommender system,Lucas Drumond and Rosario Girardi,2008,7,Artificial Intelligence and Law
+10.1007/s10506-017-9211-z,The Ethical Knob: ethically-customisable automated vehicles and the law,Giuseppe Contissa and Francesca Lagioia and Giovanni Sartor,2017,59,Artificial Intelligence and Law
 10.1007/s10506-020-09279-9,Who is obliged when many are involved? Labelled transition system modelling of how obligation arises,Piotr Kulicki and Robert Trypuz and Marek Sergot,2020,0,Artificial Intelligence and Law
 10.1023/a:1011288805074,n.m.,John F. Horty,2001,21,Artificial Intelligence and Law
 10.1007/s10506-012-9133-8,"Incorporating institutions, norms and territories in a generic model to simulate the management of renewable resources",Sigrid Aubert and Jean-Pierre Müller,2013,4,Artificial Intelligence and Law
 10.1007/s10506-006-9019-8,Book Review,Heiner Stuckenschmidt,2007,0,Artificial Intelligence and Law
 10.1007/s10506-006-9000-6,Suitable Properties for Any Electronic Voting System,Jean-Luc Koning and Didier Dubois,2007,1,Artificial Intelligence and Law
 10.1007/s10506-015-9163-0,On balance,Marc Lauritsen,2015,16,Artificial Intelligence and Law
-10.1007/s10506-016-9192-3,"Legal personality of robots, corporations, idols and chimpanzees: a quest for legitimacy",S. M. Solaiman,2017,58,Artificial Intelligence and Law
 10.1007/s10506-016-9188-z,"Cognitive computing and proposed approaches to conceptual organization of case law knowledge bases: a proposed model for information preparation, indexing, and analysis",Amie Taal and James A. Sherer and Kerri-Ann Bent and Emily R. Fedeles,2016,1,Artificial Intelligence and Law
 10.1007/s10506-022-09325-8,Thirty years of Artificial Intelligence and Law: Editor’s Introduction,Trevor Bench-Capon,2022,0,Artificial Intelligence and Law
+10.1007/s10506-018-9236-y,Unsupervised and supervised text similarity systems for automated identification of national implementing measures of European directives,Rohan Nanda and Giovanni Siragusa and Luigi Di Caro and Guido Boella and Lorenzo Grossio and Marco Gerbaudo and Francesco Costamagna,2019,15,Artificial Intelligence and Law
+10.1007/s10506-017-9204-y,Network approach to the French system of legal codes part II: the role of the weights in a network,Romain Boulet and Pierre Mazzega and Danièle Bourcier,2018,10,Artificial Intelligence and Law
 10.1007/s10506-008-9073-5,Understanding the law: improving legal knowledge dissemination by translating the contents of formal sources of law,Laurens Mommers and Wim Voermans and Wouter Koelewijn and Hugo Kielman,2009,7,Artificial Intelligence and Law
 10.1023/a:1025450828280,n.m.,John Zeleznikow,2002,5,Artificial Intelligence and Law
 10.1007/s10506-021-09285-5,Compliance-aware engineering process plans: the case of space software engineering processes,Julieth Patricia Castellanos-Ardila and Barbara Gallina and Guido Governatori,2021,5,Artificial Intelligence and Law
+10.1007/s10506-019-09251-2,Introduction for artificial intelligence and law: special issue “natural language processing for legal texts”,Livio Robaldo and Serena Villata and Adam Wyner and Matthias Grabmair,2019,8,Artificial Intelligence and Law
 10.1007/s10506-015-9162-1,Legal retrieval as support to eMediation: matching disputant’s case and court decisions,Soufiane El Jelali and Elisabetta Fersini and Enza Messina,2015,9,Artificial Intelligence and Law
 10.1007/s10506-017-9193-x,Data-centric and logic-based models for automated legal problem solving,L. Karl Branting,2017,31,Artificial Intelligence and Law
 10.1007/s10506-007-9058-9,Building computational institutions for agents with RoleX,Giacomo Cabri and Luca Ferrari and Rossella Rubino,2008,2,Artificial Intelligence and Law
@@ -355,28 +356,29 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1023/a:1025441728937,n.m.,Dennis M. Kennedy and Marc Lauritsen and Anja Oskamp,2002,2,Artificial Intelligence and Law
 10.1007/s10506-014-9157-3,On modelling non-probabilistic uncertainty in the likelihood ratio approach to evidential reasoning,Jeroen Keppens,2014,8,Artificial Intelligence and Law
 10.1007/s10506-007-9035-3,An ontology of physical causation as a basis for assessing causation in fact and attributing legal responsibility,Jos Lehmann and Aldo Gangemi,2007,10,Artificial Intelligence and Law
-10.1007/s10506-017-9204-y,Network approach to the French system of legal codes part II: the role of the weights in a network,Romain Boulet and Pierre Mazzega and Danièle Bourcier,2018,10,Artificial Intelligence and Law
-10.1007/s10506-011-9107-2,The mathematics of patent claim analysis,Zsófia Kacsuk,2011,3,Artificial Intelligence and Law
 10.1007/s10506-017-9212-y,"Robot sex and consent: Is consent to sex between a robot and a human conceivable, possible, and desirable?",Lily Frank and Sven Nyholm,2017,36,Artificial Intelligence and Law
 10.1023/b:arti.0000046009.10530.fd,Legal logic? Or can we do without?,Arend Soeteman,2003,2,Artificial Intelligence and Law
 10.1007/s10506-022-09329-4,Thirty years of Artificial Intelligence and Law: the first decade,Guido Governatori and Trevor Bench-Capon and Bart Verheij and Michał Araszkiewicz and Enrico Francesconi and Matthias Grabmair,2022,2,Artificial Intelligence and Law
 10.1007/s10506-018-9220-6,Research in progress: report on the ICAIL 2017 doctoral consortium,Maria Dymitruk and Réka Markovich and Rūta Liepiņa and Mirna El Ghosh and Robert van Doesburg and Guido Governatori and Bart Verheij,2018,2,Artificial Intelligence and Law
-10.1007/s10506-019-09241-4,An axiomatic characterization of temporalised belief revision in the law,Luciano H. Tamargo and Diego C. Martinez and Antonino Rotolo and Guido Governatori,2019,3,Artificial Intelligence and Law
 10.1007/s10506-019-09242-3,Building a corpus of legal argumentation in Japanese judgement documents: towards structure-based summarisation,Hiroaki Yamada and Simone Teufel and Takenobu Tokunaga,2019,6,Artificial Intelligence and Law
 10.1007/s10506-009-9082-z,Meta-relation and ontology closure in Conceptual Structure Theory,Philip H. P. Nguyen and Ken Kaneiwa and Dan R. Corbett and Minh-Quang Nguyen,2009,2,Artificial Intelligence and Law
 10.1007/s10506-007-9060-2,A transdisciplinary ontology of innovation governance,Wendy Ann Adams,2008,9,Artificial Intelligence and Law
 10.1023/a:1017995916308,n.m.,Solomon Eyal Shimony and Ephraim Nissan,2001,12,Artificial Intelligence and Law
 10.1007/s10506-010-9102-z,"Similarity, precedent and argument from analogy",Douglas Walton,2010,23,Artificial Intelligence and Law
 10.1007/s10506-019-09243-2,CLAUDETTE: an automated detector of potentially unfair clauses in online terms of service,Marco Lippi and Przemysław Pałka and Giuseppe Contissa and Francesca Lagioia and Hans-Wolfgang Micklitz and Giovanni Sartor and Paolo Torroni,2019,30,Artificial Intelligence and Law
-10.1007/s10506-017-9211-z,The Ethical Knob: ethically-customisable automated vehicles and the law,Giuseppe Contissa and Francesca Lagioia and Giovanni Sartor,2017,59,Artificial Intelligence and Law
 10.1007/s10506-020-09266-0,Artificial intelligence as law,Bart Verheij,2020,15,Artificial Intelligence and Law
 10.1023/b:arti.0000046011.13621.08,Law and Defeasibility,Jaap Hage,2003,13,Artificial Intelligence and Law
+10.1007/s10506-004-1908-0,Good faith and fair dealing in contracts formed and performed by electronic agents,Emily M. Weitzenb�ck,2004,4,Artificial Intelligence and Law
 10.1007/s10506-011-9109-0,Obligations and prohibitions in Talmudic deontic logic,M. Abraham and D. M. Gabbay and U. Schild,2011,7,Artificial Intelligence and Law
 10.1023/a:1011219731903,n.m.,Audun Jøsang and Viggo A. Bondi,2001,21,Artificial Intelligence and Law
 10.1007/s10506-007-9042-4,Separating law from Geography in GIS-based eGovernment services,Alexander Boer and Tom van Engers and Rob Peters and Radboud Winkels,2007,9,Artificial Intelligence and Law
 10.1007/s10506-014-9158-2,A description logic framework for advanced accessing and reasoning over normative provisions,Enrico Francesconi,2014,10,Artificial Intelligence and Law
-10.1007/s10506-004-1908-0,Good faith and fair dealing in contracts formed and performed by electronic agents,Emily M. Weitzenb�ck,2004,4,Artificial Intelligence and Law
+10.1007/s10506-011-9107-2,The mathematics of patent claim analysis,Zsófia Kacsuk,2011,3,Artificial Intelligence and Law
 10.1007/s10506-015-9172-z,"On transparent law, good legislation and accessibility to legal information: Towards an integrated legal information system",Doris Liebwald,2015,6,Artificial Intelligence and Law
+10.1007/s10506-016-9178-1,A methodology for designing systems to reason with legal cases using Abstract Dialectical Frameworks,Latifa Al-Abdulkarim and Katie Atkinson and Trevor Bench-Capon,2016,33,Artificial Intelligence and Law
+10.1023/a:1013824413224,n.m.,Kathryn E. Sanders,2001,3,Artificial Intelligence and Law
+10.1007/s10506-019-09241-4,An axiomatic characterization of temporalised belief revision in the law,Luciano H. Tamargo and Diego C. Martinez and Antonino Rotolo and Guido Governatori,2019,3,Artificial Intelligence and Law
+10.1007/s10506-016-9192-3,"Legal personality of robots, corporations, idols and chimpanzees: a quest for legitimacy",S. M. Solaiman,2017,59,Artificial Intelligence and Law
 10.1007/s10506-016-9185-2,Contract automata,Shaun Azzopardi and Gordon J. Pace and Fernando Schapachnik and Gerardo Schneider,2016,14,Artificial Intelligence and Law
 10.1007/s10506-020-09263-3,Information extraction framework to build legislation network,Neda Sakhaee and Mark C. Wilson,2021,6,Artificial Intelligence and Law
 10.1007/s10506-021-09307-2,Counterfactuals for causal responsibility in legal contexts,Holger Andreas and Matthias Armgardt and Mario Gunther,2023,0,Artificial Intelligence and Law
@@ -387,7 +389,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10506-010-9103-y,The use of legal software by non-lawyers and the perils of unauthorised practice of law charges in the United States: a review of Jayson Reynoso decision,Taiwo A. Oriola,2010,3,Artificial Intelligence and Law
 10.1007/s10506-007-9046-0,Contracting agents: legal personality and representation,Francisco Andrade and Paulo Novais and José Machado and José Neves,2007,24,Artificial Intelligence and Law
 10.1023/a:1017918122669,n.m.,Ephraim Nissan,2001,9,Artificial Intelligence and Law
-10.1023/a:1011297104922,n.m.,Marie-Francine Moens,2001,38,Artificial Intelligence and Law
 10.1023/b:arti.0000013403.91418.92,"Ethan Katsh and Janet Rifkin, Online Dispute Resolution, Resolving Conflicts in Cyberspace.",Stephanie H. Bol,2003,3,Artificial Intelligence and Law
 10.1007/s10506-007-9040-6,Seeing the point of politics: exploring the use of CSAV techniques as aids to understanding the content of political debates in the Scottish Parliament,Alastair Renton,2007,3,Artificial Intelligence and Law
 10.1007/s10506-007-9031-7,DARES: Documents annotation and recombining system—Application to the European law,Fady Farah and François Rousselot,2007,3,Artificial Intelligence and Law
@@ -397,25 +398,27 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10506-008-9065-5,Regulation retrieval using industry specific taxonomies,Chin Pang Cheng and Gloria T. Lau and Kincho H. Law and Jiayi Pan and Albert Jones,2008,19,Artificial Intelligence and Law
 10.1007/s10506-014-9161-7,Building Bayesian networks for legal evidence with narratives: a case study evaluation,Charlotte S. Vlek and Henry Prakken and Silja Renooij and Bart Verheij,2014,27,Artificial Intelligence and Law
 10.1007/s10506-015-9165-y,A process model for information retrieval context learning and knowledge discovery,Harvey Hyman and Terry Sincich and Rick Will and Manish Agrawal and Balaji Padmanabhan and Warren Fridy,2015,7,Artificial Intelligence and Law
-10.1007/s10506-006-9001-5,PARMENIDES: Facilitating Deliberation in Democracies,Katie Atkinson and Trevor Bench-Capon and Peter McBurney,2007,22,Artificial Intelligence and Law
 10.1023/a:1008394704101,n.m.,Ronald Leenes,2000,0,Artificial Intelligence and Law
 10.1007/s10506-010-9097-5,Norm-system revision: theory and application,Audun Stolpe,2010,10,Artificial Intelligence and Law
 10.1023/a:1008338019879,n.m.,Jaap Hage,2000,1,Artificial Intelligence and Law
 10.1007/s10506-006-8204-0,Contents of Volume 12,,2004,0,Artificial Intelligence and Law
-10.1007/s10506-019-09248-x,Proof beyond a context-relevant doubt. A structural analysis of the standard of proof in criminal adjudication,Kyriakos N. Kotsoglou,2020,0,Artificial Intelligence and Law
 10.1007/s10506-022-09340-9,Traffic rules compliance checking of automated vehicle maneuvers,Hanif Bhuiyan and Guido Governatori and Andy Bond and Andry Rakotonirainy,2023,0,Artificial Intelligence and Law
 10.1007/s10506-014-9155-5,"“I am Spartacus”: privacy enhancing technologies, collaborative obfuscation and privacy as a public good",Zbigniew Kwecka and William Buchanan and Burkhard Schafer and Judith Rauhofer,2014,5,Artificial Intelligence and Law
-10.1007/s10506-022-09337-4,Judicial knowledge-enhanced magnitude-aware reasoning for numerical legal judgment prediction,Sheng Bi and Zhiyao Zhou and Lu Pan and Guilin Qi,2022,0,Artificial Intelligence and Law
-10.1007/s10506-010-9099-3,Network-based filtering for large email collections in E-Discovery,Hans Henseler,2010,9,Artificial Intelligence and Law
 10.1023/a:1011242531937,n.m.,Abdul Paliwala,2001,3,Artificial Intelligence and Law
 10.1007/s10506-015-9174-x,Modelling compliance risk: a structured approach,Samson Esayas and Tobias Mahler,2015,3,Artificial Intelligence and Law
 10.1007/s10506-004-0511-8,Electronic agents and intellectual property law,Jon Bing,2004,2,Artificial Intelligence and Law
+10.1007/s10506-022-09337-4,Judicial knowledge-enhanced magnitude-aware reasoning for numerical legal judgment prediction,Sheng Bi and Zhiyao Zhou and Lu Pan and Guilin Qi,2022,0,Artificial Intelligence and Law
+10.1007/s10506-010-9099-3,Network-based filtering for large email collections in E-Discovery,Hans Henseler,2010,9,Artificial Intelligence and Law
+10.1007/s10506-006-9001-5,PARMENIDES: Facilitating Deliberation in Democracies,Katie Atkinson and Trevor Bench-Capon and Peter McBurney,2007,22,Artificial Intelligence and Law
 10.1007/s10506-021-09296-2,A sequence labeling model for catchphrase identification from legal case documents,Arpan Mandal and Kripabandhu Ghosh and Saptarshi Ghosh and Sekhar Mandal,2022,4,Artificial Intelligence and Law
 10.1023/a:1017946130207,n.m.,Antonio A. Martin and Ephraim Nissan,2001,4,Artificial Intelligence and Law
 10.1007/s10506-022-09316-9,Measuring coherence with Bayesian networks,Alicja Kowalewska and Rafal Urbaniak,2022,0,Artificial Intelligence and Law
 10.1007/s10506-022-09318-7,A computational model of facilitation in online dispute resolution,Karl Branting and Sarah McLeod and Sarah Howell and Brandy Weiss and Brett Profitt and James Tanner and Ian Gross and David Shin,2022,0,Artificial Intelligence and Law
 10.1007/s10506-022-09324-9,Thirty years of Artificial Intelligence and Law: overviews,Michał Araszkiewicz and Trevor Bench-Capon and Enrico Francesconi and Marc Lauritsen and Antonino Rotolo,2022,1,Artificial Intelligence and Law
 10.1007/s10506-008-9067-3,How to integrate legal requirements into a requirements engineering methodology for the development of security and privacy patterns,Luca Compagna and Paul El Khoury and Alžběta Krausová and Fabio Massacci and Nicola Zannone,2009,33,Artificial Intelligence and Law
+10.1007/s10506-023-09346-x,Correction: Using attention methods to predict judicial outcomes,Vithor Gomes Ferreira Bertalan and Evandro Eduardo Seron Ruiz,2023,0,Artificial Intelligence and Law
+10.1007/s10506-022-09342-7,Using attention methods to predict judicial outcomes,Vithor Gomes Ferreira Bertalan and Evandro Eduardo Seron Ruiz,2022,0,Artificial Intelligence and Law
+10.1023/b:arti.0000046007.11806.9a,Towards a Formal Account of Reasoning about Evidence: Argumentation Schemes and Generalisations,Floris Bex and Henry Prakken and Chris Reed and Douglas Walton,2003,117,Artificial Intelligence and Law
 10.1007/s10506-006-9010-4,Preface,Arno R. Lodder and John Zeleznikow,2005,2,Artificial Intelligence and Law
 10.1007/s10506-007-9048-y,An interpretation of probability in the law of evidence based on pro-et-contra argumentation,Lennart Åqvist,2007,2,Artificial Intelligence and Law
 10.1007/s10506-013-9147-x,Calculating and understanding the value of any type of match evidence when there are potential testing errors,Norman Fenton and Martin Neil and Anne Hsu,2014,16,Artificial Intelligence and Law
@@ -423,25 +426,24 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10506-010-9090-z,A new tangible user interface for machine learning document review,Caroline Privault and Jacki O’Neill and Victor Ciriza and Jean-Michel Renders,2010,6,Artificial Intelligence and Law
 10.1007/s10506-012-9136-5,Modeling the forensic two-trace problem with Bayesian networks,Simone Gittelson and Alex Biedermann and Silvia Bozza and Franco Taroni,2013,14,Artificial Intelligence and Law
 10.1007/s10506-023-09345-y,A sentence is known by the company it keeps: Improving Legal Document Summarization Using Deep Clustering,Deepali Jain and Malaya Dutta Borah and Anupam Biswas,2023,0,Artificial Intelligence and Law
+10.1007/s10506-018-9232-2,Normative decision analysis in forensic science,A. Biedermann and S. Bozza and F. Taroni,2020,7,Artificial Intelligence and Law
 10.1023/a:1019544429704,n.m.,,2002,2,Artificial Intelligence and Law
 10.1007/s10506-007-9057-x,From human regulations to regulated software agents’ behavior,Javier Vázquez-Salceda and Huib Aldewereld and Davide Grossi and Frank Dignum,2008,22,Artificial Intelligence and Law
 10.1007/s10506-016-9177-2,A policy-based B2C e-Contract management workflow methodology using semantic web agents,Kalliopi Kravari and Nick Bassiliades and Guido Governatori,2016,6,Artificial Intelligence and Law
+10.1007/s10506-019-09250-3,Modelling competing legal arguments using Bayesian model comparison and averaging,Martin Neil and Norman Fenton and David Lagnado and Richard David Gill,2019,9,Artificial Intelligence and Law
+10.1007/s10506-017-9203-z,Ontology-based information extraction for juridical events with case studies in Brazilian legal realm,Denis Andrei de Araujo and Sandro José Rigo and Jorge Luis Victória Barbosa,2017,13,Artificial Intelligence and Law
+10.1007/s10506-010-9095-7,Doing justice to rights and values: teleological reasoning and proportionality,Giovanni Sartor,2010,37,Artificial Intelligence and Law
+10.1007/s10506-021-09286-4,A review of predictive policing from the perspective of fairness,Kiana Alikhademi and Emma Drobina and Diandra Prioleau and Brianna Richardson and Duncan Purves and Juan E. Gilbert,2022,8,Artificial Intelligence and Law
 10.1007/s10506-006-9016-y,An empirical investigation of reasoning with legal cases through theory construction and application,Alison Chorley and Trevor Bench-Capon,2007,14,Artificial Intelligence and Law
 10.1007/s10506-009-9083-y,Teaching a process model of legal argument with hypotheticals,Kevin D. Ashley,2009,7,Artificial Intelligence and Law
 10.1007/s10506-021-09294-4,Preserving the rule of law in the era of artificial intelligence (AI),Stanley Greenstein,2022,9,Artificial Intelligence and Law
 10.1007/s10506-023-09349-8,Ensemble methods for improving extractive summarization of legal case judgements,Aniket Deroy and Kripabandhu Ghosh and Saptarshi Ghosh,2023,0,Artificial Intelligence and Law
-10.1007/s10506-023-09346-x,Correction: Using attention methods to predict judicial outcomes,Vithor Gomes Ferreira Bertalan and Evandro Eduardo Seron Ruiz,2023,0,Artificial Intelligence and Law
-10.1007/s10506-022-09342-7,Using attention methods to predict judicial outcomes,Vithor Gomes Ferreira Bertalan and Evandro Eduardo Seron Ruiz,2022,0,Artificial Intelligence and Law
-10.1007/s10506-020-09280-2,Unsupervised approaches for measuring textual similarity between legal court case reports,Arpan Mandal and Kripabandhu Ghosh and Saptarshi Ghosh and Sekhar Mandal,2021,15,Artificial Intelligence and Law
-10.1023/b:arti.0000046007.11806.9a,Towards a Formal Account of Reasoning about Evidence: Argumentation Schemes and Generalisations,Floris Bex and Henry Prakken and Chris Reed and Douglas Walton,2003,117,Artificial Intelligence and Law
-10.1007/s10506-018-9232-2,Normative decision analysis in forensic science,A. Biedermann and S. Bozza and F. Taroni,2020,6,Artificial Intelligence and Law
-10.1007/s10506-006-9013-1,Developing Negotiation Decision Support Systems that Support Mediators: A Case Study of the Family_Winner System,Emilia Bellucci and John Zeleznikow,2005,49,Artificial Intelligence and Law
-10.1007/s10506-019-09250-3,Modelling competing legal arguments using Bayesian model comparison and averaging,Martin Neil and Norman Fenton and David Lagnado and Richard David Gill,2019,9,Artificial Intelligence and Law
-10.1007/s10506-017-9203-z,Ontology-based information extraction for juridical events with case studies in Brazilian legal realm,Denis Andrei de Araujo and Sandro José Rigo and Jorge Luis Victória Barbosa,2017,13,Artificial Intelligence and Law
-10.1007/s10506-010-9095-7,Doing justice to rights and values: teleological reasoning and proportionality,Giovanni Sartor,2010,37,Artificial Intelligence and Law
 10.1007/s10506-020-09275-z,Modifying the reason model,John Horty,2021,5,Artificial Intelligence and Law
 10.1007/s10506-010-9089-5,Integrating induction and deduction for finding evidence of discrimination,Salvatore Ruggieri and Dino Pedreschi and Franco Turini,2010,14,Artificial Intelligence and Law
 10.1007/s10506-020-09274-0,The promise and pitfall of automated text-scaling techniques for the analysis of jurisprudential change,Arthur Dyevre,2021,2,Artificial Intelligence and Law
-10.1007/s10506-021-09286-4,A review of predictive policing from the perspective of fairness,Kiana Alikhademi and Emma Drobina and Diandra Prioleau and Brianna Richardson and Duncan Purves and Juan E. Gilbert,2022,7,Artificial Intelligence and Law
 10.1007/s10506-022-09327-6,Thirty years of artificial intelligence and law: the third decade,Serena Villata and Michal Araszkiewicz and Kevin Ashley and Trevor Bench-Capon and L. Karl Branting and Jack G. Conrad and Adam Wyner,2022,5,Artificial Intelligence and Law
-10.1007/s10506-020-09270-4,Legal requirements on explainability in machine learning,Adrien Bibal and Michael Lognoul and Alexandre de Streel and Benoît Frénay,2021,40,Artificial Intelligence and Law
+10.1023/a:1011297104922,n.m.,Marie-Francine Moens,2001,39,Artificial Intelligence and Law
+10.1007/s10506-020-09280-2,Unsupervised approaches for measuring textual similarity between legal court case reports,Arpan Mandal and Kripabandhu Ghosh and Saptarshi Ghosh and Sekhar Mandal,2021,15,Artificial Intelligence and Law
+10.1007/s10506-020-09270-4,Legal requirements on explainability in machine learning,Adrien Bibal and Michael Lognoul and Alexandre de Streel and Benoît Frénay,2021,41,Artificial Intelligence and Law
+10.1007/s10506-019-09248-x,Proof beyond a context-relevant doubt. A structural analysis of the standard of proof in criminal adjudication,Kyriakos N. Kotsoglou,2020,1,Artificial Intelligence and Law
+10.1007/s10506-006-9013-1,Developing Negotiation Decision Support Systems that Support Mediators: A Case Study of the Family_Winner System,Emilia Bellucci and John Zeleznikow,2005,49,Artificial Intelligence and Law

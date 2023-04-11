@@ -1,16 +1,15 @@
 DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10732-017-9362-9,"Reduction criteria, upper bounds, and a dynamic programming based heuristic for the max–min $$k_i$$ k i -partitioning problem",Alexander Lawrinenko and Stefan Schwerdfeger and Rico Walter,2018,1,Journal of Heuristics
+10.1007/s10732-019-09434-9,On combining variable ordering heuristics for constraint satisfaction problems,Hongbo Li and Guozhong Feng and Minghao Yin,2020,1,Journal of Heuristics
 10.1007/s10732-020-09453-x,A tabu search for the design of capacitated rooted survivable planar networks,Alain Hertz and Thomas Ridremont,2020,0,Journal of Heuristics
 10.1007/s10732-005-0389-y,Bid Evaluation in Procurement Auctions with Piecewise Linear Supply Curves,Marta Eso and Soumyadip Ghosh and Jayant Kalagnanam and Laszlo Ladanyi,2005,7,Journal of Heuristics
 10.1007/s10732-014-9254-1,"Arne Løkketangen: February 2, 1954–June 10, 2013",David Woodruff,2014,0,Journal of Heuristics
-10.1007/s10732-018-9396-7,Sample size estimation for power and accuracy in the experimental comparison of algorithms,Felipe Campelo and Fernanda Takahashi,2019,8,Journal of Heuristics
 10.1007/s10732-014-9241-6,The robust binomial approach to chance-constrained optimization problems with application to stochastic partitioning of large process networks,Oana Stan and Renaud Sirdey and Jacques Carlier and Dritan Nace,2014,2,Journal of Heuristics
 10.1007/s10732-007-9054-y,Simple and fast surrogate constraint heuristics for the maximum independent set problem,Bahram Alidaee and Gary Kochenberger and Haibo Wang,2008,5,Journal of Heuristics
 10.1007/s10732-018-9399-4,Diversification methods for zero-one optimization,Fred Glover and Gary Kochenberger and Weihong Xie and Jianbin Luo,2019,1,Journal of Heuristics
 10.1023/a:1009657525129,n.m.,Eric Rosenberg,2000,1,Journal of Heuristics
 10.1007/s10732-008-9094-y,Local search and genetic algorithm for the job shop scheduling problem with sequence dependent setup times,Camino R. Vela and Ramiro Varela and Miguel A. González,2010,38,Journal of Heuristics
 10.1007/s10732-013-9235-9,An iterated-tabu-search heuristic for a variant of the partial set covering problem,Nehme Bilal and Philippe Galinier and Francois Guibault,2014,13,Journal of Heuristics
-10.1007/s10732-006-6017-7,A tabu search algorithm for solving economic lot scheduling problem,S. A. Raza and A. Akgunduz and M. Y. Chen,2006,16,Journal of Heuristics
 10.1023/b:heur.0000026900.92269.ec,ParadisEO: A Framework for the Reusable Design of Parallel and Distributed Metaheuristics,S. Cahon and N. Melab and E.-G. Talbi,2004,246,Journal of Heuristics
 10.1023/a:1011367930251,n.m.,Márk Jelasity and Pilar Martínez Ortigosa and Inmaculada García,2001,23,Journal of Heuristics
 10.1007/s10732-020-09441-1,Heuristic solutions to robust variants of the minimum-cost integer flow problem,Marko Špoljarec and Robert Manger,2020,0,Journal of Heuristics
@@ -18,50 +17,53 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10732-015-9297-y,A multiple neighborhood search for dynamic memory allocation in embedded systems,María Soto and André Rossi and Marc Sevaux,2015,1,Journal of Heuristics
 10.1007/s10732-007-9030-6,A local linear embedding module for evolutionary computation optimization,Fabio Boschetti,2008,4,Journal of Heuristics
 10.1007/s10732-021-09471-3,Qfold: a new modeling paradigm for the RNA folding problem,Mark W. Lewis and Amit Verma and Todd T. Eckdahl,2021,2,Journal of Heuristics
-10.1023/a:1011301019184,n.m.,Roberto Cordone and Roberto Wolfler Calvo,2001,39,Journal of Heuristics
+10.1007/s10732-019-09431-y,A hybrid genetic algorithm for the traveling salesman problem with drone,Quang Minh Ha and Yves Deville and Quang Dung Pham and Minh Hoàng Hà,2020,62,Journal of Heuristics
+10.1007/s10732-009-9102-x,An evolutionary and constructive approach to a crew scheduling problem in underground passenger transport,Rafael Elizondo and Victor Parada and Lorena Pradenas and Christian Artigues,2010,21,Journal of Heuristics
+10.1007/s10732-018-9403-z,Clustering-driven evolutionary algorithms: an application of path relinking to the quadratic unconstrained binary optimization problem,Michele Samorani and Yang Wang and Yang Wang and Zhipeng Lv and Fred Glover,2019,12,Journal of Heuristics
+10.1007/s10732-006-6017-7,A tabu search algorithm for solving economic lot scheduling problem,S. A. Raza and A. Akgunduz and M. Y. Chen,2006,17,Journal of Heuristics
+10.1007/s10732-015-9282-5,A hybrid genetic algorithm with solution archive for the discrete $$(r|p)$$ ( r | p ) -centroid problem,Benjamin Biesinger and Bin Hu and Günther Raidl,2015,15,Journal of Heuristics
+10.1007/s10732-006-4192-1,Path relinking for the vehicle routing problem,Sin C. Ho and Michel Gendreau,2006,66,Journal of Heuristics
+10.1007/s10732-010-9153-z,Hybridized evolutionary local search algorithm for the team orienteering problem with time windows,Nacima Labadie and Jan Melechovský and Roberto Wolfler Calvo,2011,57,Journal of Heuristics
+10.1007/s10732-007-9009-3,Local search heuristics for Quadratic Unconstrained Binary Optimization (QUBO),Endre Boros and Peter L. Hammer and Gabriel Tavares,2007,77,Journal of Heuristics
+10.1007/s10732-011-9160-8,GRASP strategies for a bi-objective commercial territory design problem,M. Angélica Salazar-Aguilar and Roger Z. Ríos-Mercado and José Luis González-Velarde,2013,25,Journal of Heuristics
+10.1023/a:1011336210885,n.m.,Pierre Hansen and Nenad Mladenović and Dionisio Perez-Britos,2001,193,Journal of Heuristics
 10.1023/a:1009617811016,n.m.,Mario Pickavet and Piet Demeester,2000,5,Journal of Heuristics
 10.1007/s10732-016-9310-0,The hypervolume based directed search method for multi-objective optimization problems,Oliver Schütze and Víctor Adrián Sosa Hernández and Heike Trautmann and Günter Rudolph,2016,12,Journal of Heuristics
 10.1007/s10732-009-9111-9,Heuristics for the central tree problem,Jørgen Bang-Jensen and Yury Nikulin,2010,1,Journal of Heuristics
 10.1007/s10732-021-09474-0,Heuristic-based allocation of supply constrained blood platelets in emerging economies,Fredrik Ødegaard and Sudipendra Nath Roy,2021,0,Journal of Heuristics
+10.1007/s10732-007-9037-z,A fast Pareto genetic algorithm approach for solving expensive multiobjective optimization problems,Hamidreza Eskandari and Christopher D. Geiger,2008,56,Journal of Heuristics
 10.1007/s10732-013-9218-x,The Express heuristic for probabilistically constrained integer problems,Maria Elena Bruni and Patrizia Beraldi and Demetrio Laganà,2013,11,Journal of Heuristics
+10.1007/s10732-007-9063-x,An evaluation of constructive heuristic methods for solving the alternative subgraphs assembly line balancing problem,Liliana Capacho and Rafael Pastor and Alexander Dolgui and Olga Guschinskaya,2009,38,Journal of Heuristics
+10.1007/s10732-020-09445-x,IoT networks 3D deployment using hybrid many-objective optimization algorithms,Sami Mnasri and Nejah Nasri and Malek Alrashidi and Adrien van den Bossche and Thierry Val,2020,25,Journal of Heuristics
 10.1007/s10732-015-9287-0,Heuristics for the local grid scheduling problem with processing time constraints,Lucio Grandinetti and Francesca Guerriero and Luigi Di Puglia Pugliese and Mehdi Sheikhalishahi,2015,3,Journal of Heuristics
-10.1007/s10732-009-9108-4,Multi-objective redundancy allocation optimization using a variable neighborhood search algorithm,Yun-Chia Liang and Min-Hua Lo,2010,50,Journal of Heuristics
 10.1007/s10732-019-09413-0,Cascading failures in complex networks caused by overload attacks,Volker Turau and Christoph Weyer,2019,6,Journal of Heuristics
-10.1007/s10732-019-09431-y,A hybrid genetic algorithm for the traveling salesman problem with drone,Quang Minh Ha and Yves Deville and Quang Dung Pham and Minh Hoàng Hà,2020,61,Journal of Heuristics
 10.1007/s10732-017-9343-z,Scatter search for trainees to software project requirements stable allocation,Mangesh Gharote and Rahul Patil and Sachin Lodha,2017,6,Journal of Heuristics
 10.1007/s10732-018-9374-0,On the empirical scaling of running time for finding optimal solutions to the TSP,Zongxu Mu and Jérémie Dubois-Lacoste and Holger H. Hoos and Thomas Stützle,2018,5,Journal of Heuristics
 10.1007/s10732-009-9118-2,A scatter search based hyper-heuristic for sequencing a mixed-model assembly line,Jaime Cano-Belmán and Roger Z. Ríos-Mercado and Joaquín Bautista,2010,26,Journal of Heuristics
 10.1007/s10732-005-0970-4,New Multiobjective Metaheuristic Solution Procedures for Capital Investment Planning,Christian Stummer and Minghe Sun,2005,32,Journal of Heuristics
-10.1007/s10732-018-9403-z,Clustering-driven evolutionary algorithms: an application of path relinking to the quadratic unconstrained binary optimization problem,Michele Samorani and Yang Wang and Yang Wang and Zhipeng Lv and Fred Glover,2019,11,Journal of Heuristics
 10.1023/a:1022573412940,n.m.,Jean-Marc Labat and Jean-Charles Pomerol,2003,0,Journal of Heuristics
 10.1023/a:1009627527067,n.m.,L. Herault,2000,8,Journal of Heuristics
 10.1007/s10732-014-9267-9,Multiobjective improved spatial fuzzy c-means clustering for image segmentation combining Pareto-optimal clusters,Ahmed Nasreddine Benaichouche and Hamouche Oulhadj and Patrick Siarry,2016,13,Journal of Heuristics
 10.1007/s10732-005-5430-7,Adaptive Reservoir Evolutionary Algorithm: An Evolutionary On-Line Adaptation Scheme for Global Function Optimization,C. Munteanu and A.C. Rosa,2004,2,Journal of Heuristics
 10.1023/a:1009644908290,n.m.,Robert Doverspike and Iraj Saniee,2000,1,Journal of Heuristics
+10.1007/s10732-017-9347-8,Iterated local search for workforce scheduling and routing problems,Fulin Xie and Chris N. Potts and Tolga Bektaş,2017,20,Journal of Heuristics
+10.1007/s10732-008-9076-0,Using scenario trees and progressive hedging for stochastic inventory routing problems,Lars Magnus Hvattum and Arne Løkketangen,2009,68,Journal of Heuristics
+10.1023/a:1011301019184,n.m.,Roberto Cordone and Roberto Wolfler Calvo,2001,39,Journal of Heuristics
 10.1007/s10732-020-09438-w,Pareto-based evolutionary multiobjective approaches and the generalized Nash equilibrium problem,Rodica Ioana Lung and Noémi Gaskó and Mihai Alexandru Suciu,2020,2,Journal of Heuristics
 10.1007/s10732-006-4833-4,Solving the flight perturbation problem with meta heuristics,Tobias Andersson,2006,25,Journal of Heuristics
 10.1007/s10732-015-9291-4,An autofocus heuristic for digital cameras based on supervised machine learning,Hashim Mir and Peter Xu and Rudi Chen and Peter van Beek,2015,10,Journal of Heuristics
-10.1007/s10732-015-9296-z,Solution integration in combinatorial optimization with applications to cooperative search and rich vehicle routing,Nizar El Hachemi and Teodor Gabriel Crainic and Nadia Lahrichi and Walter Rei and Thibaut Vidal,2015,3,Journal of Heuristics
 10.1007/s10732-011-9165-3,A mathematical model and a metaheuristic approach for a memory allocation problem,María Soto and André Rossi and Marc Sevaux,2012,11,Journal of Heuristics
 10.1007/s10732-007-9049-8,Combining variable neighborhood search and estimation of distribution algorithms in the protein side chain placement problem,Roberto Santana and Pedro Larrañaga and José A. Lozano,2008,33,Journal of Heuristics
 10.1007/s10732-010-9141-3,A Bus Driver Scheduling Problem: a new mathematical model and a GRASP approximate solution,Renato De Leone and Paola Festa and Emilia Marchitto,2011,25,Journal of Heuristics
 10.1007/s10732-018-9375-z,Fast algorithms for fragmentable items bin packing,Benjamin Byholm and Ivan Porres,2018,8,Journal of Heuristics
-10.1007/s10732-006-4192-1,Path relinking for the vehicle routing problem,Sin C. Ho and Michel Gendreau,2006,65,Journal of Heuristics
 10.1007/s10732-006-6347-5,A logic of soft constraints based on partially ordered preferences,Nic Wilson,2006,5,Journal of Heuristics
-10.1007/s10732-010-9153-z,Hybridized evolutionary local search algorithm for the team orienteering problem with time windows,Nacima Labadie and Jan Melechovský and Roberto Wolfler Calvo,2011,57,Journal of Heuristics
-10.1007/s10732-016-9316-7,A novel GRASP solution approach for the Orienteering Problem,Morteza Keshtkaran and Koorush Ziarati,2016,9,Journal of Heuristics
 10.1007/s10732-018-9390-0,A reactive GRASP metaheuristic for the container retrieval problem to reduce crane’s working time,Andresson da Silva Firmino and Ricardo Martins de Abreu Silva and Valéria Cesário Times,2019,16,Journal of Heuristics
 10.1007/s10732-007-9015-5,Automated antenna positioning algorithms for wireless fixed-access networks,Yehuda Ben-Shimol and Boaz Ben-Moshe and Yoav Ben-Yehezkel and Amit Dvir and Michael Segal,2007,13,Journal of Heuristics
 10.1007/s10732-017-9329-x,A comprehensive comparison of metaheuristics for the repetition-free longest common subsequence problem,Christian Blum and Maria J. Blesa,2018,9,Journal of Heuristics
-10.1007/s10732-019-09434-9,On combining variable ordering heuristics for constraint satisfaction problems,Hongbo Li and Guozhong Feng and Minghao Yin,2020,1,Journal of Heuristics
 10.1007/s10732-018-9376-y,Achieving fully proportional representation by clustering voters,Piotr Faliszewski and Arkadii Slinko and Kolja Stahl and Nimrod Talmon,2018,4,Journal of Heuristics
 10.1007/s10732-009-9113-7,Solving the musical orchestration problem using multiobjective constrained optimization with a genetic local search approach,Grégoire Carpentier and Gérard Assayag and Emmanuel Saint-James,2010,12,Journal of Heuristics
 10.1007/s10732-017-9345-x,When a worse approximation factor gives better performance: a 3-approximation algorithm for the vertex k-center problem,Jesus Garcia-Diaz and Jairo Sanchez-Hernandez and Ricardo Menchaca-Mendez and Rolando Menchaca-Mendez,2017,7,Journal of Heuristics
 10.1007/s10732-020-09446-w,Distance-guided local search,Daniel Porumbel and Jin-Kao Hao,2020,1,Journal of Heuristics
-10.1023/a:1011336210885,n.m.,Pierre Hansen and Nenad Mladenović and Dionisio Perez-Britos,2001,192,Journal of Heuristics
-10.1007/s10732-012-9212-8,Kernel search for the capacitated facility location problem,G. Guastaroba and M. G. Speranza,2012,36,Journal of Heuristics
-10.1007/s10732-015-9282-5,A hybrid genetic algorithm with solution archive for the discrete $$(r|p)$$ ( r | p ) -centroid problem,Benjamin Biesinger and Bin Hu and Günther Raidl,2015,15,Journal of Heuristics
-10.1007/s10732-007-9063-x,An evaluation of constructive heuristic methods for solving the alternative subgraphs assembly line balancing problem,Liliana Capacho and Rafael Pastor and Alexander Dolgui and Olga Guschinskaya,2009,37,Journal of Heuristics
 10.1007/s10732-014-9239-0,Solving a robotic assembly line balancing problem using efficient hybrid methods,Slim Daoud and Hicham Chehade and Farouk Yalaoui and Lionel Amodeo,2014,37,Journal of Heuristics
 10.1007/s10732-005-6999-6,Heuristics for the Maximum Outerplanar Subgraph Problem,Timo Poranen,2005,2,Journal of Heuristics
 10.1007/s10732-019-09427-8,A comparative study of multi-objective machine reassignment algorithms for data centres,Takfarinas Saber and Xavier Gandibleux and Michael O’Neill and Liam Murphy and Anthony Ventresque,2020,5,Journal of Heuristics
@@ -70,146 +72,144 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10732-006-6550-4,On global warming: Flow-based soft global constraints,Willem-Jan Van Hoeve and Gilles Pesant and Louis-Martin Rousseau,2006,44,Journal of Heuristics
 10.1007/s10732-017-9338-9,A new lot sizing and scheduling heuristic for multi-site biopharmaceutical production,Folarin B. Oyebolu and Jeroen van Lidth de Jeude and Cyrus Siganporia and Suzanne S. Farid and Richard Allmendinger and Juergen Branke,2017,5,Journal of Heuristics
 10.1007/s10732-007-9016-4,Lagrangian heuristics for scheduling new product development projects in the pharmaceutical industry,Vishal A. Varma and Reha Uzsoy and Joseph Pekny and Gary Blau,2007,10,Journal of Heuristics
-10.1007/s10732-011-9180-4,Metaheuristics for robust graph coloring,Fan Wang and Zhou Xu,2013,12,Journal of Heuristics
-10.1007/s10732-011-9177-z,An improved heuristic for the far from most strings problem,Sayyed Rasoul Mousavi and Maryam Babaie and Manizheh Montazerian,2012,19,Journal of Heuristics
+10.1023/a:1011977126230,n.m.,Mohan Krishnamoorthy and Andreas T. Ernst and Yazid M. Sharaiha,2001,78,Journal of Heuristics
 10.1007/s10732-017-9337-x,Finding near-optimal independent sets at scale,Sebastian Lamm and Peter Sanders and Christian Schulz and Darren Strash and Renato F. Werneck,2017,22,Journal of Heuristics
-10.1023/a:1017960507177,n.m.,Jorge Valenzuela and Alice E. Smith,2002,117,Journal of Heuristics
 10.1023/b:heur.0000026267.44673.ed,A Hybrid Improvement Heuristic for the One-Dimensional Bin Packing Problem,Adriana C.F. Alvim and Celso C. Ribeiro and Fred Glover and Dario J. Aloise,2004,87,Journal of Heuristics
 10.1007/s10732-010-9134-2,Boosting distributed constraint satisfaction,Youssef Hamadi and Georg Ringwelski,2011,5,Journal of Heuristics
-10.1007/s10732-009-9102-x,An evolutionary and constructive approach to a crew scheduling problem in underground passenger transport,Rafael Elizondo and Victor Parada and Lorena Pradenas and Christian Artigues,2010,20,Journal of Heuristics
 10.1007/s10732-018-9391-z,Scheduling of mobile robots for transportation and manufacturing tasks,Quang-Vinh Dang and Cong Thanh Nguyen and Hana Rudová,2019,19,Journal of Heuristics
-10.1007/s10732-011-9160-8,GRASP strategies for a bi-objective commercial territory design problem,M. Angélica Salazar-Aguilar and Roger Z. Ríos-Mercado and José Luis González-Velarde,2013,25,Journal of Heuristics
 10.1007/s10732-008-9101-3,An adaptive memory algorithm for the split delivery vehicle routing problem,Rafael E. Aleman and Xinhui Zhang and Raymond R. Hill,2010,24,Journal of Heuristics
 10.1023/a:1009609820093,n.m.,Nesa Ilich and Slobodan P. Simonovic,2001,9,Journal of Heuristics
 10.1007/s10732-020-09462-w,CMSA algorithm for solving the prioritized pairwise test data generation problem in software product lines,Javier Ferrer and Francisco Chicano and José Antonio Ortega-Toro,2021,6,Journal of Heuristics
+10.1007/s10732-021-09480-2,Dynamic pricing with demand disaggregation for hotel revenue management,Andrei M. Bandalouski and Natalja G. Egorova and Mikhail Y. Kovalyov and Erwin Pesch and S. Armagan Tarim,2021,3,Journal of Heuristics
 10.1007/s10732-008-9098-7,ConsNet—A tabu search approach to the spatially coherent conservation area network design problem,Michael Ciarleglio and J. Wesley Barnes and Sahotra Sarkar,2010,17,Journal of Heuristics
-10.1007/s10732-008-9090-2,A multiobjective metaheuristic for a mean-risk multistage capacity investment problem,João Claro and Jorge Pinho de Sousa,2010,14,Journal of Heuristics
 10.1007/s10732-020-09456-8,Vehicle routing for the urgent delivery of face shields during the COVID-19 pandemic,Joaquín Pacheco and Manuel Laguna,2020,20,Journal of Heuristics
 10.1007/s10732-021-09473-1,A balance-first sequence-last algorithm to design RMS: a matheuristic with performance guaranty to balance reconfigurable manufacturing systems,Youssef Lahrichi and Laurent Deroussi and Nathalie Grangeon and Sylvie Norre,2021,1,Journal of Heuristics
-10.1023/a:1015454612213,n.m.,Eric Angel and Vassilis Zissimopoulos,2002,25,Journal of Heuristics
-10.1007/s10732-021-09480-2,Dynamic pricing with demand disaggregation for hotel revenue management,Andrei M. Bandalouski and Natalja G. Egorova and Mikhail Y. Kovalyov and Erwin Pesch and S. Armagan Tarim,2021,2,Journal of Heuristics
-10.1023/a:1011977126230,n.m.,Mohan Krishnamoorthy and Andreas T. Ernst and Yazid M. Sharaiha,2001,78,Journal of Heuristics
-10.1007/s10732-007-9009-3,Local search heuristics for Quadratic Unconstrained Binary Optimization (QUBO),Endre Boros and Peter L. Hammer and Gabriel Tavares,2007,77,Journal of Heuristics
-10.1023/a:1017908523107,n.m.,Fen-Hui Lin and Way Kuo,2002,46,Journal of Heuristics
-10.1007/s10732-017-9347-8,Iterated local search for workforce scheduling and routing problems,Fulin Xie and Chris N. Potts and Tolga Bektaş,2017,20,Journal of Heuristics
+10.1007/s10732-016-9316-7,A novel GRASP solution approach for the Orienteering Problem,Morteza Keshtkaran and Koorush Ziarati,2016,9,Journal of Heuristics
+10.1007/s10732-009-9108-4,Multi-objective redundancy allocation optimization using a variable neighborhood search algorithm,Yun-Chia Liang and Min-Hua Lo,2010,51,Journal of Heuristics
+10.1007/s10732-008-9090-2,A multiobjective metaheuristic for a mean-risk multistage capacity investment problem,João Claro and Jorge Pinho de Sousa,2010,14,Journal of Heuristics
 10.1007/s10732-015-9305-2,Improving degree-based variable ordering heuristics for solving constraint satisfaction problems,Hongbo Li and Yanchun Liang and Ning Zhang and Jinsong Guo and Dong Xu and Zhanshan Li,2016,6,Journal of Heuristics
 10.1007/s10732-008-9077-z,Evolutionary multiobjective optimization in noisy problem environments,Hamidreza Eskandari and Christopher D. Geiger,2009,31,Journal of Heuristics
-10.1007/s10732-020-09445-x,IoT networks 3D deployment using hybrid many-objective optimization algorithms,Sami Mnasri and Nejah Nasri and Malek Alrashidi and Adrien van den Bossche and Thierry Val,2020,24,Journal of Heuristics
+10.1007/s10732-011-9177-z,An improved heuristic for the far from most strings problem,Sayyed Rasoul Mousavi and Maryam Babaie and Manizheh Montazerian,2012,20,Journal of Heuristics
+10.1023/a:1017908523107,n.m.,Fen-Hui Lin and Way Kuo,2002,46,Journal of Heuristics
 10.1007/s10732-019-09415-y,An application of generalised simulated annealing towards the simultaneous modelling and clustering of glaucoma,Mohd Zairul Mazwan Bin Jilani and Allan Tucker and Stephen Swift,2019,2,Journal of Heuristics
-10.1007/s10732-007-9037-z,A fast Pareto genetic algorithm approach for solving expensive multiobjective optimization problems,Hamidreza Eskandari and Christopher D. Geiger,2008,56,Journal of Heuristics
 10.1007/s10732-011-9185-z,GRASP algorithms for the robust railway network design problem,Bosco García-Archilla and Antonio J. Lozano and Juan A. Mesa and Federico Perea,2013,16,Journal of Heuristics
-10.1007/s10732-008-9076-0,Using scenario trees and progressive hedging for stochastic inventory routing problems,Lars Magnus Hvattum and Arne Løkketangen,2009,67,Journal of Heuristics
-10.1007/s10732-019-09419-8,Predicting effective control parameters for differential evolution using cluster analysis of objective function features,Sean P. Walton and M. Rowan Brown,2019,2,Journal of Heuristics
-10.1007/s10732-007-9021-7,"Pivot, Cut, and Dive: a heuristic for 0-1 mixed integer programming",Jonathan Eckstein and Mikhail Nediak,2007,28,Journal of Heuristics
-10.1023/a:1011306011437,n.m.,M. Yagiura and T. Ibaraki,2001,31,Journal of Heuristics
-10.1007/s10732-007-9023-5,Modelling the dynamics of stochastic local search on k-sat,Nicolas G. Fournier,2007,2,Journal of Heuristics
+10.1007/s10732-018-9396-7,Sample size estimation for power and accuracy in the experimental comparison of algorithms,Felipe Campelo and Fernanda Takahashi,2019,8,Journal of Heuristics
+10.1007/s10732-012-9212-8,Kernel search for the capacitated facility location problem,G. Guastaroba and M. G. Speranza,2012,36,Journal of Heuristics
+10.1023/a:1017960507177,n.m.,Jorge Valenzuela and Alice E. Smith,2002,118,Journal of Heuristics
+10.1007/s10732-015-9296-z,Solution integration in combinatorial optimization with applications to cooperative search and rich vehicle routing,Nizar El Hachemi and Teodor Gabriel Crainic and Nadia Lahrichi and Walter Rei and Thibaut Vidal,2015,4,Journal of Heuristics
+10.1023/a:1015454612213,n.m.,Eric Angel and Vassilis Zissimopoulos,2002,25,Journal of Heuristics
+10.1007/s10732-011-9180-4,Metaheuristics for robust graph coloring,Fan Wang and Zhou Xu,2013,13,Journal of Heuristics
+10.1007/s10732-021-09475-z,Conflict history based heuristic for constraint satisfaction problem solving,Djamal Habet and Cyril Terrioux,2021,3,Journal of Heuristics
+10.1007/s10732-006-9002-2,Meta-heuristic approaches for minimizing total earliness and tardiness penalties of single-machine scheduling with a common due date,Shih-Wei Lin and Shuo-Yan Chou and Shih-Chieh Chen,2007,16,Journal of Heuristics
+10.1023/a:1013665718444,n.m.,Massimiliano Caramia and Paolo Dell'Olmo,2002,10,Journal of Heuristics
+10.1007/s10732-017-9348-7,Metaheuristics approach for solving personalized crew rostering problem in public bus transit,Lin Xie and Marius Merschformann and Natalia Kliewer and Leena Suhl,2017,10,Journal of Heuristics
+10.1007/s10732-018-9369-x,Evaluating selection methods on hyper-heuristic multi-objective particle swarm optimization,Olacir R. Castro and Gian Mauricio Fritsche and Aurora Pozo,2018,10,Journal of Heuristics
+10.1007/s10732-012-9199-1,A novel ant colony optimization approach for on-line scheduling and due date determination,Yun-Chia Liang and Zu-Hsu Lee and Yu-Shen Chen,2012,4,Journal of Heuristics
+10.1007/s10732-015-9300-7,Exploiting subproblem optimization in SAT-based MaxSAT algorithms,Carlos Ansótegui and Joel Gabàs and Jordi Levy,2016,12,Journal of Heuristics
+10.1007/s10732-007-9018-2,Improving crossover operator for real-coded genetic algorithms using virtual parents,Domingo Ortiz-Boyer and César Hervás-Martínez and Nicolás García-Pedrajas,2007,19,Journal of Heuristics
 10.1007/s10732-015-9294-1,A semi-greedy metaheuristic for the European cableway location problem,Nils Egil Søvde and Arne Løkketangen and Richard L. Church and Johan Oppen,2015,0,Journal of Heuristics
 10.1007/s10732-006-7234-9,Exact Max-SAT solvers for over-constrained problems,Josep Argelich and Felip Manyà,2006,22,Journal of Heuristics
-10.1007/s10732-021-09486-w,Lower and upper bounds for scheduling energy-consuming tasks with storage resources and piecewise linear costs,Sandra Ulrich Ngueveu and Christian Artigues and Nabil Absi and Safia Kedad-Sidhoum,2022,0,Journal of Heuristics
-10.1007/s10732-013-9217-y,Introduction to the special issue on intelligent metaheuristics for logistic planning,Belén Melián-Batista and José A. Moreno-Pérez,2013,0,Journal of Heuristics
-10.1007/s10732-012-9209-3,A note on exact and heuristic algorithms for the identical parallel machine scheduling problem,Mauro Dell’Amico and Manuel Iori and Silvano Martello and Michele Monaci,2012,0,Journal of Heuristics
-10.1007/s10732-011-9179-x,A facility neighborhood search heuristic for capacitated facility location with single-source constraints and flexible demand,Chase Rainwater and Joseph Geunes and H. Edwin Romeijn,2012,3,Journal of Heuristics
+10.1007/s10732-018-9388-7,A combined approach for analysing heuristic algorithms,Jeroen Corstjens and Nguyen Dang and Benoît Depaire and An Caris and Patrick De Causmaecker,2019,4,Journal of Heuristics
+10.1007/s10732-010-9128-0,Neighborhood analysis: a case study on curriculum-based course timetabling,Zhipeng Lü and Jin-Kao Hao and Fred Glover,2011,52,Journal of Heuristics
+10.1023/a:1011306011437,n.m.,M. Yagiura and T. Ibaraki,2001,32,Journal of Heuristics
+10.1023/a:1011340311793,n.m.,Peter Greistorfer and Hans Kellerer,2001,0,Journal of Heuristics
+10.1007/s10732-009-9109-3,Hybrid co-evolutionary particle swarm optimization and noising metaheuristics for the delay constrained least cost path problem,Ammar W. Mohemmed and Nirod Chandra Sahoo and Tan Kim Geok,2010,5,Journal of Heuristics
+10.1007/s10732-011-9173-3,D-optimal matrices via quadratic integer optimization,I. S. Kotsireas and P. M. Pardalos,2013,4,Journal of Heuristics
+10.1007/s10732-017-9332-2,A variable neighborhood search for the network design problem with relays,Yiyong Xiao and Abdullah Konak,2017,3,Journal of Heuristics
+10.1007/s10732-008-9092-0,A tabu search heuristic for ship routing and scheduling with flexible cargo quantities,Jarl Eirik Korsvik and Kjetil Fagerholt,2010,27,Journal of Heuristics
+10.1023/a:1009631612046,n.m.,Maria Satratzemi and Constantine Tsouros and Frank Harary,2000,0,Journal of Heuristics
 10.1007/s10732-019-09405-0,A bi-objective study of the minimum latency problem,N. A. Arellano-Arriaga and J. Molina and S. E. Schaeffer and A. M. Álvarez-Socarrás and I. A. Martínez-Salazar,2019,1,Journal of Heuristics
 10.1007/s10732-007-9024-4,A permutation-coded evolutionary strategy for multi-objective GSM network planning,Larry Raisanen,2008,10,Journal of Heuristics
-10.1007/s10732-009-9109-3,Hybrid co-evolutionary particle swarm optimization and noising metaheuristics for the delay constrained least cost path problem,Ammar W. Mohemmed and Nirod Chandra Sahoo and Tan Kim Geok,2010,5,Journal of Heuristics
-10.1007/s10732-018-9397-6,Swarm hyperheuristic framework,Surafel Luleseged Tilahun and Mohamed A. Tawhid,2019,2,Journal of Heuristics
-10.1023/a:1017900606269,n.m.,Alan P. French and John M. Wilson,2002,9,Journal of Heuristics
-10.1007/s10732-019-09428-7,Focus distance-aware lifetime maximization of video camera-based wireless sensor networks,André Rossi and Alok Singh and Marc Sevaux,2021,2,Journal of Heuristics
 10.1007/s10732-010-9150-2,A tabu search algorithm for the covering design problem,Kamal Fadlaoui and Philippe Galinier,2011,2,Journal of Heuristics
-10.1007/s10732-021-09482-0,A two-phase approach for integrating preventive maintenance with production and delivery in an unreliable coal mine,Song Jiu,2021,0,Journal of Heuristics
 10.1007/s10732-008-9079-x,GRASP with hybrid heuristic-subproblem optimization for the multi-level capacitated minimum spanning tree problem,Alexandre X. Martins and Mauricio C. de Souza and Marcone J. F. Souza and Túlio A. M. Toffolo,2009,7,Journal of Heuristics
-10.1023/a:1011340311793,n.m.,Peter Greistorfer and Hans Kellerer,2001,0,Journal of Heuristics
-10.1007/s10732-015-9300-7,Exploiting subproblem optimization in SAT-based MaxSAT algorithms,Carlos Ansótegui and Joel Gabàs and Jordi Levy,2016,12,Journal of Heuristics
-10.1023/a:1009631612046,n.m.,Maria Satratzemi and Constantine Tsouros and Frank Harary,2000,0,Journal of Heuristics
-10.1007/s10732-012-9214-6,Concave minimum cost network flow problems solved with a colony of ants,Marta S. R. Monteiro and Dalila B. M. M. Fontes and Fernando A. C. C. Fontes,2013,7,Journal of Heuristics
-10.1023/a:1015084116772,n.m.,Teodor Gabriel Crainic and Michel Toulouse,2002,16,Journal of Heuristics
-10.1007/s10732-013-9229-7,Less-Than-Truckload carrier collaboration problem: modeling framework and solution approach,Selvaprabu Nadarajah and James H. Bookbinder,2013,25,Journal of Heuristics
-10.1023/b:heur.0000045323.83583.bd,A Slope Scaling/Lagrangean Perturbation Heuristic with Long-Term Memory for Multicommodity Capacitated Fixed-Charge Network Design,Teodor Gabriel Crainic and Bernard Gendron and Geneviève Hernu,2004,59,Journal of Heuristics
-10.1023/a:1023769324585,n.m.,Jae Yun Kim,2003,1,Journal of Heuristics
-10.1023/a:1013643931648,n.m.,Filippo Focacci and Andrea Lodi and Michela Milano and Daniele Vigo,2002,0,Journal of Heuristics
-10.1023/a:1015496114938,n.m.,Prabha Sharma,2002,6,Journal of Heuristics
-10.1023/a:1013617802515,n.m.,Amedeo Cesta and Angelo Oddi and Stephen F. Smith,2002,117,Journal of Heuristics
-10.1007/s10732-011-9168-0,Geometric heuristics for rural radio maps approximation,Boaz Ben-Moshe,2012,1,Journal of Heuristics
-10.1023/a:1009630531634,n.m.,Thomas Hanne,2000,36,Journal of Heuristics
-10.1007/s10732-006-9006-y,Reinforcement learning versus heuristics for order acceptance on a single resource,M. Mainegra Hing and A. van Harten and P. C. Schuur,2007,11,Journal of Heuristics
-10.1007/s10732-006-8075-2,Integration and propagation of a multi-criteria decision making model in constraint programming,F. Le Huédé and M. Grabisch and C. Labreuche and P. Savéant,2006,15,Journal of Heuristics
-10.1023/b:heur.0000026265.47626.23,An Iterative Construction Heuristic for the Ore Selection Problem,A.J. Richmond and J.E. Beasley,2004,11,Journal of Heuristics
-10.1007/s10732-009-9116-4,A comparison of problem decomposition techniques for the FAP,Gualtiero Colombo and Stuart M. Allen,2010,1,Journal of Heuristics
-10.1007/s10732-006-9002-2,Meta-heuristic approaches for minimizing total earliness and tardiness penalties of single-machine scheduling with a common due date,Shih-Wei Lin and Shuo-Yan Chou and Shih-Chieh Chen,2007,16,Journal of Heuristics
-10.1007/s10732-018-9388-7,A combined approach for analysing heuristic algorithms,Jeroen Corstjens and Nguyen Dang and Benoît Depaire and An Caris and Patrick De Causmaecker,2019,4,Journal of Heuristics
 10.1007/s10732-018-9373-1,"Intensification, learning and diversification in a hybrid metaheuristic: an efficient unification",Vinícius R. Máximo and Mariá C. V. Nascimento,2019,2,Journal of Heuristics
-10.1007/s10732-014-9269-7,A novel crossover operator based on variable importance for evolutionary multi-objective optimization with tree representation,Swaantje Casjens and Holger Schwender and Thomas Brüning and Katja Ickstadt,2015,5,Journal of Heuristics
+10.1023/a:1015084116772,n.m.,Teodor Gabriel Crainic and Michel Toulouse,2002,16,Journal of Heuristics
+10.1007/s10732-008-9095-x,A beam search implementation for the irregular shape packing problem,Julia A. Bennell and Xiang Song,2010,60,Journal of Heuristics
+10.1007/s10732-021-09486-w,Lower and upper bounds for scheduling energy-consuming tasks with storage resources and piecewise linear costs,Sandra Ulrich Ngueveu and Christian Artigues and Nabil Absi and Safia Kedad-Sidhoum,2022,0,Journal of Heuristics
+10.1023/a:1013643931648,n.m.,Filippo Focacci and Andrea Lodi and Michela Milano and Daniele Vigo,2002,0,Journal of Heuristics
+10.1007/s10732-019-09428-7,Focus distance-aware lifetime maximization of video camera-based wireless sensor networks,André Rossi and Alok Singh and Marc Sevaux,2021,2,Journal of Heuristics
+10.1007/s10732-016-9309-6,Extending quick hypervolume,Luís M. S. Russo and Alexandre P. Francisco,2016,17,Journal of Heuristics
+10.1023/b:heur.0000026265.47626.23,An Iterative Construction Heuristic for the Ore Selection Problem,A.J. Richmond and J.E. Beasley,2004,11,Journal of Heuristics
+10.1007/s10732-022-09496-2,Weighted iterated local branching for mathematical programming problems with binary variables,Filipe Rodrigues and Agostinho Agra and Lars Magnus Hvattum and Cristina Requejo,2022,0,Journal of Heuristics
+10.1007/s10732-011-9171-5,On characterization of maximal independent sets via quadratic optimization,Foad Mahdavi Pajouh and Balabhaskar Balasundaram and Oleg A. Prokopyev,2013,5,Journal of Heuristics
+10.1007/s10732-012-9214-6,Concave minimum cost network flow problems solved with a colony of ants,Marta S. R. Monteiro and Dalila B. M. M. Fontes and Fernando A. C. C. Fontes,2013,7,Journal of Heuristics
+10.1007/s10732-008-9085-z,Algorithms for the design of network topologies with balanced disjoint rings,Halit Üster and Sarath K. S. Kumar,2010,3,Journal of Heuristics
+10.1007/s10732-007-9010-x,New heuristics for the maximum diversity problem,Geiza C. Silva and Marcos R. Q. de Andrade and Luiz S. Ochi and Simone L. Martins and Alexandre Plastino,2007,26,Journal of Heuristics
+10.1007/s10732-012-9206-6,Large neighborhood search for LNG inventory routing,Vikas Goel and Kevin C. Furman and Jin-Hwa Song and Amr S. El-Bakry,2012,46,Journal of Heuristics
+10.1023/a:1011392328632,n.m.,Jacques A. Ferland and Ilham Berrada and Imene Nabli and B. Ahiod and Philippe Michelon and Viviane Gascon and Éric Gagné,2001,21,Journal of Heuristics
+10.1023/b:heur.0000019986.96257.50,A Hybrid Heuristic for the p-Median Problem,Mauricio G.C. Resende and Renato F. Werneck,2004,183,Journal of Heuristics
+10.1023/b:heur.0000034712.48917.a9,Analyzing the Performance of Generalized Hill Climbing Algorithms,Sheldon H. Jacobson and Enver Yücesan,2004,22,Journal of Heuristics
+10.1023/a:1017900606269,n.m.,Alan P. French and John M. Wilson,2002,9,Journal of Heuristics
+10.1023/a:1013617802515,n.m.,Amedeo Cesta and Angelo Oddi and Stephen F. Smith,2002,117,Journal of Heuristics
+10.1007/s10732-007-9021-7,"Pivot, Cut, and Dive: a heuristic for 0-1 mixed integer programming",Jonathan Eckstein and Mikhail Nediak,2007,28,Journal of Heuristics
+10.1007/s10732-005-5431-6,Evolutionary Algorithms for the Vehicle Routing Problem with Time Windows,Olli Br�ysy and Wout Dullaert and Michel Gendreau,2004,78,Journal of Heuristics
+10.1007/s10732-006-9006-y,Reinforcement learning versus heuristics for order acceptance on a single resource,M. Mainegra Hing and A. van Harten and P. C. Schuur,2007,11,Journal of Heuristics
+10.1007/s10732-005-3122-y,Heuristics for Multi-Stage Interdiction of Stochastic Networks,Harald Held and David L. Woodruff,2005,39,Journal of Heuristics
+10.1023/a:1013661617536,n.m.,Louis-Martin Rousseau and Michel Gendreau and Gilles Pesant,2002,96,Journal of Heuristics
+10.1007/s10732-008-9089-8,A metaheuristic approach to the urban transit routing problem,Lang Fan and Christine L. Mumford,2010,70,Journal of Heuristics
+10.1007/s10732-009-9112-8,A metaheuristic for stochastic service network design,Arild Hoff and Arnt-Gunnar Lium and Arne Løkketangen and Teodor Gabriel Crainic,2010,34,Journal of Heuristics
+10.1023/a:1025605803490,n.m.,Nicola Secomandi,2003,53,Journal of Heuristics
+10.1023/b:heur.0000045323.83583.bd,A Slope Scaling/Lagrangean Perturbation Heuristic with Long-Term Memory for Multicommodity Capacitated Fixed-Charge Network Design,Teodor Gabriel Crainic and Bernard Gendron and Geneviève Hernu,2004,59,Journal of Heuristics
+10.1007/s10732-011-9178-y,The efficiency of indicator-based local search for multi-objective combinatorial optimisation problems,M. Basseur and A. Liefooghe and K. Le and E. K. Burke,2012,26,Journal of Heuristics
+10.1007/s10732-021-09482-0,A two-phase approach for integrating preventive maintenance with production and delivery in an unreliable coal mine,Song Jiu,2021,0,Journal of Heuristics
+10.1007/s10732-011-9168-0,Geometric heuristics for rural radio maps approximation,Boaz Ben-Moshe,2012,1,Journal of Heuristics
+10.1007/s10732-013-9217-y,Introduction to the special issue on intelligent metaheuristics for logistic planning,Belén Melián-Batista and José A. Moreno-Pérez,2013,0,Journal of Heuristics
+10.1007/s10732-012-9209-3,A note on exact and heuristic algorithms for the identical parallel machine scheduling problem,Mauro Dell’Amico and Manuel Iori and Silvano Martello and Michele Monaci,2012,0,Journal of Heuristics
+10.1023/a:1023769324585,n.m.,Jae Yun Kim,2003,1,Journal of Heuristics
+10.1023/a:1015496114938,n.m.,Prabha Sharma,2002,6,Journal of Heuristics
+10.1007/s10732-011-9179-x,A facility neighborhood search heuristic for capacitated facility location with single-source constraints and flexible demand,Chase Rainwater and Joseph Geunes and H. Edwin Romeijn,2012,3,Journal of Heuristics
+10.1007/s10732-015-9307-0,"A fast meta-heuristic approach for the $$(\alpha ,\beta )-k$$ ( α , β ) - k -feature set problem",Mateus Rocha de Paula and Regina Berretta and Pablo Moscato,2016,6,Journal of Heuristics
+10.1007/s10732-006-4296-7,Minimizing crossings in hierarchical digraphs with a hybridized genetic algorithm,Pascale Kuntz and Bruno Pinaud and Rémi Lehn,2006,8,Journal of Heuristics
+10.1007/s10732-006-9003-1,Effects of diversity control in single-objective and multi-objective genetic algorithms,Nachol Chaiyaratana and Theera Piroonratana and Nuntapon Sangkawelert,2007,37,Journal of Heuristics
+10.1007/s10732-019-09419-8,Predicting effective control parameters for differential evolution using cluster analysis of objective function features,Sean P. Walton and M. Rowan Brown,2019,2,Journal of Heuristics
+10.1007/s10732-006-7071-x,Hard and soft constraints for reasoning about qualitative conditional preferences,C. Domshlak and S. Prestwich and F. Rossi and K. B. Venable and T. Walsh,2006,20,Journal of Heuristics
+10.1023/a:1022525529778,n.m.,Dale E. Blodgett and Michel Gendreau and François Guertin and Jean-Yves Potvin and René Séguin,2003,14,Journal of Heuristics
 10.1007/s10732-010-9138-y,Optimal enough?,Manfred Gilli and Enrico Schumann,2011,34,Journal of Heuristics
+10.1007/s10732-007-9020-8,The island confinement method for reducing search space in local search methods,H. Fang and Y. Kilani and J. H. M. Lee and P. J. Stuckey,2007,4,Journal of Heuristics
+10.1007/s10732-009-9116-4,A comparison of problem decomposition techniques for the FAP,Gualtiero Colombo and Stuart M. Allen,2010,1,Journal of Heuristics
+10.1007/s10732-018-9397-6,Swarm hyperheuristic framework,Surafel Luleseged Tilahun and Mohamed A. Tawhid,2019,2,Journal of Heuristics
+10.1007/s10732-007-9023-5,Modelling the dynamics of stochastic local search on k-sat,Nicolas G. Fournier,2007,2,Journal of Heuristics
+10.1023/b:heur.0000026897.40171.1a,Cooperative Parallel Variable Neighborhood Search for the p-Median,Teodor Gabriel Crainic and Michel Gendreau and Pierre Hansen and Nenad Mladenović,2004,115,Journal of Heuristics
+10.1007/s10732-007-9061-z,Heuristics for a two-stage hybrid flowshop scheduling problem with ready times and a product-mix ratio constraint,Yeong-Dae Kim and Byung-Jun Joo and Jong-Ho Shin,2009,18,Journal of Heuristics
+10.1023/b:heur.0000019985.94952.eb,Lock-Gain Based Graph Partitioning,Byung-Ro Moon,2004,23,Journal of Heuristics
+10.1007/s10732-011-9181-3,"On dominance-based multiobjective local search: design, implementation and experimental analysis on scheduling and traveling salesman problems",Arnaud Liefooghe and Jérémie Humeau and Salma Mesmoudi and Laetitia Jourdan and El-Ghazali Talbi,2012,64,Journal of Heuristics
+10.1007/s10732-005-7000-4,A GRASP and Path Relinking Heuristic for Rural Road Network Development,Maria P. Scaparra and Richard L. Church,2005,27,Journal of Heuristics
+10.1007/s10732-010-9129-z,A reactive GRASP with path relinking for capacitated clustering,Yumin Deng and Jonathan F. Bard,2011,44,Journal of Heuristics
 10.1007/s10732-013-9219-9,The consultation timetabling problem at Danish high schools,Simon Kristiansen and Matias Sørensen and Michael B. Herold and Thomas R. Stidsen,2013,6,Journal of Heuristics
 10.1007/s10732-018-9398-5,An effective multi-wave algorithm for solving the max-mean dispersion problem,Jiawei Song and Yang Wang and Haibo Wang and Qinghua Wu and Abraham P. Punnen,2019,3,Journal of Heuristics
 10.1007/s10732-014-9277-7,Hybrid meta-heuristics with VNS and exact methods: application to large unconditional and conditional vertex $$p$$ p -centre problems,Chandra Ade Irawan and Said Salhi and Zvi Drezner,2016,26,Journal of Heuristics
-10.1023/a:1022525529778,n.m.,Dale E. Blodgett and Michel Gendreau and François Guertin and Jean-Yves Potvin and René Séguin,2003,14,Journal of Heuristics
-10.1007/s10732-022-09496-2,Weighted iterated local branching for mathematical programming problems with binary variables,Filipe Rodrigues and Agostinho Agra and Lars Magnus Hvattum and Cristina Requejo,2022,0,Journal of Heuristics
-10.1007/s10732-012-9199-1,A novel ant colony optimization approach for on-line scheduling and due date determination,Yun-Chia Liang and Zu-Hsu Lee and Yu-Shen Chen,2012,4,Journal of Heuristics
-10.1007/s10732-007-9020-8,The island confinement method for reducing search space in local search methods,H. Fang and Y. Kilani and J. H. M. Lee and P. J. Stuckey,2007,4,Journal of Heuristics
-10.1007/s10732-008-9085-z,Algorithms for the design of network topologies with balanced disjoint rings,Halit Üster and Sarath K. S. Kumar,2010,3,Journal of Heuristics
-10.1007/s10732-005-7000-4,A GRASP and Path Relinking Heuristic for Rural Road Network Development,Maria P. Scaparra and Richard L. Church,2005,27,Journal of Heuristics
-10.1007/s10732-007-9010-x,New heuristics for the maximum diversity problem,Geiza C. Silva and Marcos R. Q. de Andrade and Luiz S. Ochi and Simone L. Martins and Alexandre Plastino,2007,26,Journal of Heuristics
-10.1023/b:heur.0000019986.96257.50,A Hybrid Heuristic for the p-Median Problem,Mauricio G.C. Resende and Renato F. Werneck,2004,183,Journal of Heuristics
-10.1007/s10732-010-9129-z,A reactive GRASP with path relinking for capacitated clustering,Yumin Deng and Jonathan F. Bard,2011,44,Journal of Heuristics
-10.1023/b:heur.0000034712.48917.a9,Analyzing the Performance of Generalized Hill Climbing Algorithms,Sheldon H. Jacobson and Enver Yücesan,2004,22,Journal of Heuristics
-10.1007/s10732-006-4296-7,Minimizing crossings in hierarchical digraphs with a hybridized genetic algorithm,Pascale Kuntz and Bruno Pinaud and Rémi Lehn,2006,8,Journal of Heuristics
-10.1007/s10732-015-9307-0,"A fast meta-heuristic approach for the $$(\alpha ,\beta )-k$$ ( α , β ) - k -feature set problem",Mateus Rocha de Paula and Regina Berretta and Pablo Moscato,2016,6,Journal of Heuristics
-10.1023/b:heur.0000019985.94952.eb,Lock-Gain Based Graph Partitioning,Byung-Ro Moon,2004,23,Journal of Heuristics
-10.1007/s10732-007-9061-z,Heuristics for a two-stage hybrid flowshop scheduling problem with ready times and a product-mix ratio constraint,Yeong-Dae Kim and Byung-Jun Joo and Jong-Ho Shin,2009,18,Journal of Heuristics
-10.1007/s10732-006-9003-1,Effects of diversity control in single-objective and multi-objective genetic algorithms,Nachol Chaiyaratana and Theera Piroonratana and Nuntapon Sangkawelert,2007,37,Journal of Heuristics
-10.1023/a:1013665718444,n.m.,Massimiliano Caramia and Paolo Dell'Olmo,2002,10,Journal of Heuristics
-10.1007/s10732-016-9309-6,Extending quick hypervolume,Luís M. S. Russo and Alexandre P. Francisco,2016,17,Journal of Heuristics
-10.1007/s10732-011-9178-y,The efficiency of indicator-based local search for multi-objective combinatorial optimisation problems,M. Basseur and A. Liefooghe and K. Le and E. K. Burke,2012,26,Journal of Heuristics
-10.1007/s10732-007-9018-2,Improving crossover operator for real-coded genetic algorithms using virtual parents,Domingo Ortiz-Boyer and César Hervás-Martínez and Nicolás García-Pedrajas,2007,19,Journal of Heuristics
-10.1007/s10732-014-9272-z,A fast greedy heuristic for scheduling modular projects,Martijn Huysmans and Kris Coolen and Fabrice Talla Nobibon and Roel Leus,2015,2,Journal of Heuristics
-10.1023/b:heur.0000026898.11874.e7,A Parallel Multilevel Metaheuristic for Graph Partitioning,R. Baños and C. Gil and J. Ortega and F.G. Montoya,2004,24,Journal of Heuristics
-10.1007/s10732-013-9224-z,Applying local search to the feedback vertex set problem,Philippe Galinier and Eunice Lemamou and Mohamed Wassim Bouzidi,2013,21,Journal of Heuristics
-10.1007/s10732-013-9233-y,A backbone based TSP heuristic for large instances,Gerold Jäger and Changxing Dong and Boris Goldengorin and Paul Molitor and Dirk Richter,2014,8,Journal of Heuristics
-10.1007/s10732-019-09418-9,Objective scaling ensemble approach for integer linear programming,Weili Zhang and Charles D. Nicholson,2020,3,Journal of Heuristics
-10.1007/s10732-021-09469-x,Analysis of Bayesian Network Learning Techniques for a Hybrid Multi-objective Bayesian Estimation of Distribution Algorithm: a case study on MNK Landscape,Marcella S. R. Martins and Mohamed El Yafrani and Myriam Delgado and Ricardo Lüders and Roberto Santana and Hugo V. Siqueira and Huseyin G. Akcay and Belaïd Ahiod,2021,7,Journal of Heuristics
+10.1007/s10732-013-9229-7,Less-Than-Truckload carrier collaboration problem: modeling framework and solution approach,Selvaprabu Nadarajah and James H. Bookbinder,2013,25,Journal of Heuristics
 10.1007/s10732-007-9065-8,Analysis of some greedy algorithms for the single-sink fixed-charge transportation problem,Simon Görtz and Andreas Klose,2009,7,Journal of Heuristics
+10.1007/s10732-013-9224-z,Applying local search to the feedback vertex set problem,Philippe Galinier and Eunice Lemamou and Mohamed Wassim Bouzidi,2013,21,Journal of Heuristics
+10.1023/b:heur.0000026898.11874.e7,A Parallel Multilevel Metaheuristic for Graph Partitioning,R. Baños and C. Gil and J. Ortega and F.G. Montoya,2004,24,Journal of Heuristics
+10.1007/s10732-013-9233-y,A backbone based TSP heuristic for large instances,Gerold Jäger and Changxing Dong and Boris Goldengorin and Paul Molitor and Dirk Richter,2014,8,Journal of Heuristics
 10.1007/s10732-011-9193-z,Cell-transmission-based evacuation planning with rescue teams,Alf Kimms and Klaus-Christian Maassen,2012,12,Journal of Heuristics
-10.1007/s10732-006-7071-x,Hard and soft constraints for reasoning about qualitative conditional preferences,C. Domshlak and S. Prestwich and F. Rossi and K. B. Venable and T. Walsh,2006,20,Journal of Heuristics
-10.1007/s10732-011-9157-3,A tabu search heuristic procedure for the capacitated facility location problem,Minghe Sun,2012,31,Journal of Heuristics
-10.1007/s10732-014-9266-x,Proximity search for 0-1 mixed-integer convex programming,Matteo Fischetti and Michele Monaci,2014,46,Journal of Heuristics
-10.1007/s10732-011-9173-3,D-optimal matrices via quadratic integer optimization,I. S. Kotsireas and P. M. Pardalos,2013,4,Journal of Heuristics
-10.1007/s10732-009-9122-6,A cooperative hyper-heuristic search framework,Djamila Ouelhadj and Sanja Petrovic,2010,23,Journal of Heuristics
-10.1007/s10732-005-5431-6,Evolutionary Algorithms for the Vehicle Routing Problem with Time Windows,Olli Br�ysy and Wout Dullaert and Michel Gendreau,2004,78,Journal of Heuristics
-10.1007/s10732-011-9181-3,"On dominance-based multiobjective local search: design, implementation and experimental analysis on scheduling and traveling salesman problems",Arnaud Liefooghe and Jérémie Humeau and Salma Mesmoudi and Laetitia Jourdan and El-Ghazali Talbi,2012,64,Journal of Heuristics
-10.1023/a:1015057701750,n.m.,Martin Middendorf and Frank Reischle and Hartmut Schmeck,2002,110,Journal of Heuristics
-10.1007/s10732-022-09497-1,A memetic algorithm for the inventory routing problem,Mohamed Salim Amri Sakhri and Mounira Tlili and Ouajdi Korbaa,2022,1,Journal of Heuristics
-10.1007/s10732-018-9380-2,Scheduling crossover cranes at container terminals during seaside peak times,Anne Ehleiter and Florian Jaehn,2018,6,Journal of Heuristics
-10.1023/a:1011392328632,n.m.,Jacques A. Ferland and Ilham Berrada and Imene Nabli and B. Ahiod and Philippe Michelon and Viviane Gascon and Éric Gagné,2001,21,Journal of Heuristics
-10.1007/s10732-020-09450-0,Matheuristics to optimize refueling and maintenance planning of nuclear power plants,Nicolas Dupin and El-Ghazali Talbi,2021,10,Journal of Heuristics
-10.1007/s10732-010-9128-0,Neighborhood analysis: a case study on curriculum-based course timetabling,Zhipeng Lü and Jin-Kao Hao and Fred Glover,2011,51,Journal of Heuristics
-10.1023/a:1009665726946,n.m.,Mor Armony and John G. Klincewicz and Hanan Luss and Moshe B. Rosenwein,2000,22,Journal of Heuristics
-10.1023/a:1013661617536,n.m.,Louis-Martin Rousseau and Michel Gendreau and Gilles Pesant,2002,96,Journal of Heuristics
-10.1007/s10732-015-9293-2,A study of perturbation operators for the pickup and delivery traveling salesman problem with LIFO or FIFO loading,Lijun Wei and Hu Qin and Wenbin Zhu and Long Wan,2015,6,Journal of Heuristics
-10.1007/s10732-014-9260-3,A lagrangian relaxation and ACO hybrid for resource constrained project scheduling with discounted cash flows,Dhananjay Thiruvady and Mark Wallace and Hanyu Gu and Andreas Schutt,2014,19,Journal of Heuristics
-10.1007/s10732-019-09421-0,MIQP model and improvement heuristic for power loss minimization in distribution system with network reconfiguration,Karla B. Freitas and Márcio S. Arantes and Claudio F. M. Toledo and Alexandre C. B. Delbem,2020,4,Journal of Heuristics
-10.1007/s10732-009-9112-8,A metaheuristic for stochastic service network design,Arild Hoff and Arnt-Gunnar Lium and Arne Løkketangen and Teodor Gabriel Crainic,2010,34,Journal of Heuristics
-10.1007/s10732-017-9332-2,A variable neighborhood search for the network design problem with relays,Yiyong Xiao and Abdullah Konak,2017,3,Journal of Heuristics
-10.1007/s10732-008-9075-1,Models and heuristic algorithms for a weighted vertex coloring problem,Enrico Malaguti and Michele Monaci and Paolo Toth,2009,23,Journal of Heuristics
-10.1007/s10732-018-9369-x,Evaluating selection methods on hyper-heuristic multi-objective particle swarm optimization,Olacir R. Castro and Gian Mauricio Fritsche and Aurora Pozo,2018,9,Journal of Heuristics
-10.1007/s10732-010-9139-x,Local search for the surgery admission planning problem,Atle Riise and Edmund K. Burke,2011,51,Journal of Heuristics
-10.1007/s10732-007-9045-z,A reactive variable neighborhood tabu search for the heterogeneous fleet vehicle routing problem with time windows,D. C. Paraskevopoulos and P. P. Repoussis and C. D. Tarantilis and G. Ioannou and G. P. Prastacos,2008,69,Journal of Heuristics
-10.1007/s10732-019-09406-z,The selective traveling salesman problem with draft limits,Shahin Gelareh and Bernard Gendron and Saïd Hanafi and Rahimeh Neamatian Monemi and Raca Todosijević,2020,7,Journal of Heuristics
 10.1007/s10732-016-9311-z,Comparative analysis of three metaheuristics for short-term open pit block sequencing,Amin Mousavi and Erhan Kozan and Shi Qiang Liu,2016,18,Journal of Heuristics
-10.1023/a:1025605803490,n.m.,Nicola Secomandi,2003,52,Journal of Heuristics
-10.1023/b:heur.0000026897.40171.1a,Cooperative Parallel Variable Neighborhood Search for the p-Median,Teodor Gabriel Crainic and Michel Gendreau and Pierre Hansen and Nenad Mladenović,2004,115,Journal of Heuristics
-10.1007/s10732-012-9206-6,Large neighborhood search for LNG inventory routing,Vikas Goel and Kevin C. Furman and Jin-Hwa Song and Amr S. El-Bakry,2012,46,Journal of Heuristics
-10.1007/s10732-005-3122-y,Heuristics for Multi-Stage Interdiction of Stochastic Networks,Harald Held and David L. Woodruff,2005,39,Journal of Heuristics
-10.1007/s10732-017-9357-6,Hybrid approaches to optimize mixed-model assembly lines in low-volume manufacturing,Alexander Biele and Lars Mönch,2018,20,Journal of Heuristics
-10.1007/s10732-021-09475-z,Conflict history based heuristic for constraint satisfaction problem solving,Djamal Habet and Cyril Terrioux,2021,3,Journal of Heuristics
-10.1007/s10732-017-9348-7,Metaheuristics approach for solving personalized crew rostering problem in public bus transit,Lin Xie and Marius Merschformann and Natalia Kliewer and Leena Suhl,2017,10,Journal of Heuristics
-10.1007/s10732-013-9234-x,A scatter search algorithm for the single row facility layout problem,Ravi Kothari and Diptesh Ghosh,2014,39,Journal of Heuristics
-10.1007/s10732-008-9092-0,A tabu search heuristic for ship routing and scheduling with flexible cargo quantities,Jarl Eirik Korsvik and Kjetil Fagerholt,2010,27,Journal of Heuristics
-10.1007/s10732-008-9095-x,A beam search implementation for the irregular shape packing problem,Julia A. Bennell and Xiang Song,2010,60,Journal of Heuristics
-10.1007/s10732-011-9171-5,On characterization of maximal independent sets via quadratic optimization,Foad Mahdavi Pajouh and Balabhaskar Balasundaram and Oleg A. Prokopyev,2013,5,Journal of Heuristics
-10.1023/a:1016540724870,n.m.,E.-G. Talbi,2002,578,Journal of Heuristics
+10.1007/s10732-019-09421-0,MIQP model and improvement heuristic for power loss minimization in distribution system with network reconfiguration,Karla B. Freitas and Márcio S. Arantes and Claudio F. M. Toledo and Alexandre C. B. Delbem,2020,4,Journal of Heuristics
+10.1007/s10732-010-9139-x,Local search for the surgery admission planning problem,Atle Riise and Edmund K. Burke,2011,51,Journal of Heuristics
+10.1007/s10732-014-9260-3,A lagrangian relaxation and ACO hybrid for resource constrained project scheduling with discounted cash flows,Dhananjay Thiruvady and Mark Wallace and Hanyu Gu and Andreas Schutt,2014,19,Journal of Heuristics
+10.1007/s10732-019-09406-z,The selective traveling salesman problem with draft limits,Shahin Gelareh and Bernard Gendron and Saïd Hanafi and Rahimeh Neamatian Monemi and Raca Todosijević,2020,7,Journal of Heuristics
+10.1007/s10732-021-09469-x,Analysis of Bayesian Network Learning Techniques for a Hybrid Multi-objective Bayesian Estimation of Distribution Algorithm: a case study on MNK Landscape,Marcella S. R. Martins and Mohamed El Yafrani and Myriam Delgado and Ricardo Lüders and Roberto Santana and Hugo V. Siqueira and Huseyin G. Akcay and Belaïd Ahiod,2021,7,Journal of Heuristics
+10.1007/s10732-011-9157-3,A tabu search heuristic procedure for the capacitated facility location problem,Minghe Sun,2012,31,Journal of Heuristics
 10.1023/a:1025657820328,n.m.,Joel S. Sokol,2003,11,Journal of Heuristics
-10.1007/s10732-008-9089-8,A metaheuristic approach to the urban transit routing problem,Lang Fan and Christine L. Mumford,2010,70,Journal of Heuristics
+10.1007/s10732-014-9269-7,A novel crossover operator based on variable importance for evolutionary multi-objective optimization with tree representation,Swaantje Casjens and Holger Schwender and Thomas Brüning and Katja Ickstadt,2015,5,Journal of Heuristics
+10.1007/s10732-022-09497-1,A memetic algorithm for the inventory routing problem,Mohamed Salim Amri Sakhri and Mounira Tlili and Ouajdi Korbaa,2022,1,Journal of Heuristics
+10.1007/s10732-015-9293-2,A study of perturbation operators for the pickup and delivery traveling salesman problem with LIFO or FIFO loading,Lijun Wei and Hu Qin and Wenbin Zhu and Long Wan,2015,6,Journal of Heuristics
+10.1023/a:1009665726946,n.m.,Mor Armony and John G. Klincewicz and Hanan Luss and Moshe B. Rosenwein,2000,22,Journal of Heuristics
+10.1007/s10732-018-9380-2,Scheduling crossover cranes at container terminals during seaside peak times,Anne Ehleiter and Florian Jaehn,2018,6,Journal of Heuristics
+10.1007/s10732-009-9122-6,A cooperative hyper-heuristic search framework,Djamila Ouelhadj and Sanja Petrovic,2010,23,Journal of Heuristics
+10.1007/s10732-008-9075-1,Models and heuristic algorithms for a weighted vertex coloring problem,Enrico Malaguti and Michele Monaci and Paolo Toth,2009,24,Journal of Heuristics
+10.1007/s10732-020-09450-0,Matheuristics to optimize refueling and maintenance planning of nuclear power plants,Nicolas Dupin and El-Ghazali Talbi,2021,11,Journal of Heuristics
+10.1023/a:1015057701750,n.m.,Martin Middendorf and Frank Reischle and Hartmut Schmeck,2002,110,Journal of Heuristics
+10.1007/s10732-013-9234-x,A scatter search algorithm for the single row facility layout problem,Ravi Kothari and Diptesh Ghosh,2014,40,Journal of Heuristics
+10.1007/s10732-006-8075-2,Integration and propagation of a multi-criteria decision making model in constraint programming,F. Le Huédé and M. Grabisch and C. Labreuche and P. Savéant,2006,15,Journal of Heuristics
+10.1023/a:1009630531634,n.m.,Thomas Hanne,2000,36,Journal of Heuristics
+10.1007/s10732-017-9357-6,Hybrid approaches to optimize mixed-model assembly lines in low-volume manufacturing,Alexander Biele and Lars Mönch,2018,20,Journal of Heuristics
+10.1023/a:1016540724870,n.m.,E.-G. Talbi,2002,581,Journal of Heuristics
+10.1007/s10732-007-9045-z,A reactive variable neighborhood tabu search for the heterogeneous fleet vehicle routing problem with time windows,D. C. Paraskevopoulos and P. P. Repoussis and C. D. Tarantilis and G. Ioannou and G. P. Prastacos,2008,70,Journal of Heuristics
+10.1007/s10732-019-09418-9,Objective scaling ensemble approach for integer linear programming,Weili Zhang and Charles D. Nicholson,2020,4,Journal of Heuristics
+10.1007/s10732-014-9272-z,A fast greedy heuristic for scheduling modular projects,Martijn Huysmans and Kris Coolen and Fabrice Talla Nobibon and Roel Leus,2015,2,Journal of Heuristics
+10.1007/s10732-014-9266-x,Proximity search for 0-1 mixed-integer convex programming,Matteo Fischetti and Michele Monaci,2014,47,Journal of Heuristics
 10.1007/s10732-013-9216-z,A hybrid algorithm for the manufacturing cell formation problem,J. A. Díaz and D. E. Luna and C. A. Zetina,2013,4,Journal of Heuristics
 10.1007/s10732-020-09439-9,An automatic constructive matheuristic for the shift minimization personnel task scheduling problem,Reshma Chirayil Chandrasekharan and Pieter Smet and Tony Wauters,2021,1,Journal of Heuristics
 10.1023/a:1022521428870,n.m.,Juha Kivijärvi and Pasi Fränti and Olli Nevalainen,2003,40,Journal of Heuristics
@@ -225,16 +225,19 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10732-020-09444-y,Heuristic/meta-heuristic methods for restricted bin packing problem,Yu Fu and Amarnath Banerjee,2020,3,Journal of Heuristics
 10.1007/s10732-022-09503-6,Modeling and evolutionary algorithm for solving a multi-depot mixed vehicle routing problem with uncertain travel times,Liang Sun,2022,0,Journal of Heuristics
 10.1007/s10732-011-9175-1,Quadratic bottleneck knapsack problems,Ruonan Zhang and Abraham P. Punnen,2013,2,Journal of Heuristics
+10.1007/s10732-013-9221-2,A path relinking algorithm for a multi-depot periodic vehicle routing problem,Alireza Rahimi-Vahed and Teodor Gabriel Crainic and Michel Gendreau and Walter Rei,2013,40,Journal of Heuristics
+10.1007/s10732-022-09501-8,A systematic approach to parameter optimization and its application to flight schedule simulation software,Alexander E. I. Brownlee and Michael G. Epitropakis and Jeroen Mulder and Marc Paelinck and Edmund K. Burke,2022,1,Journal of Heuristics
+10.1007/s10732-020-09463-9,Anisotropic Q-learning and waiting estimation based real-time routing for automated guided vehicles at container terminals,Pengfei Zhou and Li Lin and Kap Hwan Kim,2021,3,Journal of Heuristics
+10.1007/s10732-014-9261-2,Modelling and planning reliable wireless sensor networks based on multi-objective optimization genetic algorithm with changeable length,Danping He and Gabriel Mujica and Jorge Portilla and Teresa Riesgo,2015,14,Journal of Heuristics
+10.1007/s10732-007-9012-8,Metaheuristics can solve sudoku puzzles,Rhyd Lewis,2007,63,Journal of Heuristics
 10.1007/s10732-017-9323-3,Network design through forests with degree- and role-constrained minimum spanning trees,Laura Anton-Sanchez and Concha Bielza and Pedro Larrañaga,2017,2,Journal of Heuristics
 10.1007/s10732-014-9237-2,Approximated algorithms for the minimum dilation triangulation problem,Maria Gisela Dorzán and Mario Guillermo Leguizamón and Efrén Mezura-Montes and Gregorio Hernández-Peñalver,2014,3,Journal of Heuristics
 10.1007/s10732-017-9324-2,A dynamic programming operator for tour location problems applied to the covering tour problem,Leticia Vargas and Nicolas Jozefowiez and Sandra Ulrich Ngueveu,2017,3,Journal of Heuristics
 10.1007/s10732-010-9149-8,Matching based very large-scale neighborhoods for parallel machine scheduling,Tobias Brueggemann and Johann L. Hurink,2011,7,Journal of Heuristics
 10.1007/s10732-010-9152-0,Using resource scarceness characteristics to solve the multi-mode resource-constrained project scheduling problem,Vincent Van Peteghem and Mario Vanhoucke,2011,37,Journal of Heuristics
-10.1023/a:1011373828276,n.m.,Michel Vasquez and Jin-Kao Hao,2001,56,Journal of Heuristics
 10.1023/a:1023721408655,n.m.,Oluf Faroe,2003,13,Journal of Heuristics
 10.1023/a:1020373709350,n.m.,Opher Dubrovsky and Gregory Levitin and Michal Penn,2002,78,Journal of Heuristics
 10.1007/s10732-021-09484-y,A probabilistic analysis of neighborhoods for combinatorial optimization problems and its application,Taichi Kaji,2021,0,Journal of Heuristics
-10.1007/s10732-011-9183-1,GRASP and Path Relinking for the Clustered Prize-collecting Arc Routing Problem,Julián Aráoz and Elena Fernández and Carles Franquesa,2013,5,Journal of Heuristics
 10.1007/s10732-008-9074-2,A cross entropy based algorithm for reliability problems,Marco Caserta and Marta Cabo Nodar,2009,18,Journal of Heuristics
 10.1007/s10732-005-3603-z,Lagrangian Smoothing Heuristics for Max-Cut,Hernán Alperin and Ivo Nowak,2005,10,Journal of Heuristics
 10.1007/s10732-021-09489-7,Using state-space shortest-path heuristics to solve the long-haul point-to-point vehicle routing and driver scheduling problem subject to hours-of-service regulatory constraints,Daiane Maria De Genaro Chiroli and Sérgio Fernando Mayerle and João Neiva de Figueiredo,2022,1,Journal of Heuristics
@@ -243,7 +246,7 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1023/a:1009609609199,n.m.,R. Izmailov and A. Iwata and B. Sengupta,2000,3,Journal of Heuristics
 10.1007/s10732-006-4834-3,Heuristic anytime approaches to stochastic decision processes,Joaquín L. Fernández and Rafael Sanz and Reid G. Simmons and Amador R. Diéguez,2006,2,Journal of Heuristics
 10.1007/s10732-014-9253-2,Swarm approach based on gravity for optimizing energy savings in grid systems,María Arsuaga-Ríos and Miguel A. Vega-Rodríguez,2014,0,Journal of Heuristics
-10.1007/s10732-021-09477-x,A simple hyper-heuristic approach for a variant of many-to-many hub location-routing problem,Venkatesh Pandiri and Alok Singh,2021,0,Journal of Heuristics
+10.1007/s10732-022-09499-z,Fixed set search applied to the multi-objective minimum weighted vertex cover problem,Raka Jovanovic and Antonio P. Sanfilippo and Stefan Voß,2022,6,Journal of Heuristics
 10.1023/a:1009673427015,n.m.,"Louis Anthony Cox, Jr. and Jennifer Ryan Sanchez",2000,29,Journal of Heuristics
 10.1023/b:heur.0000026266.07036.da,Heuristic Algorithms and Scatter Search for the Cardinality Constrained P│CmaxProblem,Mauro Dell'Amico and Manuel Iori and Silvano Martello,2004,14,Journal of Heuristics
 10.1007/s10732-019-09422-z,A heuristic for fair dynamic resource allocation in overloaded OFDMA systems,Adam N. Letchford and Qiang Ni and Zhaoyu Zhong,2020,1,Journal of Heuristics
@@ -255,84 +258,84 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10732-018-9394-9,Patient classification considering the risk of restenosis after coronary stent placement,Halenur Şahin and Serhan Duran and Ertan Yakıcı and Mahmut Şahin,2019,0,Journal of Heuristics
 10.1007/s10732-007-9017-3,Tomographic reconstruction using heuristic Monte Carlo methods,R. Barbuzza and M. Vénere and A. Clausse,2007,1,Journal of Heuristics
 10.1007/s10732-020-09464-8,A max-conflicts based heuristic search for the stable marriage problem with ties and incomplete lists,Hoang Huu Viet and Nguyen Thi Uyen and SeungGwan Lee and TaeChoong Chung and Le Hong Trang,2021,2,Journal of Heuristics
+10.1007/s10732-011-9183-1,GRASP and Path Relinking for the Clustered Prize-collecting Arc Routing Problem,Julián Aráoz and Elena Fernández and Carles Franquesa,2013,6,Journal of Heuristics
 10.1023/a:1009687403254,n.m.,"Peter L. Hammer and David J. Rader, Jr.",2001,8,Journal of Heuristics
+10.1007/s10732-018-9392-y,A local branching matheuristic for the multi-vehicle routing problem with stochastic demands,Florent Hernandez and Michel Gendreau and Ola Jabali and Walter Rei,2019,12,Journal of Heuristics
+10.1007/s10732-007-9013-7,An electromagnetic meta-heuristic for the nurse scheduling problem,Broos Maenhout and Mario Vanhoucke,2007,60,Journal of Heuristics
+10.1007/s10732-006-9001-3,Distance measures based on the edit distance for permutation-type representations,Kenneth Sörensen,2007,39,Journal of Heuristics
 10.1023/a:1021893712145,n.m.,John M. Emmert and Sandeep Lodha and Dinesh K. Bhatia,2003,3,Journal of Heuristics
 10.1007/s10732-012-9201-y,A Forex trading system based on a genetic algorithm,Luís Mendes and Pedro Godinho and Joana Dias,2012,21,Journal of Heuristics
-10.1023/a:1009686616612,n.m.,M. João Alves and João Clímaco,2000,28,Journal of Heuristics
-10.1007/s10732-014-9261-2,Modelling and planning reliable wireless sensor networks based on multi-objective optimization genetic algorithm with changeable length,Danping He and Gabriel Mujica and Jorge Portilla and Teresa Riesgo,2015,14,Journal of Heuristics
 10.1007/s10732-020-09437-x,MIP neighborhood search heuristics for a service network design problem with design-balanced requirements,Naoto Katayama,2020,2,Journal of Heuristics
+10.1007/s10732-011-9192-0,One hyper-heuristic approach to two timetabling problems in health care,Burak Bilgin and Peter Demeester and Mustafa Misir and Wim Vancroonenburg and Greet Vanden Berghe,2012,57,Journal of Heuristics
+10.1023/a:1009686616612,n.m.,M. João Alves and João Clímaco,2000,28,Journal of Heuristics
 10.1007/s10732-020-09447-9,A multi-start local search algorithm for the Hamiltonian completion problem on undirected graphs,Jorik Jooken and Pieter Leyman and Patrick De Causmaecker,2020,2,Journal of Heuristics
-10.1007/s10732-009-9120-8,A new dispatching rule based genetic algorithm for the multi-objective job shop problem,José Antonio Vázquez-Rodríguez and Sanja Petrovic,2010,50,Journal of Heuristics
 10.1007/s10732-011-9164-4,Backbone guided tabu search for solving the UBQP problem,Yang Wang and Zhipeng Lü and Fred Glover and Jin-Kao Hao,2013,21,Journal of Heuristics
-10.1023/b:heur.0000045320.79875.e3,An Application of a Multi-Objective Tabu Search Algorithm to a Bicriteria Flowshop Problem,Vinícius Amaral Armentano and José Elias Claudio,2004,37,Journal of Heuristics
-10.1007/s10732-006-9004-0,Metaheuristics for the team orienteering problem,Claudia Archetti and Alain Hertz and Maria Grazia Speranza,2007,153,Journal of Heuristics
 10.1007/s10732-013-9236-8,Variable and large neighborhood search to solve the multiobjective set covering problem,T. Lust and D. Tuyttens,2014,16,Journal of Heuristics
 10.1007/s10732-007-9035-1,Crowding with nearest neighbors replacement for multiple species niching and building blocks preservation in binary multimodal functions optimization,Minqiang Li and Jisong Kou,2008,10,Journal of Heuristics
 10.1007/s10732-008-9091-1,Algorithms for the non-bifurcated network design problem,Enrico Bartolini and Aristide Mingozzi,2009,9,Journal of Heuristics
 10.1007/s10732-018-9370-4,All Colors Shortest Path problem on trees,Mehmet Berkehan Akçay and Hüseyin Akcan and Cem Evrendilek,2018,4,Journal of Heuristics
-10.1007/s10732-021-09478-w,Randomized rounding algorithms for large scale unsplittable flow problems,François Lamothe and Emmanuel Rachelson and Alain Haït and Cedric Baudoin and Jean-Baptiste Dupé,2021,2,Journal of Heuristics
 10.1007/s10732-011-9182-2,Optimizing routes and stock,Irma García and Joaquín Pacheco and Ada Alvarez,2013,9,Journal of Heuristics
 10.1007/s10732-015-9298-x,Hybrid multiobjective metaheuristics for the design of reliable DNA libraries,Jose M. Chaves-González,2015,7,Journal of Heuristics
 10.1023/b:heur.0000026984.08350.12,Introduction,Enrique Alba,2004,13,Journal of Heuristics
-10.1023/a:1013613701606,n.m.,Torsten Fahle and Ulrich Junker and Stefan E. Karisch and Niklas Kohl and Meinolf Sellmann and Bo Vaaben,2002,65,Journal of Heuristics
 10.1023/a:1009635728908,n.m.,Xavier Gandibleux and Andrzej Jaszkiewicz and Arnaud Fréville and Roman Slowinski,2000,9,Journal of Heuristics
-10.1007/s10732-013-9221-2,A path relinking algorithm for a multi-depot periodic vehicle routing problem,Alireza Rahimi-Vahed and Teodor Gabriel Crainic and Michel Gendreau and Walter Rei,2013,40,Journal of Heuristics
-10.1007/s10732-007-9012-8,Metaheuristics can solve sudoku puzzles,Rhyd Lewis,2007,62,Journal of Heuristics
-10.1007/s10732-022-09501-8,A systematic approach to parameter optimization and its application to flight schedule simulation software,Alexander E. I. Brownlee and Michael G. Epitropakis and Jeroen Mulder and Marc Paelinck and Edmund K. Burke,2022,1,Journal of Heuristics
-10.1007/s10732-020-09463-9,Anisotropic Q-learning and waiting estimation based real-time routing for automated guided vehicles at container terminals,Pengfei Zhou and Li Lin and Kap Hwan Kim,2021,3,Journal of Heuristics
+10.1007/s10732-012-9200-z,A tabu search algorithm for the minmax regret minimum spanning tree problem with interval data,Adam Kasperski and Mariusz Makuchowski and Paweł Zieliński,2012,14,Journal of Heuristics
 10.1007/s10732-007-9066-7,A grasp-knapsack hybrid for a nurse-scheduling problem,Melissa D. Goodman and Kathryn A. Dowsland and Jonathan M. Thompson,2009,25,Journal of Heuristics
 10.1007/s10732-019-09433-w,The convex hull heuristic for nonlinear integer programming problems with linear constraints and application to quadratic 0–1 problems,Monique Guignard and Aykut Ahlatcioglu,2021,2,Journal of Heuristics
 10.1007/s10732-014-9243-4,Statistical optimum estimation techniques for combinatorial optimization problems: a review and critique,Angela P. Giddings and Ronald L. Rardin and Reha Uzsoy,2014,10,Journal of Heuristics
 10.1007/s10732-017-9341-1,On a two-phase solution approach for the bi-objective k-dissimilar vehicle routing problem,Sandra Zajac,2018,3,Journal of Heuristics
 10.1007/s10732-007-9027-1,The prize-collecting generalized minimum spanning tree problem,Bruce Golden and S. Raghavan and Daliborka Stanojević,2008,13,Journal of Heuristics
-10.1023/a:1011377929184,n.m.,Jiyang Xu and Steve Y. Chiu,2001,59,Journal of Heuristics
 10.1007/s10732-015-9289-y,Overlapping community detection through an improved multi-objective quantum-behaved particle swarm optimization,Yangyang Li and Yang Wang and Jing Chen and Licheng Jiao and Ronghua Shang,2015,40,Journal of Heuristics
 10.1007/s10732-022-09491-7,Ride matching and vehicle routing for on-demand mobility services,Sepide Lotfi and Khaled Abdelghany,2022,1,Journal of Heuristics
 10.1007/s10732-006-5224-6,A scatter search algorithm for project scheduling under partially renewable resources,R. Alvarez-Valdes and E. Crespo and J. M. Tamarit and F. Villa,2006,29,Journal of Heuristics
 10.1007/s10732-006-4295-8,A study of ACO capabilities for solving the maximum clique problem,Christine Solnon and Serge Fenet,2006,57,Journal of Heuristics
-10.1007/s10732-015-9285-2,A tabu search algorithm for cohesive clustering problems,Buyang Cao and Fred Glover and Cesar Rego,2015,13,Journal of Heuristics
 10.1007/s10732-017-9353-x,Constraint-based search for optimal Golomb rulers,M. M. A. Polash and M. A. H. Newton and A. Sattar,2017,7,Journal of Heuristics
 10.1007/s10732-018-9395-8,A variable space search heuristic for the Capacitated Team Orienteering Problem,Asma Ben-Said and Racha El-Hajj and Aziz Moukrim,2019,9,Journal of Heuristics
-10.1007/s10732-017-9355-8,A biased random key genetic algorithm applied to the electric distribution network reconfiguration problem,H. de Faria and M. G. C. Resende and D. Ernst,2017,28,Journal of Heuristics
-10.1007/s10732-009-9103-9,Two-phase Pareto local search for the biobjective traveling salesman problem,Thibaut Lust and Jacques Teghem,2010,105,Journal of Heuristics
 10.1007/s10732-018-9379-8,Multi-objective performance improvements of general finite single-server queueing networks,F. R. B. Cruz and A. R. Duarte and G. L. Souza,2018,12,Journal of Heuristics
 10.1023/a:1015005717680,n.m.,Ahmad Al-Yamani and Sadiq M. Sait and Habib Youssef and Hassan Barada,2002,5,Journal of Heuristics
 10.1007/s10732-010-9133-3,Local search heuristics for the multidimensional assignment problem,Daniel Karapetyan and Gregory Gutin,2011,15,Journal of Heuristics
-10.1007/s10732-013-9230-1,A GRASP + ILP-based metaheuristic for the capacitated location-routing problem,Claudio Contardo and Jean-François Cordeau and Bernard Gendron,2014,42,Journal of Heuristics
-10.1007/s10732-012-9200-z,A tabu search algorithm for the minmax regret minimum spanning tree problem with interval data,Adam Kasperski and Mariusz Makuchowski and Paweł Zieliński,2012,14,Journal of Heuristics
 10.1007/s10732-020-09448-8,Evolutionary multi-level acyclic graph partitioning,Orlando Moreira and Merten Popp and Christian Schulz,2020,5,Journal of Heuristics
+10.1007/s10732-006-9004-0,Metaheuristics for the team orienteering problem,Claudia Archetti and Alain Hertz and Maria Grazia Speranza,2007,154,Journal of Heuristics
+10.1007/s10732-013-9230-1,A GRASP + ILP-based metaheuristic for the capacitated location-routing problem,Claudio Contardo and Jean-François Cordeau and Bernard Gendron,2014,43,Journal of Heuristics
+10.1007/s10732-007-9026-2,Approximating the maximum vertex/edge weighted clique using local search,Wayne Pullan,2008,47,Journal of Heuristics
+10.1023/a:1011377929184,n.m.,Jiyang Xu and Steve Y. Chiu,2001,60,Journal of Heuristics
+10.1007/s10732-008-9097-8,Ant colony optimization for the arc routing problem with intermediate facilities under capacity and length restrictions,Gianpaolo Ghiani and Demetrio Laganà and Gilbert Laporte and Francesco Mari,2010,20,Journal of Heuristics
 10.1023/a:1020377910258,n.m.,José Fernando Gonçalves and Jorge Raimundo de Almeida,2002,141,Journal of Heuristics
+10.1007/s10732-011-9188-9,A heuristic solution method for node routing based solid waste collection problems,Vera Hemmelmayr and Karl F. Doerner and Richard F. Hartl and Stefan Rath,2013,66,Journal of Heuristics
+10.1023/a:1013613701606,n.m.,Torsten Fahle and Ulrich Junker and Stefan E. Karisch and Niklas Kohl and Meinolf Sellmann and Bo Vaaben,2002,66,Journal of Heuristics
+10.1023/b:heur.0000004811.65073.d3,An Incremental Procedure for Improving Path Assignment in a Telecommunications Network,D. Allen and I. Ismail and J. Kennington and E. Olinick,2003,8,Journal of Heuristics
+10.1023/a:1011373828276,n.m.,Michel Vasquez and Jin-Kao Hao,2001,56,Journal of Heuristics
+10.1023/b:heur.0000045320.79875.e3,An Application of a Multi-Objective Tabu Search Algorithm to a Bicriteria Flowshop Problem,Vinícius Amaral Armentano and José Elias Claudio,2004,37,Journal of Heuristics
+10.1007/s10732-019-09423-y,The vehicle routing problem with cross-docking and resource constraints,Philippe Grangier and Michel Gendreau and Fabien Lehuédé and Louis-Martin Rousseau,2021,8,Journal of Heuristics
+10.1007/s10732-005-1997-2,Local Search for Vehicle Routing and Scheduling Problems: Review and Conceptual Integration,Birger Funke and Tore Grünert and Stefan Irnich,2005,72,Journal of Heuristics
 10.1023/a:1023721723676,n.m.,Fred Glover,2003,18,Journal of Heuristics
 10.1023/a:1009642825198,n.m.,Tzung-Pei Hong and Hong-Shung Wang and Wei-Chou Chen,2000,57,Journal of Heuristics
 10.1007/s10732-022-09490-8,A GRASP algorithm with Tabu Search improvement for solving the maximum intersection of k-subsets problem,Alejandra Casado and Sergio Pérez-Peló and Jesús Sánchez-Oro and Abraham Duarte,2022,1,Journal of Heuristics
 10.1007/s10732-018-9381-1,Survey and unification of local search techniques in metaheuristics for multi-objective combinatorial optimisation,Aymeric Blot and Marie-Éléonore Kessaci and Laetitia Jourdan,2018,16,Journal of Heuristics
-10.1007/s10732-011-9192-0,One hyper-heuristic approach to two timetabling problems in health care,Burak Bilgin and Peter Demeester and Mustafa Misir and Wim Vancroonenburg and Greet Vanden Berghe,2012,57,Journal of Heuristics
-10.1007/s10732-022-09499-z,Fixed set search applied to the multi-objective minimum weighted vertex cover problem,Raka Jovanovic and Antonio P. Sanfilippo and Stefan Voß,2022,5,Journal of Heuristics
-10.1007/s10732-007-9040-4,Solving a bi-objective nurse rerostering problem by using a utopic Pareto genetic heuristic,Margarida Vaz Pato and Margarida Moz,2008,32,Journal of Heuristics
-10.1023/b:heur.0000004811.65073.d3,An Incremental Procedure for Improving Path Assignment in a Telecommunications Network,D. Allen and I. Ismail and J. Kennington and E. Olinick,2003,8,Journal of Heuristics
-10.1023/a:1009638700683,n.m.,Pedro Castro Borges,2000,6,Journal of Heuristics
-10.1007/s10732-018-9392-y,A local branching matheuristic for the multi-vehicle routing problem with stochastic demands,Florent Hernandez and Michel Gendreau and Ola Jabali and Walter Rei,2019,12,Journal of Heuristics
-10.1007/s10732-008-9097-8,Ant colony optimization for the arc routing problem with intermediate facilities under capacity and length restrictions,Gianpaolo Ghiani and Demetrio Laganà and Gilbert Laporte and Francesco Mari,2010,19,Journal of Heuristics
-10.1007/s10732-007-9013-7,An electromagnetic meta-heuristic for the nurse scheduling problem,Broos Maenhout and Mario Vanhoucke,2007,60,Journal of Heuristics
-10.1007/s10732-006-9001-3,Distance measures based on the edit distance for permutation-type representations,Kenneth Sörensen,2007,39,Journal of Heuristics
 10.1007/s10732-019-09409-w,"Intensification, Diversification and Learning in metaheuristic optimization",Fred Glover and Michele Samorani,2019,10,Journal of Heuristics
-10.1007/s10732-005-1997-2,Local Search for Vehicle Routing and Scheduling Problems: Review and Conceptual Integration,Birger Funke and Tore Grünert and Stefan Irnich,2005,71,Journal of Heuristics
 10.1007/s10732-013-9223-0,Randomized heuristics for handover minimization in mobility networks,L. F. Morán-Mirabal and J. L. González-Velarde and M. G. C. Resende and R. M. A. Silva,2013,23,Journal of Heuristics
-10.1007/s10732-011-9188-9,A heuristic solution method for node routing based solid waste collection problems,Vera Hemmelmayr and Karl F. Doerner and Richard F. Hartl and Stefan Rath,2013,66,Journal of Heuristics
-10.1007/s10732-008-9080-4,A study on the use of non-parametric tests for analyzing the evolutionary algorithms’ behaviour: a case study on the CEC’2005 Special Session on Real Parameter Optimization,Salvador García and Daniel Molina and Manuel Lozano and Francisco Herrera,2009,1252,Journal of Heuristics
-10.1007/s10732-012-9203-9,A heuristic algorithm for the strip packing problem,Jianli Chen and Wenxing Zhu and Zheng Peng,2012,7,Journal of Heuristics
 10.1023/b:heur.0000026264.51747.7f,Combining Swaps and Node Weights in an Adaptive Greedy Approach for the Maximum Clique Problem,A. Grosso and M. Locatelli and F. Della Croce,2004,27,Journal of Heuristics
-10.1007/s10732-007-9026-2,Approximating the maximum vertex/edge weighted clique using local search,Wayne Pullan,2008,47,Journal of Heuristics
-10.1007/s10732-019-09423-y,The vehicle routing problem with cross-docking and resource constraints,Philippe Grangier and Michel Gendreau and Fabien Lehuédé and Louis-Martin Rousseau,2021,8,Journal of Heuristics
+10.1007/s10732-007-9040-4,Solving a bi-objective nurse rerostering problem by using a utopic Pareto genetic heuristic,Margarida Vaz Pato and Margarida Moz,2008,32,Journal of Heuristics
+10.1023/a:1009638700683,n.m.,Pedro Castro Borges,2000,6,Journal of Heuristics
+10.1007/s10732-021-09478-w,Randomized rounding algorithms for large scale unsplittable flow problems,François Lamothe and Emmanuel Rachelson and Alain Haït and Cedric Baudoin and Jean-Baptiste Dupé,2021,3,Journal of Heuristics
+10.1007/s10732-009-9120-8,A new dispatching rule based genetic algorithm for the multi-objective job shop problem,José Antonio Vázquez-Rodríguez and Sanja Petrovic,2010,51,Journal of Heuristics
+10.1007/s10732-009-9103-9,Two-phase Pareto local search for the biobjective traveling salesman problem,Thibaut Lust and Jacques Teghem,2010,107,Journal of Heuristics
+10.1007/s10732-017-9355-8,A biased random key genetic algorithm applied to the electric distribution network reconfiguration problem,H. de Faria and M. G. C. Resende and D. Ernst,2017,28,Journal of Heuristics
+10.1007/s10732-021-09477-x,A simple hyper-heuristic approach for a variant of many-to-many hub location-routing problem,Venkatesh Pandiri and Alok Singh,2021,1,Journal of Heuristics
+10.1007/s10732-012-9203-9,A heuristic algorithm for the strip packing problem,Jianli Chen and Wenxing Zhu and Zheng Peng,2012,7,Journal of Heuristics
+10.1007/s10732-015-9285-2,A tabu search algorithm for cohesive clustering problems,Buyang Cao and Fred Glover and Cesar Rego,2015,14,Journal of Heuristics
+10.1007/s10732-008-9080-4,A study on the use of non-parametric tests for analyzing the evolutionary algorithms’ behaviour: a case study on the CEC’2005 Special Session on Real Parameter Optimization,Salvador García and Daniel Molina and Manuel Lozano and Francisco Herrera,2009,1263,Journal of Heuristics
+10.1007/s10732-020-09451-z,An adaptive large neighborhood search heuristic for the planar storage location assignment problem: application to stowage planning for Roll-on Roll-off ships,Jone R. Hansen and Kjetil Fagerholt and Magnus Stålhane and Jørgen G. Rakke,2020,5,Journal of Heuristics
+10.1007/s10732-011-9172-4,Heuristics and metaheuristics for the maximum diversity problem,Rafael Martí and Micael Gallego and Abraham Duarte and Eduardo G. Pardo,2013,48,Journal of Heuristics
 10.1007/s10732-022-09502-7,Heuristics for optimizing 3D mapping missions over swarm-powered ad-hoc clouds,Leandro R. Costa and Daniel Aloise and Luca G. Gianoli and Andrea Lodi,2022,0,Journal of Heuristics
 10.1007/s10732-018-9402-0,Estimating searching cost of regular path queries on large graphs by exploiting unit-subqueries,Van-Quyet Nguyen and Quyet-Thang Huynh and Kyungbaek Kim,2022,3,Journal of Heuristics
-10.1023/b:heur.0000045322.51784.2a,On Heuristics for Solving Winner Determination Problem in Combinatorial Auctions,Masaya Mito and Satoshi Fujita,2004,20,Journal of Heuristics
+10.1007/s10732-007-9062-y,A new approach for scheduling independent tasks with multiple modes,Massimiliano Caramia and Stefano Giordani,2009,9,Journal of Heuristics
 10.1007/s10732-016-9317-6,Iterated local search with Trellis-neighborhood for the partial Latin square extension problem,Kazuya Haraguchi,2016,3,Journal of Heuristics
 10.1007/s10732-018-9393-x,Implementation of a maximum clique search procedure on CUDA,Paweł Daniluk and Grzegorz Firlik and Bogdan Lesyng,2019,2,Journal of Heuristics
+10.1007/s10732-013-9225-y,A three-phase matheuristic for capacitated multi-commodity fixed-cost network design with design-balance constraints,Duc Minh Vu and Teodor Gabriel Crainic and Michel Toulouse,2013,26,Journal of Heuristics
+10.1023/a:1015061802659,n.m.,Renata M. Aiex and Mauricio G.C. Resende and Celso C. Ribeiro,2002,112,Journal of Heuristics
 10.1007/s10732-014-9246-1,A distributed social choice protocol for combinatorial domains,Minyi Li and Quoc Bao Vo and Ryszard Kowalczyk,2014,2,Journal of Heuristics
 10.1007/s10732-008-9083-1,The single vehicle pickup and delivery problem with time windows: intelligent operators for heuristic and metaheuristic algorithms,Manar I. Hosny and Christine L. Mumford,2010,21,Journal of Heuristics
 10.1007/s10732-007-9043-1,Ant colony algorithm hybridized with tabu and greedy searches as applied to multi-objective optimization in project management,Rachid Chelouah and Claude Baron,2007,5,Journal of Heuristics
-10.1007/s10732-005-0713-6,A Note on Single Alternating Cycle Neighborhoods for the TSP,Birger Funke and Tore Grünert and Stefan Irnich,2005,8,Journal of Heuristics
 10.1007/s10732-010-9148-9,An adaptive multi-start graph partitioning algorithm for structuring cellular networks,Matías Toril and Volker Wille and Iñigo Molina-Fernández and Chris Walshaw,2011,1,Journal of Heuristics
 10.1007/s10732-005-5433-4,Robust Parameter Settings for Variation Operators by Measuring the Resampling Ratio: A Study on Binary Constraint Satisfaction Problems,Jano I. van Hemert and Thomas B�ck,2004,2,Journal of Heuristics
 10.1007/s10732-010-9127-1,On the asymptotic behavior of subtour-patching heuristics in solving the TSP on permuted Monge matrices,Vladimir G. Deĭneko and Dvir Shabtay and George Steiner,2011,2,Journal of Heuristics
@@ -343,22 +346,18 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10732-005-3487-y,Further Extension of the TSP Assign Neighborhood,Gregory Gutin and Fred Glover,2005,3,Journal of Heuristics
 10.1023/a:1009661804163,n.m.,Djangir A. Babayev and George I. Bell,2001,1,Journal of Heuristics
 10.1023/a:1013657516627,n.m.,Michel Gendreau,2002,4,Journal of Heuristics
+10.1007/s10732-016-9315-8,Partitioning (hierarchically clustered) complex networks via size-constrained graph clustering,Henning Meyerhenke and Peter Sanders and Christian Schulz,2016,9,Journal of Heuristics
 10.1007/s10732-012-9204-8,Calibrating continuous multi-objective heuristics using mixture experiments,José Antonio Vázquez-Rodríguez and Sanja Petrovic,2012,3,Journal of Heuristics
 10.1007/s10732-008-9073-3,AEGIS—attribute experimentation guiding improvement searches,Michael Racer and Robin Lovgren,2009,0,Journal of Heuristics
 10.1007/s10732-007-9069-4,Design of a motorcycle frame using neuroacceleration strategies in MOEAs,Jorge E. Rodríguez and Andrés L. Medaglia and Carlos A. Coello Coello,2009,9,Journal of Heuristics
 10.1007/s10732-014-9262-1,Efficient heuristics for the workover rig routing problem with a heterogeneous fleet and a finite horizon,Glaydston Mattos Ribeiro and Guy Desaulniers and Jacques Desrosiers and Thibaut Vidal and Bruno Salezze Vieira,2014,16,Journal of Heuristics
-10.1007/s10732-008-9099-6,A shift sequence based approach for nurse scheduling and a new benchmark dataset,Peter Brucker and Edmund K. Burke and Tim Curtois and Rong Qu and Greet Vanden Berghe,2010,55,Journal of Heuristics
 10.1023/b:heur.0000045321.59202.52,A New Memetic Algorithm for the Asymmetric Traveling Salesman Problem,Luciana Buriol and Paulo M. França and Pablo Moscato,2004,88,Journal of Heuristics
-10.1007/s10732-019-09416-x,Creating dispatching rules by simple ensemble combination,Marko Ɖurasević and Domagoj Jakobović,2019,17,Journal of Heuristics
-10.1007/s10732-006-7284-z,A genetic k-medoids clustering algorithm,Weiguo Sheng and Xiaohui Liu,2006,41,Journal of Heuristics
 10.1007/s10732-011-9156-4,A mutation operator based on a Pareto ranking for multi-objective evolutionary algorithms,P. M. Mateo and I. Alberto,2012,14,Journal of Heuristics
-10.1007/s10732-005-5432-5,A Variable Neighborhood Search for the Multi Depot Vehicle Routing Problem with Time Windows,Michael Polacek and Richard F. Hartl and Karl Doerner and Marc Reimann,2004,173,Journal of Heuristics
 10.1023/b:heur.0000004810.27436.30,A Memetic Algorithm for Minimum-Cost Vertex-Biconnectivity Augmentation of Graphs,Ivana Ljubić and Günther R. Raidl,2003,9,Journal of Heuristics
 10.1023/a:1009617209268,n.m.,Anant Singh Jain and Balasubramanian Rangaswamy and Sheik Meeran,2000,41,Journal of Heuristics
 10.1007/s10732-021-09483-z,Multi-level evolution strategies for high-resolution black-box control,Ofer M. Shir and Xi. Xing and Herschel. Rabitz,2021,0,Journal of Heuristics
 10.1023/a:1009661626037,n.m.,Joel W. Gannett,2000,0,Journal of Heuristics
 10.1007/s10732-007-9034-2,A ring-mesh topology design problem for optical transport networks,Youngjin Kim and Youngho Lee and Junghee Han,2008,0,Journal of Heuristics
-10.1007/s10732-011-9184-0,A two-pheromone trail ant colony system—tabu search approach for the heterogeneous vehicle routing problem with time windows and multiple products,Jair J. De la Cruz and Carlos D. Paternina-Arboleda and Victor Cantillo and Jairo R. Montoya-Torres,2013,20,Journal of Heuristics
 10.1007/s10732-017-9356-7,Hybrid multi-objective Bayesian estimation of distribution algorithm: a comparative analysis for the multi-objective knapsack problem,Marcella S. R. Martins and Myriam R. B. S. Delgado and Ricardo Lüders and Roberto Santana and Richard A. Gonçalves and Carolina P. de Almeida,2018,7,Journal of Heuristics
 10.1023/a:1015487829051,n.m.,Mikhail Y. Kovalyov and Frank Werner,2002,20,Journal of Heuristics
 10.1007/s10732-011-9169-z,Several versions of the devour digest tidy-up heuristic for unconstrained binary quadratic problems,Saïd Hanafi and Ahmed-Riadh Rebai and Michel Vasquez,2013,8,Journal of Heuristics
@@ -369,29 +368,20 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10732-011-9174-2,Variable objective search,Sergiy Butenko and Oleksandra Yezerska and Balabhaskar Balasundaram,2013,9,Journal of Heuristics
 10.1007/s10732-011-9190-2,"Bounding, filtering and diversification in CP-based local branching",Zeynep Kiziltan and Andrea Lodi and Michela Milano and Fabio Parisini,2012,5,Journal of Heuristics
 10.1007/s10732-007-9042-2,Pareto memetic algorithm for multiple objective optimization with an industrial application,Arnaud Zinflou and Caroline Gagné and Marc Gravel and Wilson L. Price,2008,12,Journal of Heuristics
-10.1007/s10732-011-9158-2,The balanced academic curriculum problem revisited,Marco Chiarandini and Luca Di Gaspero and Stefano Gualandi and Andrea Schaerf,2012,18,Journal of Heuristics
-10.1007/s10732-017-9328-y,A case study of algorithm selection for the traveling thief problem,Markus Wagner and Marius Lindauer and Mustafa Mısır and Samadhi Nallaperuma and Frank Hutter,2018,34,Journal of Heuristics
-10.1007/s10732-021-09466-0,Weighted proximity search,Filipe Rodrigues and Agostinho Agra and Lars Magnus Hvattum and Cristina Requejo,2021,2,Journal of Heuristics
-10.1007/s10732-013-9225-y,A three-phase matheuristic for capacitated multi-commodity fixed-cost network design with design-balance constraints,Duc Minh Vu and Teodor Gabriel Crainic and Michel Toulouse,2013,26,Journal of Heuristics
-10.1007/s10732-015-9281-6,A hybrid metaheuristic for the vehicle routing problem with stochastic demand and duration constraints,Jorge E. Mendoza and Louis-Martin Rousseau and Juan G. Villegas,2016,35,Journal of Heuristics
-10.1007/s10732-011-9172-4,Heuristics and metaheuristics for the maximum diversity problem,Rafael Martí and Micael Gallego and Abraham Duarte and Eduardo G. Pardo,2013,48,Journal of Heuristics
 10.1007/s10732-018-9385-x,Adaptive multiple crossover genetic algorithm to solve workforce scheduling and routing problem,Haneen Algethami and Anna Martínez-Gavara and Dario Landa-Silva,2019,5,Journal of Heuristics
 10.1007/s10732-016-9318-5,"Editor’s Note on the MIC 2013 Special Issue of the Journal of Heuristics (Volume 22, Issue 4, August 2016)",Manuel Laguna,2016,1,Journal of Heuristics
-10.1007/s10732-014-9256-z,Planning the deployment of multiple sinks and relays in wireless sensor networks,Lanny Sitanayah and Kenneth N. Brown and Cormac J. Sreenan,2015,21,Journal of Heuristics
-10.1007/s10732-006-5561-5,Creating very large scale neighborhoods out of smaller ones by compounding moves,Özlem Ergun and James B. Orlin and Abran Steele-Feldman,2006,39,Journal of Heuristics
 10.1007/s10732-022-09495-3,Incomplete MaxSAT approaches for combinatorial testing,Carlos Ansótegui and Felip Manyà and Jesus Ojeda and Josep M. Salvia and Eduard Torres,2022,2,Journal of Heuristics
+10.1007/s10732-022-09505-4,Automated Algorithm Selection: from Feature-Based to Feature-Free Approaches,Mohamad Alissa and Kevin Sim and Emma Hart,2023,1,Journal of Heuristics
+10.1023/a:1009670112978,n.m.,D. Tuyttens and J. Teghem and Ph. Fortemps and K. Van Nieuwenhuyze,2000,56,Journal of Heuristics
 10.1023/a:1009622230725,n.m.,Esra Köktener Karasakal and Murat Köksalan,2000,27,Journal of Heuristics
-10.1007/s10732-009-9105-7,Hybrid evolutionary optimization of the operation of pipeless plants,Sabine Piana and Sebastian Engell,2010,10,Journal of Heuristics
 10.1007/s10732-017-9340-2,Finding short and implementation-friendly addition chains with evolutionary algorithms,Stjepan Picek and Carlos A. Coello Coello and Domagoj Jakobovic and Nele Mentens,2018,4,Journal of Heuristics
 10.1007/s10732-012-9198-2,Particle swarm optimization for the Steiner tree in graph and delay-constrained multicast routing problems,Rong Qu and Ying Xu and Juan P. Castro and Dario Landa-Silva,2013,26,Journal of Heuristics
 10.1007/s10732-015-9286-1,A matheuristic for the minimum weight rooted arborescence problem,Christian Blum and Borja Calvo,2015,6,Journal of Heuristics
 10.1007/s10732-018-09404-7,An analysis of heuristic subsequences for offline hyper-heuristic learning,W. B. Yates and E. C. Keedwell,2019,8,Journal of Heuristics
 10.1007/s10732-006-6726-y,Bucket elimination for multiobjective optimization problems,Emma Rollón and Javier Larrosa,2006,33,Journal of Heuristics
 10.1007/s10732-021-09472-2,Special issue on matheuristics,Yannick Kergosien and Jorge E. Mendoza and Vincent T’kindt,2021,1,Journal of Heuristics
-10.1007/s10732-005-2135-x,Parametric Ghost Image Processes for Fixed-Charge Problems: A Study of Transportation Networks,Fred Glover,2005,21,Journal of Heuristics
 10.1023/b:heur.0000026895.72657.a2,SASEGASA: A New Generic Parallel Evolutionary Algorithm for Achieving Highest Quality Results,Michael Affenzeller and Stefan Wagner,2004,27,Journal of Heuristics
 10.1023/a:1022584312032,n.m.,Alberto Caprara and Hans Kellerer and Ulrich Pferschy,2003,22,Journal of Heuristics
-10.1007/s10732-007-9062-y,A new approach for scheduling independent tasks with multiple modes,Massimiliano Caramia and Stefano Giordani,2009,8,Journal of Heuristics
 10.1007/s10732-020-09465-7,Augmented intuition: a bridge between theory and practice,Pablo Moscato and Luke Mathieson and Mohammad Nazmul Haque,2021,0,Journal of Heuristics
 10.1023/b:heur.0000034715.70386.5b,Evolutionary Design of Nearest Prototype Classifiers,Fernando Fernández and Pedro Isasi,2004,52,Journal of Heuristics
 10.1007/s10732-010-9132-4,Special issue on recent advances in metaheuristics,Teodor Gabriel Crainic and Michel Gendreau and Louis-Martin Rousseau,2010,5,Journal of Heuristics
@@ -402,49 +392,59 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10732-012-9202-x,Strategies for designing energy-efficient clusters-based WSN topologies,Andréa Cynthia Santos and Christophe Duhamel and Lorena Silva Belisário and Lucas Moreira Guedes,2012,10,Journal of Heuristics
 10.1023/a:1017964608086,n.m.,F. Sibel Salman and Jayant R. Kalagnanam and Sesh Murthy and Andrew Davenport,2002,6,Journal of Heuristics
 10.1007/s10732-009-9119-1,Generating meta-heuristic optimization code using ADATE,Arne Løkketangen and Roland Olsson,2010,10,Journal of Heuristics
-10.1023/a:1009670112978,n.m.,D. Tuyttens and J. Teghem and Ph. Fortemps and K. Van Nieuwenhuyze,2000,56,Journal of Heuristics
-10.1007/s10732-017-9351-z,Constructive cooperative coevolution for large-scale global optimisation,Emile Glorieux and Bo Svensson and Fredrik Danielsson and Bengt Lennartson,2017,5,Journal of Heuristics
 10.1023/a:1020307925279,n.m.,Diptesh Ghosh and Gerard Sierksma,2002,12,Journal of Heuristics
 10.1007/s10732-012-9207-5,Subgraph extraction and metaheuristics for the maximum clique problem,Duc-Cuong Dang and Aziz Moukrim,2012,7,Journal of Heuristics
 10.1023/a:1011315014322,n.m.,Youssef Saab,2001,14,Journal of Heuristics
-10.1007/s10732-006-4983-4,Image registration with iterated local search,Oscar Cordón and Sergio Damas,2006,24,Journal of Heuristics
 10.1007/s10732-007-9059-6,On the efficiency of evolutionary fuzzy clustering,Ricardo J. G. B. Campello and Eduardo R. Hruschka and Vinícius S. Alves,2009,42,Journal of Heuristics
 10.1007/s10732-006-9007-x,A composite-neighborhood tabu search approach to the traveling tournament problem,Luca Di Gaspero and Andrea Schaerf,2007,45,Journal of Heuristics
-10.1007/s10732-017-9354-9,Variations on memetic algorithms for graph coloring problems,Laurent Moalic and Alexandre Gondran,2018,26,Journal of Heuristics
-10.1023/a:1015053600842,n.m.,Hermann Gehring and Jörg Homberger,2002,56,Journal of Heuristics
+10.1007/s10732-006-7284-z,A genetic k-medoids clustering algorithm,Weiguo Sheng and Xiaohui Liu,2006,42,Journal of Heuristics
+10.1007/s10732-017-9328-y,A case study of algorithm selection for the traveling thief problem,Markus Wagner and Marius Lindauer and Mustafa Mısır and Samadhi Nallaperuma and Frank Hutter,2018,34,Journal of Heuristics
+10.1007/s10732-014-9256-z,Planning the deployment of multiple sinks and relays in wireless sensor networks,Lanny Sitanayah and Kenneth N. Brown and Cormac J. Sreenan,2015,22,Journal of Heuristics
+10.1007/s10732-011-9184-0,A two-pheromone trail ant colony system—tabu search approach for the heterogeneous vehicle routing problem with time windows and multiple products,Jair J. De la Cruz and Carlos D. Paternina-Arboleda and Victor Cantillo and Jairo R. Montoya-Torres,2013,21,Journal of Heuristics
 10.1023/a:1021841728075,n.m.,Éric D. Taillard,2003,62,Journal of Heuristics
-10.1007/s10732-007-9053-z,Experiments concerning sequential versus simultaneous maximization of objective function and distance,Peter Greistorfer and Arne Løkketangen and Stefan Voß and David L. Woodruff,2008,19,Journal of Heuristics
 10.1023/a:1013653332557,n.m.,Filippo Focacci and Andrea Lodi and Michela Milano,2002,8,Journal of Heuristics
 10.1007/s10732-010-9154-y,A hybrid metaheuristic approach to the university course timetabling problem,Salwani Abdullah and Hamza Turabieh and Barry McCollum and Paul McMullan,2012,39,Journal of Heuristics
 10.1007/s10732-009-9110-x,Scheduling in a multi-processor environment with deteriorating job processing times and decreasing values: the case of forest fires,C. P. Pappis and N. P. Rachaniotis,2010,18,Journal of Heuristics
 10.1007/s10732-011-9161-7,A MIP-based framework and its application on a lot sizing problem with setup carryover,Marco Caserta and Stefan Voß,2013,10,Journal of Heuristics
+10.1007/s10732-017-9351-z,Constructive cooperative coevolution for large-scale global optimisation,Emile Glorieux and Bo Svensson and Fredrik Danielsson and Bengt Lennartson,2017,5,Journal of Heuristics
 10.1007/s10732-015-9299-9,Interactive planning system for forest road location,David Meignan and Jean-Marc Frayret and Gilles Pesant,2015,1,Journal of Heuristics
-10.1023/a:1011921025322,n.m.,Alan P. French and Andrew C. Robinson and John M. Wilson,2001,29,Journal of Heuristics
-10.1007/s10732-017-9336-y,Mathematical programming based heuristics for the 0–1 MIP: a survey,Saïd Hanafi and Raca Todosijević,2017,8,Journal of Heuristics
 10.1007/s10732-014-9275-9,Analysing differences between algorithm configurations through ablation,Chris Fawcett and Holger H. Hoos,2016,54,Journal of Heuristics
 10.1007/s10732-018-9384-y,Diversification-based learning in computing and optimization,Fred Glover and Jin-Kao Hao,2019,8,Journal of Heuristics
 10.1007/s10732-008-9072-4,A solution method for a car fleet management problem with maintenance constraints,Alain Hertz and David Schindl and Nicolas Zufferey,2009,24,Journal of Heuristics
 10.1007/s10732-014-9245-2,An analysis of the velocity updating rule of the particle swarm optimization algorithm,Mohammad Reza Bonyadi and Zbigniew Michalewicz and Xiaodong Li,2014,45,Journal of Heuristics
-10.1007/s10732-010-9136-0,Quantum-inspired evolutionary algorithms: a survey and empirical study,Gexiang Zhang,2011,183,Journal of Heuristics
-10.1007/s10732-020-09451-z,An adaptive large neighborhood search heuristic for the planar storage location assignment problem: application to stowage planning for Roll-on Roll-off ships,Jone R. Hansen and Kjetil Fagerholt and Magnus Stålhane and Jørgen G. Rakke,2020,5,Journal of Heuristics
-10.1007/s10732-010-9144-0,GRASP with path-relinking for the generalized quadratic assignment problem,Geraldo R. Mateus and Mauricio G. C. Resende and Ricardo M. A. Silva,2011,40,Journal of Heuristics
 10.1007/s10732-013-9231-0,Adaptive and multi-mining versions of the DM-GRASP hybrid metaheuristic,Alexandre Plastino and Hugo Barbalho and Luis Filipe M. Santos and Richard Fuchshuber and Simone L. Martins,2014,15,Journal of Heuristics
-10.1023/a:1009679511137,n.m.,David Berger and Bernard Gendron and Jean-Yves Potvin and S. Raghavan and Patrick Soriano,2000,34,Journal of Heuristics
 10.1007/s10732-011-9166-2,GRASP and path relinking hybridizations for the point matching-based image registration problem,José Santamaría and Oscar Cordón and Sergio Damas and Rafael Martí and Ricardo J. Palma,2012,7,Journal of Heuristics
-10.1023/a:1015061802659,n.m.,Renata M. Aiex and Mauricio G.C. Resende and Celso C. Ribeiro,2002,111,Journal of Heuristics
 10.1007/s10732-020-09443-z,Meta-heuristics for the one-dimensional cutting stock problem with usable leftover,Santiago V. Ravelo and Cláudio N. Meneses and Maristela O. Santos,2020,8,Journal of Heuristics
-10.1023/a:1009626110229,n.m.,R. Chelouah and P. Siarry,2000,208,Journal of Heuristics
-10.1023/b:heur.0000012446.94732.b6,A Tabu-Search Hyperheuristic for Timetabling and Rostering,E.K. Burke and G. Kendall and E. Soubeiga,2003,366,Journal of Heuristics
-10.1007/s10732-009-9106-6,A large neighbourhood search approach to the multi-activity shift scheduling problem,Claude-Guy Quimper and Louis-Martin Rousseau,2010,36,Journal of Heuristics
-10.1007/s10732-007-9058-7,Simulated annealing in the presence of noise,Jürgen Branke and Stephan Meisel and Christian Schmidt,2008,28,Journal of Heuristics
-10.1007/s10732-016-9315-8,Partitioning (hierarchically clustered) complex networks via size-constrained graph clustering,Henning Meyerhenke and Peter Sanders and Christian Schulz,2016,8,Journal of Heuristics
-10.1007/s10732-022-09505-4,Automated Algorithm Selection: from Feature-Based to Feature-Free Approaches,Mohamad Alissa and Kevin Sim and Emma Hart,2023,0,Journal of Heuristics
-10.1007/s10732-011-9159-1,Designing routes for WEEE collection: the vehicle routing problem with split loads and date windows,Julio Mar-Ortiz and José Luis González-Velarde and Belarmino Adenso-Díaz,2013,30,Journal of Heuristics
-10.1023/a:1015013919497,n.m.,Félix García-López and Belén Melián-Batista and José A. Moreno-Pérez and J. Marcos Moreno-Vega,2002,82,Journal of Heuristics
-10.1007/s10732-011-9186-y,An Iterated Local Search heuristic for the Heterogeneous Fleet Vehicle Routing Problem,Puca Huachi Vaz Penna and Anand Subramanian and Luiz Satoru Ochi,2013,154,Journal of Heuristics
-10.1023/a:1026565712483,n.m.,Saïd Hanafi,2001,35,Journal of Heuristics
 10.1007/s10732-016-9314-9,Roster evaluation based on classifiers for the nurse rostering problem,Roman Václavík and Přemysl Šůcha and Zdeněk Hanzálek,2016,2,Journal of Heuristics
-10.1007/s10732-008-9081-3,Neighborhood structures for the container loading problem: a VNS implementation,F. Parreño and R. Alvarez-Valdes and J. F. Oliveira and J. M. Tamarit,2010,74,Journal of Heuristics
+10.1023/a:1026565712483,n.m.,Saïd Hanafi,2001,35,Journal of Heuristics
+10.1007/s10732-009-9105-7,Hybrid evolutionary optimization of the operation of pipeless plants,Sabine Piana and Sebastian Engell,2010,11,Journal of Heuristics
+10.1007/s10732-006-4983-4,Image registration with iterated local search,Oscar Cordón and Sergio Damas,2006,25,Journal of Heuristics
+10.1007/s10732-009-9106-6,A large neighbourhood search approach to the multi-activity shift scheduling problem,Claude-Guy Quimper and Louis-Martin Rousseau,2010,36,Journal of Heuristics
+10.1023/b:heur.0000045322.51784.2a,On Heuristics for Solving Winner Determination Problem in Combinatorial Auctions,Masaya Mito and Satoshi Fujita,2004,20,Journal of Heuristics
+10.1007/s10732-008-9099-6,A shift sequence based approach for nurse scheduling and a new benchmark dataset,Peter Brucker and Edmund K. Burke and Tim Curtois and Rong Qu and Greet Vanden Berghe,2010,55,Journal of Heuristics
+10.1023/a:1015013919497,n.m.,Félix García-López and Belén Melián-Batista and José A. Moreno-Pérez and J. Marcos Moreno-Vega,2002,82,Journal of Heuristics
+10.1023/a:1009679511137,n.m.,David Berger and Bernard Gendron and Jean-Yves Potvin and S. Raghavan and Patrick Soriano,2000,34,Journal of Heuristics
+10.1023/b:heur.0000012446.94732.b6,A Tabu-Search Hyperheuristic for Timetabling and Rostering,E.K. Burke and G. Kendall and E. Soubeiga,2003,366,Journal of Heuristics
+10.1007/s10732-005-0713-6,A Note on Single Alternating Cycle Neighborhoods for the TSP,Birger Funke and Tore Grünert and Stefan Irnich,2005,8,Journal of Heuristics
+10.1023/a:1011921025322,n.m.,Alan P. French and Andrew C. Robinson and John M. Wilson,2001,29,Journal of Heuristics
+10.1007/s10732-011-9158-2,The balanced academic curriculum problem revisited,Marco Chiarandini and Luca Di Gaspero and Stefano Gualandi and Andrea Schaerf,2012,19,Journal of Heuristics
+10.1007/s10732-007-9058-7,Simulated annealing in the presence of noise,Jürgen Branke and Stephan Meisel and Christian Schmidt,2008,28,Journal of Heuristics
+10.1007/s10732-011-9159-1,Designing routes for WEEE collection: the vehicle routing problem with split loads and date windows,Julio Mar-Ortiz and José Luis González-Velarde and Belarmino Adenso-Díaz,2013,30,Journal of Heuristics
+10.1023/a:1015053600842,n.m.,Hermann Gehring and Jörg Homberger,2002,56,Journal of Heuristics
+10.1007/s10732-006-5561-5,Creating very large scale neighborhoods out of smaller ones by compounding moves,Özlem Ergun and James B. Orlin and Abran Steele-Feldman,2006,39,Journal of Heuristics
+10.1007/s10732-005-5432-5,A Variable Neighborhood Search for the Multi Depot Vehicle Routing Problem with Time Windows,Michael Polacek and Richard F. Hartl and Karl Doerner and Marc Reimann,2004,175,Journal of Heuristics
+10.1007/s10732-005-2135-x,Parametric Ghost Image Processes for Fixed-Charge Problems: A Study of Transportation Networks,Fred Glover,2005,21,Journal of Heuristics
+10.1007/s10732-011-9186-y,An Iterated Local Search heuristic for the Heterogeneous Fleet Vehicle Routing Problem,Puca Huachi Vaz Penna and Anand Subramanian and Luiz Satoru Ochi,2013,156,Journal of Heuristics
+10.1007/s10732-015-9281-6,A hybrid metaheuristic for the vehicle routing problem with stochastic demand and duration constraints,Jorge E. Mendoza and Louis-Martin Rousseau and Juan G. Villegas,2016,35,Journal of Heuristics
+10.1007/s10732-007-9053-z,Experiments concerning sequential versus simultaneous maximization of objective function and distance,Peter Greistorfer and Arne Løkketangen and Stefan Voß and David L. Woodruff,2008,19,Journal of Heuristics
+10.1007/s10732-010-9144-0,GRASP with path-relinking for the generalized quadratic assignment problem,Geraldo R. Mateus and Mauricio G. C. Resende and Ricardo M. A. Silva,2011,40,Journal of Heuristics
+10.1007/s10732-019-09416-x,Creating dispatching rules by simple ensemble combination,Marko Ɖurasević and Domagoj Jakobović,2019,20,Journal of Heuristics
+10.1007/s10732-017-9354-9,Variations on memetic algorithms for graph coloring problems,Laurent Moalic and Alexandre Gondran,2018,28,Journal of Heuristics
+10.1007/s10732-010-9136-0,Quantum-inspired evolutionary algorithms: a survey and empirical study,Gexiang Zhang,2011,184,Journal of Heuristics
+10.1023/a:1009626110229,n.m.,R. Chelouah and P. Siarry,2000,209,Journal of Heuristics
+10.1007/s10732-008-9081-3,Neighborhood structures for the container loading problem: a VNS implementation,F. Parreño and R. Alvarez-Valdes and J. F. Oliveira and J. M. Tamarit,2010,75,Journal of Heuristics
+10.1007/s10732-017-9336-y,Mathematical programming based heuristics for the 0–1 MIP: a survey,Saïd Hanafi and Raca Todosijević,2017,10,Journal of Heuristics
+10.1007/s10732-021-09466-0,Weighted proximity search,Filipe Rodrigues and Agostinho Agra and Lars Magnus Hvattum and Cristina Requejo,2021,3,Journal of Heuristics
 10.1007/s10732-008-9084-0,Hardness measures for gridworld benchmarks and performance analysis of real-time heuristic search algorithms,Masataka Mizusawa and Masahito Kurihara,2010,0,Journal of Heuristics
 10.1007/s10732-010-9140-4,Boosting video tracking performance by means of Tabu Search in intelligent visual surveillance systems,Ivan Dotu and Miguel A. Patricio and A. Berlanga and J. García and José M. Molina,2011,4,Journal of Heuristics
 10.1007/s10732-017-9359-4,Dynamic region visit routing problem for vehicles with minimum turning radius,Douglas G. Macharet and Armando Alves Neto and Vila F. da Camara Neto and Mario F. M. Campos,2018,6,Journal of Heuristics
@@ -463,12 +463,14 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10732-020-09442-0,Special issue on recent innovations in variable neighborhood search,Abraham Duarte and Eduardo G. Pardo,2020,2,Journal of Heuristics
 10.1023/b:heur.0000012448.70007.32,A Range-Compaction Heuristic for Graph Coloring,Andrea Di Blas and Arun Jagota and Richard Hughey,2003,1,Journal of Heuristics
 10.1007/s10732-014-9255-0,Boosting local search with Lagrangian relaxation,Zhilei Ren and He Jiang and Shuwei Zhang and Jingxuan Zhang and Zhongxuan Luo,2014,0,Journal of Heuristics
-10.1023/b:heur.0000034713.28244.e1,New Results on the Queens_n2Graph Coloring Problem,Michel Vasquez,2004,7,Journal of Heuristics
-10.1023/b:heur.0000019984.80186.48,Asymptotic Analysis of a Greedy Heuristic for the Multi-Period Single-Sourcing Problem: The Acyclic Case,H. Edwin Romeijn and Dolores Romero Morales,2004,8,Journal of Heuristics
 10.1007/s10732-017-9361-x,Scaling-up many-objective combinatorial optimization with Cartesian products of scalarization functions,Mădălina M. Drugan,2018,1,Journal of Heuristics
-10.1007/s10732-010-9124-4,Memetic algorithm for the antibandwidth maximization problem,Richa Bansal and Kamal Srivastava,2011,12,Journal of Heuristics
 10.1007/s10732-013-9222-1,Underestimating the cost of a soft constraint is dangerous: revisiting the edit-distance based soft regular constraint,Jun He and Pierre Flener and Justin Pearson,2013,3,Journal of Heuristics
 10.1007/s10732-014-9276-8,Aggregating multi-valued CP-nets: a CSP-based approach,Minyi Li and Quoc Bao Vo and Ryszard Kowalczyk,2015,6,Journal of Heuristics
+10.1007/s10732-014-9251-4,GRASP-ASP: An algorithm for the CVRP with route balancing,Jorge Oyola and Arne Løkketangen,2014,21,Journal of Heuristics
+10.1007/s10732-010-9131-5,Cooperating local search for the maximum clique problem,Wayne Pullan and Franco Mascia and Mauro Brunato,2011,35,Journal of Heuristics
+10.1007/s10732-014-9238-1,BDD-based heuristics for binary optimization,David Bergman and Andre A. Cire and Willem-Jan van Hoeve and Tallys Yunes,2014,20,Journal of Heuristics
+10.1023/a:1026569813391,n.m.,Steven P. Coy,2001,164,Journal of Heuristics
+10.1007/s10732-019-09412-1,Three multi-start data-driven evolutionary heuristics for the vehicle routing problem with multiple time windows,Slim Belhaiza and Rym M’Hallah and Ghassen Ben Brahim and Gilbert Laporte,2019,15,Journal of Heuristics
 10.1023/b:heur.0000019987.10818.e0,Recovering Beam Search: Enhancing the Beam Search Approach for Combinatorial Optimization Problems,F. Della Croce and M. Ghirardi and R. Tadei,2004,36,Journal of Heuristics
 10.1007/s10732-014-9263-0,Reliability and efficiency in wireless sensor networks: heuristic approaches,Juan A. Gomez-Pulido and Jose M. Lanza-Gutierrez,2015,2,Journal of Heuristics
 10.1007/s10732-012-9210-x,A hybrid heuristic approach for the multi-commodity one-to-one pickup-and-delivery traveling salesman problem,Inmaculada Rodríguez-Martín and Juan José Salazar-González,2012,11,Journal of Heuristics
@@ -479,101 +481,98 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10732-005-2220-1,A Self-Adjusting Algorithm for Driver Scheduling,Jingpeng Li,2005,27,Journal of Heuristics
 10.1007/s10732-019-09407-y,Parallelism in divide-and-conquer non-dominated sorting: a theoretical study considering the PRAM-CREW model,Sumit Mishra and Carlos A. Coello Coello,2019,3,Journal of Heuristics
 10.1007/s10732-008-9096-9,Single-pass and approximate dynamic-programming algorithms for order acceptance and capacity planning,Jade Herbots and Willy Herroelen and Roel Leus,2010,9,Journal of Heuristics
-10.1007/s10732-014-9268-8,Flying elephants: a general method for solving non-differentiable problems,Adilson Elias Xavier and Vinicius Layter Xavier,2016,8,Journal of Heuristics
 10.1007/s10732-005-3208-6,An Algorithm for the Generalized Assignment Problem with Special Ordered Sets,John M. Wilson,2005,9,Journal of Heuristics
 10.1007/s10732-021-09488-8,Intersections management for autonomous vehicles: a heuristic approach,Victor Silva and Clauirton Siebra and Anand Subramanian,2022,1,Journal of Heuristics
 10.1007/s10732-005-1731-0,Multi-Path Approach for Reliability-Redundancy Allocation Using a Scaling Method,Chunghun Ha and Way Kuo,2005,23,Journal of Heuristics
-10.1023/a:1026569813391,n.m.,Steven P. Coy,2001,164,Journal of Heuristics
 10.1023/a:1015492014030,n.m.,Marie-Christine Costa and Alain Hertz and Michel Mittaz,2002,5,Journal of Heuristics
 10.1007/s10732-019-09425-w,Scheduling hybrid flow shops with time windows,Fan Yang and Roel Leus,2021,0,Journal of Heuristics
 10.1007/s10732-007-9008-4,"Peter Ladislaw Hammer: December 23, 1936–December 27, 2006",Endre Boros and Yves Crama and Bruno Simeone,2007,0,Journal of Heuristics
 10.1007/s10732-005-1509-4,Grasp Embedded Scatter Search for the Multicommodity Capacitated Network Design Problem,Ada M. Alvarez and José Luis González-Velarde and Karim De-Alba,2005,13,Journal of Heuristics
+10.1007/s10732-008-9078-y,An effective heuristic for large-scale capacitated facility location problems,Pasquale Avella and Maurizio Boccia and Antonio Sforza and Igor Vasil’ev,2009,38,Journal of Heuristics
+10.1023/b:heur.0000012447.32370.fd,Optimal Design of Reliable Computer Networks: A Comparison of Metaheuristics,Fulya Altiparmak and Berna Dengiz and Alice E. Smith,2003,40,Journal of Heuristics
 10.1007/s10732-015-9288-z,Hybrid evolutionary algorithm for the b-chromatic number,Iztok Fister and Iztok Peterin and Marjan Mernik and Matej Črepinšek,2015,7,Journal of Heuristics
 10.1007/s10732-020-09460-y,A reduced cost-based restriction and refinement matheuristic for stochastic network design problem,Fatemeh Sarayloo and Teodor Gabriel Crainic and Walter Rei,2021,1,Journal of Heuristics
-10.1007/s10732-014-9238-1,BDD-based heuristics for binary optimization,David Bergman and Andre A. Cire and Willem-Jan van Hoeve and Tallys Yunes,2014,20,Journal of Heuristics
 10.1007/s10732-019-09410-3,Identifying intentions in forum posts with cross-domain data,Tu Minh Phuong and Le Cong Linh and Ngo Xuan Bach,2022,1,Journal of Heuristics
-10.1023/a:1009621410177,n.m.,Bruno De Backer and Vincent Furnon and Paul Shaw and Philip Kilby and Patrick Prosser,2000,106,Journal of Heuristics
 10.1007/s10732-007-9036-0,Construction of classifier ensembles by means of artificial immune systems,Nicolás García-Pedrajas and Colin Fyfe,2008,11,Journal of Heuristics
 10.1007/s10732-014-9265-y,A corridor method based hybrid algorithm for redundancy allocation,Marco Caserta and Stefan Voß,2016,12,Journal of Heuristics
 10.1007/s10732-022-09504-5,Breakout local search for the cyclic cutwidth minimization problem,Mu He and Qinghua Wu and Yongliang Lu,2022,0,Journal of Heuristics
-10.1023/a:1016589707123,n.m.,Jacek Błażewicz and Marta Kasprzak and Wojciech Kuroczycki,2002,35,Journal of Heuristics
-10.1007/s10732-016-9320-y,Can Monte-Carlo Tree Search learn to sacrifice?,Nathan Companez and Aldeida Aleti,2016,5,Journal of Heuristics
+10.1007/s10732-013-9215-0,A multiple local search algorithm for continuous dynamic optimization,Julien Lepagnot and Amir Nakib and Hamouche Oulhadj and Patrick Siarry,2013,10,Journal of Heuristics
 10.1007/s10732-014-9274-x,A memetic algorithm for the virtual network mapping problem,Johannes Inführ and Günther Raidl,2016,17,Journal of Heuristics
+10.1023/a:1025699819419,n.m.,Rajesh J. and Kapil Gupta and Hari Shankar Kusumakar and V. K. Jayaraman and B. D. Kulkarni,2003,39,Journal of Heuristics
+10.1007/s10732-014-9273-y,Time-window relaxations in vehicle routing heuristics,Thibaut Vidal and Teodor Gabriel Crainic and Michel Gendreau and Christian Prins,2015,38,Journal of Heuristics
+10.1007/s10732-007-9022-6,Target aiming Pareto search and its application to the vehicle routing problem with route balancing,Nicolas Jozefowiez and Frédéric Semet and El-Ghazali Talbi,2007,43,Journal of Heuristics
+10.1023/a:1016589707123,n.m.,Jacek Błażewicz and Marta Kasprzak and Wojciech Kuroczycki,2002,35,Journal of Heuristics
+10.1023/b:heur.0000019984.80186.48,Asymptotic Analysis of a Greedy Heuristic for the Multi-Period Single-Sourcing Problem: The Acyclic Case,H. Edwin Romeijn and Dolores Romero Morales,2004,8,Journal of Heuristics
+10.1007/s10732-015-9283-4,Proximity search heuristics for wind farm optimal layout,Martina Fischetti and Michele Monaci,2016,27,Journal of Heuristics
+10.1023/b:heur.0000034713.28244.e1,New Results on the Queens_n2Graph Coloring Problem,Michel Vasquez,2004,7,Journal of Heuristics
+10.1023/a:1009621410177,n.m.,Bruno De Backer and Vincent Furnon and Paul Shaw and Philip Kilby and Patrick Prosser,2000,106,Journal of Heuristics
+10.1023/b:heur.0000026896.44360.f9,A Distributed Evolutionary Simulated Annealing Algorithm for Combinatorial Optimisation Problems,M. Emin Aydin and Terence C. Fogarty,2004,79,Journal of Heuristics
 10.1007/s10732-019-09432-x,Basic variable neighborhood search for the minimum sitting arrangement problem,Eduardo G. Pardo and Antonio García-Sánchez and Marc Sevaux and Abraham Duarte,2020,2,Journal of Heuristics
 10.1007/s10732-014-9249-y,Scheduling parallel machines with single vehicle delivery,Eray Cakici and Scott J. Mason and H. Neil Geismar and John W. Fowler,2014,14,Journal of Heuristics
-10.1007/s10732-014-9279-5,An iterated greedy metaheuristic for the blocking job shop scheduling problem,Marco Pranzo and Dario Pacciarelli,2016,44,Journal of Heuristics
 10.1007/s10732-014-9271-0,Shift-and-Propagate,Timo Berthold and Gregor Hendel,2015,9,Journal of Heuristics
-10.1007/s10732-020-09449-7,A genetic algorithm for finding realistic sea routes considering the weather,Stefan Kuhlemann and Kevin Tierney,2020,12,Journal of Heuristics
+10.1007/s10732-007-9038-y,A large neighborhood search heuristic for the longest common subsequence problem,Todd Easton and Abhilash Singireddy,2008,21,Journal of Heuristics
+10.1007/s10732-012-9213-7,Variable neighborhood search with ejection chains for the antibandwidth problem,Manuel Lozano and Abraham Duarte and Francisco Gortázar and Rafael Martí,2012,23,Journal of Heuristics
+10.1007/s10732-010-9124-4,Memetic algorithm for the antibandwidth maximization problem,Richa Bansal and Kamal Srivastava,2011,13,Journal of Heuristics
+10.1007/s10732-014-9242-5,A survey on algorithmic approaches for solving tourist trip design problems,Damianos Gavalas and Charalampos Konstantopoulos and Konstantinos Mastakas and Grammati Pantziou,2014,184,Journal of Heuristics
 10.1007/s10732-021-09476-y,Bi-criteria multiple knapsack problem with grouped items,Francisco Castillo-Zunino and Pinar Keskinocak,2021,1,Journal of Heuristics
 10.1007/s10732-007-9025-3,A computational study of local search algorithms for Italian high-school timetabling,Pasquale Avella and Bernardo D’Auria and Saverio Salerno and Igor Vasil’ev,2007,22,Journal of Heuristics
 10.1007/s10732-016-9312-y,Multi-wave algorithms for metaheuristic optimization,Fred Glover,2016,5,Journal of Heuristics
-10.1007/s10732-019-09412-1,Three multi-start data-driven evolutionary heuristics for the vehicle routing problem with multiple time windows,Slim Belhaiza and Rym M’Hallah and Ghassen Ben Brahim and Gilbert Laporte,2019,16,Journal of Heuristics
-10.1007/s10732-018-9401-1,Real-time heuristic algorithms for the static weapon target assignment problem,Alexander G. Kline and Darryl K. Ahner and Brian J. Lunday,2019,11,Journal of Heuristics
 10.1007/s10732-020-09457-7,A non-dominated sorting based customized random-key genetic algorithm for the bi-objective traveling thief problem,Jonatas B. C. Chagas and Julian Blank and Markus Wagner and Marcone J. F. Souza and Kalyanmoy Deb,2021,7,Journal of Heuristics
-10.1007/s10732-021-09470-4,Reference point based evolutionary multi-objective optimization algorithms with convergence properties using KKTPM and ASF metrics,Mohamed Abouhawwash and Kalyanmoy Deb,2021,9,Journal of Heuristics
-10.1007/s10732-008-9078-y,An effective heuristic for large-scale capacitated facility location problems,Pasquale Avella and Maurizio Boccia and Antonio Sforza and Igor Vasil’ev,2009,38,Journal of Heuristics
-10.1007/s10732-011-9189-8,Solving large scale Max Cut problems via tabu search,Gary A. Kochenberger and Jin-Kao Hao and Zhipeng Lü and Haibo Wang and Fred Glover,2013,44,Journal of Heuristics
-10.1007/s10732-010-9143-1,Biased random-key genetic algorithms for combinatorial optimization,José Fernando Gonçalves and Mauricio G. C. Resende,2011,315,Journal of Heuristics
-10.1023/a:1009678314795,n.m.,Maciej Hapke and Andrzej Jaszkiewicz and Roman Słowiński,2000,33,Journal of Heuristics
-10.1007/s10732-014-9244-3,A hybrid generational genetic algorithm for the periodic vehicle routing problem with time windows,Phuong Khanh Nguyen and Teodor Gabriel Crainic and Michel Toulouse,2014,17,Journal of Heuristics
 10.1007/s10732-007-9068-5,Guarantees for the success frequency of an algorithm for finding Dodgson-election winners,Christopher M. Homan and Lane A. Hemaspaandra,2009,15,Journal of Heuristics
-10.1007/s10732-014-9250-5,Improved structures for data collection in static and mobile wireless sensor networks,Jon Crowcroft and Michael Segal and Liron Levin,2015,6,Journal of Heuristics
 10.1007/s10732-011-9170-6,Elementary landscape decomposition of the 0-1 unconstrained quadratic optimization,Francisco Chicano and Enrique Alba,2013,8,Journal of Heuristics
 10.1007/s10732-006-3750-x,A hybrid heuristic for the maximum clique problem,Alok Singh and Ashok Kumar Gupta,2006,32,Journal of Heuristics
 10.1007/s10732-007-9019-1,Real-time optimisation of access control lists for efficient Internet packet filtering,Vic Grout and John McGinn and John Davies,2007,10,Journal of Heuristics
 10.1007/s10732-009-9117-3,A heuristic method for non-homogeneous redundancy optimization of series-parallel multi-state systems,Mohamed Ouzineb and Mustapha Nourelfath and Michel Gendreau,2011,23,Journal of Heuristics
 10.1007/s10732-010-9125-3,Autonomous operator management for evolutionary algorithms,Jorge Maturana and Frédéric Lardeux and Frédéric Saubion,2010,66,Journal of Heuristics
-10.1007/s10732-009-9107-5,Human-guided search,Gunnar W. Klau and Neal Lesh and Joe Marks and Michael Mitzenmacher,2010,40,Journal of Heuristics
-10.1023/a:1025699819419,n.m.,Rajesh J. and Kapil Gupta and Hari Shankar Kusumakar and V. K. Jayaraman and B. D. Kulkarni,2003,39,Journal of Heuristics
-10.1007/s10732-007-9038-y,A large neighborhood search heuristic for the longest common subsequence problem,Todd Easton and Abhilash Singireddy,2008,20,Journal of Heuristics
+10.1007/s10732-019-09417-w,"Document representation and classification with Twitter-based document embedding, adversarial domain-adaptation, and query expansion",Minh-Triet Tran and Lap Q. Trieu and Huy Q. Tran,2022,2,Journal of Heuristics
 10.1007/s10732-007-9060-0,Efficient tree traversal to reduce code growth in tree-based genetic programming,Bart Wyns and Luc Boullart,2009,4,Journal of Heuristics
 10.1007/s10732-014-9252-3,Mind the gap: a heuristic study of subway tours,M. Drozdowski and D. Kowalski and J. Mizgajski and D. Mokwa and G. Pawlak,2014,2,Journal of Heuristics
 10.1007/s10732-022-09500-9,Combining hybrid genetic search with ruin-and-recreate for solving the capacitated vehicle routing problem,Martin Simensen and Geir Hasle and Magnus Stålhane,2022,1,Journal of Heuristics
-10.1007/s10732-008-9088-9,Mixed-integer programming models for nesting problems,Matteo Fischetti and Ivan Luzzi,2009,51,Journal of Heuristics
 10.1023/a:1009613921001,n.m.,Rachel Q. Zhang and Wallace J. Hopp and Chonawee Supatgiat,2001,27,Journal of Heuristics
 10.1007/s10732-022-09507-2,Self-adaptive heuristic algorithms for the dynamic and stochastic orienteering problem in autonomous transportation system,Bijun Wang and Zheyong Bian and Mo Mansouri,2023,0,Journal of Heuristics
-10.1007/s10732-018-9389-6,A UAV location and routing problem with spatio-temporal synchronization constraints solved by ant colony optimization,Oktay Yılmaz and Ertan Yakıcı and Mumtaz Karatas,2019,8,Journal of Heuristics
 10.1007/s10732-018-9400-2,Virtual machine consolidation using constraint-based multi-objective optimization,Miguel Terra-Neves and Inês Lynce and Vasco Manquinho,2019,8,Journal of Heuristics
 10.1007/s10732-023-09509-8,Minimizing total completion time in large-sized pharmaceutical quality control scheduling,Miguel S. E. Martins and Joaquim L. Viegas and Tiago Coito and Bernardo Firme and Andrea Costigliola and João Figueiredo and Susana M. Vieira and João M. C. Sousa,2023,0,Journal of Heuristics
-10.1007/s10732-018-9372-2,A study on exponential-size neighborhoods for the bin packing problem with conflicts,Renatha Capua and Yuri Frota and Luiz Satoru Ochi and Thibaut Vidal,2018,13,Journal of Heuristics
-10.1007/s10732-014-9273-y,Time-window relaxations in vehicle routing heuristics,Thibaut Vidal and Teodor Gabriel Crainic and Michel Gendreau and Christian Prins,2015,38,Journal of Heuristics
-10.1023/a:1009690717521,n.m.,Michael Pilegaard Hansen,2000,42,Journal of Heuristics
-10.1023/b:heur.0000012447.32370.fd,Optimal Design of Reliable Computer Networks: A Comparison of Metaheuristics,Fulya Altiparmak and Berna Dengiz and Alice E. Smith,2003,39,Journal of Heuristics
+10.1007/s10732-014-9250-5,Improved structures for data collection in static and mobile wireless sensor networks,Jon Crowcroft and Michael Segal and Liron Levin,2015,7,Journal of Heuristics
+10.1023/b:heur.0000034714.09838.1e,Evolving Time Series Forecasting ARMA Models,Paulo Cortez and Miguel Rocha and José Neves,2004,60,Journal of Heuristics
+10.1007/s10732-008-9088-9,Mixed-integer programming models for nesting problems,Matteo Fischetti and Ivan Luzzi,2009,51,Journal of Heuristics
+10.1007/s10732-018-9389-6,A UAV location and routing problem with spatio-temporal synchronization constraints solved by ant colony optimization,Oktay Yılmaz and Ertan Yakıcı and Mumtaz Karatas,2019,8,Journal of Heuristics
+10.1007/s10732-009-9107-5,Human-guided search,Gunnar W. Klau and Neal Lesh and Joe Marks and Michael Mitzenmacher,2010,40,Journal of Heuristics
 10.1007/s10732-017-9326-0,Simple but effective heuristics for the 2-constraint bin packing problem,Roberto Aringhieri and Davide Duma and Andrea Grosso and Pierre Hosteins,2018,7,Journal of Heuristics
-10.1007/s10732-007-9022-6,Target aiming Pareto search and its application to the vehicle routing problem with route balancing,Nicolas Jozefowiez and Frédéric Semet and El-Ghazali Talbi,2007,43,Journal of Heuristics
-10.1007/s10732-014-9251-4,GRASP-ASP: An algorithm for the CVRP with route balancing,Jorge Oyola and Arne Løkketangen,2014,21,Journal of Heuristics
-10.1023/a:1009682532542,n.m.,Xavier Gandibleux and Arnaud Freville,2000,85,Journal of Heuristics
 10.1007/s10732-007-9051-1,Learning heuristics for basic block instruction scheduling,Abid M. Malik and Tyrel Russell and Michael Chase and Peter van Beek,2008,8,Journal of Heuristics
 10.1007/s10732-007-9048-9,Bringing order into the neighborhoods: relaxation guided variable neighborhood search,Jakob Puchinger and Günther R. Raidl,2008,27,Journal of Heuristics
-10.1007/s10732-013-9215-0,A multiple local search algorithm for continuous dynamic optimization,Julien Lepagnot and Amir Nakib and Hamouche Oulhadj and Patrick Siarry,2013,10,Journal of Heuristics
-10.1023/b:heur.0000034714.09838.1e,Evolving Time Series Forecasting ARMA Models,Paulo Cortez and Miguel Rocha and José Neves,2004,59,Journal of Heuristics
 10.1007/s10732-016-9321-x,Order acceptance and scheduling with earliness and tardiness penalties,Simon Thevenin and Nicolas Zufferey and Marino Widmer,2016,25,Journal of Heuristics
 10.1007/s10732-012-9196-4,Fast local search for the maximum independent set problem,Diogo V. Andrade and Mauricio G. C. Resende and Renato F. Werneck,2012,79,Journal of Heuristics
 10.1007/s10732-012-9208-4,A review on probabilistic graphical models in evolutionary computation,Pedro Larrañaga and Hossein Karshenas and Concha Bielza and Roberto Santana,2012,62,Journal of Heuristics
 10.1007/s10732-012-9205-7,Stochastic Pareto local search: Pareto neighbourhood exploration and perturbation strategies,Mădălina M. Drugan and Dirk Thierens,2012,41,Journal of Heuristics
-10.1007/s10732-011-9191-1,Real-time management of vehicle breakdowns in urban freight distribution,I. Minis and K. Mamasis and V. Zeimpekis,2012,10,Journal of Heuristics
-10.1007/s10732-011-9162-6,Local search for a multi-drop multi-container loading problem,Sara Ceschia and Andrea Schaerf,2013,39,Journal of Heuristics
-10.1023/b:heur.0000026896.44360.f9,A Distributed Evolutionary Simulated Annealing Algorithm for Combinatorial Optimisation Problems,M. Emin Aydin and Terence C. Fogarty,2004,79,Journal of Heuristics
-10.1007/s10732-010-9131-5,Cooperating local search for the maximum clique problem,Wayne Pullan and Franco Mascia and Mauro Brunato,2011,35,Journal of Heuristics
-10.1007/s10732-012-9213-7,Variable neighborhood search with ejection chains for the antibandwidth problem,Manuel Lozano and Abraham Duarte and Francisco Gortázar and Rafael Martí,2012,22,Journal of Heuristics
-10.1007/s10732-018-9383-z,Archivers for the representation of the set of approximate solutions for MOPs,O. Schütze and C. Hernández and E-G. Talbi and J. Q. Sun and Y. Naranjani and F.-R. Xiong,2019,9,Journal of Heuristics
-10.1007/s10732-010-9151-1,A comparative study of crossover in differential evolution,Chuan Lin and Anyong Qing and Quanyuan Feng,2011,42,Journal of Heuristics
-10.1007/s10732-019-09414-z,An evolutionary hybrid search heuristic for monitor placement in communication networks,Robin Mueller-Bady and Martin Kappes and Inmaculada Medina-Bulo and Francisco Palomo-Lozano,2019,2,Journal of Heuristics
-10.1007/s10732-010-9142-2,A biased random-key genetic algorithm with forward-backward improvement for the resource constrained project scheduling problem,José Fernando Gonçalves and Mauricio G. C. Resende and Jorge J. M. Mendes,2011,61,Journal of Heuristics
-10.1007/s10732-019-09417-w,"Document representation and classification with Twitter-based document embedding, adversarial domain-adaptation, and query expansion",Minh-Triet Tran and Lap Q. Trieu and Huy Q. Tran,2022,1,Journal of Heuristics
-10.1007/s10732-014-9247-0,A hybrid Granular Tabu Search algorithm for the Multi-Depot Vehicle Routing Problem,John Willmer Escobar and Rodrigo Linfati and Paolo Toth and Maria G. Baldoquin,2014,78,Journal of Heuristics
-10.1007/s10732-011-9167-1,Path-relinking intensification methods for stochastic local search algorithms,Celso C. Ribeiro and Mauricio G. C. Resende,2012,48,Journal of Heuristics
-10.1007/s10732-015-9283-4,Proximity search heuristics for wind farm optimal layout,Martina Fischetti and Michele Monaci,2016,27,Journal of Heuristics
-10.1007/s10732-015-9290-5,Heuristic identification of critical nodes in sparse real-world graphs,Wayne Pullan,2015,32,Journal of Heuristics
 10.1007/s10732-017-9364-7,The parking allocation problem for connected vehicles,Marko Mladenović and Thierry Delot and Gilbert Laporte and Christophe Wilbaut,2020,14,Journal of Heuristics
-10.1007/s10732-014-9242-5,A survey on algorithmic approaches for solving tourist trip design problems,Damianos Gavalas and Charalampos Konstantopoulos and Konstantinos Mastakas and Grammati Pantziou,2014,183,Journal of Heuristics
+10.1007/s10732-014-9279-5,An iterated greedy metaheuristic for the blocking job shop scheduling problem,Marco Pranzo and Dario Pacciarelli,2016,44,Journal of Heuristics
+10.1007/s10732-018-9383-z,Archivers for the representation of the set of approximate solutions for MOPs,O. Schütze and C. Hernández and E-G. Talbi and J. Q. Sun and Y. Naranjani and F.-R. Xiong,2019,10,Journal of Heuristics
+10.1007/s10732-020-09449-7,A genetic algorithm for finding realistic sea routes considering the weather,Stefan Kuhlemann and Kevin Tierney,2020,13,Journal of Heuristics
+10.1007/s10732-011-9191-1,Real-time management of vehicle breakdowns in urban freight distribution,I. Minis and K. Mamasis and V. Zeimpekis,2012,10,Journal of Heuristics
+10.1007/s10732-019-09414-z,An evolutionary hybrid search heuristic for monitor placement in communication networks,Robin Mueller-Bady and Martin Kappes and Inmaculada Medina-Bulo and Francisco Palomo-Lozano,2019,2,Journal of Heuristics
+10.1007/s10732-011-9167-1,Path-relinking intensification methods for stochastic local search algorithms,Celso C. Ribeiro and Mauricio G. C. Resende,2012,48,Journal of Heuristics
 10.1007/s10732-019-09420-1,A coordinated production and transportation scheduling problem with minimum sum of order delivery times,Ling Liu and Wenli Li and Kunpeng Li and Xuxia Zou,2020,12,Journal of Heuristics
+10.1007/s10732-021-09470-4,Reference point based evolutionary multi-objective optimization algorithms with convergence properties using KKTPM and ASF metrics,Mohamed Abouhawwash and Kalyanmoy Deb,2021,10,Journal of Heuristics
+10.1007/s10732-010-9151-1,A comparative study of crossover in differential evolution,Chuan Lin and Anyong Qing and Quanyuan Feng,2011,42,Journal of Heuristics
+10.1007/s10732-011-9189-8,Solving large scale Max Cut problems via tabu search,Gary A. Kochenberger and Jin-Kao Hao and Zhipeng Lü and Haibo Wang and Fred Glover,2013,44,Journal of Heuristics
+10.1007/s10732-010-9142-2,A biased random-key genetic algorithm with forward-backward improvement for the resource constrained project scheduling problem,José Fernando Gonçalves and Mauricio G. C. Resende and Jorge J. M. Mendes,2011,61,Journal of Heuristics
+10.1007/s10732-018-9372-2,A study on exponential-size neighborhoods for the bin packing problem with conflicts,Renatha Capua and Yuri Frota and Luiz Satoru Ochi and Thibaut Vidal,2018,13,Journal of Heuristics
+10.1007/s10732-016-9320-y,Can Monte-Carlo Tree Search learn to sacrifice?,Nathan Companez and Aldeida Aleti,2016,5,Journal of Heuristics
+10.1007/s10732-014-9244-3,A hybrid generational genetic algorithm for the periodic vehicle routing problem with time windows,Phuong Khanh Nguyen and Teodor Gabriel Crainic and Michel Toulouse,2014,18,Journal of Heuristics
+10.1023/a:1009678314795,n.m.,Maciej Hapke and Andrzej Jaszkiewicz and Roman Słowiński,2000,33,Journal of Heuristics
+10.1023/a:1009690717521,n.m.,Michael Pilegaard Hansen,2000,42,Journal of Heuristics
+10.1023/a:1009682532542,n.m.,Xavier Gandibleux and Arnaud Freville,2000,85,Journal of Heuristics
+10.1007/s10732-014-9247-0,A hybrid Granular Tabu Search algorithm for the Multi-Depot Vehicle Routing Problem,John Willmer Escobar and Rodrigo Linfati and Paolo Toth and Maria G. Baldoquin,2014,80,Journal of Heuristics
+10.1007/s10732-015-9290-5,Heuristic identification of critical nodes in sparse real-world graphs,Wayne Pullan,2015,33,Journal of Heuristics
+10.1007/s10732-011-9162-6,Local search for a multi-drop multi-container loading problem,Sara Ceschia and Andrea Schaerf,2013,40,Journal of Heuristics
+10.1007/s10732-014-9268-8,Flying elephants: a general method for solving non-differentiable problems,Adilson Elias Xavier and Vinicius Layter Xavier,2016,9,Journal of Heuristics
+10.1007/s10732-010-9143-1,Biased random-key genetic algorithms for combinatorial optimization,José Fernando Gonçalves and Mauricio G. C. Resende,2011,318,Journal of Heuristics
+10.1007/s10732-018-9401-1,Real-time heuristic algorithms for the static weapon target assignment problem,Alexander G. Kline and Darryl K. Ahner and Brian J. Lunday,2019,14,Journal of Heuristics
 10.1023/a:1009613710108,n.m.,Iraj Saniee and Joel S. Sokol,2000,3,Journal of Heuristics
 10.1007/s10732-006-4294-9,An analysis of some linear graph layout heuristics,Robert Cimikowski,2006,4,Journal of Heuristics
 10.1007/s10732-009-9121-7,Coalition-based metaheuristic: a self-adaptive metaheuristic using reinforcement learning and mimetism,David Meignan and Abderrafiaa Koukam and Jean-Charles Créput,2010,31,Journal of Heuristics
 10.1007/s10732-016-9319-4,Minimizing cyclic cutwidth of graphs using a memetic algorithm,Pallavi Jain and Kamal Srivastava and Gur Saran,2016,6,Journal of Heuristics
 10.1007/s10732-017-9325-1,Scatter search for minimizing weighted tardiness in a single machine scheduling with setups,Miguel A. González and Juan José Palacios and Camino R. Vela and Alejandro Hernández-Arauzo,2017,14,Journal of Heuristics
-10.1007/s10732-017-9360-y,A Multi-start Algorithm with Intelligent Neighborhood Selection for solving multi-objective humanitarian vehicle routing problems,J. Molina and A. D. López-Sánchez and A. G. Hernández-Díaz and I. Martínez-Salazar,2018,15,Journal of Heuristics
 10.1007/s10732-017-9346-9,On branching heuristics for the bi-objective 0/1 unidimensional knapsack problem,Audrey Cerqueus and Xavier Gandibleux and Anthony Przybylski and Frédéric Saubion,2017,4,Journal of Heuristics
 10.1007/s10732-007-9044-0,Introduction to the special issue on variable neighborhood search,J. Marcos Moreno-Vega and Belén Melián,2008,13,Journal of Heuristics
 10.1007/s10732-017-9350-0,Heterogeneous surface-to-air missile defense battery location: a game theoretic approach,Nicholas T. Boardman and Brian J. Lunday and Matthew J. Robbins,2017,12,Journal of Heuristics
@@ -586,8 +585,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1023/a:1016536623961,n.m.,Uwe Aickelin and Kathryn A. Dowsland,2002,8,Journal of Heuristics
 10.1007/s10732-021-09487-9,A new heuristic for finding verifiable k-vertex-critical subgraphs,Alex Gliesch and Marcus Ritt,2022,0,Journal of Heuristics
 10.1007/s10732-020-09454-w,Sample size calculations for the experimental comparison of multiple algorithms on multiple problem instances,Felipe Campelo and Elizabeth F. Wanner,2020,4,Journal of Heuristics
-10.1007/s10732-011-9176-0,Test-assignment: a quadratic coloring problem,Jelle Duives and Andrea Lodi and Enrico Malaguti,2013,3,Journal of Heuristics
-10.1007/s10732-015-9280-7,A memetic NSGA-II for the bi-objective mixed capacitated general routing problem,Santosh Kumar Mandal and Dario Pacciarelli and Arne Løkketangen and Geir Hasle,2015,24,Journal of Heuristics
 10.1007/s10732-005-3604-y,Dynamics of Local Search Trajectory in Traveling Salesman Problem,Weiqi Li,2005,4,Journal of Heuristics
 10.1023/a:1026561511574,n.m.,Rahul Simha,2001,4,Journal of Heuristics
 10.1007/s10732-012-9194-6,Experimental analysis of heuristics for the bottleneck traveling salesman problem,John LaRusic and Abraham P. Punnen and Eric Aubanel,2012,11,Journal of Heuristics
@@ -597,7 +594,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10732-015-9303-4,A mapping technique for better solution exploration: NSGA-II adaptation,Julien Autuori and Faicel Hnaien and Farouk Yalaoui,2016,4,Journal of Heuristics
 10.1007/s10732-006-9005-z,Affinity genetic algorithm,Xinchao Zhao and Xiao-Shan Gao,2007,3,Journal of Heuristics
 10.1023/a:1009674028763,n.m.,Gustavo Paramés and Javier Calatrava and Gonzalo Carrión,2000,0,Journal of Heuristics
-10.1023/a:1011367031160,n.m.,Mike Wright,2001,13,Journal of Heuristics
 10.1007/s10732-014-9270-1,Tree-based iterated local search for Markov random fields with applications in image analysis,Truyen Tran and Dinh Phung and Svetha Venkatesh,2015,1,Journal of Heuristics
 10.1007/s10732-021-09479-9,Delayed improvement local search,Heber F. Amaral and Sebastián Urrutia and Lars M. Hvattum,2021,0,Journal of Heuristics
 10.1007/s10732-021-09468-y,A matheuristic for the stochastic facility location problem,Renata Turkeš and Kenneth Sörensen and Daniel Palhazi Cuervo,2021,7,Journal of Heuristics
@@ -611,7 +607,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10732-022-09494-4,A heuristic search based on diversity for solving combinatorial problems,Francisco Casas and Claudio E. Torres and Ignacio Araya,2022,0,Journal of Heuristics
 10.1007/s10732-007-9052-0,Approximate solution of a resource-constrained scheduling problem,Renaud Sirdey and Jacques Carlier and Dritan Nace,2009,5,Journal of Heuristics
 10.1007/s10732-010-9137-z,A randomized Delaunay triangulation heuristic for the Euclidean Steiner tree problem in ℜ d,Jon W. Van Laarhoven and Jeffrey W. Ohlmann,2011,6,Journal of Heuristics
-10.1007/s10732-014-9257-y,Optimization of DV-hop localization algorithm in hybrid optical wireless sensor networks,Xiaoyin Li and Lianshan Yan and Wei Pan and Bin Luo,2015,24,Journal of Heuristics
 10.1007/s10732-005-6997-8,Enhancing Stochastic Search Performance by Value-Biased Randomization of Heuristics,Vincent A. Cicirello and Stephen F. Smith,2005,41,Journal of Heuristics
 10.1007/s10732-015-9292-3,Estimating parallel runtimes for randomized algorithms in constraint solving,Charlotte Truchet and Alejandro Arbelaez and Florian Richoux and Philippe Codognet,2016,9,Journal of Heuristics
 10.1007/s10732-014-9264-z,New variable depth local search for multiple depot vehicle scheduling problems,Tomoshi Otsuki and Kazuyuki Aihara,2016,10,Journal of Heuristics
@@ -620,16 +615,11 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1023/b:heur.0000012449.84567.1a,Solving Unit Commitment Problem Using Hybrid Particle Swarm Optimization,Tiew-On Ting and M.V.C. Rao and C.K. Loo and S.S. Ngu,2003,51,Journal of Heuristics
 10.1007/s10732-005-2634-9,Very Large-Scale Neighborhood Search for the K-Constraint Multiple Knapsack Problem,Ravindra K. Ahuja and Claudio B. Cunha,2005,13,Journal of Heuristics
 10.1007/s10732-012-9197-3,Bee colony optimization for scheduling independent tasks to identical processors,Tatjana Davidović and Milica Šelmić and Dušan Teodorović and Dušan Ramljak,2012,35,Journal of Heuristics
-10.1007/s10732-007-9055-x,Simple ingredients leading to very efficient heuristics for the maximum clique problem,Andrea Grosso and Marco Locatelli and Wayne Pullan,2008,62,Journal of Heuristics
 10.1007/s10732-010-9145-z,Optimal row and column ordering to improve table interpretation using estimation of distribution algorithms,E. Bengoetxea and P. Larrañaga and C. Bielza and J. A. Fernández del Pozo,2011,4,Journal of Heuristics
 10.1007/s10732-018-9386-9,Combining simulated annealing with local search heuristic for MAX-SAT,Noureddine Bouhmala,2019,13,Journal of Heuristics
 10.1007/s10732-013-9228-8,ParadisEO-MO: from fitness landscape analysis to efficient local search algorithms,J. Humeau and A. Liefooghe and E. -G. Talbi and S. Verel,2013,34,Journal of Heuristics
-10.1007/s10732-015-9301-6,Analysis of inverted PBI and comparison with other scalarizing functions in decomposition based MOEAs,Hiroyuki Sato,2015,35,Journal of Heuristics
 10.1007/s10732-013-9227-9,Introduction to special xQx issue,Gary Kochenberger and Fred Glover,2013,2,Journal of Heuristics
 10.1023/a:1011960407575,n.m.,Francis Sourd,2001,11,Journal of Heuristics
-10.1007/s10732-017-9334-0,Mapping the global structure of TSP fitness landscapes,Gabriela Ochoa and Nadarajen Veerapen,2018,39,Journal of Heuristics
-10.1007/s10732-005-0616-6,Minimizing the Total Cost in an Integrated Vendor—Managed Inventory System,Luca Bertazzi and Giuseppe Paletta and M. Grazia Speranza,2005,73,Journal of Heuristics
-10.1007/s10732-018-9366-0,A biased-randomized variable neighborhood search for sustainable multi-depot vehicle routing problems,Lorena Reyes-Rubiano and Laura Calvet and Angel A. Juan and Javier Faulin and Lluc Bové,2020,12,Journal of Heuristics
 10.1007/s10732-018-9378-9,Multicriteria scheduling optimization using an elitist multiobjective population heuristic: the h-NSDE algorithm,Andreas C. Nearchou,2018,3,Journal of Heuristics
 10.1007/s10732-022-09498-0,Data structures for speeding up Tabu Search when solving sparse quadratic unconstrained binary optimization problems,Ricardo N. Liang and Eduardo A. J. Anacleto and Cláudio N. Meneses,2022,0,Journal of Heuristics
 10.1007/s10732-017-9352-y,Editorial for the special issue on metaheuristics for combinatorial optimization,Bin Hu and Francisco Chicano,2018,1,Journal of Heuristics
@@ -640,56 +630,66 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10732-007-9029-z,Infeasible/feasible search trajectories and directional rounding in integer programming,Fred Glover,2007,10,Journal of Heuristics
 10.1023/a:1016588608032,n.m.,C.K.Y. Lin and C.L. Wong and Y.C. Yeung,2002,6,Journal of Heuristics
 10.1007/s10732-020-09459-5,Local search for the maximum k-plex problem,Wayne Pullan,2021,1,Journal of Heuristics
+10.1007/s10732-015-9295-0,A relax-and-fix with fix-and-optimize heuristic applied to multi-level lot-sizing problems,Claudio Fabiano Motta Toledo and Márcio da Silva Arantes and Marcelo Yukio Bressan Hossomi and Paulo Morelato França and Kerem Akartunalı,2015,55,Journal of Heuristics
+10.1007/s10732-019-09424-x,Hybrid adaptive large neighborhood search algorithm for the mixed fleet heterogeneous dial-a-ride problem,Mohamed Amine Masmoudi and Manar Hosny and Emrah Demir and Erwin Pesch,2020,12,Journal of Heuristics
 10.1007/s10732-010-9146-y,Generating highly balanced sudoku problems as hard problems,Carlos Ansótegui and Ramón Béjar and Cèsar Fernández and Carla Gomes and Carles Mateu,2011,5,Journal of Heuristics
-10.1007/s10732-015-9306-1,Proximity Benders: a decomposition heuristic for stochastic programs,Natashia Boland and Matteo Fischetti and Michele Monaci and Martin Savelsbergh,2016,11,Journal of Heuristics
 10.1023/a:1011968924413,n.m.,Hussain Aziz Saleh and Peter Dare,2001,18,Journal of Heuristics
 10.1007/s10732-016-9313-x,New developments in metaheuristics and their applications,Hoong Chuin Lau and Günther R. Raidl and Pascal Van Hentenryck,2016,5,Journal of Heuristics
 10.1007/s10732-017-9333-1,PageRank centrality for performance prediction: the impact of the local optima network model,Sebastian Herrmann and Gabriela Ochoa and Franz Rothlauf,2018,13,Journal of Heuristics
-10.1023/b:heur.0000004812.23590.a2,A Comparison of Heuristics for the Discrete Cost Multicommodity Network Optimization Problem,Virginie Gabrel and Arnaud Knippel and Michel Minoux,2003,26,Journal of Heuristics
 10.1007/s10732-019-09408-x,Dynamic heuristic acceleration of linearly approximated SARSA($$\lambda $$): using ant colony optimization to learn heuristics dynamically,Stefano Bromuri,2019,1,Journal of Heuristics
-10.1023/a:1011325912346,n.m.,R.V. Helgason and J.L. Kennington and K.R. Lewis,2001,26,Journal of Heuristics
-10.1007/s10732-018-9382-0,A greedy memetic algorithm for a multiobjective dynamic bin packing problem for storing cooling objects,Kristina Yancey Spencer and Pavel V. Tsvetkov and Joshua J. Jarrell,2019,13,Journal of Heuristics
-10.1007/s10732-009-9104-8,The effective application of a new approach to the generalized orienteering problem,John Silberholz and Bruce Golden,2010,19,Journal of Heuristics
-10.1023/a:1013609600697,n.m.,Stefano Bistarelli and Ugo Montanari and Francesca Rossi,2002,19,Journal of Heuristics
-10.1023/a:1011925109392,n.m.,Arun Jagota and Laura A. Sanchis,2001,15,Journal of Heuristics
-10.1007/s10732-018-9365-1,Pareto local search algorithms for the multi-objective beam angle optimisation problem,Guillermo Cabrera-Guerrero and Andrew J. Mason and Andrea Raith and Matthias Ehrgott,2018,16,Journal of Heuristics
-10.1007/s10732-017-9335-z,Metaheuristic approaches to the placement of suicide bomber detectors,Carlos Cotta and José E. Gallardo,2018,4,Journal of Heuristics
-10.1007/s10732-018-9367-z,A variable neighborhood search simheuristic for project portfolio selection under uncertainty,Javier Panadero and Jana Doering and Renatas Kizys and Angel A. Juan and Angels Fito,2020,45,Journal of Heuristics
-10.1007/s10732-007-9011-9,Joint rolling-horizon scheduling of materials processing and lot-sizing with sequence-dependent setups,Silvio A. de Araujo and Marcos N. Arenales and Alistair R. Clark,2007,70,Journal of Heuristics
-10.1023/a:1011375326814,n.m.,Erick Cantú-Paz,2001,117,Journal of Heuristics
-10.1007/s10732-016-9322-9,Reference sharing: a new collaboration model for cooperative coevolution,Min Shi and Shang Gao,2017,10,Journal of Heuristics
-10.1023/a:1020325926188,n.m.,Teodor Gabriel Crainic and Michel Gendreau,2002,74,Journal of Heuristics
-10.1007/s10732-020-09461-x,Iterated local search for single machine total weighted tardiness batch scheduling,Eduardo Queiroga and Rian G. S. Pinheiro and Quentin Christ and Anand Subramanian and Artur A. Pessoa,2021,11,Journal of Heuristics
-10.1007/s10732-014-9258-x,Heuristic strategies for assessing wireless sensor network resiliency: an event-based formal approach,Alessandro Testa and Marcello Cinque and Antonio Coronato and Giuseppe De Pietro and Juan Carlos Augusto,2015,25,Journal of Heuristics
-10.1023/a:1015439913121,n.m.,Alexandre A. Andreatta and Celso C. Ribeiro,2002,26,Journal of Heuristics
-10.1007/s10732-006-6662-x,Grasp with memory-based mechanisms for minimizing total tardiness in single machine scheduling with setup times,Vinícius Amaral Armentano and Olinto César Bassi de Araujo,2006,10,Journal of Heuristics
-10.1007/s10732-010-9130-6,Adaptive memory in multistart heuristics for multicommodity network design,Daniel Aloise and Celso C. Ribeiro,2011,13,Journal of Heuristics
-10.1007/s10732-012-9195-5,Simple heuristics for the assembly line worker assignment and balancing problem,Mayron César O. Moreira and Marcus Ritt and Alysson M. Costa and Antonio A. Chaves,2012,58,Journal of Heuristics
-10.1007/s10732-017-9363-8,A general variable neighborhood search for solving the multi-objective open vehicle routing problem,Jesús Sánchez-Oro and Ana D. López-Sánchez and J. Manuel Colmenar,2020,11,Journal of Heuristics
-10.1007/s10732-008-9087-x,An ant colony optimization approach for the multidimensional knapsack problem,Liangjun Ke and Zuren Feng and Zhigang Ren and Xiaoliang Wei,2010,44,Journal of Heuristics
-10.1007/s10732-010-9126-2,DVRP: a hard dynamic combinatorial optimisation problem tackled by an evolutionary hyper-heuristic,Pablo Garrido and María Cristina Riff,2010,54,Journal of Heuristics
-10.1007/s10732-019-09424-x,Hybrid adaptive large neighborhood search algorithm for the mixed fleet heterogeneous dial-a-ride problem,Mohamed Amine Masmoudi and Manar Hosny and Emrah Demir and Erwin Pesch,2020,12,Journal of Heuristics
-10.1007/s10732-016-9308-7,Strategic oscillation for the capacitated hub location problem with modular links,Ángel Corberán and Juanjo Peiró and Vicente Campos and Fred Glover and Rafael Martí,2016,20,Journal of Heuristics
-10.1023/a:1011319115230,n.m.,Ronald L. Rardin and Reha Uzsoy,2001,223,Journal of Heuristics
-10.1007/s10732-007-9067-6,Heuristics for multi-period capacity expansion in local telecommunications networks,Roxane Kouassi and Michel Gendreau and Jean-Yves Potvin and Patrick Soriano,2009,6,Journal of Heuristics
-10.1007/s10732-005-6998-7,Comparing Metaheuristic Algorithms for Sonet Network Design Problems,Roberto Aringhieri and Mauro Dell’Amico,2005,18,Journal of Heuristics
-10.1023/a:1021837611236,n.m.,T. Osogami and H. Okano,2003,12,Journal of Heuristics
-10.1007/s10732-005-3601-1,A Metaheuristic to Solve a Location-Routing Problem with Non-Linear Costs,Jan Melechovský and Christian Prins and Roberto Wolfler Calvo,2005,64,Journal of Heuristics
-10.1007/s10732-009-9114-6,"ZI round, a MIP rounding heuristic",Chris Wallace,2010,7,Journal of Heuristics
 10.1007/s10732-008-9070-6,Hybrid biobjective evolutionary algorithms for the design of a hospital waste management network,Andrés L. Medaglia and Juan G. Villegas and Diana M. Rodríguez-Coca,2009,38,Journal of Heuristics
-10.1007/s10732-007-9064-9,"Benders decomposition, Lagrangean relaxation and metaheuristic design",Marco Boschetti and Vittorio Maniezzo,2009,47,Journal of Heuristics
 10.1007/s10732-007-9047-x,Combining variable neighborhood search with integer linear programming for the generalized minimum spanning tree problem,Bin Hu and Markus Leitner and Günther R. Raidl,2008,32,Journal of Heuristics
 10.1007/s10732-008-9093-z,Special issue on mathematical contributions to metaheuristics editorial,Pierre Hansen and Vittorio Maniezzo and Stefan Voß,2009,11,Journal of Heuristics
 10.1007/s10732-019-09429-6,Heuristics for a vehicle routing problem with information collection in wireless networks,Luis Flores-Luyo and Agostinho Agra and Rosa Figueiredo and Eladio Ocaña,2020,2,Journal of Heuristics
 10.1007/s10732-017-9344-y,An efficient local search algorithm for the winner determination problem,Haochen Zhang and Shaowei Cai and Chuan Luo and Minghao Yin,2017,7,Journal of Heuristics
 10.1007/s10732-022-09508-1,Heuristics and meta-heuristic to solve the ROADEF/EURO challenge 2020 maintenance planning problem,Hanyu Gu and Hue Chi Lam and Thi Thanh Thu Pham and Yakov Zinder,2023,0,Journal of Heuristics
-10.1007/s10732-017-9330-4,Evolutionary computation for automatic Web service composition: an indirect representation approach,Alexandre Sawczuk da Silva and Yi Mei and Hui Ma and Mengjie Zhang,2018,17,Journal of Heuristics
+10.1023/a:1011325912346,n.m.,R.V. Helgason and J.L. Kennington and K.R. Lewis,2001,26,Journal of Heuristics
+10.1007/s10732-009-9104-8,The effective application of a new approach to the generalized orienteering problem,John Silberholz and Bruce Golden,2010,19,Journal of Heuristics
+10.1023/a:1013609600697,n.m.,Stefano Bistarelli and Ugo Montanari and Francesca Rossi,2002,19,Journal of Heuristics
+10.1023/a:1011925109392,n.m.,Arun Jagota and Laura A. Sanchis,2001,15,Journal of Heuristics
+10.1007/s10732-017-9335-z,Metaheuristic approaches to the placement of suicide bomber detectors,Carlos Cotta and José E. Gallardo,2018,4,Journal of Heuristics
+10.1007/s10732-007-9011-9,Joint rolling-horizon scheduling of materials processing and lot-sizing with sequence-dependent setups,Silvio A. de Araujo and Marcos N. Arenales and Alistair R. Clark,2007,70,Journal of Heuristics
+10.1023/a:1011375326814,n.m.,Erick Cantú-Paz,2001,117,Journal of Heuristics
+10.1023/a:1015439913121,n.m.,Alexandre A. Andreatta and Celso C. Ribeiro,2002,26,Journal of Heuristics
+10.1007/s10732-006-6662-x,Grasp with memory-based mechanisms for minimizing total tardiness in single machine scheduling with setup times,Vinícius Amaral Armentano and Olinto César Bassi de Araujo,2006,10,Journal of Heuristics
+10.1007/s10732-010-9130-6,Adaptive memory in multistart heuristics for multicommodity network design,Daniel Aloise and Celso C. Ribeiro,2011,13,Journal of Heuristics
 10.1007/s10732-017-9349-6,A heuristic approach for the stochastic optimization of mine production schedules,Luis Montiel and Roussos Dimitrakopoulos,2017,31,Journal of Heuristics
-10.1007/s10732-019-09426-9,Bilevel optimization based on iterative approximation of multiple mappings,Ankur Sinha and Zhichao Lu and Kalyanmoy Deb and Pekka Malo,2020,22,Journal of Heuristics
 10.1007/s10732-017-9342-0,A constraint-based parallel local search for the edge-disjoint rooted distance-constrained minimum spanning tree problem,Alejandro Arbelaez and Deepak Mehta and Barry O’Sullivan and Luis Quesada,2018,2,Journal of Heuristics
-10.1023/a:1017912624016,n.m.,Peter Merz and Bernd Freisleben,2002,93,Journal of Heuristics
-10.1007/s10732-019-09435-8,Logistics optimization for a coal supply chain,Gleb Belov and Natashia L. Boland and Martin W. P. Savelsbergh and Peter J. Stuckey,2020,12,Journal of Heuristics
-10.1007/s10732-007-9050-2,A variable neighborhood search for the capacitated arc routing problem with intermediate facilities,Michael Polacek and Karl F. Doerner and Richard F. Hartl and Vittorio Maniezzo,2008,84,Journal of Heuristics
-10.1007/s10732-015-9295-0,A relax-and-fix with fix-and-optimize heuristic applied to multi-level lot-sizing problems,Claudio Fabiano Motta Toledo and Márcio da Silva Arantes and Marcelo Yukio Bressan Hossomi and Paulo Morelato França and Kerem Akartunalı,2015,55,Journal of Heuristics
+10.1007/s10732-018-9366-0,A biased-randomized variable neighborhood search for sustainable multi-depot vehicle routing problems,Lorena Reyes-Rubiano and Laura Calvet and Angel A. Juan and Javier Faulin and Lluc Bové,2020,14,Journal of Heuristics
+10.1007/s10732-008-9087-x,An ant colony optimization approach for the multidimensional knapsack problem,Liangjun Ke and Zuren Feng and Zhigang Ren and Xiaoliang Wei,2010,44,Journal of Heuristics
+10.1007/s10732-010-9126-2,DVRP: a hard dynamic combinatorial optimisation problem tackled by an evolutionary hyper-heuristic,Pablo Garrido and María Cristina Riff,2010,54,Journal of Heuristics
+10.1007/s10732-016-9322-9,Reference sharing: a new collaboration model for cooperative coevolution,Min Shi and Shang Gao,2017,11,Journal of Heuristics
+10.1007/s10732-017-9360-y,A Multi-start Algorithm with Intelligent Neighborhood Selection for solving multi-objective humanitarian vehicle routing problems,J. Molina and A. D. López-Sánchez and A. G. Hernández-Díaz and I. Martínez-Salazar,2018,14,Journal of Heuristics
+10.1023/a:1017912624016,n.m.,Peter Merz and Bernd Freisleben,2002,94,Journal of Heuristics
 10.1007/s10732-018-9371-3,A fix-and-optimize matheuristic for university timetabling,Michael Lindahl and Matias Sørensen and Thomas R. Stidsen,2018,22,Journal of Heuristics
-10.1007/s10732-018-9377-x,A comparison of acceptance criteria for the adaptive large neighbourhood search metaheuristic,Alberto Santini and Stefan Ropke and Lars Magnus Hvattum,2018,27,Journal of Heuristics
+10.1023/a:1011319115230,n.m.,Ronald L. Rardin and Reha Uzsoy,2001,223,Journal of Heuristics
+10.1007/s10732-014-9258-x,Heuristic strategies for assessing wireless sensor network resiliency: an event-based formal approach,Alessandro Testa and Marcello Cinque and Antonio Coronato and Giuseppe De Pietro and Juan Carlos Augusto,2015,26,Journal of Heuristics
+10.1007/s10732-018-9365-1,Pareto local search algorithms for the multi-objective beam angle optimisation problem,Guillermo Cabrera-Guerrero and Andrew J. Mason and Andrea Raith and Matthias Ehrgott,2018,16,Journal of Heuristics
+10.1007/s10732-014-9257-y,Optimization of DV-hop localization algorithm in hybrid optical wireless sensor networks,Xiaoyin Li and Lianshan Yan and Wei Pan and Bin Luo,2015,24,Journal of Heuristics
+10.1007/s10732-015-9280-7,A memetic NSGA-II for the bi-objective mixed capacitated general routing problem,Santosh Kumar Mandal and Dario Pacciarelli and Arne Løkketangen and Geir Hasle,2015,25,Journal of Heuristics
+10.1007/s10732-020-09461-x,Iterated local search for single machine total weighted tardiness batch scheduling,Eduardo Queiroga and Rian G. S. Pinheiro and Quentin Christ and Anand Subramanian and Artur A. Pessoa,2021,12,Journal of Heuristics
+10.1007/s10732-007-9050-2,A variable neighborhood search for the capacitated arc routing problem with intermediate facilities,Michael Polacek and Karl F. Doerner and Richard F. Hartl and Vittorio Maniezzo,2008,84,Journal of Heuristics
+10.1007/s10732-005-0616-6,Minimizing the Total Cost in an Integrated Vendor—Managed Inventory System,Luca Bertazzi and Giuseppe Paletta and M. Grazia Speranza,2005,73,Journal of Heuristics
+10.1023/a:1020325926188,n.m.,Teodor Gabriel Crainic and Michel Gendreau,2002,74,Journal of Heuristics
+10.1023/b:heur.0000004812.23590.a2,A Comparison of Heuristics for the Discrete Cost Multicommodity Network Optimization Problem,Virginie Gabrel and Arnaud Knippel and Michel Minoux,2003,26,Journal of Heuristics
+10.1023/a:1011367031160,n.m.,Mike Wright,2001,13,Journal of Heuristics
+10.1023/a:1021837611236,n.m.,T. Osogami and H. Okano,2003,12,Journal of Heuristics
+10.1007/s10732-011-9176-0,Test-assignment: a quadratic coloring problem,Jelle Duives and Andrea Lodi and Enrico Malaguti,2013,3,Journal of Heuristics
+10.1007/s10732-007-9067-6,Heuristics for multi-period capacity expansion in local telecommunications networks,Roxane Kouassi and Michel Gendreau and Jean-Yves Potvin and Patrick Soriano,2009,7,Journal of Heuristics
+10.1007/s10732-016-9308-7,Strategic oscillation for the capacitated hub location problem with modular links,Ángel Corberán and Juanjo Peiró and Vicente Campos and Fred Glover and Rafael Martí,2016,20,Journal of Heuristics
+10.1007/s10732-007-9055-x,Simple ingredients leading to very efficient heuristics for the maximum clique problem,Andrea Grosso and Marco Locatelli and Wayne Pullan,2008,62,Journal of Heuristics
+10.1007/s10732-007-9064-9,"Benders decomposition, Lagrangean relaxation and metaheuristic design",Marco Boschetti and Vittorio Maniezzo,2009,47,Journal of Heuristics
+10.1007/s10732-005-6998-7,Comparing Metaheuristic Algorithms for Sonet Network Design Problems,Roberto Aringhieri and Mauro Dell’Amico,2005,18,Journal of Heuristics
+10.1007/s10732-005-3601-1,A Metaheuristic to Solve a Location-Routing Problem with Non-Linear Costs,Jan Melechovský and Christian Prins and Roberto Wolfler Calvo,2005,64,Journal of Heuristics
+10.1007/s10732-015-9306-1,Proximity Benders: a decomposition heuristic for stochastic programs,Natashia Boland and Matteo Fischetti and Michele Monaci and Martin Savelsbergh,2016,11,Journal of Heuristics
+10.1007/s10732-017-9363-8,A general variable neighborhood search for solving the multi-objective open vehicle routing problem,Jesús Sánchez-Oro and Ana D. López-Sánchez and J. Manuel Colmenar,2020,14,Journal of Heuristics
+10.1007/s10732-019-09435-8,Logistics optimization for a coal supply chain,Gleb Belov and Natashia L. Boland and Martin W. P. Savelsbergh and Peter J. Stuckey,2020,13,Journal of Heuristics
+10.1007/s10732-015-9301-6,Analysis of inverted PBI and comparison with other scalarizing functions in decomposition based MOEAs,Hiroyuki Sato,2015,37,Journal of Heuristics
+10.1007/s10732-012-9195-5,Simple heuristics for the assembly line worker assignment and balancing problem,Mayron César O. Moreira and Marcus Ritt and Alysson M. Costa and Antonio A. Chaves,2012,58,Journal of Heuristics
+10.1007/s10732-018-9377-x,A comparison of acceptance criteria for the adaptive large neighbourhood search metaheuristic,Alberto Santini and Stefan Ropke and Lars Magnus Hvattum,2018,29,Journal of Heuristics
+10.1007/s10732-017-9330-4,Evolutionary computation for automatic Web service composition: an indirect representation approach,Alexandre Sawczuk da Silva and Yi Mei and Hui Ma and Mengjie Zhang,2018,18,Journal of Heuristics
+10.1007/s10732-018-9367-z,A variable neighborhood search simheuristic for project portfolio selection under uncertainty,Javier Panadero and Jana Doering and Renatas Kizys and Angel A. Juan and Angels Fito,2020,47,Journal of Heuristics
+10.1007/s10732-009-9114-6,"ZI round, a MIP rounding heuristic",Chris Wallace,2010,8,Journal of Heuristics
+10.1007/s10732-017-9334-0,Mapping the global structure of TSP fitness landscapes,Gabriela Ochoa and Nadarajen Veerapen,2018,40,Journal of Heuristics
+10.1007/s10732-018-9382-0,A greedy memetic algorithm for a multiobjective dynamic bin packing problem for storing cooling objects,Kristina Yancey Spencer and Pavel V. Tsvetkov and Joshua J. Jarrell,2019,13,Journal of Heuristics
+10.1007/s10732-019-09426-9,Bilevel optimization based on iterative approximation of multiple mappings,Ankur Sinha and Zhichao Lu and Kalyanmoy Deb and Pekka Malo,2020,23,Journal of Heuristics

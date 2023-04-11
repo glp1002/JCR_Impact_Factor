@@ -97,6 +97,9 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/mci.2007.4313018,IEEE Computational Intelligence Magazine - Nov. 2007,,2007,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2011.2176994,CI at Work! [Editor's Remarks],Kay Chen Tan,2012,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2008.929849,"Handbook of Computational Economics 2: Agent-Based Computational Economics (Tesfatsion, L. and Judd, K.L., Eds.) [Book Review]",,2008,12,IEEE Computational Intelligence Magazine
+10.1109/mci.2018.2866730,Cross-Validation for Imbalanced Datasets: Avoiding Overoptimistic and Overfitting Approaches [Research Frontier],Miriam Seoane Santos and Jastin Pompeu Soares and Pedro Henrigues Abreu and Helder Araujo and Joao Santos,2018,176,IEEE Computational Intelligence Magazine
+10.1109/mci.2016.2572539,Learning User and Product Distributed Representations Using a Sequence Model for Sentiment Analysis,Tao Chen and Ruifeng Xu and Yulan He and Yunqing Xia and Xuan Wang,2016,73,IEEE Computational Intelligence Magazine
+10.1109/mci.2019.2954667,How Intense Are You? Predicting Intensities of Emotions and Sentiments using Stacked Ensemble [Application Notes],Md Shad Akhtar and Asif Ekbal and Erik Cambria,2020,159,IEEE Computational Intelligence Magazine
 10.1109/mci.2016.2545800,2016 IEEE Symposium Series on Computational Intelligence,,2016,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2012.2200631,[Conference Calendar],Gary Fogel,2012,0,IEEE Computational Intelligence Magazine
 10.1109/ci-m.2006.248037,Table of Contents for IEEE Computational Intelligence Magazine Volume 1 Numnber 4,,2006,0,IEEE Computational Intelligence Magazine
@@ -107,14 +110,13 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/mci.2007.4313021,The Fuzzy Ant,Valeri Rozin and Michael Margaliot,2007,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2008.930985,Evolutionary multi-objective optimization in robot soccer system for education,n.m. Jong-Hwan Kim and n.m. Ye-Hoon Kim and n.m. Seung-Hwan Choi and n.m. In-Won Park,2009,46,IEEE Computational Intelligence Magazine
 10.1109/mci.2009.934563,Analogue evolutionary brain computer interfaces [Application Notes,Riccardo Poli and Luca Citi and Francisco Sepulveda and Caterina Cinel,2009,6,IEEE Computational Intelligence Magazine
-10.1109/mci.2014.2350951,A Hybrid Metaheuristic Optimization Algorithm for Strategic Planning of 4D Aircraft Trajectories at the Continental Scale,Supatcha Chaimatanan and Daniel Delahaye and Marcel Mongeau,2014,42,IEEE Computational Intelligence Magazine
+10.1109/mci.2019.2901089,Reinforcement Learning and Deep Learning Based Lateral Control for Autonomous Driving [Application Notes],Dong Li and Dongbin Zhao and Qichao Zhang and Yaran Chen,2019,76,IEEE Computational Intelligence Magazine
 10.1109/mci.2007.906689,Tainan Chapter Activities Report [Family Corner],Pau-Choo Chung,2007,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2012.2215211,IEEE CIM List of Reviewers 2012 [Reviewers],CIM Office,2012,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2012.2215134,Enhanced Encoding with Improved Fuzzy Decision Tree Testing Using CASP Templates,A. Chida and n.m. Yan-Qing Zhang and R. Harrison,2012,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2014.2351336,IEEE CIG 2015,,2014,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2011.940629,"Perceptual Computing: Aiding People in Making Subjective Judgments (Mendel, J.M. and Wu, D.; 2010) [Book Review]",John Terry Rickard,2011,1,IEEE Computational Intelligence Magazine
 10.1109/mci.2019.2954641,Mining Mobile Intelligence for Wireless Systems: A Deep Neural Network Approach,Han Hu and Zhi Liu and Jianping An,2020,33,IEEE Computational Intelligence Magazine
-10.1109/mci.2020.3019874,A Bayesian Updating Scheme for Pandemics: Estimating the Infection Dynamics of COVID-19,Shuo Wang and Xian Yang and Ling Li and Philip Nadler and Rossella Arcucci and Yuan Huang and Zhongzhao Teng and Yike Guo,2020,8,IEEE Computational Intelligence Magazine
 10.1109/mci.2011.940626,Towards Cognitively Plausible Game Playing Systems,Jacek Mandziuk,2011,10,IEEE Computational Intelligence Magazine
 10.1109/mci.2018.2806986,Conference Report on 2017 IEEE Symposium Series on Computational Intelligence (IEEE SSCI 2017) [Conference Reports],David Fogel and Piero P. Bonissone,2018,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2011.2177026,IEEE Transactions on Fuzzy Systems Special Issue on Advances in Type-2 Fuzzy Sets and Systems,,2012,1,IEEE Computational Intelligence Magazine
@@ -125,6 +127,7 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/mci.2016.2627659,Table of Contents,,2017,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2008.930977,Evolving an adaptive optimization course [Application Notes],A. Smith,2009,1,IEEE Computational Intelligence Magazine
 10.1109/mci.2010.938369,"Intelligent Control Systems with an Introduction to System of Systems Engineering (Nanayakkara, T.; 2009) [Book Review",Hussein Abbass,2010,0,IEEE Computational Intelligence Magazine
+10.1109/mci.2020.2976186,An Effective Feature Learning Approach Using Genetic Programming With Image Descriptors for Image Classification [Research Frontier],Ying Bi and Bing Xue and Mengjie Zhang,2020,26,IEEE Computational Intelligence Magazine
 10.1109/mci.2007.385369,Computational Aspects of Cognition and Consciousness in Intelligent Devices,Robert Kozma and Hrand Aghazarian and Terry Huntsberger and Eddie Tunstel and Walter J. Freeman,2007,32,IEEE Computational Intelligence Magazine
 10.1109/mci.2015.2502127,CIS Publication Spotlight [Publication Spotlight],Haibo He and Chin-Teng Lin and Kay Chen Tan and Graham Kendall and Angelo Cangelosi,2016,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2008.926601,Fuzzy Intelligence [Editor's Remarks],Gary Yen,2008,0,IEEE Computational Intelligence Magazine
@@ -132,6 +135,7 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/mci.2014.2350920,CIS Publication Spotlight [Publication Spotlight],Derong Liu and Chin-Teng Lin and Garry Greenwood and Simon Lucas and Zhengyou Zhang,2014,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2011.942571,'Tis the Season to be Healthy! [Editor's Remarks],Kay Tan,2011,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2017.2742802,CIM Editorial Board,,2017,0,IEEE Computational Intelligence Magazine
+10.1109/mci.2015.2471215,Sentiment Data Flow Analysis by Means of Dynamic Linguistic Patterns,Soujanya Poria and Erik Cambria and Alexander Gelbukh and Federica Bisio and Amir Hussain,2015,113,IEEE Computational Intelligence Magazine
 10.1109/mci.2006.1626499,Family corner - Poland chapter,L. Rutkowski,2006,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2012.2228604,2014 IEEE World Congress on Computational Intelligence,,2013,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2010.936320,Table of Contents,,2010,0,IEEE Computational Intelligence Magazine
@@ -139,12 +143,7 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/mci.2014.2307253,Call for Papers for Journal Special Issues,,2014,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2014.2369861,2015 IEEE Congress on Evolutionary Computation (CEC2015),,2015,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2016.2602070,CIS Publication Spotlight [Publication Spotlight],Haibo He and Chin-Teng Lin and Kay Chen Tan and Graham Kendall and Yaochu Jin,2016,0,IEEE Computational Intelligence Magazine
-10.1109/mci.2019.2901089,Reinforcement Learning and Deep Learning Based Lateral Control for Autonomous Driving [Application Notes],Dong Li and Dongbin Zhao and Qichao Zhang and Yaran Chen,2019,74,IEEE Computational Intelligence Magazine
-10.1109/mci.2011.941590,Short-Term Load Forecasting with Neural Network Ensembles: A Comparative Study [Application Notes],Matteo De Felice and n.m. Xin Yao,2011,106,IEEE Computational Intelligence Magazine
 10.1109/mci.2012.2200628,Military Fleet Mix Computation and Analysis [Application Notes],Daniel Wojtaszek and Slawomir Wesolkowski,2012,11,IEEE Computational Intelligence Magazine
-10.1109/mci.2018.2881647,Multimodal Fuzzy Fusion for Enhancing the Motor-Imagery-Based Brain Computer Interface,Li-Wei Ko and Chin-Teng Lin and Yi-Chen Lu and Humberto Bustince and Yu-Cheng Chang and Yang Chang and Javier Ferandez and Yu-Kai Wang and Jose Antonio Sanz and Gracaliz Pereira Dimuro,2019,43,IEEE Computational Intelligence Magazine
-10.1109/mci.2012.2228600,Ensemble Methods: Foundations and Algorithms [Book Review],Friedhelm Schwenker,2013,25,IEEE Computational Intelligence Magazine
-10.1109/mci.2009.933098,Mebra: multiobjective evolutionary-based risk assessment,H.A. Abbass and S. Alam and A. Bender,2009,29,IEEE Computational Intelligence Magazine
 10.1109/mci.2010.938377,T-CIAIG Special Issue Call for Papers,,2010,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2006.1672990,2006 IEEE International Conference on Granular Computing,K.N. King,2006,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2014.2369915,IEEE Conference on Computational Intelligence in Bioinformatics and Computational Biology,,2015,0,IEEE Computational Intelligence Magazine
@@ -183,15 +182,15 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/mci.2007.353424,Computational Finance and Economics Technical Committee,Pedro Isasi,2007,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2006.1672986,How computational models help explain the origins of reasoning,D. Mareschal and M.S.C. Thomas,2006,7,IEEE Computational Intelligence Magazine
 10.1109/mci.2011.2177027,2011 International Joint Conference on Neural Networks (IJCNN 2011) [Conference Reports],Ali A. A. Minai,2012,0,IEEE Computational Intelligence Magazine
+10.1109/mci.2020.3019874,A Bayesian Updating Scheme for Pandemics: Estimating the Infection Dynamics of COVID-19,Shuo Wang and Xian Yang and Ling Li and Philip Nadler and Rossella Arcucci and Yuan Huang and Zhongzhao Teng and Yike Guo,2020,9,IEEE Computational Intelligence Magazine
+10.1109/mci.2012.2228600,Ensemble Methods: Foundations and Algorithms [Book Review],Friedhelm Schwenker,2013,26,IEEE Computational Intelligence Magazine
 10.1109/mci.2021.3129987,Erratum,,2022,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2021.3129923,2022 IEEE Conference on Games,,2022,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2012.2188592,Semantic Web Meets Computational Intelligence: State of the Art and Perspectives [Review Article],Huajun Chen and Zhaohui Wu and Philippe Cudre-Mauroux,2012,14,IEEE Computational Intelligence Magazine
 10.1109/mci.2015.2471255,An Ambient Intelligent and Energy Efficient Food Preparation System Using Linear General Type-2 Fuzzy Logic Based Computing with Words Framework [Application Notes],Aysenur Bilgin and Hani Hagras and Alessandro Ghelli and Daniyal Alghazzawi and Ghadah Aldabbagh,2015,3,IEEE Computational Intelligence Magazine
 10.1109/mci.2015.2437316,Semi-Random Projection for Dimensionality Reduction and Extreme Learning Machine in High-Dimensional Space,Rui Zhao and Kezhi Mao,2015,18,IEEE Computational Intelligence Magazine
 10.1109/mci.2021.3129956,Towards Understanding Human Functional Brain Development With Explainable Artificial Intelligence: Challenges and Perspectives,Mehrin Kiani and Javier Andreu-Perez and Hani Hagras and Silvia Rigato and Maria Laura Filippetti,2022,2,IEEE Computational Intelligence Magazine
-10.1109/mci.2016.2572559,Human vs. Computer Go: Review and Prospect [Discussion Forum],Chang-Shing Lee and Mei-Hui Wang and Shi-Jim Yen and Ting-Han Wei and I-Chen Wu and Ping-Chiang Chou and Chun-Hsun Chou and Ming-Wan Wang and Tai-Hsiung Yan,2016,27,IEEE Computational Intelligence Magazine
 10.1109/mci.2022.3156257,2022 IEEE Conference on Games,,2022,0,IEEE Computational Intelligence Magazine
-10.1109/mci.2007.357195,Implementing Interval Type-2 Fuzzy Processors [Developmental Tools],Miguel Melgarejo and Carlos A. Pena-Reyes,2007,65,IEEE Computational Intelligence Magazine
 10.1109/mci.2010.936308,Hybrid Approaches and Dimensionality Reduction for Portfolio Selection with Cardinality Constraints,Ruben Ruiz-Torrubiano and Alberto Suarez,2010,61,IEEE Computational Intelligence Magazine
 10.1109/mci.2017.2708559,Learning to Generate Descriptions of Visual Data Anchored in Spatial Relations,Adrian Muscat and Anja Belz,2017,3,IEEE Computational Intelligence Magazine
 10.1109/mci.2022.3206707,Call for Papers for Journal Special Issues,,2022,0,IEEE Computational Intelligence Magazine
@@ -229,41 +228,43 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/mci.2021.3067127,IEEE App,,2021,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2021.3061852,IEEE Fellows - Class of 2021 [Society Briefs],Gary G. Yen,2021,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2022.3182825,Front Cover,,2022,0,IEEE Computational Intelligence Magazine
-10.1109/mci.2015.2471215,Sentiment Data Flow Analysis by Means of Dynamic Linguistic Patterns,Soujanya Poria and Erik Cambria and Alexander Gelbukh and Federica Bisio and Amir Hussain,2015,112,IEEE Computational Intelligence Magazine
-10.1109/mci.2013.2291690,On Solving WCDMA Network Planning Using Iterative Power Control Scheme and Evolutionary Multiobjective Algorithm [Application Notes],Hai-Lin Liu and Fangqing Gu and Yiu-ming Cheung and Shengli Xie and Jun Zhang,2014,27,IEEE Computational Intelligence Magazine
 10.1109/mci.2020.3019898,Meaningful Big Data Integration for a Global COVID-19 Strategy,Joao Pita Costa and Marko Grobelnik and Flavio Fuart and Luka Stopar and Gorka Epelde and Scott Fischaber and Piotr Poliwoda and Debbie Rankin and Jonathan Wallace and Michaela Black and Raymond Bond and Maurice Mulvenna and Dale Weston and Paul Carlin and Roberto Bilbao and Gorana Nikolic and Xi Shi and Bart De Moor and Minna Pikkarainen and Jarmo Paakkonen and Anthony Staines and Regina Connolly and Paul Davis,2020,12,IEEE Computational Intelligence Magazine
-10.1109/mci.2012.2215124,An analysis pipeline with statistical and visualization-guided knowledge discovery for Michigan-style learning classifier systems,Ryan J. Urbanowicz and Ambrose Granizo-Mackenzie and Jason H. Moore,2012,42,IEEE Computational Intelligence Magazine
-10.1109/mci.2018.2866730,Cross-Validation for Imbalanced Datasets: Avoiding Overoptimistic and Overfitting Approaches [Research Frontier],Miriam Seoane Santos and Jastin Pompeu Soares and Pedro Henrigues Abreu and Helder Araujo and Joao Santos,2018,173,IEEE Computational Intelligence Magazine
-10.1109/mci.2018.2881644,"Fuzzy Control Systems: Past, Present and Future",Anh-Tu Nguyen and Tadanari Taniguchi and Luka Eciolaza and Victor Campos and Reinaldo Palhares and Michio Sugeno,2019,134,IEEE Computational Intelligence Magazine
-10.1109/mci.2020.2976186,An Effective Feature Learning Approach Using Genetic Programming With Image Descriptors for Image Classification [Research Frontier],Ying Bi and Bing Xue and Mengjie Zhang,2020,24,IEEE Computational Intelligence Magazine
 10.1109/mci.2009.933099,Development and investigation of efficient GA/PSO-HYBRID algorithm applicable to real-world design optimization,Shinkyu Jeong and Shoichi Hasegawa and Koji Shimoyama and Shigeru Obayashi,2009,65,IEEE Computational Intelligence Magazine
 10.1109/mci.2011.942583,Cartesian Genetic Programming and its Application to Medical Diagnosis,Stephen Smith,2011,7,IEEE Computational Intelligence Magazine
 10.1109/mci.2014.2369892,"Bring Your Own Learner: A Cloud-Based, Data-Parallel Commons for Machine Learning",Ignacio Arnaldo and Kalyan Veeramachaneni and Andrew Song and Una-May O'Reilly,2015,15,IEEE Computational Intelligence Magazine
 10.1109/mci.2010.939579,Autonomous Self-Reconfiguration of Modular Robots by Evolving a Hierarchical Mechanochemical Model,Yan Meng and Yuyang Zhang and Yaochu Jin,2011,48,IEEE Computational Intelligence Magazine
-10.1109/mci.2020.2998234,Improving Depression Level Estimation by Concurrently Learning Emotion Intensity,Syed Arbaaz Qureshi and Gael Dias and Mohammed Hasanuzzaman and Sriparna Saha,2020,12,IEEE Computational Intelligence Magazine
+10.1109/mci.2015.2405277,New Trends of Learning in Computational Intelligence [Guest Editorial],Guang-Bin Huang and Erik Cambria and Kar-Ann Toh and Bernard Widrow and Zongben Xu,2015,49,IEEE Computational Intelligence Magazine
+10.1109/mci.2012.2228587,Image Segmentation Using Extended Topological Active Nets Optimized by Scatter Search,Nicola Bova and Oscar Ibanez and Oscar Cordon,2013,14,IEEE Computational Intelligence Magazine
+10.1109/mci.2018.2881647,Multimodal Fuzzy Fusion for Enhancing the Motor-Imagery-Based Brain Computer Interface,Li-Wei Ko and Chin-Teng Lin and Yi-Chen Lu and Humberto Bustince and Yu-Cheng Chang and Yang Chang and Javier Ferandez and Yu-Kai Wang and Jose Antonio Sanz and Gracaliz Pereira Dimuro,2019,44,IEEE Computational Intelligence Magazine
+10.1109/mci.2009.933098,Mebra: multiobjective evolutionary-based risk assessment,H.A. Abbass and S. Alam and A. Bender,2009,29,IEEE Computational Intelligence Magazine
 10.1109/mci.2007.906684,The Fuzzy Ant,Valeri Rozin and Michael Margaliot,2007,15,IEEE Computational Intelligence Magazine
-10.1109/mci.2007.353421,Developmental Tools - Synthetic Biometrics,S.N. Yanushkevich and A. Stoica and V.P. Shmerko,2007,7,IEEE Computational Intelligence Magazine
 10.1109/mci.2017.2708998,Data-to-Text Generation Improves Decision-Making Under Uncertainty,Dimitra Gkatzia and Oliver Lemon and Verena Rieser,2017,11,IEEE Computational Intelligence Magazine
 10.1109/mci.2013.2291686,Computational Intelligence for Natural Language Processing [Guest Editorial],Erik Cambria and Bebo White and Tariq S. Durrani and Newton Howard,2014,8,IEEE Computational Intelligence Magazine
 10.1109/mci.2010.937319,Genetic Representation and Evolvability of Modular Neural Controllers,Peter Durr and Claudio Mattiussi and Dario Floreano,2010,15,IEEE Computational Intelligence Magazine
 10.1109/mci.2013.2279560,Optimal Satellite Formation Reconfiguration Based on Closed-Loop Brain Storm Optimization,Changhao Sun and Haibin Duan and Yuhui Shi,2013,92,IEEE Computational Intelligence Magazine
+10.1109/mci.2018.2881644,"Fuzzy Control Systems: Past, Present and Future",Anh-Tu Nguyen and Tadanari Taniguchi and Luka Eciolaza and Victor Campos and Reinaldo Palhares and Michio Sugeno,2019,139,IEEE Computational Intelligence Magazine
+10.1109/mci.2020.2998234,Improving Depression Level Estimation by Concurrently Learning Emotion Intensity,Syed Arbaaz Qureshi and Gael Dias and Mohammed Hasanuzzaman and Sriparna Saha,2020,14,IEEE Computational Intelligence Magazine
 10.1109/mci.2013.2264568,Game AI Competitions: An Open Platform for Computational Intelligence Education [Educational Forum],Kyung-Joong Kim and Sung-Bae Cho,2013,6,IEEE Computational Intelligence Magazine
-10.1109/mci.2015.2405277,New Trends of Learning in Computational Intelligence [Guest Editorial],Guang-Bin Huang and Erik Cambria and Kar-Ann Toh and Bernard Widrow and Zongben Xu,2015,49,IEEE Computational Intelligence Magazine
-10.1109/mci.2012.2228587,Image Segmentation Using Extended Topological Active Nets Optimized by Scatter Search,Nicola Bova and Oscar Ibanez and Oscar Cordon,2013,14,IEEE Computational Intelligence Magazine
+10.1109/mci.2007.353421,Developmental Tools - Synthetic Biometrics,S.N. Yanushkevich and A. Stoica and V.P. Shmerko,2007,8,IEEE Computational Intelligence Magazine
+10.1109/mci.2021.3129957,PIP: Pictorial Interpretable Prototype Learning for Time Series Classification,Alireza Ghods and Diane J. Cook,2022,3,IEEE Computational Intelligence Magazine
 10.1109/mci.2017.2742867,Benchmarking Ensemble Classifiers with Novel Co-Trained Kernel Ridge Regression and Random Vector Functional Link Ensembles [Research Frontier],Le Zhang and Ponnuthurai Nagaratnam Suganthan,2017,83,IEEE Computational Intelligence Magazine
-10.1109/mci.2019.2954667,How Intense Are You? Predicting Intensities of Emotions and Sentiments using Stacked Ensemble [Application Notes],Md Shad Akhtar and Asif Ekbal and Erik Cambria,2020,158,IEEE Computational Intelligence Magazine
 10.1109/mci.2021.3084416,Forecasting Wind Speed Time Series Via Dendritic Neural Regression,Junkai Ji and Minhui Dong and Qiuzhen Lin and Kay Chen Tan,2021,7,IEEE Computational Intelligence Magazine
-10.1109/mci.2017.2708578,Pattern Recommendation in Task-oriented Applications: A Multi-Objective Perspective [Application Notes],Xingyi Zhang and Fuchen Duan and Lei Zhang and Fan Cheng and Yaochu Jin and Ke Tang,2017,42,IEEE Computational Intelligence Magazine
+10.1109/mci.2013.2247823,Learning deep physiological models of affect,Hector P. Martinez and Yoshua Bengio and Georgios N. Yannakakis,2013,181,IEEE Computational Intelligence Magazine
+10.1109/mci.2012.2215124,An analysis pipeline with statistical and visualization-guided knowledge discovery for Michigan-style learning classifier systems,Ryan J. Urbanowicz and Ambrose Granizo-Mackenzie and Jason H. Moore,2012,42,IEEE Computational Intelligence Magazine
+10.1109/mci.2016.2572559,Human vs. Computer Go: Review and Prospect [Discussion Forum],Chang-Shing Lee and Mei-Hui Wang and Shi-Jim Yen and Ting-Han Wei and I-Chen Wu and Ping-Chiang Chou and Chun-Hsun Chou and Ming-Wan Wang and Tai-Hsiung Yan,2016,28,IEEE Computational Intelligence Magazine
 10.1109/mci.2022.3180913,Comparing the Performance of Evolutionary Algorithms for Sparse Multi-Objective Optimization via a Comprehensive Indicator [Research Frontier],Yansen Su and Zhongxiang Jin and Ye Tian and Xingyi Zhang and Kay Chen Tan,2022,1,IEEE Computational Intelligence Magazine
 10.1109/mci.2008.919069,Immunocomputing for intelligent intrusion detection,Alexander Tarakanov,2008,20,IEEE Computational Intelligence Magazine
 10.1109/mci.2021.3084415,Self-Supervised Representation Learning for Evolutionary Neural Architecture Search,Chen Wei and Yiping Tang and Chuang Niu Chuang Niu and Haihong Hu and Yue Wang and Jimin Liang,2021,5,IEEE Computational Intelligence Magazine
-10.1109/mci.2007.353419,"A pso-based mobile robot for odor source localization in dynamic advection-diffusion with obstacles environment: theory, simulation and measurement",W. Jatmiko and K. Sekiyama and T. Fukuda,2007,138,IEEE Computational Intelligence Magazine
 10.1109/mci.2021.3061854,Can Transfer Neuroevolution Tractably Solve Your Differential Equations?,Jian Cheng Wong and Abhishek Gupta and Yew-Soon Ong,2021,5,IEEE Computational Intelligence Magazine
-10.1109/mci.2013.2247823,Learning deep physiological models of affect,Hector P. Martinez and Yoshua Bengio and Georgios N. Yannakakis,2013,179,IEEE Computational Intelligence Magazine
-10.1109/mci.2021.3129957,PIP: Pictorial Interpretable Prototype Learning for Time Series Classification,Alireza Ghods and Diane J. Cook,2022,3,IEEE Computational Intelligence Magazine
-10.1109/mci.2016.2572539,Learning User and Product Distributed Representations Using a Sequence Model for Sentiment Analysis,Tao Chen and Ruifeng Xu and Yulan He and Yunqing Xia and Xuan Wang,2016,70,IEEE Computational Intelligence Magazine
-10.1109/mci.2017.2742868,PlatEMO: A MATLAB Platform for Evolutionary Multi-Objective Optimization [Educational Forum],Ye Tian and Ran Cheng and Xingyi Zhang and Yaochu Jin,2017,898,IEEE Computational Intelligence Magazine
-10.1109/mci.2014.2307227,Jumping NLP Curves: A Review of Natural Language Processing Research [Review Article],Erik Cambria and Bebo White,2014,548,IEEE Computational Intelligence Magazine
+10.1109/mci.2014.2350951,A Hybrid Metaheuristic Optimization Algorithm for Strategic Planning of 4D Aircraft Trajectories at the Continental Scale,Supatcha Chaimatanan and Daniel Delahaye and Marcel Mongeau,2014,42,IEEE Computational Intelligence Magazine
+10.1109/mci.2007.357195,Implementing Interval Type-2 Fuzzy Processors [Developmental Tools],Miguel Melgarejo and Carlos A. Pena-Reyes,2007,66,IEEE Computational Intelligence Magazine
+10.1109/mci.2017.2708578,Pattern Recommendation in Task-oriented Applications: A Multi-Objective Perspective [Application Notes],Xingyi Zhang and Fuchen Duan and Lei Zhang and Fan Cheng and Yaochu Jin and Ke Tang,2017,44,IEEE Computational Intelligence Magazine
+10.1109/mci.2007.353419,"A pso-based mobile robot for odor source localization in dynamic advection-diffusion with obstacles environment: theory, simulation and measurement",W. Jatmiko and K. Sekiyama and T. Fukuda,2007,138,IEEE Computational Intelligence Magazine
+10.1109/mci.2014.2307227,Jumping NLP Curves: A Review of Natural Language Processing Research [Review Article],Erik Cambria and Bebo White,2014,560,IEEE Computational Intelligence Magazine
+10.1109/mci.2011.941590,Short-Term Load Forecasting with Neural Network Ensembles: A Comparative Study [Application Notes],Matteo De Felice and n.m. Xin Yao,2011,107,IEEE Computational Intelligence Magazine
+10.1109/mci.2017.2742868,PlatEMO: A MATLAB Platform for Evolutionary Multi-Objective Optimization [Educational Forum],Ye Tian and Ran Cheng and Xingyi Zhang and Yaochu Jin,2017,919,IEEE Computational Intelligence Magazine
+10.1109/mci.2013.2291690,On Solving WCDMA Network Planning Using Iterative Power Control Scheme and Evolutionary Multiobjective Algorithm [Application Notes],Hai-Lin Liu and Fangqing Gu and Yiu-ming Cheung and Shengli Xie and Jun Zhang,2014,29,IEEE Computational Intelligence Magazine
+10.1109/mci.2015.2405351,A Survey of Evolutionary Computation for Resource Management of Processing in Cloud Computing [Review Article],Mateusz Guzek and Pascal Bouvry and El-Ghazali Talbi,2015,85,IEEE Computational Intelligence Magazine
 10.1109/mci.2015.2492758,2015 Index IEEE Computational Intelligence Magazine Vol. 10 [Year-End Index],,2015,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2007.357172,Educational Activities [President's Message],Vincenzo Piuri,2007,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2014.2350932,"Computational intelligence in production and logistics systems: solving vehicle routing, supply chain network, and air-traffic trajectory planning problems [guest editorial]",Bulent Catay and Raymond Chiong and Oscar Cordon and Patrick Siarry,2014,0,IEEE Computational Intelligence Magazine
@@ -278,6 +279,8 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/mci.2016.2572478,CIS Society Officers,,2016,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2008.919082,"Interview with Tim Havens, University of Missouri, USA [Focus on Students]",,2008,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2010.936318,IEEE Fellows—Class of 2010 [Society Briefs,Piero Bonissone,2010,0,IEEE Computational Intelligence Magazine
+10.1109/mci.2017.2742869,How to Read Many-Objective Solution Sets in Parallel Coordinates [Educational Forum],Miqing Li and Liangli Zhen and Xin Yao,2017,69,IEEE Computational Intelligence Magazine
+10.1109/mci.2015.2405316,Local Receptive Fields Based Extreme Learning Machine,Guang-Bin Huang and Zuo Bai and Liyanaarachchi Lekamalage Chamara Kasun and Chi Man Vong,2015,274,IEEE Computational Intelligence Magazine
 10.1109/mci.2009.935250,Conference Calendar,,2010,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2011.942849,[2011 Index],,2011,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2016.2602074,IEEE Transactions on Emerging Topics in Computational Intelligence,,2016,0,IEEE Computational Intelligence Magazine
@@ -295,6 +298,7 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/mci.2008.919085,"Interview with Jim Bezdek, University of West Florida, USA [Career Profile]",,2008,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2007.357199,Paper Submission Guidelines and Information for authors,,2007,0,IEEE Computational Intelligence Magazine
 10.1109/ci-m.2006.248043,Visualizing the Computational Intelligence Field,Nees Van Eck and Ludo Waltman and Jan Den Berg and Uzay Kaymak,2006,23,IEEE Computational Intelligence Magazine
+10.1109/mci.2022.3155327,Hands-On Bayesian Neural Networks—A Tutorial for Deep Learning Users,Laurent Valentin Jospin and Hamid Laga and Farid Boussaid and Wray Buntine and Mohammed Bennamoun,2022,51,IEEE Computational Intelligence Magazine
 10.1109/mci.2010.939591,Front Cover,,2011,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2006.1626496,Awards - 2006 CIS neural networks pioneer award,R. Marks,2006,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2015.2405371,[Conference Calendar],Bernadette Bouchon-Meunier,2015,0,IEEE Computational Intelligence Magazine
@@ -316,10 +320,7 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/mci.2007.385374,IEEE Education Partners Program,,2007,2,IEEE Computational Intelligence Magazine
 10.1109/mci.2018.2866728,An Accurate Lattice Model for Pricing Catastrophe Equity Put Under the Jump-Diffusion Process,Chuan-Ju Wang and Tian-Shyr Dai,2018,1,IEEE Computational Intelligence Magazine
 10.1109/mci.2015.2405318,Visual Cue-Guided Rat Cyborg for Automatic Navigation [Research Frontier],Yueming Wang and Minlong Lu and Zhaohui Wu and Liwen Tian and Kedi Xu and Xiaoxiang Zheng and Gang Pan,2015,18,IEEE Computational Intelligence Magazine
-10.1109/mci.2020.3019899,Intelligent Optimization of Diversified Community Prevention of COVID-19 Using Traditional Chinese Medicine,Yu-Jun Zheng and Si-Lan Yu and Jun-Chao Yang and Tie-Er Gan and Qin Song and Jun Yang and Mumtaz Karatas,2020,9,IEEE Computational Intelligence Magazine
 10.1109/mci.2014.2369894,Personalized Recommendation Based on Evolutionary Multi-Objective Optimization [Research Frontier],Yi Zuo and Maoguo Gong and Jiulin Zeng and Lijia Ma and Licheng Jiao,2015,90,IEEE Computational Intelligence Magazine
-10.1109/mci.2010.936305,Memetic Compact Differential Evolution for Cartesian Robot Control,Ferrante Neri and Ernesto Mininno,2010,142,IEEE Computational Intelligence Magazine
-10.1109/mci.2012.2200621,Towards the Wide Spread Use of Type-2 Fuzzy Logic Systems in Real World Applications,Hani Hagras and Christian Wagner,2012,117,IEEE Computational Intelligence Magazine
 10.1109/mci.2011.942580,2011 IEEE Symposium Series on Computational Intelligence [Conference Reports],Bernadette Bouchon-Meunier,2011,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2018.2807159,Call for Papers for Journal Special Issues,,2018,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2008.930990,2008 IEEE Symposium on Computational Intelligence in Bioinformatics and Computational Biology (CIBCB 2008) [Conference Reports],Scott F. Smith,2009,0,IEEE Computational Intelligence Magazine
@@ -329,8 +330,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/mci.2016.2602069,IEEE CIS VP-Technical Activities Vision Statement [Society Briefs],Hussein A. Abbass,2016,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2016.2545798,CIM Editorial Board,,2016,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2007.4313031,Index,,2007,0,IEEE Computational Intelligence Magazine
-10.1109/mci.2022.3155325,Evolutionary Multitasking AUC Optimization [Research Frontier],Chao Wang and Kai Wu and Jing Liu,2022,0,IEEE Computational Intelligence Magazine
-10.1109/mci.2015.2471235,"Ensemble Classification and Regression-Recent Developments, Applications and Future Directions [Review Article]",Ye Ren and Le Zhang and P.N. Suganthan,2016,378,IEEE Computational Intelligence Magazine
 10.1109/mci.2016.2572540,Statistical Learning Theory and ELM for Big Social Data Analysis,Luca Oneto and Federica Bisio and Erik Cambria and Davide Anguita,2016,77,IEEE Computational Intelligence Magazine
 10.1109/mci.2021.3129959,Collective eXplainable AI: Explaining Cooperative Strategies and Agent Contribution in Multiagent Reinforcement Learning With Shapley Values,Alexandre Heuillet and Fabien Couthouis and Natalia Diaz-Rodriguez,2022,8,IEEE Computational Intelligence Magazine
 10.1109/mci.2017.2773799,Computational Intelligence Techniques for Mobile Network Optimization [Guest Editorial],Junaid Qadir and Amir Hussain and Kok-Lim Alvin Yau and Muhammad Ali Imran and Adam Wolisz,2018,2,IEEE Computational Intelligence Magazine
@@ -339,7 +338,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/mci.2013.2279557,Computational Intelligence for Space Systems and Operations [Guest Editorial],Yang Gao and Nicola Policella and Frank Kirchner,2013,1,IEEE Computational Intelligence Magazine
 10.1109/mci.2014.2326105,[Conference Calendar],Pauline Haddow,2014,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2010.936633,Front Cover,,2010,0,IEEE Computational Intelligence Magazine
-10.1109/mci.2012.2215493,Computational Intelligence Meets Game of Go @ IEEE WCCI 2012 [Society Briefs],Chang-Shing Lee and Olivier Teytaud and Mei-Hui Wang and Shi-Jim Yen,2012,7,IEEE Computational Intelligence Magazine
 10.1109/mci.2007.913374,"Interview with President of CIS, 2008-2009 - David B. Fogel [Career Profile]",,2008,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2012.2228583,2012 IEEE Symposium on Computational Intelligence for Security and Defence Applications (IEEE CISDA 2012) [Conference Report],Rami Abielmona,2013,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2006.1626484,IEEE - Job site,,2006,0,IEEE Computational Intelligence Magazine
@@ -359,7 +357,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/mci.2019.2901071,Front Cover,,2019,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2019.2901103,IEEE WCCI 2020,,2019,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2019.2901076,Immediate Open Access Is Welcome But... [President's Message],Nikhil R. Pal,2019,0,IEEE Computational Intelligence Magazine
-10.1109/mci.2016.2601702,Super-Sparse Learning in Similarity Spaces,Ambra Demontis and Marco Melis and Battista Biggio and Giorgio Fumera and Fabio Roli,2016,3,IEEE Computational Intelligence Magazine
 10.1109/mci.2017.2773918,IEEE Conference on Computational Intelligence in Bioinformatics and Computational Biology,,2018,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2006.1597063,Applications of Multi-Objective Evolutionary Algorithms - [Book Review],C. Brizuela,2006,2,IEEE Computational Intelligence Magazine
 10.1109/mci.2015.2416007,IEEE CIG 2015,,2015,0,IEEE Computational Intelligence Magazine
@@ -374,6 +371,8 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/mci.2010.938376,[IEEE CIM List of Reviewers 2010],,2010,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2006.1597066,Advertisers index,,2006,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2019.2937612,Explicit Control of Implicit Parallelism in Decomposition-Based Evolutionary Many-Objective Optimization Algorithms [Research Frontier],Lei Chen and Kalyanmoy Deb and Hai-Lin Liu,2019,5,IEEE Computational Intelligence Magazine
+10.1109/mci.2020.3019899,Intelligent Optimization of Diversified Community Prevention of COVID-19 Using Traditional Chinese Medicine,Yu-Jun Zheng and Si-Lan Yu and Jun-Chao Yang and Tie-Er Gan and Qin Song and Jun Yang and Mumtaz Karatas,2020,10,IEEE Computational Intelligence Magazine
+10.1109/mci.2012.2200621,Towards the Wide Spread Use of Type-2 Fuzzy Logic Systems in Real World Applications,Hani Hagras and Christian Wagner,2012,119,IEEE Computational Intelligence Magazine
 10.1109/mci.2011.942575,2012 IEEE CIS Awards [Society Briefs],James Keller,2011,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2014.2350891,[Front cover],,2014,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2006.1626492,Strategies for unsupervised multimedia processing,M. Kyan and K. Jarrah and P. Muneesawang and n.m. Ling Guan,2006,2,IEEE Computational Intelligence Magazine
@@ -387,7 +386,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/ci-m.2006.248065,2007 CIS Meritorious Service Award,David Fogel,2006,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2014.2350894,Geographical Outreach Activities [Editor's Remarks],Hisao Ishibuchi,2014,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2014.2326262,IEEE CEC 2015,,2014,0,IEEE Computational Intelligence Magazine
-10.1109/mci.2014.2326104,Intelligence for Embedded Systems: A Methodological Approach [Book Review],Haibo He,2014,1,IEEE Computational Intelligence Magazine
 10.1109/mci.2012.2188563,IEEE Fellows—Class of 2012 [Society Briefs],Piero Bonissone,2012,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2008.929861,Year-End Index,,2008,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2012.2215111,[Front cover],,2012,0,IEEE Computational Intelligence Magazine
@@ -404,6 +402,7 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/mci.2013.2247816,CIS Society Officers,,2013,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2014.2326093,[President's Message],Xin Yao,2014,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2022.3226173,Call for Papers: IEEE Conference on Artificial Intelligence,,2023,0,IEEE Computational Intelligence Magazine
+10.1109/mci.2019.2954643,Artificial Intelligence Enabled Internet of Things: Network Architecture and Spectrum Access,Hao Song and Jianan Bai and Yang Yi and Jinsong Wu and Lingjia Liu,2020,86,IEEE Computational Intelligence Magazine
 10.1109/mci.2014.2326098,Computational Intelligence in Big Data [Guest Editorial],Yaochu Jin and Barbara Hammer,2014,17,IEEE Computational Intelligence Magazine
 10.1109/ci-m.2006.248067,2007 CIS Outstanding Chapter Award,,2006,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2017.2770276,CIM Editorial Board,,2018,0,IEEE Computational Intelligence Magazine
@@ -428,6 +427,8 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/mci.2016.2602067,CIS Society Officers,,2016,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2013.2291675,IEEE CIS VP-Technical Activities Vision Statement [Society Briefs],Yaochu Jin,2014,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2015.2405317,Arbitrary Category Classification of Websites Based on Image Content,Anton Akusok and Yoan Miche and Juha Karhunen and Kaj-Mikael Bjork and Rui Nian and Amaury Lendasse,2015,20,IEEE Computational Intelligence Magazine
+10.1109/mci.2010.937324,Kernel Adaptive Filtering: A Comprehensive Introduction [Book Review,Ignatio Santamaria,2010,5,IEEE Computational Intelligence Magazine
+10.1109/mci.2021.3084394,Fast and Unsupervised Neural Architecture Evolution for Visual Representation Learning,Song Xue and Hanlin Chen and Chunyu Xie and Baochang Zhang and Xuan Gong and David Doermann,2021,1,IEEE Computational Intelligence Magazine
 10.1109/mci.2022.3156261,IEEE DSAA 2022,,2022,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2014.2307222,Context-Aware Personal Information Retrieval From Multiple Social Networks,Xiaogang Han and Wei Wei and Chunyan Miao and Jian-Ping Mei and Hengjie Song,2014,9,IEEE Computational Intelligence Magazine
 10.1109/mci.2016.2627669,Modeling the Tracking Area Planning Problem Using an Evolutionary Multi-Objective Algorithm,Lei Chen and Hai-Lin Liu and Zhun Fan and Shengli Xie and Erik D. Goodman,2017,11,IEEE Computational Intelligence Magazine
@@ -451,7 +452,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/mci.2020.2997120,Front Cover,,2020,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2020.3019871,CIS Publication Spotlight [Publication Spotlight],Haibo He and Jon Garibaldi and Kay Chen Tan and Julian Togelius and Yaochu Jin and Yew Soon Ong,2020,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2019.2954640,Computational Intelligence for Internet of Things in the Big Data Era (Part II) [Guest Editorial],Celimuge Wu and Guoliang Xue and Jie Li and Kok-Lim Alvin Yau and Junaid Qadir,2020,4,IEEE Computational Intelligence Magazine
-10.1109/mci.2013.2264251,An Intelligent Self-Organization Scheme for the Internet of Things,Yongsheng Ding and Yanling Jin and Lihong Ren and Kuangrong Hao,2013,70,IEEE Computational Intelligence Magazine
 10.1109/mci.2022.3199626,"Choosing Representation, Mutation, and Crossover in Genetic Algorithms",Alexander Dockhorn and Simon Lucas,2022,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2022.3223496,Type-1 and Interval Type-2 Fuzzy Systems [AI- eXplained],Dongrui Wu and Ruimin Peng and Jerry M. Mendel,2023,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2022.3180881,Interview With Editor-in-Chief of IEEE Transactions on Neural Networks and Learning Systems [Career Profile],n.m. CIM Editorial Office,2022,0,IEEE Computational Intelligence Magazine
@@ -467,38 +467,38 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/mci.2022.3207870,TechRxiv: Share Your Preprint Research With the World!,,2022,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2019.2954574,IEEE CIS VP-Conferences Vision Statement [Society Briefs],Marley M.B.R. Vellasco,2020,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2019.2954638,CIS Publication Spotlight [Publication Spotlight],Haibo He and Jon Garibaldi and Kay Chen Tan and Julian Togelius and Yaochu Jin and Yew Soon Ong,2020,0,IEEE Computational Intelligence Magazine
-10.1109/mci.2009.933093,Multicriteria decision making (mcdm): a framework for research and applications,Piero Bonissone and Raj Subbu and John Lizzi,2009,60,IEEE Computational Intelligence Magazine
 10.1109/mci.2019.2954668,EvoMSA: A Multilingual Evolutionary Approach for Sentiment Analysis [Application Notes],Mario Graff and Sabino Miranda-Jimenez and Eric S. Tellez and Daniela Moctezuma,2020,3,IEEE Computational Intelligence Magazine
+10.1109/mci.2012.2215152,A Fully Decentralized Multi-Agent System for Intelligent Restoration of Power Distribution Network Incorporating Distributed Generations [Application Notes],Hengxuan Li and Haishun Sun and Jinyu Wen and Shijie Cheng and Haibo He,2012,47,IEEE Computational Intelligence Magazine
 10.1109/mci.2021.3108302,Advances in Memetic Automaton: Toward Human-Like Autonomous Agents in Complex Multi-Agent Learning Problems,Yaqing Hou and Xiangchao Yu and Yifeng Zeng and Ziqi Wei and Haijun Zhang and Hongwei Ge and Qiang Zhang,2021,1,IEEE Computational Intelligence Magazine
 10.1109/mci.2021.3066705,DSAA 2021,,2021,1,IEEE Computational Intelligence Magazine
 10.1109/mci.2011.2177029,2011 IEEE Conference on Computational Intelligence and Games [Conference Reports],Kyung-joong Kim and Sung-bae Cho,2012,1,IEEE Computational Intelligence Magazine
-10.1109/mci.2015.2437551,Predictive Cloud Computing with Big Data: Professional Golf and Tennis Forecasting [Application Notes],Aaron K. Baughman and Richard J. Bogdany and Cameron McAvoy and Richard Locke and Brian O'Connell and Clay Upton,2015,10,IEEE Computational Intelligence Magazine
 10.1109/mci.2007.913389,"Machine intelligence, adaptive business intelligence, and natural intelligence [Research Frontier]",Zbigniew Michalewicz and Matthew Michalewicz,2008,7,IEEE Computational Intelligence Magazine
 10.1109/mci.2012.2188588,Exploiting Tractable Fuzzy and Crisp Reasoning in Ontology Applications,Jeff Pan and Edward Thomas and Yuan Ren and Stuart Taylor,2012,20,IEEE Computational Intelligence Magazine
 10.1109/mci.2011.2176999,The Degree of Consideration-Based Mechanism of Thought and Its Application to Artificial Creatures for Behavior Selection,Jong-hwan Kim and Woo-ri Ko and Ji-hyeong Han and Sheir S. Zaheer,2012,14,IEEE Computational Intelligence Magazine
+10.1109/mci.2015.2437551,Predictive Cloud Computing with Big Data: Professional Golf and Tennis Forecasting [Application Notes],Aaron K. Baughman and Richard J. Bogdany and Cameron McAvoy and Richard Locke and Brian O'Connell and Clay Upton,2015,11,IEEE Computational Intelligence Magazine
+10.1109/mci.2016.2601702,Super-Sparse Learning in Similarity Spaces,Ambra Demontis and Marco Melis and Battista Biggio and Giorgio Fumera and Fabio Roli,2016,3,IEEE Computational Intelligence Magazine
+10.1109/mci.2012.2215139,Novel Recurrent Neural Network for Time-Varying Problems Solving [Research Frontier],Dongsheng Guo and Yunong Zhang,2012,41,IEEE Computational Intelligence Magazine
 10.1109/mci.2019.2901083,An Evolutionary Strategy For Concept-Based Multi-Domain Sentiment Analysis,Mauro Dragoni,2019,6,IEEE Computational Intelligence Magazine
 10.1109/mci.2016.2572518,Leveraging Cross-Domain Social Media Analytics to Understand TV Topics Popularity,Ruggero G. Pensa and Maria Luisa Sapino and Claudio Schifanella and Luca Vignaroli,2016,8,IEEE Computational Intelligence Magazine
-10.1109/mci.2022.3155308,Deep Evolutionary Learning for Molecular Design,Karl Grantham and Muhetaer Mukaidaisi and Hsu Kiang Ooi and Mohammad Sajjad Ghaemi and Alain Tchagang and Yifeng Li,2022,4,IEEE Computational Intelligence Magazine
 10.1109/mci.2006.1597062,"Historic perspective - Nils Barricelli-artificial life, coevolution, self-adaptation",D.B. Fogel,2006,14,IEEE Computational Intelligence Magazine
-10.1109/mci.2010.936307,Natural and Remote Sensing Image Segmentation Using Memetic Computing,Licheng Jiao and Maoguo Gong and Shuang Wang and Biao Hou and Zhi Zheng and Qiaodi Wu,2010,56,IEEE Computational Intelligence Magazine
 10.1109/mci.2007.913386,Evolving artificial neural network ensembles,n.m. Xin Yao and M.M. Islam,2008,98,IEEE Computational Intelligence Magazine
-10.1109/mci.2012.2215152,A Fully Decentralized Multi-Agent System for Intelligent Restoration of Power Distribution Network Incorporating Distributed Generations [Application Notes],Hengxuan Li and Haishun Sun and Jinyu Wen and Shijie Cheng and Haibo He,2012,45,IEEE Computational Intelligence Magazine
 10.1109/mci.2021.3129960,Bridging the Gap Between AI and Explainability in the GDPR: Towards Trustworthiness-by-Design in Automated Decision-Making,Ronan Hamon and Henrik Junklewitz and Ignacio Sanchez and Gianclaudio Malgieri and Paul De Hert,2022,10,IEEE Computational Intelligence Magazine
-10.1109/mci.2015.2405351,A Survey of Evolutionary Computation for Resource Management of Processing in Cloud Computing [Review Article],Mateusz Guzek and Pascal Bouvry and El-Ghazali Talbi,2015,85,IEEE Computational Intelligence Magazine
 10.1109/mci.2022.3223266,"Spring Forward, Fall Back [President's Message]",Jim Keller,2023,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2022.3231676,Where Technology and Philanthropy Intersect,,2023,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2022.3223460,Industrial AI [Industrial and Governmental Activities],Piero P. Bonissone and Alessandro Liani,2023,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2022.3226170,Front Cover,,2023,0,IEEE Computational Intelligence Magazine
-10.1109/mci.2021.3061875,Multi-Scale Neural Network for EEG Representation Learning in BCI,Wonjun Ko and Eunjin Jeon and Seungwoo Jeong and Heung-Il Suk,2021,24,IEEE Computational Intelligence Magazine
-10.1109/mci.2015.2405316,Local Receptive Fields Based Extreme Learning Machine,Guang-Bin Huang and Zuo Bai and Liyanaarachchi Lekamalage Chamara Kasun and Chi Man Vong,2015,273,IEEE Computational Intelligence Magazine
-10.1109/mci.2010.937324,Kernel Adaptive Filtering: A Comprehensive Introduction [Book Review,Ignatio Santamaria,2010,5,IEEE Computational Intelligence Magazine
-10.1109/mci.2012.2215139,Novel Recurrent Neural Network for Time-Varying Problems Solving [Research Frontier],Dongsheng Guo and Yunong Zhang,2012,41,IEEE Computational Intelligence Magazine
-10.1109/mci.2021.3084394,Fast and Unsupervised Neural Architecture Evolution for Visual Representation Learning,Song Xue and Hanlin Chen and Chunyu Xie and Baochang Zhang and Xuan Gong and David Doermann,2021,1,IEEE Computational Intelligence Magazine
-10.1109/mci.2017.2742869,How to Read Many-Objective Solution Sets in Parallel Coordinates [Educational Forum],Miqing Li and Liangli Zhen and Xin Yao,2017,68,IEEE Computational Intelligence Magazine
-10.1109/mci.2019.2954643,Artificial Intelligence Enabled Internet of Things: Network Architecture and Spectrum Access,Hao Song and Jianan Bai and Yang Yi and Jinsong Wu and Lingjia Liu,2020,85,IEEE Computational Intelligence Magazine
-10.1109/mci.2022.3180932,When Federated Learning Meets Blockchain: A New Distributed Learning Paradigm,Chuan Ma and Jun Li and Long Shi and Ming Ding and Taotao Wang and Zhu Han and H. Vincent Poor,2022,12,IEEE Computational Intelligence Magazine
+10.1109/mci.2010.936305,Memetic Compact Differential Evolution for Cartesian Robot Control,Ferrante Neri and Ernesto Mininno,2010,143,IEEE Computational Intelligence Magazine
+10.1109/mci.2021.3061875,Multi-Scale Neural Network for EEG Representation Learning in BCI,Wonjun Ko and Eunjin Jeon and Seungwoo Jeong and Heung-Il Suk,2021,27,IEEE Computational Intelligence Magazine
 10.1109/mci.2009.933094,A systems approach to evolutionary multiobjective structural optimization and beyond,Yaochu Jin and Bernhard Sendhoff,2009,119,IEEE Computational Intelligence Magazine
-10.1109/mci.2022.3155327,Hands-On Bayesian Neural Networks—A Tutorial for Deep Learning Users,Laurent Valentin Jospin and Hamid Laga and Farid Boussaid and Wray Buntine and Mohammed Bennamoun,2022,45,IEEE Computational Intelligence Magazine
+10.1109/mci.2009.933093,Multicriteria decision making (mcdm): a framework for research and applications,Piero Bonissone and Raj Subbu and John Lizzi,2009,60,IEEE Computational Intelligence Magazine
+10.1109/mci.2013.2264251,An Intelligent Self-Organization Scheme for the Internet of Things,Yongsheng Ding and Yanling Jin and Lihong Ren and Kuangrong Hao,2013,71,IEEE Computational Intelligence Magazine
+10.1109/mci.2012.2215493,Computational Intelligence Meets Game of Go @ IEEE WCCI 2012 [Society Briefs],Chang-Shing Lee and Olivier Teytaud and Mei-Hui Wang and Shi-Jim Yen,2012,7,IEEE Computational Intelligence Magazine
+10.1109/mci.2022.3180932,When Federated Learning Meets Blockchain: A New Distributed Learning Paradigm,Chuan Ma and Jun Li and Long Shi and Ming Ding and Taotao Wang and Zhu Han and H. Vincent Poor,2022,13,IEEE Computational Intelligence Magazine
+10.1109/mci.2014.2326104,Intelligence for Embedded Systems: A Methodological Approach [Book Review],Haibo He,2014,1,IEEE Computational Intelligence Magazine
+10.1109/mci.2022.3155325,Evolutionary Multitasking AUC Optimization [Research Frontier],Chao Wang and Kai Wu and Jing Liu,2022,1,IEEE Computational Intelligence Magazine
+10.1109/mci.2010.936307,Natural and Remote Sensing Image Segmentation Using Memetic Computing,Licheng Jiao and Maoguo Gong and Shuang Wang and Biao Hou and Zhi Zheng and Qiaodi Wu,2010,57,IEEE Computational Intelligence Magazine
+10.1109/mci.2022.3155308,Deep Evolutionary Learning for Molecular Design,Karl Grantham and Muhetaer Mukaidaisi and Hsu Kiang Ooi and Mohammad Sajjad Ghaemi and Alain Tchagang and Yifeng Li,2022,4,IEEE Computational Intelligence Magazine
+10.1109/mci.2015.2471235,"Ensemble Classification and Regression-Recent Developments, Applications and Future Directions [Review Article]",Ye Ren and Le Zhang and P.N. Suganthan,2016,387,IEEE Computational Intelligence Magazine
 10.1109/mci.2006.1672984,"Family corner [IEEE Ukraine Section---Instrumentation &amp; Measurement/Computational Intelligence Joint Societies Chapter (USI&amp;M/CIJSC) was created June 7, 2005",A. Sachenko,2006,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2008.926605,Conference Calendar,,2008,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2007.4383057,Free Trial! Experience IEEE,,2007,0,IEEE Computational Intelligence Magazine
@@ -549,15 +549,17 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/mci.2007.906680,Table of Contents,,2008,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2016.2572479,Conference Report on 2015 IEEE Conference on Computational Intelligence and Games (IEEE CIG 2015) [Conference Reports],Chang-Shing Lee and I-Chen Wu and Mei-Hui Wang,2016,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2007.353412,Table of contents - May 2007 Volume 2 Number 2,,2007,0,IEEE Computational Intelligence Magazine
+10.1109/mci.2015.2437318,Learning Distributions of Image Features by Interactive Fuzzy Lattice Reasoning in Pattern Recognition Applications,Vassilis G. Kaburlasos and George A. Papakostas,2015,37,IEEE Computational Intelligence Magazine
+10.1109/mci.2021.3108306,Evolutionary Algorithms Designing Nanoparticle Cancer Treatments with Multiple Particle Types [Application Notes],Michail-Antisthenis Tsompanas and Larry Bull and Andrew Adamatzky and Igor Balaz,2021,1,IEEE Computational Intelligence Magazine
 10.1109/mci.2006.1597064,Conference report - 2005 IEEE Conference on Evolutionary Computation,D.W. Corne,2006,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2015.2472117,CIS Publication Spotlight [Publication Spotlight],Derong Liu and Chin-Teng Lin and Kay Chen Tan and Graham Kendall and Angelo Cangelosi,2015,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2007.913363,In Memoriam - Reflections on Larry Fogel at ORINCON Corporation (1988¿1993),Terry Rickard,2008,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2012.2200615,CIM Editorial Board,,2012,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2007.913361,"In Memoriam - Reflections on Larry Fogel at Decision Science, Inc. (1965¿1982)",George Burgin,2008,1,IEEE Computational Intelligence Magazine
 10.1109/mci.2010.936992,ECP [Educational Control Products - advertisement],,2010,0,IEEE Computational Intelligence Magazine
-10.1109/mci.2019.2919395,Event Detection in Twitter Stream Using Weighted Dynamic Heartbeat Graph Approach [Application Notes],Zafar Saeed and Rabeeh Ayaz Abbasi and Muhammad Imran Razzak and Guandong Xu,2019,26,IEEE Computational Intelligence Magazine
 10.1109/mci.2022.3223469,Acknowledging Volunteers Associated With 2022 IEEE CIS Conference Management [Conference Reports] [Society Briefs],Marley Velasco and Gary Fogel,2023,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2022.3223467,Conference Report on 2022 IEEE Conference on Computational Intelligence in Bioinformatics and Computational Biology (IEEE CIBCB 2022) [Conference Report],Sheridan Houghten and Gary Fogel,2023,0,IEEE Computational Intelligence Magazine
+10.1109/mci.2020.3039067,Surrogate-Assisted Evolutionary Multitasking for Expensive Minimax Optimization in Multiple Scenarios,Handing Wang and Liang Feng and Yaochu Jin and John Doherty,2021,25,IEEE Computational Intelligence Magazine
 10.1109/mci.2012.2215126,A Systems Biology Approach to Solving the Puzzle of Unknown Genomic Gene-Function Association Using Grid-Ready SVM Committee Machines,Tsung-Lu Lee and Jung-Hsien Chiang,2012,1,IEEE Computational Intelligence Magazine
 10.1109/mci.2012.2217619,CIS Transactions Introduce Mandatory Over-Length Page Charges,,2012,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2012.2215113,CIM Editorial Board,,2012,0,IEEE Computational Intelligence Magazine
@@ -633,6 +635,7 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/mci.2007.353417,Off-line Signature Verification Using an Enhanced Modified Direction Feature with Single and Multi-classifier Approaches,S. Armand and M. Blumenstein and V. Muthukkumarasamy,2007,10,IEEE Computational Intelligence Magazine
 10.1109/mci.2012.2200614,Type-2 Fuzzy Logic¿Plodding on Steadily and Staying Relevant [Editor's Remarks],Kay Tan,2012,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2016.2612418,FUZZ-IEEE 2017,,2016,0,IEEE Computational Intelligence Magazine
+10.1109/mci.2007.913370,Evolving intelligent agents: A 50 year quest,Kenneth De Jong,2008,20,IEEE Computational Intelligence Magazine
 10.1109/mci.2016.2627699,[Conference Calendar],Bernadette Bouchon-Meunier,2017,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2006.1597051,IEEE is invention,,2006,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2013.2291678,CIS Publication Spotlight [Publication Spotlight],Derong Liu and Chin-Teng Lin and Garry Greenwood and Simon Lucas and Zhengyou Zhang,2014,0,IEEE Computational Intelligence Magazine
@@ -651,7 +654,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/mci.2021.3108356,2021 IEEE CIS Awards [Society Briefs],Cesare Alippi,2021,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2021.3108301,[Guest Editorial],Liang Feng and Handing Wang and Yew-Soon Ong and Kay Chen Tan and Yaochu Jin,2021,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2021.3121525,2021 Index IEEE Computational Intelligence Magazine [2021 MCI Year-End Index],,2021,0,IEEE Computational Intelligence Magazine
-10.1109/mci.2021.3129958,RecoXplainer: A Library for Development and Offline Evaluation of Explainable Recommender Systems,Ludovik Coba and Roberto Confalonieri and Markus Zanker,2022,3,IEEE Computational Intelligence Magazine
 10.1109/mci.2007.353433,IEEE Education Partners Program,,2007,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2017.2742865,CIS Publication Spotlight [Publication Spotlight],Haibo He and Jon Garibaldi and Kay Chen Tan and Graham Kendall and Yaochu Jin and Yew-Soon Ong,2017,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2008.919084,Conference Calendar [2008-2009],,2008,0,IEEE Computational Intelligence Magazine
@@ -659,6 +661,7 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/mci.2008.4442271,Call for Papers: IEEE CIBCB 2008,,2008,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2016.2601698,Front Cover,,2016,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2017.2670422,Newly Elected CIS Administrative Committee Members (2017-2019) [Society Briefs],Pablo A. Estevez,2017,0,IEEE Computational Intelligence Magazine
+10.1109/mci.2019.2901085,word2set: WordNet-Based Word Representation Rivaling Neural Word Embedding for Lexical Similarity and Sentiment Analysis,Sergio Jimenez and Fabio A. Gonzalez and Alexander Gelbukh and George Duenas,2019,14,IEEE Computational Intelligence Magazine
 10.1109/mci.2014.2351335,IEEE WCCI 2016,,2014,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2016.2545825,Call for Papers for Journal Special Issues,,2016,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2010.938373,What a Year! [President's Message],Gary G. Yen,2010,0,IEEE Computational Intelligence Magazine
@@ -694,16 +697,16 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/mci.2020.2976172,IEEE SSCI 2020,,2020,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2020.3035941,2020 CI Year End Index,,2020,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2018.2840658,Computational Intelligence Techniques in Bioinformatics and Bioengineering [Guest Editorial],Richard Allmendinger and Daniel Ashlock and Sansanee Auephanwiriyakul,2018,2,IEEE Computational Intelligence Magazine
+10.1109/mci.2021.3129958,RecoXplainer: A Library for Development and Offline Evaluation of Explainable Recommender Systems,Ludovik Coba and Roberto Confalonieri and Markus Zanker,2022,4,IEEE Computational Intelligence Magazine
+10.1109/mci.2008.929847,Heuristic Optimization for Portfolio Management [Application Notes],Dietmar Maringer,2008,8,IEEE Computational Intelligence Magazine
+10.1109/mci.2007.357193,Uncertain Fuzzy Clustering: Insights and Recommendations,Frank Chung and Hoon Rhee,2007,66,IEEE Computational Intelligence Magazine
 10.1109/mci.2022.3180650,AI by Any Other Name [President’s Message],Jim Keller,2022,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2022.3206683,2023 IEEE Conference on Artificial Intelligence,,2022,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2022.3206706,Table of Contents,,2022,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2022.3206708,FUZZ-IEEE 2023,,2022,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2022.3199624,Training Deep Architectures Without End-to-End Backpropagation: A Survey on the Provably Optimal Methods,Shiyu Duan and Jose C. Principe,2022,0,IEEE Computational Intelligence Magazine
-10.1109/mci.2010.936306,Exploring e-Learning Knowledge Through Ontological Memetic Agents,Giovanni Acampora and Vincenzo Loia and Matteo Gaeta,2010,37,IEEE Computational Intelligence Magazine
-10.1109/mci.2011.940618,Context-Aware Petri Net for Dynamic Procedural Content Generation in Role-Playing Game,Young-Seol Lee and Sung-Bae Cho,2011,12,IEEE Computational Intelligence Magazine
 10.1109/mci.2010.936312,"Applying Computational Intelligence: How to Create Value (Kordon, A.K.; 2010) [Book Review",Edward Tsang,2010,2,IEEE Computational Intelligence Magazine
-10.1109/mci.2021.3129962,A Multivariate Time Series Streaming Classifier for Predicting Hard Drive Failures [Application Notes],Josu Ircio and Aizea Lojo and Jose A. Lozano and Usue Mori and Jose A. Lozano,2022,3,IEEE Computational Intelligence Magazine
-10.1109/mci.2021.3061877,"Jointly Predicting Job Performance, Personality, Cognitive Ability, Affect, and Well-Being",Pablo Robles-Granda and Suwen Lin and Xian Wu and Gonzalo J. Martinez and Stephen M. Mattingly and Edward Moskal and Aaron Striegel and Nitesh V. Chawla and Sidney D'Mello and Julie Gregg and Kari Nies and Gloria Mark and Ted Grover and Andrew T. Campbell and Shayan Mirjafari and Koustuv Saha and Munmun De Choudhury and Anind K. Dey,2021,6,IEEE Computational Intelligence Magazine
+10.1109/mci.2011.940618,Context-Aware Petri Net for Dynamic Procedural Content Generation in Role-Playing Game,Young-Seol Lee and Sung-Bae Cho,2011,13,IEEE Computational Intelligence Magazine
 10.1109/mci.2022.3181347,Exploring Dynamic Pandemic Containment Strategies Using Multi-Objective Optimization [Research Frontier],Dominik Fischer and Sanaz Mostaghim and Thomas Seidelmann,2022,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2019.2937616,IEEE WCCI 2020 Glasgow,,2019,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2019.2937590,Table of Contents,,2019,0,IEEE Computational Intelligence Magazine
@@ -721,52 +724,52 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/mci.2019.2954572,Surfing the Waves of Computational Intelligence [Editor's Remarks],Chuan-Kang Ting,2020,1,IEEE Computational Intelligence Magazine
 10.1109/mci.2006.1597060,Development tools - The EMOO repository: a resource for doing research in evolutionary multiobjective optimization,C.A. Coello Coello,2006,9,IEEE Computational Intelligence Magazine
 10.1109/mci.2013.2264252,"Discovering Unique, Low-Energy Transition States Using Evolutionary Molecular Memetic Computing",M. Ellabaan and Y.S. Ong and S.D. Handoko and C.K. Kwoh and H.Y. Man,2013,9,IEEE Computational Intelligence Magazine
+10.1109/mci.2019.2919395,Event Detection in Twitter Stream Using Weighted Dynamic Heartbeat Graph Approach [Application Notes],Zafar Saeed and Rabeeh Ayaz Abbasi and Muhammad Imran Razzak and Guandong Xu,2019,26,IEEE Computational Intelligence Magazine
 10.1109/mci.2018.2807019,Is Evolutionary Computation Evolving Fast Enough?,Graham Kendall,2018,7,IEEE Computational Intelligence Magazine
 10.1109/mci.2010.937323,Robust Morphogenesis of Robotic Swarms [Application Notes,Hiroki Sayama,2010,28,IEEE Computational Intelligence Magazine
-10.1109/mci.2015.2437318,Learning Distributions of Image Features by Interactive Fuzzy Lattice Reasoning in Pattern Recognition Applications,Vassilis G. Kaburlasos and George A. Papakostas,2015,37,IEEE Computational Intelligence Magazine
-10.1109/mci.2021.3108306,Evolutionary Algorithms Designing Nanoparticle Cancer Treatments with Multiple Particle Types [Application Notes],Michail-Antisthenis Tsompanas and Larry Bull and Andrew Adamatzky and Igor Balaz,2021,1,IEEE Computational Intelligence Magazine
 10.1109/mci.2014.2307219,CIS Publication Spotlight [Publication Spotlight],Derong Liu and Chin-Teng Lin and Garry Greenwood and Simon Lucas and Zhengyou Zhang,2014,1,IEEE Computational Intelligence Magazine
-10.1109/mci.2007.913370,Evolving intelligent agents: A 50 year quest,Kenneth De Jong,2008,20,IEEE Computational Intelligence Magazine
 10.1109/mci.2011.2176995,A Unified Framework for Symbiosis of Evolutionary Mechanisms with Application to Water Clusters Potential Model Design,Minh Nghia Le and Yew Soon Ong and Yaochu Jin and Bernhard Sendhoff,2012,22,IEEE Computational Intelligence Magazine
 10.1109/mci.2016.2572558,Collaborative Brain-Computer Interface for People with Motor Disabilities [Research Frontier],Yueqing Li and Chang S. Nam,2016,13,IEEE Computational Intelligence Magazine
 10.1109/mci.2019.2954685,CoG 2020,,2020,2,IEEE Computational Intelligence Magazine
 10.1109/mci.2009.933100,Experience teaching a graduate level course in evolutionary computation,Dipti Srinivasan,2009,3,IEEE Computational Intelligence Magazine
 10.1109/mci.2008.929841,An Introduction to Evolutionary Computation in Finance,Anthony Brabazon and Michael O'Neill and Ian Dempsey,2008,41,IEEE Computational Intelligence Magazine
-10.1109/mci.2020.3039067,Surrogate-Assisted Evolutionary Multitasking for Expensive Minimax Optimization in Multiple Scenarios,Handing Wang and Liang Feng and Yaochu Jin and John Doherty,2021,24,IEEE Computational Intelligence Magazine
 10.1109/mci.2007.906681,Immune Algorithm with Adaptive Sampling in Noisy Environments and Its Application to Stochastic Optimization Problems,Zhuhong Zhang and Tu Xin,2007,28,IEEE Computational Intelligence Magazine
-10.1109/mci.2019.2901088,Adversarial Training in Affective Computing and Sentiment Analysis: Recent Advances and Perspectives [Review Article],Jing Han and Zixing Zhang and Nicholas Cummins and Bjorn Schuller,2019,44,IEEE Computational Intelligence Magazine
 10.1109/mci.2019.2901086,Sensing Affective Response to Visual Narratives,Mihai Burzo and Veronica Perez-Rosas and Daniel McDuff and Louis-Philippe Morency and Alexis Narvaez and Rada Mihalcea,2019,1,IEEE Computational Intelligence Magazine
 10.1109/mci.2006.1597056,Applications notes - Robust route optimization for gritting/salting trucks: A CERCIA experience,H. Handa and n.m. Lee Chapman and n.m. Xin Yao,2006,55,IEEE Computational Intelligence Magazine
-10.1109/mci.2016.2572538,An Efficient Memetic Algorithm for Influence Maximization in Social Networks,Maoguo Gong and Chao Song and Chao Duan and Lijia Ma and Bo Shen,2016,67,IEEE Computational Intelligence Magazine
 10.1109/mci.2019.2954644,Ant Colony Optimization Algorithms for Dynamic Optimization: A Case Study of the Dynamic Travelling Salesperson Problem [Research Frontier],Michalis Mavrovouniotis and Shengxiang Yang and Mien Van and Changhe Li and Marios Polycarpou,2020,24,IEEE Computational Intelligence Magazine
-10.1109/ci-m.2006.248054,Ant Colony Optimization,Marco Dorigo and Mauro Birattari and Thomas Stutzle,2006,518,IEEE Computational Intelligence Magazine
-10.1109/mci.2020.2976182,The General Combinatorial Optimization Problem: Towards Automated Algorithm Design,Rong Qu and Graham Kendall and Nelishia Pillay,2020,13,IEEE Computational Intelligence Magazine
 10.1109/mci.2006.1672987,Social development,B. Scassellati and C. Crick and K. Gold and E. Kim and F. Shic and n.m. Ganghua Sun,2006,6,IEEE Computational Intelligence Magazine
 10.1109/mci.2022.3231675,IEEE Connects You to a Universe of Information!,,2023,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2021.3084393,Evolutionary Multi-Objective Model Compression for Deep Neural Networks,Zhehui Wang and Tao Luo and Miqing Li and Joey Tianyi Zhou and Rick Siow Mong Goh and Liangli Zhen,2021,4,IEEE Computational Intelligence Magazine
 10.1109/mci.2008.929843,An Agent-Based Test Bed Study of Wholesale Power Market Performance Measures,Abhishek Somani and Leigh Tesfatsion,2008,53,IEEE Computational Intelligence Magazine
 10.1109/mci.2013.2291689,A Probabilistic Generative Model for Mining Cybercriminal Networks from Online Social Media,Raymond Y.K. Lau and Yunqing Xia and Yunming Ye,2014,65,IEEE Computational Intelligence Magazine
-10.1109/mci.2007.357235,Type-2 Fuzzy Sets and Systems: An Overview [corrected reprint],Jerry Mendel,2007,93,IEEE Computational Intelligence Magazine
 10.1109/mci.2019.2937614,Frame-Based Detection of Figurative Language in Tweets [Application Notes],Diego Reforgiato Recupero and Mehwish Alam and Davide Buscaldi and Aude Grezka and Farideh Tavazoee,2019,12,IEEE Computational Intelligence Magazine
 10.1109/mci.2011.941588,"Dynamic, Stochastic, Computational, and Scalable Technologies for Smart Grids",Ganesh Venayagamoorthy,2011,91,IEEE Computational Intelligence Magazine
-10.1109/mci.2007.906693,Complexity Management in Fuzzy Systems: A Rule Base Compression Approach [Book Review],Robert Babuska,2007,1,IEEE Computational Intelligence Magazine
 10.1109/mci.2014.2326100,Computational Intelligence Challenges and Applications on Large-Scale Astronomical Time Series Databases,Pablo Huijse and Pablo A. Estevez and Pavlos Protopapas and Jose C. Principe and Pablo Zegers,2014,51,IEEE Computational Intelligence Magazine
-10.1109/mci.2011.942585,"Computational Intelligence: Methods and Techniques (Rutkowski, L.; 2008) [Book Review]",Meng Joo Er and Richard J. Oentaryo,2011,4,IEEE Computational Intelligence Magazine
-10.1109/mci.2019.2901085,word2set: WordNet-Based Word Representation Rivaling Neural Word Embedding for Lexical Similarity and Sentiment Analysis,Sergio Jimenez and Fabio A. Gonzalez and Alexander Gelbukh and George Duenas,2019,13,IEEE Computational Intelligence Magazine
-10.1109/mci.2009.933095,Closed-loop evolutionary multiobjective optimization,Joshua Knowles,2009,41,IEEE Computational Intelligence Magazine
-10.1109/mci.2014.2326101,Benchmarking Optimization Algorithms: An Open Source Framework for the Traveling Salesman Problem,Thomas Weise and Raymond Chiong and Jorg Lassig and Ke Tang and Shigeyoshi Tsutsui and Wenxiang Chen and Zbigniew Michalewicz and Xin Yao,2014,56,IEEE Computational Intelligence Magazine
-10.1109/mci.2008.929847,Heuristic Optimization for Portfolio Management [Application Notes],Dietmar Maringer,2008,8,IEEE Computational Intelligence Magazine
-10.1109/mci.2007.357193,Uncertain Fuzzy Clustering: Insights and Recommendations,Frank Chung and Hoon Rhee,2007,66,IEEE Computational Intelligence Magazine
 10.1109/mci.2015.2437512,ENN: Extended Nearest Neighbor Method for Pattern Recognition [Research Frontier],Bo Tang and Haibo He,2015,81,IEEE Computational Intelligence Magazine
 10.1109/mci.2009.934571,2009 IEEE Congress on Evolutionary Computation (CEC 2009) [Conference Reports,Andy Tyrrell,2009,1,IEEE Computational Intelligence Magazine
 10.1109/mci.2018.2866727,Intelligent Asset Allocation via Market Sentiment Views,Frank Z. Xing and Erik Cambria and Roy E. Welsch,2018,60,IEEE Computational Intelligence Magazine
-10.1109/mci.2007.380672,Type-2 fuzzy sets and systems: an overview,Jerry M. Mendel,2007,464,IEEE Computational Intelligence Magazine
-10.1109/mci.2018.2840738,Recent Trends in Deep Learning Based Natural Language Processing [Review Article],Tom Young and Devamanyu Hazarika and Soujanya Poria and Erik Cambria,2018,1637,IEEE Computational Intelligence Magazine
-10.1109/mci.2006.329691,Ant colony optimization,Marco Dorigo and Mauro Birattari and Thomas Stutzle,2006,2573,IEEE Computational Intelligence Magazine
+10.1109/mci.2011.942585,"Computational Intelligence: Methods and Techniques (Rutkowski, L.; 2008) [Book Review]",Meng Joo Er and Richard J. Oentaryo,2011,4,IEEE Computational Intelligence Magazine
+10.1109/mci.2009.933095,Closed-loop evolutionary multiobjective optimization,Joshua Knowles,2009,41,IEEE Computational Intelligence Magazine
+10.1109/mci.2021.3061877,"Jointly Predicting Job Performance, Personality, Cognitive Ability, Affect, and Well-Being",Pablo Robles-Granda and Suwen Lin and Xian Wu and Gonzalo J. Martinez and Stephen M. Mattingly and Edward Moskal and Aaron Striegel and Nitesh V. Chawla and Sidney D'Mello and Julie Gregg and Kari Nies and Gloria Mark and Ted Grover and Andrew T. Campbell and Shayan Mirjafari and Koustuv Saha and Munmun De Choudhury and Anind K. Dey,2021,6,IEEE Computational Intelligence Magazine
+10.1109/mci.2010.936306,Exploring e-Learning Knowledge Through Ontological Memetic Agents,Giovanni Acampora and Vincenzo Loia and Matteo Gaeta,2010,38,IEEE Computational Intelligence Magazine
+10.1109/mci.2014.2326101,Benchmarking Optimization Algorithms: An Open Source Framework for the Traveling Salesman Problem,Thomas Weise and Raymond Chiong and Jorg Lassig and Ke Tang and Shigeyoshi Tsutsui and Wenxiang Chen and Zbigniew Michalewicz and Xin Yao,2014,56,IEEE Computational Intelligence Magazine
+10.1109/mci.2021.3129962,A Multivariate Time Series Streaming Classifier for Predicting Hard Drive Failures [Application Notes],Josu Ircio and Aizea Lojo and Jose A. Lozano and Usue Mori and Jose A. Lozano,2022,5,IEEE Computational Intelligence Magazine
+10.1109/mci.2007.380672,Type-2 fuzzy sets and systems: an overview,Jerry M. Mendel,2007,466,IEEE Computational Intelligence Magazine
+10.1109/mci.2007.906693,Complexity Management in Fuzzy Systems: A Rule Base Compression Approach [Book Review],Robert Babuska,2007,1,IEEE Computational Intelligence Magazine
+10.1109/mci.2007.357235,Type-2 Fuzzy Sets and Systems: An Overview [corrected reprint],Jerry Mendel,2007,94,IEEE Computational Intelligence Magazine
+10.1109/mci.2020.2976182,The General Combinatorial Optimization Problem: Towards Automated Algorithm Design,Rong Qu and Graham Kendall and Nelishia Pillay,2020,14,IEEE Computational Intelligence Magazine
+10.1109/mci.2018.2840738,Recent Trends in Deep Learning Based Natural Language Processing [Review Article],Tom Young and Devamanyu Hazarika and Soujanya Poria and Erik Cambria,2018,1673,IEEE Computational Intelligence Magazine
+10.1109/mci.2016.2572538,An Efficient Memetic Algorithm for Influence Maximization in Social Networks,Maoguo Gong and Chao Song and Chao Duan and Lijia Ma and Bo Shen,2016,69,IEEE Computational Intelligence Magazine
+10.1109/ci-m.2006.248054,Ant Colony Optimization,Marco Dorigo and Mauro Birattari and Thomas Stutzle,2006,517,IEEE Computational Intelligence Magazine
+10.1109/mci.2019.2901088,Adversarial Training in Affective Computing and Sentiment Analysis: Recent Advances and Perspectives [Review Article],Jing Han and Zixing Zhang and Nicholas Cummins and Bjorn Schuller,2019,45,IEEE Computational Intelligence Magazine
+10.1109/mci.2006.329691,Ant colony optimization,Marco Dorigo and Mauro Birattari and Thomas Stutzle,2006,2615,IEEE Computational Intelligence Magazine
 10.1109/mci.2022.3199625,An Evolutionary Multitasking Method for Multiclass Classification [Research Frontier],Fan Cheng and Congcong Zhang and Xingyi Zhang,2022,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2013.2279563,Conference Report for 2013 IEEE Congress on Evolutionary Computation (IEEE CEC 2013) [Conference Reports],Carlos A. Coello Coello,2013,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2022.3223500,CIS Publication Spotlight [Publication Spotlight],Yongduan Song and Dongrui Wu and Carlos A. Coello Coello and Georgios N. Yannakakis and Huajin Tang and Yiu-ming Cheung and Hussein Abbass,2023,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2022.3223486,Conference Calendar [Conference Calendar],Marley Vellasco and Leandro Minku,2023,0,IEEE Computational Intelligence Magazine
+10.1109/mci.2016.2602068,IEEE 1855™: The First IEEE Standard Sponsored by IEEE Computational Intelligence Society [Society Briefs],Giovanni Acampora and Bruno Di Stefano and Autilia Vitiello,2016,25,IEEE Computational Intelligence Magazine
+10.1109/mci.2009.932261,Adaptive Dynamic Programming: An Introduction,Fei-Yue Wang and Huaguang Zhang and Derong Liu,2009,632,IEEE Computational Intelligence Magazine
+10.1109/mci.2013.2247826,Modeling Curiosity-Related Emotions for Virtual Peer Learners,Qiong Wu and Chunyan Miao,2013,17,IEEE Computational Intelligence Magazine
 10.1109/mci.2007.4313029,Conference Calender [2007],,2007,1,IEEE Computational Intelligence Magazine
 10.1109/mci.2009.935318,FUZZ-IEEE 2009 Conference Report [Conference Report,Frank Rhee,2010,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2013.2247814,"It's just ""emotions"" has taken over? [Editor's Remarks]",Kay Chen Tan,2013,0,IEEE Computational Intelligence Magazine
@@ -792,6 +795,17 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/mci.2020.3038985,IEEE CIS VP-Publications Vision Statement [Society Briefs],Kay Chen Tan,2021,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2022.3155328,CIS Publication Spotlight [Publication Spotlight],Yongduan Song and Jon Garibaldi and Carlos A. Coello Coello and Georgios N. Yannakakis and Huajin Tang and Yew Soon Ong and Hussein Abbass,2022,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2012.2228592,Object Detection Using Color Entropies and a Fuzzy Classifier,Guo-Cyuan Chen and Chia-Feng Juang,2013,23,IEEE Computational Intelligence Magazine
+10.1109/mci.2009.4762301,IEEE Transactions on Autonomous Mental Development - Submission Guidelines,,2009,0,IEEE Computational Intelligence Magazine
+10.1109/mci.2006.1626488,President's message - Cis: technically speaking,V. Piuri,2006,0,IEEE Computational Intelligence Magazine
+10.1109/mci.2013.2247819,IEEE CIS GOLD Report: Inaugural Elevator Pitch Competition and Other GOLD Activities [Society Briefs],Heike Sichtig and Stephen G. Matthews and Demetrios G. Eliades and Muhammad Yasser and Pablo A. Estevez,2013,0,IEEE Computational Intelligence Magazine
+10.1109/mci.2009.933109,IEEE Transactions on Autonomous Mental Development - call for papers,,2009,0,IEEE Computational Intelligence Magazine
+10.1109/mci.2006.1626498,Society briefs - Welcome to the CIS multimedia tutorials center!,J. Si,2006,0,IEEE Computational Intelligence Magazine
+10.1109/mci.2007.4313022,Immune Algorithm with Adaptive Sampling in Noisy Environments and its Application to Stochastic Optimization Problems,Zhu-Hong Zhang and Xin Tu,2007,0,IEEE Computational Intelligence Magazine
+10.1109/mci.2012.2228575,"The ""vision"" of tomorrow! [Editor's Remarks]",Kay Chen Tan,2013,0,IEEE Computational Intelligence Magazine
+10.1109/mci.2016.2627661,CIS Society Officers,,2017,0,IEEE Computational Intelligence Magazine
+10.1109/mci.2007.357201,Advertisers Index,,2007,0,IEEE Computational Intelligence Magazine
+10.1109/mci.2014.2307255,CEC 2015,,2014,0,IEEE Computational Intelligence Magazine
+10.1109/mci.2017.2742872,IEEE World Congress on Computational Intelligence WCCI 2018,,2017,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2012.2228574,CIM Editorial Board,,2013,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2016.2602066,Celebration of Light [President's Message],Pablo A. Estevez,2016,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2017.2770271,Front Cover,,2018,0,IEEE Computational Intelligence Magazine
@@ -815,6 +829,7 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/mci.2012.2215112,[Table of contents],,2012,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2009.933527,IEEE Transactions on Computational Intelligence and AI in games,,2009,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2010.938697,[Table of Contents],,2010,0,IEEE Computational Intelligence Magazine
+10.1109/mci.2011.942584,Evolutionary Computation Meets Machine Learning: A Survey,Jun Zhang and Zhi-hui Zhan and Ying Lin and Ni Chen and Yue-jiao Gong and Jing-hui Zhong and Henry S.H. Chung and Yun Li and Yu-hui Shi,2011,178,IEEE Computational Intelligence Magazine
 10.1109/mci.2008.929855,Family Corner: Argentina Chapter Report,Gerardo Acosta,2008,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2017.2773919,FUZZ-IEEE 2019,,2018,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2012.2188599,2013 IEEE Symposium Series on Computational Intelligence,,2012,0,IEEE Computational Intelligence Magazine
@@ -822,6 +837,7 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/mci.2007.353435,IEEE Membership,,2007,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2016.2627668,Bridging the Gap Between Forensics and Biometric-Enabled Watchlists for e-Borders,Kenneth Lai and Svetlana N. Yanushkevich and Vlad P. Shmerko and Shawn C. Eastwood,2017,10,IEEE Computational Intelligence Magazine
 10.1109/mci.2022.3230120,We Want to Hear from You!,,2023,0,IEEE Computational Intelligence Magazine
+10.1109/mci.2008.926583,Toward Human Level Machine Intelligence - Is It Achievable? The Need for a Paradigm Shift,Lotfi Zadeh,2008,108,IEEE Computational Intelligence Magazine
 10.1109/mci.2015.2472159,Call for Papers for Journal Special Issues,,2015,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2017.2773758,Conference Report on 2017 IEEE International Conference on Computational Intelligence in Bioinformatics and Computational Biology (IEEE CIBCB 2017) [Conference Reports],Richard Allmendinger,2018,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2013.2247817,Newly Elected CIS Administrative Committee Members (2013 - 2015) [Society Briefs],Marios M. Polycarpou,2013,0,IEEE Computational Intelligence Magazine
@@ -834,17 +850,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/mci.2015.2472119,Computational Intelligence for Changing Environments [Guest Editorial],Amir Hussain and Dacheng Tao and Jonathan Wu and Dongbin Zhao,2015,1,IEEE Computational Intelligence Magazine
 10.1109/mci.2015.2502123,2016 IEEE CIS Awards [Society Briefs],Gary G. Yen,2016,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2009.933110,IEEE Transactions on Computational Intelligence and AI in Games,,2009,0,IEEE Computational Intelligence Magazine
-10.1109/mci.2009.4762301,IEEE Transactions on Autonomous Mental Development - Submission Guidelines,,2009,0,IEEE Computational Intelligence Magazine
-10.1109/mci.2006.1626488,President's message - Cis: technically speaking,V. Piuri,2006,0,IEEE Computational Intelligence Magazine
-10.1109/mci.2013.2247819,IEEE CIS GOLD Report: Inaugural Elevator Pitch Competition and Other GOLD Activities [Society Briefs],Heike Sichtig and Stephen G. Matthews and Demetrios G. Eliades and Muhammad Yasser and Pablo A. Estevez,2013,0,IEEE Computational Intelligence Magazine
-10.1109/mci.2009.933109,IEEE Transactions on Autonomous Mental Development - call for papers,,2009,0,IEEE Computational Intelligence Magazine
-10.1109/mci.2006.1626498,Society briefs - Welcome to the CIS multimedia tutorials center!,J. Si,2006,0,IEEE Computational Intelligence Magazine
-10.1109/mci.2007.4313022,Immune Algorithm with Adaptive Sampling in Noisy Environments and its Application to Stochastic Optimization Problems,Zhu-Hong Zhang and Xin Tu,2007,0,IEEE Computational Intelligence Magazine
-10.1109/mci.2012.2228575,"The ""vision"" of tomorrow! [Editor's Remarks]",Kay Chen Tan,2013,0,IEEE Computational Intelligence Magazine
-10.1109/mci.2016.2627661,CIS Society Officers,,2017,0,IEEE Computational Intelligence Magazine
-10.1109/mci.2007.357201,Advertisers Index,,2007,0,IEEE Computational Intelligence Magazine
-10.1109/mci.2014.2307255,CEC 2015,,2014,0,IEEE Computational Intelligence Magazine
-10.1109/mci.2017.2742872,IEEE World Congress on Computational Intelligence WCCI 2018,,2017,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2007.353422,"Evolutionary Robotics: From Algorithms to Implementations (Wang, L. et al.; 2006) [Book Review]",Clarence De Silva,2007,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2009.935315,VP-Conference Activities Vision Statement [Society Briefs,Gary Fogel,2010,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2017.2708799,SSCI2017,,2017,0,IEEE Computational Intelligence Magazine
@@ -898,6 +903,9 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/mci.2010.938374,CIS Publication Spotlight [Publication Spotlight,Derong Liu and Nikhil Pal and Garry Greenwood and Simon Lucas and Zhengyou Zhang,2010,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2007.913362,In Memoriam - Reflections on Larry Fogel at The Titan Corporation (1982¿1988),Gene Ray,2008,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2011.2177000,CIS Publication Spotlight [Publication Spotlight],Derong Liu and Chin-teng Lin and Garry Greenwood and Simon Lucas and Zhengyou Zhang,2012,0,IEEE Computational Intelligence Magazine
+10.1109/mci.2017.2742781,Knowledge Transfer Through Machine Learning in Aircraft Design,Alan Tan Wei Min and Ramon Sagarna and Abhishek Gupta and Yew-Soon Ong and Chi Keong Goh,2017,35,IEEE Computational Intelligence Magazine
+10.1109/mci.2012.2200624,Application of Type-2 Fuzzy Logic Filtering to Reduce Noise in Color Images,Mehmet Yuksel and Alper Basturk,2012,31,IEEE Computational Intelligence Magazine
+10.1109/mci.2009.935308,Mining Structured Data,Giovanni Da San Martino and Alessandro Sperduti,2010,25,IEEE Computational Intelligence Magazine
 10.1109/mci.2006.1597053,Editor's remarks - A new page unfolded: IEEE Computational Intelligence Magazine,G.G. Yen,2006,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2007.4383070,2007 Index IEEE Computational Intelligence Magazine Vol. 2,,2007,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2018.2807041,[Conference Calendar],Bernadette Bouchon-Meunier,2018,0,IEEE Computational Intelligence Magazine
@@ -908,8 +916,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/mci.2014.2369881,CIS Publication Spotlight [Publication Spotlight],Derong Liu and Chin-Teng Lin and Kay Chen Tan and Graham Kendall and Angelo Cangelosi,2015,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2012.2201529,"Publish or Perish, but Where? [President's Message]",Marios Polycarpou,2012,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2015.2405262,Means to an End Is Not the Same as the End Itself [President's Message],Xin Yao,2015,0,IEEE Computational Intelligence Magazine
-10.1109/mci.2010.936311,Towards a Memetic Feature Selection Paradigm [Application Notes,Zexuan Zhu and Sen Jia and Zhen Ji,2010,61,IEEE Computational Intelligence Magazine
-10.1109/mci.2014.2307224,Muscle Fatigue Tracking with Evoked EMG via Recurrent Neural Network: Toward Personalized Neuroprosthetics,Zhan Li and Mitsuhiro Hayashibe and Charles Fattal and David Guiraud,2014,52,IEEE Computational Intelligence Magazine
 10.1109/mci.2018.2806988,Automated Design of Machine Learning and Search Algorithms [Guest Editorial],Nelishia Pillay and Rong Qu and Dipti Srinivasan and Barbara Hammer and Kenneth Sorensen,2018,9,IEEE Computational Intelligence Magazine
 10.1109/mci.2020.2998231,A Review of Off-Line Mode Dataset Shifts,Carla C. Takahashi and Antonio P. Braga,2020,5,IEEE Computational Intelligence Magazine
 10.1109/mci.2018.2881646,Type-2 Fuzzy Sets as Well as Computing with Words,Jerry M. Mendel,2019,32,IEEE Computational Intelligence Magazine
@@ -958,7 +964,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/mci.2015.2471146,Front Cover,,2015,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2006.1626503,"Finally, access just right for your business - IEEE enterprise",,2006,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2022.3182849,2022 IEEE Conference on Games,,2022,1,IEEE Computational Intelligence Magazine
-10.1109/mci.2017.2670420,IEEE 1849: The XES Standard: The Second IEEE Standard Sponsored by IEEE Computational Intelligence Society [Society Briefs],Giovanni Acampora and Autilia Vitiello and Bruno Di Stefano and Wil van der Aalst and Christian Gunther and Eric Verbeek,2017,25,IEEE Computational Intelligence Magazine
 10.1109/mci.2009.932232,Learning and Intelligence [Editor's remarks],Gary Yen,2009,3,IEEE Computational Intelligence Magazine
 10.1109/mci.2010.936317,Newly Elected CIS Administrative Committee Members (2010–2012) [Society Briefs,Gary Yen,2010,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2011.941578,[Table of Contents],,2011,0,IEEE Computational Intelligence Magazine
@@ -974,55 +979,50 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/mci.2020.3019900,[Conference Calendar],Marley Vellasco,2020,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2020.3019901,IEEE Transactions on Emerging Topics in Computational Intelligence,,2020,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2008.919083,Enhancing Computer Security with Smart Technology [Book Review],Dipankar Dasgupta and Denise Ferebee,2008,1,IEEE Computational Intelligence Magazine
-10.1109/mci.2011.942584,Evolutionary Computation Meets Machine Learning: A Survey,Jun Zhang and Zhi-hui Zhan and Ying Lin and Ni Chen and Yue-jiao Gong and Jing-hui Zhong and Henry S.H. Chung and Yun Li and Yu-hui Shi,2011,176,IEEE Computational Intelligence Magazine
 10.1109/mci.2016.2532267,Probabilistic Graphical Models on Multi-Core CPUs Using Java 8,Andres R. Masegosa and Ana M. Martinez and Hanen Borchani,2016,8,IEEE Computational Intelligence Magazine
 10.1109/mci.2022.3201737,"IEEE CAI 2023, an Industry-Centered Conference on AI [Industrial and Governmental Activities]",Piero Bonissone and Gary Fogel,2022,1,IEEE Computational Intelligence Magazine
+10.1109/mci.2019.2937611,ADMM Empowered Distributed Computational Intelligence for Internet of Energy,Weifeng Zhong and Kan Xie and Yi Liu and Chao Yang and Shengli Xie and Yan Zhang,2019,12,IEEE Computational Intelligence Magazine
+10.1109/mci.2020.2976185,A Survey on Differentially Private Machine Learning [Review Article],Maoguo Gong and Yu Xie and Ke Pan and Kaiyuan Feng and A.K. Qin,2020,47,IEEE Computational Intelligence Magazine
+10.1109/mci.2017.2708618,Gene Expression Programming: A Survey [Review Article],Jinghui Zhong and Liang Feng and Yew-Soon Ong,2017,80,IEEE Computational Intelligence Magazine
 10.1109/mci.2019.2937613,Distributing Intelligence to the Edge and Beyond [Research Frontier],Edgar Ramos and Roberto Morabito and Jani-Pekka Kainulainen,2019,9,IEEE Computational Intelligence Magazine
 10.1109/mci.2014.2307231,A Memetic Algorithm for Resource Allocation Problem Based on Node-Weighted Graphs [Application Notes],Jianshe Wu and Zhiyan Chang and Lin Yuan and Yunting Hou and Maoguo Gong,2014,8,IEEE Computational Intelligence Magazine
 10.1109/mci.2015.2405352,Universal Approximation with Convex Optimization: Gimmick or Reality? [Discussion Forum],Jose C. Principe and Badong Chen,2015,44,IEEE Computational Intelligence Magazine
-10.1109/mci.2018.2807038,Conflict Resolution in Mobile Networks: A Self-Coordination Framework Based on Non-Dominated Solutions and Machine Learning for Data Analytics [Application Notes],Jessica Moysen and Mario Garcia-Lozano and Lorenza Giupponi and Silvia Ruiz,2018,19,IEEE Computational Intelligence Magazine
-10.1109/mci.2016.2602068,IEEE 1855™: The First IEEE Standard Sponsored by IEEE Computational Intelligence Society [Society Briefs],Giovanni Acampora and Bruno Di Stefano and Autilia Vitiello,2016,25,IEEE Computational Intelligence Magazine
 10.1109/mci.2011.941587,"Computational Intelligence for the Smart Grid-History, Challenges, and Opportunities",P. J. Werbos,2011,86,IEEE Computational Intelligence Magazine
+10.1109/mci.2019.2919364,Distributed Fusion-Based Policy Search for Fast Robot Locomotion Learning,Zhengcai Cao and Qing Xiao and Mengchu Zhou,2019,18,IEEE Computational Intelligence Magazine
 10.1109/mci.2006.329704,Foraging theory for multizone temperature control,Nicanor Quijano and Kevin Passino and Burton Andrews,2006,9,IEEE Computational Intelligence Magazine
 10.1109/mci.2023.3238526,Masthead,,2023,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2011.940751,Anomaly Detection in Environmental Monitoring Networks [Application Notes],James Bezdek and Sutharshan Rajasegarar and Masud Moshtaghi and Chris Leckie and Marimuthu Palaniswami and Timothy Havens,2011,33,IEEE Computational Intelligence Magazine
-10.1109/mci.2013.2291688,Frame-Based Detection of Opinion Holders and Topics: A Model and a Tool,Aldo Gangemi and Valentina Presutti and Diego Reforgiato Recupero,2014,95,IEEE Computational Intelligence Magazine
-10.1109/mci.2013.2247826,Modeling Curiosity-Related Emotions for Virtual Peer Learners,Qiong Wu and Chunyan Miao,2013,17,IEEE Computational Intelligence Magazine
 10.1109/mci.2006.329693,Evolutionary computation benchmarking repository [Developmental Tools],Bernhard Sendhoff and Mark Roberts and Xin Yao,2006,1,IEEE Computational Intelligence Magazine
 10.1109/mci.2020.2976187,xTML: A Unified Heterogeneous Transfer Metric Learning Framework for Multimedia Applications [Application Notes],Lu Liu and Yong Luo and Han Hu and Yonggang Wen and Dacheng Tao and Xin Yao,2020,1,IEEE Computational Intelligence Magazine
-10.1109/mci.2019.2919364,Distributed Fusion-Based Policy Search for Fast Robot Locomotion Learning,Zhengcai Cao and Qing Xiao and Mengchu Zhou,2019,17,IEEE Computational Intelligence Magazine
-10.1109/mci.2009.935308,Mining Structured Data,Giovanni Da San Martino and Alessandro Sperduti,2010,25,IEEE Computational Intelligence Magazine
-10.1109/mci.2021.3084495,Multi-View Feature Construction Using Genetic Programming for Rolling Bearing Fault Diagnosis [Application Notes],Bo Peng and Ying Bi and Bing Xue and Mengjie Zhang and Shuting Wan,2021,6,IEEE Computational Intelligence Magazine
 10.1109/mci.2012.2215122,Data Mining Over Biological Datasets: An Integrated Approach Based on Computational Intelligence,Georgina Stegmayer and Matias Gerard and Diego Milone,2012,16,IEEE Computational Intelligence Magazine
 10.1109/mci.2019.2919397,Zeroing Neural Dynamics and Models for Various Time-Varying Problems Solving with ZLSF Models as Minimization-Type and Euler-Type Special Cases [Research Frontier],Yunong Zhang and Zhiyuan Qi and Binbin Qiu and Min Yang and Mengling Xiao,2019,19,IEEE Computational Intelligence Magazine
+10.1109/mci.2022.3222096,Simplifying Fitness Landscapes Using Dilation Functions Evolved With Genetic Programming,Daniele M. Papetti and Andrea Tangherloni and Davide Farinati and Paolo Cazzaniga and Leonardo Vanneschi,2023,0,IEEE Computational Intelligence Magazine
+10.1109/mci.2022.3222057,Controlling Sequential Hybrid Evolutionary Algorithm by Q-Learning [Research Frontier] [Research Frontier],Haotian Zhang and Jianyong Sun and Thomas Back and Qingfu Zhang and Zongben Xu,2023,0,IEEE Computational Intelligence Magazine
+10.1109/mci.2016.2572481,Computational Intelligence for Big Social Data Analysis [Guest Editorial],Erik Cambria and Newton Howard and Yunqing Xia and Tat-Seng Chua,2016,32,IEEE Computational Intelligence Magazine
 10.1109/mci.2015.2437312,Weighted Tanimoto Extreme Learning Machine with Case Study in Drug Discovery,Wojciech Marian Czarnecki,2015,26,IEEE Computational Intelligence Magazine
 10.1109/mci.2012.2228597,Video Behavior Analysis Using Topic Models and Rough Sets [Applications Notes],Liang Zhao and Lin Shang and Yang Gao and Yubin Yang and Xiuyi Jia,2013,7,IEEE Computational Intelligence Magazine
 10.1109/mci.2018.2806997,MC2ESVM: Multiclass Classification Based on Cooperative Evolution of Support Vector Machines,Alejandro Rosales-Perez and Salvador Garcia and Hugo Terashima-Marin and Carlos A. Coello Coello and Francisco Herrera,2018,17,IEEE Computational Intelligence Magazine
 10.1109/mci.2008.926615,Hypernetworks: A Molecular Evolutionary Architecture for Cognitive Learning and Memory,Byoung-Tak Zhang,2008,53,IEEE Computational Intelligence Magazine
-10.1109/mci.2017.2742718,Robust Design of a Supersonic Natural Laminar Flow Wing-Body,Domenico Quagliarella and Emiliano Iuliano,2017,13,IEEE Computational Intelligence Magazine
 10.1109/ci-m.2006.248056,Advances in artificial immune systems,Dipankar Dasgupta,2006,28,IEEE Computational Intelligence Magazine
-10.1109/mci.2017.2742781,Knowledge Transfer Through Machine Learning in Aircraft Design,Alan Tan Wei Min and Ramon Sagarna and Abhishek Gupta and Yew-Soon Ong and Chi Keong Goh,2017,35,IEEE Computational Intelligence Magazine
+10.1109/mci.2014.2369893,Efficient Heuristics for Profit Optimization of Virtual Cloud Brokers,Sergio Nesmachnow and Santiago Iturriaga and Bernabe Dorronsoro,2015,29,IEEE Computational Intelligence Magazine
 10.1109/mci.2019.2937609,AI Routers &amp; Network Mind: A Hybrid Machine Learning Paradigm for Packet Routing,Haipeng Yao and Tianle Mai and Chunxiao Jiang and Linling Kuang and Song Guo,2019,31,IEEE Computational Intelligence Magazine
-10.1109/mci.2012.2200624,Application of Type-2 Fuzzy Logic Filtering to Reduce Noise in Color Images,Mehmet Yuksel and Alper Basturk,2012,31,IEEE Computational Intelligence Magazine
 10.1109/mci.2018.2866729,Fast Unsupervised Edge Detection Using Genetic Programming [Application Notes],Wenlong Fu and Bing Xu and Mengjie Zhang and Mark Johnston,2018,4,IEEE Computational Intelligence Magazine
-10.1109/mci.2006.329702,Visualizing the computational intelligence field [Application Notes],Nees van Eck and Ludo Waltman and Jan van den Berg and Uzay Kaymak,2006,24,IEEE Computational Intelligence Magazine
-10.1109/mci.2019.2937611,ADMM Empowered Distributed Computational Intelligence for Internet of Energy,Weifeng Zhong and Kan Xie and Yi Liu and Chao Yang and Shengli Xie and Yan Zhang,2019,11,IEEE Computational Intelligence Magazine
-10.1109/mci.2019.2937608,QoE-Driven Content-Centric Caching With Deep Reinforcement Learning in Edge-Enabled IoT,Xiaoming He and Kun Wang and Wenyao Xu,2019,39,IEEE Computational Intelligence Magazine
 10.1109/mci.2009.934560,Neural network based auto association and time-series prediction for biosignal processing in brain-computer interfaces,Damien Coyle,2009,49,IEEE Computational Intelligence Magazine
 10.1109/mci.2017.2773818,Cluster-Based Content Distribution Integrating LTE and IEEE 802.11p with Fuzzy Logic and Q-Learning,Celimuge Wu and Tsutomu Yoshinaga and Xianfu Chen and Lin Zhang and Yusheng Ji,2018,46,IEEE Computational Intelligence Magazine
 10.1109/mci.2018.2881642,Fuzzy Sets in Data Analysis: From Statistical Foundations to Machine Learning,Ines Couso and Christian Borgelt and Eyke Hullermeier and Rudolf Kruse,2019,31,IEEE Computational Intelligence Magazine
-10.1109/mci.2022.3222096,Simplifying Fitness Landscapes Using Dilation Functions Evolved With Genetic Programming,Daniele M. Papetti and Andrea Tangherloni and Davide Farinati and Paolo Cazzaniga and Leonardo Vanneschi,2023,0,IEEE Computational Intelligence Magazine
-10.1109/mci.2022.3222049,Graph Lifelong Learning: A Survey,Falih Gozi Febrinanto and Feng Xia and Kristen Moore and Chandra Thapa and Charu Aggarwal,2023,0,IEEE Computational Intelligence Magazine
-10.1109/mci.2022.3222057,Controlling Sequential Hybrid Evolutionary Algorithm by Q-Learning [Research Frontier] [Research Frontier],Haotian Zhang and Jianyong Sun and Thomas Back and Qingfu Zhang and Zongben Xu,2023,0,IEEE Computational Intelligence Magazine
-10.1109/mci.2008.926583,Toward Human Level Machine Intelligence - Is It Achievable? The Need for a Paradigm Shift,Lotfi Zadeh,2008,107,IEEE Computational Intelligence Magazine
-10.1109/mci.2009.932261,Adaptive Dynamic Programming: An Introduction,Fei-Yue Wang and Huaguang Zhang and Derong Liu,2009,632,IEEE Computational Intelligence Magazine
-10.1109/mci.2021.3084435,A Self-Adaptive Mutation Neural Architecture Search Algorithm Based on Blocks,Yu Xue and Yankang Wang and Jiayu Liang and Adam Slowik,2021,66,IEEE Computational Intelligence Magazine
-10.1109/mci.2017.2708618,Gene Expression Programming: A Survey [Review Article],Jinghui Zhong and Liang Feng and Yew-Soon Ong,2017,78,IEEE Computational Intelligence Magazine
-10.1109/mci.2020.2976185,A Survey on Differentially Private Machine Learning [Review Article],Maoguo Gong and Yu Xie and Ke Pan and Kaiyuan Feng and A.K. Qin,2020,45,IEEE Computational Intelligence Magazine
-10.1109/mci.2016.2572481,Computational Intelligence for Big Social Data Analysis [Guest Editorial],Erik Cambria and Newton Howard and Yunqing Xia and Tat-Seng Chua,2016,32,IEEE Computational Intelligence Magazine
+10.1109/mci.2021.3084495,Multi-View Feature Construction Using Genetic Programming for Rolling Bearing Fault Diagnosis [Application Notes],Bo Peng and Ying Bi and Bing Xue and Mengjie Zhang and Shuting Wan,2021,7,IEEE Computational Intelligence Magazine
+10.1109/mci.2022.3222049,Graph Lifelong Learning: A Survey,Falih Gozi Febrinanto and Feng Xia and Kristen Moore and Chandra Thapa and Charu Aggarwal,2023,1,IEEE Computational Intelligence Magazine
 10.1109/mci.2021.3108311,Improving Evolutionary Multitasking Optimization by Leveraging Inter-Task Gene Similarity and Mirror Transformation,Xiaoliang Ma and Yongjin Zheng and Zexuan Zhu and Xiaodong Li and Lei Wang and Yutao Qi and Junshan Yang,2021,4,IEEE Computational Intelligence Magazine
-10.1109/mci.2014.2369893,Efficient Heuristics for Profit Optimization of Virtual Cloud Brokers,Sergio Nesmachnow and Santiago Iturriaga and Bernabe Dorronsoro,2015,29,IEEE Computational Intelligence Magazine
-10.1109/mci.2006.1597059,Evolutionary multi-objective optimization: a historical view of the field,C.A. Coello Coello,2006,749,IEEE Computational Intelligence Magazine
+10.1109/mci.2017.2742718,Robust Design of a Supersonic Natural Laminar Flow Wing-Body,Domenico Quagliarella and Emiliano Iuliano,2017,13,IEEE Computational Intelligence Magazine
+10.1109/mci.2010.936311,Towards a Memetic Feature Selection Paradigm [Application Notes,Zexuan Zhu and Sen Jia and Zhen Ji,2010,61,IEEE Computational Intelligence Magazine
+10.1109/mci.2019.2937608,QoE-Driven Content-Centric Caching With Deep Reinforcement Learning in Edge-Enabled IoT,Xiaoming He and Kun Wang and Wenyao Xu,2019,40,IEEE Computational Intelligence Magazine
+10.1109/mci.2014.2307224,Muscle Fatigue Tracking with Evoked EMG via Recurrent Neural Network: Toward Personalized Neuroprosthetics,Zhan Li and Mitsuhiro Hayashibe and Charles Fattal and David Guiraud,2014,55,IEEE Computational Intelligence Magazine
+10.1109/mci.2018.2807038,Conflict Resolution in Mobile Networks: A Self-Coordination Framework Based on Non-Dominated Solutions and Machine Learning for Data Analytics [Application Notes],Jessica Moysen and Mario Garcia-Lozano and Lorenza Giupponi and Silvia Ruiz,2018,19,IEEE Computational Intelligence Magazine
+10.1109/mci.2013.2291688,Frame-Based Detection of Opinion Holders and Topics: A Model and a Tool,Aldo Gangemi and Valentina Presutti and Diego Reforgiato Recupero,2014,95,IEEE Computational Intelligence Magazine
+10.1109/mci.2006.329702,Visualizing the computational intelligence field [Application Notes],Nees van Eck and Ludo Waltman and Jan van den Berg and Uzay Kaymak,2006,26,IEEE Computational Intelligence Magazine
+10.1109/mci.2017.2670420,IEEE 1849: The XES Standard: The Second IEEE Standard Sponsored by IEEE Computational Intelligence Society [Society Briefs],Giovanni Acampora and Autilia Vitiello and Bruno Di Stefano and Wil van der Aalst and Christian Gunther and Eric Verbeek,2017,26,IEEE Computational Intelligence Magazine
+10.1109/mci.2006.1597059,Evolutionary multi-objective optimization: a historical view of the field,C.A. Coello Coello,2006,754,IEEE Computational Intelligence Magazine
+10.1109/mci.2021.3084435,A Self-Adaptive Mutation Neural Architecture Search Algorithm Based on Blocks,Yu Xue and Yankang Wang and Jiayu Liang and Adam Slowik,2021,70,IEEE Computational Intelligence Magazine
 10.1109/mci.2009.935311,Data Mining in Cancer Research [Application Notes,Paulo Lisboa and Alfredo Vellido and Roberto Tagliaferri and Francesco Napolitano and Michele Ceccarelli and Jose Martin-Guerrero and Elia Biganzoli,2010,29,IEEE Computational Intelligence Magazine
 10.1109/mci.2012.2228579,"Obituary for Evangelia Micheli-Tzanakou (""Litsa"") [In Memoriam]",Piero P. Bonissone,2013,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2013.2247904,WCCI 2014,,2013,0,IEEE Computational Intelligence Magazine
@@ -1069,7 +1069,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/mci.2006.1626497,Fellows - IEEE Fellows-Class of 2006,P.P. Bonissone,2006,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2015.2501550,Adaptive Assistance for Brain-Computer Interfaces by Online Prediction of Command Reliability,Sareh Saeedi and Ricardo Chavarriaga and Robert Leeb and Jose del R. Millan,2016,23,IEEE Computational Intelligence Magazine
 10.1109/mci.2007.353415,"Technology review - Biometrics-Technology, Application, Challenge, and Computational Intelligence Solutions",n.m. Qinghan Xiao,2007,61,IEEE Computational Intelligence Magazine
-10.1109/mci.2013.2264577,?Hybrid Particle Swarm Optimization and Genetic Algorithm for Multi-UAV Formation Reconfiguration,Haibin Duan and Qinan Luo and Yuhui Shi and Guanjun Ma,2013,180,IEEE Computational Intelligence Magazine
 10.1109/mci.2008.919050,CEC 2007 Conference Report [Conference Reports],K.C. Tan,2008,6,IEEE Computational Intelligence Magazine
 10.1109/mci.2007.913359,In Memoriam - Dr. Lawrence J. Fogel,Vincenzo Piuri,2008,1,IEEE Computational Intelligence Magazine
 10.1109/mci.2012.2215172,IEEE Computational Intelligence Society Publications,,2012,0,IEEE Computational Intelligence Magazine
@@ -1098,6 +1097,8 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/mci.2007.4313030,List of Reviewers for 2007,,2007,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2011.2178479,[Table of contents],,2012,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2017.2742738,Modelling Behaviour in UAV Operations Using Higher Order Double Chain Markov Models,Victor Rodriguez-Fernandez and Antonio Gonzalez-Pardo and David Camacho,2017,6,IEEE Computational Intelligence Magazine
+10.1109/mci.2014.2350953,Big Data Opportunities and Challenges: Discussions from Data Analytics Perspectives [Discussion Forum],Zhi-Hua Zhou and Nitesh V. Chawla and Yaochu Jin and Graham J. Williams,2014,176,IEEE Computational Intelligence Magazine
+10.1109/mci.2006.329705,Advances in artificial immune systems,Dipankar Dasgupta,2006,303,IEEE Computational Intelligence Magazine
 10.1109/mci.2017.2782941,2018 IEEE SSCI,,2018,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2016.2602084,DSAA2017 at TOKYO,,2016,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2014.2326094,Improvements Made to IEEE Fellow Nomination Process [Society Briefs],Rosann Marosy,2014,0,IEEE Computational Intelligence Magazine
@@ -1128,7 +1129,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/mci.2012.2228602,[Conference Calendar],Gary B. Fogel,2013,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2008.4625810,Front cover - IEEE Computational Intelligence Magazine - Nov. 2008,,2008,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2015.2472097,Conference Report on 2015 IEEE Congress on Evolutionary Computation (IEEE CEC 2015) [Conference Reports],Shigeru Obayashi and Carlo Poloni,2015,0,IEEE Computational Intelligence Magazine
-10.1109/mci.2007.913388,Computing with the social fabric: The evolution of social intelligence within a cultural framework,Robert Reynolds and Mostafa Ali,2008,38,IEEE Computational Intelligence Magazine
 10.1109/mci.2008.930981,"Interview with Editor-in-Chief of the IEEE Transactions on Autonomous Mental Development, Zhengyou Zhang [Career Profile]",,2009,1,IEEE Computational Intelligence Magazine
 10.1109/mci.2008.929852,"Interview with editor-in-chief of the IEEE Transactions on Computational Intelligence and AI in games, Simon Lucas, University of Essex, UK [Career Profile]",,2008,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2007.4313020,"Computing with Words: Zadeh, Turning, Popper and Occom",Jerry Mendel,2007,0,IEEE Computational Intelligence Magazine
@@ -1150,7 +1150,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/mci.2018.2840739,[Conference Calendar],Bernadette Bouchon-Meunier,2018,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2018.2840643,Sharing Some Experience [President's Message],Nikhil R. Pal,2018,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2017.2708898,CIS Society Officers,,2017,0,IEEE Computational Intelligence Magazine
-10.1109/mci.2014.2350933,An Adaptive Variable Neighborhood Search for a Heterogeneous Fleet Vehicle Routing Problem with Three-Dimensional Loading Constraints,Lijun Wei and Zhenzhen Zhang and Andrew Lim,2014,47,IEEE Computational Intelligence Magazine
 10.1109/mci.2017.2670467,IEEE CIBCB 2017,,2017,1,IEEE Computational Intelligence Magazine
 10.1109/mci.2010.937557,2011 IEEE International Conference on Fuzzy Systems,,2010,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2015.2510750,FUZZ-IEEE 2017,,2016,0,IEEE Computational Intelligence Magazine
@@ -1178,6 +1177,9 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/mci.2009.932559,IEEE Transactions on Autonomous Mental Development - Call for Papers,,2009,0,IEEE Computational Intelligence Magazine
 10.1109/ci-m.2006.248074,2006 Index,,2006,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2022.3155961,Digging Deeper Into the Stories [Editor’s Remarks],Chuan-Kang Ting,2022,0,IEEE Computational Intelligence Magazine
+10.1109/mci.2018.2881645,"Evolutionary Fuzzy Systems for Explainable Artificial Intelligence: Why, When, What for, and Where to?",Alberto Fernandez and Francisco Herrera and Oscar Cordon and Maria Jose del Jesus and Francesco Marcelloni,2019,121,IEEE Computational Intelligence Magazine
+10.1109/mci.2013.2264577,?Hybrid Particle Swarm Optimization and Genetic Algorithm for Multi-UAV Formation Reconfiguration,Haibin Duan and Qinan Luo and Yuhui Shi and Guanjun Ma,2013,180,IEEE Computational Intelligence Magazine
+10.1109/mci.2010.937320,Roombots: Reconfigurable Robots for Adaptive Furniture,Alexander Sprowitz and Soha Pouya and Stephane Bonardi and Jesse Van Den Kieboom and Rico Mockel and Aude Billard and Pierre Dillenbourg and Auke Jan Ijspeert,2010,71,IEEE Computational Intelligence Magazine
 10.1109/mci.2010.939974,Table of contents,,2011,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2021.3056260,CIM Editorial Board,,2021,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2008.4442272,Advertisement - IEEE Job Site,,2008,0,IEEE Computational Intelligence Magazine
@@ -1202,7 +1204,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/mci.2022.3206685,Front Cover,,2022,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2007.357196,"Uncertain Rule-Based Fuzzy Logic Systems: Introduction and New Directions (Mendel, J.M.; 2001) [book review]",Woei Wan Tan and Teck Wee Chua,2007,21,IEEE Computational Intelligence Magazine
 10.1109/mci.2012.2228594,Understanding of GP-Evolved Motion Detectors,Andy Song and Qiao Shi and Wei Yin,2013,6,IEEE Computational Intelligence Magazine
-10.1109/mci.2020.3039069,Robust Optimization in Uncertain Capacitated Arc Routing Problems: Progresses and Perspectives [Review Article],Jialin Liu and Ke Tang and Xin Yao,2021,10,IEEE Computational Intelligence Magazine
 10.1109/mci.2018.2881775,Prof. Lotfi A. Zadeh [Editor's Remarks],Hisao Ishibuchi,2019,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2018.2881774,CIM Editorial Board,,2019,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2018.2881778,IEEE CIS VP-Members Activities Vision Statement [Society Briefs],Carlos A. Coello Coello,2019,0,IEEE Computational Intelligence Magazine
@@ -1214,17 +1215,10 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/mci.2019.2901074,CIM Editorial Board,,2019,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2019.2905679,IEEE CIM EiC Call for Nominations announcement,,2019,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2017.2773718,Father of Fuzzy Logic [Editor's Remarks],Hisao Ishibuchi,2018,1,IEEE Computational Intelligence Magazine
-10.1109/mci.2022.3180846,What is New in Industry? [Industrial and Governmental Activities],Piero P. Bonissone,2022,1,IEEE Computational Intelligence Magazine
+10.1109/mci.2014.2350933,An Adaptive Variable Neighborhood Search for a Heterogeneous Fleet Vehicle Routing Problem with Three-Dimensional Loading Constraints,Lijun Wei and Zhenzhen Zhang and Andrew Lim,2014,48,IEEE Computational Intelligence Magazine
 10.1109/mci.2017.2742870,A Primer on Cluster Analysis: 4 Basic Methods That (Usually) Work [Book Review],Nikhil R. Pal,2017,1,IEEE Computational Intelligence Magazine
 10.1109/mci.2009.933096,"The evolution of swarm grammars- growing trees, crafting art, and bottom-up design",Sebastian Von Mammen and Christian Jacob,2009,18,IEEE Computational Intelligence Magazine
-10.1109/mci.2019.2937610,BeSense: Leveraging WiFi Channel Data and Computational Intelligence for Behavior Analysis,Yu Gu and Xiang Zhang and Zhi Liu and Fuji Ren,2019,26,IEEE Computational Intelligence Magazine
 10.1109/mci.2007.357188,What is Where? Type-2 Fuzzy Sets for Geographical Information [Research Frontier],Peter Fisher,2007,5,IEEE Computational Intelligence Magazine
-10.1109/mci.2018.2866731,Visualizing the Evolution of Computer Programs for Genetic Programming [Research Frontier],Su Nguyen and Mengjei Zhang and Damminda Alahakoon and Kay Chen Tan,2018,11,IEEE Computational Intelligence Magazine
-10.1109/mci.2009.932254,Time Series Prediction Using Support Vector Machines: A Survey,Nicholas Sapankevych and Ravi Sankar,2009,665,IEEE Computational Intelligence Magazine
-10.1109/mci.2006.329705,Advances in artificial immune systems,Dipankar Dasgupta,2006,302,IEEE Computational Intelligence Magazine
-10.1109/mci.2018.2881643,Fuzzy Clustering: A Historical Perspective,Enrique H. Ruspini and James C. Bezdek and James M. Keller,2019,60,IEEE Computational Intelligence Magazine
-10.1109/mci.2017.2670463,Model-Free Optimal Control Based Intelligent Cruise Control with Hardware-in-the-Loop Demonstration [Research Frontier],Dongbin Zhao and Zhongpu Xia and Qichao Zhang,2017,36,IEEE Computational Intelligence Magazine
-10.1109/mci.2010.937320,Roombots: Reconfigurable Robots for Adaptive Furniture,Alexander Sprowitz and Soha Pouya and Stephane Bonardi and Jesse Van Den Kieboom and Rico Mockel and Aude Billard and Pierre Dillenbourg and Auke Jan Ijspeert,2010,69,IEEE Computational Intelligence Magazine
 10.1109/mci.2021.3108305,Data Hiding in Neural Networks for Multiple Receivers [Research Frontier],Zichi Wang and Guorui Feng and Hanzhou Wu and Xinpeng Zhang,2021,3,IEEE Computational Intelligence Magazine
 10.1109/mci.2019.2954642,Enabling Computational Intelligence for Green Internet of Things: Data-Driven Adaptation in LPWA Networking,Chaofeng Zhang and Mianxiong Dong and Kaoru Ota,2020,22,IEEE Computational Intelligence Magazine
 10.1109/mci.2007.353416,Application notes - Algorithms for Assessing the Quality of Facial Images,M. Abdel-Mottaleb and M.H. Mahoor,2007,27,IEEE Computational Intelligence Magazine
@@ -1236,25 +1230,31 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/mci.2010.938360,Intelligent Agents for the Game of Go,Jean-baptiste Hoock and Chang-shing Lee and Arpad Rimmel and Fabien Teytaud and Mei-hui Wang and Oliver Teytaud,2010,12,IEEE Computational Intelligence Magazine
 10.1109/mci.2007.9066897,"Computing with Words: Zadeh, Turing, Popper and Occam",Jerry Mendel,2007,129,IEEE Computational Intelligence Magazine
 10.1109/mci.2009.934561,What Computing with Words Means to Me [Discussion Forum,Jerry Mendel and Lotfi Zadeh and Enric Trillas and Ronald Yager and Jonathan Lawry and Hani Hagras and Sergio Guadarrama,2010,177,IEEE Computational Intelligence Magazine
-10.1109/mci.2006.1597057,Evolutionary computation and games,S.M. Lucas and G. Kendall,2006,86,IEEE Computational Intelligence Magazine
-10.1109/mci.2018.2840660,Augmentation of Physician Assessments with Multi-Omics Enhances Predictability of Drug Response: A Case Study of Major Depressive Disorder,Arjun Athreya and Ravishankar Iyer and Drew Neavin and Liewei Wang and Richard Weinshilboum and Rima Kaddurah-Daouk and John Rush and Mark Frye and William Bobo,2018,26,IEEE Computational Intelligence Magazine
+10.1109/mci.2007.357192,Type-2 FLCs: A New Generation of Fuzzy Controllers,Hami Hagras,2007,344,IEEE Computational Intelligence Magazine
 10.1109/mci.2019.2901084,Understanding the Psycho-Sociological Facets of Homophily in Social Network Communities,R. Sudhesh Solomon and Srinivas PYKL and Amitava Das and Bjorn Gamback and Tanmoy Chakraborty,2019,13,IEEE Computational Intelligence Magazine
-10.1109/mci.2019.2919396,Embedding Both Finite and Infinite Communities on Graphs [Application Notes],Sandro Cavallari and Erik Cambria and Hongyun Cai and Kevin Chen-Chuan Chang and Vincent W. Zheng,2019,61,IEEE Computational Intelligence Magazine
 10.1109/mci.2017.2670462,Differential Evolution Based on Self-Adaptive Fitness Function for Automated Test Case Generation,Han Huang and Fangqing Liu and Xiaoyan Zhuo and Zhifeng Hao,2017,15,IEEE Computational Intelligence Magazine
-10.1109/mci.2014.2350953,Big Data Opportunities and Challenges: Discussions from Data Analytics Perspectives [Discussion Forum],Zhi-Hua Zhou and Nitesh V. Chawla and Yaochu Jin and Graham J. Williams,2014,174,IEEE Computational Intelligence Magazine
+10.1109/mci.2019.2937610,BeSense: Leveraging WiFi Channel Data and Computational Intelligence for Behavior Analysis,Yu Gu and Xiang Zhang and Zhi Liu and Fuji Ren,2019,26,IEEE Computational Intelligence Magazine
 10.1109/mci.2012.2188589,Reasoning with Large Scale Ontologies in Fuzzy pD* Using MapReduce,Chang Liu and Guilin Qi and Haofen Wang and Yong Yu,2012,15,IEEE Computational Intelligence Magazine
 10.1109/mci.2012.2188586,Large-Scale Storage and Reasoning for Semantic Data Using Swarms,Hannes Muhleisen and Kathrin Dentler,2012,11,IEEE Computational Intelligence Magazine
-10.1109/mci.2010.938364,Deep Machine Learning - A New Frontier in Artificial Intelligence Research [Research Frontier],I Arel and D C Rose and T P Karnowski,2010,799,IEEE Computational Intelligence Magazine
-10.1109/mci.2015.2471196,Learning in Nonstationary Environments: A Survey,Gregory Ditzler and Manuel Roveri and Cesare Alippi and Robi Polikar,2015,434,IEEE Computational Intelligence Magazine
+10.1109/mci.2021.3108310,Towards Generalized Resource Allocation on Evolutionary Multitasking for Multi-Objective Optimization,Tingyang Wei and Jinghui Zhong,2021,3,IEEE Computational Intelligence Magazine
+10.1109/mci.2009.934562,"VEP-based brain-computer interfaces: time, frequency, and code modulations [Research Frontier",Guangyu Bin and Xiaorong Gao and Yijun Wang and Bo Hong and Shangkai Gao,2009,184,IEEE Computational Intelligence Magazine
+10.1109/mci.2007.913388,Computing with the social fabric: The evolution of social intelligence within a cultural framework,Robert Reynolds and Mostafa Ali,2008,38,IEEE Computational Intelligence Magazine
+10.1109/mci.2018.2866731,Visualizing the Evolution of Computer Programs for Genetic Programming [Research Frontier],Su Nguyen and Mengjei Zhang and Damminda Alahakoon and Kay Chen Tan,2018,11,IEEE Computational Intelligence Magazine
 10.1109/mci.2006.1626491,Tiny GAs for image processing applications,M. Koppen and K. Franke and R. Vicente-Garcia,2006,18,IEEE Computational Intelligence Magazine
 10.1109/mci.2020.3019873,Computational Intelligence Techniques for Combating COVID-19: A Survey,Vincent S. Tseng and Josh Jia-Ching Ying and Stephen T.C. Wong and Diane J. Cook and Jiming Liu,2020,20,IEEE Computational Intelligence Magazine
 10.1109/mci.2022.3222050,A Multi-Transformation Evolutionary Framework for Influence Maximization in Social Networks,Chao Wang and Jiaxuan Zhao and Lingling Li and Licheng Jiao and Jing Liu and Kai Wu,2023,0,IEEE Computational Intelligence Magazine
-10.1109/mci.2009.934562,"VEP-based brain-computer interfaces: time, frequency, and code modulations [Research Frontier",Guangyu Bin and Xiaorong Gao and Yijun Wang and Bo Hong and Shangkai Gao,2009,183,IEEE Computational Intelligence Magazine
-10.1109/mci.2010.936309,"Memetic Computation—Past, Present &amp; Future [Research Frontier",Yew-Soon Ong and Meng Lim and Xianshun Chen,2010,347,IEEE Computational Intelligence Magazine
-10.1109/mci.2007.357192,Type-2 FLCs: A New Generation of Fuzzy Controllers,Hami Hagras,2007,340,IEEE Computational Intelligence Magazine
-10.1109/mci.2021.3108310,Towards Generalized Resource Allocation on Evolutionary Multitasking for Multi-Objective Optimization,Tingyang Wei and Jinghui Zhong,2021,2,IEEE Computational Intelligence Magazine
-10.1109/mci.2020.3039072,Graph Neural Networks in TensorFlow and Keras with Spektral [Application Notes],Daniele Grattarola and Cesare Alippi,2021,56,IEEE Computational Intelligence Magazine
-10.1109/mci.2018.2881645,"Evolutionary Fuzzy Systems for Explainable Artificial Intelligence: Why, When, What for, and Where to?",Alberto Fernandez and Francisco Herrera and Oscar Cordon and Maria Jose del Jesus and Francesco Marcelloni,2019,119,IEEE Computational Intelligence Magazine
+10.1109/mci.2017.2670463,Model-Free Optimal Control Based Intelligent Cruise Control with Hardware-in-the-Loop Demonstration [Research Frontier],Dongbin Zhao and Zhongpu Xia and Qichao Zhang,2017,37,IEEE Computational Intelligence Magazine
+10.1109/mci.2006.1597057,Evolutionary computation and games,S.M. Lucas and G. Kendall,2006,87,IEEE Computational Intelligence Magazine
+10.1109/mci.2020.3039069,Robust Optimization in Uncertain Capacitated Arc Routing Problems: Progresses and Perspectives [Review Article],Jialin Liu and Ke Tang and Xin Yao,2021,11,IEEE Computational Intelligence Magazine
+10.1109/mci.2010.936309,"Memetic Computation—Past, Present &amp; Future [Research Frontier",Yew-Soon Ong and Meng Lim and Xianshun Chen,2010,349,IEEE Computational Intelligence Magazine
+10.1109/mci.2022.3180846,What is New in Industry? [Industrial and Governmental Activities],Piero P. Bonissone,2022,2,IEEE Computational Intelligence Magazine
+10.1109/mci.2018.2840660,Augmentation of Physician Assessments with Multi-Omics Enhances Predictability of Drug Response: A Case Study of Major Depressive Disorder,Arjun Athreya and Ravishankar Iyer and Drew Neavin and Liewei Wang and Richard Weinshilboum and Rima Kaddurah-Daouk and John Rush and Mark Frye and William Bobo,2018,26,IEEE Computational Intelligence Magazine
+10.1109/mci.2020.3039072,Graph Neural Networks in TensorFlow and Keras with Spektral [Application Notes],Daniele Grattarola and Cesare Alippi,2021,62,IEEE Computational Intelligence Magazine
+10.1109/mci.2009.932254,Time Series Prediction Using Support Vector Machines: A Survey,Nicholas Sapankevych and Ravi Sankar,2009,668,IEEE Computational Intelligence Magazine
+10.1109/mci.2019.2919396,Embedding Both Finite and Infinite Communities on Graphs [Application Notes],Sandro Cavallari and Erik Cambria and Hongyun Cai and Kevin Chen-Chuan Chang and Vincent W. Zheng,2019,61,IEEE Computational Intelligence Magazine
+10.1109/mci.2015.2471196,Learning in Nonstationary Environments: A Survey,Gregory Ditzler and Manuel Roveri and Cesare Alippi and Robi Polikar,2015,438,IEEE Computational Intelligence Magazine
+10.1109/mci.2010.938364,Deep Machine Learning - A New Frontier in Artificial Intelligence Research [Research Frontier],I Arel and D C Rose and T P Karnowski,2010,810,IEEE Computational Intelligence Magazine
+10.1109/mci.2018.2881643,Fuzzy Clustering: A Historical Perspective,Enrique H. Ruspini and James C. Bezdek and James M. Keller,2019,66,IEEE Computational Intelligence Magazine
 10.1109/mci.2017.2770275,Table of Contents,,2018,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2017.2742838,Staff List,,2017,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2011.2176996,Multiobjective Synthesis of Six-Bar Mechanisms Under Manufacturing and Collision-Free Constraints,Chiu-hung Chen and Tung-kuan Liu and I-ming Huang and Jyh-horng Chou,2012,7,IEEE Computational Intelligence Magazine
@@ -1264,8 +1264,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/mci.2017.2742799,Call for Papers for Journal Special Issues,,2017,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2008.930991,2008 IEEE World Congress on Computational Intelligence (WCCI 2008) [Conference Reports],Jun Wang,2009,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2009.933097,Genetic approaches to search for computing patterns in cellular automata,Emannuel Sapin and L. Bull and A. Adamatzky,2009,13,IEEE Computational Intelligence Magazine
-10.1109/mci.2022.3180883,Privacy-Preserving Deep Learning With Homomorphic Encryption: An Introduction,Alessandro Falcetta and Manuel Roveri,2022,6,IEEE Computational Intelligence Magazine
-10.1109/mci.2021.3129961,Difficulties in Fair Performance Comparison of Multi-Objective Evolutionary Algorithms [Research Frontier],Hisao Ishibuchi and Lie Meng Pang and Ke Shang,2022,9,IEEE Computational Intelligence Magazine
 10.1109/mci.2017.2770272,Table of Contents,,2018,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2011.2176992,"Interview with the President of the IEEE Computational Intelligence Society, Marios M. Polycarpou [Career Profile]",,2012,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2017.2670399,Smart World [Editor's Remarks],Hisao Ishibuchi,2017,0,IEEE Computational Intelligence Magazine
@@ -1426,18 +1424,18 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/mci.2018.2881779,2019 IEEE CIS Awards [Society Briefs],Marios M. Polycarpou,2019,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2018.2887122,2019 IEEE Conference on Games (CoG),,2019,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2008.919071,Privacy-preserving collaborative data mining,Justin Zhan,2008,20,IEEE Computational Intelligence Magazine
-10.1109/mci.2014.2369914,2015 IEEE International Conference on Fuzzy Systems,,2015,0,IEEE Computational Intelligence Magazine
-10.1109/mci.2017.2770273,CIM Editorial Board,,2018,0,IEEE Computational Intelligence Magazine
-10.1109/mci.2007.353429,Family Corner - Chile Chapter,Pablo Estevez,2007,0,IEEE Computational Intelligence Magazine
-10.1109/mci.2015.2405266,IEEE Fellows-Class of 2015 [Society Briefs],James C. Bezdek,2015,0,IEEE Computational Intelligence Magazine
-10.1109/mci.2014.2307252,[Conference Calendar],Pauline Haddow,2014,0,IEEE Computational Intelligence Magazine
-10.1109/mci.2008.4490245,Front cover - IEEE Computational Intelligence Magazine - May 2008,,2008,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2006.1672978,IEEE Symposium Series on Computational Intelligence - Call for Papers,,2006,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2016.2572599,DSAA2017 at TOKYO,,2016,0,IEEE Computational Intelligence Magazine
 10.1109/ci-m.2006.248049,"Nicanor Quijano and Kevin M. Passino Ohio State University, USA Burton W Andrews Johns Hopkins University, USA Foraging theory for multizone temperature control",Nicanor Quijano and Kevin Passino and Burton Andrews,2006,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2009.935321,IEEE Transactions on Neural Networks,,2010,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2014.2326258,Call for Papers for Journal Special Issues,,2014,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2008.931074,Soft computing for students and for society [Technology Review],L. Magdalena,2009,3,IEEE Computational Intelligence Magazine
+10.1109/mci.2014.2369914,2015 IEEE International Conference on Fuzzy Systems,,2015,0,IEEE Computational Intelligence Magazine
+10.1109/mci.2017.2770273,CIM Editorial Board,,2018,0,IEEE Computational Intelligence Magazine
+10.1109/mci.2007.353429,Family Corner - Chile Chapter,Pablo Estevez,2007,0,IEEE Computational Intelligence Magazine
+10.1109/mci.2015.2405266,IEEE Fellows-Class of 2015 [Society Briefs],James C. Bezdek,2015,0,IEEE Computational Intelligence Magazine
+10.1109/mci.2014.2307252,[Conference Calendar],Pauline Haddow,2014,0,IEEE Computational Intelligence Magazine
+10.1109/mci.2008.4490245,Front cover - IEEE Computational Intelligence Magazine - May 2008,,2008,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2012.2215494,IEEE World Congress on Computational Intelligence 2012 (IEEE WCCI 2012) [Conference Reports],Hussein Abbass,2012,1,IEEE Computational Intelligence Magazine
 10.1109/mci.2012.2188593,"Practical applications of evolutionary computation to financial engineering: robust techniques for forecasting, trading, and hedging (iba, h. and aranha, c.c.; 2012)[book review]",Piotr Lipinski,2012,1,IEEE Computational Intelligence Magazine
 10.1109/mci.2007.353411,Celebrating the vitality of technology,,2007,0,IEEE Computational Intelligence Magazine
@@ -1470,41 +1468,43 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1109/mci.2017.2708919,Natural Language Generation with Computational Intelligence [Guest Editorial],Jose M. Alonso and Alberto Bugarin and Ehud Reiter,2017,5,IEEE Computational Intelligence Magazine
 10.1109/mci.2009.935309,Mining Physiological Conditions from Heart Rate Variability Analysis,Che-Wei Lin and Jeen-Shang Wang and Pau-Choo Chung,2010,45,IEEE Computational Intelligence Magazine
 10.1109/mci.2012.2188583,Evolutionary and Swarm Computing for the Semantic Web,Christophe Gueret and Stefan Schlobach and Kathrin Dentler and Martijn Schut and Gusz Eiben,2012,9,IEEE Computational Intelligence Magazine
+10.1109/mci.2021.3129961,Difficulties in Fair Performance Comparison of Multi-Objective Evolutionary Algorithms [Research Frontier],Hisao Ishibuchi and Lie Meng Pang and Ke Shang,2022,12,IEEE Computational Intelligence Magazine
 10.1109/mci.2011.941591,Experience of Teaching Computational Intelligence in an Undergraduate Level Course [Educational Forum],Mengjie Zhang,2011,1,IEEE Computational Intelligence Magazine
 10.1109/mci.2020.3039068,Distributed and Democratized Learning: Philosophy and Research Challenges,Minh N.H. Nguyen and Shashi Raj Pandey and Kyi Thar and Nguyen H. Tran and Mingzhe Chen and Walid Saad and Choong Seon Hong,2021,6,IEEE Computational Intelligence Magazine
 10.1109/mci.2022.3180882,CIS Publication Spotlight [Publication Spotlight],Yongduan Song and Jon Garibaldi and Carlos A. Coello Coello and Georgios N. Yannakakis and Huajin Tang and Yew Soon Ong and Hussein Abbass,2022,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2022.3201734,Publication Beyond Words [Editor’s Remarks],Chuan-Kang Ting,2022,0,IEEE Computational Intelligence Magazine
+10.1109/mci.2007.357194,Type-2 Fuzzy Logic: A Historical View,Robert John and Simon Coupland,2007,162,IEEE Computational Intelligence Magazine
+10.1109/mci.2022.3223487,Self-Supervised Fusion for Multi-Modal Medical Images via Contrastive Auto-Encoding and Convolutional Information Exchange,Ying Zhang and Rencan Nie and Jinde Cao and Chaozhen Ma,2023,0,IEEE Computational Intelligence Magazine
 10.1109/mci.2018.2807018,Enhancing Selection Hyper-Heuristics via Feature Transformations,Ivan Amaya and Jose C. Ortiz-Bayliss and Alejandro Rosales-Perez and Andres E. Gutierrez-Rodriguez and Santiago E. Conant-Pablos and Hugo Terashima-Marin and Carlos A. Coello Coello,2018,16,IEEE Computational Intelligence Magazine
-10.1109/mci.2010.939578,"Computational Red Teaming: Past, Present and Future",Hussein Abbass and Axel Bender and Svetoslav Gaidow and Paul Whitbread,2011,37,IEEE Computational Intelligence Magazine
-10.1109/mci.2009.935307,Process Discovery: Capturing the Invisible,W.M.P. van der Aalst,2010,42,IEEE Computational Intelligence Magazine
 10.1109/mci.2009.934559,Computational intelligent brain computer interaction and its applications on driving cognition,Chin-Ten Lin and Li-Wei Ko and Tzu-Kuei Shen,2009,41,IEEE Computational Intelligence Magazine
 10.1109/mci.2018.2840727,Learning Without External Reward [Research Frontier],Haibo He and Xiangnan Zhong,2018,16,IEEE Computational Intelligence Magazine
 10.1109/mci.2008.930986,Building virtual community in computational intelligence and machine learning [Research Frontier],J. Zurada and M. Mazurowski and R. Ragade and A. Abdullin and J. Wojtudiak and J. Gentle,2009,12,IEEE Computational Intelligence Magazine
 10.1109/mci.2016.2532265,JFCS: A Color Modeling Java Software Based on Fuzzy Color Spaces,J.M. Soto-Hidalgo and P.M. Martinez-Jimenez and J. Chamorro-Martinez and D. Sanchez,2016,9,IEEE Computational Intelligence Magazine
 10.1109/mci.2007.913378,Evolutionary algorithms for real world applications [Application Notes],Thomas Back and M. Emmerich and O.M. Shir,2008,15,IEEE Computational Intelligence Magazine
-10.1109/mci.2020.3019895,COVID-19 Time Series Forecast Using Transmission Rate and Meteorological Parameters as Features,Mohsen Mousavi and Rohit Salgotra and Damien Holloway and Amir H. Gandomi,2020,15,IEEE Computational Intelligence Magazine
 10.1109/mci.2020.2998315,Strength Adjustment and Assessment for MCTS-Based Programs [Research Frontier],An-Jen Liu and Ti-Rong Wu and I-Chen Wu and Hung Guei and Ting-Han Wei,2020,3,IEEE Computational Intelligence Magazine
-10.1109/mci.2021.3061878,An Evolutionary Game Model for Understanding Fraud in Consumption Taxes [Research Frontier],Manuel Chica and Juan M. Hernandez and Casiano Manrique-de-Lara-Penate and Raymond Chiong,2021,4,IEEE Computational Intelligence Magazine
-10.1109/mci.2013.2291691,A Chaotic Theoretical Approach to ECG-Based Identity Recognition [Application Notes],n.m. Ching-Kun Chen and n.m. Chun-Liang Lin and n.m. Shyan-Lung Lin and n.m. Yen-Ming Chiu and n.m. Cheng-Tang Chiang,2014,33,IEEE Computational Intelligence Magazine
+10.1109/mci.2020.3039070,Developing Interval-Based Cost-Sensitive Classifiers by Genetic Programming for Binary High-Dimensional Unbalanced Classification [Research Frontier],Wenbin Pei and Bing Xue and Lin Shang and Mengjie Zhang,2021,8,IEEE Computational Intelligence Magazine
+10.1109/mci.2019.2954669,A Bibliometric Overview of the Field of Type-2 Fuzzy Sets and Systems [Discussion Forum],Amit K. Shukla and Sumit Kumar Banshal and Taniya Seth and Aparna Basu and Robert John and Pranab K. Muhuri,2020,22,IEEE Computational Intelligence Magazine
+10.1109/mci.2017.2670461,Hyper-Heuristic Based Product Selection for Software Product Line Testing,Thiago N. Ferreira and Jackson A. Prado Lima and Andrei Strickler and Josiel N. Kuk and Silvia R. Vergilio and Aurora Pozo,2017,39,IEEE Computational Intelligence Magazine
+10.1109/mci.2009.935307,Process Discovery: Capturing the Invisible,W.M.P. van der Aalst,2010,43,IEEE Computational Intelligence Magazine
 10.1109/mci.2010.938363,Multi-Agent System in Urban Traffic Signal Control,P.G. Balaji and D. Srinivasan,2010,42,IEEE Computational Intelligence Magazine
 10.1109/mci.2011.2176767,Gesture Recognition Based on Localist Attractor Networks with Application to Robot Control [Application Notes],n.m. Rui Yan and n.m. Keng Peng Tee and n.m. Yuanwei Chua and n.m. Haizhou Li and n.m. Huajin Tang,2012,16,IEEE Computational Intelligence Magazine
+10.1109/mci.2020.3019895,COVID-19 Time Series Forecast Using Transmission Rate and Meteorological Parameters as Features,Mohsen Mousavi and Rohit Salgotra and Damien Holloway and Amir H. Gandomi,2020,16,IEEE Computational Intelligence Magazine
 10.1109/mci.2008.926602,Biomimicry and Fuzzy Modeling: A Match Made in Heaven,Michael Margaliot,2008,17,IEEE Computational Intelligence Magazine
 10.1109/mci.2013.2247824,Fuzzy Logic Models for the Meaning of Emotion Words,Abe Kazemzadeh and Sungbok Lee and Shrikanth Narayanan,2013,26,IEEE Computational Intelligence Magazine
 10.1109/mci.2017.2773800,"A Fast, Adaptive, and Energy-Efficient Data Collection Protocol in Multi-Channel-Multi-Path Wireless Sensor Networks",Soung-Yue Liew and Cheng-Kiat Tan and Ming-Lee Gan and Hock Guan Goh,2018,17,IEEE Computational Intelligence Magazine
-10.1109/mci.2015.2501545,Transfer Learning in Brain-Computer Interfaces Abstract\uFFFDThe performance of brain-computer interfaces (BCIs) improves with the amount of avail,Vinay Jayaram and Morteza Alamgir and Yasemin Altun and Bernhard Scholkopf and Moritz Grosse-Wentrup,2016,250,IEEE Computational Intelligence Magazine
 10.1109/mci.2019.2919362,Deep Reinforcement Learning and Games [Guest Editorial],Dongbin Zhao and Simon Lucas and Julian Togelius,2019,1,IEEE Computational Intelligence Magazine
-10.1109/mci.2019.2919398,Diversity Assessment of Multi-Objective Evolutionary Algorithms: Performance Metric and Benchmark Problems [Research Frontier],Ye Tian and Ran Cheng and Xingyi Zhang and Miqing Li and Yaochu Jin,2019,65,IEEE Computational Intelligence Magazine
-10.1109/mci.2017.2773824,Machine Learning for Performance Prediction in Mobile Cellular Networks,Janne Riihijarvi and Petri Mahonen,2018,63,IEEE Computational Intelligence Magazine
-10.1109/mci.2006.1626490,Fuzzy SVM for content-based image retrieval - A pseudo-label support vector machine framework,n.m. Kui Wu and n.m. Kim-Hui Yap,2006,58,IEEE Computational Intelligence Magazine
-10.1109/mci.2007.357194,Type-2 Fuzzy Logic: A Historical View,Robert John and Simon Coupland,2007,162,IEEE Computational Intelligence Magazine
-10.1109/mci.2022.3223487,Self-Supervised Fusion for Multi-Modal Medical Images via Contrastive Auto-Encoding and Convolutional Information Exchange,Ying Zhang and Rencan Nie and Jinde Cao and Chaozhen Ma,2023,0,IEEE Computational Intelligence Magazine
-10.1109/mci.2022.3155332,"Half a Dozen Real-World Applications of Evolutionary Multitasking, and More",Abhishek Gupta and Lei Zhou and Yew-Soon Ong and Zefeng Chen and Yaqing Hou,2022,7,IEEE Computational Intelligence Magazine
-10.1109/mci.2020.2976184,PaletteViz: A Visualization Method for Functional Understanding of High-Dimensional Pareto-Optimal Data-Sets to Aid Multi-Criteria Decision Making,AKM Khaled Ahsan Talukder and Kalyanmoy Deb,2020,16,IEEE Computational Intelligence Magazine
-10.1109/mci.2020.3039070,Developing Interval-Based Cost-Sensitive Classifiers by Genetic Programming for Binary High-Dimensional Unbalanced Classification [Research Frontier],Wenbin Pei and Bing Xue and Lin Shang and Mengjie Zhang,2021,8,IEEE Computational Intelligence Magazine
-10.1109/mci.2019.2954669,A Bibliometric Overview of the Field of Type-2 Fuzzy Sets and Systems [Discussion Forum],Amit K. Shukla and Sumit Kumar Banshal and Taniya Seth and Aparna Basu and Robert John and Pranab K. Muhuri,2020,22,IEEE Computational Intelligence Magazine
-10.1109/mci.2019.2901082,Computational Intelligence for Affective Computing and Sentiment Analysis [Guest Editorial],Erik Cambria and Soujanya Poria and Amir Hussain and Bing Liu,2019,38,IEEE Computational Intelligence Magazine
-10.1109/mci.2018.2881641,Towards Human-Centric Aggregation via Ordered Weighted Aggregation Operators and Linguistic Data Summaries: A New Perspective on Zadeh's Inspirations,Janusz Kacprzyk and Ronald R. Yager and Jose M. Merigo,2019,56,IEEE Computational Intelligence Magazine
-10.1109/mci.2017.2670461,Hyper-Heuristic Based Product Selection for Software Product Line Testing,Thiago N. Ferreira and Jackson A. Prado Lima and Andrei Strickler and Josiel N. Kuk and Silvia R. Vergilio and Aurora Pozo,2017,39,IEEE Computational Intelligence Magazine
+10.1109/mci.2018.2881641,Towards Human-Centric Aggregation via Ordered Weighted Aggregation Operators and Linguistic Data Summaries: A New Perspective on Zadeh's Inspirations,Janusz Kacprzyk and Ronald R. Yager and Jose M. Merigo,2019,58,IEEE Computational Intelligence Magazine
+10.1109/mci.2022.3180883,Privacy-Preserving Deep Learning With Homomorphic Encryption: An Introduction,Alessandro Falcetta and Manuel Roveri,2022,7,IEEE Computational Intelligence Magazine
 10.1109/mci.2013.2264233,Multi-Objective Continuous-Ant-Colony-Optimized FC for Robot Wall-Following Control,Chia-Hung Hsu and Chia-Feng Juang,2013,46,IEEE Computational Intelligence Magazine
-10.1109/mci.2020.3039066,Evolutionary Transfer Optimization - A New Frontier in Evolutionary Computation Research,Kay Chen Tan and Liang Feng and Min Jiang,2021,58,IEEE Computational Intelligence Magazine
-10.1109/mci.2014.2326099,"The Emerging ""Big Dimensionality""",Yiteng Zhai and Yew-Soon Ong and Ivor W. Tsang,2014,160,IEEE Computational Intelligence Magazine
+10.1109/mci.2019.2901082,Computational Intelligence for Affective Computing and Sentiment Analysis [Guest Editorial],Erik Cambria and Soujanya Poria and Amir Hussain and Bing Liu,2019,39,IEEE Computational Intelligence Magazine
+10.1109/mci.2014.2326099,"The Emerging ""Big Dimensionality""",Yiteng Zhai and Yew-Soon Ong and Ivor W. Tsang,2014,162,IEEE Computational Intelligence Magazine
+10.1109/mci.2010.939578,"Computational Red Teaming: Past, Present and Future",Hussein Abbass and Axel Bender and Svetoslav Gaidow and Paul Whitbread,2011,38,IEEE Computational Intelligence Magazine
+10.1109/mci.2015.2501545,Transfer Learning in Brain-Computer Interfaces Abstract\uFFFDThe performance of brain-computer interfaces (BCIs) improves with the amount of avail,Vinay Jayaram and Morteza Alamgir and Yasemin Altun and Bernhard Scholkopf and Moritz Grosse-Wentrup,2016,252,IEEE Computational Intelligence Magazine
+10.1109/mci.2017.2773824,Machine Learning for Performance Prediction in Mobile Cellular Networks,Janne Riihijarvi and Petri Mahonen,2018,64,IEEE Computational Intelligence Magazine
+10.1109/mci.2006.1626490,Fuzzy SVM for content-based image retrieval - A pseudo-label support vector machine framework,n.m. Kui Wu and n.m. Kim-Hui Yap,2006,58,IEEE Computational Intelligence Magazine
+10.1109/mci.2022.3155332,"Half a Dozen Real-World Applications of Evolutionary Multitasking, and More",Abhishek Gupta and Lei Zhou and Yew-Soon Ong and Zefeng Chen and Yaqing Hou,2022,7,IEEE Computational Intelligence Magazine
+10.1109/mci.2013.2291691,A Chaotic Theoretical Approach to ECG-Based Identity Recognition [Application Notes],n.m. Ching-Kun Chen and n.m. Chun-Liang Lin and n.m. Shyan-Lung Lin and n.m. Yen-Ming Chiu and n.m. Cheng-Tang Chiang,2014,33,IEEE Computational Intelligence Magazine
+10.1109/mci.2020.2976184,PaletteViz: A Visualization Method for Functional Understanding of High-Dimensional Pareto-Optimal Data-Sets to Aid Multi-Criteria Decision Making,AKM Khaled Ahsan Talukder and Kalyanmoy Deb,2020,17,IEEE Computational Intelligence Magazine
+10.1109/mci.2021.3061878,An Evolutionary Game Model for Understanding Fraud in Consumption Taxes [Research Frontier],Manuel Chica and Juan M. Hernandez and Casiano Manrique-de-Lara-Penate and Raymond Chiong,2021,5,IEEE Computational Intelligence Magazine
+10.1109/mci.2020.3039066,Evolutionary Transfer Optimization - A New Frontier in Evolutionary Computation Research,Kay Chen Tan and Liang Feng and Min Jiang,2021,64,IEEE Computational Intelligence Magazine
+10.1109/mci.2019.2919398,Diversity Assessment of Multi-Objective Evolutionary Algorithms: Performance Metric and Benchmark Problems [Research Frontier],Ye Tian and Ran Cheng and Xingyi Zhang and Miqing Li and Yaochu Jin,2019,70,IEEE Computational Intelligence Magazine

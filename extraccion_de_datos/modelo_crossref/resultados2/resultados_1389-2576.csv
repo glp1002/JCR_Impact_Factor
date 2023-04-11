@@ -7,28 +7,32 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10710-011-9131-8,The evolution of standard cell libraries for future technology nodes,James Alfred Walker and James A. Hilder and Dave Reid and Asen Asenov and Scott Roy and Campbell Millar and Andy M. Tyrrell,2011,10,Genetic Programming and Evolvable Machines
 10.1007/s10710-008-9069-7,An improved representation for evolving programs,M. S. Withall and C. J. Hinde and R. G. Stone,2009,3,Genetic Programming and Evolvable Machines
 10.1023/a:1020167426088,n.m.,Brad Dolin and J.J. Merelo,2002,2,Genetic Programming and Evolvable Machines
-10.1007/s10710-013-9200-2,Genetic programming: where meaning emerges from program code,Krzysztof Krawiec,2014,7,Genetic Programming and Evolvable Machines
 10.1007/s10710-016-9263-y,Learning to rank: new approach with the layered multi-population genetic programming on click-through features,Amir Hosein Keyhanipour and Behzad Moshiri and Farhad Oroumchian and Maseud Rahgozar and Kambiz Badie,2016,5,Genetic Programming and Evolvable Machines
 10.1007/s10710-016-9266-8,"Anthony Brabazon, Michael O’Neill, Sean McGarraghy: Natural computing algorithms",Simone A. Ludwig,2016,0,Genetic Programming and Evolvable Machines
 10.1007/s10710-013-9194-9,Introduction to special section: Best of EuroGP/EvoBio,James A. Foster,2013,0,Genetic Programming and Evolvable Machines
 10.1007/s10710-015-9243-7,Prudent alignment and crossover of decision trees in genetic programming,Matej Šprogar,2015,6,Genetic Programming and Evolvable Machines
-10.1007/s10710-009-9087-0,GP challenge: evolving energy function for protein structure prediction,Paweł Widera and Jonathan M. Garibaldi and Natalio Krasnogor,2010,13,Genetic Programming and Evolvable Machines
-10.1007/s10710-007-9045-7,Detecting the epistatic structure of generalized embedded landscape,Shude Zhou and Robert B. Heckendorn and Zengqi Sun,2008,3,Genetic Programming and Evolvable Machines
-10.1007/s10710-011-9132-7,Formal verification of candidate solutions for post-synthesis evolutionary optimization in evolvable hardware,Zdenek Vasicek and Lukas Sekanina,2011,39,Genetic Programming and Evolvable Machines
+10.1007/s10710-006-9017-3,Self-adaptation of evolution strategies under noisy fitness evaluations,Hans-Georg Beyer and Silja Meyer-Nieberg,2006,16,Genetic Programming and Evolvable Machines
+10.1023/b:genp.0000017010.41337.a7,Exact Schema Theory and Markov Chain Models for Genetic Programming and Variable-length Genetic Algorithms with Homologous Crossover,Riccardo Poli and Nicholas Freitag McPhee and Jonathan E. Rowe,2004,35,Genetic Programming and Evolvable Machines
+10.1007/s10710-011-9151-4,Symbiotic coevolutionary genetic programming: a benchmarking study under large attribute spaces,John A. Doucette and Andrew R. McIntyre and Peter Lichodzijewski and Malcolm I. Heywood,2012,27,Genetic Programming and Evolvable Machines
+10.1007/s10710-018-9326-3,Self-adaptive multi-population genetic algorithms for dynamic resource allocation in shared hosting platforms,Azam Shirali and Javidan Kazemi Kordestani and Mohammad Reza Meybodi,2018,8,Genetic Programming and Evolvable Machines
+10.1007/s10710-009-9085-2,Automated synthesis of resilient and tamper-evident analog circuits without a single point of failure,Kyung-Joong Kim and Adrian Wong and Hod Lipson,2010,18,Genetic Programming and Evolvable Machines
+10.1007/s10710-019-09346-4,A multi-level grammar approach to grammar-guided genetic programming: the case of scheduling in heterogeneous networks,Takfarinas Saber and David Fagan and David Lynch and Stepan Kucera and Holger Claussen and Michael O’Neill,2019,6,Genetic Programming and Evolvable Machines
+10.1023/a:1011544128842,n.m.,Jean Louchet,2001,20,Genetic Programming and Evolvable Machines
+10.1007/s10710-005-7617-y,A New Approach for Predicting the Final Outcome of Evolution Strategy Optimization Under Noise,Hans-George Beyer and Dirk V. Arnold and Silja Meyer-Nieberg,2005,14,Genetic Programming and Evolvable Machines
+10.1007/s10710-012-9171-8,A comparison of grammatical genetic programming grammars for controlling femtocell network coverage,Erik Hemberg and Lester Ho and Michael O’Neill and Holger Claussen,2013,18,Genetic Programming and Evolvable Machines
 10.1023/a:1011905527157,n.m.,N. Shaaban and S. Hasegawa and A. Suzuki and H. Takahashi,2001,3,Genetic Programming and Evolvable Machines
 10.1007/s10710-021-09421-9,Highlights of genetic programming 2020 events,Miguel Nicolau,2021,0,Genetic Programming and Evolvable Machines
 10.1007/s10710-007-9054-6,Editorial introduction,Wolfgang Banzhaf,2008,0,Genetic Programming and Evolvable Machines
-10.1007/s10710-019-09346-4,A multi-level grammar approach to grammar-guided genetic programming: the case of scheduling in heterogeneous networks,Takfarinas Saber and David Fagan and David Lynch and Stepan Kucera and Holger Claussen and Michael O’Neill,2019,6,Genetic Programming and Evolvable Machines
 10.1007/s10710-010-9126-x,"Hitoshi Iba, Topon Kumar Paul, Yoshohiko Hasegawa: Applied genetic programming and machine learning",Kalyan Veeramachaneni,2011,0,Genetic Programming and Evolvable Machines
 10.1007/s10710-014-9240-2,Editorial introduction,Lee Spector,2015,0,Genetic Programming and Evolvable Machines
 10.1007/s10710-014-9232-2,Multiobjective optimization algorithms for motif discovery in DNA sequences,David L. González-Álvarez and Miguel A. Vega-Rodríguez and Álvaro Rubio-Largo,2015,4,Genetic Programming and Evolvable Machines
 10.1007/s10710-021-09420-w,"Robert Elliott Smith: Rage Inside the Machine—the prejudice of algorithms, and how to stop the internet making bigots of us all",Walid Magdy,2022,0,Genetic Programming and Evolvable Machines
 10.1007/s10710-021-09423-7,Generating networks of genetic processors,Marcelino Campos and José M. Sempere,2022,0,Genetic Programming and Evolvable Machines
 10.1007/s10710-021-09408-6,Inference of time series components by online co-evolution,Danil Koryakin and Sebastian Otte and Martin V. Butz,2022,0,Genetic Programming and Evolvable Machines
-10.1007/s10710-012-9163-8,Open-ended evolution to discover analogue circuits for beyond conventional applications,Yerbol A. Sapargaliyev and Tatiana G. Kalganova,2012,10,Genetic Programming and Evolvable Machines
 10.1007/s10710-012-9157-6,Moshe Sipper: Evolved to Win,Timothy Gosling,2012,0,Genetic Programming and Evolvable Machines
+10.1007/s10710-007-9038-6,Quotients of Markov chains and asymptotic properties of the stationary distribution of the Markov chain associated to an evolutionary algorithm,Boris Mitavskiy and Jonathan E. Rowe and Alden Wright and Lothar M. Schmitt,2008,8,Genetic Programming and Evolvable Machines
 10.1007/s10710-017-9304-1,A meta-grammatical evolutionary process for portfolio selection and trading,Iván Contreras and J. Ignacio Hidalgo and Laura Nuñez-Letamendía and J. Manuel Velasco,2017,6,Genetic Programming and Evolvable Machines
-10.1007/s10710-011-9149-y,A Markovianity based optimisation algorithm,Siddhartha Shakya and Roberto Santana and Jose A. Lozano,2012,25,Genetic Programming and Evolvable Machines
+10.1007/s10710-007-9048-4,Interactive evolution for cochlear implants fitting,Pierrick Legrand and Claire Bourgeois-Republique and Vincent Péan and Esther Harboun-Cohen and Jacques Levy-Vehel and Bruno Frachet and Evelyne Lutton and Pierre Collet,2007,13,Genetic Programming and Evolvable Machines
 10.1007/s10710-007-9034-x,"Adaptive learning of polynomial networks, genetic programming, backpropagation and Bayesian methods, series on genetic and evolutionary computation",Diego H. Milone,2007,2,Genetic Programming and Evolvable Machines
 10.1007/s10710-015-9259-z,Acknowledgment to Reviewers,L. Spector,2016,0,Genetic Programming and Evolvable Machines
 10.1007/s10710-011-9129-2,The route to a defect tolerant LUT through artificial evolution,Asbjoern Djupdal and Pauline C. Haddow,2011,3,Genetic Programming and Evolvable Machines
@@ -37,11 +41,13 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10710-013-9209-6,Peer commentary on Wolfgang Banzhaf’s “genetic programming and emergence”,Lee Spector,2014,0,Genetic Programming and Evolvable Machines
 10.1023/a:1025128524617,n.m.,David J. Hand,2003,1,Genetic Programming and Evolvable Machines
 10.1007/s10710-022-09434-y,Applying genetic programming to PSB2: the next generation program synthesis benchmark suite,Thomas Helmuth and Peter Kelly,2022,0,Genetic Programming and Evolvable Machines
-10.1007/s10710-021-09407-7,"Introducing Design Automation for Quantum Computing, Alwin Zulehner and Robert Wille. ISBN 978-3-030-41753-6, 2020, Springer International Publishing. 222 Pages, 51 b/w illustrations, 14 illustrations in colour",Robin Harper,2021,1,Genetic Programming and Evolvable Machines
+10.1007/s10710-005-7578-1,The Fast Evaluation Strategy for Evolvable Hardware,Mehrdad Salami and Tim Hendtlass,2005,12,Genetic Programming and Evolvable Machines
+10.1007/s10710-010-9124-z,Eureqa: software review,Renáta Dubčáková,2011,60,Genetic Programming and Evolvable Machines
 10.1007/s10710-017-9290-3,"Probing the axioms of evolutionary algorithm design: Commentary on “On the mapping of genotype to phenotype in evolutionary algorithms” by Peter A. Whigham, Grant Dick, and James Maclaurin",Lee Altenberg,2017,4,Genetic Programming and Evolvable Machines
 10.1007/s10710-007-9055-5,Acknowledgment,,2008,0,Genetic Programming and Evolvable Machines
 10.1007/s10710-019-09349-1,Acknowledgment to reviewers,Lee Spector,2019,0,Genetic Programming and Evolvable Machines
 10.1007/s10710-013-9203-z,Commentary on “Genetic Programming and Emergence”,Moshe Sipper,2014,1,Genetic Programming and Evolvable Machines
+10.1007/s10710-011-9132-7,Formal verification of candidate solutions for post-synthesis evolutionary optimization in evolvable hardware,Zdenek Vasicek and Lukas Sekanina,2011,39,Genetic Programming and Evolvable Machines
 10.1007/s10710-019-09367-z,Inspyred: Bio-inspired algorithms in Python,Alberto Tonda,2020,11,Genetic Programming and Evolvable Machines
 10.1007/s10710-010-9118-x,"Redundancies in linear GP, canonical transformation, and its exploitation: a demonstration on image feature synthesis",Ukrit Watchareeruetai and Yoshinori Takeuchi and Tetsuya Matsumoto and Hiroaki Kudo and Noboru Ohnishi,2011,3,Genetic Programming and Evolvable Machines
 10.1007/s10710-007-9037-7,Introduction to the special issue on medical applications of Genetic and Evolutionary Computation,Stephen L. Smith and Stefano Cagnoni,2007,1,Genetic Programming and Evolvable Machines
@@ -49,164 +55,165 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10710-018-9335-2,"Evelyne Lutton, Nathalie Perrot, Alberto Tonda: Evolutionary algorithms for food science and technology",Kelly Androutsopoulos,2019,0,Genetic Programming and Evolvable Machines
 10.1007/s10710-005-3718-x,Evolvable Components—From Theory to Hardware Implementations,Tughrul Arslan,2005,1,Genetic Programming and Evolvable Machines
 10.1007/s10710-011-9130-9,Hardware spiking neural network prototyping and application,Seamus Cawley and Fearghal Morgan and Brian McGinley and Sandeep Pande and Liam McDaid and Snaider Carrillo and Jim Harkin,2011,37,Genetic Programming and Evolvable Machines
+10.1007/s10710-017-9301-4,Evolutionary hyper-heuristics for tackling bi-objective 2D bin packing problems,Juan Carlos Gomez and Hugo Terashima-Marín,2018,26,Genetic Programming and Evolvable Machines
+10.1023/a:1010014314078,n.m.,Helen E. Johnson and Richard J. Gilbert and Michael K. Winson and Royston Goodacre and Aileen R. Smith and Jem J. Rowland and Michael A. Hall and Douglas B. Kell,2000,42,Genetic Programming and Evolvable Machines
+10.1007/s10710-011-9149-y,A Markovianity based optimisation algorithm,Siddhartha Shakya and Roberto Santana and Jose A. Lozano,2012,25,Genetic Programming and Evolvable Machines
 10.1007/s10710-018-9330-7,Data exploration in evolutionary reconstruction of PET images,Cameron C. Gray and Shatha F. Al-Maliki and Franck P. Vidal,2018,1,Genetic Programming and Evolvable Machines
-10.1007/s10710-012-9171-8,A comparison of grammatical genetic programming grammars for controlling femtocell network coverage,Erik Hemberg and Lester Ho and Michael O’Neill and Holger Claussen,2013,18,Genetic Programming and Evolvable Machines
-10.1023/b:genp.0000036019.81454.41,Immune Memory and Gene Library Evolution in the Dynamic Clonal Selection Algorithm,Jungwon Kim and Peter Bentley,2004,39,Genetic Programming and Evolvable Machines
-10.1023/b:genp.0000023688.42515.92,Particle Swarm Optimisation for Protein Motif Discovery,Bill C. H. Chang and Asanga Ratnaweera and Saman K. Halgamuge and Harry C. Watson,2004,33,Genetic Programming and Evolvable Machines
-10.1007/s10710-006-9017-3,Self-adaptation of evolution strategies under noisy fitness evaluations,Hans-Georg Beyer and Silja Meyer-Nieberg,2006,16,Genetic Programming and Evolvable Machines
-10.1007/s10710-018-9326-3,Self-adaptive multi-population genetic algorithms for dynamic resource allocation in shared hosting platforms,Azam Shirali and Javidan Kazemi Kordestani and Mohammad Reza Meybodi,2018,8,Genetic Programming and Evolvable Machines
-10.1007/s10710-009-9085-2,Automated synthesis of resilient and tamper-evident analog circuits without a single point of failure,Kyung-Joong Kim and Adrian Wong and Hod Lipson,2010,18,Genetic Programming and Evolvable Machines
-10.1007/s10710-019-09374-0,Towards the use of genetic programming in the ecological modelling of mosquito population dynamics,Irene Azzali and Leonardo Vanneschi and Andrea Mosca and Luigi Bertolotti and Mario Giacobini,2020,4,Genetic Programming and Evolvable Machines
-10.1007/s10710-013-9191-z,"Guest editorial: special issue on biologically inspired music, sound, art and design",Juan Romero and Penousal Machado and Adrian Carballal,2013,5,Genetic Programming and Evolvable Machines
-10.1023/a:1025124423708,n.m.,Kosuke Imamura and Terence Soule and Robert B. Heckendorn and James A. Foster,2003,33,Genetic Programming and Evolvable Machines
-10.1023/b:genp.0000017010.41337.a7,Exact Schema Theory and Markov Chain Models for Genetic Programming and Variable-length Genetic Algorithms with Homologous Crossover,Riccardo Poli and Nicholas Freitag McPhee and Jonathan E. Rowe,2004,35,Genetic Programming and Evolvable Machines
-10.1007/s10710-011-9151-4,Symbiotic coevolutionary genetic programming: a benchmarking study under large attribute spaces,John A. Doucette and Andrew R. McIntyre and Peter Lichodzijewski and Malcolm I. Heywood,2012,27,Genetic Programming and Evolvable Machines
-10.1007/s10710-010-9121-2,Semantically-based crossover in genetic programming: application to real-valued symbolic regression,Nguyen Quang Uy and Nguyen Xuan Hoai and Michael O’Neill and R. I. McKay and Edgar Galván-López,2011,177,Genetic Programming and Evolvable Machines
-10.1007/s10710-015-9249-1,Grammar-based generation of variable-selection heuristics for constraint satisfaction problems,Alejandro Sosa-Ascencio and Gabriela Ochoa and Hugo Terashima-Marin and Santiago Enrique Conant-Pablos,2016,18,Genetic Programming and Evolvable Machines
-10.1007/s10710-011-9144-3,The evolution of higher-level biochemical reaction models,Brian J. Ross,2012,2,Genetic Programming and Evolvable Machines
-10.1007/s10710-011-9139-0,Sean Luke: essentials of metaheuristics,Michael Lones,2011,14,Genetic Programming and Evolvable Machines
-10.1023/a:1015531909333,n.m.,Annie S. Wu and Ivan Garibay,2002,24,Genetic Programming and Evolvable Machines
-10.1007/s10710-015-9258-0,An automatic solver for very large jigsaw puzzles using genetic algorithms,Dror Sholomon and Omid E. David and Nathan S. Netanyahu,2016,20,Genetic Programming and Evolvable Machines
 10.1007/s10710-019-09345-5,A genetic programming framework in the automatic design of combination models for salient object detection,Marco A. Contreras-Cruz and Diana E. Martinez-Rodriguez and Uriel H. Hernandez-Belmonte and Victor Ayala-Ramirez,2019,2,Genetic Programming and Evolvable Machines
 10.1007/s10710-021-09409-5,Software review: Pony GE2,Tuong Manh Vu,2021,1,Genetic Programming and Evolvable Machines
 10.1007/s10710-022-09439-7,Melanie Mitchell: Artificial intelligence—a guide for thinking humans,Didem Özkiziltan,2022,0,Genetic Programming and Evolvable Machines
-10.1007/s10710-012-9172-7,Locally geometric semantic crossover: a study on the roles of semantics and homology in recombination operators,Krzysztof Krawiec and Tomasz Pawlak,2013,33,Genetic Programming and Evolvable Machines
+10.1007/s10710-007-9045-7,Detecting the epistatic structure of generalized embedded landscape,Shude Zhou and Robert B. Heckendorn and Zengqi Sun,2008,3,Genetic Programming and Evolvable Machines
+10.1007/s10710-019-09374-0,Towards the use of genetic programming in the ecological modelling of mosquito population dynamics,Irene Azzali and Leonardo Vanneschi and Andrea Mosca and Luigi Bertolotti and Mario Giacobini,2020,4,Genetic Programming and Evolvable Machines
+10.1007/s10710-015-9258-0,An automatic solver for very large jigsaw puzzles using genetic algorithms,Dror Sholomon and Omid E. David and Nathan S. Netanyahu,2016,20,Genetic Programming and Evolvable Machines
+10.1007/s10710-012-9163-8,Open-ended evolution to discover analogue circuits for beyond conventional applications,Yerbol A. Sapargaliyev and Tatiana G. Kalganova,2012,10,Genetic Programming and Evolvable Machines
+10.1023/b:genp.0000036019.81454.41,Immune Memory and Gene Library Evolution in the Dynamic Clonal Selection Algorithm,Jungwon Kim and Peter Bentley,2004,39,Genetic Programming and Evolvable Machines
+10.1023/b:genp.0000023688.42515.92,Particle Swarm Optimisation for Protein Motif Discovery,Bill C. H. Chang and Asanga Ratnaweera and Saman K. Halgamuge and Harry C. Watson,2004,33,Genetic Programming and Evolvable Machines
+10.1007/s10710-005-7621-2,Visualizing Tree Structures in Genetic Programming,Jason M. Daida and Adam M. Hilss and David J. Ward and Stephen L. Long,2005,23,Genetic Programming and Evolvable Machines
+10.1007/s10710-011-9148-z,Software review: the ECJ toolkit,David R. White,2012,54,Genetic Programming and Evolvable Machines
+10.1007/s10710-013-9196-7,Genetic Programming and Emergence,Wolfgang Banzhaf,2014,10,Genetic Programming and Evolvable Machines
+10.1007/s10710-009-9087-0,GP challenge: evolving energy function for protein structure prediction,Paweł Widera and Jonathan M. Garibaldi and Natalio Krasnogor,2010,13,Genetic Programming and Evolvable Machines
 10.1007/s10710-008-9075-9,Dynamic limits for bloat control in genetic programming and a review of past and current bloat theories,Sara Silva and Ernesto Costa,2009,102,Genetic Programming and Evolvable Machines
 10.1007/s10710-010-9105-2,Variable population size and evolution acceleration: a case study with a parallel evolutionary algorithm,Ting Hu and Simon Harding and Wolfgang Banzhaf,2010,22,Genetic Programming and Evolvable Machines
-10.1007/s10710-007-9038-6,Quotients of Markov chains and asymptotic properties of the stationary distribution of the Markov chain associated to an evolutionary algorithm,Boris Mitavskiy and Jonathan E. Rowe and Alden Wright and Lothar M. Schmitt,2008,8,Genetic Programming and Evolvable Machines
-10.1007/s10710-005-7621-2,Visualizing Tree Structures in Genetic Programming,Jason M. Daida and Adam M. Hilss and David J. Ward and Stephen L. Long,2005,23,Genetic Programming and Evolvable Machines
-10.1007/s10710-006-9004-8,On the impact of objective function transformations on evolutionary and black-box algorithms,Tobias Storch,2006,2,Genetic Programming and Evolvable Machines
-10.1007/s10710-005-7578-1,The Fast Evaluation Strategy for Evolvable Hardware,Mehrdad Salami and Tim Hendtlass,2005,12,Genetic Programming and Evolvable Machines
-10.1007/s10710-008-9076-8,Using enhanced genetic programming techniques for evolving classifiers in the context of medical diagnosis,Stephan M. Winkler and Michael Affenzeller and Stefan Wagner,2009,22,Genetic Programming and Evolvable Machines
-10.1007/s10710-005-2985-x,MicroGP—An Evolutionary Assembly Program Generator,Giovanni Squillero,2005,44,Genetic Programming and Evolvable Machines
+10.1007/s10710-012-9172-7,Locally geometric semantic crossover: a study on the roles of semantics and homology in recombination operators,Krzysztof Krawiec and Tomasz Pawlak,2013,33,Genetic Programming and Evolvable Machines
+10.1007/s10710-021-09407-7,"Introducing Design Automation for Quantum Computing, Alwin Zulehner and Robert Wille. ISBN 978-3-030-41753-6, 2020, Springer International Publishing. 222 Pages, 51 b/w illustrations, 14 illustrations in colour",Robin Harper,2021,1,Genetic Programming and Evolvable Machines
 10.1007/s10710-008-9065-y,Scaling of program functionality,W. B. Langdon,2009,4,Genetic Programming and Evolvable Machines
-10.1007/s10710-017-9312-1,Comparing three online evolvable hardware implementations of a classification system,Oscar Garnica and Kyrre Glette and Jim Torresen,2018,4,Genetic Programming and Evolvable Machines
-10.1023/a:1011544128842,n.m.,Jean Louchet,2001,20,Genetic Programming and Evolvable Machines
-10.1007/s10710-005-7617-y,A New Approach for Predicting the Final Outcome of Evolution Strategy Optimization Under Noise,Hans-George Beyer and Dirk V. Arnold and Silja Meyer-Nieberg,2005,14,Genetic Programming and Evolvable Machines
-10.1007/s10710-017-9301-4,Evolutionary hyper-heuristics for tackling bi-objective 2D bin packing problems,Juan Carlos Gomez and Hugo Terashima-Marín,2018,26,Genetic Programming and Evolvable Machines
-10.1007/s10710-013-9196-7,Genetic Programming and Emergence,Wolfgang Banzhaf,2014,10,Genetic Programming and Evolvable Machines
-10.1007/s10710-023-09450-6,A new hybrid method of Evolutionary-Numerical algorithms to solve ODEs arising in physics and engineering,S. R. Mirshafaei and H. Saberi Najafi and E. khaleghi and A. H. Refahi Sheikhani,2023,0,Genetic Programming and Evolvable Machines
-10.1023/a:1010014314078,n.m.,Helen E. Johnson and Richard J. Gilbert and Michael K. Winson and Royston Goodacre and Aileen R. Smith and Jem J. Rowland and Michael A. Hall and Douglas B. Kell,2000,42,Genetic Programming and Evolvable Machines
+10.1007/s10710-011-9139-0,Sean Luke: essentials of metaheuristics,Michael Lones,2011,14,Genetic Programming and Evolvable Machines
+10.1007/s10710-011-9144-3,The evolution of higher-level biochemical reaction models,Brian J. Ross,2012,2,Genetic Programming and Evolvable Machines
+10.1023/a:1015531909333,n.m.,Annie S. Wu and Ivan Garibay,2002,24,Genetic Programming and Evolvable Machines
+10.1007/s10710-005-2985-x,MicroGP—An Evolutionary Assembly Program Generator,Giovanni Squillero,2005,44,Genetic Programming and Evolvable Machines
+10.1007/s10710-006-9004-8,On the impact of objective function transformations on evolutionary and black-box algorithms,Tobias Storch,2006,2,Genetic Programming and Evolvable Machines
+10.1007/s10710-008-9076-8,Using enhanced genetic programming techniques for evolving classifiers in the context of medical diagnosis,Stephan M. Winkler and Michael Affenzeller and Stefan Wagner,2009,22,Genetic Programming and Evolvable Machines
 10.1007/s10710-009-9089-y,Distributed differential evolution with explorative–exploitative population families,Matthieu Weber and Ferrante Neri and Ville Tirronen,2009,79,Genetic Programming and Evolvable Machines
-10.1007/s10710-018-9340-5,On the scalability of evolvable hardware architectures: comparison of systolic array and Cartesian genetic programming,Javier Mora and Rubén Salvador and Eduardo de la Torre,2019,5,Genetic Programming and Evolvable Machines
-10.1007/s10710-007-9048-4,Interactive evolution for cochlear implants fitting,Pierrick Legrand and Claire Bourgeois-Republique and Vincent Péan and Esther Harboun-Cohen and Jacques Levy-Vehel and Bruno Frachet and Evelyne Lutton and Pierre Collet,2007,13,Genetic Programming and Evolvable Machines
-10.1007/s10710-011-9148-z,Software review: the ECJ toolkit,David R. White,2012,54,Genetic Programming and Evolvable Machines
-10.1007/s10710-020-09387-0,Benchmarking state-of-the-art symbolic regression algorithms,Jan Žegklitz and Petr Pošík,2021,16,Genetic Programming and Evolvable Machines
-10.1007/s10710-010-9124-z,Eureqa: software review,Renáta Dubčáková,2011,58,Genetic Programming and Evolvable Machines
+10.1007/s10710-013-9191-z,"Guest editorial: special issue on biologically inspired music, sound, art and design",Juan Romero and Penousal Machado and Adrian Carballal,2013,5,Genetic Programming and Evolvable Machines
+10.1007/s10710-023-09450-6,A new hybrid method of Evolutionary-Numerical algorithms to solve ODEs arising in physics and engineering,S. R. Mirshafaei and H. Saberi Najafi and E. khaleghi and A. H. Refahi Sheikhani,2023,0,Genetic Programming and Evolvable Machines
 10.1023/a:1010024515191,n.m.,W. B. Langdon,2000,101,Genetic Programming and Evolvable Machines
-10.1007/s10710-016-9273-9,Genetic improvement of GPU software,William B. Langdon and Brian Yee Hong Lam and Marc Modat and Justyna Petke and Mark Harman,2017,21,Genetic Programming and Evolvable Machines
-10.1007/s10710-018-9338-z,Automated discovery of test statistics using genetic programming,Jason H. Moore and Randal S. Olson and Yong Chen and Moshe Sipper,2019,3,Genetic Programming and Evolvable Machines
+10.1007/s10710-015-9249-1,Grammar-based generation of variable-selection heuristics for constraint satisfaction problems,Alejandro Sosa-Ascencio and Gabriela Ochoa and Hugo Terashima-Marin and Santiago Enrique Conant-Pablos,2016,18,Genetic Programming and Evolvable Machines
+10.1007/s10710-016-9273-9,Genetic improvement of GPU software,William B. Langdon and Brian Yee Hong Lam and Marc Modat and Justyna Petke and Mark Harman,2017,22,Genetic Programming and Evolvable Machines
+10.1023/a:1025124423708,n.m.,Kosuke Imamura and Terence Soule and Robert B. Heckendorn and James A. Foster,2003,34,Genetic Programming and Evolvable Machines
+10.1007/s10710-010-9121-2,Semantically-based crossover in genetic programming: application to real-valued symbolic regression,Nguyen Quang Uy and Nguyen Xuan Hoai and Michael O’Neill and R. I. McKay and Edgar Galván-López,2011,178,Genetic Programming and Evolvable Machines
+10.1007/s10710-013-9200-2,Genetic programming: where meaning emerges from program code,Krzysztof Krawiec,2014,7,Genetic Programming and Evolvable Machines
+10.1007/s10710-023-09448-0,"Matchmaker, matchmaker, make me a match: geometric, variational, and evolutionary implications of criteria for tag affinity",Matthew Andres Moreno and Alexander Lalejini and Charles Ofria,2023,0,Genetic Programming and Evolvable Machines
 10.1023/a:1020984725014,n.m.,Krzysztof Krawiec,2002,122,Genetic Programming and Evolvable Machines
-10.1007/s10710-015-9241-9,A learning automata-based memetic algorithm,M. Rezapoor Mirsaleh and M. R. Meybodi,2015,10,Genetic Programming and Evolvable Machines
-10.1007/s10710-006-7003-4,Intelligent Bioinformatics: The Application of Artificial Intelligence Techniques to Bioinformatics Problems,Steven J. Barrett,2006,0,Genetic Programming and Evolvable Machines
-10.1007/s10710-015-9242-8,Controlling code growth by dynamically shaping the genotype size distribution,Marc-André Gardner and Christian Gagné and Marc Parizeau,2015,3,Genetic Programming and Evolvable Machines
-10.1007/s10710-005-2986-9,Molecular Computing,,2005,1,Genetic Programming and Evolvable Machines
+10.1007/s10710-023-09452-4,A comparison of an evolvable hardware controller with an artificial neural network used for evolving the gait of a hexapod robot,Fraser Borrett and Mark Beckerleg,2023,0,Genetic Programming and Evolvable Machines
+10.1007/s10710-018-9340-5,On the scalability of evolvable hardware architectures: comparison of systolic array and Cartesian genetic programming,Javier Mora and Rubén Salvador and Eduardo de la Torre,2019,6,Genetic Programming and Evolvable Machines
+10.1007/s10710-017-9312-1,Comparing three online evolvable hardware implementations of a classification system,Oscar Garnica and Kyrre Glette and Jim Torresen,2018,6,Genetic Programming and Evolvable Machines
+10.1007/s10710-020-09387-0,Benchmarking state-of-the-art symbolic regression algorithms,Jan Žegklitz and Petr Pošík,2021,17,Genetic Programming and Evolvable Machines
+10.1007/s10710-018-9338-z,Automated discovery of test statistics using genetic programming,Jason H. Moore and Randal S. Olson and Yong Chen and Moshe Sipper,2019,3,Genetic Programming and Evolvable Machines
 10.1007/s10710-007-9033-y,"Compositional evolution: the impact of sex, symbiosis and modularity on the gradualist framework of evolution",Róbert Ványi,2008,0,Genetic Programming and Evolvable Machines
-10.1007/s10710-017-9300-5,Optimizing agents with genetic programming: an evaluation of hyper-heuristics in dynamic real-time logistics,Rinde R. S. van Lon and Juergen Branke and Tom Holvoet,2018,18,Genetic Programming and Evolvable Machines
-10.1007/s10710-006-9013-7,Inverse multi-objective robust evolutionary design,Dudy Lim and Yew-Soon Ong and Yaochu Jin and Bernhard Sendhoff and Bu Sung Lee,2006,32,Genetic Programming and Evolvable Machines
-10.1007/s10710-021-09417-5,"Relationships between parent selection methods, looping constructs, and success rate in genetic programming",Anil Kumar Saini and Lee Spector,2021,0,Genetic Programming and Evolvable Machines
-10.1023/a:1017283000170,n.m.,,2000,1,Genetic Programming and Evolvable Machines
-10.1007/s10710-010-9107-0,Autonomous experimental design optimization of a flapping wing,Markus Olhofer and Dilyana Yankulova and Bernhard Sendhoff,2011,4,Genetic Programming and Evolvable Machines
-10.1007/s10710-017-9305-0,Cooperative evolutionary heterogeneous simulated annealing algorithm for google machine reassignment problem,Ayad Turky and Nasser R. Sabar and Andy Song,2018,5,Genetic Programming and Evolvable Machines
-10.1007/s10710-014-9227-z,Driving as a human: a track learning based adaptable architecture for a car racing controller,Jan Quadflieg and Mike Preuss and Günter Rudolph,2014,3,Genetic Programming and Evolvable Machines
-10.1007/s10710-017-9303-2,Software review: CGP-Library,Emerson Carlos Pedrino and Paulo Cesar Donizeti Paris and Denis Pereira de Lima and Valentin Obac Roda,2017,0,Genetic Programming and Evolvable Machines
-10.1007/s10710-020-09393-2,Fuzzy cognitive maps for decision-making in dynamic environments,Tomas Nachazel,2021,2,Genetic Programming and Evolvable Machines
-10.1007/s10710-013-9204-y,Wolfgang Banzhaf: Genetic programming and emergence,Peter A. Whigham,2014,1,Genetic Programming and Evolvable Machines
-10.1007/s10710-010-9123-0,"Erratum to: Dario Floreano and Claudio Mattiussi: Bio-inspired artificial intelligence: theories, methods, and technologies",Ivan Garibay,2011,0,Genetic Programming and Evolvable Machines
-10.1007/s10710-014-9238-9,A study on Koza’s performance measures,David F. Barrero and Bonifacio Castaño and María D. R-Moreno and David Camacho,2015,1,Genetic Programming and Evolvable Machines
-10.1007/s10710-007-9029-7,"Motility, mixing, and multicellularity",Cristian A. Solari and John O. Kessler and Raymond E. Goldstein,2007,17,Genetic Programming and Evolvable Machines
-10.1007/s10710-008-9056-z,Cyclic metamorphic memory for cellular bio-inspired electronic systems,M. Samie and E. Farjah and G. Dragffy,2008,4,Genetic Programming and Evolvable Machines
-10.1007/s10710-012-9161-x,A genetic programming approach to the evolution of brain–computer interfaces for 2-D mouse–pointer control,Riccardo Poli and Mathew Salvaris and Caterina Cinel,2012,2,Genetic Programming and Evolvable Machines
-10.1023/a:1020945110902,n.m.,Lee Spector,2002,1,Genetic Programming and Evolvable Machines
-10.1007/s10710-007-9049-3,Environmental effects on the coevolution of pursuit and evasion strategies,Joc Cing Tay and Cheun Hou Tng and Chee Siong Chan,2008,2,Genetic Programming and Evolvable Machines
-10.1007/s10710-012-9176-3,Improving analytical models of circular concrete columns with genetic programming polynomials,Hsing-Chih Tsai and Chan-Ping Pan,2013,3,Genetic Programming and Evolvable Machines
-10.1007/s10710-014-9223-3,Evolvability and robustness in artificial evolving systems: three perturbations,Lee Altenberg,2014,1,Genetic Programming and Evolvable Machines
-10.1007/s10710-006-9019-1,Evolutionary morphogenesis for multi-cellular systems,Daniel Roggen and Diego Federici and Dario Floreano,2007,26,Genetic Programming and Evolvable Machines
-10.1007/s10710-019-09342-8,Vector quantization using the improved differential evolution algorithm for image compression,Sayan Nag,2019,9,Genetic Programming and Evolvable Machines
-10.1007/s10710-022-09446-8,Benchmarking ensemble genetic programming with a linked list external memory on scalable partially observable tasks,Mihyar Al Masalma and Malcolm Heywood,2022,0,Genetic Programming and Evolvable Machines
-10.1007/s10710-009-9088-z,"Natalio Krasnogor, Steve Gustafson, David A. Pelta, and Jose L. Verdegay (eds): Systems self-assembly: multidisciplinary snapshots",Navneet Bhalla,2009,0,Genetic Programming and Evolvable Machines
-10.1023/a:1017427619473,n.m.,,2002,0,Genetic Programming and Evolvable Machines
-10.1007/s10710-013-9199-4,Emergence in genetic programming,Anikó Ekárt,2014,1,Genetic Programming and Evolvable Machines
-10.1007/s10710-008-9077-7,Editorial introduction,Lee Spector,2009,0,Genetic Programming and Evolvable Machines
-10.1007/s10710-017-9315-y,Evolution of shared grammars for describing simulated spatial scenes with grammatical evolution,Jack Mario Mingo and Ricardo Aler,2018,1,Genetic Programming and Evolvable Machines
-10.1007/s10710-009-9095-0,"Michael Affenzeller, Stefan Wagner, Stephan Winkler and Andreas Beham: Genetic algorithms and genetic programming modern concepts and practical applications",Gisele L. Pappa,2010,0,Genetic Programming and Evolvable Machines
-10.1023/a:1010022700219,n.m.,Garrison W. Greenwood,2001,1,Genetic Programming and Evolvable Machines
-10.1007/s10710-006-7008-z,Introducing lateral thinking in search engines,Yann Landrin-Schweitzer and Pierre Collet and Evelyne Lutton,2006,8,Genetic Programming and Evolvable Machines
-10.1023/a:1010066515240,n.m.,C. R. Stephens and J. Mora Vargas,2001,6,Genetic Programming and Evolvable Machines
-10.1007/s10710-013-9208-7,Anne Auger and Benjamin Doerr (eds): Theory of randomized search heuristics: foundations and recent developments,Elena Popovici,2014,2,Genetic Programming and Evolvable Machines
-10.1023/a:1011953410319,n.m.,Keith L. Downing,2001,19,Genetic Programming and Evolvable Machines
-10.1007/s10710-008-9058-x,Introduction to Evolvable Hardware: A Practical Guide for Designing Self-Adaptive Systems,Antonio Mesquita,2008,1,Genetic Programming and Evolvable Machines
 10.1007/s10710-010-9119-9,"Gisele L. Pappa, Alex Freitas: Automating the design of data mining algorithms, an evolutionary computation approach",John Woodward,2011,0,Genetic Programming and Evolvable Machines
-10.1007/s10710-005-7581-6,Book Review: Evolutionary Computation in Bioinformatics,Michael L. Raymer,2005,1,Genetic Programming and Evolvable Machines
-10.1007/s10710-006-7015-0,Introduction,Wolfgang Banzhaf,2006,0,Genetic Programming and Evolvable Machines
+10.1007/s10710-008-9058-x,Introduction to Evolvable Hardware: A Practical Guide for Designing Self-Adaptive Systems,Antonio Mesquita,2008,1,Genetic Programming and Evolvable Machines
+10.1007/s10710-009-9088-z,"Natalio Krasnogor, Steve Gustafson, David A. Pelta, and Jose L. Verdegay (eds): Systems self-assembly: multidisciplinary snapshots",Navneet Bhalla,2009,0,Genetic Programming and Evolvable Machines
+10.1007/s10710-006-7008-z,Introducing lateral thinking in search engines,Yann Landrin-Schweitzer and Pierre Collet and Evelyne Lutton,2006,8,Genetic Programming and Evolvable Machines
+10.1023/a:1017427619473,n.m.,,2002,0,Genetic Programming and Evolvable Machines
+10.1007/s10710-019-09364-2,Automatic programming: The open issue?,Michael O’Neill and Lee Spector,2020,11,Genetic Programming and Evolvable Machines
+10.1007/s10710-011-9155-0,Editorial introduction,Lee Spector,2012,0,Genetic Programming and Evolvable Machines
+10.1007/s10710-006-7003-4,Intelligent Bioinformatics: The Application of Artificial Intelligence Techniques to Bioinformatics Problems,Steven J. Barrett,2006,0,Genetic Programming and Evolvable Machines
+10.1007/s10710-005-2986-9,Molecular Computing,,2005,1,Genetic Programming and Evolvable Machines
 10.1007/s10710-017-9311-2,"Gustavo Olague: Evolutionary computer vision, the first footprints",Evelyne Lutton,2017,1,Genetic Programming and Evolvable Machines
 10.1007/s10710-020-09390-5,Stock selection heuristics for performing frequent intraday trading with genetic programming,Alexander Loginov and Malcolm Heywood and Garnett Wilson,2021,1,Genetic Programming and Evolvable Machines
-10.1007/s10710-020-09385-2,Special issue on highlights of genetic programming 2019 events,Ting Hu and Miguel Nicolau and Lukas Sekanina,2020,0,Genetic Programming and Evolvable Machines
-10.1023/b:genp.0000023689.70987.6a,Evolutionary Adaptation of Nonlinear Dynamical Systems in Computational Neuroscience,Stefan Schneider and Christian Igel and Christian Klaes and Hubert R. Dinse and Jan C. Wiemer,2004,6,Genetic Programming and Evolvable Machines
-10.1007/s10710-007-9052-8,Sporadic model building for efficiency enhancement of the hierarchical BOA,Martin Pelikan and Kumara Sastry and David E. Goldberg,2008,22,Genetic Programming and Evolvable Machines
-10.1023/a:1020941026832,n.m.,Daryl Essam,2002,2,Genetic Programming and Evolvable Machines
-10.1007/s10710-011-9152-3,Evolving controllers for high-level applications on a service robot: a case study with exhibition visitor flow control,Alex Fukunaga and Hideru Hiruma and Kazuki Komiya and Hitoshi Iba,2012,6,Genetic Programming and Evolvable Machines
-10.1007/s10710-013-9193-x,Thomas Jansen: Analyzing Evolutionary Algorithms: The Computer Science Perspective,Andrew M. Sutton,2013,1,Genetic Programming and Evolvable Machines
-10.1007/s10710-011-9138-1,Introduction: special issue on evolvable hardware challenges,Pauline C. Haddow,2011,0,Genetic Programming and Evolvable Machines
-10.1007/s10710-007-9046-6,Evolutionary dynamics for the spatial Moran process,P. A. Whigham and Grant Dick,2008,15,Genetic Programming and Evolvable Machines
-10.1007/s10710-016-9267-7,Gusz Eiben and Jim Smith (Eds): Introduction to evolutionary computing,Jeffrey L. Popyack,2016,0,Genetic Programming and Evolvable Machines
-10.1007/s10710-008-9073-y,"Riccardo Poli, William B. Langdon, Nicholas F. McPhee: A Field Guide to Genetic Programming",Michael O’Neill,2009,15,Genetic Programming and Evolvable Machines
-10.1007/s10710-016-9284-6,Paul Rendell: Turing machine universality of the Game of Life,Moshe Sipper,2017,1,Genetic Programming and Evolvable Machines
-10.1007/s10710-016-9271-y,"Wolfgang Banzhaf and Lidia Yamamoto: Artificial Chemistries, MIT Press, 2015",Kyle I. S. Harrington,2016,0,Genetic Programming and Evolvable Machines
+10.1007/s10710-011-9153-2,"Knowledge mining sensory evaluation data: genetic programming, statistical techniques, and swarm optimization",Kalyan Veeramachaneni and Ekaterina Vladislavleva and Una-May O’Reilly,2012,7,Genetic Programming and Evolvable Machines
+10.1023/a:1011949326249,n.m.,Nikolay I. Nikolaev and Hitoshi Iba,2001,16,Genetic Programming and Evolvable Machines
+10.1023/a:1017283000170,n.m.,,2000,1,Genetic Programming and Evolvable Machines
+10.1007/s10710-017-9305-0,Cooperative evolutionary heterogeneous simulated annealing algorithm for google machine reassignment problem,Ayad Turky and Nasser R. Sabar and Andy Song,2018,5,Genetic Programming and Evolvable Machines
+10.1007/s10710-010-9107-0,Autonomous experimental design optimization of a flapping wing,Markus Olhofer and Dilyana Yankulova and Bernhard Sendhoff,2011,4,Genetic Programming and Evolvable Machines
+10.1007/s10710-017-9303-2,Software review: CGP-Library,Emerson Carlos Pedrino and Paulo Cesar Donizeti Paris and Denis Pereira de Lima and Valentin Obac Roda,2017,0,Genetic Programming and Evolvable Machines
+10.1007/s10710-015-9241-9,A learning automata-based memetic algorithm,M. Rezapoor Mirsaleh and M. R. Meybodi,2015,10,Genetic Programming and Evolvable Machines
+10.1007/s10710-015-9242-8,Controlling code growth by dynamically shaping the genotype size distribution,Marc-André Gardner and Christian Gagné and Marc Parizeau,2015,3,Genetic Programming and Evolvable Machines
+10.1023/a:1010022700219,n.m.,Garrison W. Greenwood,2001,1,Genetic Programming and Evolvable Machines
+10.1007/s10710-013-9204-y,Wolfgang Banzhaf: Genetic programming and emergence,Peter A. Whigham,2014,1,Genetic Programming and Evolvable Machines
+10.1007/s10710-008-9056-z,Cyclic metamorphic memory for cellular bio-inspired electronic systems,M. Samie and E. Farjah and G. Dragffy,2008,4,Genetic Programming and Evolvable Machines
+10.1023/a:1015583926171,n.m.,Michael A. Lones and Andy M. Tyrrell,2002,23,Genetic Programming and Evolvable Machines
+10.1007/s10710-017-9315-y,Evolution of shared grammars for describing simulated spatial scenes with grammatical evolution,Jack Mario Mingo and Ricardo Aler,2018,1,Genetic Programming and Evolvable Machines
+10.1007/s10710-014-9223-3,Evolvability and robustness in artificial evolving systems: three perturbations,Lee Altenberg,2014,1,Genetic Programming and Evolvable Machines
+10.1007/s10710-012-9176-3,Improving analytical models of circular concrete columns with genetic programming polynomials,Hsing-Chih Tsai and Chan-Ping Pan,2013,3,Genetic Programming and Evolvable Machines
+10.1007/s10710-013-9208-7,Anne Auger and Benjamin Doerr (eds): Theory of randomized search heuristics: foundations and recent developments,Elena Popovici,2014,2,Genetic Programming and Evolvable Machines
+10.1023/a:1010066515240,n.m.,C. R. Stephens and J. Mora Vargas,2001,6,Genetic Programming and Evolvable Machines
+10.1007/s10710-010-9123-0,"Erratum to: Dario Floreano and Claudio Mattiussi: Bio-inspired artificial intelligence: theories, methods, and technologies",Ivan Garibay,2011,0,Genetic Programming and Evolvable Machines
 10.1007/s10710-020-09386-1,GP+EM 20th anniversary editorial,Nicholas Freitag McPhee and William B. Langdon,2020,0,Genetic Programming and Evolvable Machines
-10.1007/s10710-016-9283-7,Krzysztof Krawiec: Behavioral program synthesis with genetic programming,Raja Muhammad Atif Azad,2017,0,Genetic Programming and Evolvable Machines
-10.1007/s10710-022-09429-9,Complexity and aesthetics in generative and evolutionary art,Jon McCormack and Camilo Cruz Gambardella,2022,0,Genetic Programming and Evolvable Machines
-10.1023/a:1012930922211,n.m.,Timothy G.W. Gordon,2001,2,Genetic Programming and Evolvable Machines
-10.1007/s10710-006-9007-5,Shortcomings with using edge encodings to represent graph structures,Gregory S. Hornby,2006,3,Genetic Programming and Evolvable Machines
-10.1007/s10710-019-09352-6,GP-based methods for domain adaptation: using brain decoding across subjects as a test-case,Roberto Santana and Luis Marti and Mengjie Zhang,2019,4,Genetic Programming and Evolvable Machines
-10.1007/s10710-007-9030-1,A note on the variance of rank-based selection strategies for genetic algorithms and genetic programming,Artem Sokolov and Darrell Whitley and Andre’ da Motta Salles Barreto,2007,14,Genetic Programming and Evolvable Machines
-10.1007/s10710-011-9155-0,Editorial introduction,Lee Spector,2012,0,Genetic Programming and Evolvable Machines
-10.1007/s10710-017-9292-1,"Evolutionary algorithms and synthetic biology for directed evolution: commentary on “on the mapping of genotype to phenotype in evolutionary algorithms” by Peter A. Whigham, Grant Dick, and James Maclaurin",Douglas B. Kell,2017,3,Genetic Programming and Evolvable Machines
 10.1007/s10710-006-9021-7,"Cellular Automaton Modeling of Biological Pattern Formation: Characterization, Applications, and Analysis Authors: Andreas Deutsch and Sabine Dormann, Birkhäuser, 2005, XXVI, 334 p., 131 illus., Hardcover. ISBN:0-8176-4281-1, List Price: $89.95",Torbjörn Lundh,2007,4,Genetic Programming and Evolvable Machines
-10.1023/a:1021821009420,n.m.,Peter F. Stadler and Christoph Flamm,2003,18,Genetic Programming and Evolvable Machines
-10.1023/a:1010066330916,n.m.,Julian F. Miller and Dominic Job and Vesselin K. Vassilev,2000,72,Genetic Programming and Evolvable Machines
-10.1007/s10710-005-7579-0,Book Review: Genetic Programming IV: Routine Human-Competitive Machine Intelligence,Cyril Fonlupt,2005,3,Genetic Programming and Evolvable Machines
-10.1007/s10710-022-09427-x,Evolving cellular automata schemes for protein folding modeling using the Rosetta atomic representation,Daniel Varela and José Santos,2022,0,Genetic Programming and Evolvable Machines
-10.1007/s10710-009-9090-5,A grid-enabled asynchronous metamodel-assisted evolutionary algorithm for aerodynamic optimization,V. G. Asouti and I. C. Kampolis and K. C. Giannakoglou,2009,18,Genetic Programming and Evolvable Machines
-10.1007/s10710-021-09416-6,Semantically-oriented mutation operator in cartesian genetic programming for evolutionary circuit design,David Hodan and Vojtech Mrazek and Zdenek Vasicek,2021,2,Genetic Programming and Evolvable Machines
+10.1007/s10710-008-9077-7,Editorial introduction,Lee Spector,2009,0,Genetic Programming and Evolvable Machines
+10.1007/s10710-012-9161-x,A genetic programming approach to the evolution of brain–computer interfaces for 2-D mouse–pointer control,Riccardo Poli and Mathew Salvaris and Caterina Cinel,2012,2,Genetic Programming and Evolvable Machines
+10.1007/s10710-020-09385-2,Special issue on highlights of genetic programming 2019 events,Ting Hu and Miguel Nicolau and Lukas Sekanina,2020,0,Genetic Programming and Evolvable Machines
 10.1007/s10710-013-9189-6,A methodology for user directed search in evolutionary design,Jonathan Byrne and Erik Hemberg and Michael O’Neill and Anthony Brabazon,2013,4,Genetic Programming and Evolvable Machines
-10.1007/s10710-017-9313-0,Hod Lipson and Melba Kurman: Driverless: intelligent cars and the road ahead,Christine Zarges,2018,1,Genetic Programming and Evolvable Machines
-10.1007/s10710-020-09376-3,EA-based resynthesis: an efficient tool for optimization of digital circuits,Jitka Kocnova and Zdenek Vasicek,2020,3,Genetic Programming and Evolvable Machines
-10.1007/s10710-015-9257-1,Evolutionary design of complex approximate combinational circuits,Zdenek Vasicek and Lukas Sekanina,2016,26,Genetic Programming and Evolvable Machines
+10.1007/s10710-022-09429-9,Complexity and aesthetics in generative and evolutionary art,Jon McCormack and Camilo Cruz Gambardella,2022,0,Genetic Programming and Evolvable Machines
+10.1007/s10710-011-9152-3,Evolving controllers for high-level applications on a service robot: a case study with exhibition visitor flow control,Alex Fukunaga and Hideru Hiruma and Kazuki Komiya and Hitoshi Iba,2012,6,Genetic Programming and Evolvable Machines
+10.1023/a:1020941026832,n.m.,Daryl Essam,2002,2,Genetic Programming and Evolvable Machines
+10.1023/b:genp.0000023689.70987.6a,Evolutionary Adaptation of Nonlinear Dynamical Systems in Computational Neuroscience,Stefan Schneider and Christian Igel and Christian Klaes and Hubert R. Dinse and Jan C. Wiemer,2004,6,Genetic Programming and Evolvable Machines
+10.1007/s10710-009-9095-0,"Michael Affenzeller, Stefan Wagner, Stephan Winkler and Andreas Beham: Genetic algorithms and genetic programming modern concepts and practical applications",Gisele L. Pappa,2010,0,Genetic Programming and Evolvable Machines
+10.1007/s10710-017-9300-5,Optimizing agents with genetic programming: an evaluation of hyper-heuristics in dynamic real-time logistics,Rinde R. S. van Lon and Juergen Branke and Tom Holvoet,2018,18,Genetic Programming and Evolvable Machines
+10.1007/s10710-006-9013-7,Inverse multi-objective robust evolutionary design,Dudy Lim and Yew-Soon Ong and Yaochu Jin and Bernhard Sendhoff and Bu Sung Lee,2006,32,Genetic Programming and Evolvable Machines
 10.1007/s10710-014-9228-y,Gene regulated car driving: using a gene regulatory network to drive a virtual car,Stéphane Sanchez and Sylvain Cussat-Blanc,2014,12,Genetic Programming and Evolvable Machines
-10.1007/s10710-012-9166-5,Evolving team behaviors with specialization,G. S. Nitschke and A. E. Eiben and M. C. Schut,2012,18,Genetic Programming and Evolvable Machines
-10.1007/s10710-007-9041-y,An evolutionary approach to cancer chemotherapy scheduling,Gabriela Ochoa and Minaya Villasana and Edmund K. Burke,2007,15,Genetic Programming and Evolvable Machines
-10.1007/s10710-005-7618-x,"Brains, Bodies, and Beyond: Competitive Co-Evolution of Robot Controllers, Morphologies and Environments",Gunnar Buason and Nicklas Bergfeldt and Tom Ziemke,2005,31,Genetic Programming and Evolvable Machines
+10.1007/s10710-005-7581-6,Book Review: Evolutionary Computation in Bioinformatics,Michael L. Raymer,2005,1,Genetic Programming and Evolvable Machines
+10.1007/s10710-006-7015-0,Introduction,Wolfgang Banzhaf,2006,0,Genetic Programming and Evolvable Machines
+10.1007/s10710-005-7579-0,Book Review: Genetic Programming IV: Routine Human-Competitive Machine Intelligence,Cyril Fonlupt,2005,3,Genetic Programming and Evolvable Machines
+10.1007/s10710-006-9019-1,Evolutionary morphogenesis for multi-cellular systems,Daniel Roggen and Diego Federici and Dario Floreano,2007,26,Genetic Programming and Evolvable Machines
 10.1007/s10710-014-9233-1,Introducing a cross platform open source Cartesian Genetic Programming library,Andrew James Turner and Julian Francis Miller,2015,28,Genetic Programming and Evolvable Machines
 10.1007/s10710-017-9293-0,"Distilling the salient features of natural systems: Commentary on “On the mapping of genotype to phenotype in evolutionary algorithms” by Whigham, Dick and Maclaurin",Michael O’Neill and Miguel Nicolau,2017,3,Genetic Programming and Evolvable Machines
+10.1007/s10710-011-9138-1,Introduction: special issue on evolvable hardware challenges,Pauline C. Haddow,2011,0,Genetic Programming and Evolvable Machines
+10.1007/s10710-013-9193-x,Thomas Jansen: Analyzing Evolutionary Algorithms: The Computer Science Perspective,Andrew M. Sutton,2013,1,Genetic Programming and Evolvable Machines
+10.1007/s10710-016-9267-7,Gusz Eiben and Jim Smith (Eds): Introduction to evolutionary computing,Jeffrey L. Popyack,2016,0,Genetic Programming and Evolvable Machines
+10.1023/a:1020945110902,n.m.,Lee Spector,2002,1,Genetic Programming and Evolvable Machines
+10.1007/s10710-013-9199-4,Emergence in genetic programming,Anikó Ekárt,2014,1,Genetic Programming and Evolvable Machines
+10.1007/s10710-016-9283-7,Krzysztof Krawiec: Behavioral program synthesis with genetic programming,Raja Muhammad Atif Azad,2017,0,Genetic Programming and Evolvable Machines
+10.1007/s10710-007-9049-3,Environmental effects on the coevolution of pursuit and evasion strategies,Joc Cing Tay and Cheun Hou Tng and Chee Siong Chan,2008,2,Genetic Programming and Evolvable Machines
+10.1007/s10710-016-9271-y,"Wolfgang Banzhaf and Lidia Yamamoto: Artificial Chemistries, MIT Press, 2015",Kyle I. S. Harrington,2016,0,Genetic Programming and Evolvable Machines
+10.1007/s10710-016-9284-6,Paul Rendell: Turing machine universality of the Game of Life,Moshe Sipper,2017,1,Genetic Programming and Evolvable Machines
 10.1023/a:1025176407779,n.m.,Matthew Streeter and Lee A. Becker,2003,12,Genetic Programming and Evolvable Machines
 10.1007/s10710-012-9160-y,The Regulatory Network Computational Device,Rui L. Lopes and Ernesto Costa,2012,10,Genetic Programming and Evolvable Machines
 10.1007/s10710-009-9086-1,The identification and exploitation of dormancy in genetic programming,David Jackson,2010,6,Genetic Programming and Evolvable Machines
-10.1023/a:1015583926171,n.m.,Michael A. Lones and Andy M. Tyrrell,2002,23,Genetic Programming and Evolvable Machines
-10.1007/s10710-019-09360-6,Cartesian genetic programming: its status and future,Julian Francis Miller,2020,29,Genetic Programming and Evolvable Machines
-10.1007/s10710-020-09383-4,Learning feature spaces for regression with genetic programming,William La Cava and Jason H. Moore,2020,13,Genetic Programming and Evolvable Machines
-10.1007/s10710-006-9003-9,Using genetic algorithms for early schedulability analysis and stress testing in real-time systems,Lionel C. Briand and Yvan Labiche and Marwa Shousha,2006,49,Genetic Programming and Evolvable Machines
-10.1007/s10710-011-9153-2,"Knowledge mining sensory evaluation data: genetic programming, statistical techniques, and swarm optimization",Kalyan Veeramachaneni and Ekaterina Vladislavleva and Una-May O’Reilly,2012,7,Genetic Programming and Evolvable Machines
-10.1007/s10710-009-9082-5,Semantic analysis of program initialisation in genetic programming,Lawrence Beadle and Colin G. Johnson,2009,47,Genetic Programming and Evolvable Machines
-10.1007/s10710-010-9110-5,Theoretical results in genetic programming: the next ten years?,Riccardo Poli and Leonardo Vanneschi and William B. Langdon and Nicholas Freitag McPhee,2010,39,Genetic Programming and Evolvable Machines
-10.1007/s10710-021-09401-z,TPOT-NN: augmenting tree-based automated machine learning with neural network estimators,Joseph D. Romano and Trang T. Le and Weixuan Fu and Jason H. Moore,2021,6,Genetic Programming and Evolvable Machines
+10.1007/s10710-014-9227-z,Driving as a human: a track learning based adaptable architecture for a car racing controller,Jan Quadflieg and Mike Preuss and Günter Rudolph,2014,3,Genetic Programming and Evolvable Machines
+10.1007/s10710-015-9257-1,Evolutionary design of complex approximate combinational circuits,Zdenek Vasicek and Lukas Sekanina,2016,26,Genetic Programming and Evolvable Machines
+10.1007/s10710-020-09376-3,EA-based resynthesis: an efficient tool for optimization of digital circuits,Jitka Kocnova and Zdenek Vasicek,2020,3,Genetic Programming and Evolvable Machines
+10.1007/s10710-007-9041-y,An evolutionary approach to cancer chemotherapy scheduling,Gabriela Ochoa and Minaya Villasana and Edmund K. Burke,2007,15,Genetic Programming and Evolvable Machines
+10.1007/s10710-005-7618-x,"Brains, Bodies, and Beyond: Competitive Co-Evolution of Robot Controllers, Morphologies and Environments",Gunnar Buason and Nicklas Bergfeldt and Tom Ziemke,2005,31,Genetic Programming and Evolvable Machines
+10.1007/s10710-007-9046-6,Evolutionary dynamics for the spatial Moran process,P. A. Whigham and Grant Dick,2008,15,Genetic Programming and Evolvable Machines
+10.1007/s10710-022-09427-x,Evolving cellular automata schemes for protein folding modeling using the Rosetta atomic representation,Daniel Varela and José Santos,2022,0,Genetic Programming and Evolvable Machines
+10.1023/a:1010066330916,n.m.,Julian F. Miller and Dominic Job and Vesselin K. Vassilev,2000,72,Genetic Programming and Evolvable Machines
+10.1007/s10710-009-9090-5,A grid-enabled asynchronous metamodel-assisted evolutionary algorithm for aerodynamic optimization,V. G. Asouti and I. C. Kampolis and K. C. Giannakoglou,2009,18,Genetic Programming and Evolvable Machines
+10.1007/s10710-007-9030-1,A note on the variance of rank-based selection strategies for genetic algorithms and genetic programming,Artem Sokolov and Darrell Whitley and Andre’ da Motta Salles Barreto,2007,14,Genetic Programming and Evolvable Machines
+10.1007/s10710-017-9313-0,Hod Lipson and Melba Kurman: Driverless: intelligent cars and the road ahead,Christine Zarges,2018,1,Genetic Programming and Evolvable Machines
+10.1007/s10710-007-9029-7,"Motility, mixing, and multicellularity",Cristian A. Solari and John O. Kessler and Raymond E. Goldstein,2007,17,Genetic Programming and Evolvable Machines
+10.1007/s10710-014-9238-9,A study on Koza’s performance measures,David F. Barrero and Bonifacio Castaño and María D. R-Moreno and David Camacho,2015,1,Genetic Programming and Evolvable Machines
+10.1007/s10710-022-09446-8,Benchmarking ensemble genetic programming with a linked list external memory on scalable partially observable tasks,Mihyar Al Masalma and Malcolm Heywood,2022,0,Genetic Programming and Evolvable Machines
+10.1007/s10710-019-09352-6,GP-based methods for domain adaptation: using brain decoding across subjects as a test-case,Roberto Santana and Luis Marti and Mengjie Zhang,2019,4,Genetic Programming and Evolvable Machines
 10.1007/s10710-005-6165-9,Genetic Programming and Evolvable Machines: Five Years of Reviews,W. B. Langdon and S. Gustafson,2005,9,Genetic Programming and Evolvable Machines
 10.1007/s10710-006-7012-3,Morphological algorithm design for binary images using genetic programming,Marcos I. Quintana and Riccardo Poli and Ela Claridge,2006,34,Genetic Programming and Evolvable Machines
+10.1023/a:1021821009420,n.m.,Peter F. Stadler and Christoph Flamm,2003,18,Genetic Programming and Evolvable Machines
 10.1007/s10710-006-7013-2,Coevolution and the Red Queen effect shape virtual plants,Marc Ebner,2006,11,Genetic Programming and Evolvable Machines
 10.1007/s10710-009-9091-4,Hybrid of genetic algorithm and local search to solve MAX-SAT problem using nVidia CUDA framework,Asim Munawar and Mohamed Wahib and Masaharu Munetomo and Kiyoshi Akama,2009,39,Genetic Programming and Evolvable Machines
+10.1007/s10710-020-09393-2,Fuzzy cognitive maps for decision-making in dynamic environments,Tomas Nachazel,2021,2,Genetic Programming and Evolvable Machines
+10.1007/s10710-012-9166-5,Evolving team behaviors with specialization,G. S. Nitschke and A. E. Eiben and M. C. Schut,2012,18,Genetic Programming and Evolvable Machines
 10.1023/b:genp.0000017053.10351.dc,"Resource Review: Three Open Source Systems for Evolving Programs–Lilgp, ECJ and Grammatical Evolution",G. C. Wilson and A. Mc Intyre and M. I. Heywood,2004,28,Genetic Programming and Evolvable Machines
-10.1023/a:1011949326249,n.m.,Nikolay I. Nikolaev and Hitoshi Iba,2001,16,Genetic Programming and Evolvable Machines
+10.1007/s10710-019-09342-8,Vector quantization using the improved differential evolution algorithm for image compression,Sayan Nag,2019,9,Genetic Programming and Evolvable Machines
+10.1023/a:1012930922211,n.m.,Timothy G.W. Gordon,2001,2,Genetic Programming and Evolvable Machines
+10.1007/s10710-006-9007-5,Shortcomings with using edge encodings to represent graph structures,Gregory S. Hornby,2006,3,Genetic Programming and Evolvable Machines
+10.1007/s10710-007-9052-8,Sporadic model building for efficiency enhancement of the hierarchical BOA,Martin Pelikan and Kumara Sastry and David E. Goldberg,2008,22,Genetic Programming and Evolvable Machines
+10.1023/a:1011953410319,n.m.,Keith L. Downing,2001,19,Genetic Programming and Evolvable Machines
+10.1007/s10710-020-09383-4,Learning feature spaces for regression with genetic programming,William La Cava and Jason H. Moore,2020,13,Genetic Programming and Evolvable Machines
+10.1007/s10710-008-9073-y,"Riccardo Poli, William B. Langdon, Nicholas F. McPhee: A Field Guide to Genetic Programming",Michael O’Neill,2009,15,Genetic Programming and Evolvable Machines
+10.1007/s10710-009-9082-5,Semantic analysis of program initialisation in genetic programming,Lawrence Beadle and Colin G. Johnson,2009,47,Genetic Programming and Evolvable Machines
+10.1007/s10710-021-09401-z,TPOT-NN: augmenting tree-based automated machine learning with neural network estimators,Joseph D. Romano and Trang T. Le and Weixuan Fu and Jason H. Moore,2021,6,Genetic Programming and Evolvable Machines
+10.1007/s10710-010-9110-5,Theoretical results in genetic programming: the next ten years?,Riccardo Poli and Leonardo Vanneschi and William B. Langdon and Nicholas Freitag McPhee,2010,39,Genetic Programming and Evolvable Machines
+10.1007/s10710-021-09416-6,Semantically-oriented mutation operator in cartesian genetic programming for evolutionary circuit design,David Hodan and Vojtech Mrazek and Zdenek Vasicek,2021,3,Genetic Programming and Evolvable Machines
+10.1007/s10710-021-09417-5,"Relationships between parent selection methods, looping constructs, and success rate in genetic programming",Anil Kumar Saini and Lee Spector,2021,1,Genetic Programming and Evolvable Machines
+10.1007/s10710-019-09360-6,Cartesian genetic programming: its status and future,Julian Francis Miller,2020,33,Genetic Programming and Evolvable Machines
+10.1007/s10710-017-9292-1,"Evolutionary algorithms and synthetic biology for directed evolution: commentary on “on the mapping of genotype to phenotype in evolutionary algorithms” by Peter A. Whigham, Grant Dick, and James Maclaurin",Douglas B. Kell,2017,4,Genetic Programming and Evolvable Machines
+10.1007/s10710-006-9003-9,Using genetic algorithms for early schedulability analysis and stress testing in real-time systems,Lionel C. Briand and Yvan Labiche and Marwa Shousha,2006,49,Genetic Programming and Evolvable Machines
 10.1007/s10710-018-9341-4,Software review: DEAP (Distributed Evolutionary Algorithm in Python) library,Jinhan Kim and Shin Yoo,2019,12,Genetic Programming and Evolvable Machines
-10.1007/s10710-012-9177-2,Better GP benchmarks: community survey results and proposals,David R. White and James McDermott and Mauro Castelli and Luca Manzoni and Brian W. Goldman and Gabriel Kronberger and Wojciech Jaśkowski and Una-May O’Reilly and Sean Luke,2013,155,Genetic Programming and Evolvable Machines
-10.1007/s10710-019-09364-2,Automatic programming: The open issue?,Michael O’Neill and Lee Spector,2020,11,Genetic Programming and Evolvable Machines
 10.1007/s10710-005-2988-7,Genetic Programming with a Genetic Algorithm for Feature Construction and Selection,Matthew G. Smith and Larry Bull,2005,93,Genetic Programming and Evolvable Machines
-10.1007/s10710-017-9314-z,"Ian Goodfellow, Yoshua Bengio, and Aaron Courville: Deep learning",Jeff Heaton,2018,140,Genetic Programming and Evolvable Machines
+10.1007/s10710-017-9314-z,"Ian Goodfellow, Yoshua Bengio, and Aaron Courville: Deep learning",Jeff Heaton,2018,143,Genetic Programming and Evolvable Machines
+10.1007/s10710-012-9177-2,Better GP benchmarks: community survey results and proposals,David R. White and James McDermott and Mauro Castelli and Luca Manzoni and Brian W. Goldman and Gabriel Kronberger and Wojciech Jaśkowski and Una-May O’Reilly and Sean Luke,2013,157,Genetic Programming and Evolvable Machines
 10.1007/s10710-008-9070-1,"Husbands, Holland, and Wheeler (eds): Review of the book “The Mechanical Mind in History”",Pierre Collet,2009,0,Genetic Programming and Evolvable Machines
 10.1007/s10710-013-9182-0,Introducing artificial evolution into peer-to-peer networks with the distributed remodeling framework,Michele Amoretti,2013,1,Genetic Programming and Evolvable Machines
 10.1007/s10710-020-09384-3,Acknowledgment to reviewers (2019),Lee Spector,2020,0,Genetic Programming and Evolvable Machines
-10.1007/s10710-007-9044-8,Stochastic optimization of a biologically plausible spino-neuromuscular system model,Stanley Gotshall and Kathy Browder and Jessica Sampson and Terence Soule and Richard Wells,2007,2,Genetic Programming and Evolvable Machines
-10.1023/a:1011590227934,n.m.,W. B. Langdon,2001,3,Genetic Programming and Evolvable Machines
+10.1007/s10710-019-09355-3,A journey among Java neutral program variants,Nicolas Harrand and Simon Allier and Marcelino Rodriguez-Cancio and Martin Monperrus and Benoit Baudry,2019,16,Genetic Programming and Evolvable Machines
+10.1007/s10710-015-9247-3,Software review: the KNIME workflow environment and its applications in genetic programming and machine learning,Steve O’Hagan and Douglas B. Kell,2015,30,Genetic Programming and Evolvable Machines
+10.1007/s10710-014-9224-2,Evolving Robocode tanks for Evo Robocode,Robin Harper,2014,19,Genetic Programming and Evolvable Machines
+10.1023/a:1021808625350,n.m.,Wolfgang Banzhaf,2003,0,Genetic Programming and Evolvable Machines
+10.1007/s10710-015-9252-6,Progress properties and fitness bounds for geometric semantic search operators,Tomasz P. Pawlak and Krzysztof Krawiec,2016,9,Genetic Programming and Evolvable Machines
+10.1023/b:genp.0000023687.41210.d7,Self Generating Metaheuristics in Bioinformatics: The Proteins Structure Comparison Case,N. Krasnogor,2004,47,Genetic Programming and Evolvable Machines
 10.1007/s10710-010-9116-z,Justin Lee: Morphogenetic Evolvable Hardware,Martin A. Trefzer,2011,0,Genetic Programming and Evolvable Machines
+10.1007/s10710-016-9277-5,Recursion in tree-based genetic programming,Alexandros Agapitos and Michael O’Neill and Ahmed Kattan and Simon M. Lucas,2017,4,Genetic Programming and Evolvable Machines
 10.1007/s10710-013-9207-8,Response to comments on “Genetic Programming and Emergence”,Wolfgang Banzhaf,2014,0,Genetic Programming and Evolvable Machines
 10.1007/s10710-022-09436-w,A novel tree-based representation for evolving analog circuits and its application to memristor-based pulse generation circuit,Xinming Shi and Leandro L. Minku and Xin Yao,2022,0,Genetic Programming and Evolvable Machines
 10.1007/s10710-015-9250-8,Kenneth O. Stanley and Joel Lehman: Why greatness cannot be planned: the myth of the objective,Leonardo Trujillo,2015,0,Genetic Programming and Evolvable Machines
@@ -218,22 +225,16 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1023/a:1011564616547,n.m.,Alex A. Freitas,2001,3,Genetic Programming and Evolvable Machines
 10.1007/s10710-008-9068-8,"Tina Yu, David Davis, Cem Baydar, Rajkumar Roy (eds): Evolutionary Computation in Practice: Studies in Computational Intelligence",Larry M. Deschaine,2008,1,Genetic Programming and Evolvable Machines
 10.1007/s10710-019-09372-2,Juan C. Burguillo: Self-organizing coalitions for managing complexity,B. Ombuki-Berman,2020,0,Genetic Programming and Evolvable Machines
-10.1007/s10710-013-9187-8,Aesthetic 3D model evolution,Steve Bergen and Brian J. Ross,2013,12,Genetic Programming and Evolvable Machines
 10.1023/b:genp.0000023710.47388.8b,Editorial Introduction,Wolfgang Banzhaf and James Foster,2004,0,Genetic Programming and Evolvable Machines
-10.1007/s10710-005-2990-0,GP-Gammon: Genetically Programming Backgammon Players,Yaniv Azaria and Moshe Sipper,2005,29,Genetic Programming and Evolvable Machines
 10.1007/s10710-018-9319-2,Editorial introduction,Lee Spector,2018,0,Genetic Programming and Evolvable Machines
 10.1007/s10710-014-9226-0,Special issue on GECCO competitions,Daniele Loiacono and Moshe Sipper,2014,0,Genetic Programming and Evolvable Machines
 10.1007/s10710-016-9272-x,Mike Preuss: Multimodal optimization by means of evolutionary algorithms,Nailah Al-Madi,2016,0,Genetic Programming and Evolvable Machines
 10.1007/s10710-015-9248-2,Partial-DNA cyclic memory for bio-inspired electronic cell,Sai Zhu and Jin-yan Cai and Ya-feng Meng,2016,5,Genetic Programming and Evolvable Machines
+10.1007/s10710-011-9137-2,Accelerating floating-point fitness functions in evolutionary algorithms: a FPGA-CPU-GPU performance comparison,Juan A. Gomez-Pulido and Miguel A. Vega-Rodriguez and Juan M. Sanchez-Perez and Silvio Priem-Mendes and Vitor Carreira,2011,14,Genetic Programming and Evolvable Machines
 10.1007/s10710-015-9246-4,Angelo Cangelosi and Matthew Schlesinger: Developmental robotics,Lisa A. Meeden,2015,0,Genetic Programming and Evolvable Machines
 10.1007/s10710-022-09443-x,Book Review: the evolution of complexity,Emily Dolson,2022,0,Genetic Programming and Evolvable Machines
-10.1007/s10710-008-9060-3,An eigen analysis of the GP community,W. B. Langdon and R. Poli and W. Banzhaf,2008,3,Genetic Programming and Evolvable Machines
-10.1007/s10710-020-09391-4,Choosing function sets with better generalisation performance for symbolic regression models,Miguel Nicolau and Alexandros Agapitos,2021,7,Genetic Programming and Evolvable Machines
-10.1007/s10710-015-9252-6,Progress properties and fitness bounds for geometric semantic search operators,Tomasz P. Pawlak and Krzysztof Krawiec,2016,9,Genetic Programming and Evolvable Machines
-10.1007/s10710-018-9332-5,Unveiling evolutionary algorithm representation with DU maps,Eric Medvet and Marco Virgolin and Mauro Castelli and Peter A. N. Bosman and Ivo Gonçalves and Tea Tušar,2018,8,Genetic Programming and Evolvable Machines
-10.1007/s10710-021-09414-8,Evolving continuous optimisers from scratch,Michael A. Lones,2021,2,Genetic Programming and Evolvable Machines
-10.1023/b:genp.0000023687.41210.d7,Self Generating Metaheuristics in Bioinformatics: The Proteins Structure Comparison Case,N. Krasnogor,2004,47,Genetic Programming and Evolvable Machines
 10.1023/b:genp.0000017051.93386.43,Acknowledgment,W. Banzhaf,2004,0,Genetic Programming and Evolvable Machines
+10.1007/s10710-008-9060-3,An eigen analysis of the GP community,W. B. Langdon and R. Poli and W. Banzhaf,2008,3,Genetic Programming and Evolvable Machines
 10.1007/s10710-013-9201-1,Emergence in simulated evolution,André Leier,2014,1,Genetic Programming and Evolvable Machines
 10.1023/a:1015530024354,n.m.,Hillol Kargupta,2002,3,Genetic Programming and Evolvable Machines
 10.1007/s10710-006-9006-6,GP-Sumo: Using genetic programming to evolve sumobots,Shai Sharabi and Moshe Sipper,2006,4,Genetic Programming and Evolvable Machines
@@ -242,7 +243,11 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1023/a:1021829228076,n.m.,Takashi Gomi,2003,1,Genetic Programming and Evolvable Machines
 10.1007/s10710-005-4803-x,"Tantrix: A Minute to Learn, 100 (Genetic Algorithm) Generations to Master",Keith L. Downing,2005,3,Genetic Programming and Evolvable Machines
 10.1007/s10710-014-9237-x,Acknowledgment,L. Spector,2015,0,Genetic Programming and Evolvable Machines
-10.1007/s10710-011-9141-6,"Challenges of evolvable hardware: past, present and the path to a promising future",Pauline C. Haddow and Andy M. Tyrrell,2011,53,Genetic Programming and Evolvable Machines
+10.1007/s10710-012-9159-4,"Evolutionary dynamics on multiple scales: a quantitative analysis of the interplay between genotype, phenotype, and fitness in linear genetic programming",Ting Hu and Joshua L. Payne and Wolfgang Banzhaf and Jason H. Moore,2012,26,Genetic Programming and Evolvable Machines
+10.1007/s10710-015-9251-7,Self-tuning geometric semantic Genetic Programming,Mauro Castelli and Luca Manzoni and Leonardo Vanneschi and Sara Silva and Aleš Popovič,2016,13,Genetic Programming and Evolvable Machines
+10.1007/s10710-015-9262-4,Unveiling the properties of structured grammatical evolution,Nuno Lourenço and Francisco B. Pereira and Ernesto Costa,2016,40,Genetic Programming and Evolvable Machines
+10.1007/s10710-020-09391-4,Choosing function sets with better generalisation performance for symbolic regression models,Miguel Nicolau and Alexandros Agapitos,2021,8,Genetic Programming and Evolvable Machines
+10.1023/a:1012942304464,n.m.,Peter Martin,2001,31,Genetic Programming and Evolvable Machines
 10.1007/s10710-016-9265-9,Prediction of expected performance for a genetic programming classifier,Yuliana Martínez and Leonardo Trujillo and Pierrick Legrand and Edgar Galván-López,2016,5,Genetic Programming and Evolvable Machines
 10.1007/s10710-019-09362-4,The impact of genetic programming in education,Nelishia Pillay,2020,2,Genetic Programming and Evolvable Machines
 10.1023/a:1026139027539,n.m.,Dennis L. Chao and Stephanie Forrest,2003,24,Genetic Programming and Evolvable Machines
@@ -254,56 +259,55 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10710-013-9183-z,Gene regulatory networks reconstruction from time series datasets using genetic programming: a comparison between tree-based and graph-based approaches,Leonardo Vanneschi and Matteo Mondini and Martino Bertoni and Alberto Ronchi and Mattia Stefano,2013,0,Genetic Programming and Evolvable Machines
 10.1007/s10710-021-09398-5,"Tim Taylor and Alan Dorin: Rise of the self-replicators—early visions of machines, AI and robots that can reproduce and evolve",Stefano Nichele,2021,0,Genetic Programming and Evolvable Machines
 10.1007/s10710-013-9185-x,A high performance genetic algorithm using bacterial conjugation operator (HPGA),Amir Mehrafsa and Alireza Sokhandan and Ghader Karimian,2013,5,Genetic Programming and Evolvable Machines
-10.1007/s10710-019-09363-3,Genetic programming in the twenty-first century: a bibliometric and content-based analysis from both sides of the fence,Andrea De Lorenzo and Alberto Bartoli and Mauro Castelli and Eric Medvet and Bing Xue,2020,7,Genetic Programming and Evolvable Machines
-10.1023/a:1021808625350,n.m.,Wolfgang Banzhaf,2003,0,Genetic Programming and Evolvable Machines
-10.1007/s10710-021-09426-4,GP-DMD: a genetic programming variant with dynamic management of diversity,Ricardo Nieto-Fuentes and Carlos Segura,2022,3,Genetic Programming and Evolvable Machines
-10.1007/s10710-016-9274-8,A two-objective memetic approach for the node localization problem in wireless sensor networks,Mahdi Aziz and Mohammad-H Tayarani-N and Mohammad R. Meybodi,2016,9,Genetic Programming and Evolvable Machines
-10.1007/s10710-015-9251-7,Self-tuning geometric semantic Genetic Programming,Mauro Castelli and Luca Manzoni and Leonardo Vanneschi and Sara Silva and Aleš Popovič,2016,12,Genetic Programming and Evolvable Machines
-10.1007/s10710-008-9062-1,Evolving strategy for a probabilistic game of imperfect information using genetic programming,Wojciech Jaśkowski and Krzysztof Krawiec and Bartosz Wieloch,2008,18,Genetic Programming and Evolvable Machines
-10.1007/s10710-011-9147-0,Learning local linear Jacobians for flexible and adaptive robot arm control,Patrick O. Stalph and Martin V. Butz,2012,17,Genetic Programming and Evolvable Machines
+10.1007/s10710-017-9310-3,Evolving dispatching rules for optimising many-objective criteria in the unrelated machines environment,Marko Ɖurasević and Domagoj Jakobović,2018,27,Genetic Programming and Evolvable Machines
 10.1007/s10710-013-9190-0,Graph grammars for evolutionary 3D design,James McDermott,2013,4,Genetic Programming and Evolvable Machines
 10.1007/s10710-007-9024-z,A self-organizing random immigrants genetic algorithm for dynamic optimization problems,Renato Tinós and Shengxiang Yang,2007,93,Genetic Programming and Evolvable Machines
 10.1023/a:1011516717456,n.m.,James A. Foster,2001,23,Genetic Programming and Evolvable Machines
-10.1007/s10710-016-9277-5,Recursion in tree-based genetic programming,Alexandros Agapitos and Michael O’Neill and Ahmed Kattan and Simon M. Lucas,2017,4,Genetic Programming and Evolvable Machines
 10.1007/s10710-019-09366-0,Software review: the GPTIPS platform,Amir H. Gandomi and Ehsan Atefi,2020,11,Genetic Programming and Evolvable Machines
-10.1007/s10710-010-9125-y,Tracer spectrum: a visualisation method for distributed evolutionary computation,Michael O’Neill and Anthony Brabazon and Erik Hemberg,2011,2,Genetic Programming and Evolvable Machines
+10.1007/s10710-020-09379-0,A network perspective on genotype–phenotype mapping in genetic programming,Ting Hu and Marco Tomassini and Wolfgang Banzhaf,2020,11,Genetic Programming and Evolvable Machines
 10.1007/s10710-011-9133-6,Evolution of human-competitive lossless compression algorithms with GP-zip2,Ahmed Kattan and Riccardo Poli,2011,4,Genetic Programming and Evolvable Machines
 10.1007/s10710-022-09433-z,Severe damage recovery in evolving soft robots through differentiable programming,Kazuya Horibe and Kathryn Walker and Rasmus Berg Palm and Shyam Sudhakaran and Sebastian Risi,2022,0,Genetic Programming and Evolvable Machines
 10.1007/s10710-022-09432-0,A grammar-based GP approach applied to the design of deep neural networks,Ricardo H. R. Lima and Dimmy Magalhães and Aurora Pozo and Alexander Mendiburu and Roberto Santana,2022,1,Genetic Programming and Evolvable Machines
 10.1007/s10710-010-9115-0,Editorial to tenth anniversary issue on progress in genetic programming and evolvable machines,Julian F. Miller and Riccardo Poli,2010,2,Genetic Programming and Evolvable Machines
-10.1007/s10710-014-9224-2,Evolving Robocode tanks for Evo Robocode,Robin Harper,2014,19,Genetic Programming and Evolvable Machines
-10.1007/s10710-019-09355-3,A journey among Java neutral program variants,Nicolas Harrand and Simon Allier and Marcelino Rodriguez-Cancio and Martin Monperrus and Benoit Baudry,2019,16,Genetic Programming and Evolvable Machines
-10.1007/s10710-015-9247-3,Software review: the KNIME workflow environment and its applications in genetic programming and machine learning,Steve O’Hagan and Douglas B. Kell,2015,30,Genetic Programming and Evolvable Machines
-10.1007/s10710-012-9162-9,Parallel linear genetic programming for multi-class classification,Carlton Downey and Mengjie Zhang and Jing Liu,2012,7,Genetic Programming and Evolvable Machines
-10.1007/s10710-005-7620-3,Emergence of Collective Behavior in Evolving Populations of Flying Agents,Lee Spector and Jon Klein and Chris Perry and Mark Feinstein,2005,42,Genetic Programming and Evolvable Machines
-10.1007/s10710-012-9174-5,Controllable procedural map generation via multiobjective evolution,Julian Togelius and Mike Preuss and Nicola Beume and Simon Wessing and Johan Hagelbäck and Georgios N. Yannakakis and Corrado Grappiolo,2013,35,Genetic Programming and Evolvable Machines
-10.1007/s10710-022-09430-2,On the performance of the Bayesian optimization algorithm with combined scenarios of search algorithms and scoring metrics,Ciniro A. L. Nametala and Wandry R. Faria and Benvindo R. Pereira Júnior,2022,1,Genetic Programming and Evolvable Machines
+10.1007/s10710-016-9274-8,A two-objective memetic approach for the node localization problem in wireless sensor networks,Mahdi Aziz and Mohammad-H Tayarani-N and Mohammad R. Meybodi,2016,9,Genetic Programming and Evolvable Machines
+10.1007/s10710-016-9281-9,An analysis of the genetic marker diversity algorithm for genetic programming,Armand R. Burks and William F. Punch,2017,12,Genetic Programming and Evolvable Machines
+10.1007/s10710-010-9125-y,Tracer spectrum: a visualisation method for distributed evolutionary computation,Michael O’Neill and Anthony Brabazon and Erik Hemberg,2011,2,Genetic Programming and Evolvable Machines
+10.1007/s10710-007-9044-8,Stochastic optimization of a biologically plausible spino-neuromuscular system model,Stanley Gotshall and Kathy Browder and Jessica Sampson and Terence Soule and Richard Wells,2007,2,Genetic Programming and Evolvable Machines
+10.1023/a:1011590227934,n.m.,W. B. Langdon,2001,3,Genetic Programming and Evolvable Machines
+10.1007/s10710-018-9332-5,Unveiling evolutionary algorithm representation with DU maps,Eric Medvet and Marco Virgolin and Mauro Castelli and Peter A. N. Bosman and Ivo Gonçalves and Tea Tušar,2018,8,Genetic Programming and Evolvable Machines
+10.1007/s10710-021-09414-8,Evolving continuous optimisers from scratch,Michael A. Lones,2021,2,Genetic Programming and Evolvable Machines
+10.1007/s10710-021-09426-4,GP-DMD: a genetic programming variant with dynamic management of diversity,Ricardo Nieto-Fuentes and Carlos Segura,2022,3,Genetic Programming and Evolvable Machines
+10.1023/b:genp.0000023685.83861.69,Classification of Gene Expression Profile Using Combinatory Method of Evolutionary Computation and Machine Learning,Shin Ando and Hitoshi Iba,2004,12,Genetic Programming and Evolvable Machines
+10.1007/s10710-011-9150-5,Operator equalisation for bloat free genetic programming and a survey of bloat control methods,Sara Silva and Stephen Dignum and Leonardo Vanneschi,2012,50,Genetic Programming and Evolvable Machines
+10.1023/b:genp.0000030196.55525.f7,Genetic Programming for Mining DNA Chip Data from Cancer Patients,W. B. Langdon and B. F. Buxton,2004,46,Genetic Programming and Evolvable Machines
 10.1007/s10710-006-7455-6,Evolving recursive programs by using adaptive grammar based genetic programming,Man Leung Wong,2006,1,Genetic Programming and Evolvable Machines
 10.1007/s10710-017-9294-z,"A rebuttal to Whigham, Dick, and Maclaurin by one of the inventors of Grammatical Evolution: Commentary on “On the Mapping of Genotype to Phenotype in Evolutionary Algorithms” by Peter A. Whigham, Grant Dick, and James Maclaurin",Conor Ryan,2017,7,Genetic Programming and Evolvable Machines
-10.1007/s10710-011-9137-2,Accelerating floating-point fitness functions in evolutionary algorithms: a FPGA-CPU-GPU performance comparison,Juan A. Gomez-Pulido and Miguel A. Vega-Rodriguez and Juan M. Sanchez-Perez and Silvio Priem-Mendes and Vitor Carreira,2011,14,Genetic Programming and Evolvable Machines
-10.1007/s10710-013-9188-7,Learning aesthetic judgements in evolutionary art systems,Yang Li and Changjun Hu and Leandro L. Minku and Haolei Zuo,2013,9,Genetic Programming and Evolvable Machines
-10.1007/s10710-013-9195-8,Software mutational robustness,Eric Schulte and Zachary P. Fry and Ethan Fast and Westley Weimer and Stephanie Forrest,2014,56,Genetic Programming and Evolvable Machines
-10.1007/s10710-011-9150-5,Operator equalisation for bloat free genetic programming and a survey of bloat control methods,Sara Silva and Stephen Dignum and Leonardo Vanneschi,2012,50,Genetic Programming and Evolvable Machines
-10.1023/a:1010018632078,n.m.,Barry Shackleford and Greg Snider and Richard J. Carter and Etsuko Okushi and Mitsuhiro Yasuda and Katsuhiko Seo and Hiroto Yasuura,2001,56,Genetic Programming and Evolvable Machines
-10.1023/b:genp.0000030196.55525.f7,Genetic Programming for Mining DNA Chip Data from Cancer Patients,W. B. Langdon and B. F. Buxton,2004,46,Genetic Programming and Evolvable Machines
-10.1023/a:1012942304464,n.m.,Peter Martin,2001,30,Genetic Programming and Evolvable Machines
-10.1023/b:genp.0000023685.83861.69,Classification of Gene Expression Profile Using Combinatory Method of Evolutionary Computation and Machine Learning,Shin Ando and Hitoshi Iba,2004,12,Genetic Programming and Evolvable Machines
-10.1007/s10710-012-9159-4,"Evolutionary dynamics on multiple scales: a quantitative analysis of the interplay between genotype, phenotype, and fitness in linear genetic programming",Ting Hu and Joshua L. Payne and Wolfgang Banzhaf and Jason H. Moore,2012,25,Genetic Programming and Evolvable Machines
-10.1023/a:1021877127167,n.m.,Michael O'Neill and Conor Ryan and Maarten Keijzer and Mike Cattolico,2003,64,Genetic Programming and Evolvable Machines
-10.1007/s10710-016-9281-9,An analysis of the genetic marker diversity algorithm for genetic programming,Armand R. Burks and William F. Punch,2017,12,Genetic Programming and Evolvable Machines
-10.1007/s10710-015-9262-4,Unveiling the properties of structured grammatical evolution,Nuno Lourenço and Francisco B. Pereira and Ernesto Costa,2016,39,Genetic Programming and Evolvable Machines
-10.1007/s10710-017-9310-3,Evolving dispatching rules for optimising many-objective criteria in the unrelated machines environment,Marko Ɖurasević and Domagoj Jakobović,2018,27,Genetic Programming and Evolvable Machines
-10.1007/s10710-016-9282-8,Solving metameric variable-length optimization problems using genetic algorithms,Matthew L. Ryerkerk and Ronald C. Averill and Kalyanmoy Deb and Erik D. Goodman,2017,21,Genetic Programming and Evolvable Machines
+10.1007/s10710-008-9062-1,Evolving strategy for a probabilistic game of imperfect information using genetic programming,Wojciech Jaśkowski and Krzysztof Krawiec and Bartosz Wieloch,2008,18,Genetic Programming and Evolvable Machines
+10.1007/s10710-011-9147-0,Learning local linear Jacobians for flexible and adaptive robot arm control,Patrick O. Stalph and Martin V. Butz,2012,17,Genetic Programming and Evolvable Machines
+10.1007/s10710-022-09430-2,On the performance of the Bayesian optimization algorithm with combined scenarios of search algorithms and scoring metrics,Ciniro A. L. Nametala and Wandry R. Faria and Benvindo R. Pereira Júnior,2022,1,Genetic Programming and Evolvable Machines
 10.1007/s10710-017-9299-7,A closed asynchronous dynamic model of cellular learning automata and its application to peer-to-peer networks,Ali Mohammad Saghiri and Mohammad Reza Meybodi,2017,16,Genetic Programming and Evolvable Machines
-10.1007/s10710-019-09358-0,A novel multi-swarm particle swarm optimization for feature selection,Chenye Qiu,2019,23,Genetic Programming and Evolvable Machines
-10.1007/s10710-020-09379-0,A network perspective on genotype–phenotype mapping in genetic programming,Ting Hu and Marco Tomassini and Wolfgang Banzhaf,2020,11,Genetic Programming and Evolvable Machines
-10.1007/s10710-005-6164-x,Solving Multiobjective Optimization Problems Using an Artificial Immune System,Carlos A. Coello Coello and Nareli Cruz Cort�s,2005,558,Genetic Programming and Evolvable Machines
+10.1007/s10710-013-9195-8,Software mutational robustness,Eric Schulte and Zachary P. Fry and Ethan Fast and Westley Weimer and Stephanie Forrest,2014,56,Genetic Programming and Evolvable Machines
+10.1007/s10710-005-7620-3,Emergence of Collective Behavior in Evolving Populations of Flying Agents,Lee Spector and Jon Klein and Chris Perry and Mark Feinstein,2005,42,Genetic Programming and Evolvable Machines
+10.1007/s10710-012-9162-9,Parallel linear genetic programming for multi-class classification,Carlton Downey and Mengjie Zhang and Jing Liu,2012,7,Genetic Programming and Evolvable Machines
+10.1007/s10710-012-9174-5,Controllable procedural map generation via multiobjective evolution,Julian Togelius and Mike Preuss and Nicola Beume and Simon Wessing and Johan Hagelbäck and Georgios N. Yannakakis and Corrado Grappiolo,2013,35,Genetic Programming and Evolvable Machines
+10.1007/s10710-013-9188-7,Learning aesthetic judgements in evolutionary art systems,Yang Li and Changjun Hu and Leandro L. Minku and Haolei Zuo,2013,9,Genetic Programming and Evolvable Machines
+10.1007/s10710-005-2990-0,GP-Gammon: Genetically Programming Backgammon Players,Yaniv Azaria and Moshe Sipper,2005,29,Genetic Programming and Evolvable Machines
+10.1007/s10710-016-9282-8,Solving metameric variable-length optimization problems using genetic algorithms,Matthew L. Ryerkerk and Ronald C. Averill and Kalyanmoy Deb and Erik D. Goodman,2017,21,Genetic Programming and Evolvable Machines
+10.1023/a:1021877127167,n.m.,Michael O'Neill and Conor Ryan and Maarten Keijzer and Mike Cattolico,2003,64,Genetic Programming and Evolvable Machines
+10.1023/a:1010018632078,n.m.,Barry Shackleford and Greg Snider and Richard J. Carter and Etsuko Okushi and Mitsuhiro Yasuda and Katsuhiko Seo and Hiroto Yasuura,2001,56,Genetic Programming and Evolvable Machines
+10.1007/s10710-011-9141-6,"Challenges of evolvable hardware: past, present and the path to a promising future",Pauline C. Haddow and Andy M. Tyrrell,2011,54,Genetic Programming and Evolvable Machines
+10.1007/s10710-019-09363-3,Genetic programming in the twenty-first century: a bibliometric and content-based analysis from both sides of the fence,Andrea De Lorenzo and Alberto Bartoli and Mauro Castelli and Eric Medvet and Bing Xue,2020,8,Genetic Programming and Evolvable Machines
 10.1023/a:1010070616149,n.m.,Anikó Ekárt and S. Z. Németh,2001,57,Genetic Programming and Evolvable Machines
+10.1007/s10710-005-6164-x,Solving Multiobjective Optimization Problems Using an Artificial Immune System,Carlos A. Coello Coello and Nareli Cruz Cort�s,2005,566,Genetic Programming and Evolvable Machines
+10.1007/s10710-013-9187-8,Aesthetic 3D model evolution,Steve Bergen and Brian J. Ross,2013,14,Genetic Programming and Evolvable Machines
+10.1007/s10710-019-09358-0,A novel multi-swarm particle swarm optimization for feature selection,Chenye Qiu,2019,24,Genetic Programming and Evolvable Machines
 10.1007/s10710-013-9202-0,A response to “Genetic programming and emergence”,David Montana,2014,1,Genetic Programming and Evolvable Machines
 10.1007/s10710-020-09388-z,Editorial introduction,Lee Spector,2020,0,Genetic Programming and Evolvable Machines
 10.1023/a:1010076532029,n.m.,John R. Koza and Martin A. Keane and Jessen Yu and Forrest H Bennett III and William Mydlowec,2000,93,Genetic Programming and Evolvable Machines
 10.1023/a:1010022522223,n.m.,W. Banzhaf,2000,0,Genetic Programming and Evolvable Machines
 10.1007/s10710-007-9022-1,Editorial introduction,Wolfgang Banzhaf,2007,1,Genetic Programming and Evolvable Machines
+10.1007/s10710-013-9198-5,Mathematics awaits: commentary on “Genetic Programming and Emergence” by Wolfgang Banzhaf,Lee Altenberg,2014,1,Genetic Programming and Evolvable Machines
+10.1007/s10710-021-09411-x,Automatic generation of regular expressions for the Regex Golf challenge using a local search algorithm,André de Almeida Farzat and Márcio de Oliveira Barros,2022,0,Genetic Programming and Evolvable Machines
 10.1007/s10710-008-9078-6,Acknowledgment,Lee Spector,2009,0,Genetic Programming and Evolvable Machines
 10.1007/s10710-008-9059-9,Genetic programming for medical classification: a program simplification approach,Mengjie Zhang and Phillip Wong,2008,26,Genetic Programming and Evolvable Machines
 10.1007/s10710-019-09369-x,Evolutionary design model of passive filter circuit for practical application,Jingsong He and Jin Yin,2020,2,Genetic Programming and Evolvable Machines
@@ -319,6 +323,7 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10710-011-9154-1,Acknowledgment,Lee Spector,2012,0,Genetic Programming and Evolvable Machines
 10.1007/s10710-005-6162-z,Editorial,Wolfgang Banzhaf,2005,0,Genetic Programming and Evolvable Machines
 10.1007/s10710-014-9219-z,GA-based approach to find the stabilizers of a given sub-space,Mahboobeh Houshmand and Morteza Saheb Zamani and Mehdi Sedighi and Monireh Houshmand,2015,1,Genetic Programming and Evolvable Machines
+10.1023/a:1010013106294,n.m.,Hongqing Cao and Lishan Kang and Yuping Chen and Jingxian Yu,2000,116,Genetic Programming and Evolvable Machines
 10.1007/s10710-021-09397-6,Acknowledgement to reviewers (2020),Lee Spector,2021,0,Genetic Programming and Evolvable Machines
 10.1023/b:genp.0000017052.83908.eb,A Word from the Chair of ISGEC,Erik D. Goodman,2004,0,Genetic Programming and Evolvable Machines
 10.1007/s10710-014-9216-2,Self-repair ability of evolved self-assembling systems in cellular automata,Can Öztürkeri and Colin G. Johnson,2014,4,Genetic Programming and Evolvable Machines
@@ -328,8 +333,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10710-013-9181-1,Introduction,Lee Spector,2013,0,Genetic Programming and Evolvable Machines
 10.1007/s10710-021-09402-y,Efficiency improvement of genetic network programming by tasks decomposition in different types of environments,Mohamad Roshanzamir and Maziar Palhang and Abdolreza Mirzaei,2021,1,Genetic Programming and Evolvable Machines
 10.1007/s10710-017-9285-0,"James Keller, Derong Liu, and David Fogel: Fundamentals of computational intelligence: neural networks, fuzzy systems, and evolutionary computation",Steven Michael Corns,2017,2,Genetic Programming and Evolvable Machines
-10.1007/s10710-013-9198-5,Mathematics awaits: commentary on “Genetic Programming and Emergence” by Wolfgang Banzhaf,Lee Altenberg,2014,1,Genetic Programming and Evolvable Machines
-10.1007/s10710-021-09411-x,Automatic generation of regular expressions for the Regex Golf challenge using a local search algorithm,André de Almeida Farzat and Márcio de Oliveira Barros,2022,0,Genetic Programming and Evolvable Machines
 10.1007/s10710-018-9321-8,Alain Pétrowski and Sana Ben-Hamida: Evolutionary Algorithms,Keith Downing,2018,0,Genetic Programming and Evolvable Machines
 10.1007/s10710-006-9011-9,Theoretical and Experimental DNA Computation,Nataša Jonoska,2006,0,Genetic Programming and Evolvable Machines
 10.1007/s10710-017-9316-x,Christian Blum and Günther R. Raidl: Hybrid metaheuristics—powerful tools for optimization,Ofer M. Shir,2018,0,Genetic Programming and Evolvable Machines
@@ -339,10 +342,10 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10710-021-09419-3,A semantic genetic programming framework based on dynamic targets,Stefano Ruberto and Valerio Terragni and Jason H. Moore,2021,0,Genetic Programming and Evolvable Machines
 10.1007/s10710-017-9317-9,Guest editorial: special issue on automated design and adaptation of heuristics for scheduling and combinatorial optimisation,Su Nguyen and Yi Mei and Mengjie Zhang,2018,0,Genetic Programming and Evolvable Machines
 10.1007/s10710-021-09424-6,Blood glucose prediction using multi-objective grammatical evolution: analysis of the “agnostic” and “what-if” scenarios,Sergio Contador and J. Manuel Colmenar and Oscar Garnica and J. Manuel Velasco and J. Ignacio Hidalgo,2022,4,Genetic Programming and Evolvable Machines
-10.1023/a:1010072431120,n.m.,Robert B. Nachbar,2000,26,Genetic Programming and Evolvable Machines
 10.1007/s10710-011-9134-5,An evolved anti-jamming adaptive beamforming network,Jason D. Lohn and Jonathan M. Becker and Derek S. Linden,2011,9,Genetic Programming and Evolvable Machines
 10.1007/s10710-010-9104-3,"Dario Floreano and Claudio Mattiussi (eds): Bio-inspired artificial intelligence: theories, methods, and technologies",Ivan Garibay,2010,2,Genetic Programming and Evolvable Machines
 10.1007/s10710-014-9234-0,Exploring non-photorealistic rendering with genetic programming,Maryam Baniasadi and Brian J. Ross,2015,4,Genetic Programming and Evolvable Machines
+10.1007/s10710-020-09389-y,Adversarial genetic programming for cyber security: a rising application domain where GP matters,Una-May O’Reilly and Jamal Toutouh and Marcos Pertierra and Daniel Prado Sanchez and Dennis Garcia and Anthony Erb Luogo and Jonathan Kelly and Erik Hemberg,2020,17,Genetic Programming and Evolvable Machines
 10.1007/s10710-007-9026-x,Editorial introduction to the special issue on developmental systems,Gregory S. Hornby and Sanjeev Kumar and Christian Jacob,2007,2,Genetic Programming and Evolvable Machines
 10.1007/s10710-006-9008-4,Genetic programming incorporating biased mutation for evolution and adaptation of Snakebot,Ivan Tanev,2007,11,Genetic Programming and Evolvable Machines
 10.1023/a:1026182810701,n.m.,Peter J. Bentley and Jon Timmis,2003,0,Genetic Programming and Evolvable Machines
@@ -361,32 +364,32 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10710-019-09348-2,Editorial introduction,Lee Spector,2019,1,Genetic Programming and Evolvable Machines
 10.1007/s10710-018-9333-4,"Guest editorial: Special issue on genetic programming, evolutionary computation and visualization",Nadia Boukhelifa and Evelyne Lutton,2018,1,Genetic Programming and Evolvable Machines
 10.1007/s10710-017-9307-y,Affective evolutionary music composition with MetaCompose,Marco Scirea and Julian Togelius and Peter Eklund and Sebastian Risi,2017,20,Genetic Programming and Evolvable Machines
-10.1007/s10710-020-09377-2,On the importance of specialists for lexicase selection,Thomas Helmuth and Edward Pantridge and Lee Spector,2020,9,Genetic Programming and Evolvable Machines
-10.1007/s10710-017-9309-9,Understanding grammatical evolution: initialisation,Miguel Nicolau,2017,23,Genetic Programming and Evolvable Machines
 10.1007/s10710-018-9328-1,Visualising the global structure of search landscapes: genetic improvement as a case study,Nadarajen Veerapen and Gabriela Ochoa,2018,10,Genetic Programming and Evolvable Machines
 10.1007/s10710-006-9009-3,Unbounded evolutionary dynamics in a system of agents that actively process and transform their environment,Alastair Channon,2006,21,Genetic Programming and Evolvable Machines
 10.1007/s10710-021-09415-7,Evolutionary algorithms for designing reversible cellular automata,Luca Mariot and Stjepan Picek and Domagoj Jakobovic and Alberto Leporati,2021,1,Genetic Programming and Evolvable Machines
-10.1007/s10710-009-9093-2,Parallel evolution using multi-chromosome cartesian genetic programming,James Alfred Walker and Katharina Völk and Stephen L. Smith and Julian Francis Miller,2009,29,Genetic Programming and Evolvable Machines
 10.1007/s10710-017-9308-x,A hyperheuristic approach based on low-level heuristics for the travelling thief problem,Mohamed El Yafrani and Marcella Martins and Markus Wagner and Belaïd Ahiod and Myriam Delgado and Ricardo Lüders,2018,19,Genetic Programming and Evolvable Machines
 10.1007/s10710-018-9325-4,Comparison of semantic-based local search methods for multiobjective genetic programming,Tiantian Dou and Peter Rockett,2018,7,Genetic Programming and Evolvable Machines
 10.1007/s10710-019-09343-7,"EvoParsons: design, implementation and preliminary evaluation of evolutionary Parsons puzzle",A. T. M. Golam Bari and Alessio Gaspar and R. Paul Wiegand and Jennifer L. Albert and Anthony Bucci and Amruth N. Kumar,2019,2,Genetic Programming and Evolvable Machines
 10.1023/b:genp.0000017011.51324.d2,Fractal Proteins,Peter J. Bentley,2004,30,Genetic Programming and Evolvable Machines
 10.1023/a:1010010230007,n.m.,Byong-Tak Zhang,2000,14,Genetic Programming and Evolvable Machines
-10.1023/a:1015527808424,n.m.,Stephen J. Freeland,2002,32,Genetic Programming and Evolvable Machines
 10.1023/a:1023989130306,n.m.,Max Garzon,2003,14,Genetic Programming and Evolvable Machines
 10.1023/b:genp.0000017009.11392.e2,Evolutionary Algorithms and Theirs Use in the Design of Sequential Logic Circuits,B. Ali and A. E. A. Almaini and T. Kalganova,2004,33,Genetic Programming and Evolvable Machines
 10.1007/s10710-016-9276-6,Recurrent Cartesian Genetic Programming of Artificial Neural Networks,Andrew James Turner and Julian Francis Miller,2017,14,Genetic Programming and Evolvable Machines
 10.1007/s10710-005-2987-8,Evolutionary Design of Arbitrarily Large Sorting Networks Using Development,Lukáš Sekanina and Michal Bidlo,2005,31,Genetic Programming and Evolvable Machines
 10.1023/a:1025122906870,n.m.,Edwin D. de Jong and Jordan B. Pollack,2003,56,Genetic Programming and Evolvable Machines
-10.1007/s10710-010-9113-2,Open issues in genetic programming,Michael O’Neill and Leonardo Vanneschi and Steven Gustafson and Wolfgang Banzhaf,2010,148,Genetic Programming and Evolvable Machines
-10.1023/a:1010016313373,n.m.,Julian F. Miller and Dominic Job and Vesselin K. Vassilev,2000,174,Genetic Programming and Evolvable Machines
-10.1007/s10710-020-09389-y,Adversarial genetic programming for cyber security: a rising application domain where GP matters,Una-May O’Reilly and Jamal Toutouh and Marcos Pertierra and Daniel Prado Sanchez and Dennis Garcia and Anthony Erb Luogo and Jonathan Kelly and Erik Hemberg,2020,16,Genetic Programming and Evolvable Machines
+10.1007/s10710-023-09451-5,SonOpt: understanding the behaviour of bi-objective population-based optimisation algorithms through sound,Tasos Asonitis and Richard Allmendinger and Matt Benatan and Ricardo Climent,2023,0,Genetic Programming and Evolvable Machines
+10.1023/a:1010016313373,n.m.,Julian F. Miller and Dominic Job and Vesselin K. Vassilev,2000,175,Genetic Programming and Evolvable Machines
 10.1007/s10710-005-4805-8,Evolving Recursive Programs by Using Adaptive Grammar Based Genetic Programming,Man Leung Wong and Tuen Mun,2005,24,Genetic Programming and Evolvable Machines
-10.1007/s10710-013-9205-x,Probabilistic model building in genetic programming: a critical review,Kangil Kim and Yin Shan and Xuan Hoai Nguyen and R. I. McKay,2014,25,Genetic Programming and Evolvable Machines
 10.1007/s10710-018-9329-0,Visualisation with treemaps and sunbursts in many-objective optimisation,David J. Walker,2018,4,Genetic Programming and Evolvable Machines
-10.1023/a:1010013106294,n.m.,Hongqing Cao and Lishan Kang and Yuping Chen and Jingxian Yu,2000,114,Genetic Programming and Evolvable Machines
-10.1007/s10710-019-09357-1,A covariance matrix adaptation evolution strategy in reproducing kernel Hilbert space,Viet-Hung Dang and Ngo Anh Vien and TaeChoong Chung,2019,7,Genetic Programming and Evolvable Machines
-10.1007/s10710-007-9028-8,Compositional pattern producing networks: A novel abstraction of development,Kenneth O. Stanley,2007,399,Genetic Programming and Evolvable Machines
+10.1007/s10710-010-9113-2,Open issues in genetic programming,Michael O’Neill and Leonardo Vanneschi and Steven Gustafson and Wolfgang Banzhaf,2010,148,Genetic Programming and Evolvable Machines
+10.1007/s10710-009-9093-2,Parallel evolution using multi-chromosome cartesian genetic programming,James Alfred Walker and Katharina Völk and Stephen L. Smith and Julian Francis Miller,2009,30,Genetic Programming and Evolvable Machines
+10.1023/a:1010072431120,n.m.,Robert B. Nachbar,2000,26,Genetic Programming and Evolvable Machines
+10.1007/s10710-019-09357-1,A covariance matrix adaptation evolution strategy in reproducing kernel Hilbert space,Viet-Hung Dang and Ngo Anh Vien and TaeChoong Chung,2019,8,Genetic Programming and Evolvable Machines
+10.1023/a:1015527808424,n.m.,Stephen J. Freeland,2002,33,Genetic Programming and Evolvable Machines
+10.1007/s10710-017-9309-9,Understanding grammatical evolution: initialisation,Miguel Nicolau,2017,24,Genetic Programming and Evolvable Machines
+10.1007/s10710-020-09377-2,On the importance of specialists for lexicase selection,Thomas Helmuth and Edward Pantridge and Lee Spector,2020,11,Genetic Programming and Evolvable Machines
+10.1007/s10710-013-9205-x,Probabilistic model building in genetic programming: a critical review,Kangil Kim and Yin Shan and Xuan Hoai Nguyen and R. I. McKay,2014,27,Genetic Programming and Evolvable Machines
+10.1007/s10710-007-9028-8,Compositional pattern producing networks: A novel abstraction of development,Kenneth O. Stanley,2007,404,Genetic Programming and Evolvable Machines
 10.1023/a:1017497620393,n.m.,,2001,0,Genetic Programming and Evolvable Machines
 10.1007/s10710-009-9080-7,A review of procedures to evolve quantum algorithms,Adrian Gepp and Phil Stocks,2009,14,Genetic Programming and Evolvable Machines
 10.1007/s10710-013-9197-6,Gene I. Sher: Handbook of neuroevolution through Erlang,Daniele Loiacono,2014,1,Genetic Programming and Evolvable Machines
@@ -407,7 +410,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10710-010-9128-8,Acknowledgment,Lee Spector,2011,0,Genetic Programming and Evolvable Machines
 10.1007/s10710-012-9179-0,Acknowledgment,Lee Spector,2013,0,Genetic Programming and Evolvable Machines
 10.1007/s10710-020-09392-3,Arthur I. Miller: The artist in the machine: the world of AI-powered creativity,Anna Olszewska,2020,0,Genetic Programming and Evolvable Machines
-10.1007/s10710-021-09400-0,Symbolic-regression boosting,Moshe Sipper and Jason H. Moore,2021,0,Genetic Programming and Evolvable Machines
 10.1007/s10710-018-9324-5,Grammatical evolution as a hyper-heuristic to evolve deterministic real-valued optimization algorithms,Iztok Fajfar and Árpád Bűrmen and Janez Puhan,2018,2,Genetic Programming and Evolvable Machines
 10.1023/a:1020989508176,n.m.,,2002,0,Genetic Programming and Evolvable Machines
 10.1007/s10710-009-9100-7,Simdist: a distribution system for easy parallelization of evolutionary computation,Boye Annfelt Høverstad,2010,2,Genetic Programming and Evolvable Machines
@@ -422,7 +424,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10710-006-9018-2,The structure of the genetic programming collaboration network,Marco Tomassini and Leslie Luthi and Mario Giacobini and William B. Langdon,2007,26,Genetic Programming and Evolvable Machines
 10.1007/s10710-021-09410-y,Constant optimization and feature standardization in multiobjective genetic programming,Peter Rockett,2022,2,Genetic Programming and Evolvable Machines
 10.1023/a:1012926821302,n.m.,Tina Yu,2001,30,Genetic Programming and Evolvable Machines
-10.1007/s10710-021-09405-9,Genetic programming convergence,W. B. Langdon,2022,4,Genetic Programming and Evolvable Machines
 10.1023/a:1021825110329,n.m.,James V. Hansen,2003,8,Genetic Programming and Evolvable Machines
 10.1023/a:1025180508687,n.m.,Marc Ebner,2003,1,Genetic Programming and Evolvable Machines
 10.1023/a:1020163325179,n.m.,Jim Torresen,2002,40,Genetic Programming and Evolvable Machines
@@ -430,10 +431,9 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1023/a:1020988925923,n.m.,Frank Schmiedle and Nicole Drechsler and Daniel Große and Rolf Drechsler,2002,9,Genetic Programming and Evolvable Machines
 10.1007/s10710-010-9120-3,Arthur K. Kordon: Applying computational intelligence: how to create value,Guillermo Leguizamón,2011,0,Genetic Programming and Evolvable Machines
 10.1023/a:1010065123132,n.m.,Pierre Collet and Evelyne Lutton and Frédéric Raynal and Marc Schoenauer,2000,55,Genetic Programming and Evolvable Machines
-10.1007/s10710-020-09396-z,An enhanced Huffman-PSO based image optimization algorithm for image steganography,Neha Sharma and Usha Batra,2021,25,Genetic Programming and Evolvable Machines
 10.1007/s10710-008-9057-y,Analysis of mass spectrometry data of cerebral stroke samples: an evolutionary computation approach to resolve and quantify peptide peaks,Julio J. Valdés and Alan J. Barton and Arsalan S. Haqqani,2008,2,Genetic Programming and Evolvable Machines
-10.1007/s10710-020-09380-7,Evolutionary music: applying evolutionary computation to the art of creating music,Róisín Loughran and Michael O’Neill,2020,6,Genetic Programming and Evolvable Machines
 10.1007/s10710-021-09399-4,Editorial introduction,Lee Spector,2021,0,Genetic Programming and Evolvable Machines
+10.1023/a:1023928811651,n.m.,Bernard Yurke,2003,246,Genetic Programming and Evolvable Machines
 10.1007/s10710-009-9094-1,"Introduction: special issue on parallel and distributed evolutionary algorithms, part I",Marco Tomassini and Leonardo Vanneschi,2009,5,Genetic Programming and Evolvable Machines
 10.1023/a:1015536110241,n.m.,Kiarash Mahdavi and Mark Harman,2002,1,Genetic Programming and Evolvable Machines
 10.1023/a:1023960327580,n.m.,Max H. Garzon,2003,5,Genetic Programming and Evolvable Machines
@@ -460,14 +460,17 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1023/b:genp.0000023686.59617.57,An Immune-Evolutionary Algorithm for Multiple Rearrangements of Gene Expression Data,Janaína S. de Sousa and Lalinka de C. T. Gomes and George B. Bezerra and Leandro N. de Castro and Fernando J. Von Zuben,2004,16,Genetic Programming and Evolvable Machines
 10.1007/s10710-016-9280-x,Preface to the Special Issue on Genetic Improvement,Justyna Petke,2017,2,Genetic Programming and Evolvable Machines
 10.1007/s10710-006-7009-y,Solving differential equations with genetic programming,I. G. Tsoulos and I. E. Lagaris,2006,58,Genetic Programming and Evolvable Machines
-10.1007/s10710-010-9109-y,Grammar-based Genetic Programming: a survey,Robert I. McKay and Nguyen Xuan Hoai and Peter Alexander Whigham and Yin Shan and Michael O’Neill,2010,239,Genetic Programming and Evolvable Machines
+10.1007/s10710-010-9109-y,Grammar-based Genetic Programming: a survey,Robert I. McKay and Nguyen Xuan Hoai and Peter Alexander Whigham and Yin Shan and Michael O’Neill,2010,241,Genetic Programming and Evolvable Machines
+10.1007/s10710-021-09405-9,Genetic programming convergence,W. B. Langdon,2022,5,Genetic Programming and Evolvable Machines
+10.1007/s10710-021-09400-0,Symbolic-regression boosting,Moshe Sipper and Jason H. Moore,2021,1,Genetic Programming and Evolvable Machines
+10.1023/a:1014538503543,n.m.,Lee Spector and Alan Robinson,2002,177,Genetic Programming and Evolvable Machines
 10.1007/s10710-018-9336-1,Evolving continuous cellular automata for aesthetic objectives,Jeff Heaton,2019,2,Genetic Programming and Evolvable Machines
 10.1007/s10710-018-9337-0,Georgios N. Yannakakis and Julian Togelius: Artificial Intelligence and Games,Pablo García-Sánchez,2019,3,Genetic Programming and Evolvable Machines
 10.1007/s10710-010-9103-4,Expert-driven genetic algorithms for simulating evaluation functions,Omid David-Tabibi and Moshe Koppel and Nathan S. Netanyahu,2011,9,Genetic Programming and Evolvable Machines
+10.1007/s10710-020-09380-7,Evolutionary music: applying evolutionary computation to the art of creating music,Róisín Loughran and Michael O’Neill,2020,7,Genetic Programming and Evolvable Machines
 10.1007/s10710-007-9039-5,Genomic mining for complex disease traits with “random chemistry”,Margaret J. Eppstein and Joshua L. Payne and Bill C. White and Jason H. Moore,2007,18,Genetic Programming and Evolvable Machines
 10.1007/s10710-006-9005-7,Multi-objective evolutionary design and knowledge discovery of logic circuits based on an adaptive genetic algorithm,Shuguang Zhao and Licheng Jiao,2006,23,Genetic Programming and Evolvable Machines
 10.1007/s10710-021-09404-w,Genetic programming-based regression for temporal data,Cry Kuranga and Nelishia Pillay,2021,0,Genetic Programming and Evolvable Machines
-10.1023/a:1023928811651,n.m.,Bernard Yurke,2003,245,Genetic Programming and Evolvable Machines
 10.1007/s10710-019-09347-3,"Stochastic synthesis of recursive functions made easy with bananas, lenses, envelopes and barbed wire",Jerry Swan and Krzysztof Krawiec and Zoltan A Kocsis,2019,1,Genetic Programming and Evolvable Machines
 10.1007/s10710-010-9122-1,Have your spaghetti and eat it too: evolutionary algorithmics and post-evolutionary analysis,Kfir Wolfson and Shay Zakov and Moshe Sipper and Michal Ziv-Ukelson,2011,2,Genetic Programming and Evolvable Machines
 10.1023/b:genp.0000023684.05565.78,Multiple Sequence Alignment with Evolutionary Computation,Conrad Shyu and Luke Sheneman and James A. Foster,2004,29,Genetic Programming and Evolvable Machines
@@ -482,116 +485,116 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1007/s10710-016-9264-x,Prediction of the natural gas consumption in chemical processing facilities with genetic programming,Miha Kovačič and Franjo Dolenc,2016,10,Genetic Programming and Evolvable Machines
 10.1007/s10710-011-9136-3,Defining locality as a problem difficulty measure in genetic programming,Edgar Galván-López and James McDermott and Michael O’Neill and Anthony Brabazon,2011,33,Genetic Programming and Evolvable Machines
 10.1007/s10710-019-09351-7,Local search in speciation-based bloat control for genetic programming,Perla Juárez-Smith and Leonardo Trujillo and Mario García-Valdez and Francisco Fernández de Vega and Francisco Chávez,2019,6,Genetic Programming and Evolvable Machines
-10.1007/s10710-019-09356-2,A survey of evolutionary algorithms using metameric representations,Matt Ryerkerk and Ron Averill and Kalyanmoy Deb and Erik Goodman,2019,23,Genetic Programming and Evolvable Machines
 10.1023/a:1014548204452,n.m.,W. Banzhaf and W. B. Langdon,2002,62,Genetic Programming and Evolvable Machines
 10.1023/a:1020115409250,n.m.,Terence Soule and Robert B. Heckendorn,2002,61,Genetic Programming and Evolvable Machines
-10.1023/a:1010068314282,n.m.,Riccardo Poli and Jonathan Page,2000,45,Genetic Programming and Evolvable Machines
 10.1007/s10710-007-9031-0,Where is evolutionary computation going? A temporal analysis of the EC community,Carlos Cotta and Juan-Julián Merelo,2007,10,Genetic Programming and Evolvable Machines
 10.1007/s10710-007-9027-9,Introducing probabilistic adaptive mapping developmental genetic programming with redundant mappings,Garnett Wilson and Malcolm Heywood,2007,20,Genetic Programming and Evolvable Machines
 10.1007/s10710-008-9072-z,Solution of matrix Riccati differential equation for nonlinear singular system using genetic programming,P. Balasubramaniam and A. Vincent Antony Kumar,2009,10,Genetic Programming and Evolvable Machines
-10.1023/a:1021873026259,n.m.,Francisco Fernández and Marco Tomassini and Leonardo Vanneschi,2003,95,Genetic Programming and Evolvable Machines
 10.1007/s10710-009-9096-z,EvAg: a scalable peer-to-peer evolutionary algorithm,J. L. J. Laredo and A. E. Eiben and M. van Steen and J. J. Merelo,2010,44,Genetic Programming and Evolvable Machines
 10.1007/s10710-014-9231-3,A hierarchical genetic algorithm approach for curve fitting with B-splines,C. H. Garcia-Capulin and F. J. Cuevas and G. Trejo-Caballero and H. Rostro-Gonzalez,2015,15,Genetic Programming and Evolvable Machines
-10.1023/b:genp.0000030197.83685.94,Artificial Immune Recognition System (AIRS): An Immune-Inspired Supervised Learning Algorithm,Andrew Watkins and Jon Timmis and Lois Boggess,2004,254,Genetic Programming and Evolvable Machines
 10.1007/s10710-019-09371-3,Parameter identification for symbolic regression using nonlinear least squares,Michael Kommenda and Bogdan Burlacu and Gabriel Kronberger and Michael Affenzeller,2020,28,Genetic Programming and Evolvable Machines
+10.1007/s10710-015-9253-5,Subtree semantic geometric crossover for genetic programming,Quang Uy Nguyen and Tuan Anh Pham and Xuan Hoai Nguyen and James McDermott,2016,23,Genetic Programming and Evolvable Machines
+10.1023/b:genp.0000030197.83685.94,Artificial Immune Recognition System (AIRS): An Immune-Inspired Supervised Learning Algorithm,Andrew Watkins and Jon Timmis and Lois Boggess,2004,254,Genetic Programming and Evolvable Machines
 10.1007/s10710-007-9040-z,Genetic programming for computational pharmacokinetics in drug discovery and development,Francesco Archetti and Stefano Lanzeni and Enza Messina and Leonardo Vanneschi,2007,58,Genetic Programming and Evolvable Machines
 10.1007/s10710-013-9186-9,Contrasting meta-learning and hyper-heuristic research: the role of evolutionary algorithms,Gisele L. Pappa and Gabriela Ochoa and Matthew R. Hyde and Alex A. Freitas and John Woodward and Jerry Swan,2014,76,Genetic Programming and Evolvable Machines
-10.1007/s10710-015-9253-5,Subtree semantic geometric crossover for genetic programming,Quang Uy Nguyen and Tuan Anh Pham and Xuan Hoai Nguyen and James McDermott,2016,23,Genetic Programming and Evolvable Machines
-10.1023/a:1014538503543,n.m.,Lee Spector and Alan Robinson,2002,176,Genetic Programming and Evolvable Machines
+10.1023/a:1010068314282,n.m.,Riccardo Poli and Jonathan Page,2000,46,Genetic Programming and Evolvable Machines
+10.1023/a:1021873026259,n.m.,Francisco Fernández and Marco Tomassini and Leonardo Vanneschi,2003,97,Genetic Programming and Evolvable Machines
+10.1007/s10710-019-09356-2,A survey of evolutionary algorithms using metameric representations,Matt Ryerkerk and Ron Averill and Kalyanmoy Deb and Erik Goodman,2019,23,Genetic Programming and Evolvable Machines
+10.1007/s10710-020-09396-z,An enhanced Huffman-PSO based image optimization algorithm for image steganography,Neha Sharma and Usha Batra,2021,26,Genetic Programming and Evolvable Machines
+10.1007/s10710-012-9167-4,Guest editorial: special issue on selected papers from the European conference on genetic programming,Sara Silva and James A. Foster,2012,0,Genetic Programming and Evolvable Machines
+10.1007/s10710-006-9015-5,Estimation of evolvability genetic algorithm and dynamic environments,Yao Wang and Mark Wineberg,2006,13,Genetic Programming and Evolvable Machines
+10.1007/s10710-012-9173-6,Multi-objective optimization of QCA circuits with multiple outputs using genetic programming,Razieh Rezaee and Mahboobeh Houshmand and Monireh Houshmand,2013,8,Genetic Programming and Evolvable Machines
+10.1007/s10710-008-9066-x,Introduction to Special Section on Evolutionary Computation in Games,Moshe Sipper and Mario Giacobini,2008,3,Genetic Programming and Evolvable Machines
+10.1007/s10710-010-9102-5,Deployment of parallel linear genetic programming using GPUs on PC and video game console platforms,Garnett Wilson and Wolfgang Banzhaf,2010,6,Genetic Programming and Evolvable Machines
+10.1007/s10710-006-9001-y,Finding needles in haystacks is harder with neutrality,M. Collins,2006,14,Genetic Programming and Evolvable Machines
 10.1007/s10710-010-9127-9,Editorial introduction,Lee Spector,2011,0,Genetic Programming and Evolvable Machines
 10.1007/s10710-020-09381-6,Special Issue on Integrating numerical optimization methods with genetic programming,Anna I. Esparcia-Alcázar and Leonardo Trujillo,2020,0,Genetic Programming and Evolvable Machines
-10.1023/a:1020130108341,n.m.,Hillol Kargupta and Samiran Ghosh,2002,7,Genetic Programming and Evolvable Machines
-10.1007/s10710-014-9221-5,On evolvability and robustness in the matrix-GRT model,Uwe Tangen,2014,1,Genetic Programming and Evolvable Machines
-10.1007/s10710-014-9215-3,Daren C. Brabham: Crowdsourcing,Lixiu Yu,2014,0,Genetic Programming and Evolvable Machines
-10.1023/a:1010076931170,n.m.,W. Banzhaf,2001,0,Genetic Programming and Evolvable Machines
-10.1007/s10710-006-4866-3,Automatic Quantum Computer Programming: A Genetic Programming Approach,Michel Toulouse,2006,1,Genetic Programming and Evolvable Machines
-10.1007/s10710-011-9145-2,"Trent McConaghy, P. Palmers, G. Peng, Michiel Steyaert, Georges Gielen: Variation-aware analog structural synthesis: a computational intelligence approach",John Rieffel,2011,0,Genetic Programming and Evolvable Machines
-10.1007/s10710-013-9184-y,A new genetic programming framework based on reaction systems,Luca Manzoni and Mauro Castelli and Leonardo Vanneschi,2013,0,Genetic Programming and Evolvable Machines
-10.1007/s10710-014-9225-1,Unplugging Evolutionary Algorithms: an experiment on human-algorithmic creativity,F. Fernández de Vega and C. Cruz and L. Navarro and P. Hernández and T. Gallego and L. Espada,2014,6,Genetic Programming and Evolvable Machines
-10.1007/s10710-015-9255-3,A new real-coded stochastic Bayesian optimization algorithm for continuous global optimization,Behnaz Moradabadi and Mohammad Mahdi Ebadzadeh and Mohammad Reza Meybodi,2016,3,Genetic Programming and Evolvable Machines
-10.1007/s10710-018-9320-9,Implementing the template method pattern in genetic programming for improved time series prediction,David Moskowitz,2018,5,Genetic Programming and Evolvable Machines
-10.1007/s10710-011-9146-1,Paul Coates: Programming architecture,Benachir Medjdoub,2011,0,Genetic Programming and Evolvable Machines
-10.1007/s10710-008-9064-z,"Russel C. Eberhart, Yuhui Shi: Computational Intelligence: Concepts to Implementation",Pablo A. Estévez,2008,0,Genetic Programming and Evolvable Machines
-10.1007/s10710-017-9297-9,Editorial introduction,Lee Spector,2017,2,Genetic Programming and Evolvable Machines
-10.1007/s10710-017-9291-2,"Genotype–phenotype mapping implications for genetic programming representation: Commentary on “On the mapping of genotype to phenotype in evolutionary algorithms” by Peter A. Whigham, Grant Dick, and James Maclaurin",Anikó Ekárt and Peter R. Lewis,2017,1,Genetic Programming and Evolvable Machines
-10.1007/s10710-008-9071-0,Juan Romero and Penousal Machado (eds): The Art of Artificial Evolution: A Handbook on Evolutionary Art and Music,Jeroen Eggermont,2009,0,Genetic Programming and Evolvable Machines
-10.1007/s10710-015-9261-5,Editorial introduction,Lee Spector,2016,0,Genetic Programming and Evolvable Machines
-10.1007/s10710-012-9167-4,Guest editorial: special issue on selected papers from the European conference on genetic programming,Sara Silva and James A. Foster,2012,0,Genetic Programming and Evolvable Machines
-10.1007/s10710-006-9002-x,Special Issue: Best of GECCO 2005,Hans-Georg Beyer,2006,0,Genetic Programming and Evolvable Machines
-10.1007/s10710-007-9047-5,Theoretical foundations of evolutionary computation,Xiaodong Li and Wenjian Luo and Xin Yao,2008,0,Genetic Programming and Evolvable Machines
-10.1023/b:genp.0000036057.27304.5b,Book Review: Grammatical Evolution: Evolutionary Automatic Programming in an Arbitrary Language,Manuel Alfonseca and Alfonso Ortega,2004,1,Genetic Programming and Evolvable Machines
-10.1007/s10710-012-9169-2,Andrew Adamatzky: Physarum Machines: Computers from Slime Mould,Vincenzo Bonifaci,2013,0,Genetic Programming and Evolvable Machines
-10.1007/s10710-005-7616-z,Introduction,James A. Foster and Erick Cantú-Paz,2005,0,Genetic Programming and Evolvable Machines
-10.1007/s10710-010-9111-4,Genetic Programming and Evolvable Machines: ten years of reviews,W. B. Langdon and S. M. Gustafson,2010,16,Genetic Programming and Evolvable Machines
-10.1007/s10710-019-09353-5,Genetic programming theory and practice: a fifteen-year trajectory,Moshe Sipper and Jason H. Moore,2020,3,Genetic Programming and Evolvable Machines
-10.1007/s10710-011-9143-4,"Multi-class pattern classification using single, multi-dimensional feature-space feature extraction evolved by multi-objective genetic programming and its application to network intrusion detection",Khaled Badran and Peter Rockett,2012,13,Genetic Programming and Evolvable Machines
-10.1007/s10710-005-3295-z,Meta-Heuristic Algorithms for FPGA Segmented Channel Routing Problems with Non-standard Cost Functions,Sancho Salcedo-Sanz and Yong Xu and Xin Yao,2005,6,Genetic Programming and Evolvable Machines
-10.1007/s10710-008-9066-x,Introduction to Special Section on Evolutionary Computation in Games,Moshe Sipper and Mario Giacobini,2008,3,Genetic Programming and Evolvable Machines
-10.1007/s10710-010-9108-z,Erratum to: Stochastic optimization of a biologically plausible spino-neuromuscular system model,Stanley Gotshall and Kathy Browder and Jessica Sampson and Terence Soule and Richard Wells,2011,0,Genetic Programming and Evolvable Machines
-10.1007/s10710-008-9061-2,Evolving encapsulated programs as shared grammars,Martin H. Luerssen and David M. W. Powers,2008,2,Genetic Programming and Evolvable Machines
-10.1007/s10710-013-9206-9,A new real-coded Bayesian optimization algorithm based on a team of learning automata for continuous optimization,Behnaz Moradabadi and Hamid Beigy,2014,23,Genetic Programming and Evolvable Machines
 10.1007/s10710-012-9158-5,W. Brian Arthur: The nature of technology: what it is and how it evolves,Muge Ozman,2012,0,Genetic Programming and Evolvable Machines
-10.1007/s10710-017-9286-z,Acknowledgment to Reviewers,L. Spector,2017,0,Genetic Programming and Evolvable Machines
-10.1007/s10710-015-9254-4,Semantic methods in genetic programming,Michael O’Neill,2016,3,Genetic Programming and Evolvable Machines
-10.1007/s10710-007-9032-z,Evolvable hardware,Eduardo do Valle Simoes,2007,0,Genetic Programming and Evolvable Machines
-10.1007/s10710-006-9001-y,Finding needles in haystacks is harder with neutrality,M. Collins,2006,14,Genetic Programming and Evolvable Machines
-10.1007/s10710-017-9302-3,Comparison of ensemble learning methods for creating ensembles of dispatching rules for the unrelated machines environment,Marko Ɖurasević and Domagoj Jakobović,2018,24,Genetic Programming and Evolvable Machines
-10.1007/s10710-005-4804-9,"Embracing Plagiarism: Theoretical, Biological and Empirical Justification for Copy Operators in Genetic Optimisation",S. McGregor and I. Harvey,2005,4,Genetic Programming and Evolvable Machines
-10.1007/s10710-015-9245-5,"Patricia Vargas, Ezequiel Di Paolo, Inman Harvey, and Phil Husbands (eds), The Horizons of Evolutionary Robotics, The MIT Press, 2014, ISBN: 978-0-262-02676-5, Hardcover book, 302 pages",Joel Lehman,2015,0,Genetic Programming and Evolvable Machines
-10.1007/s10710-010-9102-5,Deployment of parallel linear genetic programming using GPUs on PC and video game console platforms,Garnett Wilson and Wolfgang Banzhaf,2010,6,Genetic Programming and Evolvable Machines
-10.1007/s10710-009-9092-3,Genetic programming on graphics processing units,Denis Robilliard and Virginie Marion-Poty and Cyril Fonlupt,2009,37,Genetic Programming and Evolvable Machines
-10.1007/s10710-018-9327-2,Designing automatically a representation for grammatical evolution,Eric Medvet and Alberto Bartoli and Andrea De Lorenzo and Fabiano Tarlao,2019,2,Genetic Programming and Evolvable Machines
-10.1007/s10710-017-9288-x,On the mapping of genotype to phenotype in evolutionary algorithms,Peter A. Whigham and Grant Dick and James Maclaurin,2017,15,Genetic Programming and Evolvable Machines
-10.1007/s10710-021-09413-9,Graph representations in genetic programming,Léo Françoso Dal Piccol Sotto and Paul Kaufmann and Timothy Atkinson and Roman Kalkreuth and Márcio Porto Basgalupp,2021,2,Genetic Programming and Evolvable Machines
-10.1007/s10710-021-09406-8,Tag-based regulation of modules in genetic programming improves context-dependent problem solving,Alexander Lalejini and Matthew Andres Moreno and Charles Ofria,2021,3,Genetic Programming and Evolvable Machines
-10.1007/s10710-014-9220-6,Improving GP generalization: a variance-based layered learning approach,Maryam Amir Haeri and Mohammad Mehdi Ebadzadeh and Gianluigi Folino,2015,12,Genetic Programming and Evolvable Machines
-10.1007/s10710-014-9214-4,Software review: the HeuristicLab framework,Achiya Elyasaf and Moshe Sipper,2014,11,Genetic Programming and Evolvable Machines
-10.1007/s10710-016-9278-4,Online Genetic Improvement on the java virtual machine with ECSELR,Kwaku Yeboah-Antwi and Benoit Baudry,2017,3,Genetic Programming and Evolvable Machines
-10.1007/s10710-022-09441-z,Evolutionary approximation and neural architecture search,Michal Pinos and Vojtech Mrazek and Lukas Sekanina,2022,0,Genetic Programming and Evolvable Machines
-10.1007/s10710-011-9156-z,Evolutionary algorithms for data mining,Pierre Collet and Man Leung Wong,2012,1,Genetic Programming and Evolvable Machines
-10.1007/s10710-009-9083-4,A three-step decomposition method for the evolutionary design of sequential logic circuits,Houjun Liang and Wenjian Luo and Xufa Wang,2009,13,Genetic Programming and Evolvable Machines
-10.1023/a:1011552313821,n.m.,Riccardo Poli,2001,53,Genetic Programming and Evolvable Machines
-10.1007/s10710-020-09375-4,Multi-objective genetic programming for manifold learning: balancing quality and dimensionality,Andrew Lensen and Mengjie Zhang and Bing Xue,2020,6,Genetic Programming and Evolvable Machines
-10.1023/a:1023932912559,n.m.,John A. Rose,2003,8,Genetic Programming and Evolvable Machines
 10.1007/s10710-017-9295-y,"(Over-)Realism in evolutionary computation: Commentary on “On the Mapping of Genotype to Phenotype in Evolutionary Algorithms” by Peter A. Whigham, Grant Dick, and James Maclaurin",G. Squillero and A. Tonda,2017,4,Genetic Programming and Evolvable Machines
-10.1007/s10710-021-09412-w,EvoStencils: a grammar-based genetic programming approach for constructing efficient geometric multigrid methods,Jonas Schmitt and Sebastian Kuckuk and Harald Köstler,2021,1,Genetic Programming and Evolvable Machines
-10.1007/s10710-014-9239-8,Review and comparative analysis of geometric semantic crossovers,Tomasz P. Pawlak and Bartosz Wieloch and Krzysztof Krawiec,2015,26,Genetic Programming and Evolvable Machines
-10.1023/a:1010017207202,n.m.,C. R. Stephens and J. Mora Vargas,2000,16,Genetic Programming and Evolvable Machines
-10.1007/s10710-019-09365-1,Joseph E. Aoun: Robot-proof: higher education at the age of artificial intelligence,Rosa Leonor Ulloa-Cazarez,2020,7,Genetic Programming and Evolvable Machines
-10.1007/s10710-007-9051-9,A genetic algorithm for discrete tomography reconstruction,Cesare Valenti,2008,16,Genetic Programming and Evolvable Machines
-10.1007/s10710-006-9016-4,Editorial to special issue on evolutionary computation in dynamic and uncertain environments,Shengxiang Yang and Yew-Soon Ong and Yaochu Jin,2006,5,Genetic Programming and Evolvable Machines
-10.1007/s10710-010-9106-1,"Guest editorial: special issue on parallel and distributed evolutionary algorithms, part two",Marco Tomassini and Leonardo Vanneschi,2010,4,Genetic Programming and Evolvable Machines
-10.1007/s10710-006-9015-5,Estimation of evolvability genetic algorithm and dynamic environments,Yao Wang and Mark Wineberg,2006,13,Genetic Programming and Evolvable Machines
-10.1007/s10710-014-9230-4,Balanced Cartesian Genetic Programming via migration and opposition-based learning: application to symbolic regression,Samaneh Yazdani and Jamshid Shanbehzadeh,2015,12,Genetic Programming and Evolvable Machines
-10.1007/s10710-005-7580-7,Evolutionary Scheduling: A Review,Emma Hart and Peter Ross and David Corne,2005,83,Genetic Programming and Evolvable Machines
-10.1007/s10710-014-9218-0,A C++ framework for geometric semantic genetic programming,Mauro Castelli and Sara Silva and Leonardo Vanneschi,2015,68,Genetic Programming and Evolvable Machines
-10.1007/s10710-018-9339-y,DENSER: deep evolutionary network structured representation,Filipe Assunção and Nuno Lourenço and Penousal Machado and Bernardete Ribeiro,2019,60,Genetic Programming and Evolvable Machines
-10.1023/a:1026195112518,n.m.,Fabio A. González and Dipankar Dasgupta,2003,211,Genetic Programming and Evolvable Machines
-10.1007/s10710-019-09359-z,"Applications of genetic programming to finance and economics: past, present, future",Anthony Brabazon and Michael Kampouridis and Michael O’Neill,2020,12,Genetic Programming and Evolvable Machines
-10.1007/s10710-013-9210-0,A survey of semantic methods in genetic programming,Leonardo Vanneschi and Mauro Castelli and Sara Silva,2014,111,Genetic Programming and Evolvable Machines
-10.1007/s10710-012-9173-6,Multi-objective optimization of QCA circuits with multiple outputs using genetic programming,Razieh Rezaee and Mahboobeh Houshmand and Monireh Houshmand,2013,8,Genetic Programming and Evolvable Machines
-10.1023/b:genp.0000030195.77571.f9,Scaled Symbolic Regression,Maarten Keijzer,2004,72,Genetic Programming and Evolvable Machines
-10.1007/s10710-019-09373-1,Unimodal optimization using a genetic-programming-based method with periodic boundary conditions,Rogério C. B. L. Póvoa and Adriano S. Koshiyama and Douglas M. Dias and Patrícia L. Souza and Bruno A. C. Horta,2020,1,Genetic Programming and Evolvable Machines
-10.1007/s10710-006-9010-x,Biologically Inspired Algorithms for Financial Modelling,Mak Kaboudan,2006,2,Genetic Programming and Evolvable Machines
-10.1007/s10710-020-09395-0,Discovering novel memory cell designs for sentiment analysis on tweets,Sergiu Cosmin Nistor and Mircea Moca and Răzvan Liviu Nistor,2021,1,Genetic Programming and Evolvable Machines
-10.1007/s10710-016-9270-z,Evolution of sustained foraging in three-dimensional environments with physics,Nicolas Chaumont and Christoph Adami,2016,2,Genetic Programming and Evolvable Machines
-10.1007/s10710-009-9081-6,Evolutionary design of Evolutionary Algorithms,Laura Dioşan and Mihai Oltean,2009,32,Genetic Programming and Evolvable Machines
-10.1007/s10710-006-9012-8,Problem solution sustenance in XCS: Markov chain analysis of niche support distributions and the impact on computational complexity,Martin V. Butz and David E. Goldberg and Pier Luca Lanzi and Kumara Sastry,2007,15,Genetic Programming and Evolvable Machines
+10.1007/s10710-017-9297-9,Editorial introduction,Lee Spector,2017,2,Genetic Programming and Evolvable Machines
+10.1007/s10710-011-9145-2,"Trent McConaghy, P. Palmers, G. Peng, Michiel Steyaert, Georges Gielen: Variation-aware analog structural synthesis: a computational intelligence approach",John Rieffel,2011,0,Genetic Programming and Evolvable Machines
+10.1007/s10710-015-9254-4,Semantic methods in genetic programming,Michael O’Neill,2016,3,Genetic Programming and Evolvable Machines
+10.1007/s10710-012-9169-2,Andrew Adamatzky: Physarum Machines: Computers from Slime Mould,Vincenzo Bonifaci,2013,0,Genetic Programming and Evolvable Machines
+10.1007/s10710-015-9261-5,Editorial introduction,Lee Spector,2016,0,Genetic Programming and Evolvable Machines
+10.1007/s10710-008-9071-0,Juan Romero and Penousal Machado (eds): The Art of Artificial Evolution: A Handbook on Evolutionary Art and Music,Jeroen Eggermont,2009,0,Genetic Programming and Evolvable Machines
+10.1007/s10710-011-9140-7,Long memory time series forecasting by using genetic programming,Emiliano Carreño Jara,2011,11,Genetic Programming and Evolvable Machines
+10.1007/s10710-007-9032-z,Evolvable hardware,Eduardo do Valle Simoes,2007,0,Genetic Programming and Evolvable Machines
+10.1023/a:1020130108341,n.m.,Hillol Kargupta and Samiran Ghosh,2002,7,Genetic Programming and Evolvable Machines
+10.1007/s10710-014-9215-3,Daren C. Brabham: Crowdsourcing,Lixiu Yu,2014,0,Genetic Programming and Evolvable Machines
+10.1007/s10710-015-9255-3,A new real-coded stochastic Bayesian optimization algorithm for continuous global optimization,Behnaz Moradabadi and Mohammad Mahdi Ebadzadeh and Mohammad Reza Meybodi,2016,3,Genetic Programming and Evolvable Machines
+10.1007/s10710-005-4804-9,"Embracing Plagiarism: Theoretical, Biological and Empirical Justification for Copy Operators in Genetic Optimisation",S. McGregor and I. Harvey,2005,4,Genetic Programming and Evolvable Machines
+10.1007/s10710-017-9286-z,Acknowledgment to Reviewers,L. Spector,2017,0,Genetic Programming and Evolvable Machines
+10.1007/s10710-018-9320-9,Implementing the template method pattern in genetic programming for improved time series prediction,David Moskowitz,2018,5,Genetic Programming and Evolvable Machines
 10.1007/s10710-012-9178-1,A module-level three-stage approach to the evolutionary design of sequential logic circuits,Yanyun Tao and Yuzhen Zhang and Jian Cao and Yalong Huang,2013,3,Genetic Programming and Evolvable Machines
 10.1007/s10710-015-9244-6,Neutral genetic drift: an investigation using Cartesian Genetic Programming,Andrew James Turner and Julian Francis Miller,2015,25,Genetic Programming and Evolvable Machines
-10.1007/s10710-019-09361-5,Genetic programming for natural language processing,Lourdes Araujo,2020,4,Genetic Programming and Evolvable Machines
-10.1023/a:1014827205360,n.m.,K. Dautenhahn,2002,5,Genetic Programming and Evolvable Machines
-10.1007/s10710-019-09354-4,Evolving autoencoding structures through genetic programming,Lino Rodriguez-Coayahuitl and Alicia Morales-Reyes and Hugo Jair Escalante,2019,10,Genetic Programming and Evolvable Machines
-10.1007/s10710-008-9067-9,Coevolutionary bid-based genetic programming for problem decomposition in classification,Peter Lichodzijewski and Malcolm I. Heywood,2008,16,Genetic Programming and Evolvable Machines
-10.1023/a:1026191011609,n.m.,Emma Hart and Peter Ross,2003,8,Genetic Programming and Evolvable Machines
-10.1007/s10710-007-9025-y,Integrating generative growth and evolutionary computation for form exploration,Una-May O’Reilly and Martin Hemberg,2007,27,Genetic Programming and Evolvable Machines
+10.1007/s10710-006-9012-8,Problem solution sustenance in XCS: Markov chain analysis of niche support distributions and the impact on computational complexity,Martin V. Butz and David E. Goldberg and Pier Luca Lanzi and Kumara Sastry,2007,15,Genetic Programming and Evolvable Machines
+10.1007/s10710-009-9081-6,Evolutionary design of Evolutionary Algorithms,Laura Dioşan and Mihai Oltean,2009,32,Genetic Programming and Evolvable Machines
+10.1023/b:genp.0000036057.27304.5b,Book Review: Grammatical Evolution: Evolutionary Automatic Programming in an Arbitrary Language,Manuel Alfonseca and Alfonso Ortega,2004,1,Genetic Programming and Evolvable Machines
+10.1007/s10710-007-9047-5,Theoretical foundations of evolutionary computation,Xiaodong Li and Wenjian Luo and Xin Yao,2008,0,Genetic Programming and Evolvable Machines
+10.1007/s10710-010-9108-z,Erratum to: Stochastic optimization of a biologically plausible spino-neuromuscular system model,Stanley Gotshall and Kathy Browder and Jessica Sampson and Terence Soule and Richard Wells,2011,0,Genetic Programming and Evolvable Machines
+10.1007/s10710-017-9291-2,"Genotype–phenotype mapping implications for genetic programming representation: Commentary on “On the mapping of genotype to phenotype in evolutionary algorithms” by Peter A. Whigham, Grant Dick, and James Maclaurin",Anikó Ekárt and Peter R. Lewis,2017,1,Genetic Programming and Evolvable Machines
+10.1007/s10710-006-4866-3,Automatic Quantum Computer Programming: A Genetic Programming Approach,Michel Toulouse,2006,1,Genetic Programming and Evolvable Machines
+10.1007/s10710-014-9225-1,Unplugging Evolutionary Algorithms: an experiment on human-algorithmic creativity,F. Fernández de Vega and C. Cruz and L. Navarro and P. Hernández and T. Gallego and L. Espada,2014,6,Genetic Programming and Evolvable Machines
+10.1007/s10710-013-9184-y,A new genetic programming framework based on reaction systems,Luca Manzoni and Mauro Castelli and Leonardo Vanneschi,2013,0,Genetic Programming and Evolvable Machines
+10.1007/s10710-005-7616-z,Introduction,James A. Foster and Erick Cantú-Paz,2005,0,Genetic Programming and Evolvable Machines
+10.1007/s10710-008-9061-2,Evolving encapsulated programs as shared grammars,Martin H. Luerssen and David M. W. Powers,2008,2,Genetic Programming and Evolvable Machines
+10.1007/s10710-006-9002-x,Special Issue: Best of GECCO 2005,Hans-Georg Beyer,2006,0,Genetic Programming and Evolvable Machines
+10.1023/a:1010017207202,n.m.,C. R. Stephens and J. Mora Vargas,2000,16,Genetic Programming and Evolvable Machines
+10.1007/s10710-009-9083-4,A three-step decomposition method for the evolutionary design of sequential logic circuits,Houjun Liang and Wenjian Luo and Xufa Wang,2009,13,Genetic Programming and Evolvable Machines
+10.1007/s10710-014-9221-5,On evolvability and robustness in the matrix-GRT model,Uwe Tangen,2014,1,Genetic Programming and Evolvable Machines
+10.1023/a:1010076931170,n.m.,W. Banzhaf,2001,0,Genetic Programming and Evolvable Machines
+10.1023/a:1011552313821,n.m.,Riccardo Poli,2001,53,Genetic Programming and Evolvable Machines
+10.1007/s10710-008-9064-z,"Russel C. Eberhart, Yuhui Shi: Computational Intelligence: Concepts to Implementation",Pablo A. Estévez,2008,0,Genetic Programming and Evolvable Machines
+10.1007/s10710-015-9245-5,"Patricia Vargas, Ezequiel Di Paolo, Inman Harvey, and Phil Husbands (eds), The Horizons of Evolutionary Robotics, The MIT Press, 2014, ISBN: 978-0-262-02676-5, Hardcover book, 302 pages",Joel Lehman,2015,0,Genetic Programming and Evolvable Machines
+10.1007/s10710-006-9016-4,Editorial to special issue on evolutionary computation in dynamic and uncertain environments,Shengxiang Yang and Yew-Soon Ong and Yaochu Jin,2006,5,Genetic Programming and Evolvable Machines
+10.1007/s10710-011-9146-1,Paul Coates: Programming architecture,Benachir Medjdoub,2011,0,Genetic Programming and Evolvable Machines
+10.1007/s10710-014-9214-4,Software review: the HeuristicLab framework,Achiya Elyasaf and Moshe Sipper,2014,12,Genetic Programming and Evolvable Machines
+10.1007/s10710-021-09412-w,EvoStencils: a grammar-based genetic programming approach for constructing efficient geometric multigrid methods,Jonas Schmitt and Sebastian Kuckuk and Harald Köstler,2021,1,Genetic Programming and Evolvable Machines
+10.1007/s10710-005-3295-z,Meta-Heuristic Algorithms for FPGA Segmented Channel Routing Problems with Non-standard Cost Functions,Sancho Salcedo-Sanz and Yong Xu and Xin Yao,2005,6,Genetic Programming and Evolvable Machines
+10.1007/s10710-010-9111-4,Genetic Programming and Evolvable Machines: ten years of reviews,W. B. Langdon and S. M. Gustafson,2010,16,Genetic Programming and Evolvable Machines
+10.1007/s10710-019-09353-5,Genetic programming theory and practice: a fifteen-year trajectory,Moshe Sipper and Jason H. Moore,2020,3,Genetic Programming and Evolvable Machines
 10.1023/a:1011504414730,n.m.,Jason M. Daida and Robert R. Bertram and Stephen A. Stanhope and Jonathan C. Khoo and Shahbaz A. Chaudhary and Omer A. Chaudhri and John A. II Polito,2001,74,Genetic Programming and Evolvable Machines
 10.1007/s10710-014-9213-5,Designing robust volunteer-based evolutionary algorithms,J. L. J. Laredo and P. Bouvry and D. L. González and F. Fernández de Vega and M. G. Arenas and J. J. Merelo and C. M. Fernandes,2014,17,Genetic Programming and Evolvable Machines
-10.1007/s10710-014-9236-y,Evolutionary model building under streaming data for classification tasks: opportunities and challenges,Malcolm I. Heywood,2015,27,Genetic Programming and Evolvable Machines
-10.1007/s10710-011-9140-7,Long memory time series forecasting by using genetic programming,Emiliano Carreño Jara,2011,11,Genetic Programming and Evolvable Machines
-10.1023/a:1012978805372,n.m.,Markus Brameier and Wolfgang Banzhaf,2001,85,Genetic Programming and Evolvable Machines
-10.1007/s10710-007-9035-9,Evolutionary computation: a unified approach,Colin R. Reeves,2007,1,Genetic Programming and Evolvable Machines
+10.1007/s10710-007-9051-9,A genetic algorithm for discrete tomography reconstruction,Cesare Valenti,2008,16,Genetic Programming and Evolvable Machines
+10.1007/s10710-011-9156-z,Evolutionary algorithms for data mining,Pierre Collet and Man Leung Wong,2012,1,Genetic Programming and Evolvable Machines
+10.1007/s10710-008-9067-9,Coevolutionary bid-based genetic programming for problem decomposition in classification,Peter Lichodzijewski and Malcolm I. Heywood,2008,16,Genetic Programming and Evolvable Machines
+10.1023/a:1026191011609,n.m.,Emma Hart and Peter Ross,2003,8,Genetic Programming and Evolvable Machines
+10.1007/s10710-013-9206-9,A new real-coded Bayesian optimization algorithm based on a team of learning automata for continuous optimization,Behnaz Moradabadi and Hamid Beigy,2014,23,Genetic Programming and Evolvable Machines
+10.1007/s10710-020-09395-0,Discovering novel memory cell designs for sentiment analysis on tweets,Sergiu Cosmin Nistor and Mircea Moca and Răzvan Liviu Nistor,2021,1,Genetic Programming and Evolvable Machines
+10.1007/s10710-014-9220-6,Improving GP generalization: a variance-based layered learning approach,Maryam Amir Haeri and Mohammad Mehdi Ebadzadeh and Gianluigi Folino,2015,12,Genetic Programming and Evolvable Machines
+10.1007/s10710-021-09413-9,Graph representations in genetic programming,Léo Françoso Dal Piccol Sotto and Paul Kaufmann and Timothy Atkinson and Roman Kalkreuth and Márcio Porto Basgalupp,2021,2,Genetic Programming and Evolvable Machines
+10.1007/s10710-018-9327-2,Designing automatically a representation for grammatical evolution,Eric Medvet and Alberto Bartoli and Andrea De Lorenzo and Fabiano Tarlao,2019,2,Genetic Programming and Evolvable Machines
+10.1007/s10710-017-9288-x,On the mapping of genotype to phenotype in evolutionary algorithms,Peter A. Whigham and Grant Dick and James Maclaurin,2017,15,Genetic Programming and Evolvable Machines
+10.1007/s10710-016-9278-4,Online Genetic Improvement on the java virtual machine with ECSELR,Kwaku Yeboah-Antwi and Benoit Baudry,2017,3,Genetic Programming and Evolvable Machines
+10.1007/s10710-010-9106-1,"Guest editorial: special issue on parallel and distributed evolutionary algorithms, part two",Marco Tomassini and Leonardo Vanneschi,2010,4,Genetic Programming and Evolvable Machines
+10.1007/s10710-016-9270-z,Evolution of sustained foraging in three-dimensional environments with physics,Nicolas Chaumont and Christoph Adami,2016,2,Genetic Programming and Evolvable Machines
+10.1007/s10710-019-09361-5,Genetic programming for natural language processing,Lourdes Araujo,2020,4,Genetic Programming and Evolvable Machines
+10.1007/s10710-006-9010-x,Biologically Inspired Algorithms for Financial Modelling,Mak Kaboudan,2006,2,Genetic Programming and Evolvable Machines
+10.1007/s10710-019-09359-z,"Applications of genetic programming to finance and economics: past, present, future",Anthony Brabazon and Michael Kampouridis and Michael O’Neill,2020,12,Genetic Programming and Evolvable Machines
+10.1007/s10710-014-9230-4,Balanced Cartesian Genetic Programming via migration and opposition-based learning: application to symbolic regression,Samaneh Yazdani and Jamshid Shanbehzadeh,2015,12,Genetic Programming and Evolvable Machines
+10.1023/a:1026195112518,n.m.,Fabio A. González and Dipankar Dasgupta,2003,211,Genetic Programming and Evolvable Machines
 10.1007/s10710-010-9101-6,An ensemble-based evolutionary framework for coping with distributed intrusion detection,Gianluigi Folino and Clara Pizzuti and Giandomenico Spezzano,2010,24,Genetic Programming and Evolvable Machines
-10.1023/a:1023985029398,n.m.,Udo Feldkamp,2003,27,Genetic Programming and Evolvable Machines
+10.1007/s10710-019-09365-1,Joseph E. Aoun: Robot-proof: higher education at the age of artificial intelligence,Rosa Leonor Ulloa-Cazarez,2020,7,Genetic Programming and Evolvable Machines
+10.1023/a:1014827205360,n.m.,K. Dautenhahn,2002,5,Genetic Programming and Evolvable Machines
+10.1007/s10710-021-09406-8,Tag-based regulation of modules in genetic programming improves context-dependent problem solving,Alexander Lalejini and Matthew Andres Moreno and Charles Ofria,2021,4,Genetic Programming and Evolvable Machines
+10.1007/s10710-014-9239-8,Review and comparative analysis of geometric semantic crossovers,Tomasz P. Pawlak and Bartosz Wieloch and Krzysztof Krawiec,2015,26,Genetic Programming and Evolvable Machines
+10.1007/s10710-014-9218-0,A C++ framework for geometric semantic genetic programming,Mauro Castelli and Sara Silva and Leonardo Vanneschi,2015,68,Genetic Programming and Evolvable Machines
+10.1023/a:1023932912559,n.m.,John A. Rose,2003,8,Genetic Programming and Evolvable Machines
+10.1007/s10710-007-9035-9,Evolutionary computation: a unified approach,Colin R. Reeves,2007,1,Genetic Programming and Evolvable Machines
+10.1007/s10710-014-9236-y,Evolutionary model building under streaming data for classification tasks: opportunities and challenges,Malcolm I. Heywood,2015,27,Genetic Programming and Evolvable Machines
 10.1007/s10710-011-9135-4,Open BEAGLE: a generic framework for evolutionary computations,Dmitry Batenkov,2011,3,Genetic Programming and Evolvable Machines
-10.1007/s10710-010-9112-3,Human-competitive results produced by genetic programming,John R. Koza,2010,203,Genetic Programming and Evolvable Machines
+10.1023/a:1023985029398,n.m.,Udo Feldkamp,2003,28,Genetic Programming and Evolvable Machines
+10.1007/s10710-022-09441-z,Evolutionary approximation and neural architecture search,Michal Pinos and Vojtech Mrazek and Lukas Sekanina,2022,2,Genetic Programming and Evolvable Machines
+10.1007/s10710-005-7580-7,Evolutionary Scheduling: A Review,Emma Hart and Peter Ross and David Corne,2005,84,Genetic Programming and Evolvable Machines
+10.1023/a:1012978805372,n.m.,Markus Brameier and Wolfgang Banzhaf,2001,86,Genetic Programming and Evolvable Machines
+10.1007/s10710-013-9210-0,A survey of semantic methods in genetic programming,Leonardo Vanneschi and Mauro Castelli and Sara Silva,2014,112,Genetic Programming and Evolvable Machines
+10.1007/s10710-019-09354-4,Evolving autoencoding structures through genetic programming,Lino Rodriguez-Coayahuitl and Alicia Morales-Reyes and Hugo Jair Escalante,2019,11,Genetic Programming and Evolvable Machines
+10.1007/s10710-009-9092-3,Genetic programming on graphics processing units,Denis Robilliard and Virginie Marion-Poty and Cyril Fonlupt,2009,38,Genetic Programming and Evolvable Machines
+10.1007/s10710-020-09375-4,Multi-objective genetic programming for manifold learning: balancing quality and dimensionality,Andrew Lensen and Mengjie Zhang and Bing Xue,2020,7,Genetic Programming and Evolvable Machines
+10.1007/s10710-011-9143-4,"Multi-class pattern classification using single, multi-dimensional feature-space feature extraction evolved by multi-objective genetic programming and its application to network intrusion detection",Khaled Badran and Peter Rockett,2012,14,Genetic Programming and Evolvable Machines
+10.1007/s10710-007-9025-y,Integrating generative growth and evolutionary computation for form exploration,Una-May O’Reilly and Martin Hemberg,2007,28,Genetic Programming and Evolvable Machines
+10.1023/b:genp.0000030195.77571.f9,Scaled Symbolic Regression,Maarten Keijzer,2004,73,Genetic Programming and Evolvable Machines
+10.1007/s10710-010-9112-3,Human-competitive results produced by genetic programming,John R. Koza,2010,205,Genetic Programming and Evolvable Machines
+10.1007/s10710-019-09373-1,Unimodal optimization using a genetic-programming-based method with periodic boundary conditions,Rogério C. B. L. Póvoa and Adriano S. Koshiyama and Douglas M. Dias and Patrícia L. Souza and Bruno A. C. Horta,2020,2,Genetic Programming and Evolvable Machines
+10.1007/s10710-017-9302-3,Comparison of ensemble learning methods for creating ensembles of dispatching rules for the unrelated machines environment,Marko Ɖurasević and Domagoj Jakobović,2018,26,Genetic Programming and Evolvable Machines
+10.1007/s10710-018-9339-y,DENSER: deep evolutionary network structured representation,Filipe Assunção and Nuno Lourenço and Penousal Machado and Bernardete Ribeiro,2019,61,Genetic Programming and Evolvable Machines

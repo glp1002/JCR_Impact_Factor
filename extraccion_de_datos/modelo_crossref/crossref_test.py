@@ -17,7 +17,7 @@ import unittest
 
 import crossref_prototipo as cr
 
-class TestJournalExist(unittest.TestCase):
+class TestCrossref(unittest.TestCase):
     
     def test_journal_exist(self):
         # Caso de prueba 1: revista existe
@@ -101,21 +101,21 @@ class TestJournalExist(unittest.TestCase):
         cr.main("2000", "2023", r'JCR_AI_2021.csv')
    
         # Caso de prueba 14: Se genera una gráfica al finalizar el proceso
-        self.assertTrue(os.path.isfile('grafica_tiempos.png'))
+        self.assertTrue(os.path.isfile('./resultados2/grafica_tiempos.png'))
 
         # Caso de prueba 15: Se generan ficheros CSVs de resultados 
-        self.assertTrue(os.path.isfile('resultados_1435-5655.csv'))
-        self.assertTrue(os.path.isfile('resultados_1875-8827.csv'))
+        self.assertTrue(os.path.isfile('./resultados2/resultados_2375-4699.csv'))
+        self.assertTrue(os.path.isfile('./resultados2/resultados_2168-2291.csv'))
     
         # Caso de prueba 16: Se genera un fichero de log
-        self.assertTrue(os.path.isfile('crossref.log'))
+        self.assertTrue(os.path.isfile('./resultados2/crossref.log'))
         
         # Caso de prueba 17: La información de log es correcta
-        log_file = open("crossref.log", "r")
+        log_file = open("./resultados2/crossref.log", "r")
         log_contents = log_file.read()
-        self.assertIn(' - crossref_log - ERROR - Error para "Foundations of Computing and Decision Sciences" al realizar la solicitud: 404', log_contents)
-        self.assertIn(' - crossref_log - ERROR - Error para "International Journal of Innovative Computing Information and Control" al realizar la solicitud: 404', log_contents)
-        self.assertIn(' - crossref_log - INFO - Extraccion de la revista Patterns', log_contents)
+        self.assertIn('New CROSSREF execution:', log_contents)
+        self.assertIn('- ERROR - Error para "JOURNAL OF MULTIPLE-VALUED LOGIC AND SOFT COMPUTING" al realizar la solicitud: 404', log_contents)
+        self.assertIn('- INFO - Extraccion de la revista Information Technology and Control', log_contents)
         
         
 if __name__ == '__main__':

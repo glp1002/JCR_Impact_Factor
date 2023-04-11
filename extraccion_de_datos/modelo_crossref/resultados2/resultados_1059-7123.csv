@@ -6,13 +6,19 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1177/1059712306072337,Emotional Behavior: A Resource Management Approach,Saman Harati Zadeh and Saeed Bagheri Shouraki and Ramin Halavati,2006,7,Adaptive Behavior
 10.1177/1059712318793836,Process Externalism and mental causation: setting metaphysical bounds on cognitive science,Camilo Ramirez Motoa,2019,0,Adaptive Behavior
 10.1177/1059712319843267,Slimes and cyborgs: stretching the boundaries of life,Mark Miller and Kathryn Nave,2020,1,Adaptive Behavior
+10.1177/105971230601400306,How Learning Affects the Evolution of Strong Reciprocity,Juan Pablo Calderón and Roberto Zarama,2006,3,Adaptive Behavior
+10.1177/1059712311426800,Sequential analyses of foraging behavior and attack speed in ambush and widely foraging lizards,Eric J McElroy and Lance D McBrayer and Steven C Williams and Roger A Anderson and Stephen M Reilly,2012,10,Adaptive Behavior
+10.1177/1059712310385875,"A swarm cognition realization of attention, action selection, and spatial memory",Pedro Santana and Luís Correia,2010,9,Adaptive Behavior
+10.1177/1059712314537090,Mixed human/entity games and the anomalous effects of misattributing strategic agency,Seth Frey,2014,2,Adaptive Behavior
+10.1177/1059712319867907,Lost in words,Randall D Beer,2020,3,Adaptive Behavior
+10.1177/1059712313488789,Mental imagery in the navigation domain: a computational model of sensory-motor simulation mechanisms,Fabian Chersi and Francesco Donnarumma and Giovanni Pezzulo,2013,20,Adaptive Behavior
+10.1177/1059712313491295,Dreaming of electric sheep? Exploring the functions of dream-like mechanisms in the development of mental imagery simulations,Henrik Svensson and Serge Thill and Tom Ziemke,2013,13,Adaptive Behavior
 10.1177/1059712310383914,Gauging the value of good data: Informational embodiment quantification,Chris Thornton,2010,3,Adaptive Behavior
 10.1177/10597123211031720,Epilogue to “Questioning Life and Cognition” by John Stewart,Tom Froese,2021,1,Adaptive Behavior
 10.1177/1059712314544177,Building bodies and brains,Henrik Hautop Lund,2014,1,Adaptive Behavior
 10.1177/105971230000800301,"Exploration, Navigation and Cognitive Mapping",Horatiu Voicu and Nestor Schmajuk,2000,10,Adaptive Behavior
 10.1177/1059712309340849,"Model the Real, Artificial, or Stylized Iguana? Artificial Life and Adaptive Behavior Can Be Linked Through Pattern-Oriented Modeling",Volker Grimm and Steven F. Railsback,2009,0,Adaptive Behavior
 10.1177/1059712306072338,Adaptation of Controllers for Image-Based Homing,Markos Zampoglou and Matthew Szenher and Barbara Webb,2006,9,Adaptive Behavior
-10.1177/1059712319839386,A review of the use of computational technology in applied behavior analysis,Diogo Fernando Trevisan and Lorraine Becerra and Priscila Benitez and Thomas S Higbee and João Paulo Gois,2019,5,Adaptive Behavior
 10.1177/1059712320930418,Experimental capabilities and limitations of a position-based control algorithm for swarm robotics,Yating Zheng and Cristián Huepe and Zhangang Han,2022,4,Adaptive Behavior
 10.1177/105971230000800202,Learning and Unlearning Mechanisms in Animats and Animals,Tony Savage and Tom Ziemke,2000,1,Adaptive Behavior
 10.1177/1059712309342487,Incremental Learning and Memory Consolidation of Whole Body Human Motion Primitives,Dana Kulić and Yoshihiko Nakamura,2009,5,Adaptive Behavior
@@ -20,13 +26,13 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1177/1059712309340853,"Never Mind the Iguana, What About the Tortoise? Models in Adaptive Behavior",Phil Husbands,2009,4,Adaptive Behavior
 10.1177/1059712315588613,State-dependent behavioral theory and the evolution of play,Nicholas Grunloh and Marc Mangel,2015,4,Adaptive Behavior
 10.1177/105971230401200305,A Model of Adaptation in Collaborative Multi-Agent Systems,Kristina Lerman,2004,7,Adaptive Behavior
-10.1177/1059712316668239,Grounding emotions in robots – An introduction to the special issue,Robert Lowe and Emilia Barakova and Erik Billing and Joost Broekens,2016,5,Adaptive Behavior
 10.1177/10597123211031016,"Perceiving at a distance: enaction, exteriority and possibility – a tribute to John Stewart",Charles Lenay,2021,0,Adaptive Behavior
 10.1177/105971230000800205,"An Architecture for Learning ""Potential Field"" Cognitive Maps with an Application to Mobile Robotics",Anthony G. Pipe,2000,10,Adaptive Behavior
 10.1177/1059712318811900,Empathy from a “4E cognition” perspective: the problem of lynching,Laura Milena Segovia Nieto and Andrés Fernando Ramírez Velandia,2019,1,Adaptive Behavior
 10.1177/1059712319836401,Habeas corpus: the ins and outs of autopoiesis,Inman Harvey,2020,1,Adaptive Behavior
 10.1177/1059712318824697,Affordance-based altruistic robotic architecture for human–robot collaboration,Mert Imre and Erhan Oztop and Yukie Nagai and Emre Ugur,2019,5,Adaptive Behavior
 10.1177/1059712316685875,An adaptive framework for mobile robot navigation,Mehmet Serdar Güzel and Mehmet Kara and Mehmet Sıtkı Beyazkılıç,2017,5,Adaptive Behavior
+10.1177/1059712316664187,Can my robotic home cleaner be happy? Issues about emotional expression in non-bio-inspired robots,Andrea Bonarini,2016,11,Adaptive Behavior
 10.1177/1059712309340851,Tool-Makers Versus Tool-Users: Division of Labor,Inman Harvey,2009,0,Adaptive Behavior
 10.1177/1059712311403631,Flexible and multistable pattern generation by evolving constrained plastic neurocontrollers,Thierry Hoinville and Cecilia Tapia Siles and Patrick Hénaff,2011,7,Adaptive Behavior
 10.1177/1059712317719967,On the statistical properties of operant settings and their contribution to the evaluation of sensitivity to reinforcement,Pier-Olivier Caron,2017,1,Adaptive Behavior
@@ -38,7 +44,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1177/1059712314565135,Lessons learned from Takashi Gomi,Hansruedi Früh,2015,0,Adaptive Behavior
 10.1177/1059712319829972,Thanks to reviewers,,2019,0,Adaptive Behavior
 10.1177/1059712320924744,Dual exploration strategies using artificial spiking neural networks in a robotic learning task,André Cyr and Julie Morand-Ferron and Frédéric Thériault,2021,1,Adaptive Behavior
-10.1177/10597123221084739,Toward a science of experience: Outlining some challenges and future directions,Camila Valenzuela-Moguillansky and Ema Demšar,2022,1,Adaptive Behavior
 10.1177/1059712307084686,"Affect, Anticipation, and Adaptation: Affect-Controlled Selection of Anticipatory Simulation in Artificial Adaptive Agents",Joost Broekens and Walter A. Kosters and Fons J. Verbeek,2007,24,Adaptive Behavior
 10.1177/1059712319861663,Phenomenological ethnography can lead to the improvement of radiology diagnostics,Mindaugas Briedis,2019,0,Adaptive Behavior
 10.1177/1059712319840277,Putting Autopoietic Bodies Under Pressure,Mog Stapleton,2020,1,Adaptive Behavior
@@ -48,12 +53,12 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1177/10597123010093006,Experiments with a Social Learning Model,Yuval Marom and George Maistros and Gillian Hayes,2001,10,Adaptive Behavior
 10.1177/1059712313483418,Foundations of enactive cognitive science,Etienne B Roesch and Slawomir Nasuto and J Mark Bishop,2013,0,Adaptive Behavior
 10.1177/1059712318771975,What’s war got to do with it?,Carel P van Schaik,2018,0,Adaptive Behavior
+10.1177/1059712319839386,A review of the use of computational technology in applied behavior analysis,Diogo Fernando Trevisan and Lorraine Becerra and Priscila Benitez and Thomas S Higbee and João Paulo Gois,2019,7,Adaptive Behavior
+10.1177/1059712316668239,Grounding emotions in robots – An introduction to the special issue,Robert Lowe and Emilia Barakova and Erik Billing and Joost Broekens,2016,6,Adaptive Behavior
 10.1177/10597123221133869,Change-Ability for a World in Flux,Erik Rietveld,2022,2,Adaptive Behavior
 10.1177/10597123211006463,Non-discursive philosophy by imagining new practices through design,Caroline Hummels and Sander van der Zwan and Maarten Smith and Jelle Bruineberg,2022,1,Adaptive Behavior
 10.1177/10597123221135383,Editorial – The affordances of art,Julian Kiverstein,2022,0,Adaptive Behavior
-10.1177/1059712307082088,Towards Energy Optimization: Emergent Task Allocation in a Swarm of Foraging Robots,Wenguo Liu and Alan F. T. Winfield and Jin Sa and Jie Chen and Lihua Dou,2007,92,Adaptive Behavior
 10.1177/1059712318822298,Cultural complexity and complexity evolution,Dwight Read and Claes Andersson,2020,5,Adaptive Behavior
-10.1177/1059712311409446,"Plants: Adaptive behavior, root-brains, and minimal cognition",Paco Calvo Garzón and Fred Keijzer,2011,95,Adaptive Behavior
 10.1177/105971230501300202,Cognitive Maps in Rats and Robots,Verena V. Hafner,2005,16,Adaptive Behavior
 10.1177/1059712311419680,An evolutionary behavioral model for decision making,Oscar Javier Romero López,2011,2,Adaptive Behavior
 10.1177/1059712312442402,Effects of asymmetry and learning on phonotaxis in a robot based on the lizard auditory system,Lei Zhang and John Hallam and Jakob Christensen-Dalsgaard,2012,1,Adaptive Behavior
@@ -61,6 +66,8 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1177/1059712319835162,Social enactivism about perception—reply to McGann,Alejandro Arango,2019,0,Adaptive Behavior
 10.1177/1059712308089180,On Cognition as Dynamical Coupling: An Analysis of Behavioral Attractor Dynamics,Alberto Montebelli and Carlos Herrera and Tom Ziemke,2008,15,Adaptive Behavior
 10.1177/1059712313509652,Society of Mind cognitive agent architecture applied to drivers adapting in a traffic context,George Leu and Neville J Curtis and Hussein A Abbass,2014,3,Adaptive Behavior
+10.1177/1059712307082088,Towards Energy Optimization: Emergent Task Allocation in a Swarm of Foraging Robots,Wenguo Liu and Alan F. T. Winfield and Jin Sa and Jie Chen and Lihua Dou,2007,94,Adaptive Behavior
+10.1177/1059712313487390,Encouraging reactivity to create robust machines,Joel Lehman and Sebastian Risi and David D’Ambrosio and Kenneth O Stanley,2013,17,Adaptive Behavior
 10.1177/1059712308087285,Hierarchical Co-evolution of Cooperating Agents Acting in the Brain-Arena,Michail Maniadakis and Panos Trahanias,2008,6,Adaptive Behavior
 10.1177/1059712314527005,Outcome probability modulates anticipatory behavior to signals that are equally reliable,Helena Matute and Sara Steegen and Miguel A Vadillo,2014,3,Adaptive Behavior
 10.1177/1059712311404779,Erratum,,2011,0,Adaptive Behavior
@@ -73,6 +80,8 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1177/1059712318756167,Synthetic biology and (embodied) artificial intelligence: opportunities and challenges,Pasquale Stano and Yutetsu Kuruma and Luisa Damiano,2018,7,Adaptive Behavior
 10.1177/1059712319841740,Reflections in relation to the article of Villalobos and Razeto,Humberto Maturana Romesín,2020,3,Adaptive Behavior
 10.1177/1059712314543277,"Takashi Gomi, vision and ethics",Francesco Mondada,2014,0,Adaptive Behavior
+10.1177/1059712313482953,Enactive cognitive science: revisionism or revolution?,Mario Villalobos,2013,14,Adaptive Behavior
+10.1177/10597123211072352,A micro-phenomenological and semiotic approach to cognition in practice: a path toward an integrative approach to studying cognition-in-the-world and from within,Germain Poizat and Simon Flandin and Jacques Theureau,2022,6,Adaptive Behavior
 10.1177/1059712320937475,Structural coupling and the puzzle of surfaces: ontology of boundaries from the minimally cognitive perspective,Konrad Werner,2021,2,Adaptive Behavior
 10.1177/105971230601400305,A Model of Social Organization and the Evolution of Food Sharing in Vampire Bats,Mario Paolucci and Rosaria Conte and Gennaro Di Tosto,2006,16,Adaptive Behavior
 10.1177/1059712314559525,Transfer learning with probabilistic mapping selection,Anestis Fachantidis and Ioannis Partalas and Matthew E Taylor and Ioannis Vlahavas,2015,11,Adaptive Behavior
@@ -88,17 +97,12 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1177/105971230000800305,"Evolution and Learning in Neural Networks: Dynamic Correlation, Relearning and Thresholding",Brian Carse and Johan Oreland,2000,1,Adaptive Behavior
 10.1177/1059712306076252,Forced Moves or Good Tricks in Design Space? Landmarks in the Evolution of Neural Mechanisms for Action Selection,Tony J. Prescott,2007,30,Adaptive Behavior
 10.1177/1059712318793123,Musicality as material culture,Sergio F Martínez and Alejandro Villanueva,2018,2,Adaptive Behavior
-10.1177/1059712311421219,A review of long-term memory in natural and synthetic systems,Rachel Wood and Paul Baxter and Tony Belpaeme,2012,52,Adaptive Behavior
 10.1177/1059712317731606,Robots will dominate the use of our language,Jürgen Brandstetter and Christoph Bartneck,2017,1,Adaptive Behavior
 10.1177/105971230501300206,The Cyber Rodent Project: Exploration of Adaptive Mechanisms for Self-Preservation and Self-Reproduction,Kenji Doya and Eiji Uchibe,2005,49,Adaptive Behavior
 10.1177/10597123020101001,Evolution of Reinforcement Learning in Uncertain Environments: A Simple Explanation for Complex Foraging Behaviors,Y. Niv and D. Joel and I. Meilijson and E. Ruppin,2002,78,Adaptive Behavior
 10.1177/1059712309340855,Rehabilitating Biology as a Natural History,Takashi Ikegami,2009,3,Adaptive Behavior
-10.1177/1059712308090537,Evolution of Solitary and Group Transport Behaviors for Autonomous Robots Capable of Self-Assembling,Roderich Groβ and Marco Dorigo,2008,37,Adaptive Behavior
 10.1177/1059712310379923,Evolving plastic neural networks with novelty search,Sebastian Risi and Charles E Hughes and Kenneth O Stanley,2010,50,Adaptive Behavior
-10.1177/10597123211072352,A micro-phenomenological and semiotic approach to cognition in practice: a path toward an integrative approach to studying cognition-in-the-world and from within,Germain Poizat and Simon Flandin and Jacques Theureau,2022,4,Adaptive Behavior
-10.1177/1059712313487390,Encouraging reactivity to create robust machines,Joel Lehman and Sebastian Risi and David D’Ambrosio and Kenneth O Stanley,2013,16,Adaptive Behavior
 10.1177/1059712303113003,Evolving Controllers for Real Robots: A Survey of the Literature,Joanne Walker and Simon Garrett and Myra Wilson,2003,34,Adaptive Behavior
-10.1177/1059712316664187,Can my robotic home cleaner be happy? Issues about emotional expression in non-bio-inspired robots,Andrea Bonarini,2016,11,Adaptive Behavior
 10.1177/1059712307084688,The Dynamics of Associative Learning in Evolved Model Circuits,Phattanard Phattanasri and Hillel J. Chiel and Randall D. Beer,2007,21,Adaptive Behavior
 10.1177/1059712321995229,Making and embedding humane technologies: can artistic practices provide normative guidance?,Janna Bertchen van Grunsven,2022,1,Adaptive Behavior
 10.1177/1059712313500502,How universal can an intelligence test be?,David L Dowe and José Hernández-Orallo,2014,8,Adaptive Behavior
@@ -109,40 +113,43 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1177/1059712310376842,Self-Organizing Sensorimotor Maps Plus Internal Motivations Yield Animal-Like Behavior,Martin V. Butz and Elshad Shirinov and Kevin L. Reif,2010,21,Adaptive Behavior
 10.1177/1059712307078653,On the Collective Nature of Human Intelligence,Alex Pentland,2007,26,Adaptive Behavior
 10.1177/10597123221076876,Values define agency: Ecological and enactive perspectives reconsidered,Bert H Hodges,2022,1,Adaptive Behavior
-10.1177/10597123211020782,Converging enactivisms: radical enactivism meets linguistic bodies,Giovanni Rolla and Jeferson Huffermann,2022,5,Adaptive Behavior
-10.1177/105971230601400306,How Learning Affects the Evolution of Strong Reciprocity,Juan Pablo Calderón and Roberto Zarama,2006,3,Adaptive Behavior
-10.1177/1059712311426800,Sequential analyses of foraging behavior and attack speed in ambush and widely foraging lizards,Eric J McElroy and Lance D McBrayer and Steven C Williams and Roger A Anderson and Stephen M Reilly,2012,10,Adaptive Behavior
-10.1177/1059712310385875,"A swarm cognition realization of attention, action selection, and spatial memory",Pedro Santana and Luís Correia,2010,9,Adaptive Behavior
-10.1177/1059712314537090,Mixed human/entity games and the anomalous effects of misattributing strategic agency,Seth Frey,2014,2,Adaptive Behavior
-10.1177/1059712313482953,Enactive cognitive science: revisionism or revolution?,Mario Villalobos,2013,14,Adaptive Behavior
-10.1177/1059712319867907,Lost in words,Randall D Beer,2020,3,Adaptive Behavior
-10.1177/1059712313488789,Mental imagery in the navigation domain: a computational model of sensory-motor simulation mechanisms,Fabian Chersi and Francesco Donnarumma and Giovanni Pezzulo,2013,20,Adaptive Behavior
-10.1177/1059712313491295,Dreaming of electric sheep? Exploring the functions of dream-like mechanisms in the development of mental imagery simulations,Henrik Svensson and Serge Thill and Tom Ziemke,2013,13,Adaptive Behavior
-10.1177/105971230401200104,Motor Skill Acquisition Under Environmental Perturbations: On the Necessity of Alternate Freezing and Freeing of Degrees of Freedom,Luc Berthouze and Max Lungarella,2004,59,Adaptive Behavior
-10.1177/1059712319847129,Soft-assembled human–machine perceptual systems,Luis H Favela,2019,4,Adaptive Behavior
-10.1177/1059712315608675,Knowledge acquisition with forgetting: an incremental and developmental setting,Fernando Martínez-Plumed and Cèsar Ferri and José Hernández-Orallo and María J Ramírez-Quintana,2015,3,Adaptive Behavior
-10.1177/1059712318771690,Guidelines for quantitative and qualitative studies of sensory substitution experience,Weronika Kałwak and Magdalena Reuter and Marta Łukowska and Bartosz Majchrowicz and Michał Wierzchoń,2018,4,Adaptive Behavior
-10.1177/1059712313516132,What is the relationship between visual environment and the form of ant learning-walks? An in silico investigation of insect navigation,Alex DM Dewar and Andrew Philippides and Paul Graham,2014,23,Adaptive Behavior
-10.1177/1059712316666331,Hedonic quality or reward? A study of basic pleasure in homeostasis and decision making of a motivated autonomous robot,Matthew Lewis and Lola Cañamero,2016,22,Adaptive Behavior
+10.1177/1059712316666331,Hedonic quality or reward? A study of basic pleasure in homeostasis and decision making of a motivated autonomous robot,Matthew Lewis and Lola Cañamero,2016,23,Adaptive Behavior
 10.1177/1059712318818813,"Autism, social connectedness, and minimal social acts",Felipe León,2019,5,Adaptive Behavior
-10.1177/1059712310396382,The role of material culture in human time representation: Calendrical systems as extensions of mental time travel,Johan De Smedt and Helen De Cruz,2011,13,Adaptive Behavior
-10.1177/1059712309104966,Re-embodiment of Honeybee Aggregation Behavior in an Artificial Micro-Robotic System,Serge Kernbach and Ronald Thenius and Olga Kernbach and Thomas Schmickl,2009,122,Adaptive Behavior
+10.1177/105971230401200104,Motor Skill Acquisition Under Environmental Perturbations: On the Necessity of Alternate Freezing and Freeing of Degrees of Freedom,Luc Berthouze and Max Lungarella,2004,60,Adaptive Behavior
+10.1177/1059712311409446,"Plants: Adaptive behavior, root-brains, and minimal cognition",Paco Calvo Garzón and Fred Keijzer,2011,96,Adaptive Behavior
+10.1177/1059712311421219,A review of long-term memory in natural and synthetic systems,Rachel Wood and Paul Baxter and Tony Belpaeme,2012,54,Adaptive Behavior
+10.1177/10597123211020782,Converging enactivisms: radical enactivism meets linguistic bodies,Giovanni Rolla and Jeferson Huffermann,2022,6,Adaptive Behavior
 10.1177/1059712318789393,The chaotic dynamics and multistability of two coupled Fitzhugh–Nagumo model neurons,Yoonsik Shim and Phil Husbands,2018,12,Adaptive Behavior
+10.1177/10597123221084739,Toward a science of experience: Outlining some challenges and future directions,Camila Valenzuela-Moguillansky and Ema Demšar,2022,2,Adaptive Behavior
+10.1177/1059712313516132,What is the relationship between visual environment and the form of ant learning-walks? An in silico investigation of insect navigation,Alex DM Dewar and Andrew Philippides and Paul Graham,2014,24,Adaptive Behavior
+10.1177/1059712319847129,Soft-assembled human–machine perceptual systems,Luis H Favela,2019,4,Adaptive Behavior
+10.1177/1059712308090537,Evolution of Solitary and Group Transport Behaviors for Autonomous Robots Capable of Self-Assembling,Roderich Groβ and Marco Dorigo,2008,38,Adaptive Behavior
+10.1177/1059712310396382,The role of material culture in human time representation: Calendrical systems as extensions of mental time travel,Johan De Smedt and Helen De Cruz,2011,13,Adaptive Behavior
+10.1177/1059712315608675,Knowledge acquisition with forgetting: an incremental and developmental setting,Fernando Martínez-Plumed and Cèsar Ferri and José Hernández-Orallo and María J Ramírez-Quintana,2015,3,Adaptive Behavior
+10.1177/1059712309104966,Re-embodiment of Honeybee Aggregation Behavior in an Artificial Micro-Robotic System,Serge Kernbach and Ronald Thenius and Olga Kernbach and Thomas Schmickl,2009,123,Adaptive Behavior
+10.1177/1059712318771690,Guidelines for quantitative and qualitative studies of sensory substitution experience,Weronika Kałwak and Magdalena Reuter and Marta Łukowska and Bartosz Majchrowicz and Michał Wierzchoń,2018,5,Adaptive Behavior
+10.1177/1059712311417636,Neural networks as a unifying learning model for random normal form games,Leonidas Spiliopoulos,2011,5,Adaptive Behavior
+10.1177/10597123211017550,The design of self-organizing human–swarm intelligence,Jonas D Hasbach and Maren Bennewitz,2022,4,Adaptive Behavior
 10.1177/1059712315573334,Enhancing adaptability of amoeboid robot by synergetically coupling two decentralized controllers inspired by true slime mold,Takuya Umedachi and Shunya Horikiri and Ryo Kobayashi and Akio Ishiguro,2015,3,Adaptive Behavior
 10.1177/10597123221080193,Towards a view from within: The contribution of Francisco Varela to the study of consciousness,Renzo C Lanfranco and Andrés Canales-Johnson and Boris Lucero and Esteban Vargas and Valdas Noreika,2022,1,Adaptive Behavior
-10.1177/1059712320971369,Leveraging peer-to-peer farmer learning to facilitate better strategies in smallholder dairy husbandry,Devotha G Nyambo and Edith T Luhanga and Zaipuna O Yonah and Fidalis DN Mujibi and Thomas Clemen,2022,1,Adaptive Behavior
+10.1177/1059712318818568,Self-organizing maps for storage and transfer of knowledge in reinforcement learning,Thommen George Karimpanal and Roland Bouffanais,2019,33,Adaptive Behavior
+10.1177/1059712319854687,Ecological approaches to perceptual learning: learning to perceive and perceiving as learning,Agnes Szokolszky and Catherine Read and Zsolt Palatinus and Kinga Palatinus,2019,16,Adaptive Behavior
+10.1177/1059712307082080,Evolving a Neural Model of Insect Path Integration,Thomas Haferlach and Jan Wessnitzer and Michael Mangan and Barbara Webb,2007,47,Adaptive Behavior
+10.1177/1059712319853227,Towards rich motion skills with the lightweight quadruped robot Serval,Peter Eckert and Anja EM Schmerbauch and Tomislav Horvat and Katja Söhnel and Martin S Fischer and Hartmut Witte and Auke J Ijspeert,2020,9,Adaptive Behavior
+10.1177/1059712320912021,CIMAX: collective information maximization in robotic swarms using local communication,Hannes Hornischer and Joshua Cherian Varughese and Ronald Thenius and Franz Wotawa and Manfred Füllsack and Thomas Schmickl,2021,5,Adaptive Behavior
 10.1177/1059712321989426,Sculpting the landscape of affordances,Marek McGann,2022,1,Adaptive Behavior
 10.1177/1059712321989099,Disrupting the Flow of Perception-Action through Design,Harry Heft,2022,1,Adaptive Behavior
 10.1177/1059712321994688,Portrait of the artist as a philosopher,Jeannette Pols,2022,2,Adaptive Behavior
 10.1177/10597123221133910,Engaging with art skillfully. First steps towards an ecological-enactive account of the experience of art,Anja Novak and Geerteke van Lierop and Erik Rietveld,2022,0,Adaptive Behavior
 10.1177/10597123211000833,Preserving without conserving: Memoryscopes and historically burdened heritage,John Sutton,2022,1,Adaptive Behavior
 10.1177/1059712321994686,What is architecture for? designing as enriching the landscape of affordances,Andrea Jelić,2022,0,Adaptive Behavior
-10.1177/1059712307082080,Evolving a Neural Model of Insect Path Integration,Thomas Haferlach and Jan Wessnitzer and Michael Mangan and Barbara Webb,2007,46,Adaptive Behavior
-10.1177/1059712309343822,On the Role of Social Interaction in Individual Agency,Hanne De Jaegher and Tom Froese,2009,65,Adaptive Behavior
 10.1177/1059712310361791,Individual Competition and the Emergence of Density-Dependent Exposure to Predation: How Behaviors Influence Population Processes,J. Hsuan Lammers and Kevin Warburton and Bronwen W. Cribb,2010,0,Adaptive Behavior
 10.1177/105971230000800302,Learning Plans without a priori Knowledge,Ron Sun and Chad Sessions,2000,11,Adaptive Behavior
 10.1177/1059712302919993006,Spike-Timing Dependent Plasticity for Evolved Robots,Ezequiel Di Paolo,2002,10,Adaptive Behavior
 10.1177/1059712312451859,Synchrony and phase relation dynamics underlying sensorimotor coordination,Bruno A Santos and Xabier E Barandiaran and Philip Husbands,2012,7,Adaptive Behavior
+10.1177/1059712309343822,On the Role of Social Interaction in Individual Agency,Hanne De Jaegher and Tom Froese,2009,65,Adaptive Behavior
+10.1177/1059712318772778,Reconceiving representation-hungry cognition: an ecological-enactive proposal,Julian D Kiverstein and Erik Rietveld,2018,72,Adaptive Behavior
+10.1177/1059712320922364,The socio-normative nature of representation,Farid Zahnoun,2021,1,Adaptive Behavior
 10.1177/1059712308101787,Construction in a Simulated Environment Using Temporal Goal Sequencing and Reinforcement Learning,Anand Panangadan and Michael G. Dyer,2009,7,Adaptive Behavior
 10.1177/10597123030112001,Editorial: Introduction to the Special Issue on Epigenetic Robotics,Christopher G. Prince and Yiannis Demiris,2003,7,Adaptive Behavior
 10.1177/1059712311419378,A biomimetic approach to robot table tennis,Katharina Mülling and Jens Kober and Jan Peters,2011,55,Adaptive Behavior
@@ -156,7 +163,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1177/1059712314533806,"Comments on the paper “Are altered states of consciousness detrimental, useful or helpful for the origins of symbolic cognition? A response to Hodgson and Lewis Williams”, by T Froese, A Woodward and T Ikegami",Patricia Helvenston,2014,2,Adaptive Behavior
 10.1177/1059712319826539,On complex archaeologies: conceptualizing social complexity and its potential for archaeology,Dries Daems,2020,2,Adaptive Behavior
 10.1177/1059712318823723,Are living beings extended autopoietic systems? An embodied reply,Mario Villalobos and Pablo Razeto-Barry,2020,18,Adaptive Behavior
-10.1177/1059712318818568,Self-organizing maps for storage and transfer of knowledge in reinforcement learning,Thommen George Karimpanal and Roland Bouffanais,2019,32,Adaptive Behavior
 10.1177/1059712309340843,Some Virtues of Modeling With Both Hands,William Bechtel,2009,1,Adaptive Behavior
 10.1177/105971230501300305,Incremental Development of Adaptive Behaviors using Trees of Self-Contained Solutions,Torbjørn Semb Dahl and Christophe Giraud-Carrier,2005,1,Adaptive Behavior
 10.1177/1059712320908360,Balloon-like coupling between head and posterior in a caterpillar,Fuminori Okuya and Takuya Umedachi and Yoshihiro Kawahara,2021,1,Adaptive Behavior
@@ -168,12 +174,10 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1177/1059712318790752,Temporal experience from a 4E perspective,Melina Gastelum,2018,1,Adaptive Behavior
 10.1177/1059712319891742,Active materials: minimal models of cognition?,Patrick McGivern,2020,8,Adaptive Behavior
 10.1177/105971230200900104,Editorial: Adaptive Behavior's New Adaptations,Peter M. Todd,2001,0,Adaptive Behavior
-10.1177/1059712319846854,Adapting to environmental dynamics with an artificial circadian system,Matthew J O’Brien and Ronald C Arkin,2020,1,Adaptive Behavior
 10.1177/1059712320905177,PedestriANS: a bipedal robot with adaptive morphology,Huthaifa Ahmad and Yoshihiro Nakata and Yutaka Nakamura and Hiroshi Ishiguro,2021,5,Adaptive Behavior
 10.1177/1059712320941543,Purposeful tool use in early lithic technologies,Chris Baber and Klint Janulis,2021,1,Adaptive Behavior
 10.1177/1059712314545633,The Gomi legacy,Phil Husbands and Ezequiel Di Paolo,2014,0,Adaptive Behavior
 10.1177/1059712313484502,Integrating visual perception and manipulation for autonomous learning of object representations,David Schiebener and Jun Morimoto and Tamim Asfour and Aleš Ude,2013,22,Adaptive Behavior
-10.1177/1059712311417636,Neural networks as a unifying learning model for random normal form games,Leonidas Spiliopoulos,2011,5,Adaptive Behavior
 10.1177/1059712312449543,Analyzing the effect of landmark vectors in homing navigation,Seung-Eun Yu and Changmin Lee and DaeEun Kim,2012,14,Adaptive Behavior
 10.1177/10597123211066153,Human perception of intrinsically motivated autonomy in human-robot interaction,Marcus M Scheunemann and Christoph Salge and Daniel Polani and Kerstin Dautenhahn,2022,1,Adaptive Behavior
 10.1177/1059712316645845,Machine vision and fuzzy logic-based navigation control of a goal-oriented mobile robot,Panus Nattharith and Mehmet Serdar Güzel,2016,14,Adaptive Behavior
@@ -184,7 +188,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1177/1059712309340857,No Need for Intellectual Straightjackets,Marieke Rohde,2009,0,Adaptive Behavior
 10.1177/105971230501300405,Evolution of Speech and Its Acquisition,Bart de Boer,2005,4,Adaptive Behavior
 10.1177/1059712317716264,"Modeling rational, psychological, and social behavior toward diffusion of new technology using agent-based simulation: the case of the public utility jeepney (PUJ) fleet in Metro Manila",Mohammad Ahanchian and Jose Bienvenido Manuel Biona,2017,2,Adaptive Behavior
-10.1177/1059712320912021,CIMAX: collective information maximization in robotic swarms using local communication,Hannes Hornischer and Joshua Cherian Varughese and Ronald Thenius and Franz Wotawa and Manfred Füllsack and Thomas Schmickl,2021,4,Adaptive Behavior
 10.1177/1059712320963974,"Effects of age and task difficulty on postural sway, variability and complexity",Mohsen Shafizadeh and Shahab Parvinpour and Marzie Balali and Mohsen Shabani,2021,3,Adaptive Behavior
 10.1177/105971230401200307,Using Optimal Foraging Models to Evaluate Learned Robotic Foraging Behavior,Patrick Ulam and Tucker Balch,2004,8,Adaptive Behavior
 10.1177/10597123010093008,Book Review: Tomorrow's Human Robots,Bridget Hallam,2001,0,Adaptive Behavior
@@ -195,40 +198,37 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1177/1059712319841557,The necessity of extended autopoiesis,Nathaniel Virgo,2020,1,Adaptive Behavior
 10.1177/105971230501300302,Self-organization in a Simple Task of Motor Control Based on Spatial Encoding,Christian R. Linder,2005,3,Adaptive Behavior
 10.1177/105971230401200101,A Model of Selection between Stimulus and Place Strategy in a Hawkmoth,Anna Balkenius and Almut Kelber and Christian Balkenius,2004,17,Adaptive Behavior
-10.1177/1059-712302-010001-01,Evolution of Reinforcement Learning in Uncertain Environments: A Simple Explanation for Complex Foraging Behaviors,Yael Niv and Daphna Joel and Isaac Meilijson and Eytan Ruppin,2002,40,Adaptive Behavior
 10.1177/1059712309359948,Modeling Behavior Cycles as a Value System for Developmental Robots,Kathryn E. Merrick,2010,8,Adaptive Behavior
 10.1177/1059712318790739,"Passions, consciousness, and the Rosetta Stone: Spinoza and embodied, extended, and affective cognition",German Bula,2019,0,Adaptive Behavior
 10.1177/1059712319833912,Cohesiveness is not an adequate theory of general individuation and it does not account for living individuals,David C Ayala,2020,1,Adaptive Behavior
 10.1177/1059712310370625,Traversability: A Case Study for Learning and Perceiving Affordances in Robots,Emre Uğur and Erol Şahin,2010,51,Adaptive Behavior
 10.1177/1059712312449546,Beyond here-and-now: extending shared physical experiences to shared conceptual experiences,Ruth Schulz and Gordon Wyeth and Janet Wiles,2012,3,Adaptive Behavior
+10.1177/105971230501300203,Is There an Integrative Center in the Vertebrate Brain-Stem? A Robotic Evaluation of a Model of the Reticular Formation Viewed as an Action Selection Device,Mark D. Humphries and Kevin Gurney and Tony J. Prescott,2005,14,Adaptive Behavior
+10.1177/105971230501300204,Integration of Navigation and Action Selection Functionalities in a Computational Model of Cortico-Basal-Ganglia–Thalamo-Cortical Loops,Benoît Girard and David Filliat and Jean-Arcady Meyer and Alain Berthoz and Agnès Guillot,2005,19,Adaptive Behavior
+10.1177/1059712311416871,Simultaneously emerging Braitenberg codes and compositionality,Yuuya Sugita and n.m. Jun Tani and Martin V Butz,2011,13,Adaptive Behavior
 10.1177/10597123221093101,Suffering and sense of self: The tension between reflection and experience—The case of depression,María Isabel Gaete,2022,0,Adaptive Behavior
 10.1177/1059712307084687,Toward Spinozist Robotics: Exploring the Minimal Dynamics of Behavioral Preference,Hiroyuki Iizuka and Ezequiel A. Di Paolo,2007,31,Adaptive Behavior
 10.1177/1059712318824321,The development of a robust symbolic communication system for robots via embodied iterated imitation,Mehmet Dincer Erbas,2019,2,Adaptive Behavior
 10.1177/1059712320976676,"A world-involving theory of agency: review of Sensorimotor Life: An Enactive Proposal by Ezequiel Di Paolo, Thomas Buhrmann, and Xabier Barandiaran. Oxford University Press, Oxford, 2017",Susana Ramírez-Vizcaya,2022,0,Adaptive Behavior
-10.1177/1059712319853227,Towards rich motion skills with the lightweight quadruped robot Serval,Peter Eckert and Anja EM Schmerbauch and Tomislav Horvat and Katja Söhnel and Martin S Fischer and Hartmut Witte and Auke J Ijspeert,2020,7,Adaptive Behavior
 10.1177/1059712318798733,A study on energy transfer among limbs in a legged robot locomotion,Huthaifa Ahmad and Yoshihiro Nakata and Yutaka Nakamura and Hiroshi Ishiguro,2018,2,Adaptive Behavior
 10.1177/1059712311410896,Intention recognition promotes the emergence of cooperation,n.m. Han The Anh and Luís Moniz Pereira and Francisco C Santos,2011,33,Adaptive Behavior
 10.1177/1059712306076250,Sequential Retrieval and Inhibition of Parallel (Re)Activated Representations: A Neurocomputational Comparison of Competitive Queuing and Resampling Models,Eddy J. Davelaar,2007,6,Adaptive Behavior
 10.1177/105971230200900201,Optimal Control Using the Transport Equation: The Liouville Machine,Ivo Kwee and Jürgen Schmidhuber,2001,2,Adaptive Behavior
 10.1177/1059712318794203,"Dance as therapy: embodiment, kinesthetic empathy and the case of contact improvisation",Luisa F Barrero González,2019,2,Adaptive Behavior
 10.1177/1059712316634062,Adaptive artificial companions learning from users’ feedback,Abir B. Karami and Karim Sehaba and Benoit Encelle,2016,18,Adaptive Behavior
-10.1177/1059712319854687,Ecological approaches to perceptual learning: learning to perceive and perceiving as learning,Agnes Szokolszky and Catherine Read and Zsolt Palatinus and Kinga Palatinus,2019,16,Adaptive Behavior
-10.1177/1059712318772778,Reconceiving representation-hungry cognition: an ecological-enactive proposal,Julian D Kiverstein and Erik Rietveld,2018,72,Adaptive Behavior
 10.1177/1059712309350972,Computer Models of Vocal Tract Evolution: An Overview and Critique,Bart de Boer and W. Tecumseh Fitch,2010,35,Adaptive Behavior
+10.1177/1059712320971369,Leveraging peer-to-peer farmer learning to facilitate better strategies in smallholder dairy husbandry,Devotha G Nyambo and Edith T Luhanga and Zaipuna O Yonah and Fidalis DN Mujibi and Thomas Clemen,2022,2,Adaptive Behavior
 10.1177/1059712309350969,Can a Science—Humanities Collaboration Be Successful?,R.A. Blythe and W. Croft,2010,4,Adaptive Behavior
 10.1177/10597123211073534,"The hydrated mind, the glycolytic mind, and the holobiont mind",Freddy J Molero-Ramírez and Ruy L Carro-Godoy,2022,1,Adaptive Behavior
 10.1177/1059712319862253,Armed with information: chemical self-recognition in the octopus,Sidney Carls-Diamante,2020,0,Adaptive Behavior
-10.1177/1059712303114006,Making Decisions does not Suffice for Minimal Cognition,Fred Keijzer,2003,11,Adaptive Behavior
 10.1177/1059712320967053,Maintaining coherence in the situated cognition debate: what computationalism cannot offer to a future post-cognitivist science,Mark-Oliver Casper and Giuseppe Flavio Artese,2022,1,Adaptive Behavior
 10.1177/10597123211066155,"Self-organisation, (M, R)–systems and enactive cognitive science",Tomasz Korbak,2023,0,Adaptive Behavior
 10.1177/1059712311407215,Electrolocation with an electric organ discharge waveform for biomimetic application,Miyoung Sim and DaeEun Kim,2011,9,Adaptive Behavior
 10.1177/10597123221104853,From interaction to transaction: The primacy of movement and the event as irreducible unit,Wolff-Michael Roth,2022,0,Adaptive Behavior
-10.1177/1059712320922364,The socio-normative nature of representation,Farid Zahnoun,2021,1,Adaptive Behavior
-10.1177/105971230501300205,Actor–Critic Models of Reinforcement Learning in the Basal Ganglia: From Natural to Artificial Rats,Mehdi Khamassi and Loïc Lachèze and Benoît Girard and Alain Berthoz and Agnès Guillot,2005,43,Adaptive Behavior
 10.1177/105971230401200202,On-line Imitative Interaction with a Humanoid Robot Using a Dynamic Neural Network Model of a Mirror System,Masato Ito and Jun Tani,2004,82,Adaptive Behavior
+10.1177/1059712319846854,Adapting to environmental dynamics with an artificial circadian system,Matthew J O’Brien and Ronald C Arkin,2020,2,Adaptive Behavior
 10.1177/10597123231163673,Editorial: Introduction to the special issue on the course-of-experience framework,Germain Poizat,2023,0,Adaptive Behavior
 10.1177/1059712319864278,An investigation into serotonergic and environmental interventions against depression in a simulated delayed reward paradigm,Bernd Porr and Alice Miller and Alex Trew,2020,1,Adaptive Behavior
-10.1177/10597123211017550,The design of self-organizing human–swarm intelligence,Jonas D Hasbach and Maren Bennewitz,2022,4,Adaptive Behavior
 10.1177/10597123030112004,Better Vision through Manipulation,Giorgio Metta and Paul Fitzpatrick,2003,95,Adaptive Behavior
 10.1177/105971230501300101,An Architecture for Behavior-Based Reinforcement Learning,G. D. Konidaris and G. M. Hayes,2005,20,Adaptive Behavior
 10.1177/105971230501300102,Learning Semantic Combinatoriality from the Interaction between Linguistic and Behavioral Processes,Yuuya Sugita and Jun Tani,2005,132,Adaptive Behavior
@@ -247,11 +247,11 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1177/1059712319891620,Approaching minimal cognition: introduction to the special issue,Nick Brancazio and Miguel Segundo-Ortin and Patrick McGivern,2020,3,Adaptive Behavior
 10.1177/1059712313491614,Probabilistic model-based imitation learning,Peter Englert and Alexandros Paraschos and Marc Peter Deisenroth and Jan Peters,2013,26,Adaptive Behavior
 10.1177/1059712318791633,Grounding 4E Cognition in Mexico: introduction to special issue on spotlight on 4E Cognition research in Mexico,Ximena Gonzalez-Grandón and Tom Froese,2018,13,Adaptive Behavior
-10.1177/105971230501300203,Is There an Integrative Center in the Vertebrate Brain-Stem? A Robotic Evaluation of a Model of the Reticular Formation Viewed as an Action Selection Device,Mark D. Humphries and Kevin Gurney and Tony J. Prescott,2005,14,Adaptive Behavior
-10.1177/105971230501300204,Integration of Navigation and Action Selection Functionalities in a Computational Model of Cortico-Basal-Ganglia–Thalamo-Cortical Loops,Benoît Girard and David Filliat and Jean-Arcady Meyer and Alain Berthoz and Agnès Guillot,2005,19,Adaptive Behavior
-10.1177/1059712311416871,Simultaneously emerging Braitenberg codes and compositionality,Yuuya Sugita and n.m. Jun Tani and Martin V Butz,2011,13,Adaptive Behavior
 10.1177/1059712308095775,The Neuromodulatory System: A Framework for Survival and Adaptive Behavior in a Challenging World,Jeffrey L. Krichmar,2008,95,Adaptive Behavior
 10.1177/1059712319882105,A novel adaptive second-order sliding mode controller for autonomous underwater vehicles,Rupam Gupta Roy and Dibyendu Ghoshal,2021,5,Adaptive Behavior
+10.1177/1059712303114006,Making Decisions does not Suffice for Minimal Cognition,Fred Keijzer,2003,11,Adaptive Behavior
+10.1177/1059-712302-010001-01,Evolution of Reinforcement Learning in Uncertain Environments: A Simple Explanation for Complex Foraging Behaviors,Yael Niv and Daphna Joel and Isaac Meilijson and Eytan Ruppin,2002,40,Adaptive Behavior
+10.1177/105971230501300205,Actor–Critic Models of Reinforcement Learning in the Basal Ganglia: From Natural to Artificial Rats,Mehdi Khamassi and Loïc Lachèze and Benoît Girard and Alain Berthoz and Agnès Guillot,2005,43,Adaptive Behavior
 10.1177/10597123030112005,Obituary,Ali Eftekhari,2003,0,Adaptive Behavior
 10.1177/1059712311421831,A simple metric for turn-taking in emergent communication,Peter A Raffensperger and Russell Y Webb and Philip J Bones and Allan I McInnes,2012,2,Adaptive Behavior
 10.1177/1059712307078663,Shifting Attention Using a Temporal Difference Prediction Error and High-Dimensional Input,William H. Alexander,2007,6,Adaptive Behavior
@@ -259,12 +259,10 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1177/1059712317726357,Computational models of affordance in robotics: a taxonomy and systematic classification,Philipp Zech and Simon Haller and Safoura Rezapour Lakani and Barry Ridge and Emre Ugur and Justus Piater,2017,39,Adaptive Behavior
 10.1177/1059712321994684,Experience shapes future foraging decisions in a brainless organism,Jules Smith-Ferguson and Terence C Burnham and Madeleine Beekman,2022,0,Adaptive Behavior
 10.1177/105971230200900202,Book Review: Unifying Artificial Intelligence Robotics: An Undergraduate Textbook,Frederick L. Crabbe,2001,0,Adaptive Behavior
-10.1177/1059-712302-010002-01,Anticipations Control Behavior: Animal Behavior in an Anticipatory Learning Classifier System,Martin V Butz and Joachim Hoffmann,2002,11,Adaptive Behavior
 10.1177/1059712309345034,A Comparison of Different Searching Strategies to Locate Sources of Odor in Turbulent Flows,Giovanni Lo Iacono,2010,6,Adaptive Behavior
 10.1177/1059712313482802,Sensorimotor enactivism and temporal experience,David Silverman,2013,3,Adaptive Behavior
 10.1177/10597123211072613,Mobile Brain/Body Imaging: Challenges and opportunities for the implementation of research programs based on the 4E perspective to cognition,Aitana Grasso-Cladera and Stefanella Costa-Cordella and Alejandra Rossi and Nikolas F Fuchs and Francisco J Parada,2022,0,Adaptive Behavior
 10.1177/1059712319830645,Deriving the bodily grounding of living beings with molecular autopoiesis,Eran Agmon,2020,2,Adaptive Behavior
-10.1177/1059712314563620,Transfer learning of gaits on a quadrupedal robot,Jonas Degrave and Michaël Burm and Pieter-Jan Kindermans and Joni Dambre and Francis wyffels,2015,12,Adaptive Behavior
 10.1177/10597123221094359,"An aftertaste of Cartesian salad? Pre-reflective self-consciousness, Peirce, and the study of cognition in the wild",Pierre Steiner,2022,0,Adaptive Behavior
 10.1177/10597123221094361,Exploring the notion of “from-within” through the concept of event,Letícia Renault,2022,0,Adaptive Behavior
 10.1177/10597123221095880,What’s a good prediction? Challenges in evaluating an agent’s knowledge,Alex Kearney and Anna J Koop and Patrick M Pilarski,2022,0,Adaptive Behavior
@@ -274,7 +272,13 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1177/1059712312449545,Multiple levels of spatial organization: World Graphs and spatial difference learning,Michael A Arbib and James J Bonaiuto,2012,8,Adaptive Behavior
 10.1177/1059712312445902,Computational modeling of observational learning inspired by the cortical underpinnings of human primates,Emmanouil Hourdakis and Panos Trahanias,2012,3,Adaptive Behavior
 10.1177/1059712313488424,Why motor simulation cannot explain affordance perception,Gunnar Declerck,2013,4,Adaptive Behavior
-10.1177/1059712315590484,Matching without learning,Pier-Olivier Caron,2015,5,Adaptive Behavior
+10.1177/1059712320943623,Primate tool use and the socio-ecology of thinging: how non-humans think through tools,Hannah Mosley,2021,5,Adaptive Behavior
+10.1177/10597123221147336,Modelling of factors underlying the evolution of human language,Marcel Ruland and Alejandro Andirkó and Iza Romanowska and Cedric Boeckx,2023,0,Adaptive Behavior
+10.1177/1059712308089184,On the Coupling Between Agent Internal and Agent/ Environmental Dynamics: Development of Spatial Representations in Evolving Autonomous Robots,Onofrio Gigliotta and Stefano Nolfi,2008,21,Adaptive Behavior
+10.1177/10597123020101002,Natural Selection and Cultural Selection in the Evolution of Communication,K. Smith,2002,10,Adaptive Behavior
+10.1177/1059712319875147,Current alternatives on perceptual learning: introduction to special issue on post-cognitivist approaches to perceptual learning,Lorena Lobo,2019,4,Adaptive Behavior
+10.1177/1059712309343819,"Defining Agency: Individuality, Normativity, Asymmetry, and Spatio-temporality in Action",Xabier E. Barandiaran and Ezequiel Di Paolo and Marieke Rohde,2009,171,Adaptive Behavior
+10.1177/1059712315578542,Trauma from an enactive perspective: the collapse of the knowing-how structure,Yochai Ataria,2015,14,Adaptive Behavior
 10.1177/1059712314546052,From perception to action to perception in action: a review of Contemporary Sensorimotor Theory,Paulo De Jesus,2014,1,Adaptive Behavior
 10.1177/1059712309340852,Let Animats Live!,Matej Hoffmann and Rolf Pfeifer,2009,0,Adaptive Behavior
 10.1177/105971230000800306,The Mathematics of Nepotism: A Review of Foundations of Social Evolution by Steven A. Frank,Jason Noble,2000,1,Adaptive Behavior
@@ -309,7 +313,7 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1177/1059712317715324,A neuro-computational model of sequence learning in macaques: the Simultaneous Chaining Paradigm,Brad Gasser and Michael A Arbib,2017,2,Adaptive Behavior
 10.1177/1059712311417737,Male and female robots,Federico Da Rold and Giancarlo Petrosino and Domenico Parisi,2011,7,Adaptive Behavior
 10.1177/1059712315571369,Diversification of motor skills rely upon an optimal amount of variability of perceptive and motor task demands,João de Paula Pinheiro and Pricila Garcia Marques and Go Tani and Umberto Cesar Corrêa,2015,6,Adaptive Behavior
-10.1177/1059712320965713,"Deep structure in the Acheulean adaptation: technology, sociality and aesthetic emergence",John A J Gowlett,2021,2,Adaptive Behavior
+10.1177/1059712313481044,Slaves no longer: review on role assignment for human–robot joint motor action,Nathanaël Jarrassé and Vittorio Sanguineti and Etienne Burdet,2014,70,Adaptive Behavior
 10.1177/1059712314547709,Agent-based model for social and sexual partnerships formation,Edinah Mudimu and Gerhard Nieuwoudt Engelbrecht,2015,0,Adaptive Behavior
 10.1177/1059712321990186,Power-efficient adaptive behavior through a shape-changing elastic robot,Shiv Ashutosh Katiyar and Darwin Gouwanda and Fumiya Iida and Surya Girinatha Nurzaman,2022,0,Adaptive Behavior
 10.1177/1059712320971372,Is it me or the room moving? Recreating the classical “moving room” experiment with virtual reality for postural control adaptation,Harish Chander and Sachini NK Kodithuwakku Arachchige and Alana J Turner and Adam C Knight,2022,2,Adaptive Behavior
@@ -318,6 +322,11 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1177/1059712311423983,Attributes of two-dimensional magnetic self-assembly,Shuhei Miyashita and Rolf Pfeifer,2012,2,Adaptive Behavior
 10.1177/1059712319896489,On the utility of dreaming: A general model for how learning in artificial agents can benefit from data hallucination,David Windridge and Henrik Svensson and Serge Thill,2021,3,Adaptive Behavior
 10.1177/1059712321989428,On making futures with human touch,Anna M. Barona and Lambros Malafouris,2022,5,Adaptive Behavior
+10.1177/1059712320965713,"Deep structure in the Acheulean adaptation: technology, sociality and aesthetic emergence",John A J Gowlett,2021,3,Adaptive Behavior
+10.1177/1059-712302-010002-01,Anticipations Control Behavior: Animal Behavior in an Anticipatory Learning Classifier System,Martin V Butz and Joachim Hoffmann,2002,12,Adaptive Behavior
+10.1177/1059712319844182,Robot’s adaptive emotional feedback sustains children’s social engagement and promotes their vocabulary learning: a long-term child–robot interaction study,Muneeb Imtiaz Ahmad and Omar Mubin and Suleman Shahid and Joanne Orlando,2019,32,Adaptive Behavior
+10.1177/1059712320969209,Adaptive consensus building in emergency group decision-making with hesitant fuzzy linguistic information: a perspective based on disappointment theory,Shitao Zhang and Zhenzhen Ma and Xiaodi Liu and Hao Xu,2022,3,Adaptive Behavior
+10.1177/105971230401200201,Unpicking Tartan CIAO Plots: Understanding Irregular Coevolutionary Cycling,John Cartlidge and Seth Bullock,2004,9,Adaptive Behavior
 10.1177/1059-712302-010001-02,Natural Selection and Cultural Selection in the Evolution of Communication,Kenny Smith,2002,5,Adaptive Behavior
 10.1177/1059712318794026,"Creativity, coevolution, and computerized coproduction: reframing creativity from a nonanthropocentric approach",Nuria Valverde-Pérez and Santiago Negrete-Yankelevich,2018,2,Adaptive Behavior
 10.1177/1059712320945836,Corrigendum to “The morphofunctional approach to emotion modelling in robotics”,,2021,0,Adaptive Behavior
@@ -328,7 +337,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1177/1059712319879747,Living beings as autopoietic bodies,Mario Villalobos,2020,2,Adaptive Behavior
 10.1177/1059712315576392,Evolutionary robotics techniques used to model information and control of visually guided braking,Didem Kadihasanoglu and Randall D Beer and Geoffrey P Bingham,2015,3,Adaptive Behavior
 10.1177/1059712313488782,Modelling mental rotation in cognitive robots,Kristsana Seepanomwan and Daniele Caligiore and Gianluca Baldassarre and Angelo Cangelosi,2013,13,Adaptive Behavior
-10.1177/1059712321993166,Evolution of coordination in pairwise and multi-player interactions via prior commitments,Ndidi Bianca Ogbo and Aiman Elragig and The Anh Han,2022,1,Adaptive Behavior
 10.1177/1059712309339859,Dynamic Agent-Based Model of Hand-Preference Behavior Patterns in the Mouse,Andre S. Ribeiro and Jason Lloyd-Price and Brenda A. Eales and Fred G. Biddle,2010,8,Adaptive Behavior
 10.1177/10597123211024008,Locomotion postural variability and coordination in boys with overweight,Shahab Parvinpour and Marzie Balali and Mohsen Shafizadeh and Fatemeh Samimi Pazhuh and Michael Duncan and David R Broom,2022,0,Adaptive Behavior
 10.1177/10597123211019793,The study of motor skills under a view of hierarchical organisation of open system,Umberto Cesar Corrêa and Fabian Alberto Romero Clavijo and Marcos Antônio Mattos dos Reis and Go Tani,2022,0,Adaptive Behavior
@@ -344,50 +352,41 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1177/1059712303114007,Decisions and Noise: The Scope of Evolutionary Synthesis and Dynamical Analysis,Ezequiel A. Di Paolo and Inman Harvey,2003,11,Adaptive Behavior
 10.1177/1059712315611733,Evolutionary models for the retention of adult–adult social play in primates: The roles of diet and other factors associated with resource acquisition,Brian C O’Meara and Kerrie Lewis Graham and Sergio M Pellis and Gordon M Burghardt,2015,8,Adaptive Behavior
 10.1177/10597123010093003,Tracking of Fluid-Advected Odor Plumes: Strategies Inspired by Insect Orientation to Pheromone,Wei Li and Jay A. Farrell and Ring T. Card,2001,100,Adaptive Behavior
+10.1177/1059712321993166,Evolution of coordination in pairwise and multi-player interactions via prior commitments,Ndidi Bianca Ogbo and Aiman Elragig and The Anh Han,2022,1,Adaptive Behavior
 10.1177/1059712318807127,Strong conformity requires a greater proportion of asocial learning and achieves lower fitness than a payoff-based equivalent,Matt Grove,2018,2,Adaptive Behavior
 10.1177/1059712309104898,A Steering Taxis Model and the Qualitative Analysis of its Trajectories,I. Rañó,2009,17,Adaptive Behavior
-10.1177/1059712319847136,The direct learning theory: a naturalistic approach to learning for the post-cognitivist era,Alfredo Higueras-Herbada and Carlos de Paz and David M Jacobs and David Travieso and Jorge Ibáñez-Gijón,2019,10,Adaptive Behavior
 10.1177/1059712318813074,Perception and hallucination: from an analytical approach to an enactive approach,Ana Lorena Domínguez Rojas,2019,0,Adaptive Behavior
-10.1177/1059712320950539,How does thinking relate to tool making?,Lambros Malafouris,2021,16,Adaptive Behavior
 10.1177/1059712316653451,A synergy of costly punishment and commitment in cooperation dilemmas,The Anh Han and Tom Lenaerts,2016,23,Adaptive Behavior
 10.1177/1059712316672517,The dynamics of pedestrians’ evacuation during emergency situations,Chen Yehua and Bai Jing,2016,2,Adaptive Behavior
 10.1177/1059712320941945,The archaeology of the social brain revisited: rethinking mind and material culture from a material engagement perspective,Anna M Barona,2021,3,Adaptive Behavior
+10.1177/1059712311426798,Armed and dangerous: predicting the presence and function of defensive weaponry in mammals,Theodore Stankowich,2012,33,Adaptive Behavior
 10.1177/1059712306076253,Empirical Studies in Action Selection with Reinforcement Learning,Shimon Whiteson and Matthew E. Taylor and Peter Stone,2007,34,Adaptive Behavior
 10.1177/105971230000800103,"Behavioral Coordination, Structural Congruence and Entrainment in a Simulation of Acoustically Coupled Agents",Ezequiel A. Di Paolo,2000,43,Adaptive Behavior
 10.1177/1059712302919993003,Neuromodulation of Reactive Sensorimotor Mappings as a Short-Term Memory Mechanism in Delayed Response Tasks,Tom Ziemke and Mikael Thieme,2002,13,Adaptive Behavior
 10.1177/1059712318762735,A role for enhanced functions of sleep in psychedelic therapy?,Tom Froese and Iwin Leenen and Tomas Palenicek,2018,5,Adaptive Behavior
 10.1177/10597123231157787,"Embodied representation of approach and avoidance attitudes by language: Pro is forward, against is backward",Hipólito Marrero and Sara Nila Yagual and Jose Miguel Díaz and Elena Gámez and Alejandro Lemus and Mabel Urrutia and Aarón Nuez and David Beltrán,2023,0,Adaptive Behavior
-10.1177/105971230401200201,Unpicking Tartan CIAO Plots: Understanding Irregular Coevolutionary Cycling,John Cartlidge and Seth Bullock,2004,8,Adaptive Behavior
-10.1177/1059712320943623,Primate tool use and the socio-ecology of thinging: how non-humans think through tools,Hannah Mosley,2021,5,Adaptive Behavior
-10.1177/10597123221147336,Modelling of factors underlying the evolution of human language,Marcel Ruland and Alejandro Andirkó and Iza Romanowska and Cedric Boeckx,2023,0,Adaptive Behavior
-10.1177/1059712308089184,On the Coupling Between Agent Internal and Agent/ Environmental Dynamics: Development of Spatial Representations in Evolving Autonomous Robots,Onofrio Gigliotta and Stefano Nolfi,2008,21,Adaptive Behavior
-10.1177/10597123020101002,Natural Selection and Cultural Selection in the Evolution of Communication,K. Smith,2002,10,Adaptive Behavior
-10.1177/1059712319875147,Current alternatives on perceptual learning: introduction to special issue on post-cognitivist approaches to perceptual learning,Lorena Lobo,2019,4,Adaptive Behavior
 10.1177/1059712321991890,"On the naturalisation of teleology: self-organisation, autopoiesis and teleodynamics",Miguel García-Valdecasas,2022,2,Adaptive Behavior
 10.1177/105971230601400301,Recognition Memory and the Evolution of Cooperation: How Simple Strategies Succeed in an Agent-Based World,C. Athena Aktipis,2006,24,Adaptive Behavior
 10.1177/1059712313497370,Decision making in social neurobiological systems modeled as transitions in dynamic pattern formation,Duarte Araújo and Ana Diniz and Pedro Passos and Keith Davids,2014,26,Adaptive Behavior
-10.1177/1059712311426798,Armed and dangerous: predicting the presence and function of defensive weaponry in mammals,Theodore Stankowich,2012,33,Adaptive Behavior
-10.1177/1059712313481044,Slaves no longer: review on role assignment for human–robot joint motor action,Nathanaël Jarrassé and Vittorio Sanguineti and Etienne Burdet,2014,68,Adaptive Behavior
 10.1177/1059712315611964,The evolution and function of play,Jeffrey C Schank,2015,1,Adaptive Behavior
-10.1177/1059712315578542,Trauma from an enactive perspective: the collapse of the knowing-how structure,Yochai Ataria,2015,14,Adaptive Behavior
 10.1177/1059712303113001,Reafferent or Redundant: Integration of Phonotaxis and Optomotor Behavior in Crickets and Robots,Barbara Webb and Richard Reeve,2003,22,Adaptive Behavior
 10.1177/1059712307078661,The Neural Basis for Visual Selective Attention in Young Infants: A Computational Account,Matthew Schlesinger and Dima Amso and Scott P. Johnson,2007,29,Adaptive Behavior
-10.1177/105971230601400207,Principles of Minimal Cognition: Casting Cognition as Sensorimotor Coordination,Marc van Duijn and Fred Keijzer and Daan Franken,2006,116,Adaptive Behavior
+10.1177/1059712308092835,Co-evolution of Shaping Rewards and Meta-Parameters in Reinforcement Learning,Stefan Elfwing and Eiji Uchibe and Kenji Doya and Henrik I. Christensen,2008,16,Adaptive Behavior
+10.1177/1059712319847136,The direct learning theory: a naturalistic approach to learning for the post-cognitivist era,Alfredo Higueras-Herbada and Carlos de Paz and David M Jacobs and David Travieso and Jorge Ibáñez-Gijón,2019,10,Adaptive Behavior
 10.1177/1059712314528009,Cue-based aggregation with a mobile robot swarm: a novel fuzzy-based method,Farshad Arvin and Ali Emre Turgut and Farhad Bazyari and Kutluk Bilge Arikan and Nicola Bellotto and Shigang Yue,2014,48,Adaptive Behavior
 10.1177/1059712306076254,An Action-Selection Calculus,Mark Witkowski,2007,8,Adaptive Behavior
-10.1177/1059712317710496,Why post-cognitivism does not (necessarily) entail anti-computationalism,Mario Villalobos and Joe Dewhurst,2017,13,Adaptive Behavior
+10.1177/1059712320911217,A generalized multi-snapshot model for 3D homing and route following,Dario Differt and Wolfgang Stürzl,2021,3,Adaptive Behavior
+10.1177/105971230401200308,On Honey Bees and Dynamic Server Allocation in Internet Hosting Centers,Sunil Nakrani and Craig Tovey,2004,177,Adaptive Behavior
 10.1177/105971230601400303,Whispering Down the Lane: The Economics of Vicarious Information Transfer,Charlotte J. S. De Backer and Michael Gurven,2006,14,Adaptive Behavior
 10.1177/1059712319856536,The fourth law of thermodynamics (LMEP) and cognition from first principles: commentary on Barrett’s “On the nature and origins of cognition as a form of motivated activity”,Rod Swenson,2020,4,Adaptive Behavior
 10.1177/1059712307082085,Staged Competence Learning in Developmental Robotics,Mark H. Lee and Qinggang Meng and Fei Chao,2007,44,Adaptive Behavior
-10.1177/1059712320969209,Adaptive consensus building in emergency group decision-making with hesitant fuzzy linguistic information: a perspective based on disappointment theory,Shitao Zhang and Zhenzhen Ma and Xiaodi Liu and Hao Xu,2022,2,Adaptive Behavior
-10.1177/1059712309343819,"Defining Agency: Individuality, Normativity, Asymmetry, and Spatio-temporality in Action",Xabier E. Barandiaran and Ezequiel Di Paolo and Marieke Rohde,2009,170,Adaptive Behavior
-10.1177/1059712308092835,Co-evolution of Shaping Rewards and Meta-Parameters in Reinforcement Learning,Stefan Elfwing and Eiji Uchibe and Kenji Doya and Henrik I. Christensen,2008,16,Adaptive Behavior
-10.1177/1059712317727590,Adaptive feedback in computer-based learning environments: a review,Andrew Thomas Bimba and Norisma Idris and Ahmed Al-Hunaiyyan and Rohana Binti Mahmud and Nor Liyana Bt Mohd Shuib,2017,37,Adaptive Behavior
-10.1177/105971230401200308,On Honey Bees and Dynamic Server Allocation in Internet Hosting Centers,Sunil Nakrani and Craig Tovey,2004,177,Adaptive Behavior
-10.1177/1059712320911217,A generalized multi-snapshot model for 3D homing and route following,Dario Differt and Wolfgang Stürzl,2021,3,Adaptive Behavior
-10.1177/1059712319844182,Robot’s adaptive emotional feedback sustains children’s social engagement and promotes their vocabulary learning: a long-term child–robot interaction study,Muneeb Imtiaz Ahmad and Omar Mubin and Suleman Shahid and Joanne Orlando,2019,32,Adaptive Behavior
-10.1177/1059712312462248,Self-organized flocking with a mobile robot swarm: a novel motion control method,Eliseo Ferrante and Ali Emre Turgut and Cristián Huepe and Alessandro Stranieri and Carlo Pinciroli and Marco Dorigo,2012,109,Adaptive Behavior
-10.1177/1059712321994685,The dynamic of body and brain co-evolution,Paolo Pagliuca and Stefano Nolfi,2022,1,Adaptive Behavior
+10.1177/1059712317710496,Why post-cognitivism does not (necessarily) entail anti-computationalism,Mario Villalobos and Joe Dewhurst,2017,13,Adaptive Behavior
+10.1177/1059712315590484,Matching without learning,Pier-Olivier Caron,2015,5,Adaptive Behavior
+10.1177/1059712314563620,Transfer learning of gaits on a quadrupedal robot,Jonas Degrave and Michaël Burm and Pieter-Jan Kindermans and Joni Dambre and Francis wyffels,2015,13,Adaptive Behavior
+10.1177/1059712317727590,Adaptive feedback in computer-based learning environments: a review,Andrew Thomas Bimba and Norisma Idris and Ahmed Al-Hunaiyyan and Rohana Binti Mahmud and Nor Liyana Bt Mohd Shuib,2017,38,Adaptive Behavior
+10.1177/105971230601400207,Principles of Minimal Cognition: Casting Cognition as Sensorimotor Coordination,Marc van Duijn and Fred Keijzer and Daan Franken,2006,118,Adaptive Behavior
+10.1177/1059712320950539,How does thinking relate to tool making?,Lambros Malafouris,2021,18,Adaptive Behavior
+10.1177/1059712312462248,Self-organized flocking with a mobile robot swarm: a novel motion control method,Eliseo Ferrante and Ali Emre Turgut and Cristián Huepe and Alessandro Stranieri and Carlo Pinciroli and Marco Dorigo,2012,110,Adaptive Behavior
 10.1177/10597123221094356,"“What’s done is done, the bullet’s left the gun”: Questions on the Application, Origin, and Metaphysics of the «Course-of-Experience Framework»",Simon Høffding,2022,0,Adaptive Behavior
 10.1177/10597123211017337,"Smooth coping: an embodied, Heideggerian approach to dual-process theory",Zachariah A Neemeh,2022,2,Adaptive Behavior
 10.1177/1059712321999421,Affordance as general value function: a computational model,Daniel Graves and Johannes Günther and Jun Luo,2022,1,Adaptive Behavior
@@ -406,6 +405,10 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1177/10597123010093007,Estimating Doppler Shift Using Bat-Inspired Cochlear Filter Bank Models: A Comparison of Methods for Echoes from Single and Multiple Reflectors,Jose M. Carmena and John C. T. Hallam,2001,2,Adaptive Behavior
 10.1177/1059712319855836,From motor to visually guided bimanual affordance learning,Martí Sánchez-Fibla and Sébastien Forestier and Clément Moulin-Frier and Jordi-Ysard Puigbò and Paul FMJ Verschure,2020,2,Adaptive Behavior
 10.1177/1059712316667202,Happiness as an intrinsic motivator in reinforcement learning,Yue Gao and Shimon Edelman,2016,4,Adaptive Behavior
+10.1177/1059712310384057,Erratum,,2011,0,Adaptive Behavior
+10.1177/1059712320950483,An introduction to papers from workshops on the evolution of cultural complexity,Simon Carrignon and María Coto-Sarmiento and R Alexander Bentley and Michael J O’Brien,2020,0,Adaptive Behavior
+10.1177/1059712302919993001,"An Embodied Model of Learning, Plasticity, and Reward",William H Alexander and Olaf Sporns,2002,4,Adaptive Behavior
+10.1177/1059712318821102,A hypothesis: CRISPR-Cas as a minimal cognitive system,Hidetaka Yakura,2019,6,Adaptive Behavior
 10.1177/105971230000800304,"Studies of Neuromodulation of Oscillatory Systems in Aplysia, by Means of Genetic Algorithms",Dilip Deodhar and Irving Kupfermann,2000,3,Adaptive Behavior
 10.1177/105971230000800204,Goal Directed Adaptive Behavior in Second-Order Neural Networks: The MAXSON family of architectures,Frederick L. Crabbe and Michael G. Dyer,2000,1,Adaptive Behavior
 10.1177/1059712312462904,Linear reactive control for efficient 2D and 3D bipedal walking over rough terrain,Joseph H Solomon and Mark A Locascio and Mitra JZ Hartmann,2013,5,Adaptive Behavior
@@ -417,7 +420,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1177/1059712308101739,Acquiring Rules for Rules: Neuro-Dynamical Systems Account for Meta-Cognition,Michail Maniadakis and Jun Tani,2009,5,Adaptive Behavior
 10.1177/1059712308090535,Assessing Machine Volition: An Ordinal Scale for Rating Artificial and Natural Systems,George L. Chadderdon,2008,2,Adaptive Behavior
 10.1177/1059712309355242,Thanks to Reviewers,,2009,0,Adaptive Behavior
-10.1177/1059712320982683,What does the concept of affordances afford?,Rob Withagen and Alan Costall,2022,2,Adaptive Behavior
 10.1177/1059712318824544,"Lessons from a virtual slime: marginal mechanisms, minimal cognition and radical enactivism",Lachlan Douglas Walmsley,2020,1,Adaptive Behavior
 10.1177/1059712309340844,Animals and Animats: Why Not Both Iguanas?,Randall D. Beer and Paul L. Williams,2009,4,Adaptive Behavior
 10.1177/1059712303114012,Mind/Body Problems? Turn to Beer,Manuel de Pinedo and Jason Noble,2003,0,Adaptive Behavior
@@ -435,12 +437,7 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1177/1059712316665451,Combining intention and emotional state inference in a dynamic neural field architecture for human-robot joint action,Rui Silva and Luís Louro and Tiago Malheiro and Wolfram Erlhagen and Estela Bicho,2016,5,Adaptive Behavior
 10.1177/1059712309340856,Iguana Modeling Is Not the Only Game in Town,Jason Noble and Manuel de Pinedo,2009,0,Adaptive Behavior
 10.1177/1059712314543837,Learning by appraising: an emotion-based approach to intrinsic reward design,Pedro Sequeira and Francisco S Melo and Ana Paiva,2014,19,Adaptive Behavior
-10.1177/1059712313486817,Hedonic value: enhancing adaptation for motivated agents,Ignasi Cos and Lola Cañamero and Gillian M Hayes and Andrew Gillies,2013,20,Adaptive Behavior
 10.1177/1059712318760695,Real-time classifier based on adaptive competitive self-organizing algorithm,Zahra Sarafraz and Hossein Sarafraz and Mohammad R Sayeh,2018,0,Adaptive Behavior
-10.1177/1059712310384057,Erratum,,2011,0,Adaptive Behavior
-10.1177/1059712320950483,An introduction to papers from workshops on the evolution of cultural complexity,Simon Carrignon and María Coto-Sarmiento and R Alexander Bentley and Michael J O’Brien,2020,0,Adaptive Behavior
-10.1177/1059712302919993001,"An Embodied Model of Learning, Plasticity, and Reward",William H Alexander and Olaf Sporns,2002,4,Adaptive Behavior
-10.1177/1059712318821102,A hypothesis: CRISPR-Cas as a minimal cognitive system,Hidetaka Yakura,2019,6,Adaptive Behavior
 10.1177/1059712302010003003,Neuromodulation of Reactive Sensorimotor Mappings as a Short-Term Memory Mechanism in Delayed Response Tasks,Tom Ziemke and Mikael Thieme,2002,24,Adaptive Behavior
 10.1177/1059712319834503,Response to Fred Keijzer’s comments,Hidetaka Yakura,2019,1,Adaptive Behavior
 10.1177/1059712310363163,Fitness Space Structure of a Neuromechanical System,Randall D. Beer,2010,1,Adaptive Behavior
@@ -456,8 +453,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1177/10597123010093002,Adaptive Homing—Robotic Exploration Tours,Verena Vanessa Hafner,2001,18,Adaptive Behavior
 10.1177/1059712318811897,From sensorimotor dependencies to perceptual practices: making enactivism social,Alejandro Arango,2019,4,Adaptive Behavior
 10.1177/1059712320922916,Intrinsic motivation and episodic memories for robot exploration of high-dimensional sensory spaces,Guido Schillaci and Antonio Pico Villalpando and Verena V Hafner and Peter Hanappe and David Colliaux and Timothée Wintz,2021,13,Adaptive Behavior
-10.1177/1059712319862774,A tale of two densities: active inference is enactive inference,Maxwell JD Ramstead and Michael D Kirchhoff and Karl J Friston,2020,85,Adaptive Behavior
-10.1177/1059712319890692,Dynamic-free robust adaptive intelligent fault-tolerant controller design with prescribed performance for stable motion of quadruped robots,Yousef Farid and Vahid Johari Majd and Abbas Ehsani-Seresht,2021,6,Adaptive Behavior
 10.1177/1059712321995604,The affordances of art: the role of the individual and the case of literature,Martin Stokhof,2022,0,Adaptive Behavior
 10.1177/1059712313500797,Swarm intelligence to wireless ad hoc networks: adaptive honeybee foraging during communication sessions,Alexandros Giagkos and Myra S Wilson,2013,5,Adaptive Behavior
 10.1177/1059712319851070,Forward propagation closed loop learning,Bernd Porr and Paul Miller,2020,2,Adaptive Behavior
@@ -466,6 +461,7 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1177/1059712307087598,KAMA: A Temperature-Driven Model of Mate Choice Using Dynamic Partner Representations,Robert M. French and Elif T. Kus,2008,10,Adaptive Behavior
 10.1177/1059712309346317,Editorial: Agency in Natural and Artificial Systems,Marieke Rohde and Takashi Ikegami,2009,3,Adaptive Behavior
 10.1177/1059712302010002003,Modeling Mate Choice in Monogamous Mating Systems with Courtship,Jorge Simão and Peter M. Todd,2002,14,Adaptive Behavior
+10.1177/1059712320982683,What does the concept of affordances afford?,Rob Withagen and Alan Costall,2022,3,Adaptive Behavior
 10.1177/10597123221094360,Connecting with the subject of our science: Course-of-experience research supports valid theory building in cognitive science,Marek McGann,2022,0,Adaptive Behavior
 10.1177/1059712312443842,A bio-inspired approach for online trajectory generation of industrial robots,Yadollah Farzaneh and Alireza Akbarzadeh,2012,9,Adaptive Behavior
 10.1177/1059712316667203,Outline of a sensory-motor perspective on intrinsically moral agents,Christian Balkenius and Lola Cañamero and Philip Pärnamets and Birger Johansson and Martin V Butz and Andreas Olsson,2016,3,Adaptive Behavior
@@ -473,30 +469,27 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1177/1059712313487389,Selective attention enables action selection: evidence from evolutionary robotics experiments,Giancarlo Petrosino and Domenico Parisi and Stefano Nolfi,2013,6,Adaptive Behavior
 10.1177/10597123221150813,Exploring Self and Habit in Addiction and Technology through an Enactivist Framework,Austin A Lam and Karina A Thiessen and Susana Ramírez-Vizcaya,2023,0,Adaptive Behavior
 10.1177/1059712313491613,Evidence of unconscious motor adaptation to cognitive and auditory distraction,William P Berg and Dirk J Dessecker,2013,8,Adaptive Behavior
+10.1177/1059712309103430,Self-Organized Aggregation Triggers Collective Decision Making in a Group of Cockroach-Like Robots,Simon Garnier and Jacques Gautrais and Masoud Asadpour and Christian Jost and Guy Theraulaz,2009,64,Adaptive Behavior
 10.1177/1059712307078662,Grounded Sensorimotor Interaction Histories in an Information Theoretic Metric Space for Robot Ontogeny,Naeem Assif Mirza and Chrystopher L. Nehaniv and Kerstin Dautenhahn and René te Boekhorst,2007,21,Adaptive Behavior
 10.1177/105971230501300403,On the Acquisition and Evolution of Compositional Languages: Sparse Input and the Productive Creativity of Children,Paul Vogt,2005,18,Adaptive Behavior
 10.1177/1059712319861589,On the simplicity of simple heuristics,Gašper Štukelj,2020,1,Adaptive Behavior
 10.1177/1059712310391484,Structural knowledge transfer by spatial abstraction for reinforcement learning agents,Lutz Frommberger and Diedrich Wolter,2010,8,Adaptive Behavior
 10.1177/1059712313482804,"Language, interactivity and solution probing: repetition without repetition",Stephen Cowley and Luarina Nash,2013,16,Adaptive Behavior
+10.1177/1059712318780679,Embodied Cognitive Robotics and the learning of sensorimotor schemes,Bruno Lara and Dadai Astorga and Emmanuel Mendoza-Bock and Manuel Pardo and Esaú Escobar and Alejandra Ciria,2018,11,Adaptive Behavior
+10.1177/1059712310384282,Learning to coordinate in complex networks,Sven Van Segbroeck and Steven de Jong and Ann Nowé and Francisco C Santos and Tom Lenaerts,2010,21,Adaptive Behavior
+10.1177/105971230401200303,A Biorobotic Investigation of Norway Rat Pups (Rattus norvegicus) in an Arena,Jeffrey C. Schank and Christopher J. May and Jonathan T. Tran and Sanjay S. Joshi,2004,25,Adaptive Behavior
 10.1177/1059712306076247,Mechanisms of Action Selection: Introduction to the Special Issue,Joanna J. Bryson,2007,10,Adaptive Behavior
-10.1177/1059712313497975,"Extending sensorimotor contingency theory: prediction, planning, and action generation",Alexander Maye and Andreas K Engel,2013,20,Adaptive Behavior
 10.1177/1059712320922915,A spatially explicit agent-based model of central place foraging theory and its explanatory power for hunter-gatherers settlement patterns formation processes,Kaarel Sikk and Geoffrey Caruso,2020,1,Adaptive Behavior
 10.1177/105971230200900205,A Computational Model of Learned Avoidance Behavior in a One-Way Avoidance Experiment,Jeffrey D. Johnson and Wei Li and Jinghong Li and A. Harry Klopf,2001,18,Adaptive Behavior
 10.1177/1059712311435797,Electrolocation of multiple objects based on temporal sweep motions,Miyoung Sim and DaeEun Kim,2012,6,Adaptive Behavior
+10.1177/1059712313491612,Social contracts and human–computer interaction with simulated adapting agents,Alexis B Craig and Derrik E Asher and Nicolas Oros and Alyssa A Brewer and Jeffrey L Krichmar,2013,5,Adaptive Behavior
 10.1177/1059712309103566,Balancing Population- and Individual-Level Adaptation in Changing Environments,Ingo Paenke and n.m. Yaochu Jin and Jürgen Branke,2009,25,Adaptive Behavior
 10.1177/10597123221089557,From integrative biology to the nerve impulse: Rethinking neural information and semiotics in functional systems perspective,Andres Kurismaa,2023,0,Adaptive Behavior
 10.1177/10597123221095644,Adaptive functions in an agent-based model of an economic system,David White,2023,0,Adaptive Behavior
 10.1177/1059712314533573,Evolution and dispersal under climatic instability: a simple evolutionary algorithm,Matt Grove,2014,23,Adaptive Behavior
 10.1177/1059712316644965,The loneliness of the enactive cell: Towards a bio-enactive framework,Fred Cummins and Paulo De Jesus,2016,11,Adaptive Behavior
 10.1177/1059712315622976,An ecological approach to normativity,Patrizio Lo Presti,2016,8,Adaptive Behavior
-10.1177/1059712318780679,Embodied Cognitive Robotics and the learning of sensorimotor schemes,Bruno Lara and Dadai Astorga and Emmanuel Mendoza-Bock and Manuel Pardo and Esaú Escobar and Alejandra Ciria,2018,11,Adaptive Behavior
-10.1177/1059712316668238,Emotional affordances for human–robot interaction,Jordi Vallverdú and Gabriele Trovato,2016,23,Adaptive Behavior
-10.1177/1059712319826537,"Who needs a brain? Slime moulds, behavioural ecology and minimal cognition",Jules Smith-Ferguson and Madeleine Beekman,2020,13,Adaptive Behavior
-10.1177/1059712310384282,Learning to coordinate in complex networks,Sven Van Segbroeck and Steven de Jong and Ann Nowé and Francisco C Santos and Tom Lenaerts,2010,21,Adaptive Behavior
-10.1177/105971230401200303,A Biorobotic Investigation of Norway Rat Pups (Rattus norvegicus) in an Arena,Jeffrey C. Schank and Christopher J. May and Jonathan T. Tran and Sanjay S. Joshi,2004,25,Adaptive Behavior
-10.1177/1059712320918678,Living models or life modelled? On the use of models in the free energy principle,Thomas van Es,2021,19,Adaptive Behavior
 10.1177/1059712311412797,Transformations in the scale of behavior and the global optimization of constraints in adaptive networks,Richard A Watson and Rob Mills and C.L. Buckley,2011,13,Adaptive Behavior
-10.1177/1059712309103430,Self-Organized Aggregation Triggers Collective Decision Making in a Group of Cockroach-Like Robots,Simon Garnier and Jacques Gautrais and Masoud Asadpour and Christian Jost and Guy Theraulaz,2009,62,Adaptive Behavior
 10.1177/1059712312442231,Classical conditioning in different temporal constraints: an STDP learning rule for robots controlled by spiking neural networks,André Cyr and Mounir Boukadoum,2012,12,Adaptive Behavior
 10.1177/10597123010093005,Biomimetic Oculomotor Control,Tomohiro Shibata and Sethu Vijayakumar and Jörg Conradt and Stefan Schaal,2001,47,Adaptive Behavior
 10.1177/1059712309339867,Animals Versus Animats: Or Why Not Model the Real Iguana?,Barbara Webb,2009,36,Adaptive Behavior
@@ -505,12 +498,20 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1177/1059712308090150,Editorial: Behavior and Mind as a Complex Adaptive System,Stefano Nolfi and Takashi Ikegami and Jun Tani,2008,4,Adaptive Behavior
 10.1177/1059712302010003005,"On the Interplay Between Morphological, Neural, and Environmental Dynamics: A Robotic Case Study",Max Lungarella and Luc Berthouze,2002,23,Adaptive Behavior
 10.1177/1059712302919993005,"On the Interplay Between Morphological, Neural, and Environmental Dynamics: A Robotic Case Study",Max Lungarella and Luc Berthouze,2002,6,Adaptive Behavior
-10.1177/105971230601400103,Movement Models from Sports Provide Representative Task Constraints for Studying Adaptive Behavior in Human Movement Systems,Keith Davids and Chris Button and Duarte Araújo and Ian Renshaw and Robert Hristovski,2006,108,Adaptive Behavior
+10.1177/1059712319890692,Dynamic-free robust adaptive intelligent fault-tolerant controller design with prescribed performance for stable motion of quadruped robots,Yousef Farid and Vahid Johari Majd and Abbas Ehsani-Seresht,2021,6,Adaptive Behavior
+10.1177/1059712315608243,The evolution of social play by learning to cooperate,Sabine Durand and Jeffrey C Schank,2015,12,Adaptive Behavior
+10.1177/1059712313497975,"Extending sensorimotor contingency theory: prediction, planning, and action generation",Alexander Maye and Andreas K Engel,2013,21,Adaptive Behavior
 10.1177/105971230401200310,Dynamic Polyethism and Competition for Tasks in Threshold Reinforcement Models of Social Insects,Daniel Merkle and Martin Middendorf,2004,29,Adaptive Behavior
 10.1177/105971230401200203,Learning Invariant Sensorimotor Behaviors: A Developmental Approach to Imitation Mechanisms,Pierre Andry and Philippe Gaussier and Jacqueline Nadel and Beat Hirsbrunner,2004,28,Adaptive Behavior
+10.1177/105971230601400103,Movement Models from Sports Provide Representative Task Constraints for Studying Adaptive Behavior in Human Movement Systems,Keith Davids and Chris Button and Duarte Araújo and Ian Renshaw and Robert Hristovski,2006,108,Adaptive Behavior
 10.1177/1059712315596053,Modeling play: distinguishing between origins and current functions,Sergio M Pellis and Gordon M Burghardt and Elisabetta Palagi and Marc Mangel,2015,31,Adaptive Behavior
-10.1177/1059712313491612,Social contracts and human–computer interaction with simulated adapting agents,Alexis B Craig and Derrik E Asher and Nicolas Oros and Alyssa A Brewer and Jeffrey L Krichmar,2013,5,Adaptive Behavior
-10.1177/1059712315608243,The evolution of social play by learning to cooperate,Sabine Durand and Jeffrey C Schank,2015,12,Adaptive Behavior
+10.1177/1059712313486817,Hedonic value: enhancing adaptation for motivated agents,Ignasi Cos and Lola Cañamero and Gillian M Hayes and Andrew Gillies,2013,21,Adaptive Behavior
+10.1177/1059712320918678,Living models or life modelled? On the use of models in the free energy principle,Thomas van Es,2021,20,Adaptive Behavior
+10.1177/10597123231166420,"Beyond boundaries: The present and future of 4E cognitive science in interdisciplinary academia, industry, and everyday life",Samira Tavassoli and Morgan Montoya and Ken Ishihara,2023,0,Adaptive Behavior
+10.1177/1059712321994685,The dynamic of body and brain co-evolution,Paolo Pagliuca and Stefano Nolfi,2022,3,Adaptive Behavior
+10.1177/1059712319862774,A tale of two densities: active inference is enactive inference,Maxwell JD Ramstead and Michael D Kirchhoff and Karl J Friston,2020,88,Adaptive Behavior
+10.1177/1059712319826537,"Who needs a brain? Slime moulds, behavioural ecology and minimal cognition",Jules Smith-Ferguson and Madeleine Beekman,2020,13,Adaptive Behavior
+10.1177/1059712316668238,Emotional affordances for human–robot interaction,Jordi Vallverdú and Gabriele Trovato,2016,23,Adaptive Behavior
 10.1177/105971230601400302,Introduction to the Special Issue on the Evolution of Cooperation,C. Athena Aktipis,2006,0,Adaptive Behavior
 10.1177/105971230601400102,Sequence-Learning Algorithm Based on Backward Chaining,Sanjay S. Joshi and Benoit Guilhabert,2006,1,Adaptive Behavior
 10.1177/105971230601400202,Rocking Stamper and Jumping Snakes from a Dynamical Systems Approach to Artificial Life,Ralf Der and Frank Hesse and Georg Martius,2006,25,Adaptive Behavior
@@ -527,7 +528,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1177/1059712312449547,Rewards for pairs of Q-learning agents conducive to turn-taking in medium-access games,Peter A Raffensperger and Philip J Bones and Allan I McInnes and Russell Y Webb,2012,0,Adaptive Behavior
 10.1177/1059712309350973,What Are the Unique Design Features of Language? Formal Tools for Comparative Claims,Willem Zuidema and Arie Verhagen,2010,4,Adaptive Behavior
 10.1177/1059712314578542,Trauma from an enactive perspective: the collapse of the knowing-how structure,Y. Ataria,2015,6,Adaptive Behavior
-10.1177/1059712314526261,Decentralized strategy selection with learning automata for multiple pursuer–evader games,Sidney N Givigi and Howard M Schwartz,2014,11,Adaptive Behavior
 10.1177/1059712303114013,Arches and Stones in Cognitive Architecture Reply to Comments,Randall D. Beer,2003,11,Adaptive Behavior
 10.1177/1059712319856882,"Neurath’s boat and the Sally-Anne test: Life, Cognition, Matter and Stuff",Inman Harvey,2021,1,Adaptive Behavior
 10.1177/1059712314556589,Foreword,,2014,0,Adaptive Behavior
@@ -539,6 +539,7 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1177/1059712306072334,Reactivity and Safe Learning in Multi-Agent Systems,Bikramjit Banerjee and Jing Peng,2006,0,Adaptive Behavior
 10.1177/1059712311403838,Application of continuous time markov theory in modeling courtship behavior and copulation rate of the calanoid copepod Eurytemora affinis,Craig W Steele and A David Scarfe,2011,0,Adaptive Behavior
 10.1177/1059712316644967,Using an agent-based model to study the effect of reproductive skew on mongoose populations,Olcay Akman and Dan Hrozencik and Stacy Mowry,2016,2,Adaptive Behavior
+10.1177/10597123231166421,An enactivist account of the dynamics of lying,Christian Kronsted and Shaun Gallagher and Deborah Tollefsen and Leah Windsor,2023,0,Adaptive Behavior
 10.1177/105971230200900203,Book Review: Rewriting the Meaning of Cognitive Adaptation,Jorge Simão,2001,0,Adaptive Behavior
 10.1177/1059712315621664,SAB2016 – Call for Papers,,2015,0,Adaptive Behavior
 10.1177/1059712317715866,When one brain needs to learn from another: the case of observational facilitation of list learning in macaques,Brad Gasser and Michael Arbib,2017,1,Adaptive Behavior
@@ -549,7 +550,6 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1177/10597123010093004,Odor-Based Navigational Strategies for Mobile Agents,Christodoulos Lytridis and Gurvinder S. Virk and Yann Rebour and Endre E. Kadar,2001,21,Adaptive Behavior
 10.1177/1059712302919993004,An Evolutionary Ecological Approach to the Study of Learning Behavior Using a Robot-Based Model,Elio Tuci and Matt Quinn and Inman Harvey,2002,15,Adaptive Behavior
 10.1177/1059712313483144,Towards an enactive account of action: speaking and joint speaking as exemplary domains,Fred Cummins,2013,10,Adaptive Behavior
-10.1177/1059712306076251,Experiencing Belugas: Action Selection for an Interactive Aquarium Exhibit,Steve DiPaola and Caitlin Akai and Bill Kraus,2007,6,Adaptive Behavior
 10.1177/1059712313488964,Special issue on artificial mental imagery in cognitive systems and robotics,Alessandro Di Nuovo and Vivian M De La Cruz and Davide Marocco,2013,9,Adaptive Behavior
 10.1177/1059712314529981,Hidden Markov models of eastern gray squirrel (Sciurus carolinensis) alarm calls,B Alexander Simmons and Thaddeus R McRae,2014,1,Adaptive Behavior
 10.1177/1059712309344420,The Illusion of Agency: Two Engineering Approaches to Compromise Autonomy and Reactivity in an Artificial System,Jean-Julien Aucouturier and Takashi Ikegami,2009,5,Adaptive Behavior
@@ -568,175 +568,179 @@ DOI,Título,Autores,Año,Citas,Revista
 10.1177/1059712320962158,"Cognitive neurorobotics and self in the shared world, a focused review of ongoing research",Jun Tani and Jeffrey White,2022,4,Adaptive Behavior
 10.1177/10597123211053071,The holobiont mind: A bridge between 4E cognition and the microbiome,Ismael Palacios-García and Francisco J Parada,2021,4,Adaptive Behavior
 10.1177/10597123030112003,A Lesson from Robotics: Modeling Infants as Autonomous Agents,Matthew Schlesinger,2003,10,Adaptive Behavior
-10.1177/1059712320930753,Electroencephalographic analysis of brain activity after interventions with transcranial direct current stimulation over the motor cortex: a systematic review,Jamile Benite Palma Lopes and Isabela Marques Miziara and Danial Kahani and Lorraine Barbosa Cordeiro and Paulo Roberto Fonseca Junior and Roberta Delasta Lazzari and Eduardo Lázaro Martins Naves and Bernard Arthur Conway and Claudia Santos Oliveira,2022,1,Adaptive Behavior
 10.1177/1059712303114010,Making Room for Representation,Seth Bullock,2003,0,Adaptive Behavior
 10.1177/1059712317700501,The Bayesian stance: Equations for ‘as-if’ sensorimotor agency,Simon McGregor,2017,5,Adaptive Behavior
 10.1177/1059712307084690,Investigating the Adaptiveness of Communication in Multi-Agent Behavior Coordination,Paul Schermerhorn and Matthias Scheutz,2007,6,Adaptive Behavior
 10.1177/1059712309340858,Don't Throw the Baby Iguana Out With the Bathwater,Anil Seth,2009,1,Adaptive Behavior
+10.1177/10597123030112002,Social Situatedness of Natural and Artificial Intelligence: Vygotsky and Beyond,Jessica Lindblom and Tom Ziemke,2003,64,Adaptive Behavior
+10.1177/1059712320930753,Electroencephalographic analysis of brain activity after interventions with transcranial direct current stimulation over the motor cortex: a systematic review,Jamile Benite Palma Lopes and Isabela Marques Miziara and Danial Kahani and Lorraine Barbosa Cordeiro and Paulo Roberto Fonseca Junior and Roberta Delasta Lazzari and Eduardo Lázaro Martins Naves and Bernard Arthur Conway and Claudia Santos Oliveira,2022,2,Adaptive Behavior
 10.1177/1059712312453059,Linear reactive control of three-dimensional bipedal walking in the presence of noise and uncertainty,Mark A Locascio and Joseph H Solomon and Mitra JZ Hartmann,2012,2,Adaptive Behavior
 10.1177/105971230501300201,Editorial: Special Issue on Artificial Rodents,Jean-Arcady Meyer and Agnès Guillot,2005,0,Adaptive Behavior
 10.1177/1059712307076256,The Origin of Epistemic Structures and Proto-Representations,Sanjay Chandrasekharan and Terrence C. Stewart,2007,16,Adaptive Behavior
 10.1177/1059712307085098,Gibsonian Affordances for Roboticists,Anthony Chemero and Michael T. Turvey,2007,50,Adaptive Behavior
 10.1177/1059712311422611,Development and evaluation of an agent-based model of sexual partnership,Andrea K Knittel and Rick L Riolo and Rachel C Snow,2011,4,Adaptive Behavior
 10.1177/1059712316682999,Affective-Associative Two-Process theory: A neural network investigation of adaptive behaviour in differential outcomes training,Robert Lowe and Erik Billing,2017,7,Adaptive Behavior
-10.1177/105971230000800101,On the Evolution of Female Mating Preferences as Pleiotropic Byproducts of Adaptive Evolution,Mohamed A.F. Noor,2000,9,Adaptive Behavior
 10.1177/10597123221116183,Using habituation as a simple and fundamental learning mechanism in an embodied artificial agent,Tristan Gillard and Jérémy Fix and Alain Dutech,2022,0,Adaptive Behavior
 10.1177/1059712303113002,Evolution and Learning: Evolving Sensors in a Simple MDP Environment,Tobias Jung and Peter Dauscher and Thomas Uthmann,2003,2,Adaptive Behavior
 10.1177/1059712313497976,The learning of adjectives and nouns from affordance and appearance features,Onur Yürüten and Erol Şahin and Sinan Kalkan,2013,17,Adaptive Behavior
-10.1177/1059712303114001,The Dynamics of Active Categorical Perception in an Evolved Model Agent,Randall D. Beer,2003,282,Adaptive Behavior
-10.1177/1059712319841301,Systems or bodies? On how (not) to embody autopoiesis,Anne Sophie Meincke,2020,2,Adaptive Behavior
 10.1177/10597123211000895,"Get up, stand up: art’s affordances for unseating and unsettling",Flora Lysen,2022,1,Adaptive Behavior
 10.1177/10597123221133189,Reflections on the genre of philosophical art installations,Erik Rietveld and Julian Kiverstein,2022,3,Adaptive Behavior
 10.1177/1059712320984510,Material philosophy and the adaptability of materials,Annemarie Mol,2022,1,Adaptive Behavior
 10.1177/1059712319839056,Steering away from multiple realization,Anco Peeters,2020,2,Adaptive Behavior
+10.1177/1059-712302-010002-03,Modeling Mate Choice in Monogamous Mating Systems with Courtship,Jorge Simao and Peter M Todd,2002,28,Adaptive Behavior
+10.1177/10597123231163595,Improvements (or not!) in the hand trajectory of stroke patients due to practice of a virtual game,Pedro Passos and Ana Diniz and Aline Braga Galvão Silveira Fernandes and Jacilda Oliveira dos Passos and Lorenna Raquel Dantas de Macedo Borges and Tania Fernandes Campos,2023,0,Adaptive Behavior
 10.1177/10597123221097451,"Beyond belongingness: Rethinking innate behavioral predispositions, learning constraints, and cognitive capacities",Rodrigo Sosa,2022,0,Adaptive Behavior
+10.1177/1059712303114001,The Dynamics of Active Categorical Perception in an Evolved Model Agent,Randall D. Beer,2003,282,Adaptive Behavior
+10.1177/1059712303114009,But Will It Scale Up? Not without Representations,Shimon Edelman,2003,12,Adaptive Behavior
 10.1177/1059712319863043,Extremal properties and self-preserving behavior,Nathaniel Barrett,2020,2,Adaptive Behavior
 10.1177/1059712318824325,On the nature and origins of cognition as a form of motivated activity,Nathaniel Barrett,2020,13,Adaptive Behavior
-10.1177/1059712316636437,From enactive phenomenology to biosemiotic enactivism,Paulo De Jesus,2016,18,Adaptive Behavior
-10.1177/105971230000800104,Infant-like Social Interactions between a Robot and a Human Caregiver,Cynthia Breazeal and Brian Scassellati,2000,181,Adaptive Behavior
 10.1177/1059712320931595,Some historical context for minimal cognition,Randall D Beer,2021,3,Adaptive Behavior
+10.1177/105971230000800104,Infant-like Social Interactions between a Robot and a Human Caregiver,Cynthia Breazeal and Brian Scassellati,2000,181,Adaptive Behavior
+10.1177/1059712316636437,From enactive phenomenology to biosemiotic enactivism,Paulo De Jesus,2016,20,Adaptive Behavior
 10.1177/1059712307078654,Emergence of Mirror Neurons in a Model of Gaze Following,Jochen Triesch and Hector Jasso and Gedeon O. Deák,2007,27,Adaptive Behavior
-10.1177/1059712303114009,But Will It Scale Up? Not without Representations,Shimon Edelman,2003,11,Adaptive Behavior
 10.1177/10597123030111001,Neuromodulated Control of Bipedal Locomotion Using a Polymorphic CPG Circuit,Akio Ishiguro and Akinobu Fujii and Peter Eggenberger Hotz,2003,36,Adaptive Behavior
 10.1177/1059712311419380,The infant development timeline and its application to robot shaping,James Law and Mark Lee and Martin Hülse and Alessandra Tomassetti,2011,32,Adaptive Behavior
 10.1177/10597123221130235,Can perception be extended to a “feel of north”? Tests of automaticity with the NaviEar,Christoph Witzel and Annika Lübbert and J. Kevin O’Regan and Sylvain Hanneton and Frank Schumann,2022,1,Adaptive Behavior
 10.1177/1059712320902236,Uni- and bidirectional pedestrian flows through zigzag corridor in a tourism area: a field study,Xiaolian Li and Rui Ye and Zhiming Fang and Yihua Xu and Beihua Cong and Xin Han,2021,3,Adaptive Behavior
-10.1177/1059-712302-010002-03,Modeling Mate Choice in Monogamous Mating Systems with Courtship,Jorge Simao and Peter M Todd,2002,28,Adaptive Behavior
+10.1177/1059712319865180,Decentralized control mechanism for body–limb coordination in quadruped running,Akira Fukuhara and Yukihiro Koizumi and Shura Suzuki and Takeshi Kano and Akio Ishiguro,2020,11,Adaptive Behavior
 10.1177/1059712308089181,Perception for Action: Dynamic Spatiotemporal Patterns Applied on a Roving Robot,Paolo Arena and Luigi Fortuna and Davide Lombardo and Luca Patané,2008,10,Adaptive Behavior
 10.1177/1059712311427195,Predator–prey interactions paradigm: a new tool for artificial intelligence,Pierre Legreneur and Michel Laurin and Vincent Bels,2012,8,Adaptive Behavior
 10.1177/10597123221085039,From eye-blinks to state construction: Diagnostic benchmarks for online representation learning,Banafsheh Rafiee and Zaheer Abbas and Sina Ghiassian and Raksha Kumaraswamy and Richard S Sutton and Elliot A Ludvig and Adam White,2023,0,Adaptive Behavior
 10.1177/10597123221110379,Nectar of the Bots: Evolving Bidirectional Referential Communication,Ruairi Fox and Seth Bullock,2023,0,Adaptive Behavior
 10.1177/10597123211030694,Autopoiesis and evolution: the role of organisms in natural drift,Vincenzo Raimondi,2021,2,Adaptive Behavior
-10.1177/1059712319865180,Decentralized control mechanism for body–limb coordination in quadruped running,Akira Fukuhara and Yukihiro Koizumi and Shura Suzuki and Takeshi Kano and Akio Ishiguro,2020,10,Adaptive Behavior
 10.1177/1059712315609412,Learning programs is better than learning dynamics: A programmable neural network hierarchical architecture in a multi-task scenario,Francesco Donnarumma and Roberto Prevete and Andrea de Giorgio and Guglielmo Montone and Giovanni Pezzulo,2016,13,Adaptive Behavior
 10.1177/1059712318770387,Going wide: extended mind and Wittgenstein,Victor Loughlin,2018,3,Adaptive Behavior
-10.1177/1059712308090536,Extremism Propagation in Social Networks with Hubs,Daniel W. Franks and Jason Noble and Peter Kaufmann and Sigrid Stagl,2008,38,Adaptive Behavior
 10.1177/105971230401200306,Learning and Measuring Specialization in Collaborative Swarm Systems,Ling Li and Alcherio Martinoli and Yaser S. Abu-Mostafa,2004,40,Adaptive Behavior
-10.1177/10597123030112002,Social Situatedness of Natural and Artificial Intelligence: Vygotsky and Beyond,Jessica Lindblom and Tom Ziemke,2003,63,Adaptive Behavior
-10.1177/1059712310388528,Robots that have emotions,Domenico Parisi and Giancarlo Petrosino,2010,40,Adaptive Behavior
 10.1177/105971230601400204,Structure and Dynamics of Random Recurrent Neural Networks,Hugues Berry and Mathias Quoy,2006,12,Adaptive Behavior
-10.1177/105971230501300301,Reinforcement Learning for RoboCup Soccer Keepaway,Peter Stone and Richard S. Sutton and Gregory Kuhlmann,2005,211,Adaptive Behavior
 10.1177/1059712310397633,Darwinian embodied evolution of the learning ability for survival,Stefan Elfwing and Eiji Uchibe and Kenji Doya and Henrik I Christensen,2011,14,Adaptive Behavior
 10.1177/1059712319845340,Impact of parents’ technology use on 18- to 24-month-old infants’ adaptive behaviors,Sibel Atlı and Selim Gunuc and Daria Kuss and Gülen Baran,2019,6,Adaptive Behavior
-10.1177/1059712313491615,"A model of exploration and goal-searching in the cockroach, Blaberus discoidalis",Kathryn A Daltorio and Brian R Tietz and John A Bender and Victoria A Webster and Nicholas S Szczecinski and Michael S Branicky and Roy E Ritzmann and Roger D Quinn,2013,13,Adaptive Behavior
+10.1177/1059712308090536,Extremism Propagation in Social Networks with Hubs,Daniel W. Franks and Jason Noble and Peter Kaufmann and Sigrid Stagl,2008,38,Adaptive Behavior
 10.1177/1059712307087282,Evolution of Signaling in a Multi-Robot System: Categorization and Communication,Christos Ampatzis and Elio Tuci and Vito Trianni and Marco Dorigo,2008,26,Adaptive Behavior
-10.1177/1059712307084689,To Afford or Not to Afford: A New Formalization of Affordances Toward Affordance-Based Robot Control,Erol Şahin and Maya Çakmak and Mehmet R. Doğar and Emre Uğur and Göktürk Üçoluk,2007,198,Adaptive Behavior
-10.1177/1059712311434662,A hierarchical Bayesian framework for multimodal active perception,João Filipe Ferreira and Miguel Castelo-Branco and Jorge Dias,2012,20,Adaptive Behavior
-10.1177/1059712310395410,Holistic visual encoding of ant-like routes: Navigation without waypoints,Bart Baddeley and Paul Graham and Andrew Philippides and Philip Husbands,2011,66,Adaptive Behavior
 10.1177/1059712302919993002,Neuronal Plasticity and Temporal Adaptivity: GasNet Robot Control Networks,Tom Smith and Phil Husbands and Andy Philippides and Michael O'Shea,2002,21,Adaptive Behavior
 10.1177/1059712317711487,Cognitive map self-organization from subjective visuomotor experiences in a hierarchical recurrent neural network,Wataru Noguchi and Hiroyuki Iizuka and Masahito Yamamoto,2017,5,Adaptive Behavior
 10.1177/105971230200900102,Robot Learning Driven by Emotions,Sandra Clara Gadanho and John Hallam,2001,48,Adaptive Behavior
+10.1177/1059712314526261,Decentralized strategy selection with learning automata for multiple pursuer–evader games,Sidney N Givigi and Howard M Schwartz,2014,12,Adaptive Behavior
+10.1177/1059712319841301,Systems or bodies? On how (not) to embody autopoiesis,Anne Sophie Meincke,2020,3,Adaptive Behavior
+10.1177/1059712310388528,Robots that have emotions,Domenico Parisi and Giancarlo Petrosino,2010,40,Adaptive Behavior
+10.1177/105971230000800101,On the Evolution of Female Mating Preferences as Pleiotropic Byproducts of Adaptive Evolution,Mohamed A.F. Noor,2000,10,Adaptive Behavior
+10.1177/105971230501300301,Reinforcement Learning for RoboCup Soccer Keepaway,Peter Stone and Richard S. Sutton and Gregory Kuhlmann,2005,211,Adaptive Behavior
 10.1177/1059712319871360,Of what is “minimal cognition” the half-baked version?,Pamela Lyon,2020,19,Adaptive Behavior
-10.1177/1059712319838211,Why living bodies could be dead weight,Simon McGregor,2020,1,Adaptive Behavior
-10.1177/1059712319869313,A robust policy bootstrapping algorithm for multi-objective reinforcement learning in non-stationary environments,Sherif Abdelfattah and Kathryn Kasmarik and Jiankun Hu,2020,1,Adaptive Behavior
-10.1177/105971230601400304,Learning and Cooperation in Sequential Games,Annapurna Valluri,2006,2,Adaptive Behavior
-10.1177/1059712315584380,Mechanical cognitivization: a kinematic system proof of concept,Gideon Avigad and Wei Li and Avi Weiss,2015,0,Adaptive Behavior
-10.1177/1059712302010002002,Cellular Nonlinear Network-Based Bio-Inspired Decentralized Control of Locomotion for Hexapod Robots,Holk Cruse and Paolo Arena and Mattia Frasca,2002,3,Adaptive Behavior
-10.1177/1059712309339854,Levels and Types of Action Selection: The Action Selection Soup,Pinar Öztürk,2009,4,Adaptive Behavior
-10.1177/1059712317691693,Editorial,Ezequiel A Di Paolo and Tom Froese,2017,0,Adaptive Behavior
-10.1177/1059712303114011,Putting Developmental Dynamics of Dynamic Perception and Cognition First,Shu-Chen Li,2003,0,Adaptive Behavior
-10.1177/10597123211031702,"Living creatures, humankind, and the history of who we are",Laura Mojica,2021,0,Adaptive Behavior
-10.1177/105971230601400205,Musical Automata as Dynamical Systems,David M. Michael,2006,0,Adaptive Behavior
-10.1177/1059712303114005,Power Tools Needed for the Dynamical Toolbox,Thomas J. Koehnle and Jeffrey C. Schank,2003,1,Adaptive Behavior
-10.1177/1059712309339858,Editorial,Ezequiel Di Paolo,2009,1,Adaptive Behavior
-10.1177/1059712313511649,The evolution and analysis of action switching in embodied agents,Eran Agmon and Randall D Beer,2014,11,Adaptive Behavior
+10.1177/1059712310395410,Holistic visual encoding of ant-like routes: Navigation without waypoints,Bart Baddeley and Paul Graham and Andrew Philippides and Philip Husbands,2011,67,Adaptive Behavior
+10.1177/1059712313491615,"A model of exploration and goal-searching in the cockroach, Blaberus discoidalis",Kathryn A Daltorio and Brian R Tietz and John A Bender and Victoria A Webster and Nicholas S Szczecinski and Michael S Branicky and Roy E Ritzmann and Roger D Quinn,2013,14,Adaptive Behavior
+10.1177/1059712306076251,Experiencing Belugas: Action Selection for an Interactive Aquarium Exhibit,Steve DiPaola and Caitlin Akai and Bill Kraus,2007,6,Adaptive Behavior
+10.1177/1059712311434662,A hierarchical Bayesian framework for multimodal active perception,João Filipe Ferreira and Miguel Castelo-Branco and Jorge Dias,2012,21,Adaptive Behavior
+10.1177/1059712307084689,To Afford or Not to Afford: A New Formalization of Affordances Toward Affordance-Based Robot Control,Erol Şahin and Maya Çakmak and Mehmet R. Doğar and Emre Uğur and Göktürk Üçoluk,2007,198,Adaptive Behavior
+10.1177/1059712320967184,4E cognition in the Lower Palaeolithic,Thomas Wynn and Karenleigh A Overmann and Lambros Malafouris,2021,2,Adaptive Behavior
 10.1177/105971230401200102,Evolving the Neural Controller for a Robotic Arm Able to Grasp Objects on the Basis of Tactile Sensors,Raffaele Bianco and Stefano Nolfi,2004,10,Adaptive Behavior
 10.1177/1059712318763806,The biology of consciousness from the bottom up,Claude MJ Braun and Shaun Lovejoy,2018,1,Adaptive Behavior
-10.1177/1059712320967184,4E cognition in the Lower Palaeolithic,Thomas Wynn and Karenleigh A Overmann and Lambros Malafouris,2021,2,Adaptive Behavior
-10.1177/1059712318787476,About warlike and peaceful societies,Agner Fog,2018,0,Adaptive Behavior
+10.1177/10597123211031702,"Living creatures, humankind, and the history of who we are",Laura Mojica,2021,0,Adaptive Behavior
+10.1177/105971230000800203,Plasticity in Value Systems and its Role in Adaptive Behavior,Olaf Sporns and Nikolaus Almássy and Gerald M. Edelman,2000,28,Adaptive Behavior
+10.1177/10597123221088874,"Do not burn these gentle bridges: An empirical framework based on the 4E perspective is necessary, pertinent, and timely",Francisco J Parada and Ismael Palacios-García,2022,0,Adaptive Behavior
+10.1177/1059712308089185,Learning Multiple Goal-Directed Actions Through Self-Organization of a Dynamic Neural Network Model: A Humanoid Robot Experiment,Ryunosuke Nishimoto and Jun Namikawa and Jun Tani,2008,25,Adaptive Behavior
+10.1177/105971230401200304,Linking Micro- to Macro-level Behavior in the Aggressor-Defender-Stalker Game,Carl Anderson,2004,3,Adaptive Behavior
+10.1177/1059712309340861,Do Animat Models Always Need a Biological Target Organism?,Steffen Wischmann,2009,1,Adaptive Behavior
 10.1177/1059712314553806,Since ECAL 1993,Takashi Ikegami,2014,0,Adaptive Behavior
 10.1177/1059-712302-010001-03,Learning to Communicate: The Emergence of Signaling in Spatialized Arrays of Neural Nets,Patrick Grim and Paul St. Denis and Trina Kokalis,2002,3,Adaptive Behavior
+10.1177/1059712316664570,Transfer learning by prototype generation in continuous spaces,Enrique Munoz de Cote and Esteban O. Garcia and Eduardo F. Morales,2016,7,Adaptive Behavior
+10.1177/1059712315612917,Congestion-free multi-agent navigation based on velocity space by using cellular automata,Murat Haciomeroglu,2016,4,Adaptive Behavior
+10.1177/1059712315608424,Integrating learning by experience and demonstration in autonomous robots,Paolo Pagliuca and Stefano Nolfi,2015,2,Adaptive Behavior
+10.1177/1059712319838211,Why living bodies could be dead weight,Simon McGregor,2020,1,Adaptive Behavior
+10.1177/105971230401200301,Special Issue on Mathematics and Algorithms of Social Interactions,Carl Anderson and Tucker Balch,2004,0,Adaptive Behavior
+10.1177/1059712310375471,Learning Affordances of Consummatory Behaviors: Motivation-Driven Adaptive Perception,Ignasi Cos and Lola Cañamero and Gillian M. Hayes,2010,8,Adaptive Behavior
+10.1177/105971230501300304,Reactive Agents and Perceptual Ambiguity,Michel van Dartel and Ida Sprinkhuizen-Kuyper and Eric Postma and Jaap van den Herik,2005,9,Adaptive Behavior
+10.1177/1059712310395953,"Achievement, affiliation, and power: Motive profiles for artificial agents",Kathryn E Merrick and Kamran Shafi,2011,22,Adaptive Behavior
+10.1177/105971230000800105,The Design of Animal Communication,Ezequiel A. Di Paolo,2000,0,Adaptive Behavior
+10.1177/1059712309104313,Asynchronous Iterated Prisoner's Dilemma,David Newth,2009,6,Adaptive Behavior
+10.1177/1059712308100236,"Motivated Learning from Interesting Events: Adaptive, Multitask Learning Agents for Complex Environments",Kathryn Merrick and Mary Lou Maher,2009,12,Adaptive Behavior
+10.1177/1059712314537091,People in the Paleolithic could access the whole spectrum of consciousness: response to Helvenston,Tom Froese and Alexander Woodward and Takashi Ikegami,2014,1,Adaptive Behavior
+10.1177/1059712314564784,Soft-bodied amoeba-inspired robot that switches between qualitatively different behaviors with decentralized stiffness control,Takuya Umedachi and Kentaro Ito and Akio Ishiguro,2015,9,Adaptive Behavior
+10.1177/1059712319869313,A robust policy bootstrapping algorithm for multi-objective reinforcement learning in non-stationary environments,Sherif Abdelfattah and Kathryn Kasmarik and Jiankun Hu,2020,1,Adaptive Behavior
+10.1177/1059712313488425,Solving the correspondence problem in stereo vision by internal simulation,Alexander Kaiser and Wolfram Schenck and Ralf Möller,2013,3,Adaptive Behavior
+10.1177/1059712318787476,About warlike and peaceful societies,Agner Fog,2018,0,Adaptive Behavior
+10.1177/1059712316651686,Intrinsically motivated particle swarm optimisation applied to task allocation for workplace hazard detection,Adam Klyne and Kathryn Merrick,2016,9,Adaptive Behavior
+10.1177/1059-712302-010002-02,Cellular Nonlinear Network-Based Bio-Inspired Decentralized Control of Locomotion for Hexapod Robots,Paolo Arena and Holk Cruse and Mattia Frasca,2002,0,Adaptive Behavior
+10.1177/1059712309339854,Levels and Types of Action Selection: The Action Selection Soup,Pinar Öztürk,2009,4,Adaptive Behavior
+10.1177/1059712315584380,Mechanical cognitivization: a kinematic system proof of concept,Gideon Avigad and Wei Li and Avi Weiss,2015,0,Adaptive Behavior
+10.1177/105971230601400304,Learning and Cooperation in Sequential Games,Annapurna Valluri,2006,2,Adaptive Behavior
+10.1177/1059712302010002001,Anticipations Control Behavior: Animal Behavior in an Anticipatory Learning Classifier System,Martin V. Butz and Joachim Hoffmann,2002,21,Adaptive Behavior
+10.1177/1059712309344421,Autonomy of Self at Criticality: The Perspective from Synthetic Neuro-Robotics,Jun Tani,2009,8,Adaptive Behavior
+10.1177/1059712312462249,Ultrastable neuroendocrine robot controller,Lenka Pitonakova,2013,3,Adaptive Behavior
+10.1177/1059712309340860,More Synthetic Work Is Needed,Johan Lind and Magnus Enquist,2009,1,Adaptive Behavior
+10.1177/10597123221126208,A two-stage multi-attribute group consensus model based on distributed linguistic assessment information from the perspective of fairness concern,Shanli Zhang and Shitao Zhang and Zhenzhen Ma and Xiaodi Liu,2022,0,Adaptive Behavior
+10.1177/1059712309339858,Editorial,Ezequiel Di Paolo,2009,1,Adaptive Behavior
+10.1177/1059712303114005,Power Tools Needed for the Dynamical Toolbox,Thomas J. Koehnle and Jeffrey C. Schank,2003,1,Adaptive Behavior
+10.1177/1059712310366040,Is There a Violation of Savage’s Sure-Thing Principle in the Prisoner’s Dilemma Game?,n.m. Shu Li and Zuo-Jun Wang and Li-Lin Rao and Yan-Mei Li,2010,4,Adaptive Behavior
+10.1177/1059712314553311,How Takashi Gomi influenced younger generations,Mototaka Suzuki,2014,0,Adaptive Behavior
+10.1177/1059712308090200,Attractor Landscapes and Active Tracking: The Neurodynamics of Embodied Action,Mario Negrello and Frank Pasemann,2008,7,Adaptive Behavior
+10.1177/1059712319838801,Entrenchment implies that physiological and developmental processes are not organism-bound but still organism-centric,Davide Vecchi,2020,2,Adaptive Behavior
+10.1177/1059712309101662,Farewell and Hello Editorial,Peter M. Todd and Ezequiel Di Paolo,2009,0,Adaptive Behavior
+10.1177/105971230501300407,How Phonological Structures Can Be Culturally Selected for Learnability,Pierre-Yves Oudeyer,2005,15,Adaptive Behavior
+10.1177/1059712318789546,Call for Contributions,,2018,0,Adaptive Behavior
+10.1177/105971230000800303,Effects of Genetic Dominance on Runaway Sexual Selection,Mohamed A.F. Noor,2000,1,Adaptive Behavior
+10.1177/1059712313492176,A computational approach on the co-development of artificial visual sensorimotor,Jonas Ruesch and Ricardo Ferreira and Alexandre Bernardino,2013,4,Adaptive Behavior
+10.1177/1059712307081754,Editorial: Biologically Inspired Robotics — an Introduction to the Special Issue,Myra S. Wilson,2007,0,Adaptive Behavior
+10.1177/1059712314557364,"Enactivism, action and normativity: a Wittgensteinian analysis",Manuel Heras-Escribano and Jason Noble and Manuel de Pinedo,2015,19,Adaptive Behavior
+10.1177/1059712311426912,Co-evolving predator and prey robots,Stefano Nolfi,2012,20,Adaptive Behavior
+10.1177/105971230401200311,Costs of Environmental Fluctuations and Benefits of Dynamic Decentralized Foraging Decisions in Honey Bees,Thomas Schmickl and Karl Crailsheim,2004,41,Adaptive Behavior
+10.1177/10597123221094362,"Practice, enactivism, and ecological psychology",Jonathan McKinney and Sune Vork Steffensen and Anthony Chemero,2022,1,Adaptive Behavior
+10.1177/105971230200900204,"Modeling Group Foraging: Individual Suboptimality, Interference, and a Kind of Matching",Anil K. Seth,2001,27,Adaptive Behavior
+10.1177/1059712316632851,Investigation of cue-based aggregation in static and dynamic environments with a mobile robot swarm,Farshad Arvin and Ali Emre Turgut and Tomáš Krajník and Shigang Yue,2016,34,Adaptive Behavior
+10.1177/1059712303114011,Putting Developmental Dynamics of Dynamic Perception and Cognition First,Shu-Chen Li,2003,0,Adaptive Behavior
+10.1177/105971230601400205,Musical Automata as Dynamical Systems,David M. Michael,2006,0,Adaptive Behavior
+10.1177/1059712313511649,The evolution and analysis of action switching in embodied agents,Eran Agmon and Randall D Beer,2014,11,Adaptive Behavior
 10.1177/1059712319873156,CALL FOR PAPERS – Adaptive Behavior,,2019,0,Adaptive Behavior
 10.1177/10597123211032038,Editorial,Pierre Steiner and Olivier Gapenne and Charles Lenay,2021,0,Adaptive Behavior
-10.1177/1059712309104313,Asynchronous Iterated Prisoner's Dilemma,David Newth,2009,6,Adaptive Behavior
-10.1177/1059712314537091,People in the Paleolithic could access the whole spectrum of consciousness: response to Helvenston,Tom Froese and Alexander Woodward and Takashi Ikegami,2014,1,Adaptive Behavior
-10.1177/1059712308100236,"Motivated Learning from Interesting Events: Adaptive, Multitask Learning Agents for Complex Environments",Kathryn Merrick and Mary Lou Maher,2009,12,Adaptive Behavior
-10.1177/1059712308090200,Attractor Landscapes and Active Tracking: The Neurodynamics of Embodied Action,Mario Negrello and Frank Pasemann,2008,7,Adaptive Behavior
-10.1177/1059712310366040,Is There a Violation of Savage’s Sure-Thing Principle in the Prisoner’s Dilemma Game?,n.m. Shu Li and Zuo-Jun Wang and Li-Lin Rao and Yan-Mei Li,2010,4,Adaptive Behavior
-10.1177/1059712313488425,Solving the correspondence problem in stereo vision by internal simulation,Alexander Kaiser and Wolfram Schenck and Ralf Möller,2013,3,Adaptive Behavior
-10.1177/1059712320988178,Material playgrounds: opening an ontology of active matter,Laura Mojica,2022,1,Adaptive Behavior
-10.1177/105971230501300407,How Phonological Structures Can Be Culturally Selected for Learnability,Pierre-Yves Oudeyer,2005,15,Adaptive Behavior
-10.1177/105971230401200301,Special Issue on Mathematics and Algorithms of Social Interactions,Carl Anderson and Tucker Balch,2004,0,Adaptive Behavior
-10.1177/1059712315608424,Integrating learning by experience and demonstration in autonomous robots,Paolo Pagliuca and Stefano Nolfi,2015,2,Adaptive Behavior
-10.1177/1059712314553311,How Takashi Gomi influenced younger generations,Mototaka Suzuki,2014,0,Adaptive Behavior
-10.1177/1059712307081754,Editorial: Biologically Inspired Robotics — an Introduction to the Special Issue,Myra S. Wilson,2007,0,Adaptive Behavior
-10.1177/105971230000800303,Effects of Genetic Dominance on Runaway Sexual Selection,Mohamed A.F. Noor,2000,1,Adaptive Behavior
-10.1177/1059712318789546,Call for Contributions,,2018,0,Adaptive Behavior
-10.1177/1059712315588961,Book Review: Enactive theory and the problem of non-sense,Nathaniel F Barrett,2015,1,Adaptive Behavior
-10.1177/1059712309340860,More Synthetic Work Is Needed,Johan Lind and Magnus Enquist,2009,1,Adaptive Behavior
-10.1177/1059-712302-010002-02,Cellular Nonlinear Network-Based Bio-Inspired Decentralized Control of Locomotion for Hexapod Robots,Paolo Arena and Holk Cruse and Mattia Frasca,2002,0,Adaptive Behavior
-10.1177/1059712319838801,Entrenchment implies that physiological and developmental processes are not organism-bound but still organism-centric,Davide Vecchi,2020,2,Adaptive Behavior
-10.1177/1059712314557364,"Enactivism, action and normativity: a Wittgensteinian analysis",Manuel Heras-Escribano and Jason Noble and Manuel de Pinedo,2015,19,Adaptive Behavior
-10.1177/1059712311433131,Moth-inspired plume tracing via multiple autonomous vehicles under formation control,Xiaodong Kang and Wei Li,2012,18,Adaptive Behavior
-10.1177/1059712318762733,Forgiveness and trust dynamics on social networks,Meriem Laifa and Samir Akrouf and Ramdane Mammeri,2018,4,Adaptive Behavior
-10.1177/1059712316664017,Developing crossmodal expression recognition based on a deep neural model,Pablo Barros and Stefan Wermter,2016,45,Adaptive Behavior
-10.1177/105971230000800105,The Design of Animal Communication,Ezequiel A. Di Paolo,2000,0,Adaptive Behavior
-10.1177/1059712318765948,Which neurofeedback session is better for motor skill acquisition; before or after training?,Mohammadreza Ghasemian and Hamidreza Taheri and Alireza Saberi Kakhki and Majid Ghoshuni,2018,1,Adaptive Behavior
-10.1177/1059712320968576,Evolution of combinatorial structure in learned forms through embodied iterated learning in a robot collective,Mehmet Dincer Erbas,2022,0,Adaptive Behavior
-10.1177/1059712316650265,From retina to behavior: prey-predator recognition by convolutional neural networks and their modulation by classical conditioning,Naoto Yoshida,2016,1,Adaptive Behavior
-10.1177/10597123221126208,A two-stage multi-attribute group consensus model based on distributed linguistic assessment information from the perspective of fairness concern,Shanli Zhang and Shitao Zhang and Zhenzhen Ma and Xiaodi Liu,2022,0,Adaptive Behavior
-10.1177/1059712311426801,"Sensory perception, neurobiology, and behavioral adaptations for predator avoidance in planktonic copepods",Edward J Buskey and Petra H Lenz and Daniel K Hartline,2012,29,Adaptive Behavior
-10.1177/10597123221102209,Animals in Sociomaterial Processes: An Alternative to Inferential Processes in Animals’ Heads,Bas van Woerkum,2023,0,Adaptive Behavior
-10.1177/1059712313492176,A computational approach on the co-development of artificial visual sensorimotor,Jonas Ruesch and Ricardo Ferreira and Alexandre Bernardino,2013,4,Adaptive Behavior
-10.1177/1059712309101662,Farewell and Hello Editorial,Peter M. Todd and Ezequiel Di Paolo,2009,0,Adaptive Behavior
+10.1177/1059712317691693,Editorial,Ezequiel A Di Paolo and Tom Froese,2017,0,Adaptive Behavior
+10.1177/1059712302010002002,Cellular Nonlinear Network-Based Bio-Inspired Decentralized Control of Locomotion for Hexapod Robots,Holk Cruse and Paolo Arena and Mattia Frasca,2002,3,Adaptive Behavior
 10.1177/1059712312442403,"Special section: smarter periphery, easier central processing",John Hallam,2012,0,Adaptive Behavior
 10.1177/1059712314547646,"Radical enactivism, Wittgenstein and the cognitive gap",Victor Loughlin,2014,4,Adaptive Behavior
+10.1177/1059712316650265,From retina to behavior: prey-predator recognition by convolutional neural networks and their modulation by classical conditioning,Naoto Yoshida,2016,1,Adaptive Behavior
 10.1177/1059712319860842,"Evaluating Cultural Transmission in Bronze Age burial rites of Central, Northern and Northwestern Europe using radiocarbon data",Clemens Schmid,2020,5,Adaptive Behavior
-10.1177/1059712310375471,Learning Affordances of Consummatory Behaviors: Motivation-Driven Adaptive Perception,Ignasi Cos and Lola Cañamero and Gillian M. Hayes,2010,8,Adaptive Behavior
-10.1177/105971230401200304,Linking Micro- to Macro-level Behavior in the Aggressor-Defender-Stalker Game,Carl Anderson,2004,3,Adaptive Behavior
-10.1177/105971230401200103,Environment and Behavior Influence the Complexity of Evolved Neural Networks,Anil K. Seth and Gerald M. Edelman,2004,35,Adaptive Behavior
-10.1177/1059712319879971,Power spectral parameter variations after transcranial direct current stimulation in a bimanual coordination task,Atefeh Azarpaikan and HamidReza Taherii Torbati and Mehdi Sohrabi and Reza Boostani and Majid Ghoshuni,2021,4,Adaptive Behavior
-10.1177/1059712307087283,Mutual Mate Choice Can Drive Costly Signaling Even Under Perfect Monogamy,Paul L. Hooper and Geoffrey F. Miller,2008,54,Adaptive Behavior
-10.1177/1059712318757044,"Souvenirs from ECAL 2017: create, play, experiment, discover – revealing the experimental power of virtual worlds",Carole Knibbe,2018,0,Adaptive Behavior
-10.1177/1059712309340861,Do Animat Models Always Need a Biological Target Organism?,Steffen Wischmann,2009,1,Adaptive Behavior
+10.1177/1059712318765948,Which neurofeedback session is better for motor skill acquisition; before or after training?,Mohammadreza Ghasemian and Hamidreza Taheri and Alireza Saberi Kakhki and Majid Ghoshuni,2018,1,Adaptive Behavior
 10.1177/1059712318789545,Call for Papers –Adaptive Behavior,,2018,0,Adaptive Behavior
 10.1177/1059712309340859,Response: The Power of Selection,Barbara Webb,2009,1,Adaptive Behavior
-10.1177/1059712319854350,From metaphor to theory: the role of resonance in perceptual learning,Vicente Raja,2019,13,Adaptive Behavior
-10.1177/10597123221088874,"Do not burn these gentle bridges: An empirical framework based on the 4E perspective is necessary, pertinent, and timely",Francisco J Parada and Ismael Palacios-García,2022,0,Adaptive Behavior
-10.1177/105971230000800203,Plasticity in Value Systems and its Role in Adaptive Behavior,Olaf Sporns and Nikolaus Almássy and Gerald M. Edelman,2000,28,Adaptive Behavior
-10.1177/10597123211000188,Rethinking relationality,Dirk van den Heuvel,2022,1,Adaptive Behavior
-10.1177/1059712308099230,Learning Mazes with Aliasing States: An LCS Algorithm with Associative Perception,Zhanna V. Zatuchna and Anthony Bagnall,2009,11,Adaptive Behavior
-10.1177/1059712314556369,Dynamic homeostasis in packet switching networks,Mizuki Oka and Hirotake Abe and Takashi Ikegami,2015,4,Adaptive Behavior
-10.1177/1059712316651686,Intrinsically motivated particle swarm optimisation applied to task allocation for workplace hazard detection,Adam Klyne and Kathryn Merrick,2016,9,Adaptive Behavior
-10.1177/1059712308089185,Learning Multiple Goal-Directed Actions Through Self-Organization of a Dynamic Neural Network Model: A Humanoid Robot Experiment,Ryunosuke Nishimoto and Jun Namikawa and Jun Tani,2008,25,Adaptive Behavior
-10.1177/10597123221119690,Avoiding organismic asymmetries in ecological cognition: Analysis of agent-environment couplings with eco-physical variables,Ludovic Seifert and Duarte Araújo and Keith Davids,2022,0,Adaptive Behavior
-10.1177/1059712312462249,Ultrastable neuroendocrine robot controller,Lenka Pitonakova,2013,3,Adaptive Behavior
-10.1177/1059712315612917,Congestion-free multi-agent navigation based on velocity space by using cellular automata,Murat Haciomeroglu,2016,4,Adaptive Behavior
-10.1177/1059712314564784,Soft-bodied amoeba-inspired robot that switches between qualitatively different behaviors with decentralized stiffness control,Takuya Umedachi and Kentaro Ito and Akio Ishiguro,2015,9,Adaptive Behavior
-10.1177/105971230200900204,"Modeling Group Foraging: Individual Suboptimality, Interference, and a Kind of Matching",Anil K. Seth,2001,27,Adaptive Behavior
-10.1177/10597123221094362,"Practice, enactivism, and ecological psychology",Jonathan McKinney and Sune Vork Steffensen and Anthony Chemero,2022,1,Adaptive Behavior
-10.1177/1059712311426799,Information transfer and antipredator maneuvers in schooling herring,Stefano Marras and Robert S Batty and Paolo Domenici,2012,54,Adaptive Behavior
-10.1177/1059712311426912,Co-evolving predator and prey robots,Stefano Nolfi,2012,20,Adaptive Behavior
-10.1177/1059712310385479,"Is cognition a matter of representations? Emulation, teleology, and time-keeping in biological systems",Ángel García Rodríguez and Paco Calvo Garzón,2010,6,Adaptive Behavior
-10.1177/1059712316664570,Transfer learning by prototype generation in continuous spaces,Enrique Munoz de Cote and Esteban O. Garcia and Eduardo F. Morales,2016,7,Adaptive Behavior
+10.1177/1059712315588961,Book Review: Enactive theory and the problem of non-sense,Nathaniel F Barrett,2015,1,Adaptive Behavior
+10.1177/1059712318757044,"Souvenirs from ECAL 2017: create, play, experiment, discover – revealing the experimental power of virtual worlds",Carole Knibbe,2018,0,Adaptive Behavior
+10.1177/1059712320968576,Evolution of combinatorial structure in learned forms through embodied iterated learning in a robot collective,Mehmet Dincer Erbas,2022,0,Adaptive Behavior
+10.1177/105971230401200103,Environment and Behavior Influence the Complexity of Evolved Neural Networks,Anil K. Seth and Gerald M. Edelman,2004,35,Adaptive Behavior
+10.1177/1059712311426801,"Sensory perception, neurobiology, and behavioral adaptations for predator avoidance in planktonic copepods",Edward J Buskey and Petra H Lenz and Daniel K Hartline,2012,30,Adaptive Behavior
 10.1177/1059712320985543,A self-adaptive landmark-based aggregation method for robot swarms,Arash Sadeghi Amjadi and Mohsen Raoufi and Ali Emre Turgut,2022,3,Adaptive Behavior
+10.1177/1059712310385479,"Is cognition a matter of representations? Emulation, teleology, and time-keeping in biological systems",Ángel García Rodríguez and Paco Calvo Garzón,2010,6,Adaptive Behavior
+10.1177/10597123221119690,Avoiding organismic asymmetries in ecological cognition: Analysis of agent-environment couplings with eco-physical variables,Ludovic Seifert and Duarte Araújo and Keith Davids,2022,0,Adaptive Behavior
+10.1177/105971230000800201,Dynamic Scheduling and Division of Labor in Social Insects,Mike Campos and Eric Bonabeau and Guy Théraulaz and Jean-Louis Deneubourg,2000,73,Adaptive Behavior
+10.1177/1059712308097316,Associative Learning on a Continuum in Evolved Dynamical Neural Networks,Eduardo Izquierdo and Inman Harvey and Randall D. Beer,2008,22,Adaptive Behavior
+10.1177/1059712309350970,Verifying Theories of Language Acquisition Using Computer Models of Language Evolution,Paul Vogt and Elena Lieven,2010,16,Adaptive Behavior
 10.1177/105971230401200309,Representing Honey Bee Behavior for Recognition Using Human Trainable Models,Adam Feldman and Tucker Balch,2004,16,Adaptive Behavior
-10.1177/1059712320912963,"Embodied cognition: dimensions, domains and applications",Mirko Farina,2021,17,Adaptive Behavior
-10.1177/1059712319858623,Analysis of influencing factors in emergency management based on an integrated methodology,Xiaodi Liu and Zengwen Wang and Shitao Zhang and Jiashu Liu,2019,8,Adaptive Behavior
-10.1177/10597123231163671,Author’s reply to the commentaries: Clearing up misunderstandings about the course-of-experience framework and laying the groundwork for future discussions,Germain Poizat and Simon Flandin and Jacques Theureau,2023,0,Adaptive Behavior
-10.1177/1059712319830650,A little more social enaction than that: comment on Arango (2019),Marek McGann,2019,1,Adaptive Behavior
-10.1177/105971230501300304,Reactive Agents and Perceptual Ambiguity,Michel van Dartel and Ida Sprinkhuizen-Kuyper and Eric Postma and Jaap van den Herik,2005,9,Adaptive Behavior
-10.1177/105971230401200311,Costs of Environmental Fluctuations and Benefits of Dynamic Decentralized Foraging Decisions in Honey Bees,Thomas Schmickl and Karl Crailsheim,2004,41,Adaptive Behavior
-10.1177/1059712309344421,Autonomy of Self at Criticality: The Perspective from Synthetic Neuro-Robotics,Jun Tani,2009,8,Adaptive Behavior
-10.1177/1059712306072335,Increasing Population Diversity Through Cultural Learning,Dara Curran and Colm O'Riordan,2006,23,Adaptive Behavior
-10.1177/1059712302010002001,Anticipations Control Behavior: Animal Behavior in an Anticipatory Learning Classifier System,Martin V. Butz and Joachim Hoffmann,2002,21,Adaptive Behavior
+10.1177/1059712311404090,The cognitive agent: Overcoming informational limits,Orlin Vakarelov,2011,6,Adaptive Behavior
+10.1177/1059712308093869,A Simple Aplysia-Like Spiking Neural Network to Generate Adaptive Behavior in Autonomous Robots,Fady Alnajjar and Kazuyuki Murase,2008,8,Adaptive Behavior
+10.1177/1059712320988178,Material playgrounds: opening an ontology of active matter,Laura Mojica,2022,1,Adaptive Behavior
+10.1177/10597123211000188,Rethinking relationality,Dirk van den Heuvel,2022,1,Adaptive Behavior
+10.1177/1059712314556369,Dynamic homeostasis in packet switching networks,Mizuki Oka and Hirotake Abe and Takashi Ikegami,2015,4,Adaptive Behavior
+10.1177/1059712308099230,Learning Mazes with Aliasing States: An LCS Algorithm with Associative Perception,Zhanna V. Zatuchna and Anthony Bagnall,2009,11,Adaptive Behavior
+10.1177/1059712316664120,Adaptive behaviors in multi-agent source localization using passive sensing,Mansoor Shaukat and Mandar Chitre,2016,9,Adaptive Behavior
+10.1177/1059712310392389,Empowerment for continuous agent—environment systems,Tobias Jung and Daniel Polani and Peter Stone,2011,32,Adaptive Behavior
+10.1177/10597123221102209,Animals in Sociomaterial Processes: An Alternative to Inferential Processes in Animals’ Heads,Bas van Woerkum,2023,0,Adaptive Behavior
+10.1177/105971230601400104,A Distributed Feedback Mechanism to Regulate Wall Construction by a Robotic Swarm,Robert L. Stewart and R. Andrew Russell,2006,56,Adaptive Behavior
+10.1177/1059712306072336,EPICURE: Spatial and Knowledge Limitations in Group Foraging,Michael E. Roberts and Robert L. Goldstone,2006,20,Adaptive Behavior
+10.1177/1059712319879971,Power spectral parameter variations after transcranial direct current stimulation in a bimanual coordination task,Atefeh Azarpaikan and HamidReza Taherii Torbati and Mehdi Sohrabi and Reza Boostani and Majid Ghoshuni,2021,4,Adaptive Behavior
+10.1177/1059712315584166,Reconciling explanations for the evolution of evolvability,Bryan Wilder and Kenneth Stanley,2015,14,Adaptive Behavior
 10.1177/105971230501300103,Evolution of Neural Architecture Fitting Environmental Dynamics,Genci Capi and Kenji Doya,2005,13,Adaptive Behavior
 10.1177/105971230601400203,Synchronization of Internal Neural Rhythms in Multi-Robotic Systems,Steffen Wischmann and Martin Hülse and Johannes F. Knabe and Frank Pasemann,2006,19,Adaptive Behavior
 10.1177/1059712308089182,Microslip as a Simulated Artificial Mind,Yuta Ogai and Takashi Ikegami,2008,9,Adaptive Behavior
-10.1177/1059712316632851,Investigation of cue-based aggregation in static and dynamic environments with a mobile robot swarm,Farshad Arvin and Ali Emre Turgut and Tomáš Krajník and Shigang Yue,2016,34,Adaptive Behavior
-10.1177/105971230601400104,A Distributed Feedback Mechanism to Regulate Wall Construction by a Robotic Swarm,Robert L. Stewart and R. Andrew Russell,2006,56,Adaptive Behavior
-10.1177/1059712306072336,EPICURE: Spatial and Knowledge Limitations in Group Foraging,Michael E. Roberts and Robert L. Goldstone,2006,20,Adaptive Behavior
-10.1177/1059712311404090,The cognitive agent: Overcoming informational limits,Orlin Vakarelov,2011,6,Adaptive Behavior
-10.1177/105971230000800201,Dynamic Scheduling and Division of Labor in Social Insects,Mike Campos and Eric Bonabeau and Guy Théraulaz and Jean-Louis Deneubourg,2000,73,Adaptive Behavior
-10.1177/1059712308097316,Associative Learning on a Continuum in Evolved Dynamical Neural Networks,Eduardo Izquierdo and Inman Harvey and Randall D. Beer,2008,22,Adaptive Behavior
-10.1177/1059712315584166,Reconciling explanations for the evolution of evolvability,Bryan Wilder and Kenneth Stanley,2015,13,Adaptive Behavior
-10.1177/1059712310392389,Empowerment for continuous agent—environment systems,Tobias Jung and Daniel Polani and Peter Stone,2011,31,Adaptive Behavior
-10.1177/1059712310395953,"Achievement, affiliation, and power: Motive profiles for artificial agents",Kathryn E Merrick and Kamran Shafi,2011,22,Adaptive Behavior
-10.1177/1059712308093869,A Simple Aplysia-Like Spiking Neural Network to Generate Adaptive Behavior in Autonomous Robots,Fady Alnajjar and Kazuyuki Murase,2008,8,Adaptive Behavior
-10.1177/1059712320932333,Ergonomic clusters and displaced affordances in early lithic technology,Thomas Wynn,2021,11,Adaptive Behavior
+10.1177/1059712307087283,Mutual Mate Choice Can Drive Costly Signaling Even Under Perfect Monogamy,Paul L. Hooper and Geoffrey F. Miller,2008,54,Adaptive Behavior
+10.1177/1059712319858623,Analysis of influencing factors in emergency management based on an integrated methodology,Xiaodi Liu and Zengwen Wang and Shitao Zhang and Jiashu Liu,2019,8,Adaptive Behavior
 10.1177/1059712313483145,"Turing instabilities in biology, culture, and consciousness? On the enactive origins of symbolic material culture",Tom Froese and Alexander Woodward and Takashi Ikegami,2013,24,Adaptive Behavior
-10.1177/1059712316664120,Adaptive behaviors in multi-agent source localization using passive sensing,Mansoor Shaukat and Mandar Chitre,2016,9,Adaptive Behavior
-10.1177/1059712309350970,Verifying Theories of Language Acquisition Using Computer Models of Language Evolution,Paul Vogt and Elena Lieven,2010,16,Adaptive Behavior
+10.1177/1059712319830650,A little more social enaction than that: comment on Arango (2019),Marek McGann,2019,1,Adaptive Behavior
+10.1177/1059712316664017,Developing crossmodal expression recognition based on a deep neural model,Pablo Barros and Stefan Wermter,2016,46,Adaptive Behavior
+10.1177/1059712306072335,Increasing Population Diversity Through Cultural Learning,Dara Curran and Colm O'Riordan,2006,23,Adaptive Behavior
+10.1177/1059712311433131,Moth-inspired plume tracing via multiple autonomous vehicles under formation control,Xiaodong Kang and Wei Li,2012,18,Adaptive Behavior
+10.1177/1059712318762733,Forgiveness and trust dynamics on social networks,Meriem Laifa and Samir Akrouf and Ramdane Mammeri,2018,4,Adaptive Behavior
+10.1177/10597123231163948,A unifying method-based classification of robot swarm spatial self-organisation behaviours,Aymeric Hénard and Jérémy Rivière and Etienne Peillard and Sébastien Kubicki and Gilles Coppin,2023,0,Adaptive Behavior
 10.1177/10597123221150817,Stigmergic coordination and minimal cognition in plants,Ric Sims and Özlem Yilmaz,2023,1,Adaptive Behavior
+10.1177/10597123231163671,Author’s reply to the commentaries: Clearing up misunderstandings about the course-of-experience framework and laying the groundwork for future discussions,Germain Poizat and Simon Flandin and Jacques Theureau,2023,0,Adaptive Behavior
+10.1177/1059712311426799,Information transfer and antipredator maneuvers in schooling herring,Stefano Marras and Robert S Batty and Paolo Domenici,2012,54,Adaptive Behavior
+10.1177/1059712319854350,From metaphor to theory: the role of resonance in perceptual learning,Vicente Raja,2019,14,Adaptive Behavior
+10.1177/1059712320912963,"Embodied cognition: dimensions, domains and applications",Mirko Farina,2021,17,Adaptive Behavior
 10.1177/1059712312465330,"What nervous systems do: early evolution, input–output, and the skin brain thesis",Fred Keijzer and Marc van Duijn and Pamela Lyon,2013,94,Adaptive Behavior
-10.1177/1059712316644966,Behavioural synchronization from an ethological perspective: Overview of its adaptive value,Charlotte Duranton and Florence Gaunet,2016,73,Adaptive Behavior
+10.1177/1059712316644966,Behavioural synchronization from an ethological perspective: Overview of its adaptive value,Charlotte Duranton and Florence Gaunet,2016,74,Adaptive Behavior
+10.1177/1059712320932333,Ergonomic clusters and displaced affordances in early lithic technology,Thomas Wynn,2021,12,Adaptive Behavior
