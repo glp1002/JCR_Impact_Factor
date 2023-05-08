@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE-edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <!-- <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' data: /frontend/icons;"> -->
+  <title>Login</title>
+
+  <!-- Favicon para el modo claro -->
+  <link rel="icon" type="image/x-icon" href="{{ url_for('static', filename='favicon2.ico') }}"
+    media="(prefers-color-scheme: light)">
+  <!-- Favicon para el modo oscuro -->
+  <link rel="icon" type="image/x-icon" href="{{ url_for('static', filename='favicon1.ico') }}"
+    media="(prefers-color-scheme: dark)">
+
+  <!-- Own css-->
+  <link rel="stylesheet" href="{{ url_for('static', filename='login.css') }}">
+  <!-- Bootstrap css-->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+</head>
+
+<body>
+  <!-- Body -->
+  <div class="row d-flex align-items-center justify-content-end h-100">
+
+    <!-- Animation -->
+    <div class="col-xg-6 col-lg-6 col-md-6 col-sm-12 video h-100">
+      <video autoplay muted>
+        <source class="video" src="{{ url_for('static', filename='images/animacion_1.mp4') }}" type="video/mp4">
+      </video>
+    </div>
+
+    <!--  Login form -->
+    <div class="col-xg-6 col-lg-6 col-md-6 col-sm-12 login h-100">
+      <form class="alinear" onsubmit="return validateForm()" method="POST" action="/login">
+        <div class="form-header">
+          <h1 data-i18n="login">Iniciar sesión</h1>
+        </div>
+
+        <div class="form-group" id="login-form">
+          <label for="username" data-i18n="username">Nombre de usuario</label>
+          <input type="text" class="form-control" id="username" name="username" placeholder="Username" required>
+        </div>
+
+        <div class="form-group">
+          <label for="password" data-i18n="password">Contraseña</label>
+          <input type="password" class="form-control" id="password" placeholder="Password" required>
+          <img id="show-password" class="password-icon" style="display:inline-block"
+            src="{{ url_for('static', filename='images/ojotachado.png') }}" alt="Mostrar contraseña">
+        </div>
+
+        <button type="submit" id="login-button" class="btn" data-i18n="login-button">Iniciar sesión</button>
+        <div id="login-requirements" class="error-message"></div>
+
+        <div class="form-group enlace">
+          <a href="recuperar-contrasena.html" data-i18n="forgot-password">¿Ha olvidado tu contraseña?</a>
+        </div>
+
+        <div class="register-link enlace">
+          <p data-i18n="new-user">¿Eres nuevo usuario? <a href="registrar.html" id="register-link"
+              data-i18n="register-link">Regístrate aquí.</a></p>
+        </div>
+      </form>
+
+    </div>
+  </div>
+
+
+
+  <!-- Own js -->
+  <script src="{{ url_for('static', filename='login.js') }}"></script>
+  <!-- Bootstrap js-->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+    crossorigin="anonymous"></script>
+
+</body>
+
+</html>
