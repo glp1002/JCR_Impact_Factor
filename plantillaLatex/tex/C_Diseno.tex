@@ -9,16 +9,13 @@
 \section{Diseño arquitectónico}
 
 
-
-
-
 \section{API}
 
 Se pretende desarrollar una API REST sencilla que utilizará una arquitectura cliente-servidor de dos capas.
 
 La funcionalidad principal de la API será predecir el índice de impacto de una lista de revistas elegida por el usuario. Además, se proporcionarán gráficos e información adicional para ayudar a los usuarios a entender mejor los resultados. Por otro lado, se podrán distinguir dos perfiles de usuario: el usuario normal y el administrador. El administrador tendrá permisos para ``reentrenar'' la red que predice los índices y gestionar al resto de usuarios.
 
-El \textit{backend} se programará en Python y el \textit{frontend} con HTML, CSS y JavaScript. Para ello, se utilizará Flask, que se trata de un framework de Python para el desarrollo de aplicaciones web.
+El \textit{backend} se programará en Python y el \textit{frontend} con HTML, CSS y JavaScript. Para ello, se utilizará Flask, que se trata de un \textit{framework} de Python para el desarrollo de aplicaciones web.
 
 Para la conexión con la base de datos, se hará uso de \textit{psycopg2}, que es un módulo de Python que proporciona una interfaz para conectarse y interactuar con bases de datos PostgreSQL. 
 Es una de las librerías más populares y ampliamente utilizadas para trabajar con PostgreSQL en Python. Además, es compatible con la mayoría de las versiones de Python y es muy fácil de utilizar.

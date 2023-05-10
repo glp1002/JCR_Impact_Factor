@@ -85,7 +85,7 @@ La siguiente meta de nuestro prototipo es la obtención del DOI, que es un campo
 \end{itemize}
 Como conclusión, se descarta la primera opción tras hacer una breve prueba, ya que falla en seguida. Se descarta también la segunda opción, ya que cada página sitúa el DOI en un sitio haciendo muy difícil la búsqueda del mismo a través de un algoritmo. Por lo tanto, la opción más adecuada en este caso es la tercera. Aunque supone una búsqueda extra en la complejidad algorítmica del prototipo, es la única forma segura de calcular el DOI sin equivocaciones. Por lo tanto, se incluye en el bucle del prototipo un nivel extra de profundidad de búsqueda.
 
-Para hacer la búsqueda en Crossref es necesario indicar tanto el título como el año de publicación para asegurarnos de que se obtiene exactamente el artículo que deseamos y no otros similares. Además, es preciso tener en cuenta que Crossref no permite a los programas hacer búsquedas desde la misma interfaz que los usuarios (para evitar que los programas bloqueen las búsquedas de los usuarios). Por lo tanto, se realizarán las búsquedas en la dirección donde se ubica la API creada por Crossref especialmente para la extracción de datos por parte de programas.
+Para hacer la búsqueda en Crossref es necesario indicar tanto el título como el año de publicación, a fin de asegurarnos de que se obtiene exactamente el artículo que deseamos y no otros similares. Además, es preciso tener en cuenta que Crossref no permite a los programas hacer búsquedas desde la misma interfaz que los usuarios (para evitar que los programas bloqueen las búsquedas de los usuarios). Por lo tanto, se realizarán las búsquedas en la dirección donde se ubica la API creada por Crossref especialmente para la extracción de datos por parte de programas.
 
 % Multihilo
 \subsubsection{Prototipo multihilo}
@@ -143,12 +143,82 @@ Dadas las circunstancias, se ha tomado la decisión de utilizar solamente los da
 
 \subsection{Modelos de predicción}
 
-Se han probado varios modelos utilizando la librería Scikit-learn, con el objetivo de encontrar el que mejor se ajuste a los datos disponibles y pueda hacer predicciones con mayor precisión. Además, estos modelos se han evaluado mediante el error cuadrático medio.
+Se han probado varios modelos utilizando la librería Scikit-learn, con el objetivo de encontrar el que mejor se ajuste a los datos disponibles y pueda hacer predicciones con mayor precisión. Además, estos modelos se han evaluado mediante el error cuadrático medio\footnote{RMSE (Root Mean Square Error) es una métrica ampliamente utilizada para evaluar la precisión o el rendimiento de un modelo de regresión. Representa la raíz cuadrada de la media de los errores cuadrados entre los valores predichos por el modelo y los valores reales del conjunto de datos.}. A continuación, se enumeran los distintos modelos probados:
+\begin{itemize}
+    \item Linear Regression 
+    \item Random Forest Regressor
+    \item AdaBoost Regressor
+    \item XGB Regressor
+    \item Support Vector Machine Regressor (SVM)
+    \item Multi Layer Perceptron (MLP)
+    \item Stacking Regressor
+\end{itemize}
 
-Se ha llevado a cabo una técnica de validación cruzada anidada (\textit{nested cross-validation}) para evaluar y seleccionar el mejor modelo posible para predecir el índice de impacto de las revistas científicas. Esta técnica implica el uso de dos niveles de validación cruzada: en el nivel externo se evalúa el desempeño general del modelo, mientras que en el nivel interno se ajustan los parámetros del modelo mediante una búsqueda en rejilla (\texttt{grid search}) para encontrar la mejor combinación de hiperparámetros. En otras palabras, se utiliza una validación cruzada para ajustar los hiperparámetros y otra para evaluar el rendimiento del modelo resultante. La ventaja de esta técnica es que permite evaluar la capacidad de generalización del modelo de manera más realista, evitando la selección de modelos sobreajustados. En comparación con una validación cruzada al uso, la técnica de validación cruzada anidada puede resultar más costosa en términos de cómputo, pero proporciona resultados más precisos y fiables.
+TO DO -> Meter bibliografía y justificar por qué se han elegido estos y no otros.
 
-TO DO -> Tratamiento de missing values (temporalmente la media)
+\subsubsection{Conjunto de datos}
+Para el conjunto inicial de datos, se ha realizado una selección cuidadosa de entre toda la información extraída, eligiendo los siguientes atributos: el número de citas, el factor de impacto JCR y la diferencia entre los datos extraídos y los valores reales. Estos atributos han sido tomados exclusivamente de los años comprendidos entre el 2018 y el 2020. Además, se ha incluido el número de citas correspondiente al año 2021. La elección de estos años se basa en la observación de que presentan menor error en los datos extraídos, lo cual contribuye a mejorar la calidad de los atributos seleccionados. Finalmente, se realizará la predicción del Factor de Impacto JCR para el año 2021.
 
-TO DO -> Insertar resultados
+\imagen{pipeline}{Conjunto inicial de los datos}{1}
 
-TO DO -> Insertar croquis de validación cruzada
+Por otro lado, cuando se trata de valores nulos o vacíos (i.e.,\textit{missing values}), se ha utilizado la moda como método de tratamiento de los datos.
+
+\subsubsection{Entrenamiento de los modelos}
+Para el entrenamiento, se ha llevado a cabo una técnica de validación cruzada anidada (\textit{nested cross-validation}) para evaluar y seleccionar el mejor modelo posible para predecir el Índice de Impacto de las revistas científicas. Esta técnica implica el uso de dos niveles de validación cruzada: en el nivel externo se evalúa el desempeño general del modelo, mientras que en el nivel interno se ajustan los parámetros del modelo mediante una búsqueda en rejilla (\texttt{grid search}) para encontrar la mejor combinación de hiperparámetros. La ventaja de esta técnica es que permite evaluar la capacidad de generalización del modelo de manera más realista, evitando la selección de modelos sobreajustados (\textit{overfitting}). En comparación con una validación cruzada al uso, la técnica de validación cruzada anidada puede resultar más costosa en términos de cómputo, pero proporciona resultados más precisos y fiables.
+
+\imagen{cv}{Esquema de la validación cruzada anidada}{1}
+
+\subsubsection{Evaluación de los modelos}
+Finalmente, tras la evaluación de todos los modelos, se seleccionan aquellos que han obtenido mejores resultados. Como se puede observar en los siguientes gráficos, los modelos con mayor precisión son AdaBoost Regressor, Random Forest Regressor y XGB Regressor.
+
+\imagen{mse}{Estimación del RMSE de los modelos entrenados}{0.7}
+\imagen{desviacion.png}{Desviación de las estimaciones}{0.8}
+
+Los motivos por los cuáles se han obtenido estos resultados pueden ser diversos. Por un lado, podemos ver que los modelos de \textit{ensemble} como AdaBoost, Random Forest y XGBoost obtienen, en general, mejores resultados. Esto puede deberse a su capacidad para capturar relaciones no lineales en los datos. Así, pueden modelar relaciones complejas entre las variables de entrada y la variable de salida, lo cual es especialmente útil cuando existen patrones no lineales en los datos. 
+
+Por otro lado, los algoritmos de \textit{ensemble} tienden a reducir el sobreajuste en comparación con modelos individuales como MLP y SVM (los algoritmos de \textit{ensemble} combinan múltiples modelos más simples, lo que ayuda a mitigar el sesgo y la variabilidad inherente a un solo modelo).
+
+Estos algoritmos suelen ser, también, más robustos ante la presencia de ruido o valores atípicos en los datos (como ocurre en nuestro caso). Utilizan técnicas como el muestreo \textit{bootstrap} y la combinación de múltiples árboles de decisión, lo que les permite ser menos sensibles a observaciones atípicas y errores de medición.
+
+En cambio, MLP y SVM a menudo requieren una cuidadosa normalización y escala de los datos de entrada para un rendimiento óptimo. Además, MLP puede ser más sensible a la selección de hiperparámetros y puede requerir una búsqueda más exhaustiva de la configuración adecuada, aumentando así el tiempo de entrenamiento.
+
+\subsubsection{Resultados}
+Tras analizar los resultados de esta etapa, para poder hacer uso de ellos más adelante, se guardan en los siguientes ficheros:
+\begin{itemize}
+    \item Fichero CSV con los resultados de la validación cruzada. Por cada iteración incluye: el modelo que se estima, el valor de los parámetros con mejores resultados y el RMSE.
+    \item Ficheros binarios \textit{pickle}, donde se almacenan cada uno de los modelos entrenados. Posteriormente, se almacenarán en la base de datos para poder realizar predicciones desde la aplicación web.
+\end{itemize}
+
+
+\section{Creación de la aplicación web}
+
+\subsection{Interfaces}
+La aplicación estará conformada por cinco interfaces principales, que se detallan a continuación:
+
+\begin{enumerate}
+	\item Interfaz inicial con las funciones de <<log in>> y <<sign in>>. Se pedirá al usuario un nombre de usuario, una contraseña y una dirección de correo electrónico (durante el registro). Habrá también una opción de recuperación de la contraseña en caso de que haya sido olvidada. Habrá un mensaje de error si los datos introducidos no son correctos. En el momento del registro, se comprobará que el correo introducido tiene un formato adecuado y que, además, la contraseña cumple con los requisitos básicos para ser considerada segura (en caso contrario se mostrará un mensaje de error con dichos requisitos). Finalmente, será necesario contemplar una opción para mostrar y ocultar la contraseña.
+	\item La interfaz principal permitirá al usuario elegir una revista (de un desplegable con barra de búsqueda) y un año para el que se quiera predecir el JCR. Además, se incluirá un botón <<Calcular>> que redireccionará al usuario a la segunda interfaz. Si alguno de los campos no está cumplimentado, se lanzará un mensaje de error. Será necesario incluir un mensaje de confirmación en esta interfaz después de que el usuario presione el botón <<Calcular>> para asegurarse de que el usuario está seguro de que desea proceder. Se incluirá también la posibilidad de seleccionar el modelo de predicción a usar (pudiéndose seleccionar varios al mismo tiempo).
+	\item La segunda interfaz (a la que solo se puede acceder desde la anterior), se mostrará la predicción del cálculo del JCR de la revista seleccionada en la interfaz anterior para el año también elegido en la interfaz anterior. Se deberá mostrar también algún tipo de gráfico representativo así como el porcentaje de fiabilidad (\textit{accurancy}) de la predicción realizada. Al acceder a esta interfaz, se mostrará un indicador de carga para informar al usuario que se está realizando un proceso y que se está cargando la información. Es conveniente también que, en esta interfaz, se pueda exportar los resultados/informes en distintos formatos. Se proporcionará una opción de retroceso en esta interfaz para permitir al usuario volver a la pantalla anterior sin tener que hacer clic en el botón <<Atrás>> del navegador.
+	\item Habrá también una interfaz que mostrará la lista de revistas que se están disponibles en la aplicación. Tendrá una una barra de búsqueda para facilitar la búsqueda de revistas específicas. Se puede considerar agregar una funcionalidad para permitir al usuario guardar sus revistas favoritas o las que está siguiendo para que pueda acceder a ellas rápidamente desde su perfil.
+	\item Una sección adicional para gestión de la aplicación. Será solo accesible y visible para el administrador. Allí podrá gestionar, por un lado los usuarios y, por otro lado, las funcionalidades de la aplicación. De esta forma, el administrador podrá incluir un nuevo fichero CSV de revistas que se incluirán en la aplicación, lo que generará que se lance el proceso de extracción de datos sobre estas nuevas revistas y que luego se almacenan en la BBDD. También podrá actualizar la BBDD cuando considere (incluso programar que se actualice periódicamente). Todos estos procesos serán parametrizables.
+\end{enumerate}
+
+En cuanto a las características generales de las interfaces, deberán contar con las barras y menús adecuados.
+
+\begin{itemize}
+	\item Así pues, habrá un menú lateral izquierdo (desplegable) que te permitirá redireccionarte a las interfaces del punto 2 (<<Calcular JCR>>), la del punto 4 (<<Revistas disponibles>>) y la del punto 5 (<<Gestión>>: solo visible para el administrador).
+
+	\item Por otro lado, habrá una barra superior donde se añadirá el icono del perfil del usuario <<logueado>> y un símbolo de ayuda que redireccione a la documentación en linea y a preguntas frecuentes.	Si se pulsa sobre el icono de usuario, se pueden hacer dos cosas: cerrar la sesión o ir a una interfaz extra en la que se permitirá al usuario configurar su perfil personal. Allí podrá configurar notificaciones para recibir en su correo algún informe periódicamente. Además podrá configurar otras opciones como que el usuario pueda cambiar su contraseña, su correo o su nombre de usuario. Además habrá un símbolo de configuración general de la aplicación, que dirigirá a una nueva interfaz en la que se podrán establecer opciones como el tema (oscuro/claro) de la aplicación, el idioma (la aplicación debe incluir internacionalización), ajustar el tamaño de fuente o el espaciado entre líneas...
+
+	\item Finalmente, se proporcionará un enlace a la política de privacidad y términos de uso en el pie de página de la aplicación web.
+
+	\item La aplicación deberá ser \textit{responsive} y compatible con diferentes navegadores y sistemas operativos para asegurarse de que los usuarios puedan acceder a la aplicación desde cualquier dispositivo y lugar.
+\end{itemize}
+
+
+
+
+
+
+
+

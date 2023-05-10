@@ -53,7 +53,7 @@ A diferencia de otras bibliotecas de \textit{web scraping}, Selenium permite sim
 
 \subsection{Scikit-learn}
 
-Scikit-learn es una librería de aprendizaje automático en Python que ofrece una amplia variedad de algoritmos de clasificación, regresión y clustering, entre otros. Esta librería destaca por su facilidad de uso y la implementación eficiente de los algoritmos, lo que permite su uso en grandes conjuntos de datos. Cuenta también con herramientas de preprocesamiento de datos y evaluación de modelos. Sus ventajas incluyen una documentación completa y una comunidad activa que ofrece soporte y mejora continuamente la librería, así como la capacidad de integrarse fácilmente con otras librerías y herramientas de Python para el análisis de datos.
+Scikit-learn es una biblioteca de aprendizaje automático en Python que ofrece una amplia variedad de algoritmos de clasificación, regresión y clustering, entre otros. Esta biblioteca destaca por su facilidad de uso y la implementación eficiente de los algoritmos, lo que permite su uso en grandes conjuntos de datos. Cuenta también con herramientas de preprocesamiento de datos y evaluación de modelos. Sus ventajas incluyen una documentación completa y una comunidad activa que ofrece soporte y mejora continuamente la biblioteca, así como la capacidad de integrarse fácilmente con otras bibliotecas y herramientas de Python para el análisis de datos.
 
 \subsection{Unittest}
 
@@ -85,17 +85,22 @@ Al igual que MariaDB, es un sistema de gestión de bases de datos relacional de 
 PostgreSQL utiliza y amplía el lenguaje SQL combinado con muchas características que almacenan y escalan de forma segura las cargas de trabajo de datos más complicadas~\cite{Postgresql.org}. 
 Su última versión y la usada para el proyecto es la versión 15.1 lanzada el 10 de noviembre de este año.
 
+\section{Aplicaión web}
+En el proyecto se ha utilizado Python, tal como se ha mencionado en apartados anteriores, como lenguaje principal de desarrollo. Para la creación de la aplicación web, se ha optado por utilizar Flask, un \textit{framework} ligero y flexible que facilita la construcción de aplicaciones web en Python. Además de Python y Flask, se han empleado otros lenguajes como HTML, CSS y JavaScript para desarrollar las interfaces de usuario y dotarlas de funcionalidades interactivas. 
 
-\section{APIs}
-A lo largo del proyecto se ha recurrido a varias APIs diferentes, todas ellas de acceso gratuito.
+Asimismo, se ha utilizado la biblioteca psycopg2 de Python, la cual ha sido fundamental para establecer la comunicación con la base de datos tipo PostgreSQL. Esta biblioteca proporciona una interfaz eficiente y robusta para interactuar con la base de datos, permitiendo realizar operaciones de consulta, inserción, actualización y eliminación de datos de manera segura y eficiente.
+
+Para la internacionalización de la aplicación, se ha empleado Babel. Se trata de una herramienta de localización y traducción que permite adaptar la aplicación web a diferentes idiomas y culturas. De esta forma, se han implementado funcionalidades que facilitan la traducción de los elementos visuales y textuales de la aplicación, permitiendo que los usuarios puedan acceder y utilizar la aplicación en cualquiera de los siguientes idiomas: español, inglés o francés.
+
+\section{APIs externas}
+A lo largo del proyecto se ha recurrido a varias APIs diferentes para la fase de extracción de datos. A continuación, se enumeran aquellas de acceso gratuito con las que se ha podido trabajar.
 
 \subsection{Google Scholar}
 Se trata de una de las principales herramientas que ofrece Google a los investigadores. \href{https://scholar.google.com/}{Google Scholar} es, fundamentalmente, un buscador de contenido y bibliografía científica que permite localizar artículos de revistas especializadas ordenados por relevancia en función de las palabras clave introducidas en el buscador. También se puede  filtrar la información en función de su fecha de publicación, idioma o número de citas.
 
-
 \subsection{Crossref}
 
- Crossref es una organización sin ánimo de lucro que provee de una \href{https://www.crossref.org/}{herramienta} que facilita el acceso a la información de los artículos científicos a partir de su DOI\footnote{El DOI (\textit{Digital Object Identifier}) es el acrónimo con el que se conoce al identificador inequívoco y persistente de un objeto digital (como un artículo de revista, un libro electrónico, una imagen, etc...). Se trata de un enlace permanente al contenido electrónico de dicho objeto. Por lo general, un DOI tiene forma de código alfanumérico.}.
+ \href{https://www.crossref.org/}{Crossref} es una organización sin ánimo de lucro que provee de una herramienta que facilita el acceso a la información de los artículos científicos a partir de su DOI\footnote{El DOI (\textit{Digital Object Identifier}) es el acrónimo con el que se conoce al identificador inequívoco y persistente de un objeto digital (como un artículo de revista, un libro electrónico, una imagen, etc...). Se trata de un enlace permanente al contenido electrónico de dicho objeto. Por lo general, un DOI tiene forma de código alfanumérico.}.
 
 Como ya se ha mencionado previamente, en base a la información de los DOIs la agencia de registro CrossRef es capaz de proporcionarnos aplicaciones útiles para hacer nuestro flujo de investigación más sencillo.
 Se trata de una asociación sin ánimo de lucro de editoriales científicas que no solo facilita el registro de DOIs a las editoriales, sino que también ofrece servicios y aplicaciones para el personal investigador que tienen como base estos códigos.
