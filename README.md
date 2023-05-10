@@ -10,6 +10,7 @@ _Repositorio para el TFG sobre la estimación del factor de impacto de las publi
 * Gadea Lucas Pérez
 
 ## Contenido:
+* API: aplicación web donde se muestran los resultados del trabajo
 * JCR_clarivate: limpieza y tratamiento de los datos de Clarivate
 * SQL: contiene los _scripts_ temporales para probar la BBDD
 * calcular_jcr: módulos para el cálculo del JCR
