@@ -15,9 +15,10 @@ CREATE TABLE users (
     admin BOOLEAN
 );
 CREATE TABLE modelos (
-    nombre VARCHAR(255),
-	margen_error FLOAT,
-    datos_modelo BYTEA
+    id SERIAL PRIMARY KEY,
+    nombre TEXT,
+	rmse FLOAT,
+    modelo BYTEA
 );
 CREATE TABLE revista (
     nombre CHAR(60) PRIMARY KEY,
