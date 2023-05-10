@@ -4,19 +4,32 @@
 DROP TABLE IF EXISTS revista CASCADE;
 DROP TABLE IF EXISTS articulo CASCADE;
 DROP TABLE IF EXISTS citas CASCADE;
+DROP TABLE IF EXISTS users CASCADE;
+DROP TABLE IF EXISTS modelos CASCADE;
 
 
-
+CREATE TABLE users (
+    username VARCHAR(255),
+    password VARCHAR(255),
+    email VARCHAR(255),
+    admin BOOLEAN
+);
+CREATE TABLE modelos (
+    nombre VARCHAR(255),
+	margen_error FLOAT,
+    datos_modelo BYTEA
+);
 CREATE TABLE revista (
     nombre CHAR(60) PRIMARY KEY,
     ISSN CHAR(9) UNIQUE NOT NULL,
-    pais CHAR(30) NOT NULL,
+    categoria CHAR(255) NOT NULL,
     fecha INT NOT NULL
 );
 CREATE TABLE articulo ( 
 	nombre CHAR(255) NOT NULL, 
 	DOI CHAR(30) PRIMARY KEY,
 	revista CHAR(60) REFERENCES revista(nombre), 
+	ncitas INT NOT NULL,
 	fecha INT NOT NULL
 ); 
 CREATE TABLE citas (
@@ -35,22 +48,27 @@ CREATE INDEX nombre_index ON revista (nombre);
 ANALYZE revista;
 ANALYZE articulo;
 ANALYZE citas;
-
+ANALYZE users;
 
 
 -- EJEMPLO DE INSERT:
---INSERT INTO revista VALUES ('Revista1','ISSN1','España', 2020);
---INSERT INTO revista VALUES ('Revista2','ISSN2','España', 2020);
---INSERT INTO articulo VALUES ('Nombre1','10/r23','Revista1', 2020);
---INSERT INTO articulo VALUES ('Nombre2','10/r24','Revista1', 2021);
---INSERT INTO articulo VALUES ('Nombre3','10/r25','Revista2', 2022);
---INSERT INTO citas VALUES ('10/r25','10/r23');
+INSERT INTO revista VALUES ('Revista1','ISSN1','IA', 2020);
+INSERT INTO revista VALUES ('Revista2','ISSN2','DS', 2020);
+INSERT INTO articulo VALUES ('Nombre1','10/r23','Revista1', 500, 2020);
+INSERT INTO articulo VALUES ('Nombre2','10/r24','Revista1', 100, 2021);
+INSERT INTO articulo VALUES ('Nombre3','10/r25','Revista2', 30, 2023);
+INSERT INTO citas VALUES ('10/r25','10/r23');
+INSERT INTO users VALUES ('Pepe', 'password123', 'pepe@example.com', false);
+INSERT INTO users VALUES ('Peter', 'p@ssw0rd', 'peter@example.com', true);
+
 -- Se cargan los datos del CSV generado tras hacer web scrapping
-COPY revista FROM 'C:\Users\Public\revistas.csv' DELIMITER ',' CSV Header;
+--COPY revista FROM 'C:\Users\Public\revistas.csv' DELIMITER ',' CSV Header;
 
 -- Visualizamos los datos
-SELECT * FROM revista
-
+-- SELECT * FROM revista
+-- SELECT * FROM articulo
+-- SELECT * FROM citas
+-- SELECT * FROM users
 
 
 
