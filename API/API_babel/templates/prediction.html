@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block title %}Índice de Impacto{% endblock %}
+
+{% block content %}
+<h1>{% trans %}Índice de Impacto{% endtrans %}</h1>
+<div class="card">
+    <div class="card-body">
+        <p class="card-text">{% trans %}El índice de impacto de la revista es: {{ indice }}{% endtrans %}</p>
+    </div>
+</div>
+{% endblock %}

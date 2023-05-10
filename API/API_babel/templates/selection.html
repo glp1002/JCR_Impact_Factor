@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% block title %}Selección de Revistas{% endblock %}
+
+{% block content %}
+<h1>{% trans %}Selección de Revistas{% endtrans %}</h1>
+<select class="form-control" id="categoria" name="categoria">
+    <label for="categoria">{% trans %}Categoría{% endtrans %}:</label>
+    {% for categoria in categorias %}
+    <option value="{{ categoria }}">{{ categoria }}</option>
+    {% endfor %}
+</select>
+
+<select class="form-control" id="revista" name="revista">
+    <label for="revista">{% trans %}Revista{% endtrans %}:</label>
+    {% for revista in revistas %}
+    <option value="{{ revista }}">{{ revista }}</option>
+    {% endfor %}
+</select>
+
+<select class="form-control" id="anio" name="anio">
+    <label for="anio">{% trans %}Año{% endtrans %}:</label>
+    {% for anio in anios %}
+    <option value="{{ anio }}">{{ anio }}</option>
+    {% endfor %}
+</select>
+{% endblock %}

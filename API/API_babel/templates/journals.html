@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% block title %}Lista de Revistas{% endblock %}
+
+{% block content %}
+<h1>{% trans %}Lista de Revistas{% endtrans %}</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th>{% trans %}Nombre{% endtrans %}</th>
+            <th>{% trans %}ISSN{% endtrans %}</th>
+            <th>{% trans %}Categoría{% endtrans %}</th>
+            <th>{% trans %}Fecha{% endtrans %}</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for journal in journal_list %}
+        <tr>
+            <td>{{ journal[0] }}</td>
+            <td>{{ journal[1] }}</td>
+            <td>{{ journal[2] }}</td>
+            <td>{{ journal[3] }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+{% endblock %}

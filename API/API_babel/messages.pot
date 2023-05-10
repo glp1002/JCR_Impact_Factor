@@ -1,0 +1,88 @@
+# Translations template for PROJECT.
+# Copyright (C) 2023 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-05-09 11:14+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: app.py:67
+msgid "Nombre de usuario o contraseña incorrectos"
+msgstr ""
+
+#: templates/base.html:52
+msgid "Ayuda"
+msgstr ""
+
+#: templates/base.html:55
+msgid "Usuario"
+msgstr ""
+
+#: templates/base.html:67
+msgid "Editar perfil"
+msgstr ""
+
+#: templates/base.html:68
+msgid "Cerrar sesión"
+msgstr ""
+
+#: templates/base.html:96
+msgid "Política de privacidad"
+msgstr ""
+
+#: templates/base.html:97
+msgid "Términos de uso"
+msgstr ""
+
+#: templates/journals.html:5
+msgid "Lista de Revistas"
+msgstr ""
+
+#: templates/journals.html:9
+msgid "Nombre"
+msgstr ""
+
+#: templates/journals.html:10
+msgid "ISSN"
+msgstr ""
+
+#: templates/journals.html:11 templates/selection.html:7
+msgid "Categoría"
+msgstr ""
+
+#: templates/journals.html:12
+msgid "Fecha"
+msgstr ""
+
+#: templates/prediction.html:5
+msgid "Índice de Impacto"
+msgstr ""
+
+#: templates/prediction.html:8
+#, python-format
+msgid "El índice de impacto de la revista es: %(indice)s"
+msgstr ""
+
+#: templates/selection.html:5
+msgid "Selección de Revistas"
+msgstr ""
+
+#: templates/selection.html:14
+msgid "Revista"
+msgstr ""
+
+#: templates/selection.html:21
+msgid "Año"
+msgstr ""
+

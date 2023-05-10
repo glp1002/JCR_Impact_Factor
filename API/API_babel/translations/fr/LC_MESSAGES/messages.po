@@ -1,0 +1,116 @@
+# French translations for PROJECT.
+# Copyright (C) 2023 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-05-09 10:56+0200\n"
+"PO-Revision-Date: 2023-05-09 10:56+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: fr\n"
+"Language-Team: fr <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: app.py:67
+msgid "Nombre de usuario o contraseña incorrectos"
+msgstr "Nom d'utilisateur ou mot de passe incorrect"
+
+#: templates/base.html:53
+msgid "Ayuda"
+msgstr "Aide"
+
+#: templates/base.html:56
+msgid "Usuario"
+msgstr "Utilisateur"
+
+#: templates/base.html:68
+msgid "Editar perfil"
+msgstr "Modifier le profil"
+
+#: templates/base.html:69
+msgid "Cerrar sesión"
+msgstr "Déconnexion"
+
+#: templates/base.html:97
+msgid "Política de privacidad"
+msgstr "Politique de confidentialité"
+
+#: templates/base.html:98
+msgid "Términos de uso"
+msgstr "Conditions d'utilisation"
+
+#: templates/journals.html:5
+msgid "Lista de Revistas"
+msgstr "Liste des revues"
+
+#: templates/journals.html:9
+msgid "Nombre"
+msgstr "Nom"
+
+#: templates/journals.html:10
+msgid "ISSN"
+msgstr "ISSN"
+
+#: templates/journals.html:11 templates/selection.html:7
+msgid "Categoría"
+msgstr "Catégorie"
+
+#: templates/journals.html:12
+msgid "Fecha"
+msgstr "Date"
+
+#: templates/prediction.html:5
+msgid "Índice de Impacto"
+msgstr "Indice d'impact"
+
+#: templates/prediction.html:8
+#, python-format
+msgid "El índice de impacto de la revista es: %(indice)s"
+msgstr "L'indice d'impact du journal est : %(indice)s"
+
+#: templates/selection.html:5
+msgid "Selección de Revistas"
+msgstr "Sélection des revues"
+
+#: templates/selection.html:14
+msgid "Revista"
+msgstr "Revue"
+
+#: templates/selection.html:21
+msgid "Año"
+msgstr "Année"
+
+#: templates/login.html:7
+msgid "Login"
+msgstr "Connexion"
+
+#: templates/login.html:42
+msgid "Nombre de usuario"
+msgstr "Nom d'utilisateur"
+
+#: templates/login.html:47
+msgid "Contraseña"
+msgstr "Mot de passe"
+
+#: templates/login.html:38 templates/login.html:53
+msgid "Iniciar sesión"
+msgstr "Se connecter"
+
+#: templates/login.html:59
+msgid "¿Ha olvidado tu contraseña?"
+msgstr "Mot de passe oublié ?"
+
+#: templates/login.html:63
+msgid "¿Eres nuevo usuario?"
+msgstr "Vous êtes un nouvel utilisateur? "
+
+#: templates/login.html:63
+msgid "Regístrate aquí."
+msgstr "Inscrivez-vous ici."
