@@ -169,6 +169,33 @@ class Modelo:
             cur.close()
             raise Exception("Error al eliminar el usuario: " + str(e))
         
+    # Gestión de los modelos de predicción
+    # def set_models(self):
+    #     try:
+    #         cur = self.conn.cursor()
+    #         for nombre, _, _ in models:
+    #             # Cargar el modelo desde el archivo pickle
+    #             path = f'../../prediction_models/modelo_{nombre}.pickle'
+    #             with open(path, 'rb') as archivo:
+    #                 modelo = archivo.read()
+
+    #             rmse = rmse_scores[models.index((nombre, _, _))]
+
+    #             consulta = """
+    #             INSERT INTO modelos (nombre, modelo, rmse) VALUES (%s, %s, %s);
+    #             """
+    #             cur.execute(consulta, (nombre, psycopg2.Binary(modelo), rmse))
+
+    #         self.conn.commit()
+    #         cur.close()
+    #         return True
+        
+    #     except psycopg2.Error as e:
+    #         self.conn.rollback()
+    #         cur.close()
+    #         raise Exception("Error al insertar los modelos: " + str(e))  
+        
+        
 
 
         

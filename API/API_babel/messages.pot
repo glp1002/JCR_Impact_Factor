@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-05-09 11:14+0200\n"
+"POT-Creation-Date: 2023-05-10 15:02+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.12.1\n"
 
-#: app.py:67
+#: app.py:79
 msgid "Nombre de usuario o contraseña incorrectos"
 msgstr ""
 
@@ -57,12 +57,40 @@ msgstr ""
 msgid "ISSN"
 msgstr ""
 
-#: templates/journals.html:11 templates/selection.html:7
+#: templates/journals.html:11 templates/selection.html:8
 msgid "Categoría"
 msgstr ""
 
 #: templates/journals.html:12
 msgid "Fecha"
+msgstr ""
+
+#: templates/login.html:7
+msgid "Login"
+msgstr ""
+
+#: templates/login.html:38 templates/login.html:53
+msgid "Iniciar sesión"
+msgstr ""
+
+#: templates/login.html:42
+msgid "Nombre de usuario"
+msgstr ""
+
+#: templates/login.html:47
+msgid "Contraseña"
+msgstr ""
+
+#: templates/login.html:59
+msgid "¿Ha olvidado tu contraseña?"
+msgstr ""
+
+#: templates/login.html:63
+msgid "¿Eres nuevo usuario?"
+msgstr ""
+
+#: templates/login.html:63
+msgid "Regístrate aquí."
 msgstr ""
 
 #: templates/prediction.html:5
@@ -78,11 +106,20 @@ msgstr ""
 msgid "Selección de Revistas"
 msgstr ""
 
-#: templates/selection.html:14
+#: templates/selection.html:10 templates/selection.html:20
+#: templates/selection.html:30
+msgid "Selecciona una opción"
+msgstr ""
+
+#: templates/selection.html:18
 msgid "Revista"
 msgstr ""
 
-#: templates/selection.html:21
+#: templates/selection.html:28
 msgid "Año"
+msgstr ""
+
+#: templates/selection.html:37
+msgid "Calcular"
 msgstr ""
 

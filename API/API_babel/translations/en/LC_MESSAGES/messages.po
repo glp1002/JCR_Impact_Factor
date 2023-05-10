@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-05-09 10:56+0200\n"
-"PO-Revision-Date: 2023-05-09 10:56+0200\n"
+"POT-Creation-Date: 2023-05-10 14:51+0200\n"
+"PO-Revision-Date: 2023-05-10 14:51+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
 "Language-Team: en <LL@li.org>\n"
@@ -18,31 +18,31 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.12.1\n"
 
-#: app.py:67
+#: app.py:79
 msgid "Nombre de usuario o contraseña incorrectos"
 msgstr "Incorrect username or password"
 
-#: templates/base.html:53
+#: templates/base.html:52
 msgid "Ayuda"
 msgstr "Help"
 
-#: templates/base.html:56
+#: templates/base.html:55
 msgid "Usuario"
-msgstr "Peter"
+msgstr "Piter"
 
-#: templates/base.html:68
+#: templates/base.html:67
 msgid "Editar perfil"
 msgstr "Edit profile"
 
-#: templates/base.html:69
+#: templates/base.html:68
 msgid "Cerrar sesión"
 msgstr "Log out"
 
-#: templates/base.html:97
+#: templates/base.html:96
 msgid "Política de privacidad"
 msgstr "Privacy policy"
 
-#: templates/base.html:98
+#: templates/base.html:97
 msgid "Términos de uso"
 msgstr "Terms of use"
 
@@ -58,13 +58,41 @@ msgstr "Name"
 msgid "ISSN"
 msgstr "ISSN"
 
-#: templates/journals.html:11 templates/selection.html:7
+#: templates/journals.html:11 templates/selection.html:8
 msgid "Categoría"
 msgstr "Category"
 
 #: templates/journals.html:12
 msgid "Fecha"
 msgstr "Date"
+
+#: templates/login.html:7
+msgid "Login"
+msgstr "Login"
+
+#: templates/login.html:38 templates/login.html:53
+msgid "Iniciar sesión"
+msgstr "Sign in"
+
+#: templates/login.html:42
+msgid "Nombre de usuario"
+msgstr "Username"
+
+#: templates/login.html:47
+msgid "Contraseña"
+msgstr "Password"
+
+#: templates/login.html:59
+msgid "¿Ha olvidado tu contraseña?"
+msgstr "Forgot your password?"
+
+#: templates/login.html:63
+msgid "¿Eres nuevo usuario?"
+msgstr "New user?"
+
+#: templates/login.html:63
+msgid "Regístrate aquí."
+msgstr "Sign up here."
 
 #: templates/prediction.html:5
 msgid "Índice de Impacto"
@@ -79,38 +107,21 @@ msgstr "The impact factor of the journal is: %(indice)s"
 msgid "Selección de Revistas"
 msgstr "Journal Selection"
 
-#: templates/selection.html:14
+#: templates/selection.html:10 templates/selection.html:20
+#: templates/selection.html:30
+msgid "Selecciona una opción"
+msgstr "Select one"
+
+#: templates/selection.html:17
 msgid "Revista"
 msgstr "Journal"
 
-#: templates/selection.html:21
+#: templates/selection.html:26
 msgid "Año"
 msgstr "Year"
 
-#: templates/login.html:7
-msgid "Login"
-msgstr "Log in"
+#: templates/selection.html:34
+msgid "Calcular"
+msgstr "Calculate"
 
-#: templates/login.html:42
-msgid "Nombre de usuario"
-msgstr "Username"
 
-#: templates/login.html:47
-msgid "Contraseña"
-msgstr "Password"
-
-#: templates/login.html:38 templates/login.html:53
-msgid "Iniciar sesión"
-msgstr "Login"
-
-#: templates/login.html:59
-msgid "¿Ha olvidado tu contraseña?"
-msgstr "Forgot your password?"
-
-#: templates/login.html:63
-msgid "¿Eres nuevo usuario?"
-msgstr "Are you a new user? "
-
-#: templates/login.html:63
-msgid "Regístrate aquí."
-msgstr "Register here."

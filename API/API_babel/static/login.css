@@ -90,11 +90,11 @@ video {
 } 
 
 .enlace a{
-    color:white;
+    color:white !important;
 }
 
 .enlace a:hover {
-    color: #7453c3;
+    color: #7453c3 !important;
     font-weight: bold;
 }
 

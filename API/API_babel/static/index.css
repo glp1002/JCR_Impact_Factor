@@ -6,11 +6,11 @@
 }
 
 .enlace a, a:link{
-    color:white;
+    color:white !important;
 }
 
 .enlace a:hover, a:focus{
-    color: #7453c3;
+    color: #7453c3 !important;
 }
 
 .logo img{
@@ -27,6 +27,19 @@
 .foot{
     justify-content: center;
 }
+
+.btn-enviar {
+  width: 40%;
+  border: none !important;
+  border-radius: 10px !important;
+  background-color: #333 !important;
+  color: #fff !important;
+  cursor: pointer !important;
+}
+  
+.btn-enviar:hover {
+  background-color: #7453c3 !important;
+} 
 
 
 /* The Modal (background) */

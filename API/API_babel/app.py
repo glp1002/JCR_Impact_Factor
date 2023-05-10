@@ -13,7 +13,7 @@ import secrets
 
 from backend.servidor.modelo import Modelo
 from backend.servidor.controlador import Controlador
-from flask_jwt import JWT, jwt_required, current_identity
+# from flask_jwt import JWT, jwt_required, current_identity
 from flask_cors import CORS # TODO
 
 # Creación de la aplicación
@@ -114,12 +114,14 @@ def get_journals():
     # DEBUG: return jsonify(journal_list)
     return render_template('journals.html', journal_list=journal_list)
 
-@app.route('/prediction', methods=['GET'])
+@app.route('/prediction', methods=['GET','POST'])
 def prediction():
+    modelos = request.form.getlist('modelo[]')
     categoria = request.args.get('categoria')
     revista = request.args.get('revista')
     anio = request.args.get('anio')
-    # prediction = controlador.predecir(categoria, revista, anio)
+    
+    #prediction = controlador.predecir(categoria, revista, anio, modelos)
     return redirect('/prediction.html') #, prediction=prediction)
 
 @app.route('/selection', methods=['GET', 'POST'])
@@ -132,8 +134,10 @@ def formulario():
         revistas = controlador.get_journals_name()
         # lista = controlador.get_journals()[0] -> TODO
         # revistas = [tupla[0] for tupla in lista if tupla[2] == categoria]
-        return render_template('selection.html', categorias=categorias, revistas=revistas, anios=anios)
-
+        #modelos = controlador.get_prediction_models()
+        modelos = ["uno", "dos"]
+        return render_template('selection.html', categorias=categorias, revistas=revistas, anios=anios, modelos=modelos)
+    
 # Ruta para crear un nuevo usuario
 @app.route('/users', methods=['POST'])
 def create_user():

@@ -2,25 +2,64 @@
 {% block title %}Selección de Revistas{% endblock %}
 
 {% block content %}
-<h1>{% trans %}Selección de Revistas{% endtrans %}</h1>
-<select class="form-control" id="categoria" name="categoria">
-    <label for="categoria">{% trans %}Categoría{% endtrans %}:</label>
-    {% for categoria in categorias %}
-    <option value="{{ categoria }}">{{ categoria }}</option>
-    {% endfor %}
-</select>
+<div class="row">
+    <div class="col-md-6">
+        <h1>{% trans %}Selección de Revistas{% endtrans %}</h1>
+        <form method="POST" action="/selection">
+            <div class="form-group">
+                <label for="categoria">{% trans %}Categoría{% endtrans %}:</label>
+                <select class="form-control" id="categoria" name="categoria" required>
+                    <option value="" disabled selected>{% trans %}Selecciona una opción{% endtrans %}</option>
+                    {% for categoria in categorias %}
+                    <option value="{{ categoria }}">{{ categoria }}</option>
+                    {% endfor %}
+                </select>
+            </div>
 
-<select class="form-control" id="revista" name="revista">
-    <label for="revista">{% trans %}Revista{% endtrans %}:</label>
-    {% for revista in revistas %}
-    <option value="{{ revista }}">{{ revista }}</option>
-    {% endfor %}
-</select>
+            <div class="form-group">
+                <label for="revista">{% trans %}Revista{% endtrans %}:</label>
+                <select class="form-control" id="revista" name="revista" required>
+                    <option value="" disabled selected>{% trans %}Selecciona una opción{% endtrans %}</option>
+                    {% for revista in revistas %}
+                    <option value="{{ revista }}">{{ revista }}</option>
+                    {% endfor %}
+                </select>
+            </div>
 
-<select class="form-control" id="anio" name="anio">
-    <label for="anio">{% trans %}Año{% endtrans %}:</label>
-    {% for anio in anios %}
-    <option value="{{ anio }}">{{ anio }}</option>
-    {% endfor %}
-</select>
+            <div class="form-group">
+                <label for="anio">{% trans %}Año{% endtrans %}:</label>
+                <select class="form-control" id="anio" name="anio" required>
+                    <option value="" disabled selected>{% trans %}Selecciona una opción{% endtrans %}</option>
+                    {% for anio in anios %}
+                    <option value="{{ anio }}">{{ anio }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+        </form>
+    </div>
+
+    <div class="col-md-6 mt-3">
+        <h1>{% trans %}Modelos de Predicción{% endtrans %}</h1>
+        <form method="POST" action="/prediction.html">
+            <div class="form-group">
+                <label for="modelo">{% trans %}Modelo de Predicción{% endtrans %}:</label>
+                {% for modelo in modelos %}
+                <div class="form-check">
+                    <input class="form-check-input" type="checkbox" id="modelo_{{ loop.index }}" name="modelo[]" value="{{ modelo }}">
+                    <label class="form-check-label" for="modelo_{{ loop.index }}">{{ modelo }}</label>
+                </div>
+                {% endfor %}
+            </div>
+        </form>
+    </div>
+
+    <div class="mt-3 text-center">
+        <button type="submit" class="btn btn-primary btn-enviar" id="calcular-btn" disabled>
+            {% trans %}Calcular{% endtrans %}
+        </button>
+    </div>
+
+</div>
+<!-- Own js -->
+<script src="{{ url_for('static', filename='selection.js') }}"></script>
 {% endblock %}
