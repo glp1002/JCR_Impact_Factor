@@ -6,7 +6,7 @@ obtenerIndiceImpacto de la clase Controlador del frontend. Cada ruta se asocia c
 Flask que crea una instancia de la clase Modelo, llama al método correspondiente y devuelve la respuesta en 
 formato JSON.
 """
-
+import json
 from flask import Flask, jsonify, request, render_template, session, redirect
 from flask_babel import Babel, numbers, dates, gettext
 import secrets
@@ -54,9 +54,9 @@ def get_locale():
 babel.init_app(app, locale_selector=get_locale)
 
 # Endpoints
-# @app.errorhandler(404) -> TODO
-#     def handle_other(err):
-#         return send_from_directory(static_folder, 'index.html')
+@app.errorhandler(404)
+def handle_other(err):
+    return render_template('error404.html')
 
 @app.route('/')
 def home():
@@ -116,28 +116,54 @@ def get_journals():
 
 @app.route('/prediction', methods=['GET','POST'])
 def prediction():
-    modelos = request.form.getlist('modelo[]')
-    categoria = request.args.get('categoria')
+    modelos_deseados = request.args.getlist('modelos')
+    modelos_deseados = modelos_deseados[0].split(',')
+
     revista = request.args.get('revista')
     anio = request.args.get('anio')
     
-    #prediction = controlador.predecir(categoria, revista, anio, modelos)
-    return redirect('/prediction.html') #, prediction=prediction)
+    # Cálculo de predicciones
+    modelos = controlador.get_model_binaries(modelos_deseados)
+    
+    ejemplo = [controlador.get_ejemplo(revista, anio)]
+    if len(ejemplo[0]) < 13:    # TODO: REVISAR 
+        existing_elements = len(ejemplo[0])
+        sum_elements = sum(ejemplo[0])
+        average = sum_elements / existing_elements
+        while len(ejemplo[0]) < 13:
+            ejemplo[0].append(average)
 
-@app.route('/selection', methods=['GET', 'POST'])
+    predictions = controlador.predict(ejemplo, modelos)
+    predictions = [round(numero[0],3) for numero in predictions]
+    predictions = list(zip(modelos_deseados, predictions))
+
+    return render_template('prediction.html', predictions=predictions)
+
+@app.route('/selection', methods=['GET', 'POST'])   
 def formulario():
     if request.method == 'POST':
-        return redirect('/prediction.html')
+        modelos_deseados = request.form.getlist('modelo[]')
+        revista = request.form.get('revista')
+        anio = request.form.get('anio')
+        return redirect(f'/prediction?revista={revista}&anio={anio}&modelos={",".join(modelos_deseados)}')
+
     else:
         anios = controlador.get_year_range()
         categorias = controlador.get_categories()
         revistas = controlador.get_journals_name()
-        # lista = controlador.get_journals()[0] -> TODO
-        # revistas = [tupla[0] for tupla in lista if tupla[2] == categoria]
-        #modelos = controlador.get_prediction_models()
-        modelos = ["uno", "dos"]
+
+        # Verificar si los modelos están cargados en la base de datos
+        modelos = controlador.get_model_names_and_errors()
+        if modelos is None or len(modelos) == 0:
+            controlador.insert_models()       
+            modelos = controlador.get_model_names_and_errors()
+        
         return render_template('selection.html', categorias=categorias, revistas=revistas, anios=anios, modelos=modelos)
     
+def get_revistas_por_categoria(categoria):
+    revistas = controlador.get_revistas_por_categoria(categoria)
+    return jsonify(revistas=revistas)
+
 # Ruta para crear un nuevo usuario
 @app.route('/users', methods=['POST'])
 def create_user():

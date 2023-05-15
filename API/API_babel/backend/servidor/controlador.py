@@ -73,6 +73,14 @@ class Controlador:
         except Exception as e:
             return {"error": str(e)}
         
+    def get_revistas_por_categoria(self, categoria):
+        try:
+            journals = []
+            journals = self.modelo.get_revistas_por_categoria(categoria)
+            return journals
+        except Exception as e:
+            return {"error": str(e)}
+        
     def authenticate_user(self, username, password):
         try:
             id_user = self.modelo.authenticate_user(username, password)
@@ -112,5 +120,53 @@ class Controlador:
         try:
             done = self.modelo.delete_user(user_id)
             return done
+        except Exception as e:
+            return {"error": str(e)}
+        
+    def initialize_database(self):
+        try:
+            done = self.modelo.initialize_database()
+            return done
+        except Exception as e:
+            return {"error": str(e)}
+        
+    def insert_models(self):
+        try:
+            self.modelo.insert_models()
+        except Exception as e:
+            return {"error": str(e)}
+
+    def get_model_names_and_errors(self):
+        try:
+            results = []
+            for elem in self.modelo.get_model_names_and_errors():
+                if elem['rmse'] < 6: # TODO: parametrizar
+                    elem['rmse'] = round(elem['rmse'], 2)
+                    results.append(elem)
+            return results
+        except Exception as e:
+            return {"error": str(e)}
+
+    def get_model_binaries(self, nombres_modelos):
+        try:
+            results = self.modelo.get_model_binaries(nombres_modelos)
+            return results
+        except Exception as e:
+            return {"error": str(e)}
+        
+    def get_ejemplo(self, revista, anio):
+        try:
+            ejemplo = self.modelo.get_ejemplo(revista, anio)
+            return ejemplo
+        except Exception as e:
+            return {"error": str(e)}
+        
+    def predict(self, ejemplo, modelos):
+        try:
+            predicciones = []
+            for nombre, modelo in modelos.items():
+                prediccion = modelo.predict(ejemplo)
+                predicciones.append(prediccion)
+            return predicciones
         except Exception as e:
             return {"error": str(e)}

@@ -41,6 +41,10 @@
   background-color: #7453c3 !important;
 } 
 
+input[type="checkbox"]:checked {
+  background-color: #7453c3 !important;
+  color: white !important; 
+}
 
 /* The Modal (background) */
 .modal {
@@ -118,4 +122,10 @@
     .modal-content {
       width: 100%;
     }
+  }
+
+
+  .centrar {
+    display: flex;
+    justify-content: center;
   }

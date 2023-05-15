@@ -5,7 +5,10 @@ Es compatible con la mayoría de las versiones de Python y es muy fácil de util
 de las bases de datos relacionales como MySQL, además proporciona una gran cantidad de funciones útiles para trabajar con 
 bases de datos.
 """
+import pickle
+import json
 import psycopg2
+
 from backend.servidor.datasource import Articulo, Revista, Citas, User
 
 """
@@ -87,6 +90,20 @@ class Modelo:
             return year
         except psycopg2.Error as e:
             raise Exception("Error al obtener los años de los artículos: " + str(e))
+
+    def get_revistas_por_categoria(self, categoria):
+        try:
+            cur = self.conn.cursor()
+            cur.execute("SELECT nombre FROM revistas WHERE categoria = %s", categoria)
+
+            revistas = []
+            for elem in cur:
+                revistas.append(elem[0])
+            return revistas
+        
+        except psycopg2.Error as e:
+            raise Exception("Error al obtener las revistas de la categoría " + categoria + ": " + str(e))
+
 
     # Gestionar usuarios
     def create_user(self, username, password, email, admin=False):
@@ -170,32 +187,281 @@ class Modelo:
             raise Exception("Error al eliminar el usuario: " + str(e))
         
     # Gestión de los modelos de predicción
-    # def set_models(self):
+    def insert_models(self):
+        try:
+            cur = self.conn.cursor()
+
+            # Cargar el archivo JSON 
+            nombre_archivo = r"C:\Users\Gadea\Desktop\Repositorios_Git\TFG\JCR_Impact_Factor\API\API_babel\prediction_models\resultados.json"
+            with open(nombre_archivo, "r") as archivo_json:
+                diccionario_modelos = json.load(archivo_json)
+
+            for nombre, rmse in diccionario_modelos.items():
+                # Cargar el modelo desde el archivo pickle
+                path = r'C:\Users\Gadea\Desktop\Repositorios_Git\TFG\JCR_Impact_Factor\API\API_babel\prediction_models\modelo_'+ nombre + '.pickle'
+                with open(path, 'rb') as archivo:
+                    modelo_bytes = pickle.load(archivo)
+                # modelo_bytes = pickle.dumps(modelo)
+
+                # Insertar en la base de datos
+                consulta = """
+                INSERT INTO modelos (nombre, modelo, rmse) VALUES (%s, %s, %s);
+                """
+                cur.execute(consulta, (nombre, modelo_bytes, rmse))
+
+            self.conn.commit()
+            cur.close()
+            return True
+
+        except (psycopg2.Error, IOError) as e:
+            self.conn.rollback()
+            cur.close()
+            raise Exception("Error al insertar los modelos: " + str(e))
+
+    def get_model_names_and_errors(self):
+        try:
+            cur = self.conn.cursor()
+
+            consulta = """
+            SELECT nombre, rmse FROM modelos;
+            """
+            cur.execute(consulta)
+            resultados = cur.fetchall()
+
+            lista_modelos = []
+            for nombre, rmse in resultados:
+                modelo = {"nombre": nombre, "rmse": rmse}
+                lista_modelos.append(modelo)
+
+            cur.close()
+            return lista_modelos
+
+        except psycopg2.Error as e:
+            cur.close()
+            raise Exception("Error al obtener los nombres de los modelos y sus errores: " + str(e))
+
+
+    # def get_model_binaries(self, nombres_modelos):
     #     try:
     #         cur = self.conn.cursor()
-    #         for nombre, _, _ in models:
-    #             # Cargar el modelo desde el archivo pickle
-    #             path = f'../../prediction_models/modelo_{nombre}.pickle'
-    #             with open(path, 'rb') as archivo:
-    #                 modelo = archivo.read()
 
-    #             rmse = rmse_scores[models.index((nombre, _, _))]
+    #         consulta = """
+    #         SELECT nombre, modelo FROM modelos;
+    #         """
+    #         cur.execute(consulta)
+    #         resultados = cur.fetchall()
 
-    #             consulta = """
-    #             INSERT INTO modelos (nombre, modelo, rmse) VALUES (%s, %s, %s);
-    #             """
-    #             cur.execute(consulta, (nombre, psycopg2.Binary(modelo), rmse))
+    #         diccionario_modelos = {}
+    #         for nombre, modelo_binario in resultados:
+    #             diccionario_modelos[nombre] = modelo_binario.tobytes()
 
-    #         self.conn.commit()
     #         cur.close()
-    #         return True
-        
+    #         return diccionario_modelos
+
     #     except psycopg2.Error as e:
-    #         self.conn.rollback()
     #         cur.close()
-    #         raise Exception("Error al insertar los modelos: " + str(e))  
+    #         raise Exception("Error al obtener los binarios de los modelos: " + str(e))
+
+    def get_model_binaries(self, nombres_modelos):
+        try:
+            # cur = self.conn.cursor()
+
+            # consulta = """
+            # SELECT nombre, modelo FROM modelos WHERE nombre IN %(nombres_modelos)s;
+            # """
+            # cur.execute(consulta, {'nombres_modelos': tuple(nombres_modelos)})
+            # resultados = cur.fetchall()
+
+            diccionario_modelos = {}
+
+            for nombre in nombres_modelos:
+
+                # Cargar el modelo desde el archivo pickle
+                path = r'C:\Users\Gadea\Desktop\Repositorios_Git\TFG\JCR_Impact_Factor\API\API_babel\prediction_models\modelo_'+ nombre + '.pickle'
+                with open(path, 'rb') as archivo:
+                    resultados = pickle.load(archivo)
+
+                # Obtener la lista de modelos y resultados de la iteración
+                modelos_iteracion = resultados['modelos']
+                resultados_iteracion = resultados['resultados']
+
+                # Encontrar el índice del modelo con el menor valor de RMSE
+                indice_mejor_modelo = resultados_iteracion.index(min(resultados_iteracion))
+                # Seleccionar el modelo con mejores resultados
+                mejor_modelo = modelos_iteracion[indice_mejor_modelo]
+
+                diccionario_modelos[nombre] = mejor_modelo
+
+            # for nombre, modelo_binario in resultados:
+            #     modelo = pickle.loads(modelo_binario)
+
+            #     # Seleccionar el mejor moedlo del objeto GridSearch
+            #     modelos_iteracion = modelo['modelos']
+            #     resultados_iteracion = modelo['resultados']
+            #     indice_mejor_modelo = resultados_iteracion.index(min(resultados_iteracion))
+            #     mejor_modelo = modelos_iteracion[indice_mejor_modelo]
+
+            #     diccionario_modelos[nombre] = mejor_modelo
+
+            # cur.close()
+            return diccionario_modelos
+
+        except psycopg2.Error as e:
+            # cur.close()
+            raise Exception("Error al obtener los binarios de los modelos: " + str(e))
+
+    def get_ejemplo(self, nombre_revista, year):
+        try:
+            cur = self.conn.cursor()
+
+            # Obtener número de citas de hace 3 años de la revista
+            query_3_anios = """
+            SELECT SUM(articulo.ncitas)
+            FROM articulo
+            INNER JOIN revista ON articulo.revista = revista.nombre
+            WHERE revista.nombre = %s AND articulo.fecha = %s - 3
+            GROUP BY revista.nombre;
+            """
+            cur.execute(query_3_anios, (nombre_revista, year))
+            citas_3_anios = cur.fetchone()
+            if citas_3_anios == None:
+                citas_3_anios = 0
+            else:
+                citas_3_anios = citas_3_anios[0]
+
+            # Obtener número de citas de hace 2 años de la revista
+            query_2_anios = """
+            SELECT SUM(articulo.ncitas)
+            FROM articulo
+            INNER JOIN revista ON articulo.revista = revista.nombre
+            WHERE revista.nombre = %s AND articulo.fecha = %s - 2
+            GROUP BY revista.nombre;
+            """
+            cur.execute(query_2_anios, (nombre_revista, year))
+            citas_2_anios = cur.fetchone()
+            if citas_2_anios == None:
+                citas_2_anios = 0
+            else:
+                citas_2_anios = citas_2_anios[0]
+
+            # Obtener número de citas de hace 1 año de la revista
+            query_1_anio = """
+            SELECT SUM(articulo.ncitas)
+            FROM articulo
+            INNER JOIN revista ON articulo.revista = revista.nombre
+            WHERE revista.nombre = %s AND articulo.fecha = %s - 1
+            GROUP BY revista.nombre;
+            """
+            cur.execute(query_1_anio, (nombre_revista, year))
+            citas_1_anios = cur.fetchone()
+            if citas_1_anios == None:
+                citas_1_anios = 0
+            else:
+                citas_1_anios = citas_1_anios[0]
         
-        
+            # Obtener número de citas de este año de la revista
+            query_citas_este_anio = """
+            SELECT SUM(articulo.ncitas)
+            FROM articulo
+            INNER JOIN revista ON articulo.revista = revista.nombre
+            WHERE revista.nombre = %s AND articulo.fecha = %s
+            GROUP BY revista.nombre;
+            """
+            cur.execute(query_citas_este_anio, (nombre_revista, year))
+            citas_este_anio = cur.fetchone()
+            if citas_este_anio == None:
+                citas_este_anio = 0
+            else:
+                citas_este_anio = citas_este_anio[0]
+
+            cur.close()
+            ejemplo = [citas_3_anios, citas_2_anios, citas_1_anios, citas_este_anio]
+            return ejemplo
+
+        except psycopg2.Error as e:
+            cur.close()
+            raise Exception("Error al obtener datos para la predicción: " + str(e))
+
+    # Restablecer la BBDD
+    def initialize_database(self):
+        try:
+            cur = self.conn.cursor()
+
+            # Eliminar tablas si existen
+            cur.execute("DROP TABLE IF EXISTS revista CASCADE;")
+            cur.execute("DROP TABLE IF EXISTS articulo CASCADE;")
+            cur.execute("DROP TABLE IF EXISTS citas CASCADE;")
+            cur.execute("DROP TABLE IF EXISTS users CASCADE;")
+            cur.execute("DROP TABLE IF EXISTS modelos CASCADE;")
+            self.conn.commit()
+
+            # Crear tablas
+            cur.execute("""
+                CREATE TABLE users (
+                    username VARCHAR(255),
+                    password VARCHAR(255),
+                    email VARCHAR(255),
+                    admin BOOLEAN
+                );
+            """)
+            
+            cur.execute("""
+                CREATE TABLE modelos (
+                    id SERIAL PRIMARY KEY,
+                    nombre TEXT,
+                    rmse FLOAT,
+                    modelo BYTEA
+                );
+            """)
+
+            cur.execute("""
+                CREATE TABLE revista (
+                    nombre CHAR(60) PRIMARY KEY,
+                    ISSN CHAR(9) UNIQUE NOT NULL,
+                    categoria CHAR(255) NOT NULL,
+                    fecha INT NOT NULL
+                );
+            """)
+
+            cur.execute("""
+                CREATE TABLE articulo (
+                    nombre CHAR(255) NOT NULL,
+                    DOI CHAR(30) PRIMARY KEY,
+                    revista CHAR(60) REFERENCES revista(nombre),
+                    ncitas INT NOT NULL,
+                    fecha INT NOT NULL
+                );
+            """)
+
+            cur.execute("""
+                CREATE TABLE citas (
+                    doi_citante CHAR(30) REFERENCES articulo(DOI),
+                    doi_citado CHAR(30) REFERENCES articulo(DOI),
+                    PRIMARY KEY (doi_citante, doi_citado)
+                );
+            """)
+
+            # Crear índice
+            cur.execute("""
+                CREATE INDEX nombre_index ON revista (nombre);
+            """)
+
+            # Ejecutar el optimizador
+            cur.execute("ANALYZE revista;")
+            cur.execute("ANALYZE articulo;")
+            cur.execute("ANALYZE citas;")
+            cur.execute("ANALYZE users;")
+
+            self.conn.commit()
+            cur.close()
+            return True
+
+        except psycopg2.Error as e:
+            cur.close()
+            raise Exception("Error al inicializar las tablas de la base de datos: " + str(e))
 
 
-        
+                
+
+
+            
