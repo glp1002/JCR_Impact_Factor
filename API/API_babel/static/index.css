@@ -13,8 +13,24 @@
     color: #7453c3 !important;
 }
 
+.enlace-bc a, a:hover, a:focus, a:active{
+  color: #7453c3 !important;
+}
+
 .logo img{
     height: 30px;
+}
+
+.logo-ubu img{
+  margin-left: 15px;
+  margin-bottom: 5px;
+  height: 35px;
+  width: 80px;
+}
+
+.icono-buscar{  
+  height: 40px;
+  margin-bottom: 10px;
 }
 
 .imgperf{
@@ -124,8 +140,18 @@ input[type="checkbox"]:checked {
     }
   }
 
-
   .centrar {
     display: flex;
     justify-content: center;
+  }
+
+  .desplegar{
+    color: #7453c3;
+    text-decoration: underline;
+    cursor: pointer;
+  }
+
+
+  h1{
+    font-size: 30px !important;
   }

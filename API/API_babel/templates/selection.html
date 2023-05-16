@@ -2,11 +2,27 @@
 {% block title %}Selección de Revistas{% endblock %}
 
 {% block content %}
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+      <li class="breadcrumb-item active" aria-current="page">{% trans %}Selección{% endtrans %}</li>
+    </ol>
+</nav>
+
 <div class="row centrar">
     <form method="POST" action="/selection">
         <div class="col-md-6 justify-content-center align-items-center">
         
-            <h1>{% trans %}Selección de Revistas{% endtrans %}</h1>
+            <h1 class="d-inline-block">{% trans %}SELECCIÓN DE REVISTAS{% endtrans %}</h1>
+            <a href="/revistas" class="d-inline-block">
+            <div class="container">
+                <div class="row">
+                <div class="col-xs-12">
+                    <img src="{{ url_for('static', filename='images/lista-rev-2.png') }}" alt="Buscar revistas" class="icono-buscar" data-toggle="tooltip" title="Listado de revistas" id="lista-rev">
+                </div>
+                </div>
+            </div>
+            </a>
+
             <div class="form-group ">
                 <label for="categoria">{% trans %}Categoría{% endtrans %}:</label>
                 <select class="form-control" id="categoria" name="categoria" required>
@@ -38,10 +54,10 @@
             </div>
         </div>
 
-        <div class="col-md-6 mt-3 justify-content-center align-items-center">
-            <h1>{% trans %}Modelos de Predicción{% endtrans %}</h1>
+        <div class="col-md-6 mt-4 justify-content-center align-items-center">
+            <h1>{% trans %}MODELOS DE PREDICCIÓN{% endtrans %}</h1>
             <div class="form-group">
-                <label for="modelo">{% trans %}Modelo de Predicción{% endtrans %}:</label>
+                <label for="modelo">{% trans %}Seleccionar modelos{% endtrans %}:</label>
                 {% for modelo in modelos %}
                 <div class="form-check">
                     <input class="form-check-input" type="checkbox" id="modelo_{{ loop.index }}" name="modelo[]"
@@ -55,7 +71,7 @@
         </div>
 
         <div class="mt-3 text-center">
-            <button type="submit" class="btn btn-primary btn-enviar" id="calcular-btn" disabled>
+            <button type="submit" class="btn btn-primary btn-enviar" id="calcular-btn" disabled data-toggle="tooltip" data-placement="top" title="{% trans %}Rellene todos los campos{% endtrans %}">
                 {% trans %}Calcular{% endtrans %}
             </button>
         </div>
@@ -65,7 +81,7 @@
 
 </div>
 
-<!-- jQuery js -->
+<!-- JQuery js -->
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <!-- Own js -->
 <script src="{{ url_for('static', filename='selection.js') }}"></script>

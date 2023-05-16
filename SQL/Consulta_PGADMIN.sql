@@ -44,26 +44,43 @@ CREATE INDEX nombre_index ON revista (nombre);
 -- Ejemplo de uso: 
 -- SELECT * FROM revista USE INDEX (nombre_index) WHERE nombre = 'Revista1';
 
-
 -- OPTIMIZADOR
 ANALYZE revista;
 ANALYZE articulo;
 ANALYZE citas;
 ANALYZE users;
 
-
--- EJEMPLO DE INSERT:
-INSERT INTO revista VALUES ('Revista1','ISSN1','IA', 2020);
-INSERT INTO revista VALUES ('Revista2','ISSN2','DS', 2020);
-INSERT INTO articulo VALUES ('Nombre1','10/r23','Revista1', 500, 2020);
-INSERT INTO articulo VALUES ('Nombre2','10/r24','Revista1', 100, 2021);
-INSERT INTO articulo VALUES ('Nombre3','10/r25','Revista2', 30, 2023);
-INSERT INTO citas VALUES ('10/r25','10/r23');
-INSERT INTO users VALUES ('Pepe', 'password123', 'pepe@example.com', false);
-INSERT INTO users VALUES ('Peter', 'p@ssw0rd', 'peter@example.com', true);
-
 -- Se cargan los datos del CSV generado tras hacer web scrapping
 --COPY revista FROM 'C:\Users\Public\revistas.csv' DELIMITER ',' CSV Header;
+
+
+-- EJEMPLO DE INSERT:
+-- INSERT para la tabla "revista"
+INSERT INTO revista (nombre, ISSN, categoria, fecha) VALUES
+    ('Revista A', 'ISSN111', 'Categoria A', 2020),
+    ('Revista B', 'ISSN222', 'Categoria B', 2019),
+    ('Revista C', 'ISSN333', 'Categoria C', 2021),
+    ('Revista D', 'ISSN444', 'Categoria A', 2022);
+
+-- INSERT para la tabla "articulo"
+INSERT INTO articulo (nombre, DOI, revista, ncitas, fecha) VALUES
+    ('Articulo 1', 'DOI111', 'Revista A', 10, 2020),
+    ('Articulo 2', 'DOI222', 'Revista A', 5, 2021),
+    ('Articulo 3', 'DOI333', 'Revista B', 8, 2022),
+    ('Articulo 4', 'DOI444', 'Revista C', 12, 2022),
+    ('Articulo 5', 'DOI555', 'Revista C', 3, 2023),
+    ('Articulo 6', 'DOI666', 'Revista D', 15, 2023);
+
+-- INSERT para la tabla "citas"
+INSERT INTO citas (doi_citante, doi_citado) VALUES
+    ('DOI222', 'DOI111'),
+    ('DOI222', 'DOI333'),
+    ('DOI333', 'DOI111'),
+    ('DOI666', 'DOI444');
+
+-- INSERT para la tabla "users"
+INSERT INTO users VALUES ('Pepe', 'password123', 'pepe@example.com', false);
+INSERT INTO users VALUES ('Peter', 'p@ssw0rd', 'peter@example.com', true);
 
 -- Visualizamos los datos
 -- SELECT * FROM revista

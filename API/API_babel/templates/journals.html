@@ -2,25 +2,53 @@
 {% block title %}Lista de Revistas{% endblock %}
 
 {% block content %}
-<h1>{% trans %}Lista de Revistas{% endtrans %}</h1>
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item enlace-bc"><a href="/selection">{% trans %}Selección{% endtrans %}</a></li>
+        <li class="breadcrumb-item active" aria-current="page">{% trans %}Revistas{% endtrans %}</li>
+    </ol>
+</nav>
+<h1>{% trans %}LISTA DE REVISTAS{% endtrans %}</h1>
+<form class="mb-4">
+    <div class="input-group">
+        <input type="text" class="form-control" placeholder="{{ _('Buscar revistas') }}" id="search-input">
+        <div class="input-group-append">
+            <button class="btn btn-outline-secondary" type="button" id="search-button">{{ _('Buscar') }}</button>
+        </div>
+    </div>
+</form>
 <table class="table">
     <thead>
         <tr>
             <th>{% trans %}Nombre{% endtrans %}</th>
             <th>{% trans %}ISSN{% endtrans %}</th>
             <th>{% trans %}Categoría{% endtrans %}</th>
-            <th>{% trans %}Fecha{% endtrans %}</th>
+            <th>{% trans %}JCR 2023{% endtrans %}</th>
+            <th>{% trans %}URL{% endtrans %}</th>
         </tr>
     </thead>
-    <tbody>
+    <tbody id="journal-table-body">
         {% for journal in journal_list %}
         <tr>
-            <td>{{ journal[0] }}</td>
+            <td class="accordion-toggle desplegar">{{ journal[0] }}</td>
             <td>{{ journal[1] }}</td>
             <td>{{ journal[2] }}</td>
-            <td>{{ journal[3] }}</td>
+            <td>{{ journal[4] }}</td>
+            <td>{{ journal[5] }}</td>
+        </tr>
+        <tr class="collapse">
+            <td colspan="4">
+                <!-- Contenido adicional del acordeón TODO-->
+                {% trans %}Fecha de entrada al índice del JCR: {% endtrans %} {{ journal[3] }}
+            </td>
         </tr>
         {% endfor %}
     </tbody>
 </table>
+
+<!-- JQuery js -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<!-- Own js -->
+<script src="{{ url_for('static', filename='journals.js') }}"></script>
+
 {% endblock %}

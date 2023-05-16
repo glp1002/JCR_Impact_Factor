@@ -28,3 +28,16 @@ var span = document.getElementsByClassName("close")[0];
 span.onclick = function() { 
   modal.style.display = "none";
 }
+
+
+// Cambio del botón de acceso a la lista de revistas
+$(function () {
+  $('#config-img').hover(
+    function () {
+      $(this).attr('src', '/static/images/config-hover.png');
+    },
+    function () {
+      $(this).attr('src', '/static/images/config.png');
+    }
+  );
+});

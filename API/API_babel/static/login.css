@@ -5,6 +5,12 @@
     font-weight: 400;
 }
 
+
+:focus {
+  border: solid  #7453c3 !important;
+  outline-color:  solid  #7453c3  !important;
+}
+
 /* BACKGROUND */
 body {  
     /* Degradation taken from https://uigradients.com:

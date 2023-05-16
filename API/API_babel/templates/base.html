@@ -26,10 +26,10 @@
   <nav class="navbar navbar-expand-md bg-body-tertiary bg-dark">
     <div class="container-fluid">
 
-      <!-- Logo -->
+      <!-- Logo web-app -->
       <a class="navbar-brand logo" href="/selection">
         <img src="{{ url_for('static', filename='images/logo2.png') }}" alt="Logo"
-          class="d-inline-block align-text-top"> <!-- Icono al backend -->
+          class="d-inline-block align-text-top"> 
       </a>
 
       <!-- Hamburger menu -->
@@ -45,7 +45,7 @@
           <li class="nav-item">
             <a class="navbar-brand align-items-center justify-content-center" href="config.html">
               <img src="{{ url_for('static', filename='images/config.png') }}" alt="Configuration" width="30"
-                height="30"><!-- Icono al backend -->
+                height="30" id="config-img">
             </a>
           </li>
           <li class="nav-item enlace">
@@ -95,6 +95,11 @@
     <div class="container-fluid enlace justify-content-center">
       <a class="nav-link" href="politica_privacidad.html">{% trans %}Política de privacidad{% endtrans %}</a>
       <a class="nav-link" href="terminos_uso.html" >{% trans %}Términos de uso{% endtrans %}</a>
+      <!-- Logo UBU-->
+      <a class="navbar-brand logo-ubu" href="https://www.ubu.es/">
+        <img src="{{ url_for('static', filename='images/icono-ubu.png') }}" alt="Logo"
+          class="d-inline-block align-text-top">
+      </a>
     </div>
   </nav>
 
@@ -104,6 +109,8 @@
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
     crossorigin="anonymous"></script>
+  <!-- JQuery js -->
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
 </body>
 
