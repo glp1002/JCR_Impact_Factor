@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE-edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Error 500</title>
+
+    <!-- Favicon para el modo claro -->
+    <link rel="icon" type="image/x-icon" href="{{ url_for('static', filename='favicon2.ico') }}"
+        media="(prefers-color-scheme: light)">
+    <!-- Favicon para el modo oscuro -->
+    <link rel="icon" type="image/x-icon" href="{{ url_for('static', filename='favicon1.ico') }}"
+        media="(prefers-color-scheme: dark)">
+
+    <!-- Own css-->
+    <link rel="stylesheet" href="{{ url_for('static', filename='index.css') }}">
+    <!-- Bootstrap css-->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+</head>
+
+<body class="body-error">
+    <div class="container text-center mt-5">
+        <h1 class="display-4" style="font-size: 50px !important;"> <b>Error 500</b></h1>
+        <p class="lead">{% trans %}Lo sentimos, se ha producido un error interno en el servidor. </br>
+            Nuestro equipo está trabajando para solucionarlo lo antes posible. </br>
+            Por favor, intenta nuevamente más tarde.{% endtrans %}</p>
+        <a href="/" class="btn btn-primary btn-enviar">{% trans %}Volver a la página de inicio{% endtrans %}</a>
+    </div>
+
+    <!-- Logo web-app -->
+    <div class="logo-container">
+        <a class="logo-error" href="/">
+            <img src="{{ url_for('static', filename='images/logo.png') }}" alt="Logo">
+        </a>
+    </div>
+
+
+    <!-- Bootstrap js-->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>

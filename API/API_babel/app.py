@@ -58,6 +58,10 @@ babel.init_app(app, locale_selector=get_locale)
 def handle_other(err):
     return render_template('error404.html')
 
+@app.errorhandler(500)
+def handle_other(err):
+    return render_template('error500.html')
+
 @app.route('/')
 def home():
     if 'username' in session:
@@ -110,7 +114,7 @@ def obtener_indice_impacto(revista):
     
 @app.route('/revistas', methods=['GET'])
 def get_journals():
-    journal_list = controlador.get_journals()
+    journal_list = controlador.get_journals_list()
     # DEBUG: return jsonify(journal_list)
     return render_template('journals.html', journal_list=journal_list)
 

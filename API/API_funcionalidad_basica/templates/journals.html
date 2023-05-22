@@ -1,0 +1,82 @@
+{% extends "base.html" %}
+{% block title %}Lista de Revistas{% endblock %}
+
+{% block content %}
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item enlace-bc"><a href="/selection">{% trans %}Selección{% endtrans %}</a></li>
+        <li class="breadcrumb-item active" aria-current="page">{% trans %}Revistas{% endtrans %}</li>
+    </ol>
+</nav>
+<h1>{% trans %}LISTA DE REVISTAS{% endtrans %}</h1>
+<form class="mb-4">
+    <div class="input-group">
+        <input type="text" class="form-control" placeholder="{{ _('Buscar revistas') }}" id="search-input">
+        <div class="input-group-append">
+            <button class="btn btn-outline-secondary" type="button" id="search-button">{{ _('Buscar') }}</button>
+        </div>
+    </div>
+</form>
+<table id="journal-table" class="table">
+    <thead>
+        <tr>
+            <th>{% trans %}Nombre{% endtrans %}</th>
+            <th>{% trans %}ISSN{% endtrans %}</th>
+            <th>{% trans %}Categoría{% endtrans %}</th>
+            <th style="text-align: center;">{% trans %}JCR {% endtrans %} {{ journal_list[0][3][0] }}</th>
+        </tr>
+    </thead>
+    <tbody id="journal-table-body">
+        {% for journal in journal_list %}
+        <tr>
+            <td class="accordion-toggle desplegar">{{ journal[0] }}</td>
+            <td>{{ journal[1] }}</td>
+            <td>{{ journal[2] }}</td>
+
+            {% if journal[3][1] != 0.0 %}
+            <td style="text-align: center;">{{ journal[3][1] }}</td>
+            {% else %}
+            <td style="text-align: center;"> - </td>
+            {% endif %}
+        </tr>
+        <tr class="collapse">
+            <td colspan="4">
+                <!-- Contenido adicional del acordeón TODO-->
+                {% trans %}Información adicional{% endtrans %}
+
+                <div class="col-md-6">
+                    <canvas id="myChart"></canvas>
+                </div>
+
+            </td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+<div id="pagination-container">
+    <div id="pagination-buttons">
+        <a class="btn-pag" onclick="firstPage()">
+            <img src="{{ url_for('static', filename='images/first_bl.png') }}" id="first-pag">
+        </a>
+        <a class="btn-pag" onclick="previousPage()">
+            <img src="{{ url_for('static', filename='images/prev_bl.png') }}" id="prev-pag" >
+        </a>
+        <a class="btn-pag" onclick="nextPage()">
+            <img src="{{ url_for('static', filename='images/next_bl.png') }}" id="next-pag" >
+        </a>
+        <a class="btn-pag" onclick="lastPage()">
+            <img src="{{ url_for('static', filename='images/last_bl.png') }}" id="last-pag" >
+        </a>
+    </div>
+</div>
+
+
+<!-- JQuery js -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<!-- Charts js -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<!-- Own js -->
+<script src="{{ url_for('static', filename='journals.js') }}"></script>
+<script src="{{ url_for('static', filename='pagination.js') }}"></script>
+
+{% endblock %}

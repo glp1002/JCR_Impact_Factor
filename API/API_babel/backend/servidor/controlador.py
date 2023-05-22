@@ -37,9 +37,26 @@ class Controlador:
                 nombre = journal.nombre
                 ISSN = journal.ISSN
                 categoria = journal.categoria
-                fecha = journal.fecha
-                journals.append((nombre.rstrip(), ISSN.rstrip(), categoria.rstrip(), fecha))
+                journals.append((nombre.rstrip(), ISSN.rstrip(), categoria.rstrip()))
             return journals
+        except Exception as e:
+            return {"error": str(e)}
+        
+    def get_journals_list(self):
+        try:
+            journals = self.get_journals()
+            journal_data = []
+
+            for journal in journals:
+                nombre = journal[0]
+                issn = journal[1]
+                categoria = journal[2]
+                last_jcr = self.modelo.get_last_jcr(nombre)
+                journal_tuple = (nombre, issn, categoria, last_jcr)
+                journal_data.append(journal_tuple)
+
+            return journal_data
+
         except Exception as e:
             return {"error": str(e)}
         

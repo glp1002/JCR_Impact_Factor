@@ -17,14 +17,13 @@
         </div>
     </div>
 </form>
-<table class="table">
+<table id="journal-table" class="table">
     <thead>
         <tr>
             <th>{% trans %}Nombre{% endtrans %}</th>
             <th>{% trans %}ISSN{% endtrans %}</th>
             <th>{% trans %}Categoría{% endtrans %}</th>
             <th>{% trans %}JCR 2023{% endtrans %}</th>
-            <th>{% trans %}URL{% endtrans %}</th>
         </tr>
     </thead>
     <tbody id="journal-table-body">
@@ -33,22 +32,42 @@
             <td class="accordion-toggle desplegar">{{ journal[0] }}</td>
             <td>{{ journal[1] }}</td>
             <td>{{ journal[2] }}</td>
-            <td>{{ journal[4] }}</td>
-            <td>{{ journal[5] }}</td>
+            <td>{{ journal[3] }}</td>
         </tr>
         <tr class="collapse">
             <td colspan="4">
                 <!-- Contenido adicional del acordeón TODO-->
-                {% trans %}Fecha de entrada al índice del JCR: {% endtrans %} {{ journal[3] }}
+                {% trans %}Información adicional {% endtrans %}
+
+                <div class="col-md-6">
+                    <canvas id="myChart"></canvas>
+                </div>
+                
             </td>
         </tr>
         {% endfor %}
     </tbody>
 </table>
-
+<script>
+    $(document).ready(function() {
+      $('#journal-table').DataTable({
+        "paging": true,
+        "pageLength": 20, // Mostrar 20 elementos por página
+        "lengthMenu": [[10, 20, 50, -1], [10, 20, 50, "All"]] // Opciones de longitud de página
+      });
+    });
+</script>
 <!-- JQuery js -->
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<!-- Charts js -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<!-- DataTables CSS -->
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.11.3/css/jquery.dataTables.min.css">
+<!-- DataTables JS -->
+<script src="https://cdn.datatables.net/1.11.3/js/jquery.dataTables.min.js"></script>
 <!-- Own js -->
 <script src="{{ url_for('static', filename='journals.js') }}"></script>
+<script src="{{ url_for('static', filename='graphs.js') }}"></script>
+
 
 {% endblock %}

@@ -8,6 +8,7 @@ bases de datos.
 import pickle
 import json
 import psycopg2
+import datetime
 
 from backend.servidor.datasource import Articulo, Revista, Citas, User
 
@@ -72,22 +73,44 @@ class Modelo:
     def get_journals(self):
         try:
             cur = self.conn.cursor()
-            cur.execute("SELECT nombre, ISSN, categoria, fecha FROM revista")
+            cur.execute("SELECT nombre, ISSN, categoria FROM revista")
             journals = []
-            for nombre, ISSN, categoria, fecha in cur:
-                journals.append(Revista(nombre, ISSN, categoria, fecha))
+            for nombre, ISSN, categoria in cur:
+                journals.append(Revista(nombre, ISSN, categoria))
             return journals
         except psycopg2.Error as e:
             raise Exception("Error al obtener las revistas: " + str(e))
         
+    def get_last_jcr(self, nombre_revista):
+        try:
+            cur = self.conn.cursor()
+            current_year = datetime.datetime.now().year
+
+            query_jcr_actual = """
+                SELECT JCR
+                FROM revista_jcr
+                WHERE nombre = %s AND fecha = %s
+            """
+            cur.execute(query_jcr_actual, (nombre_revista, current_year))
+            jcr_actual = cur.fetchone()
+
+            if jcr_actual is None:
+                jcr_actual = 0.0
+            else:
+                jcr_actual = jcr_actual[0]
+            cur.close()
+            return jcr_actual
+
+        except psycopg2.Error as e:
+            raise Exception("Error al obtener el último JCR: " + str(e))
+        
     def get_year_range(self):
         try:
             cur = self.conn.cursor()
-            cur.execute("SELECT fecha FROM articulo")
-            year = []
-            for elem in cur:
-                year.append(elem[0])
-            return year
+            cur.execute("SELECT DISTINCT fecha FROM revista_jcr")
+            years = [elem[0] for elem in cur]
+            cur.close()
+            return years
         except psycopg2.Error as e:
             raise Exception("Error al obtener los años de los artículos: " + str(e))
 
@@ -240,37 +263,8 @@ class Modelo:
             cur.close()
             raise Exception("Error al obtener los nombres de los modelos y sus errores: " + str(e))
 
-
-    # def get_model_binaries(self, nombres_modelos):
-    #     try:
-    #         cur = self.conn.cursor()
-
-    #         consulta = """
-    #         SELECT nombre, modelo FROM modelos;
-    #         """
-    #         cur.execute(consulta)
-    #         resultados = cur.fetchall()
-
-    #         diccionario_modelos = {}
-    #         for nombre, modelo_binario in resultados:
-    #             diccionario_modelos[nombre] = modelo_binario.tobytes()
-
-    #         cur.close()
-    #         return diccionario_modelos
-
-    #     except psycopg2.Error as e:
-    #         cur.close()
-    #         raise Exception("Error al obtener los binarios de los modelos: " + str(e))
-
     def get_model_binaries(self, nombres_modelos):
         try:
-            # cur = self.conn.cursor()
-
-            # consulta = """
-            # SELECT nombre, modelo FROM modelos WHERE nombre IN %(nombres_modelos)s;
-            # """
-            # cur.execute(consulta, {'nombres_modelos': tuple(nombres_modelos)})
-            # resultados = cur.fetchall()
 
             diccionario_modelos = {}
 
@@ -292,90 +286,59 @@ class Modelo:
 
                 diccionario_modelos[nombre] = mejor_modelo
 
-            # for nombre, modelo_binario in resultados:
-            #     modelo = pickle.loads(modelo_binario)
-
-            #     # Seleccionar el mejor moedlo del objeto GridSearch
-            #     modelos_iteracion = modelo['modelos']
-            #     resultados_iteracion = modelo['resultados']
-            #     indice_mejor_modelo = resultados_iteracion.index(min(resultados_iteracion))
-            #     mejor_modelo = modelos_iteracion[indice_mejor_modelo]
-
-            #     diccionario_modelos[nombre] = mejor_modelo
-
-            # cur.close()
             return diccionario_modelos
 
         except psycopg2.Error as e:
-            # cur.close()
             raise Exception("Error al obtener los binarios de los modelos: " + str(e))
 
     def get_ejemplo(self, nombre_revista, year):
         try:
             cur = self.conn.cursor()
+            year = int(year)
 
             # Obtener número de citas de hace 3 años de la revista
             query_3_anios = """
-            SELECT SUM(articulo.ncitas)
-            FROM articulo
-            INNER JOIN revista ON articulo.revista = revista.nombre
-            WHERE revista.nombre = %s AND articulo.fecha = %s - 3
-            GROUP BY revista.nombre;
+            SELECT citas, jcr, diff
+            FROM revista_jcr
+            WHERE nombre = %s AND fecha = %s
             """
-            cur.execute(query_3_anios, (nombre_revista, year))
-            citas_3_anios = cur.fetchone()
-            if citas_3_anios == None:
-                citas_3_anios = 0
-            else:
-                citas_3_anios = citas_3_anios[0]
+            cur.execute(query_3_anios, (nombre_revista, year - 3))
+            citas_3_anios, jcr_3_anios, diff_3_anios = cur.fetchone() or (0, 0.0, 0.0)
 
             # Obtener número de citas de hace 2 años de la revista
             query_2_anios = """
-            SELECT SUM(articulo.ncitas)
-            FROM articulo
-            INNER JOIN revista ON articulo.revista = revista.nombre
-            WHERE revista.nombre = %s AND articulo.fecha = %s - 2
-            GROUP BY revista.nombre;
+            SELECT citas, jcr, diff
+            FROM revista_jcr
+            WHERE nombre = %s AND fecha = %s
             """
-            cur.execute(query_2_anios, (nombre_revista, year))
-            citas_2_anios = cur.fetchone()
-            if citas_2_anios == None:
-                citas_2_anios = 0
-            else:
-                citas_2_anios = citas_2_anios[0]
+            cur.execute(query_2_anios, (nombre_revista, year - 2))
+            citas_2_anios, jcr_2_anios, diff_2_anios = cur.fetchone() or (0, 0.0, 0.0)
 
             # Obtener número de citas de hace 1 año de la revista
             query_1_anio = """
-            SELECT SUM(articulo.ncitas)
-            FROM articulo
-            INNER JOIN revista ON articulo.revista = revista.nombre
-            WHERE revista.nombre = %s AND articulo.fecha = %s - 1
-            GROUP BY revista.nombre;
+            SELECT citas, jcr, diff
+            FROM revista_jcr
+            WHERE nombre = %s AND fecha = %s
             """
-            cur.execute(query_1_anio, (nombre_revista, year))
-            citas_1_anios = cur.fetchone()
-            if citas_1_anios == None:
-                citas_1_anios = 0
-            else:
-                citas_1_anios = citas_1_anios[0]
-        
+            cur.execute(query_1_anio, (nombre_revista, year - 1))
+            citas_1_anios, jcr_1_anios, diff_1_anios = cur.fetchone() or (0, 0.0, 0.0)
+
             # Obtener número de citas de este año de la revista
             query_citas_este_anio = """
-            SELECT SUM(articulo.ncitas)
-            FROM articulo
-            INNER JOIN revista ON articulo.revista = revista.nombre
-            WHERE revista.nombre = %s AND articulo.fecha = %s
-            GROUP BY revista.nombre;
+            SELECT citas, jcr, diff
+            FROM revista_jcr
+            WHERE nombre = %s AND fecha = %s
             """
             cur.execute(query_citas_este_anio, (nombre_revista, year))
-            citas_este_anio = cur.fetchone()
-            if citas_este_anio == None:
-                citas_este_anio = 0
-            else:
-                citas_este_anio = citas_este_anio[0]
+            citas_este_anio, jcr_este_anio, diff_este_anio = cur.fetchone() or (0, 0.0, 0.0)
 
             cur.close()
-            ejemplo = [citas_3_anios, citas_2_anios, citas_1_anios, citas_este_anio]
+            ejemplo = [
+                citas_3_anios, jcr_3_anios, diff_3_anios,
+                citas_2_anios, jcr_2_anios, diff_2_anios,
+                citas_1_anios, jcr_1_anios, diff_1_anios,
+                citas_este_anio
+            ]
             return ejemplo
 
         except psycopg2.Error as e:

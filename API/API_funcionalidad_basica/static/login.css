@@ -1,0 +1,153 @@
+/* Google Fonts: Ubunto Mono */
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap');
+*{
+    font-family: 'Ubuntu Mono', monospace;
+    font-weight: 400;
+}
+
+
+:focus {
+  border: solid  #7453c3 !important;
+  outline-color:  solid  #7453c3  !important;
+}
+
+/* BACKGROUND */
+body {  
+    /* Degradation taken from https://uigradients.com:
+    Browsers: W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background-image: linear-gradient(to right, black , black ), linear-gradient(to right, black, #d3d3d3); 
+    background-position: left, right;
+    background-repeat: no-repeat;
+    background-size: 50% 100%;
+
+    overflow: auto;
+    
+}
+
+
+/* VIDEO */
+video {
+    max-width: 100%;
+    max-height: 100%;    
+}
+
+
+/* FORM */
+.alinear{
+    margin-left: 40%;
+    width:50%;
+}
+
+.register-link{
+    text-align: center;
+}
+
+.form-group input[type="text"],
+.form-group input[type="password"] {
+  /* total menos la imagen de mostrar contraseña*/
+  /* width: calc(100% - 34px);  */
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  margin-bottom: 5px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+}
+  
+.form-group input[type="text"]:focus,
+.form-group input[type="password"]:focus {
+  outline: none;
+  border-color: #333;
+  border-radius: 10px;
+} 
+  
+.password-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+
+.password-icon {
+    width: 24px;
+    height: 24px;
+    cursor: pointer;
+    margin-left: 10px;
+  }
+
+#login-button {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    
+    width: 100%;
+    height: 80%;
+
+    padding: 5px;
+    border: none;
+    border-radius: 10px;
+    background-color: #333;
+    color: #fff;
+    cursor: pointer;
+}
+    
+#login-button:hover {
+    background-color: #7453c3;
+} 
+
+.enlace a{
+    color:white !important;
+}
+
+.enlace a:hover {
+    color: #7453c3 !important;
+    font-weight: bold;
+}
+
+.error-message {
+    color: red;
+    margin-top: 5px;
+  }
+
+/* para dispositivos con ancho menor o igual a 768px */
+@media (max-width: 800px) {
+    /* para cambiar la dirección de la división vertical a horizontal */
+  
+    .login {
+        background-image: linear-gradient(to bottom, black,  #d3d3d3); 
+        background-position: left, right;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+
+    }
+
+    .video {
+      background-color: black;
+    }
+    
+    
+    /* Reorganizar elementos */
+    .alinear {
+      width: fit-content;
+      margin-right: calc(10%);
+      margin-left: calc(10%);
+    }
+
+    .form-header{
+        color:white;
+    }
+
+    .enlace a{
+      color:#333;
+    }
+
+    .password-icon {
+        width: 24px;
+        height: 24px;
+        cursor: pointer;
+        margin-left: 10px;
+        margin-top: 4%;
+        
+      }
+    
+  }

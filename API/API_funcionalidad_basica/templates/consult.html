@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% block title %}Índice de Impacto{% endblock %}
+
+{% block content %}
+<div class="row">
+    <div class="col-md-6">
+        <!-- Contenido de la parte izquierda -->
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item enlace-bc"><a href="/selection">{% trans %}Selección{% endtrans %}</a></li>
+                <li class="breadcrumb-item active" aria-current="page">{% trans %}Consulta{% endtrans %}</li>
+            </ol>
+        </nav>
+        <h1>{% trans %}CONULTA DEL ÍNDICE DE IMPACTO{% endtrans %}</h1>
+
+    </div>
+    <div class="col-md-6">
+        <canvas id="lineChart" width="400" height="400"></canvas>
+    </div>
+   
+</div>
+
+
+<!-- Charts js -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<!-- Own js -->
+<script src="{{ url_for('static', filename='graphs.js') }}"></script>
+
+{% endblock %}

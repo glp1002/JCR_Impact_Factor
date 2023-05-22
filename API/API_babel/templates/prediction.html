@@ -2,18 +2,33 @@
 {% block title %}Índice de Impacto{% endblock %}
 
 {% block content %}
-<nav aria-label="breadcrumb">
-    <ol class="breadcrumb">
-      <li class="breadcrumb-item enlace-bc"><a href="/selection">{% trans %}Selección{% endtrans %}</a></li>
-      <li class="breadcrumb-item active" aria-current="page">{% trans %}Predicción{% endtrans %}</li>
-    </ol>
-</nav>
-<h1>{% trans %}ÍNDICE DE IMPACTO{% endtrans %}</h1>
-{% for nombre, prediction in predictions %}
-<div class="card">
-    <div class="card-body">
-        <p class="card-text"> <strong>{{ nombre }} - </strong>{% trans %}El índice de impacto de la revista es: {{ prediction }}{% endtrans %}</p>
+<div class="row">
+    <div class="col-md-6">
+        <!-- Contenido de la parte izquierda -->
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item enlace-bc"><a href="/selection">{% trans %}Selección{% endtrans %}</a></li>
+                <li class="breadcrumb-item active" aria-current="page">{% trans %}Predicción{% endtrans %}</li>
+            </ol>
+        </nav>
+        <h1>{% trans %}ÍNDICE DE IMPACTO{% endtrans %}</h1>
+        {% for nombre, prediction in predictions %}
+        <div class="card">
+            <div class="card-body">
+                <p class="card-text"> <strong>{{ nombre }} - </strong>{% trans %}El índice de impacto de la revista es:
+                    {{ prediction }}{% endtrans %}</p>
+            </div>
+        </div>
+        {% endfor %}
     </div>
+    <div class="col-md-6">
+        <!--<canvas id="myChart" data-predictions="{{ predictions-5years | tojson }}"></canvas>-->
+    </div>      
 </div>
-{% endfor %}
+
+
+<!-- Charts js -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<!-- Own js <script src="{{ url_for('static', filename='graphs.js') }}"></script>-->
+
 {% endblock %}

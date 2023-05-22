@@ -2,6 +2,7 @@
 
 -- Si ya existieran las tablas previamente, se eliminarán
 DROP TABLE IF EXISTS revista CASCADE;
+DROP TABLE IF EXISTS revista_jcr CASCADE;
 DROP TABLE IF EXISTS articulo CASCADE;
 DROP TABLE IF EXISTS citas CASCADE;
 DROP TABLE IF EXISTS users CASCADE;
@@ -21,10 +22,16 @@ CREATE TABLE modelos (
     modelo BYTEA
 );
 CREATE TABLE revista (
-    nombre CHAR(60) PRIMARY KEY,
+    nombre CHAR(255) PRIMARY KEY,
     ISSN CHAR(9) UNIQUE NOT NULL,
-    categoria CHAR(255) NOT NULL,
-    fecha INT NOT NULL
+    categoria CHAR(255) NOT NULL
+);
+CREATE TABLE revista_jcr(
+    nombre CHAR(255),
+	fecha INT NOT NULL, 
+	JCR FLOAT NOT NULL,
+	citas NUMERIC NOT NULL,
+	diff FLOAT NOT NULL
 );
 CREATE TABLE articulo ( 
 	nombre CHAR(255) NOT NULL, 
@@ -49,44 +56,24 @@ ANALYZE revista;
 ANALYZE articulo;
 ANALYZE citas;
 ANALYZE users;
+ANALYZE revista_jcr;
 
 -- Se cargan los datos del CSV generado tras hacer web scrapping
---COPY revista FROM 'C:\Users\Public\revistas.csv' DELIMITER ',' CSV Header;
+COPY revista(nombre, ISSN, categoria)
+FROM 'C:\Users\Public\lista_revistas.csv'
+DELIMITER ',' CSV HEADER;
+
+
+COPY revista_jcr (fecha, nombre, citas, JCR, diff)
+FROM 'C:\Users\Public\datos_combinados.csv' DELIMITER ',' CSV HEADER;
+
 
 
 -- EJEMPLO DE INSERT:
--- INSERT para la tabla "revista"
-INSERT INTO revista (nombre, ISSN, categoria, fecha) VALUES
-    ('Revista A', 'ISSN111', 'Categoria A', 2020),
-    ('Revista B', 'ISSN222', 'Categoria B', 2019),
-    ('Revista C', 'ISSN333', 'Categoria C', 2021),
-    ('Revista D', 'ISSN444', 'Categoria A', 2022);
-
--- INSERT para la tabla "articulo"
-INSERT INTO articulo (nombre, DOI, revista, ncitas, fecha) VALUES
-    ('Articulo 1', 'DOI111', 'Revista A', 10, 2020),
-    ('Articulo 2', 'DOI222', 'Revista A', 5, 2021),
-    ('Articulo 3', 'DOI333', 'Revista B', 8, 2022),
-    ('Articulo 4', 'DOI444', 'Revista C', 12, 2022),
-    ('Articulo 5', 'DOI555', 'Revista C', 3, 2023),
-    ('Articulo 6', 'DOI666', 'Revista D', 15, 2023);
-
--- INSERT para la tabla "citas"
-INSERT INTO citas (doi_citante, doi_citado) VALUES
-    ('DOI222', 'DOI111'),
-    ('DOI222', 'DOI333'),
-    ('DOI333', 'DOI111'),
-    ('DOI666', 'DOI444');
-
 -- INSERT para la tabla "users"
 INSERT INTO users VALUES ('Pepe', 'password123', 'pepe@example.com', false);
 INSERT INTO users VALUES ('Peter', 'p@ssw0rd', 'peter@example.com', true);
 
--- Visualizamos los datos
--- SELECT * FROM revista
--- SELECT * FROM articulo
--- SELECT * FROM citas
--- SELECT * FROM users
 
 
 
