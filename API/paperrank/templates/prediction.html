@@ -22,12 +22,14 @@
         {% endfor %}
     </div>
     <div class="col-md-6">
-        
+        <canvas id="lineChart" width="400" height="400"></canvas>
     </div>      
 </div>
 
 
 <!-- Charts js -->
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<!-- Own js -->
+<script src="{{ url_for('static', filename='graphs_predictions.js') }}"></script>
 
 {% endblock %}

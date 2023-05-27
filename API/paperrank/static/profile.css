@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+  }
+  h1 {
+    margin-bottom: 20px;
+  }
+  .profile {
+    display: flex;
+  }
+  .profile-image {
+    flex: 0 0 150px;
+    margin-right: 20px;
+  }
+  .profile-image img {
+    width: 100%;
+    height: auto;
+  }
+  .profile-info {
+    flex: 1;
+  }
+  .profile-info h2 {
+    margin-top: 0;
+  }
+  .profile-info p {
+    margin-bottom: 10px;
+  }

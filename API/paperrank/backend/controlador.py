@@ -5,8 +5,9 @@ una revista y llaman a los métodos correspondientes del modelo para obtener los
 y devolverlos al usuario.
 """
 import datetime
-    
+
 class Controlador:
+    
     def __init__(self, modelo):
         self.modelo = modelo
 

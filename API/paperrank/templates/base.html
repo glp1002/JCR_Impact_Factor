@@ -50,9 +50,9 @@
             </a>
             <!-- Dropdown -->
             <ul class="dropdown-menu dropdown-menu-dark dropdown-menu-end">
-              <li><a class="dropdown-item" href="#?lang=en">Inglés</a></li>
-              <li><a class="dropdown-item" href="#?lang=es">Español</a></li>
-              <li><a class="dropdown-item" href="#?lang=fr">Francés</a></li>
+              <li><a class="dropdown-item" href="{{ request.path }}?lang=en">Inglés</a></li>
+              <li><a class="dropdown-item"  href="{{ request.path }}?lang=es">Español</a></li>
+              <li><a class="dropdown-item"  href="{{ request.path }}?lang=fr">Francés</a></li>
             </ul>
           </li>
 
@@ -61,8 +61,7 @@
           </li>
 
           <li class="nav-item enlace dropdown" id="profile" style="display:flex">
-            <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">{% trans %}Usuario{%
-              endtrans %}</a>
+            <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">{{ username }}</a>
             <img id=myImg src="{{ url_for('static', filename='images/perfil.jpg') }}" alt="Profile" width="40"
               height="40" class="imgperf">
             <!-- The Modal -->

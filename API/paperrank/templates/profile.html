@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% block title %}Perfil de usuario{% endblock %}
+
+{% block content %}
+<!-- Own css-->
+<link rel="stylesheet" href="{{ url_for('static', filename='profile.css') }}">
+
+<!-- <nav aria-label="breadcrumb"> HISTORIAL?
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item enlace-bc"><a href="/selection">{% trans %}Selección{% endtrans %}</a></li>
+        <li class="breadcrumb-item active" aria-current="page">{% trans %}Revistas{% endtrans %}</li>
+    </ol>
+</nav> -->
+
+<h1>{% trans %}ÁREA DE USUARIO{% endtrans %}</h1>
+<div class="profile">
+    <div class="profile-image">
+      <img src="{{ url_for('static', filename='images/perfil.jpg') }}" alt="Imagen de perfil">
+    </div>
+    <div class="profile-info">
+      <h2>Nombre de usuario</h2>
+      <p><b>Nombre: </b>{{ username }}</p>
+      <p><b>Correo electrónico: </b>{{ email }}</p>
+    </div>
+  </div>
+{% endblock %}
