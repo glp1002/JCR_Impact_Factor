@@ -9,7 +9,7 @@ import pickle
 import json
 import psycopg2
 
-from backend.datasource import Articulo, Revista, Citas, User
+from .datasource import Articulo, Revista, Citas, User
 
 """
 La clase Modelo contiene métodos para interactuar con la base de datos y realizar operaciones específicas.

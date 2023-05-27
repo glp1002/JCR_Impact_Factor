@@ -15,8 +15,8 @@ from flask_login import LoginManager
 #from flask_wtf import CSRFProtect
 #from flask_cors import CORS # TODO
 
-from backend.modelo import Modelo
-from backend.controlador import Controlador
+from .backend.modelo import Modelo
+from .backend.controlador import Controlador
 
 
 # Creación de la aplicación
