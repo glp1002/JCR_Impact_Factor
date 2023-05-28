@@ -5,34 +5,31 @@ Es compatible con la mayoría de las versiones de Python y es muy fácil de util
 de las bases de datos relacionales como MySQL, además proporciona una gran cantidad de funciones útiles para trabajar con 
 bases de datos.
 """
-import pickle
 import json
+import os
+import pickle
+
 import psycopg2
 
-from .datasource import Articulo, Revista, Citas, User
+from .datasource import Articulo, Citas, Revista, User
 
 """
 La clase Modelo contiene métodos para interactuar con la base de datos y realizar operaciones específicas.
 En este caso, tiene un método para obtener los artículos de una determinada revista y otro método para 
 obtener el índice de impacto de una revista en particular.
 """
-
-    
+ 
 class Modelo:
-    
-    
+
     """
     Para configurar la conexión a la base de datos se proporcionarán los detalles de la conexión
     (nombre de usuario, contraseña, nombre de la base de datos, etc...) mediante la biblioteca psycopg2.
     """
     def __init__(self):
         try:
-            self.conn = psycopg2.connect(
-                host="localhost",
-                port=5432,
-                user="postgres",
-                password="Hola=2910",
-                dbname="BBDD"
+            self.conn = psycopg2.connect( 
+                os.environ['postgres://ztzjgdjnrrjcqc:039a004b9bb682c3d598bef51d01b9c632b9325bba8f6eb7e87e909d6553c6fe@ec2-52-215-209-64.eu-west-1.compute.amazonaws.com:5432/d8rmkut3jrsi93'], 
+                sslmode='require'
             )
         except psycopg2.Error as e:
             raise Exception("Error al conectarse a la base de datos: " + str(e))
