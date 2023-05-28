@@ -28,7 +28,7 @@ class Modelo:
     def __init__(self):
         try:
             self.conn = psycopg2.connect( 
-                os.environ['postgres://ztzjgdjnrrjcqc:039a004b9bb682c3d598bef51d01b9c632b9325bba8f6eb7e87e909d6553c6fe@ec2-52-215-209-64.eu-west-1.compute.amazonaws.com:5432/d8rmkut3jrsi93'], 
+                os.environ['DATABASE_URL'], 
                 sslmode='require'
             )
         except psycopg2.Error as e:
