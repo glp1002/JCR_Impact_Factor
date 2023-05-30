@@ -447,11 +447,30 @@ class Modelo:
     # Módulo principal de inicialización
     def initialize_database(self):
         try:
+            cur = self.conn.cursor()
+            cur.execute("""
+                CREATE TABLE users (
+                    username VARCHAR(255),
+                    password VARCHAR(255),
+                    email VARCHAR(255),
+                    admin BOOLEAN
+                );
+                
+                CREATE TABLE modelos (
+                    id SERIAL PRIMARY KEY,
+                    nombre TEXT,
+                    rmse FLOAT,
+                    modelo BYTEA
+                );
+                """)
+            self.conn.commit()
+            cur.close()
+
             # Eliminar las tablas si existen previamente
             #self.drop_tables()
 
             # Creación de las tablas de cero
-            self.create_tables()
+            #self.create_tables()
 
             # Cargar datos iniciales en la BBDD
             # self.load_data(os.path.join(self.current_directory, 'data', 'lista_revistas.csv'), 'revista', ('nombre', 'issn', 'categoria'))
