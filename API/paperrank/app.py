@@ -20,14 +20,14 @@ from .backend.modelo import Modelo
 #from flask_wtf import CSRFProtect
 #from flask_cors import CORS # TODO
 
+# Creación de la aplicación
+app = Flask(__name__)
+
 # Crear una única instancia de Modelo al inicio de la aplicación
 modelo = Modelo()
 controlador = Controlador(modelo)
 # Inicializamos la base de datos
 controlador.initialize_database()
-
-# Creación de la aplicación
-app = Flask(__name__)
 
 # Genera una clave secreta aleatoria de 32 bytes
 # secret_key = secrets.token_hex(32)
