@@ -32,12 +32,8 @@ class Modelo:
     """
     def __init__(self):
         try:
-            database_url = os.environ.get("DATABASE_URL")
-            # if database_url and database_url.startswith("postgres://"):
-            #     database_url = database_url.replace("postgres://", "postgresql://", 1)
-
             self.conn = psycopg2.connect( 
-                database_url, 
+                os.environ.get("DATABASE_URL"), 
                 sslmode='require'
             )
         except psycopg2.Error as e:
@@ -452,16 +448,16 @@ class Modelo:
     def initialize_database(self):
         try:
             # Eliminar las tablas si existen previamente
-            self.drop_tables()
+            #self.drop_tables()
 
             # Creación de las tablas de cero
             self.create_tables()
 
-            # # Cargar datos iniciales en la BBDD
+            # Cargar datos iniciales en la BBDD
             # self.load_data(os.path.join(self.current_directory, 'data', 'lista_revistas.csv'), 'revista', ('nombre', 'issn', 'categoria'))
             # self.load_data(os.path.join(self.current_directory, 'data', 'datos_combinados.csv'), 'revista_jcr', ('fecha', 'nombre', 'citas', 'jcr', 'diff'))
             # self.insert_models()
-            # self.insert_users()
+            self.insert_users()
 
         except psycopg2.Error as e:
             raise Exception("Error al inicializar las tablas de la base de datos: " + str(e))
