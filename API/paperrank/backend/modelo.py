@@ -410,8 +410,13 @@ class Modelo:
             cur = self.conn.cursor()
             cur.execute("""
                 INSERT INTO users (username, password, email, admin)
-                VALUES ('Pepe', 'password123', 'pepe@example.com', false)
+                VALUES ('Pepe', 'password123', 'pepe@example.com', false),
+                    ('Admin', 'p@ssw0rd', 'admin@example.com', true);
             """)
+            
+            # Confirmar los cambios en la base de datos
+            self.conn.commit()
+            cur.close()
         except psycopg2.Error as e:
             cur.close()
             raise Exception("Error al insertar los usuarios: " + str(e))
