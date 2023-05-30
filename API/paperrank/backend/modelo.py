@@ -211,17 +211,12 @@ class Modelo:
                 diccionario_modelos = json.load(archivo_json)
 
             for nombre, rmse in diccionario_modelos.items():
-                # Cargar el modelo desde el archivo pickle
-                path = os.path.join(self.parent_directory, 'prediction_models', 'modelo_'+ nombre + '.pickle')
-                with open(path, 'rb') as archivo:
-                    modelo_bytes = pickle.load(archivo)
-                modelo_bytes = pickle.dumps(modelo_bytes)
 
                 # Insertar en la base de datos
                 consulta = """
-                INSERT INTO modelos (nombre, modelo, rmse) VALUES (%s, %s, %s);
+                INSERT INTO modelos (nombre, rmse) VALUES (%s, %s);
                 """
-                cur.execute(consulta, (nombre, modelo_bytes, rmse))
+                cur.execute(consulta, (nombre, rmse))
 
             self.conn.commit()
             cur.close()
@@ -353,8 +348,7 @@ class Modelo:
                 CREATE TABLE modelos (
                     id SERIAL PRIMARY KEY,
                     nombre TEXT,
-                    rmse FLOAT,
-                    modelo BYTEA
+                    rmse FLOAT
                 );
                 
                 CREATE TABLE revista (
