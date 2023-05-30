@@ -32,8 +32,12 @@ class Modelo:
     """
     def __init__(self):
         try:
+            database_url = os.environ.get("DATABASE_URL")
+            if database_url and database_url.startswith("postgres://"):
+                database_url = database_url.replace("postgres://", "postgresql://", 1)
+
             self.conn = psycopg2.connect( 
-                os.environ['DATABASE_URL'], 
+                database_url, 
                 sslmode='require'
             )
         except psycopg2.Error as e:
