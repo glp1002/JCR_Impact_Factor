@@ -374,13 +374,13 @@ class Modelo:
             """)
 
             # Crear índice en la tabla revista de forma concurrente
-            # cur.execute("CREATE INDEX nombre_index ON revista (nombre);")
+            cur.execute("CREATE INDEX nombre_index ON revista (nombre);")
 
             # Ejecutar el optimizador de consultas
-            # cur.execute("ANALYZE revista;")
-            # cur.execute("ANALYZE citas;")
-            # cur.execute("ANALYZE users;")
-            # cur.execute("ANALYZE revista_jcr;")
+            cur.execute("ANALYZE revista;")
+            cur.execute("ANALYZE citas;")
+            cur.execute("ANALYZE users;")
+            cur.execute("ANALYZE revista_jcr;")
 
             self.conn.commit()
             cur.close()
@@ -451,10 +451,11 @@ class Modelo:
             self.create_tables()
 
             # Cargar datos iniciales en la BBDD
-            self.load_data(os.path.join(self.current_directory, 'data', 'lista_revistas.csv'), 'revista', ('nombre', 'issn', 'categoria'))
-            self.load_data(os.path.join(self.current_directory, 'data', 'datos_combinados.csv'), 'revista_jcr', ('fecha', 'nombre', 'citas', 'jcr', 'diff'))
-            self.insert_models()
+            # self.load_data(os.path.join(self.current_directory, 'data', 'lista_revistas.csv'), 'revista', ('nombre', 'issn', 'categoria'))
+            # self.load_data(os.path.join(self.current_directory, 'data', 'datos_combinados.csv'), 'revista_jcr', ('fecha', 'nombre', 'citas', 'jcr', 'diff'))
+            # self.insert_models()
             self.insert_users()
+
 
         except psycopg2.Error as e:
             raise Exception("Error al inicializar las tablas de la base de datos: " + str(e))
