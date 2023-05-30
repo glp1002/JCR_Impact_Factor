@@ -448,7 +448,7 @@ class Modelo:
     def initialize_database(self):
         try:
             # Eliminar las tablas si existen previamente
-            self.drop_tables()
+            #self.drop_tables()
 
             # Creación de las tablas de cero
             self.create_tables()
@@ -457,7 +457,7 @@ class Modelo:
             # self.load_data(os.path.join(self.current_directory, 'data', 'lista_revistas.csv'), 'revista', ('nombre', 'issn', 'categoria'))
             # self.load_data(os.path.join(self.current_directory, 'data', 'datos_combinados.csv'), 'revista_jcr', ('fecha', 'nombre', 'citas', 'jcr', 'diff'))
             # self.insert_models()
-            self.insert_users()
+            #self.insert_users()
 
         except psycopg2.Error as e:
             raise Exception("Error al inicializar las tablas de la base de datos: " + str(e))
