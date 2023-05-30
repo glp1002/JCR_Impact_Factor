@@ -478,11 +478,6 @@ class Modelo:
                     diff FLOAT NOT NULL
                 );
                 
-                CREATE TABLE citas (
-                    doi_citante CHAR(30) REFERENCES articulo(DOI),
-                    doi_citado CHAR(30) REFERENCES articulo(DOI),
-                    PRIMARY KEY (doi_citante, doi_citado)
-                );
             """)
             self.conn.commit()
             cur.close()
