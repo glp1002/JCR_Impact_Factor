@@ -23,7 +23,7 @@ class Modelo:
 
     # Ruta absoluta del directorio actual
     current_directory = os.path.dirname(os.path.abspath(__file__))
-    # Ruta del directorio padre
+    # Ruta del directorio padre 
     parent_directory = os.path.abspath(os.path.join(current_directory, os.pardir))
 
     """
