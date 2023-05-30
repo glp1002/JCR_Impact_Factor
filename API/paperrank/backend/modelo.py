@@ -374,13 +374,13 @@ class Modelo:
             """)
 
             # Crear índice en la tabla revista de forma concurrente
-            cur.execute("CREATE INDEX nombre_index ON revista (nombre);")
+            # cur.execute("CREATE INDEX nombre_index ON revista (nombre);")
 
             # Ejecutar el optimizador de consultas
-            cur.execute("ANALYZE revista;")
-            cur.execute("ANALYZE citas;")
-            cur.execute("ANALYZE users;")
-            cur.execute("ANALYZE revista_jcr;")
+            # cur.execute("ANALYZE revista;")
+            # cur.execute("ANALYZE citas;")
+            # cur.execute("ANALYZE users;")
+            # cur.execute("ANALYZE revista_jcr;")
 
             self.conn.commit()
             cur.close()
