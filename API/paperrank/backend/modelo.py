@@ -457,8 +457,9 @@ class Modelo:
             # Cargar datos iniciales en la BBDD
             self.load_data(os.path.join(self.current_directory, 'data', 'lista_revistas.csv'), 'revista', ('nombre', 'issn', 'categoria'))
             self.load_data(os.path.join(self.current_directory, 'data', 'datos_combinados.csv'), 'revista_jcr', ('fecha', 'nombre', 'citas', 'jcr', 'diff'))
-            self.insert_models()
+            
             self.insert_users()
+            self.insert_models()
 
 
         except psycopg2.Error as e:
