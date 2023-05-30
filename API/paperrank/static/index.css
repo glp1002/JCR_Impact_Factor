@@ -70,19 +70,10 @@ html {
   cursor: pointer !important;
 }
 
-.btn-pag img{
-  /* border: 2px solid black;
-  border-radius: 20%; */
-  
-  padding: 2px;
-  height: 20px !important;
-  width: 20px !important;
-  
-  border-color: #000000;
-  margin-right: 10px;
-}
 .btn-pag{
-  text-decoration: none;
+  text-decoration: none !important;
+  color: black;
+  font-size: xx-large;
   cursor: pointer;
 }
   
@@ -205,3 +196,5 @@ input[type="checkbox"]:checked {
     background-size: cover;
     background-repeat: no-repeat;
   }
+
+

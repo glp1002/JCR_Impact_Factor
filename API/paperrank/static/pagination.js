@@ -69,10 +69,10 @@ showPage(1);
 $(function () {
     $('#prev-pag').hover(
         function () {
-            $(this).attr('src', '/static/images/prev-lil.png');
+            $(this).css("color", "#7453c3");
         },
         function () {
-            $(this).attr('src', '/static/images/prev-bl.png');
+            $(this).css("color", "black");
         }
     );
 });
@@ -80,10 +80,10 @@ $(function () {
 $(function () {
     $('#last-pag').hover(
         function () {
-            $(this).attr('src', '/static/images/last-lil.png');
+            $(this).css("color", "#7453c3");
         },
         function () {
-            $(this).attr('src', '/static/images/last-bl.png');
+            $(this).css("color", "black");
         }
     );
 });
@@ -91,20 +91,21 @@ $(function () {
 $(function () {
     $('#next-pag').hover(
         function () {
-            $(this).attr('src', '/static/images/next-lil.png');
+            $(this).css("color", "#7453c3");
         },
         function () {
-            $(this).attr('src', '/static/images/next-bl.png');
+            $(this).css("color", "black");
         }
     );
 });
+
 $(function () {
     $('#first-pag').hover(
         function () {
-            $(this).attr('src', '/static/images/first-lil.png');
+            $(this).css("color", "#7453c3");
         },
         function () {
-            $(this).attr('src', '/static/images/first-bl.png');
+            $(this).css("color", "black");
         }
     );
 });

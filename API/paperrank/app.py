@@ -30,8 +30,8 @@ controlador = Controlador(modelo)
 controlador.initialize_database()
 
 # Genera una clave secreta aleatoria de 32 bytes
-# secret_key = secrets.token_hex(32)
-# app.secret_key = secret_key
+secret_key = secrets.token_hex(32)
+app.secret_key = secret_key
 
 # app.config['SESSION_COOKIE_SECURE'] = True -> TODO: https
 # app.config['REMEMBER_COOKIE_SECURE'] = True
