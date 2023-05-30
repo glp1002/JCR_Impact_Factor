@@ -131,8 +131,7 @@ class Controlador:
         
     def initialize_database(self):
         try:
-            self.modelo.drop_tables()
-            self.modelo.create_tables()
+            self.modelo.initialize_database()
         except Exception as e:
             return {"error": str(e)}
         

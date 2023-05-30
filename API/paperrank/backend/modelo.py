@@ -446,26 +446,46 @@ class Modelo:
 
 
     # Módulo principal de inicialización
-    # def initialize_database(self):
-    #     try:
-            # cur = self.conn.cursor()
-            # cur.execute("""
-            #     CREATE TABLE users (
-            #         username VARCHAR(255),
-            #         password VARCHAR(255),
-            #         email VARCHAR(255),
-            #         admin BOOLEAN
-            #     );
+    def initialize_database(self):
+        try:
+            cur = self.conn.cursor()
+            cur.execute("""
+                CREATE TABLE users (
+                    username VARCHAR(255),
+                    password VARCHAR(255),
+                    email VARCHAR(255),
+                    admin BOOLEAN
+                );
                 
-            #     CREATE TABLE modelos (
-            #         id SERIAL PRIMARY KEY,
-            #         nombre TEXT,
-            #         rmse FLOAT,
-            #         modelo BYTEA
-            #     );
-            #     """)
-            # self.conn.commit()
-            # cur.close()
+                CREATE TABLE modelos (
+                    id SERIAL PRIMARY KEY,
+                    nombre TEXT,
+                    rmse FLOAT,
+                    modelo BYTEA
+                );
+                
+                CREATE TABLE revista (
+                    nombre CHAR(255) PRIMARY KEY,
+                    issn CHAR(9) UNIQUE NOT NULL,
+                    categoria CHAR(255) NOT NULL
+                );
+                
+                CREATE TABLE revista_jcr (
+                    nombre CHAR(255),
+                    fecha NUMERIC NOT NULL, 
+                    jcr FLOAT NOT NULL,
+                    citas NUMERIC NOT NULL,
+                    diff FLOAT NOT NULL
+                );
+                
+                CREATE TABLE citas (
+                    doi_citante CHAR(30) REFERENCES articulo(DOI),
+                    doi_citado CHAR(30) REFERENCES articulo(DOI),
+                    PRIMARY KEY (doi_citante, doi_citado)
+                );
+            """)
+            self.conn.commit()
+            cur.close()
 
             # Eliminar las tablas si existen previamente
             #self.drop_tables()
@@ -479,5 +499,5 @@ class Modelo:
             # self.insert_models()
             #self.insert_users()
 
-        # except psycopg2.Error as e:
-        #     raise Exception("Error al inicializar las tablas de la base de datos: " + str(e))
+        except psycopg2.Error as e:
+            raise Exception("Error al inicializar las tablas de la base de datos: " + str(e))
