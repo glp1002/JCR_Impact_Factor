@@ -32,8 +32,9 @@ class Modelo:
     """
     def __init__(self):
         try:
+            url_database = os.environ.get("DATABASE_URL")
             self.conn = psycopg2.connect( 
-                os.environ.get("DATABASE_URL"), 
+                url_database, 
                 sslmode='require'
             )
         except psycopg2.Error as e:
@@ -445,26 +446,26 @@ class Modelo:
 
 
     # Módulo principal de inicialización
-    def initialize_database(self):
-        try:
-            cur = self.conn.cursor()
-            cur.execute("""
-                CREATE TABLE users (
-                    username VARCHAR(255),
-                    password VARCHAR(255),
-                    email VARCHAR(255),
-                    admin BOOLEAN
-                );
+    # def initialize_database(self):
+    #     try:
+            # cur = self.conn.cursor()
+            # cur.execute("""
+            #     CREATE TABLE users (
+            #         username VARCHAR(255),
+            #         password VARCHAR(255),
+            #         email VARCHAR(255),
+            #         admin BOOLEAN
+            #     );
                 
-                CREATE TABLE modelos (
-                    id SERIAL PRIMARY KEY,
-                    nombre TEXT,
-                    rmse FLOAT,
-                    modelo BYTEA
-                );
-                """)
-            self.conn.commit()
-            cur.close()
+            #     CREATE TABLE modelos (
+            #         id SERIAL PRIMARY KEY,
+            #         nombre TEXT,
+            #         rmse FLOAT,
+            #         modelo BYTEA
+            #     );
+            #     """)
+            # self.conn.commit()
+            # cur.close()
 
             # Eliminar las tablas si existen previamente
             #self.drop_tables()
@@ -478,5 +479,5 @@ class Modelo:
             # self.insert_models()
             #self.insert_users()
 
-        except psycopg2.Error as e:
-            raise Exception("Error al inicializar las tablas de la base de datos: " + str(e))
+        # except psycopg2.Error as e:
+        #     raise Exception("Error al inicializar las tablas de la base de datos: " + str(e))
