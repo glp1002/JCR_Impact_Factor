@@ -32,7 +32,7 @@ span.onclick = function() {
 }
 
 
-// Cambio del botón de acceso a la lista de revistas
+// Cambio del botón de acceso al cambio de idioma
 $(function () {
   $('#config-img').hover(
     function () {

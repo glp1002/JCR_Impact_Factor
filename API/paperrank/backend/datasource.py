@@ -13,21 +13,10 @@ class User:
     def __str__(self):
         return "User(id='%s')" % self.id
 
-class Articulo:
-    def __init__(self, nombre, DOI, revista, ncitas, fecha):
-        self.nombre = nombre
-        self.DOI = DOI
-        self.revista = revista
-        self.ncitas = ncitas
-        self.fecha = fecha
-
-    def __str__(self):
-        return "Article(name='%s')" % self.nombre
-
 class Revista:
-    def __init__(self, nombre, ISSN, categoria):
+    def __init__(self, nombre, issn, categoria):
         self.nombre = nombre
-        self.ISSN = ISSN
+        self.issn = issn
         self.categoria = categoria
 
     def __str__(self):

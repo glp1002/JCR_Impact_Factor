@@ -15,8 +15,42 @@ fetch(`/predictionJSON/${encodeURIComponent(revista)}/${encodeURIComponent(model
     // Extraer los datos de consulta, predicciones y años
     const jcrValues = data.jcrValues.reverse();
     const predictions = data.predictions;
-    const predictions2 = data.predictions2;
     const years = data.years.reverse();
+
+    // Agregar los dos siguientes años a la lista
+    const addYears = 1; // Años extra en el eje X
+    const nextYears = Array.from({ length: addYears }, (_, index) => String(Number(years[years.length - 1]) + index + 1));
+    const allYears = [...years, ...nextYears];
+
+    const datasets = [{
+      label: 'Consulta',
+      data: jcrValues,
+      borderColor: '#7453c3',
+      lineTension: 0.1, // Ajustar la tensión de la línea para hacerla recta
+      spanGaps: true    // Permitir que las líneas se salten puntos de datos nulos
+    }]
+
+    // Crear datasets
+    var index = 0;
+    predictions.forEach(tupla => {
+      const modelo = tupla[0];
+      const valor1 = tupla[1];
+      const valor2 = tupla[2];
+
+      // Crear el dataset para el modelo actual
+      const dataset = {
+        label: modelo,
+        data: Array(years.length-1).fill(null).concat([valor1, valor2]),
+        borderColor: getColorByIndex(index),
+        lineTension: 0.1,
+        spanGaps: true
+      };
+      index = index + 1;
+
+      // Agregar el dataset a la lista de datasets
+      datasets.push(dataset);
+    });
+
 
     // Crear un contexto para el gráfico
     var ctx = document.getElementById('lineChart').getContext('2d');
@@ -25,33 +59,8 @@ fetch(`/predictionJSON/${encodeURIComponent(revista)}/${encodeURIComponent(model
     let lineChart = new Chart(ctx, {
       type: 'line',
       data: {
-        labels: years,  // Etiquetas en el eje X (años)
-        datasets: [
-          {
-            label: 'Consulta',
-            data: jcrValues,
-            borderColor: '#7453c3',
-            lineTension: 0.1, // Ajustar la tensión de la línea para hacerla recta
-            spanGaps: true    // Permitir que las líneas se salten puntos de datos nulos
-          },
-          // Agregar líneas para cada modelo en diferentes colores
-          ...predictions2.map((prediction, index) => ({
-            label: prediction[0],
-            data: Array(years.length - 1).fill(null).concat([prediction[1]]), 
-            borderColor: getColorByIndex(index),
-            fill: false,
-            lineTension: 0,  // Unir puntos con una línea recta
-            spanGaps: false  
-          })),
-          ...predictions.map((prediction, index) => ({
-            label: prediction[0],
-            data: Array(years.length ).fill(null).concat([prediction[1]]), // Rellenar con null hasta el último año y agregar el valor de la predicción para el último año
-            borderColor: getColorByIndex(index),
-            fill: false,
-            lineTension: 0,  // Unir puntos con una línea recta
-            spanGaps: false  
-          }))
-        ]
+        labels: allYears,  // Etiquetas en el eje X (años)
+        datasets: datasets
       },
       options: {
         responsive: true,
@@ -59,7 +68,7 @@ fetch(`/predictionJSON/${encodeURIComponent(revista)}/${encodeURIComponent(model
         scales: {
           x: {
             type: 'category',
-            labels: [...years, '2023', '2024'], // Agregar dos etiquetas vacías al final para ampliar el rango
+            labels: allYears, // Usar la lista de todos los años
             beginAtZero: true,
             maxRotation: 0,
             grid: {
@@ -80,6 +89,6 @@ fetch(`/predictionJSON/${encodeURIComponent(revista)}/${encodeURIComponent(model
 
 // Función para obtener un color según el índice
 function getColorByIndex(index) {
-  const colors = ['#ff0000', '#00ff00', '#0000ff', '#ff00ff', '#00ffff']; // Colores de ejemplo, puedes agregar más colores según la cantidad de modelos
+  const colors = ['#ff0000', '#00ff00', '#0000ff', '#ff00ff', '#00ffff'];
   return colors[index % colors.length];
 }

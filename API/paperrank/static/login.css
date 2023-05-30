@@ -5,6 +5,18 @@
     font-weight: 400;
 }
 
+.gecko html{
+  overflow:-moz-hidden-unscrollable;
+}
+
+html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  min-height: 100vh;
+  overflow:hidden;
+  scroll-behavior: unset;
+}
 
 :focus {
   border: solid  #7453c3 !important;

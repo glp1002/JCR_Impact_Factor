@@ -6,24 +6,11 @@ y devolverlos al usuario.
 """
 import datetime
 
+
 class Controlador:
     
     def __init__(self, modelo):
         self.modelo = modelo
-
-    def obtener_articulos(self, revista):
-        try:
-            articulos = [] 
-            for articulo in self.modelo.obtener_articulos(revista):
-                nombre = articulo.nombre
-                DOI = articulo.DOI
-                revista = articulo.revista
-                ncitas = articulo.ncitas
-                fecha = articulo.fecha
-                articulos.append((nombre.rstrip(), DOI.rstrip(), revista.rstrip(), ncitas, fecha))
-            return articulos
-        except Exception as e:
-            return {"error": str(e)}
 
     def obtener_indice_impacto(self, revista):
         try:
@@ -37,9 +24,9 @@ class Controlador:
             journals = []
             for journal in self.modelo.get_journals():
                 nombre = journal.nombre
-                ISSN = journal.ISSN
+                issn = journal.issn
                 categoria = journal.categoria
-                journals.append((nombre.rstrip(), ISSN.rstrip(), categoria.rstrip()))
+                journals.append((nombre.rstrip(), issn.rstrip(), categoria.rstrip()))
             return journals
         except Exception as e:
             return {"error": str(e)}
@@ -144,8 +131,7 @@ class Controlador:
         
     def initialize_database(self):
         try:
-            done = self.modelo.initialize_database()
-            return done
+            self.modelo.initialize_database()
         except Exception as e:
             return {"error": str(e)}
         

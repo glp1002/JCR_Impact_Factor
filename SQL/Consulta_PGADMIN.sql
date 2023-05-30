@@ -3,7 +3,6 @@
 -- Si ya existieran las tablas previamente, se eliminarán
 DROP TABLE IF EXISTS revista CASCADE;
 DROP TABLE IF EXISTS revista_jcr CASCADE;
-DROP TABLE IF EXISTS articulo CASCADE;
 DROP TABLE IF EXISTS citas CASCADE;
 DROP TABLE IF EXISTS users CASCADE;
 DROP TABLE IF EXISTS modelos CASCADE;
@@ -33,13 +32,7 @@ CREATE TABLE revista_jcr(
 	citas NUMERIC NOT NULL,
 	diff FLOAT NOT NULL
 );
-CREATE TABLE articulo ( 
-	nombre CHAR(255) NOT NULL, 
-	DOI CHAR(30) PRIMARY KEY,
-	revista CHAR(60) REFERENCES revista(nombre), 
-	ncitas INT NOT NULL,
-	fecha INT NOT NULL
-); 
+
 CREATE TABLE citas (
     doi_citante CHAR(30) REFERENCES articulo(DOI),
     doi_citado CHAR(30) REFERENCES articulo(DOI),
@@ -63,16 +56,11 @@ COPY revista(nombre, ISSN, categoria)
 FROM 'C:\Users\Public\lista_revistas.csv'
 DELIMITER ',' CSV HEADER;
 
-
 COPY revista_jcr (fecha, nombre, citas, JCR, diff)
 FROM 'C:\Users\Public\datos_combinados.csv' DELIMITER ',' CSV HEADER;
 
-
-
--- EJEMPLO DE INSERT:
--- INSERT para la tabla "users"
 INSERT INTO users VALUES ('Pepe', 'password123', 'pepe@example.com', false);
-INSERT INTO users VALUES ('Peter', 'p@ssw0rd', 'peter@example.com', true);
+INSERT INTO users VALUES ('Admin', 'p@ssw0rd', 'admin@example.com', true);
 
 
 

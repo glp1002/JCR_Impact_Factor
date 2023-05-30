@@ -11,7 +11,7 @@ import pickle
 
 import psycopg2
 
-from .datasource import Articulo, Citas, Revista, User
+from .datasource import Citas, Revista, User
 
 """
 La clase Modelo contiene métodos para interactuar con la base de datos y realizar operaciones específicas.
@@ -20,6 +20,11 @@ obtener el índice de impacto de una revista en particular.
 """
  
 class Modelo:
+
+    # Ruta absoluta del directorio actual
+    current_directory = os.path.dirname(os.path.abspath(__file__))
+    # Ruta del directorio padre
+    parent_directory = os.path.abspath(os.path.join(current_directory, os.pardir))
 
     """
     Para configurar la conexión a la base de datos se proporcionarán los detalles de la conexión
@@ -37,10 +42,10 @@ class Modelo:
     def get_journals(self):
         try:
             cur = self.conn.cursor()
-            cur.execute("SELECT nombre, ISSN, categoria FROM revista")
+            cur.execute("SELECT nombre, issn, categoria FROM revista")
             journals = []
-            for nombre, ISSN, categoria in cur:
-                journals.append(Revista(nombre, ISSN, categoria))
+            for nombre, issn, categoria in cur:
+                journals.append(Revista(nombre, issn, categoria))
             return journals
         except psycopg2.Error as e:
             raise Exception("Error al obtener las revistas: " + str(e))
@@ -50,7 +55,7 @@ class Modelo:
             cur = self.conn.cursor()
 
             query_last_jcr = """
-                SELECT fecha, JCR
+                SELECT fecha, jcr
                 FROM revista_jcr
                 WHERE nombre = %s
                 AND fecha = (SELECT MAX(fecha) FROM revista_jcr WHERE nombre = %s)
@@ -66,14 +71,14 @@ class Modelo:
             return last_jcr
 
         except psycopg2.Error as e:
-            raise Exception("Error al obtener el último JCR: " + str(e))
+            raise Exception("Error al obtener el último jcr: " + str(e))
     
     def get_jcr(self, nombre_revista, anio):
         try:
             cur = self.conn.cursor()
 
             query_last_jcr = """
-                SELECT JCR
+                SELECT jcr
                 FROM revista_jcr
                 WHERE nombre = %s
                 AND fecha = %s
@@ -88,7 +93,7 @@ class Modelo:
             return jcr
 
         except psycopg2.Error as e:
-            raise Exception("Error al obtener los JCR: " + str(e))
+            raise Exception("Error al obtener los jcr: " + str(e))
         
     def get_year_range(self):
         try:
@@ -200,16 +205,16 @@ class Modelo:
             cur = self.conn.cursor()
 
             # Cargar el archivo JSON 
-            nombre_archivo = r"C:\Users\Gadea\Desktop\Repositorios_Git\TFG\JCR_Impact_Factor\API\API_babel\prediction_models\resultados.json"
-            with open(nombre_archivo, "r") as archivo_json:
+            file_path = os.path.join(self.parent_directory, 'prediction_models', 'resultados.json')
+            with open(file_path, "r") as archivo_json:
                 diccionario_modelos = json.load(archivo_json)
 
             for nombre, rmse in diccionario_modelos.items():
                 # Cargar el modelo desde el archivo pickle
-                path = r'C:\Users\Gadea\Desktop\Repositorios_Git\TFG\JCR_Impact_Factor\API\API_babel\prediction_models\modelo_'+ nombre + '.pickle'
+                path = os.path.join(self.parent_directory, 'prediction_models', 'modelo_'+ nombre + '.pickle')
                 with open(path, 'rb') as archivo:
                     modelo_bytes = pickle.load(archivo)
-                # modelo_bytes = pickle.dumps(modelo)
+                modelo_bytes = pickle.dumps(modelo_bytes)
 
                 # Insertar en la base de datos
                 consulta = """
@@ -256,7 +261,7 @@ class Modelo:
             for nombre in nombres_modelos:
 
                 # Cargar el modelo desde el archivo pickle
-                path = r'C:\Users\Gadea\Desktop\Repositorios_Git\TFG\JCR_Impact_Factor\API\API_babel\prediction_models\modelo_'+ nombre + '.pickle'
+                path = os.path.join(self.parent_directory, 'prediction_models', 'modelo_'+ nombre + '.pickle')
                 with open(path, 'rb') as archivo:
                     resultados = pickle.load(archivo)
 
@@ -318,12 +323,6 @@ class Modelo:
             citas_este_anio, jcr_este_anio, diff_este_anio = cur.fetchone() or (0, 0.0, 0.0)
 
             cur.close()
-            # ejemplo = [
-            #     citas_3_anios, jcr_3_anios, diff_3_anios,
-            #     citas_2_anios, jcr_2_anios, diff_2_anios,
-            #     citas_1_anios, jcr_1_anios, diff_1_anios,
-            #     citas_este_anio
-            # ]
             ejemplo = [
                 int(citas_3_anios), float(jcr_3_anios), float(diff_3_anios),
                 int(citas_2_anios), float(jcr_2_anios), float(diff_2_anios),
@@ -337,19 +336,11 @@ class Modelo:
             raise Exception("Error al obtener datos para la predicción: " + str(e))
 
     # Restablecer la BBDD
-    def initialize_database(self):
+
+    # Módulo de creación de tablas
+    def create_tables(self):
         try:
             cur = self.conn.cursor()
-
-            # Eliminar tablas si existen
-            cur.execute("DROP TABLE IF EXISTS revista CASCADE;")
-            cur.execute("DROP TABLE IF EXISTS articulo CASCADE;")
-            cur.execute("DROP TABLE IF EXISTS citas CASCADE;")
-            cur.execute("DROP TABLE IF EXISTS users CASCADE;")
-            cur.execute("DROP TABLE IF EXISTS modelos CASCADE;")
-            self.conn.commit()
-
-            # Crear tablas
             cur.execute("""
                 CREATE TABLE users (
                     username VARCHAR(255),
@@ -357,37 +348,28 @@ class Modelo:
                     email VARCHAR(255),
                     admin BOOLEAN
                 );
-            """)
-            
-            cur.execute("""
+                
                 CREATE TABLE modelos (
                     id SERIAL PRIMARY KEY,
                     nombre TEXT,
                     rmse FLOAT,
                     modelo BYTEA
                 );
-            """)
-
-            cur.execute("""
+                
                 CREATE TABLE revista (
-                    nombre CHAR(60) PRIMARY KEY,
-                    ISSN CHAR(9) UNIQUE NOT NULL,
-                    categoria CHAR(255) NOT NULL,
-                    fecha INT NOT NULL
+                    nombre CHAR(255) PRIMARY KEY,
+                    issn CHAR(9) UNIQUE NOT NULL,
+                    categoria CHAR(255) NOT NULL
                 );
-            """)
-
-            cur.execute("""
-                CREATE TABLE articulo (
-                    nombre CHAR(255) NOT NULL,
-                    DOI CHAR(30) PRIMARY KEY,
-                    revista CHAR(60) REFERENCES revista(nombre),
-                    ncitas INT NOT NULL,
-                    fecha INT NOT NULL
+                
+                CREATE TABLE revista_jcr (
+                    nombre CHAR(255),
+                    fecha NUMERIC NOT NULL, 
+                    jcr FLOAT NOT NULL,
+                    citas NUMERIC NOT NULL,
+                    diff FLOAT NOT NULL
                 );
-            """)
-
-            cur.execute("""
+                
                 CREATE TABLE citas (
                     doi_citante CHAR(30) REFERENCES articulo(DOI),
                     doi_citado CHAR(30) REFERENCES articulo(DOI),
@@ -395,27 +377,87 @@ class Modelo:
                 );
             """)
 
-            # Crear índice
-            cur.execute("""
-                CREATE INDEX nombre_index ON revista (nombre);
-            """)
+            # Crear índice en la tabla revista de forma concurrente
+            cur.execute("CREATE INDEX nombre_index ON revista (nombre);")
 
-            # Ejecutar el optimizador
+            # Ejecutar el optimizador de consultas
             cur.execute("ANALYZE revista;")
-            cur.execute("ANALYZE articulo;")
             cur.execute("ANALYZE citas;")
             cur.execute("ANALYZE users;")
+            cur.execute("ANALYZE revista_jcr;")
 
             self.conn.commit()
             cur.close()
-            return True
+        except psycopg2.Error as e:
+            cur.close()
+            raise Exception("Error al crear las tablas: " + str(e))
+
+    # Módulo de carga de datos
+    def load_data(self, csv_path, table_name, columns):
+        try:
+            cur = self.conn.cursor()
+            
+            with open(csv_path, 'r') as file:          
+                # Generar la sentencia COPY personalizada
+                copy_sql = f"COPY {table_name} ({', '.join(columns)}) FROM STDIN WITH (FORMAT CSV, HEADER TRUE, DELIMITER '|')"
+                cur.copy_expert(copy_sql, file)
+
+            self.conn.commit()
+            cur.close()
+        except psycopg2.Error as e:
+            cur.close()
+            raise Exception("Error copiando los datos: " + str(e))
+        
+    # Módulo de inserción de usuarios inicial
+    def insert_users(self):
+        try:
+            cur = self.conn.cursor()
+            cur.execute("""
+                INSERT INTO users (username, password, email, admin)
+                VALUES ('Pepe', 'password123', 'pepe@example.com', false),
+                    ('Admin', 'p@ssw0rd', 'admin@example.com', true);
+            """)
+        except psycopg2.Error as e:
+            cur.close()
+            raise Exception("Error al insertar los usuarios: " + str(e))
+
+    # Módulo para eliminar la información de la BBDD
+    def drop_tables(self):
+        try:
+            cur = self.conn.cursor()
+
+            # Eliminar tablas si ya existen
+            cur.execute("""
+                DROP TABLE IF EXISTS revista CASCADE;
+                DROP TABLE IF EXISTS revista_jcr CASCADE;
+                DROP TABLE IF EXISTS citas CASCADE;
+                DROP TABLE IF EXISTS users CASCADE;
+                DROP TABLE IF EXISTS modelos CASCADE;
+            """)
+
+            # Confirmar los cambios en la base de datos
+            self.conn.commit()
+            cur.close()
 
         except psycopg2.Error as e:
             cur.close()
+            raise Exception("Error eliminando las tablas: " + str(e))
+
+
+    # Módulo principal de inicialización
+    def initialize_database(self):
+        try:
+            # Eliminar las tablas si existen previamente
+            self.drop_tables()
+
+            # Creación de las tablas de cero
+            self.create_tables()
+
+            # Cargar datos iniciales en la BBDD
+            self.load_data(os.path.join(self.current_directory, 'data', 'lista_revistas.csv'), 'revista', ('nombre', 'issn', 'categoria'))
+            self.load_data(os.path.join(self.current_directory, 'data', 'datos_combinados.csv'), 'revista_jcr', ('fecha', 'nombre', 'citas', 'jcr', 'diff'))
+            self.insert_models()
+            self.insert_users()
+
+        except psycopg2.Error as e:
             raise Exception("Error al inicializar las tablas de la base de datos: " + str(e))
-
-
-                
-
-
-            

@@ -7,16 +7,19 @@ Flask que crea una instancia de la clase Modelo, llama al método correspondient
 formato JSON.
 """
 import json
-from flask import Flask, jsonify, request, render_template, session, redirect, make_response
-from flask_babel import Babel, numbers, dates, gettext
-
 import secrets
+
+from flask import (Flask, jsonify, make_response, redirect, render_template,
+                   request, session)
+from flask_babel import Babel, dates, gettext, numbers
 from flask_login import LoginManager
+
+from .backend.controlador import Controlador
+from .backend.modelo import Modelo
+
 #from flask_wtf import CSRFProtect
 #from flask_cors import CORS # TODO
 
-from .backend.modelo import Modelo
-from .backend.controlador import Controlador
 
 
 # Creación de la aplicación
@@ -29,6 +32,8 @@ app.secret_key = secret_key
 # Crear una única instancia de Modelo al inicio de la aplicación
 modelo = Modelo()
 controlador = Controlador(modelo)
+# Inicializamos la base de datos
+controlador.initialize_database()
 
 # app.config['SESSION_COOKIE_SECURE'] = True -> TODO: https
 # app.config['REMEMBER_COOKIE_SECURE'] = True
@@ -131,7 +136,6 @@ def logout():
 @app.route('/revistas', methods=['GET'])
 def get_journals():
     journal_list = controlador.get_journals_list()
-    # DEBUG: return jsonify(journal_list)
     return render_template('journals.html', journal_list=journal_list,  username=app.config['username'])
 
 @app.route('/consult', methods=['GET'])
@@ -178,7 +182,9 @@ def predictionJSON(revista, modelos_deseados):
     predictions2 = [round(float(numero[0]), 3) for numero in predictions2]  # Convertir a float
     predictions2 = list(zip(modelos_deseados, predictions2))  # [(modelo, valor), (modelo2, valor2)...]
 
-    return jsonify(jcrValues=jcrValues, predictions=predictions, predictions2=predictions2, years=years)
+    lista_combinada = [(modelo, jcr1, jcr2) for (modelo, jcr1), (_, jcr2) in zip(predictions2, predictions)]
+
+    return jsonify(jcrValues=jcrValues, predictions=lista_combinada, years=years)
 
 @app.route('/prediction', methods=['GET'])
 def prediction():
@@ -230,7 +236,7 @@ def formulario():
             controlador.insert_models()       
             modelos = controlador.get_model_names_and_errors()
         
-        return render_template('selection.html', categorias=categorias, revistas=revistas, modelos=modelos,  username=app.config['username'])
+        return render_template('selection.html', categorias=categorias, revistas=revistas, modelos=modelos, username=app.config['username'])
     
 def get_revistas_por_categoria(categoria):
     revistas = controlador.get_revistas_por_categoria(categoria)
