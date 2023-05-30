@@ -410,8 +410,7 @@ class Modelo:
             cur = self.conn.cursor()
             cur.execute("""
                 INSERT INTO users (username, password, email, admin)
-                VALUES ('Pepe', 'password123', 'pepe@example.com', false),
-                    ('Admin', 'p@ssw0rd', 'admin@example.com', true);
+                VALUES ('Pepe', 'password123', 'pepe@example.com', false)
             """)
         except psycopg2.Error as e:
             cur.close()
