@@ -167,7 +167,21 @@ class Controlador:
             return results
         except Exception as e:
             return {"error": str(e)}
-        
+
+    # TODO 
+    # def get_consulta_quartil(self, nombre_revista):
+    #     try:
+    #         last_year = datetime.datetime.now().year - 1
+    #         results = []
+
+    #         for anio in range(last_year, last_year-5, -1): # TODO: parametrizar
+    #             quartil = self.modelo.get_quartil(nombre_revista, anio)
+    #             tupla = (anio, quartil)
+    #             results.append(tupla)
+    #         return results
+    #     except Exception as e:
+    #         return {"error": str(e)}
+
     def get_consulta_jcr(self, nombre_revista):
         try:
             last_year = datetime.datetime.now().year - 1

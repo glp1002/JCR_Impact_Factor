@@ -57,7 +57,7 @@
           </li>
 
           <li class="nav-item enlace">
-            <a class="nav-link" aria-current="page" href="help.html">{% trans %}Ayuda{% endtrans %}</a>
+            <a class="nav-link" aria-current="page" href="/help">{% trans %}Ayuda{% endtrans %}</a>
           </li>
 
           <li class="nav-item enlace dropdown" id="profile" style="display:flex">
@@ -92,8 +92,8 @@
   <!-- Foot Bar -->
   <nav class="navbar fixed-bottom bg-body-tertiary bg-dark">
     <div class="container-fluid enlace justify-content-center">
-      <a class="nav-link" href="politica_privacidad.html">{% trans %}Política de privacidad{% endtrans %}</a>
-      <a class="nav-link" href="terminos_uso.html">{% trans %}Términos de uso{% endtrans %}</a>
+      <a class="nav-link" href="/privacy_policy">{% trans %}Política de privacidad{% endtrans %}</a>
+      <a class="nav-link" href="/terms_of_use">{% trans %}Términos de uso{% endtrans %}</a>
       <!-- Logo UBU-->
       <a class="navbar-brand logo-ubu" href="https://www.ubu.es/">
         <img src="{{ url_for('static', filename='images/icono-ubu.png') }}" alt="Logo"

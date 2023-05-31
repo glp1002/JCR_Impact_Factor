@@ -32,11 +32,18 @@ class Modelo:
     """
     def __init__(self):
         try:
-            url_database = os.environ.get("DATABASE_URL")
-            self.conn = psycopg2.connect( 
-                url_database, 
-                sslmode='require'
-            )
+            # url_database = os.environ.get("DATABASE_URL")
+            # self.conn = psycopg2.connect( 
+            #     url_database, 
+            #     sslmode='require'
+            # )
+            self.conn = psycopg2.connect(
+                host="localhost",
+                port=5432,
+                user="postgres",
+                password="Hola=2910",
+                dbname="BBDD"
+            ) 
         except psycopg2.Error as e:
             raise Exception("Error al conectarse a la base de datos: " + str(e))
         
@@ -78,13 +85,13 @@ class Modelo:
         try:
             cur = self.conn.cursor()
 
-            query_last_jcr = """
+            query_jcr = """
                 SELECT jcr
                 FROM revista_jcr
                 WHERE nombre = %s
                 AND fecha = %s
             """
-            cur.execute(query_last_jcr, (nombre_revista, anio))
+            cur.execute(query_jcr, (nombre_revista, anio))
             jcr = cur.fetchone()[0]
 
             if jcr is None:
@@ -95,6 +102,29 @@ class Modelo:
 
         except psycopg2.Error as e:
             raise Exception("Error al obtener los jcr: " + str(e))
+        
+    # TODO
+    # def get_quartil(self, nombre_revista, anio):
+    #     try:
+    #         cur = self.conn.cursor()
+
+    #         query_quartil = """
+    #             SELECT quartil
+    #             FROM revista_jcr
+    #             WHERE nombre = %s
+    #             AND fecha = %s
+    #         """
+    #         cur.execute(query_quartil, (nombre_revista, anio))
+    #         quartil = cur.fetchone()[0]
+
+    #         if quartil is None:
+    #             quartil = "-"
+
+    #         cur.close()
+    #         return quartil
+
+    #     except psycopg2.Error as e:
+    #         raise Exception("Error al obtener los cuartiles: " + str(e))
         
     def get_year_range(self):
         try:

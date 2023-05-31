@@ -197,4 +197,11 @@ input[type="checkbox"]:checked {
     background-repeat: no-repeat;
   }
 
+  .text-adicional{
+    text-decoration: underline;
+  }
+  
+  .container-adicional{
+    color: #908f93;
+  }
 

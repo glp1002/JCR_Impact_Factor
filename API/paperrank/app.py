@@ -49,9 +49,6 @@ app.config['LANGUAGES'] = {
     'es': gettext('Español'),
     'fr': gettext('Francés')
 }
-# app.config['username'] = None
-# app.config['loggedin'] = False
-# app.config['id'] = None
 
 def get_locale():
     # Obtiene el idioma preferido del navegador, si no se toma el idioma por defecto de la aplicación
@@ -86,7 +83,6 @@ def handle_other(err):
 @app.route('/')
 def home():
     if 'username' in session:
-        # session['username'] = app.config['username']
         return redirect('/selection')
     else:
         return redirect('/login')
@@ -99,11 +95,8 @@ def login():
         user_id = controlador.authenticate_user(username, password)
         if user_id != None:
             session['loggedin'] = True
-            # app.config['loggedin'] = True
             session['id'] = user_id
-            #app.config['id'] = user_id
             session['username'] = username
-            #app.config['username'] = username
             return redirect('/selection')
         else:      
             error = gettext('Nombre de usuario o contraseña incorrectos')
@@ -127,9 +120,6 @@ def logout():
     session.pop('loggedin', None)
     session.pop('id', None)
     session.pop('username', None)
-    # app.config['username'] = None
-    # app.config['loggedin'] = False
-    # app.config['id'] = None
     return redirect('/')
     
 @app.route('/revistas', methods=['GET'])
@@ -152,6 +142,18 @@ def consultJSON(revista):
     jcrValues = list(jcrValues)
 
     return jsonify(jcrValues=jcrValues, years=years)
+
+# TODO
+# @app.route('/quartileJSON/<revista>', methods=['GET'])
+# def quartileJSON(revista):
+#     # Cálculo de la consulta
+#     consulta = controlador.get_consulta_quartil(revista)
+#     # Desempaquetar las tuplas en dos listas
+#     years, quartil_list = zip(*consulta)
+#     years = list(years)
+#     quartil_list = list(quartil_list)
+
+#     return jsonify(quartil_list=quartil_list, years=years)
 
 @app.route('/predictionJSON/<revista>/<modelos_deseados>', methods=['GET'])
 def predictionJSON(revista, modelos_deseados):
@@ -245,7 +247,22 @@ def get_revistas_por_categoria(categoria):
 @app.route('/profile', methods=['GET'])
 def get_profile():
     email = "todo"
-    return render_template('profile.html', username=session['USERNAME'], email=email)    
+    return render_template('profile.html', email=email, username="None" )#session['username']))    
+
+# Ayuda
+@app.route('/help', methods=['GET'])
+def get_help():
+    return render_template('help.html', username="None" )#session['username'])
+
+# Términos de uso
+@app.route('/terms_of_use', methods=['GET'])
+def get_terms_of_use():
+    return render_template('termsofuse.html', username="None" )#session['username']) 
+
+# Política de privacidad
+@app.route('/privacy_policy', methods=['GET'])
+def get_privacy_policy():
+    return render_template('privacypolicy.html', username="None" )#session['username']) 
 
 # Ruta para crear un nuevo usuario
 @app.route('/users', methods=['POST'])
