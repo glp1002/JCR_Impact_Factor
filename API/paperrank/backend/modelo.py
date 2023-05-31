@@ -32,18 +32,11 @@ class Modelo:
     """
     def __init__(self):
         try:
-            # url_database = os.environ.get("DATABASE_URL")
-            # self.conn = psycopg2.connect( 
-            #     url_database, 
-            #     sslmode='require'
-            # )
-            self.conn = psycopg2.connect(
-                host="localhost",
-                port=5432,
-                user="postgres",
-                password="Hola=2910",
-                dbname="BBDD"
-            ) 
+            url_database = os.environ.get("DATABASE_URL")
+            self.conn = psycopg2.connect( 
+                url_database, 
+                sslmode='require'
+            )
         except psycopg2.Error as e:
             raise Exception("Error al conectarse a la base de datos: " + str(e))
         
