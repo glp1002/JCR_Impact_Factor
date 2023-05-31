@@ -134,12 +134,12 @@ def logout():
 @app.route('/revistas', methods=['GET'])
 def get_journals():
     journal_list = controlador.get_journals_list()
-    return render_template('journals.html', journal_list=journal_list,  username=session['username'])
+    return render_template('journals.html', journal_list=journal_list,  username="None" )#session['username'])
 
 @app.route('/consult', methods=['GET'])
 def consult():
     revista = request.args.get('revista')
-    return render_template('consult.html', revista=revista,  username=session['username'])
+    return render_template('consult.html', revista=revista,  username="None" )#session['username'])
 
 @app.route('/consultJSON/<revista>', methods=['GET'])
 def consultJSON(revista):
@@ -209,7 +209,7 @@ def prediction():
     predictions2 = [round(numero[0],3) for numero in predictions2]
     predictions2 = list(zip(modelos_deseados, predictions2)) # [(modelo, valor), (moelo2, valor2)...]
     
-    return render_template('prediction.html', predictions=predictions, predictions2=predictions2,  username=session['username'])
+    return render_template('prediction.html', predictions=predictions, predictions2=predictions2, username="None" )#session['username'])
 
 @app.route('/selection', methods=['GET', 'POST'])   
 def formulario():
@@ -234,7 +234,7 @@ def formulario():
             controlador.insert_models()       
             modelos = controlador.get_model_names_and_errors()
         
-        return render_template('selection.html', categorias=categorias, revistas=revistas, modelos=modelos, username=session['username'])
+        return render_template('selection.html', categorias=categorias, revistas=revistas, modelos=modelos, username="None" )#session['username'])
     
 def get_revistas_por_categoria(categoria):
     revistas = controlador.get_revistas_por_categoria(categoria)
