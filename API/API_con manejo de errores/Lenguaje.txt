@@ -1,7 +1,0 @@
-LENGUAJE
-
-En cuanto a los lenguajes de programación, había pensado usar Python para programar el backend, ya que cuenta con una gran variedad de librerías
-y frameworks para trabajar con bases de datos y realizar cálculos estadísticos para el índice de impacto.
-
-Para el frontend, había pensado usar HTML, CSS y JavaScript (que tendría que repasar un poco). 
-Sin embargo, también se puede hacer en Python si pensáis que es major. Entonces habría he elegir un frameworks tipo Flask o Django para la interfaz web.
