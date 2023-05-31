@@ -37,6 +37,7 @@ class Modelo:
                 url_database, 
                 sslmode='require'
             )
+            
         except psycopg2.Error as e:
             raise Exception("Error al conectarse a la base de datos: " + str(e))
         
