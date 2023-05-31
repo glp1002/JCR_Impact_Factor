@@ -131,7 +131,16 @@ class Controlador:
         
     def initialize_database(self):
         try:
+            if not self.modelo.check_tables():
+                self.modelo.initialize_database()
+
+        except Exception as e:
+            return {"error": str(e)}
+        
+    def reinitialize_database(self):
+        try:
             self.modelo.initialize_database()
+
         except Exception as e:
             return {"error": str(e)}
         

@@ -28,6 +28,7 @@ modelo = Modelo()
 controlador = Controlador(modelo)
 # Inicializamos la base de datos
 controlador.initialize_database()
+# controlador.reinitialize_database() -> admin
 
 # Genera una clave secreta aleatoria de 32 bytes
 secret_key = secrets.token_hex(32)

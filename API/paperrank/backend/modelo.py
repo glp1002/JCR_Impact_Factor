@@ -37,7 +37,6 @@ class Modelo:
                 url_database, 
                 sslmode='require'
             )
-            
         except psycopg2.Error as e:
             raise Exception("Error al conectarse a la base de datos: " + str(e))
         
@@ -434,6 +433,27 @@ class Modelo:
             self.conn.commit()
             cur.close()
 
+        except psycopg2.Error as e:
+            cur.close()
+            raise Exception("Error eliminando las tablas: " + str(e))
+        
+    # Módulo para comprobar si existen las tablas
+    def check_tables(self):
+        try:
+            cur = self.conn.cursor()
+
+            # Eliminar tablas si ya existen
+            cur.execute("""
+                SELECT EXISTS (
+                SELECT 1
+                FROM pg_tables
+                WHERE tablename = 'users'
+                );
+            """)
+            resultado = cur.fetchone()[0]
+            cur.close()
+            return resultado
+    
         except psycopg2.Error as e:
             cur.close()
             raise Exception("Error eliminando las tablas: " + str(e))
