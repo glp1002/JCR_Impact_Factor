@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-05-22 09:32+0200\n"
+"POT-Creation-Date: 2023-05-31 23:13+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,7 +17,19 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.12.1\n"
 
-#: app.py:89
+#: app.py:48
+msgid "Inglés"
+msgstr ""
+
+#: app.py:49
+msgid "Español"
+msgstr ""
+
+#: app.py:50
+msgid "Francés"
+msgstr ""
+
+#: app.py:102
 msgid "Nombre de usuario o contraseña incorrectos"
 msgstr ""
 
@@ -25,28 +37,24 @@ msgstr ""
 msgid "Ayuda"
 msgstr ""
 
-#: templates/base.html:64
-msgid "Usuario"
-msgstr ""
-
-#: templates/base.html:76
+#: templates/base.html:75
 msgid "Editar perfil"
 msgstr ""
 
-#: templates/base.html:77
+#: templates/base.html:76
 msgid "Cerrar sesión"
 msgstr ""
 
-#: templates/base.html:96
+#: templates/base.html:95
 msgid "Política de privacidad"
 msgstr ""
 
-#: templates/base.html:97
+#: templates/base.html:96
 msgid "Términos de uso"
 msgstr ""
 
 #: templates/consult.html:10 templates/journals.html:7
-#: templates/prediction.html:10 templates/profile.html:7
+#: templates/prediction.html:10 templates/profile.html:10
 #: templates/selection.html:7
 msgid "Selección"
 msgstr ""
@@ -75,7 +83,7 @@ msgid ""
 "            Por favor, intenta nuevamente más tarde."
 msgstr ""
 
-#: templates/journals.html:8 templates/profile.html:8
+#: templates/journals.html:8 templates/profile.html:11
 msgid "Revistas"
 msgstr ""
 
@@ -107,8 +115,16 @@ msgstr ""
 msgid "JCR "
 msgstr ""
 
-#: templates/journals.html:45
-msgid "Información adicional"
+#: templates/journals.html:46
+msgid "INFORMACIÓN ADICIONAL DE LA REVISTA"
+msgstr ""
+
+#: templates/journals.html:48
+msgid "JCR de los últimos 5 años:"
+msgstr ""
+
+#: templates/journals.html:52
+msgid "Cuartil al que ha pertenecido en los últimos 5 años:"
 msgstr ""
 
 #: templates/login.html:7
@@ -154,7 +170,7 @@ msgid ""
 "                    %(prediction)s"
 msgstr ""
 
-#: templates/profile.html:11
+#: templates/profile.html:15
 msgid "ÁREA DE USUARIO"
 msgstr ""
 

@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-05-22 09:32+0200\n"
-"PO-Revision-Date: 2023-05-22 09:33+0200\n"
+"POT-Creation-Date: 2023-05-31 23:13+0200\n"
+"PO-Revision-Date: 2023-05-31 23:14+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: fr\n"
 "Language-Team: fr <LL@li.org>\n"
@@ -18,7 +18,19 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.12.1\n"
 
-#: app.py:89
+#: app.py:48
+msgid "Inglés"
+msgstr "Anglais"
+
+#: app.py:49
+msgid "Español"
+msgstr "Espagnol"
+
+#: app.py:50
+msgid "Francés"
+msgstr "Français"
+
+#: app.py:102
 msgid "Nombre de usuario o contraseña incorrectos"
 msgstr "Nom d'utilisateur ou mot de passe incorrect"
 
@@ -26,28 +38,24 @@ msgstr "Nom d'utilisateur ou mot de passe incorrect"
 msgid "Ayuda"
 msgstr "Aide"
 
-#: templates/base.html:64
-msgid "Usuario"
-msgstr "Utilisateur"
-
-#: templates/base.html:76
+#: templates/base.html:75
 msgid "Editar perfil"
 msgstr "Modifier le profil"
 
-#: templates/base.html:77
+#: templates/base.html:76
 msgid "Cerrar sesión"
-msgstr "Se déconnecter"
+msgstr "Déconnexion"
 
-#: templates/base.html:96
+#: templates/base.html:95
 msgid "Política de privacidad"
 msgstr "Politique de confidentialité"
 
-#: templates/base.html:97
+#: templates/base.html:96
 msgid "Términos de uso"
 msgstr "Conditions d'utilisation"
 
 #: templates/consult.html:10 templates/journals.html:7
-#: templates/prediction.html:10 templates/profile.html:7
+#: templates/prediction.html:10 templates/profile.html:10
 #: templates/selection.html:7
 msgid "Selección"
 msgstr "Sélection"
@@ -66,7 +74,7 @@ msgstr "Désolé, la page que vous recherchez est introuvable."
 
 #: templates/error404.html:27 templates/error500.html:29
 msgid "Volver a la página de inicio"
-msgstr "Retourner à la page d'accueil"
+msgstr "Retour à la page d'accueil"
 
 #: templates/error500.html:26
 msgid ""
@@ -75,12 +83,12 @@ msgid ""
 "posible. </br>\n"
 "            Por favor, intenta nuevamente más tarde."
 msgstr ""
-"Désolé, une erreur interne du serveur s'est produite. </br>\n"
+"Désolé, une erreur interne s'est produite sur le serveur. </br>\n"
 "            Notre équipe travaille à sa résolution dans les plus brefs "
 "délais. </br>\n"
-"            Veuillez réessayer plus tard."
+"            Veuillez réessayer ultérieurement."
 
-#: templates/journals.html:8 templates/profile.html:8
+#: templates/journals.html:8 templates/profile.html:11
 msgid "Revistas"
 msgstr "Revues"
 
@@ -110,11 +118,19 @@ msgstr "Catégorie"
 
 #: templates/journals.html:26
 msgid "JCR "
-msgstr "JCR "
+msgstr "JCR"
 
-#: templates/journals.html:45
-msgid "Información adicional"
-msgstr "Informations supplémentaires"
+#: templates/journals.html:46
+msgid "INFORMACIÓN ADICIONAL DE LA REVISTA"
+msgstr "INFORMATIONS ADDITIONNELLES SUR LA REVUE"
+
+#: templates/journals.html:48
+msgid "JCR de los últimos 5 años:"
+msgstr "JCR des 5 dernières années :"
+
+#: templates/journals.html:52
+msgid "Cuartil al que ha pertenecido en los últimos 5 años:"
+msgstr "Quartile auquel elle a appartenu au cours des 5 dernières années :"
 
 #: templates/login.html:7
 msgid "Login"
@@ -134,11 +150,11 @@ msgstr "Mot de passe"
 
 #: templates/login.html:59
 msgid "¿Ha olvidado tu contraseña?"
-msgstr "Vous avez oublié votre mot de passe?"
+msgstr "Vous avez oublié votre mot de passe? "
 
 #: templates/login.html:63
 msgid "¿Eres nuevo usuario?"
-msgstr "Nouvel utilisateur? "
+msgstr "Nouvel utilisateur?"
 
 #: templates/login.html:63
 msgid "Regístrate aquí."
@@ -161,9 +177,9 @@ msgstr ""
 "L'indice d'impact de la revue est :\n"
 "                    %(prediction)s"
 
-#: templates/profile.html:11
+#: templates/profile.html:15
 msgid "ÁREA DE USUARIO"
-msgstr "ESPACE UTILISATEUR"
+msgstr "ZONE UTILISATEUR"
 
 #: templates/selection.html:15
 msgid "SELECCIÓN DE REVISTAS"
@@ -191,11 +207,11 @@ msgstr "Sélectionnez une revue et sa catégorie"
 
 #: templates/selection.html:68
 msgid "Consultar"
-msgstr "Consultation"
+msgstr "Consulter"
 
 #: templates/selection.html:72
 msgid "Rellene todos los campos"
-msgstr "Veuillez remplir tous les champs"
+msgstr "Remplissez tous les champs"
 
 #: templates/selection.html:73
 msgid "Predecir"
