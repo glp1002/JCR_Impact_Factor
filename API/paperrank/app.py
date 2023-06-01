@@ -328,9 +328,11 @@ def delete_user(user_id):
     return jsonify(done)
 
 
+
 with app.app_context():
     controlador = refresh()
     controlador.initialize_database()
 
-    # Ejecución dentro del contexto de la aplicación
+if __name__ == '__main__':
     app.run()
+
