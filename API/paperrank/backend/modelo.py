@@ -30,13 +30,9 @@ class Modelo:
     Para configurar la conexión a la base de datos se proporcionarán los detalles de la conexión
     (nombre de usuario, contraseña, nombre de la base de datos, etc...) mediante la biblioteca psycopg2.
     """
-    def __init__(self):
+    def __init__(self, db):
         try:
-            url_database = os.environ.get("DATABASE_URL")
-            self.conn = psycopg2.connect( 
-                url_database, 
-                sslmode='require'
-            )
+            self.conn = db
         except psycopg2.Error as e:
             raise Exception("Error al conectarse a la base de datos: " + str(e))
         
@@ -182,6 +178,16 @@ class Modelo:
                 return user
             else:
                 return None
+        except psycopg2.Error as e:
+            raise Exception("Error al obtener los datos del usuario: " + str(e))
+        
+    def get_email(self, username):
+        try:
+            cur = self.conn.cursor()
+            cur.execute("SELECT email FROM users WHERE username = %s", (username,))
+            email = cur.fetchone()[0]
+            cur.close()
+            return email
         except psycopg2.Error as e:
             raise Exception("Error al obtener los datos del usuario: " + str(e))
         

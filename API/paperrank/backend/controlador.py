@@ -6,12 +6,12 @@ y devolverlos al usuario.
 """
 import datetime
 
-
 class Controlador:
     
     def __init__(self, modelo):
         self.modelo = modelo
-
+    
+    
     def obtener_indice_impacto(self, revista):
         try:
             indice = round(self.modelo.obtener_indice_impacto(revista),4)
@@ -213,3 +213,11 @@ class Controlador:
             return predicciones
         except Exception as e:
             return {"error": str(e)}
+        
+    def get_email(self, username):
+        try:
+            email = self.modelo.get_email(username)
+            return email
+        except Exception as e:
+            return {"error": str(e)}
+

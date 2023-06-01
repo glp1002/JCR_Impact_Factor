@@ -7,32 +7,46 @@ Flask que crea una instancia de la clase Modelo, llama al método correspondient
 formato JSON.
 """
 import json
+import os
 import secrets
+from functools import wraps
 
-from flask import (Flask, jsonify, make_response, redirect, render_template,
-                   request, session)
-from flask_babel import Babel, dates, gettext, numbers
-from flask_login import LoginManager
+import psycopg2
+from flask import (Flask, g, jsonify, redirect, render_template, request,
+                   session)
+from flask_babel import Babel, gettext
 
 from .backend.controlador import Controlador
 from .backend.modelo import Modelo
 
+# from flask_login import LoginManager
+
 #from flask_wtf import CSRFProtect
 #from flask_cors import CORS # TODO
+# CSRFProtect(app)
 
 # Creación de la aplicación
 app = Flask(__name__)
 
-# Crear una única instancia de Modelo al inicio de la aplicación
-modelo = Modelo()
-controlador = Controlador(modelo)
-# Inicializamos la base de datos
-controlador.initialize_database()
-# controlador.reinitialize_database() -> admin
-
 # Genera una clave secreta aleatoria de 32 bytes
 secret_key = secrets.token_hex(32)
 app.secret_key = secret_key
+
+url_database = os.environ.get("DATABASE_URL")
+def get_db():
+    if 'db' not in g:
+        g.db = psycopg2.connect( 
+    url_database, 
+    sslmode='require'
+    )
+    return g.db
+
+def refresh():
+    modelo = Modelo(get_db())
+    controlador = Controlador(modelo)
+    return controlador
+
+# controlador.reinitialize_database() -> TODO: admin
 
 # app.config['SESSION_COOKIE_SECURE'] = True -> TODO: https
 # app.config['REMEMBER_COOKIE_SECURE'] = True
@@ -42,16 +56,17 @@ app.secret_key = secret_key
 #     resp.headers['Content-Security-Policy'] = "default-src 'self'; img-src 'self' data: ;"
 #     return resp
 
-# Internacionalización con Babel
+# Variables globales de internacionalización con Babel
 app.config['BABEL_DEFAULT_LOCALE'] = 'en'
 app.config['LANGUAGES'] = {
     'en': gettext('Inglés'),
     'es': gettext('Español'),
-    'fr': gettext('Francés')
+    'fr': gettext('Francés'),
+    'it': gettext('Italiano')
 }
 
+# Obtiene el idioma preferido del navegador, si no se toma el idioma por defecto de la aplicación
 def get_locale():
-    # Obtiene el idioma preferido del navegador, si no se toma el idioma por defecto de la aplicación
     lang = session.get('LANGUAGES', None)
     if lang == None:
         browser_locale = request.accept_languages.best_match(app.config['LANGUAGES'].keys())
@@ -63,7 +78,6 @@ def get_locale():
         return app.config['BABEL_DEFAULT_LOCALE']
 
 Babel(app, locale_selector=get_locale)
-# CSRFProtect(app)
 
 @app.before_request
 def before_request():
@@ -124,16 +138,19 @@ def logout():
     
 @app.route('/revistas', methods=['GET'])
 def get_journals():
+    controlador = refresh()
     journal_list = controlador.get_journals_list()
-    return render_template('journals.html', journal_list=journal_list,  username="None" )#session['username'])
+    return render_template('journals.html', journal_list=journal_list, username=session.get('username'))
 
 @app.route('/consult', methods=['GET'])
 def consult():
+    controlador = refresh()
     revista = request.args.get('revista')
-    return render_template('consult.html', revista=revista,  username="None" )#session['username'])
+    return render_template('consult.html', revista=revista, username=session.get('username'))
 
 @app.route('/consultJSON/<revista>', methods=['GET'])
 def consultJSON(revista):
+    controlador = refresh()
     # Cálculo de la consulta
     consulta = controlador.get_consulta_jcr(revista)
     # Desempaquetar las tuplas en dos listas
@@ -143,8 +160,8 @@ def consultJSON(revista):
 
     return jsonify(jcrValues=jcrValues, years=years)
 
-# TODO
 # @app.route('/quartileJSON/<revista>', methods=['GET'])
+#  
 # def quartileJSON(revista):
 #     # Cálculo de la consulta
 #     consulta = controlador.get_consulta_quartil(revista)
@@ -157,6 +174,7 @@ def consultJSON(revista):
 
 @app.route('/predictionJSON/<revista>/<modelos_deseados>', methods=['GET'])
 def predictionJSON(revista, modelos_deseados):
+    controlador = refresh()
     # Cálculo de predicciones
     modelos_deseados = modelos_deseados.split(',')
     modelos = controlador.get_model_binaries(modelos_deseados)
@@ -189,6 +207,8 @@ def predictionJSON(revista, modelos_deseados):
 
 @app.route('/prediction', methods=['GET'])
 def prediction():
+    controlador = refresh()
+
     modelos_deseados = request.args.getlist('modelos')
     modelos_deseados = modelos_deseados[0].split(',')
     revista = request.args.get('revista')
@@ -212,10 +232,12 @@ def prediction():
     predictions2 = [round(numero[0],3) for numero in predictions2]
     predictions2 = list(zip(modelos_deseados, predictions2)) # [(modelo, valor), (moelo2, valor2)...]
     
-    return render_template('prediction.html', predictions=predictions, predictions2=predictions2, username="None" )#session['username'])
+    return render_template('prediction.html', predictions=predictions, predictions2=predictions2, username=session.get('username'))
 
 @app.route('/selection', methods=['GET', 'POST'])   
 def formulario():
+    controlador = refresh()
+
     if request.method == 'POST':
         action = request.form.get('action')
         revista = request.form.get('revista')
@@ -237,36 +259,40 @@ def formulario():
             controlador.insert_models()       
             modelos = controlador.get_model_names_and_errors()
         
-        return render_template('selection.html', categorias=categorias, revistas=revistas, modelos=modelos, username="None" )#session['username'])
+        return render_template('selection.html', categorias=categorias, revistas=revistas, modelos=modelos, username=session.get('username'))
     
 def get_revistas_por_categoria(categoria):
+    controlador = refresh()
     revistas = controlador.get_revistas_por_categoria(categoria)
     return jsonify(revistas=revistas)
 
 # Perfil de usuario
 @app.route('/profile', methods=['GET'])
 def get_profile():
-    email = "todo"
-    return render_template('profile.html', email=email, username="None" )#session['username']))    
+    controlador = refresh()
+    username = session.get('username')
+    email = controlador.get_email(username)
+    return render_template('profile.html', email=email, username=username)
 
 # Ayuda
 @app.route('/help', methods=['GET'])
 def get_help():
-    return render_template('help.html', username="None" )#session['username'])
+    return render_template('help.html', username=session.get('username'))
 
 # Términos de uso
 @app.route('/terms_of_use', methods=['GET'])
 def get_terms_of_use():
-    return render_template('termsofuse.html', username="None" )#session['username']) 
+    return render_template('termsofuse.html', username=session.get('username'))
 
 # Política de privacidad
 @app.route('/privacy_policy', methods=['GET'])
 def get_privacy_policy():
-    return render_template('privacypolicy.html', username="None" )#session['username']) 
+    return render_template('privacypolicy.html', username=session.get('username'))
 
 # Ruta para crear un nuevo usuario
 @app.route('/users', methods=['POST'])
 def create_user():
+    controlador = refresh()
     username = request.json['username']
     password = request.json['password']
     email = request.json['email']
@@ -278,6 +304,7 @@ def create_user():
 # Ruta para obtener la lista de usuarios por rol
 @app.route('/users/<role>', methods=['GET'])
 def get_users_by_role(role):
+    controlador = refresh()
     admin = True if role.lower() == 'admin' else False
     users = controlador.get_users_by_role(admin)
     return jsonify(users)
@@ -285,6 +312,7 @@ def get_users_by_role(role):
 # Ruta para actualizar la información de un usuario
 @app.route('/users/<user_id>', methods=['PUT'])
 def update_user(user_id):
+    controlador = refresh()
     new_username = request.json['username']
     new_password = request.json['password']
     new_email = request.json['email']
@@ -295,8 +323,14 @@ def update_user(user_id):
 # Ruta para eliminar un usuario
 @app.route('/users/<user_id>', methods=['DELETE'])
 def delete_user(user_id):
+    controlador = refresh()
     done = controlador.delete_user(user_id)
     return jsonify(done)
 
-if __name__ == '__main__':
+
+with app.app_context():
+    controlador = refresh()
+    controlador.initialize_database()
+
+    # Ejecución dentro del contexto de la aplicación
     app.run()
