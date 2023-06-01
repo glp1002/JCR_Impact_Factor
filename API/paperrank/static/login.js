@@ -1,6 +1,6 @@
 // Show password
 document.addEventListener('DOMContentLoaded', function () {
-    const passwordInput = document.getElementById('password');
+    const passwordInput = document.getElementById('new-password');
     const showPasswordButton = document.getElementById('show-password');
 
     showPasswordButton.addEventListener('click', function () {

@@ -45,9 +45,11 @@
 
         <div class="form-group">
           <label for="password" >{% trans %}Contraseña{% endtrans %}</label>
-          <input type="password" class="form-control" id="password" name="password" required>
-          <img id="show-password" class="password-icon" style="display:inline-block"
-            src="{{ url_for('static', filename='images/ojotachado.png') }}" alt="Mostrar contraseña">
+          <div class="password-container">
+            <input type="password" id="new-password" name="new-password" required>
+            <img id="show-password" class="password-icon" style="display:inline-block"
+                      src="{{ url_for('static', filename='images/ojotachado.png') }}" alt="Mostrar contraseña">
+          </div>
         </div>
 
         <button type="submit" id="login-button" class="btn" >{% trans %}Iniciar sesión{% endtrans %}</button>
@@ -55,12 +57,12 @@
         <p style="color: red;">{{ error }}</p>
         {% endif %}
 
-        <div class="form-group enlace">
-          <a href="recuperar-contrasena.html" >{% trans %}¿Ha olvidado tu contraseña?{% endtrans %}</a>
+        <div class="form-group enlace text-center">
+          <a href="/recover" >{% trans %}¿Ha olvidado tu contraseña?{% endtrans %}</a>
         </div>
 
         <div class="register-link enlace">
-          <p >{% trans %}¿Eres nuevo usuario?{% endtrans %}<a href="registrar.html" id="register-link">{% trans %}Regístrate aquí.{% endtrans %}</a></p>
+          <p >{% trans %}¿Eres nuevo usuario? {% endtrans %}<a href="/register" id="register-link">{% trans %}Regístrate aquí{% endtrans %}</a></p>
         </div>
       </form>
 

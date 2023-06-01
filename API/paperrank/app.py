@@ -41,6 +41,7 @@ def get_db():
         )
     return g.db
 
+
 def refresh():
     modelo = Modelo(get_db())
     controlador = Controlador(modelo)
@@ -103,9 +104,10 @@ def home():
 
 @app.route('/login', methods=['GET', 'POST'])
 def login():
+    controlador = refresh()
     if request.method == 'POST':
         username = request.form['username']
-        password = request.form['password']
+        password = request.form['new-password']
         user_id = controlador.authenticate_user(username, password)
         if user_id != None:
             session['loggedin'] = True
@@ -121,10 +123,12 @@ def login():
 
 @app.route('/register', methods=['GET', 'POST'])
 def register():
+    controlador = refresh()
     if request.method == 'POST':
-        username = request.form['username']
-        password = request.form['password']
-        controlador.create_user(username, password)
+        username = request.form['new-username']
+        password = request.form['new-password']
+        email = request.form['new-email']
+        controlador.create_user(username, password, email)
         return redirect('/login')
     else:
         return render_template('register.html')
@@ -161,8 +165,8 @@ def consultJSON(revista):
     return jsonify(jcrValues=jcrValues, years=years)
 
 # @app.route('/quartileJSON/<revista>', methods=['GET'])
-#  
 # def quartileJSON(revista):
+#     controlador = refresh()
 #     # Cálculo de la consulta
 #     consulta = controlador.get_consulta_quartil(revista)
 #     # Desempaquetar las tuplas en dos listas
@@ -328,11 +332,8 @@ def delete_user(user_id):
     return jsonify(done)
 
 
-
-with app.app_context():
+if __name__ == '__main__':
     controlador = refresh()
     controlador.initialize_database()
-
-if __name__ == '__main__':
     app.run()
 

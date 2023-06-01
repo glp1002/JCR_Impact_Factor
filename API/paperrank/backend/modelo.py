@@ -142,7 +142,7 @@ class Modelo:
     def create_user(self, username, password, email, admin=False):
         try:
             cur = self.conn.cursor()
-            cur.execute("INSERT INTO users (username, password, email, admin) VALUES (%s, %s, %s)",
+            cur.execute("INSERT INTO users (username, password, email, admin) VALUES (%s, %s, %s, %s)",
                         (username, password, email, admin))
             self.conn.commit()
             cur.close()
@@ -370,7 +370,7 @@ class Modelo:
                 CREATE TABLE users (
                     username VARCHAR(255),
                     password VARCHAR(255),
-                    email VARCHAR(255),
+                    email VARCHAR(255) PRIMARY KEY,
                     admin BOOLEAN
                 );
                 
