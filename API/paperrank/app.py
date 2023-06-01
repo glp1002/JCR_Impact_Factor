@@ -333,4 +333,4 @@ with app.app_context():
     controlador.initialize_database()
 
     # Ejecución dentro del contexto de la aplicación
-    app.run(port=0)
+    app.run()
