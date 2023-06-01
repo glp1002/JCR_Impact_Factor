@@ -36,9 +36,9 @@ url_database = os.environ.get("DATABASE_URL")
 def get_db():
     if 'db' not in g:
         g.db = psycopg2.connect( 
-    url_database, 
-    sslmode='require'
-    )
+            url_database, 
+            sslmode='require'
+        )
     return g.db
 
 def refresh():
@@ -333,4 +333,4 @@ with app.app_context():
     controlador.initialize_database()
 
     # Ejecución dentro del contexto de la aplicación
-    app.run()
+    app.run(port=0)
