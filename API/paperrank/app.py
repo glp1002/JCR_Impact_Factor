@@ -108,10 +108,9 @@ def login():
     if request.method == 'POST':
         username = request.form['username']
         password = request.form['new-password']
-        user_id = controlador.authenticate_user(username, password)
-        if user_id != None:
+        user_exists = controlador.authenticate_user(username, password)
+        if user_exists == True:
             session['loggedin'] = True
-            session['id'] = user_id
             session['username'] = username
             return redirect('/selection')
         else:      
@@ -136,7 +135,6 @@ def register():
 @app.route('/logout')
 def logout():
     session.pop('loggedin', None)
-    session.pop('id', None)
     session.pop('username', None)
     return redirect('/')
     

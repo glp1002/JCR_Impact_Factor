@@ -52,10 +52,12 @@
           </div>
         </div>
 
-        <button type="submit" id="login-button" class="btn" >{% trans %}Iniciar sesión{% endtrans %}</button>
         {% if error %}
-        <p style="color: red;">{{ error }}</p>
+        <p style="color: rgb(183, 33, 33);">{{ error }}</p>
         {% endif %}
+
+        <button type="submit" id="login-button" class="btn" >{% trans %}Iniciar sesión{% endtrans %}</button>
+        
 
         <div class="form-group enlace text-center">
           <a href="/recover" >{% trans %}¿Ha olvidado tu contraseña?{% endtrans %}</a>

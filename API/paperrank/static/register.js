@@ -87,6 +87,7 @@ document.addEventListener('DOMContentLoaded', function () {
         } 
         else {
             errorContainer.innerText = ''; // Elimina el mensaje de error
+            var confirmacion = confirm("Su registro se ha realizado correctamente");
         }
     });
 });

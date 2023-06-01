@@ -89,8 +89,8 @@ class Controlador:
         
     def authenticate_user(self, username, password):
         try:
-            id_user = self.modelo.authenticate_user(username, password)
-            return id_user
+            done = self.modelo.authenticate_user(username, password)
+            return done
         except Exception as e:
             return {"error": str(e)}
 

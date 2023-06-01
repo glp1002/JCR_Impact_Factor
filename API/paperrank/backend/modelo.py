@@ -155,14 +155,15 @@ class Modelo:
     def authenticate_user(self, username, password):
         try:
             cur = self.conn.cursor()
-            cur.execute("SELECT id FROM users WHERE username = %s AND password = %s FETCH FIRST 1 ROW ONLY", (username, password))
-            user_id = cur.fetchone()[0]
+            cur.execute("SELECT * FROM users WHERE username = %s AND password = %s", (username, password))
+            user = cur.fetchone()[0]
             cur.close()
 
-            if user_id:
-                return user_id[0]
+            if user != None:
+                return True
             else:
-                return None
+                return False
+            
         except psycopg2.Error as e:
             raise Exception("Error al crear el nuevo usuario: " + str(e))
         
