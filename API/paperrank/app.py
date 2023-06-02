@@ -13,7 +13,7 @@ from functools import wraps
 
 import psycopg2
 from flask import (Flask, g, jsonify, redirect, render_template, request,
-                   session)
+                   session, url_for)
 from flask_babel import Babel, gettext
 
 from .backend.controlador import Controlador
@@ -40,6 +40,7 @@ def get_db():
             sslmode='require'
         )
     return g.db
+
 
 
 def refresh():
@@ -85,6 +86,14 @@ def before_request():
     if 'lang' in request.args:
         session['LANGUAGES'] = request.args.get('lang')
 
+# Decorador para verificar la autenticación del usuario
+def login_required(f):
+    @wraps(f)
+    def decorated_function(*args, **kwargs):
+        if 'username' not in session:
+            return redirect(url_for('login'))
+        return f(*args, **kwargs)
+    return decorated_function
 
 # Endpoints
 @app.errorhandler(404)
@@ -96,11 +105,9 @@ def handle_other(err):
     return render_template('error500.html')
 
 @app.route('/')
+@login_required
 def home():
-    if 'username' in session:
-        return redirect('/selection')
-    else:
-        return redirect('/login')
+    return redirect('/selection')
 
 @app.route('/login', methods=['GET', 'POST'])
 def login():
@@ -117,7 +124,6 @@ def login():
             error = gettext('Nombre de usuario o contraseña incorrectos')
             return render_template('login.html', error=error)
     else:
-        
         return render_template('login.html')
 
 @app.route('/register', methods=['GET', 'POST'])
@@ -139,18 +145,20 @@ def logout():
     return redirect('/')
     
 @app.route('/revistas', methods=['GET'])
+@login_required
 def get_journals():
     controlador = refresh()
     journal_list = controlador.get_journals_list()
     return render_template('journals.html', journal_list=journal_list, username=session.get('username'))
 
 @app.route('/consult', methods=['GET'])
+@login_required
 def consult():
-    controlador = refresh()
     revista = request.args.get('revista')
     return render_template('consult.html', revista=revista, username=session.get('username'))
 
 @app.route('/consultJSON/<revista>', methods=['GET'])
+@login_required
 def consultJSON(revista):
     controlador = refresh()
     # Cálculo de la consulta
@@ -163,6 +171,7 @@ def consultJSON(revista):
     return jsonify(jcrValues=jcrValues, years=years)
 
 # @app.route('/quartileJSON/<revista>', methods=['GET'])
+# @login_required
 # def quartileJSON(revista):
 #     controlador = refresh()
 #     # Cálculo de la consulta
@@ -175,6 +184,7 @@ def consultJSON(revista):
 #     return jsonify(quartil_list=quartil_list, years=years)
 
 @app.route('/predictionJSON/<revista>/<modelos_deseados>', methods=['GET'])
+@login_required
 def predictionJSON(revista, modelos_deseados):
     controlador = refresh()
     # Cálculo de predicciones
@@ -208,6 +218,7 @@ def predictionJSON(revista, modelos_deseados):
     return jsonify(jcrValues=jcrValues, predictions=lista_combinada, years=years)
 
 @app.route('/prediction', methods=['GET'])
+@login_required
 def prediction():
     controlador = refresh()
 
@@ -237,6 +248,7 @@ def prediction():
     return render_template('prediction.html', predictions=predictions, predictions2=predictions2, username=session.get('username'))
 
 @app.route('/selection', methods=['GET', 'POST'])   
+@login_required
 def formulario():
     controlador = refresh()
 
@@ -262,32 +274,52 @@ def formulario():
             modelos = controlador.get_model_names_and_errors()
         
         return render_template('selection.html', categorias=categorias, revistas=revistas, modelos=modelos, username=session.get('username'))
-    
+
+@login_required
 def get_revistas_por_categoria(categoria):
     controlador = refresh()
     revistas = controlador.get_revistas_por_categoria(categoria)
     return jsonify(revistas=revistas)
 
 # Perfil de usuario
-@app.route('/profile', methods=['GET'])
+@app.route('/profile', methods=['GET','POST'])
+@login_required
 def get_profile():
     controlador = refresh()
     username = session.get('username')
     email = controlador.get_email(username)
-    return render_template('profile.html', email=email, username=username)
+    if request.method == 'GET':
+        return render_template('profile.html', email=email, username=username)
+    else:
+        new_username = request.form.get('nombre')
+        # new_password = request.json['password'] TODO
+        new_email = request.form.get('correo')
+        done = controlador.update_user(new_username, new_email, email)
+        if done == True:
+            return render_template('profile.html', email=new_email, username=new_username)
+        else:
+            return render_template('profile.html', email=email, username=username)
+
+# Recuperar contraseña
+@app.route('/recover', methods=['GET'])
+def recover_password():
+    return render_template('recover.html')
 
 # Ayuda
 @app.route('/help', methods=['GET'])
+@login_required
 def get_help():
     return render_template('help.html', username=session.get('username'))
 
 # Términos de uso
 @app.route('/terms_of_use', methods=['GET'])
+@login_required
 def get_terms_of_use():
     return render_template('termsofuse.html', username=session.get('username'))
 
 # Política de privacidad
 @app.route('/privacy_policy', methods=['GET'])
+@login_required
 def get_privacy_policy():
     return render_template('privacypolicy.html', username=session.get('username'))
 
@@ -310,17 +342,6 @@ def get_users_by_role(role):
     admin = True if role.lower() == 'admin' else False
     users = controlador.get_users_by_role(admin)
     return jsonify(users)
-
-# Ruta para actualizar la información de un usuario
-@app.route('/users/<user_id>', methods=['PUT'])
-def update_user(user_id):
-    controlador = refresh()
-    new_username = request.json['username']
-    new_password = request.json['password']
-    new_email = request.json['email']
-    new_admin = request.json['admin']
-    done = controlador.update_user(user_id, new_username, new_password, new_email, new_admin)
-    return jsonify(done)
 
 # Ruta para eliminar un usuario
 @app.route('/users/<user_id>', methods=['DELETE'])

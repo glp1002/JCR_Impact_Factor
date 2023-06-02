@@ -1,8 +1,9 @@
 /* Google Fonts: Ubunto Mono */
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap');
-*{
-    font-family: 'Ubuntu Mono', monospace;
-    font-weight: 400;
+
+* {
+  font-family: 'Ubuntu Mono', monospace;
+  font-weight: 400;
 }
 
 html {
@@ -20,49 +21,53 @@ html {
   z-index: 999 !important;
 }
 
-.enlace a, a:link{
-    color:white !important;
+.enlace a,
+a:link {
+  color: white !important;
 }
 
-.enlace a:hover, a:focus{
-    color: #7453c3 !important;
-}
-
-.enlace-bc a, a:hover, a:focus, a:active{
+.enlace a:hover,
+a:focus {
   color: #7453c3 !important;
 }
 
-.logo img{
-    height: 30px;
+.enlace-bc a,
+a:hover,
+a:focus,
+a:active {
+  color: #7453c3 !important;
 }
 
-.logo-ubu img{
+.logo img {
+  height: 30px;
+}
+
+.logo-ubu img {
   margin-left: 15px;
   margin-bottom: 5px;
   height: 35px;
   width: 80px;
 }
 
-.icono-buscar{  
+.icono-buscar {
   height: 40px;
   margin-bottom: 10px;
 }
 
-.imgperf{
-    margin-left: 2%;
-    border-radius:30%;
-    cursor: pointer;  
-    transition: 0.3s; 
+.imgperf {
+  margin-left: 2%;
+  border-radius: 30%;
+  cursor: pointer;
+  transition: 0.3s;
 }
 
-.foot{
-    justify-content: center;
+.foot {
+  justify-content: center;
 }
 
 .btn-enviar {
   width: 40%;
   height: 40%;
-  background-color: white;
   border: none !important;
   border-radius: 10px !important;
   background-color: #333 !important;
@@ -70,138 +75,157 @@ html {
   cursor: pointer !important;
 }
 
-.btn-pag{
+.btn-pag {
   text-decoration: none !important;
   color: black;
   font-size: xx-large;
   cursor: pointer;
 }
-  
+
 .btn-enviar:hover {
   background-color: #7453c3 !important;
   color: #fff !important;
-} 
+}
 
 input[type="checkbox"]:checked {
   background-color: #7453c3 !important;
-  color: white !important; 
+  color: white !important;
 }
 
 /* The Modal (background) */
 .modal {
-    display: none; /* Hidden by default */
-    position: fixed; /* Stay in place */
-    z-index: 1; /* Sit on top */
-    padding-top: 100px; /* Location of the box */
-    left: 0;
-    top: 0;
-    width: 100%; /* Full width */
-    height: 100%; /* Full height */
-    overflow: auto; /* Enable scroll if needed */
-    background-color: rgb(0,0,0); /* Fallback color */
-    background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+  display: none;
+  /* Hidden by default */
+  position: fixed;
+  /* Stay in place */
+  z-index: 1;
+  /* Sit on top */
+  padding-top: 100px;
+  /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%;
+  /* Full width */
+  height: 100%;
+  /* Full height */
+  overflow: auto;
+  /* Enable scroll if needed */
+  background-color: rgb(0, 0, 0);
+  /* Fallback color */
+  background-color: rgba(0, 0, 0, 0.9);
+  /* Black w/ opacity */
+}
+
+/* Modal Content (image) */
+.modal-content {
+  margin: auto;
+  display: block;
+  width: 80%;
+  max-width: 700px;
+}
+
+/* Caption of Modal Image */
+#caption {
+  margin: auto;
+  display: block;
+  width: 80%;
+  max-width: 700px;
+  text-align: center;
+  color: #ccc;
+  padding: 10px 0;
+  height: 150px;
+}
+
+/* Add Animation */
+.modal-content,
+#caption {
+  -webkit-animation-name: zoom;
+  -webkit-animation-duration: 0.6s;
+  animation-name: zoom;
+  animation-duration: 0.6s;
+}
+
+@-webkit-keyframes zoom {
+  from {
+    -webkit-transform: scale(0)
   }
-  
-  /* Modal Content (image) */
+
+  to {
+    -webkit-transform: scale(1)
+  }
+}
+
+@keyframes zoom {
+  from {
+    transform: scale(0)
+  }
+
+  to {
+    transform: scale(1)
+  }
+}
+
+/* The Close Button */
+.close {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: #f1f1f1;
+  font-size: 40px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.close:hover,
+.close:focus {
+  color: #bbb;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/* 100% Image Width on Smaller Screens */
+@media only screen and (max-width: 700px) {
   .modal-content {
-    margin: auto;
-    display: block;
-    width: 80%;
-    max-width: 700px;
+    width: 100%;
   }
-  
-  /* Caption of Modal Image */
-  #caption {
-    margin: auto;
-    display: block;
-    width: 80%;
-    max-width: 700px;
-    text-align: center;
-    color: #ccc;
-    padding: 10px 0;
-    height: 150px;
-  }
-  
-  /* Add Animation */
-  .modal-content, #caption {  
-    -webkit-animation-name: zoom;
-    -webkit-animation-duration: 0.6s;
-    animation-name: zoom;
-    animation-duration: 0.6s;
-  }
-  
-  @-webkit-keyframes zoom {
-    from {-webkit-transform:scale(0)} 
-    to {-webkit-transform:scale(1)}
-  }
-  
-  @keyframes zoom {
-    from {transform:scale(0)} 
-    to {transform:scale(1)}
-  }
-  
-  /* The Close Button */
-  .close {
-    position: absolute;
-    top: 15px;
-    right: 35px;
-    color: #f1f1f1;
-    font-size: 40px;
-    font-weight: bold;
-    transition: 0.3s;
-  }
-  
-  .close:hover,
-  .close:focus {
-    color: #bbb;
-    text-decoration: none;
-    cursor: pointer;
-  }
-  
-  /* 100% Image Width on Smaller Screens */
-  @media only screen and (max-width: 700px){
-    .modal-content {
-      width: 100%;
-    }
-  }
+}
 
-  .centrar {
-    display: flex;
-    justify-content: center;
-  }
+.centrar {
+  display: flex;
+  justify-content: center;
+}
 
-  .desplegar{
-    color: #7453c3;
-    cursor: pointer;
-  }
+.desplegar {
+  color: #7453c3;
+  cursor: pointer;
+}
 
 
-  h1{
-    font-size: 30px !important;
-  }
+h1 {
+  font-size: 30px !important;
+}
 
-  .logo-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 5%;
-  }
-  
-  .logo-error {
-    max-width: 50%; 
-  }
+.logo-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5%;
+}
 
-  .body-error{
-    background-image: linear-gradient(to top, #000000, #bcbcbc); 
-    background-size: cover;
-    background-repeat: no-repeat;
-  }
+.logo-error {
+  max-width: 50%;
+}
 
-  .text-adicional{
-    text-decoration: underline;
-  }
-  
-  .container-adicional{
-    color: #908f93;
-  }
+.body-error {
+  background-image: linear-gradient(to top, #000000, #bcbcbc);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
 
+.text-adicional {
+  text-decoration: underline;
+}
+
+.container-adicional {
+  color: #908f93;
+}

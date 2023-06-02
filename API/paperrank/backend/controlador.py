@@ -115,9 +115,9 @@ class Controlador:
         except Exception as e:
             return {"error": str(e)}
         
-    def update_user(self, user_id, new_username, new_password, new_email, new_admin):
+    def update_user(self, new_username, new_email, old_email):
         try:
-            done = self.modelo.update_user(user_id, new_username, new_password, new_email, new_admin)
+            done = self.modelo.update_user( new_username, new_email, old_email)
             return done
         except Exception as e:
             return {"error": str(e)}

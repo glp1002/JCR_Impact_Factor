@@ -1,28 +1,71 @@
 body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 20px;
-  }
-  h1 {
-    margin-bottom: 20px;
-  }
-  .profile {
-    display: flex;
-  }
-  .profile-image {
-    flex: 0 0 150px;
-    margin-right: 20px;
-  }
-  .profile-image img {
-    width: 100%;
-    height: auto;
-  }
-  .profile-info {
-    flex: 1;
-  }
-  .profile-info h2 {
-    margin-top: 0;
-  }
-  .profile-info p {
-    margin-bottom: 10px;
-  }
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+.profile {
+  display: flex;
+}
+
+.profile-image {
+  flex: 0 0 170px;
+  margin-right: 20px;
+  position: relative;
+  display: inline-block;
+}
+
+.profile-picture {
+  width: 100%;
+  height: auto;
+  position: relative;
+}
+
+.small-image {
+  position: absolute;
+  top: -15px;
+  left: -10px;
+  width: 22%; 
+  height: 22%; 
+}
+
+
+.profile-info {
+  flex: 1;
+}
+
+.profile-info h2 {
+  margin-top: 0;
+}
+
+.profile-info p {
+  margin-bottom: 10px;
+}
+
+.text-edit-img {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+}
+
+.text-edit-img img {
+  width: 100%;
+  height: 100%;
+}
+
+.btn-save-changes{
+  border: none !important;
+  border-radius: 10px !important;
+  background-color: #333 !important;
+  color: #fff !important;
+  cursor: pointer !important;
+  /* bisque */
+}
+.btn-save-changes:hover{
+  background-color: #7453c3 !important;
+  color: #fff !important;
+}

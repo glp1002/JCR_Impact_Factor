@@ -28,13 +28,13 @@
     </thead>
     <tbody id="journal-table-body">
         {% for journal in journal_list %}
-        <tr>
+        <tr class="sorting-elem">
             <td class="accordion-toggle desplegar">{{ journal[0] }}</td>
             <td>{{ journal[1] }}</td>
             <td>{{ journal[2] }}</td>
 
             {% if journal[3][1] != 0.0 %}
-            <td style="text-align: center;">{{ journal[3][1] }}</td>
+            <td id="jcr-cell" style="text-align: center;">{{ journal[3][1] }}</td>
             {% else %}
             <td style="text-align: center;"> - </td>
             {% endif %}
@@ -76,6 +76,68 @@
     </div>
 </div>
 
+<!-- <button onclick="sortTable()">Ordenar</button>
+<script>
+    function sortTable() {
+        var table, rows, switching, i, x, y, shouldSwitch;
+        table = document.getElementById("journal-table");
+        switching = true;
+
+        // Establece la dirección inicial de clasificación como ascendente
+        var sortDirection = "asc";
+
+        // Mientras se esté realizando el cambio de elementos en la tabla
+        while (switching) {
+            switching = false;
+            rows = table.getElementsByClassName("sorting-elem");
+
+            // Recorre todas las filas, excepto la primera (encabezado)
+            for (i = 1; i < (rows.length - 1); i++) {
+                shouldSwitch = false;
+
+                // Obtiene el valor de las celdas actual y siguiente
+                x = rows[i].getElementsByTagName("td")[3];
+                y = rows[i + 1].getElementsByTagName("td")[3];
+
+                // Comprueba si se debe cambiar la posición de las filas
+                if (sortDirection === "asc") {
+                    if (x.innerHTML.toLowerCase() > y.innerHTML.toLowerCase()) {
+                        //if so, mark as a switch and break the loop:
+                        shouldSwitch = true;
+                        break;
+                    }
+                    // if (Number(x.innerHTML) > Number(y.innerHTML)) {
+                    //     shouldSwitch = true;
+                    //     break;
+                    // }
+                } else if (sortDirection === "desc") {
+                    if (x.innerHTML.toLowerCase() < y.innerHTML.toLowerCase()) {
+                        //if so, mark as a switch and break the loop:
+                        shouldSwitch = true;
+                        break;
+                    }
+                    // if (Number(x.innerHTML) < Number(y.innerHTML)) {
+                    //     shouldSwitch = true;
+                    //     break;
+                    // }
+                }
+            }
+            if (shouldSwitch) {
+                // Cambia la posición de las filas
+                rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
+                switching = true;
+
+                // Marca que se ha realizado un cambio
+                // Cambia la dirección de clasificación para la próxima iteración
+                if (sortDirection === "asc") {
+                    sortDirection = "desc";
+                } else if (sortDirection === "desc") {
+                    sortDirection = "asc";
+                }
+            }
+        }
+    }
+</script> -->
 
 <!-- JQuery js -->
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>

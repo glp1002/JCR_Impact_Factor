@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% block title %}Perfil de usuario{% endblock %}
+
+{% block content %}
+<div class="form-container">
+    <div class="form-header">
+        <h1>Recuperar contraseña</h1>
+    </div>
+    <div class="form-body">
+        <form id="forgot-password-form" onsubmit="return validateForm()">
+            <div class="form-group">
+                <label for="email">Correo electrónico</label>
+                <input type="email" id="email" name="email" required />
+            </div>
+            <div class="form-group2">
+                <button type="button" class="btn btn-back" onclick="window.history.back()">Volver atrás</button>
+                <button type="submit" class="btn">Enviar</button>
+            </div>
+        </form>
+    </div>
+</div>
+{% endblock %}

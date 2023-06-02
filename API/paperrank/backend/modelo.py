@@ -205,11 +205,11 @@ class Modelo:
         except psycopg2.Error as e:
             raise Exception("Error al obtener los usuarios por rol: " + str(e))
     
-    def update_user(self, user_id, new_username, new_password, new_email, new_admin):
+    def update_user(self, new_username, new_email, old_email):
         try:
             cur = self.conn.cursor()
-            cur.execute("UPDATE users SET username = %s, password = %s, email = %s, admin = %s WHERE id = %s",
-                        (new_username, new_password, new_email, new_admin, user_id))
+            cur.execute("UPDATE users SET username = %s, email = %s WHERE email = %s",
+                        (new_username, new_email, old_email))
             self.conn.commit()
             cur.close()
             return True
