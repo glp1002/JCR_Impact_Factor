@@ -42,7 +42,6 @@ def get_db():
     return g.db
 
 
-
 def refresh():
     modelo = Modelo(get_db())
     controlador = Controlador(modelo)
@@ -90,8 +89,8 @@ def before_request():
 def login_required(f):
     @wraps(f)
     def decorated_function(*args, **kwargs):
-        if 'username' not in session:
-            return redirect(url_for('login'))
+        # if 'username' not in session:
+        #     return redirect(url_for('login'))
         return f(*args, **kwargs)
     return decorated_function
 
