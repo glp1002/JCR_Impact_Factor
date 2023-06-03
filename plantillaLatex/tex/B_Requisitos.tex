@@ -2,10 +2,163 @@
 
 \section{Introducción}
 
-\section{Objetivos generales}
+Para llevar a cabo el proyecto adecuadamente, se realizará un análisis exhaustivo de los requisitos funcionales y no funcionales de la aplicación. En la sección de Objetivos generales (\ref{sec:Objetivos generales}) se establecerán los resultados esperados y los criterios de éxito del proyecto. Seguidamente, se presentará el catálogo de requisitos (sección \ref{sec:Catálogo de requisitos}), detallando las funcionalidades y características que la aplicación debe cumplir. Finalmente, se procederá a la especificación de requisitos (sección \ref{sec:Especificación de requisitos}), describiendo cada uno de los requisitos identificados en el catálogo y estableciendo su prioridad, complejidad y dependencias.
 
-\section{Catálogo de requisitos}
+A través de este informe, se pretende sentar las bases y establecer las directrices necesarias para el desarrollo exitoso de la aplicación web que proporcionará a los usuarios la información clave sobre el impacto de las revistas científicas, con el objetivo de facilitar la toma de decisiones informadas en el ámbito de la publicación académica.
+
+\section{Objetivos generales}
+\label{sec:Objetivos generales}
+
+Los objetivos generales de este proyecto son los siguientes:
+
+\begin{enumerate}
+    \item Realizar el proceso de extracción de datos relevantes para el cálculo del Índice de Impacto de las revistas científicas. Esta tarea constituye la parte más desafiante del proyecto, ya que implica llevar a cabo una investigación exhaustiva y realizar pruebas utilizando diversas técnicas de \textit{web scraping} y simulación con Selenium. Se requerirá desarrollar métodos eficientes para recopilar los datos necesarios que no estén fácilmente accesibles y estructurados.
+    
+    \item Implementar modelos de predicción utilizando técnicas de \textit{machine learning)}, en particular utilizando la biblioteca scikit-learn. Estos modelos permitirán predecir el Índice de Impacto de las revistas científicas con base en las características y métricas disponibles. Se explorarán diferentes algoritmos y técnicas para obtener predicciones precisas y confiables.
+    
+    \item Desarrollar una aplicación web utilizando el \textit{framework} Flask. Esta aplicación será la interfaz principal para que los usuarios puedan acceder y visualizar los resultados del proyecto. La aplicación web proporcionará una experiencia de usuario intuitiva y amigable, permitiendo la búsqueda y filtrado de revistas, así como la visualización de los índices de impacto calculados y las predicciones generadas por los modelos.
+\end{enumerate}
+
+El objetivo central del proyecto es proporcionar a los usuarios una herramienta integral que les permita evaluar y comparar el impacto de las revistas científicas de manera eficiente y precisa. Para lograr esto, se abordarán tres aspectos clave: la extracción de datos, los modelos de predicción y el desarrollo de la aplicación web. Cada uno de estos objetivos se complementa para lograr un sistema funcional y útil para la comunidad académica y científica.
+
+Es importante reiterar que el proceso de extracción de datos es considerado como la parte más desafiante del proyecto debido a la necesidad de investigar y probar diferentes técnicas de \textit{web scraping}. El éxito en esta etapa es fundamental para garantizar la disponibilidad de los datos necesarios para el cálculo del Índice de Impacto y para el entrenamiento de los modelos de predicción.
+
+
+\section{Catálogo de Historias de Usuario}
+\label{sec:Catálogo de requisitos}
+
+En este caso, dado que se ha elegido seguir una metodología ágil, se considera un catálogo de historias de usuario (usadas en ambos marcos, Scrum y Kanban). Para poder redactar una historia de usuario, hay tres elementos clave~\cite{Asana_2022}:
+\begin{itemize}
+    \item Perfil: El rol del usuario final.
+    \item Necesidad: El objetivo que tiene la función de \textit{software} para el usuario final.
+    \item Propósito: El objetivo de la experiencia del usuario final con la función de \textit{software}.
+\end{itemize}
+
+Habiendo identificado estos elementos, la historia de usuario se redactará siguiendo este formato: \textbf{<<Como [perfil], quiero [necesidad], para lograr [propósito]>>}.
+
+Se ha elaborado el catálogo de historias de usuario con el objetivo de cubrir todos los objetivos mencionados en el apartado anterior sin entrar en detalles (los requisitos más específicos con respecto a la aplicación web están definidos en la sección \ref{sec:Requisitos de aplicación}). Para visualizar mejor el catálogo, se han clasificado las historias de usuario en tres categorías: extracción de datos (Tabla \ref{tab:extracción_de_datos}), modelos de predicción  (Tabla \ref{tab:Modelos de predicción}) y aplicación web (Tabla \ref{tab:Aplicación web}).
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|p{3cm}|p{8cm}|}
+\hline
+\textbf{Historia de Usuario} & \textbf{Descripción} \\
+\hline
+HU1 & Como desarrollador, quiero obtener información relevante para el cálculo del Índice de Impacto (JCR) de las revistas científicas a partir de fuentes externas. \\
+\hline
+HU2 & Como desarrollador, quiero aplicar técnicas de \textit{web scraping} y simulación con Selenium para extraer los datos de manera eficiente y precisa. \\
+\hline
+HU3 & Como desarrollador, quiero procesar y almacenar los datos extraídos en una base de datos para su posterior uso en el cálculo del Índice de Impacto y en los modelos de predicción. \\
+\hline
+\end{tabular}
+\caption{HU Extracción de datos}
+\label{tab:extracción_de_datos}
+\end{table}
+\newpage
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|p{3cm}|p{8cm}|}
+\hline
+\textbf{Historia de Usuario} & \textbf{Descripción} \\
+\hline
+HU4 & Como desarrollador, quiero implementar modelos de predicción utilizando técnicas de \textit{machine learning} (scikit-learn) para predecir el Índice de Impacto de las revistas científicas. \\
+\hline
+HU5 & Como desarrollador, quiero evaluar y comparar diferentes algoritmos de \textit{machine learning} para seleccionar los modelos más adecuados. \\
+\hline
+HU6 & Como desarrollador, quiero entrenar los modelos utilizando los datos almacenados y ajustar sus parámetros para obtener predicciones precisas. \\
+\hline
+\end{tabular}
+\caption{HU Modelos de predicción}
+\label{tab:Modelos de predicción}
+\end{table}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|p{3cm}|p{8cm}|}
+\hline
+\textbf{Historia de Usuario} & \textbf{Descripción} \\
+\hline
+HU7 & Como usuario, quiero acceder a una aplicación web donde pueda buscar y filtrar revistas científicas para evaluar su Índice de Impacto. \\
+\hline
+HU8 & Como usuario, quiero visualizar de forma clara y comprensible los índices de impacto calculados y las predicciones generadas por los modelos de predicción. \\
+\hline
+HU9 & Como usuario, quiero interactuar con la aplicación web, seleccionar revistas específicas y obtener información detallada sobre cada una de ellas. \\
+\hline
+\end{tabular}
+\caption{HU Aplicación web}
+\label{tab:Aplicación web}
+\end{table}
+
+Estas historias de usuario representan las necesidades y objetivos de los diferentes perfiles de usuarios en relación con la extracción de datos, los modelos de predicción y la aplicación web. Siguiendo una metodología ágil, estas historias de usuario servirán como guía para el desarrollo incremental y la entrega de funcionalidades de valor en cada iteración del proyecto.
+
+\section{Requisitos de la aplicación}
+\label{sec:Requisitos de aplicación}
+
+En esta sección se enumerarán, en mayor detalle, los requisitos que se esperan de la aplicación web en concreto.
+
+\subsection{Requisitos funcionales}
+
+\begin{itemize}
+    \item RF1: Todo usuario debe poder registrarse e iniciar sesión.
+    \item RF2: Validación de datos de usuario durante el registro:
+    \begin{itemize}
+        \item RF2.1: Verificación del formato adecuado del correo electrónico.
+        \item RF2.2: Comprobación de los requisitos básicos de seguridad de la contraseña.
+    \end{itemize}
+    \item RF3: Recuperación de contraseña en caso de olvido.
+    \item RF4: Mostrar mensaje de error en caso de datos de inicio de sesión incorrectos.
+    \item RF5: Opción para mostrar y ocultar la contraseña.
+    \item RF6: Interfaz principal para elegir una revista y un año para predecir el JCR.
+    \item RF7: Validación de campos obligatorios en la interfaz principal.
+    \item RF8: Mensaje de confirmación antes de proceder al cálculo del JCR.
+    \item RF9: Selección del modelo de predicción del JCR.
+    \item RF10: Visualización del histórico del JCR y un gráfico representativo.
+    \item RF11: Visualización de la predicción del JCR y un gráfico representativo.
+    \item RF12: Nevagación por \textit{Breadcrums}.
+    \item RF13: Interacción con el logo: redirección a la interfaz principal.
+    \item RF14: Interfaz para mostrar la lista de revistas disponibles.
+    \item RF15: Barra de búsqueda en la interfaz de revistas disponibles.
+    \item RF16: Opción para cerrar sesión de usuario.
+    \item RF17: Los gráficos deben mostrar información relevante con la que interactuar.
+    \item RF18: Posibilidad de ocultar las líneas correspondientes a los modelos de predicción en el gráfico al pulsar sobre su leyenda.
+    \item RF19: Los usuarios con cuenta deben poder modificar sus datos personales en su perfil de usuario.
+    \item RF20: Cambio de idioma (español, inglés, francés e italiano).
+\end{itemize}
+
+\textbf{Requisitos no funcionales:}
+
+\begin{itemize}
+    \item RNF1: Las interfaces deben contar con las barras superiores e inferiores comunes.
+    \item RNF2: Barra superior con icono de perfil de usuario y símbolo de ayuda.
+    \item RNF3: Interfaz de configuración de perfil de usuario con opciones de cierre de sesión, cambio de correo electrónico y nombre de usuario.
+    \item RNF4: Enlace a la política de privacidad y términos de uso en el pie de página.
+    \item RNF5: Aplicación \textit{responsive} compatible con diferentes navegadores y sistemas operativos.
+    \item RNF6: Interoperabilidad: compatibilidad con diferentes dispositivos y navegadores.
+    \item RNF7: Disponibilidad: la aplicación debe estar disponible para su acceso y uso de manera constante.
+    \item RNF8: Accesibilidad: la aplicación debe ser accesible para usuarios con discapacidades.
+    \item RNF9: Soporte: la aplicación debe contar con un sistema de soporte para atender las consultas y problemas de los usuarios.
+    \item RNF10: Mantenibilidad: la aplicación debe ser fácil de mantener, actualizar y corregir errores.
+    \item RNF11: Seguridad: las contraseñas deben estar encriptadas y la aplicación debe seguir buenas prácticas de seguridad en general.
+    \item RNF12: Privacidad: se deben proteger los datos personales de los usuarios y seguir las regulaciones de privacidad aplicables.
+    \item RNF13: Escalabilidad: la aplicación debe poder manejar un aumento en la carga de usuarios y datos sin degradar su rendimiento.
+    \item RNF14: Extensibilidad: la aplicación debe ser fácil de extender y agregar nuevas funcionalidades en el futuro.
+    \item RNF15: Robustez: la aplicación debe ser capaz de manejar errores y excepciones de manera adecuada, sin colapsar o perder datos.
+    \item RNF16: Internacionalización: la aplicación debe ser capaz de adaptarse a diferentes idiomas y culturas.
+\end{itemize}
+
 
 \section{Especificación de requisitos}
+\label{sec:Especificación de requisitos}
+
+En esta sección se enumerarán los distintos casos de uso para la aplicación web desarrollada.
+
+% TABLAS
+TODO
 
 
+\subsection{Diagrama de casos de usos}
+Finalmente, para poder visualizar todos estos casos, se incluye un diagrama de casos de uso.
+
+% DIAGRAMA
+TODO

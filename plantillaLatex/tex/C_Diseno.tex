@@ -8,12 +8,12 @@
 
 \section{Diseño arquitectónico}
 
+% usuarios de la aplicacion
+\section{Aplicación}
 
-\section{API}
+Se pretende desarrollar una aplicación web sencilla que utilizará una arquitectura cliente-servidor de dos capas.
 
-Se pretende desarrollar una API REST sencilla que utilizará una arquitectura cliente-servidor de dos capas.
-
-La funcionalidad principal de la API será predecir el índice de impacto de una lista de revistas elegida por el usuario. Además, se proporcionarán gráficos e información adicional para ayudar a los usuarios a entender mejor los resultados. Por otro lado, se podrán distinguir dos perfiles de usuario: el usuario normal y el administrador. El administrador tendrá permisos para ``reentrenar'' la red que predice los índices y gestionar al resto de usuarios.
+La funcionalidad principal de la aplicación será predecir el índice de impacto de una lista de revistas elegida por el usuario. Además, se proporcionarán gráficos e información adicional para ayudar a los usuarios a entender mejor los resultados. Por otro lado, se podrán distinguir dos perfiles de usuario: el usuario normal y el administrador. El administrador tendrá permisos para ``reentrenar'' la red que predice los índices y gestionar al resto de usuarios.
 
 El \textit{backend} se programará en Python y el \textit{frontend} con HTML, CSS y JavaScript. Para ello, se utilizará Flask, que se trata de un \textit{framework} de Python para el desarrollo de aplicaciones web.
 
@@ -22,4 +22,17 @@ Es una de las librerías más populares y ampliamente utilizadas para trabajar c
 
 Por otro lado, para la autenticación, se han evaluado varias opciones que ofrece Flask, a saber: Flask-Login, Flask-Security y Flask-JWT. 
 Finalmente, se ha elegido Flask-Login debido a su sencillez y facilidad de uso. Esta opción permite al usuario iniciar sesión con un nombre de usuario y una contraseña y almacena la información de la sesión en las \textit{cookies} del navegador. Este paquete incluye la protección de rutas con decoradores.
+
+
+\subsection{Interfaces}
+La aplicación estará conformada por seis interfaces principales, que se detallan a continuación:
+
+\begin{itemize}
+    \item Interfaces iniciales con funciones de inicio de sesión y registro, verificando la validez de los datos y permitiendo recuperar contraseñas.
+    \item Interfaz principal para seleccionar una revista y un año, con opción de calcular el JCR y elegir modelos de predicción.
+    \item Interfaces con el histórico y la predicción del JCR, además de gráficos representativos.
+    \item Interfaz con una lista de las revistas disponibles con barra de búsqueda.
+    \item Área de usuario donde modificar las credenciales.
+\end{itemize}
+
 

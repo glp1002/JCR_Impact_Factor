@@ -14,7 +14,78 @@ Esta sección está destinada a proporcionar información detallada sobre cómo 
 Para aquellos usuarios de sistemas operativos Windows, es importante tener en cuenta un detalle en el momento de obtener información de la base de datos en PostgresSQL. Cuando se recolectan los datos en formato CSV, es necesario cambiar la ruta de generación de estos archivos a la carpeta <<Public>> \footnote{Directorio que permite compartir archivos entre distintos usuarios en un mismo sistema Windows. Microsoft ha mantenido este directorio desde la versión de WindowsXP.}. Esto se debe a que el usuario por defecto que genera PostgresSQL (usuario <<postgres>>), no tiene los permisos suficientes para leer e importar datos de los CSV en cuestión ya que, para ello, se utiliza el comando \textit{copy} (que solo puede ser ejecutado por <<Superusers>>)\cite{Dominguez2020}. Sin embargo, la carpeta <<Public>> cuenta con los permisos necesarios para que el usuario que crea Postgres pueda acceder y leer los datos. Por lo tanto, es importante seguir este paso para garantizar que se pueda obtener correctamente la información recogida previamente.
 
 
+%\subsection{Internacionalización de la aplicación}
+
+
+
 \section{Compilación, instalación y ejecución del proyecto}
+
+\subsection{Despliegue en Heroku}
+A continuación se muestra la información en formato LaTeX:
+
+\nota{En el código de la aplicación web, al incluir \texttt{import} de clases propias, es preciso añadir al inicio de la ruta de paquetes el punto (por ejemplo, \texttt{import .miCarpeta.miClase}). Sin el punto inicial, Heroku no identificará los módulos por no estar en la raíz del repositorio.}
+
+\subsubsection{Ficheros necesarios}
+Se deben ubicar los siguientes ficheros en la raíz del repositorio:
+\begin{itemize}
+    \item \texttt{requirements.txt} $\to$ con todas las dependencias necesarias \\
+    (\texttt{\$ pip freeze > requirements.txt})
+    \item \texttt{Procfile} $\to$ indicando el módulo donde se encuentra \texttt{app.py} \\
+    (fichero principal y su nombre).
+    \item \texttt{runtime.txt} $\to$ indicar el lenguaje de programación y su versión (i.e.:\texttt{python-3.11.1}).
+\end{itemize}
+
+\subsubsection{Creación de la aplicación}
+Para la creación de la aplicación en Heroku, se deben seguir los siguientes pasos previos:
+
+\begin{enumerate}
+    \item Crear cuenta de Heroku (\url{https://www.heroku.com/what}), donde se solicitará elegir una forma de doble autentificación.
+    \item Solicitar el \textit{Student Pack} (\url{https://www.heroku.com/github-students}) que ofrece GitHub Student para poder utilizar de forma gratuita (con limitaciones) los servicios de Heroku. Será necesario esperar algunos días antes de recibir una confirmación.
+    \item Descargar el \textit{software} Heroku CLI (\url{https://devcenter.heroku.com/articles/heroku-cli}) adecuado para tu sistema operativo.
+    \item Crear aplicación. En este caso, se recomienda hacerlo desde un terminal en la raíz del repositorio de GitHub.
+\end{enumerate}
+
+Los comandos para crear la aplicación son los siguientes:
+
+\begin{enumerate}
+    \item Instalar el Dyno básico: \texttt{\$ pip install gunicorn}
+    
+    \item Ejecutar \texttt{\$ heroku login}, que abrirá una pesataña en un navegador y solicitará las credenciales de la cuenta de Heroku creada.
+    
+    \item Para crear la aplicación, bastará con ejecutar \texttt{\$ heroku create nombre\_app --region=eu} \\
+    Como respuesta, deberá obtener la dirección de la aplicación y del repositorio remoto de Heroku con el siguiente formato: \\
+    \texttt{\url{https://nombre\_app.herokuapp.com/}} | \texttt{\url{https://git.heroku.com/nombre\_app.git}}
+    
+    \item Finalmente, ejecutar \texttt{\$ git push heroku main} $\to$ para subir el contenido de la rama \texttt{main} del repositorio GitHub al repositorio remoto de Heroku. Este comando se deberá ejecutar cada vez que hay cambios nuevos que se quieran desplegar.
+    
+    \item Para desplegar la aplicación bastará con ejecutar \texttt{\$ heroku open} $\to$.
+\end{enumerate}
+
+Finalmente, se puede comprobar que la aplicación se ha creado correctamente en el \textit{dashboard} de Heroku (\url{https://dashboard.heroku.com/apps/}).
+
+\subsubsection{Añadir una base de datos}
+En este caso, como nuestra aplicación hace uso de una base de datos Postgres, se hará uso del complemento Heroku Postgres (\url{https://devcenter.heroku.com/articles/getting-started-monitoring-postgres-database}). Para ello será preciso seguir los siguientes pasos:
+
+\begin{itemize}
+    \item Añadir (comando \texttt{\$ addon} o directamente desde la web) un nuevo complemento: \textit{Heroku Postgres}. Sin el \textit{Student Pack} mencionado anteriormente, será necesario realizar un pago.
+    
+    \item Además será necesario configurar en tu código las credenciales de la base de datos (proporcionadas por Heroku) para poder establecer las conexiones. Es importante ejecutar de nuevo el comando \texttt{\$ git push heroku main} tras realizar estos cambios.
+
+    \item Volver a ejecutar \texttt{\$ heroku open} y la aplicación ya estará en funcionamiento.
+\end{itemize}
+
+\subsubsection{Mantenimiento y gestión de la aplicación}
+Algunos comandos útiles (\url{https://devcenter.heroku.com/articles/heroku-cli-commands}) para el mantenimiento y gestión de la aplicación son los siguientes:
+
+\begin{itemize}
+    \item Destruir la aplicación: \texttt{\$ heroku apps:destroy -a nombre\_app} (pide confirmación) \\
+    
+    \item Reiniciar todos los \textit{Dynos}: \texttt{\$ heroku restart} $\to$ 
+    
+    \item Registro:\texttt{\$ heroku logs} $\to$ (Añadir la opción \texttt{--tail}; si se quiere que el log se mantenga abierto).
+\end{itemize}
+
+
 
 \section{Pruebas del sistema}
 

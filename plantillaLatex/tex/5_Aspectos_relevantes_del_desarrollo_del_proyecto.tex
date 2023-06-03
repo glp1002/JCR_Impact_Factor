@@ -37,14 +37,14 @@ Sin embargo, aunque no se puede buscar directamente por revista, sí se puede ex
 
 \imagen{ejemploResultadoGS}{Ejemplo de búsqueda por palabra clave}{0.8}
 
-Sin embargo, existe una problemática: en cada artículo se hace referencia a la revista que lo publica de forma distinta. Por ejemplo, como se puede apreciar en la siguiente imagen, la revista se encuentra ubicada en una <<etiqueta>> HTML diferente.
+Sin embargo, existe una problemática: en cada artículo se hace referencia a la revista que lo publica de forma distinta. Por ejemplo, como se puede apreciar en la figura~\ref{fig:etiquetaDeRevista}, la revista se encuentra ubicada en una <<etiqueta>> HTML diferente.
 
 \imagen{etiquetaDeRevista}{Localización de la revista en Google Scholar}{0.8}
 
 Por ello se buscó una solución alternativa.
 Existe una etiqueta (\texttt{<b> … </b>}) que incluye aquellas palabras resaltadas en negrita en la página web. Google Scholar resalta en una búsqueda aquellas palabras que coinciden con alguno de los parámetros buscados. Así pues, si se realiza una búsqueda en Google Scholar pasando como parámetro el nombre de la revista que nos interesa, bastará con buscar en la clase  \texttt{gs\_a} (donde se almacenan los detalles del artículo) alguna etiqueta \texttt{<b>}.
 Se ha escrito un pequeño código de prueba y, en principio, parece que funciona sin problemas. Se adjunta dicho código (\texttt{extraerRevistas.py}) en el repositorio de GitHub. %TODO: meter enñace
-Este código hace dos búsquedas: una a la revista Alas Peruanas y otra a la revista The Lancet (elegidas de forma aleatoria).
+Este código hace dos búsquedas: una a la revista <<Alas Peruanas>> y otra a la revista <<The Lancet>> (elegidas de forma aleatoria).
 
 %La salida obtenida (solo de la primera página de resultados) es la siguiente:
 
@@ -97,7 +97,7 @@ Con el prototipo listo, se prueba a extraer la información de los artículos de
     \item La segunda pauta es emplear programación concurrente para ejecutar varios hilos al mismo tiempo.
 \end{itemize}
 
-Así, cada revista será procesada por un hilo distinto. Para ello, será necesario recurrir a la librería de Python \textit{multiprocessing}. Tras actualizar estos cambios, el prototipo obtiene resultados mucho más óptimos: obtiene los 180 artículos de ambas revistas en tan solo 8 minutos. El próximo objetivo es determinar el número máximo de hilos que se pueden lanzar sin impactar negativamente el rendimiento del prototipo.
+Así, cada revista será procesada por un hilo distinto. Para ello, será necesario recurrir a la librería de Python \textit{multiprocessing}. Tras actualizar estos cambios, el prototipo obtiene resultados mucho más rápidos: obtiene los 180 artículos de ambas revistas en tan solo 8 minutos. El próximo objetivo es determinar el número máximo de hilos que se pueden lanzar sin impactar negativamente el rendimiento del prototipo.
 
 Para ello, se solicitó permiso para acceder a los servidores de la universidad. A través de SSH, nos conectamos a una de las máquinas y, utilizando un entorno virtualizado de Miniconda, comenzamos a lanzar hilos. Sin embargo, el resultado fue desastroso, ya que al realizar 200 llamadas a Google Scholar, nos bloqueaban y teníamos que resolver un CAPTCHA. Intentamos insertar esperas de tiempo aleatorias y cambiar el user-agent en cada una de las llamadas. Incluso se probó a cambiar el término de búsqueda. Sin embargo, nada de esto funcionó. Matemáticamente, después de aproximadamente 200-250 llamadas, aparecía el CAPTCHA.
 
@@ -121,7 +121,7 @@ Se consideraron también estas dos potentes fuentes bibliográficas. Sin embargo
 
 Vista la imposibilidad de obtener una cantidad aceptable de resultados de Google Scholar, Scopus y WoS, se decidió cambiar la fuente de datos. En este caso, Crossref (aunque no es una base de datos tan potente, tiene una API gratuita y sin tantas restricciones).
 
-Este modelo nos permite la extracción de una gran cantidad de datos en un tiempo reducido. Para ilustrar la eficiencia de este modelo, se ha generado una gráfica donde se muestra el tiempo que se ha tardado en extraer los datos (de los últimos 20 años) de cada revista.
+Este modelo nos permite la extracción de una gran cantidad de datos en un tiempo reducido. Para ilustrar la eficiencia de este modelo, se ha generado una gráfica donde se muestra el tiempo que se ha tardado en extraer los datos (de los últimos 20 años) de cada revista de la categoría de \textit{Computer Science}.
 
 \imagen{grafica_tiempos}{Tiempo de extracción de datos de Crossref}{1}
 
@@ -135,7 +135,7 @@ Antes de comenzar a predecir el JCR, se ha desarrollado un algoritmo para calcul
 
 %\input{./img/cajas.pgf}
 
-\imagen{diagrama_cajas}{Dispersión de los datos extraídos en función del año}{1}
+\imagen{diagrama_cajas}{Dispersión entre las diferencias del JCR calculado y el real en función del año}{1}
 
 Al analizar el gráfico, se observa claramente que los años más antiguos presentan un margen de error mucho más elevado debido a la falta de datos de Crossref en esos años. De esta manera, se puede asegurar que el módulo desarrollado es preciso y confiable, aunque se debe tener en cuenta la limitación de la falta de datos para los años más antiguos.
 
@@ -143,7 +143,7 @@ Dadas las circunstancias, se ha tomado la decisión de utilizar solamente los da
 
 \subsection{Modelos de predicción}
 
-Se han probado varios modelos utilizando la librería Scikit-learn, con el objetivo de encontrar el que mejor se ajuste a los datos disponibles y pueda hacer predicciones con mayor precisión. Además, estos modelos se han evaluado mediante el error cuadrático medio\footnote{RMSE (Root Mean Square Error) es una métrica ampliamente utilizada para evaluar la precisión o el rendimiento de un modelo de regresión. Representa la raíz cuadrada de la media de los errores cuadrados entre los valores predichos por el modelo y los valores reales del conjunto de datos.}. A continuación, se enumeran los distintos modelos probados:
+Se han probado varios modelos regresores utilizando la librería Scikit-learn, con el objetivo de encontrar el que mejor se ajuste a los datos disponibles y pueda hacer predicciones más exactas. Además, estos modelos se han evaluado mediante el error cuadrático medio\footnote{RMSE (Root Mean Square Error) es una métrica ampliamente utilizada para evaluar la precisión o el rendimiento de un modelo de regresión. Representa la raíz cuadrada de la media de los errores cuadrados entre los valores predichos por el modelo y los valores reales del conjunto de datos.}. A continuación, se enumeran los distintos modelos probados:
 \begin{itemize}
     \item Linear Regression 
     \item Random Forest Regressor
@@ -154,27 +154,39 @@ Se han probado varios modelos utilizando la librería Scikit-learn, con el objet
     \item Stacking Regressor
 \end{itemize}
 
-TO DO -> Meter bibliografía y justificar por qué se han elegido estos y no otros.
+Se han seleccionado estos modelos debido a su popularidad y a su variedad, que abarca una amplia gama de métodos disponibles.
+
+Además se ha tenido en cuenta la relevancia y los hallazgos presentados en el artículo titulado <<Do We Need Hundreds of Classifiers to Solve Real World Classification Problems?>>~\cite{fer2014}. Este estudio evaluó 179 clasificadores provenientes de 17 familias diferentes, abarcando una amplia variedad de métodos, incluyendo análisis discriminante, Bayesianos, redes neuronales, máquinas de soporte vectorial, árboles de decisión, clasificadores basados en reglas, técnicas de \textit{boosting}, \textit{bagging}, \textit{stacking}, modelos lineales generalizados, vecinos más cercanos, regresión de múltiples splines de adaptación y muchos otros métodos. 
+
+Los resultados de este estudio destacaron que los clasificadores de Random Forest fueron los más prometedores, alcanzando una precisión máxima del 94,1\% en los conjuntos de datos utilizados, superando el 90\% en el 84,3\% de los casos. Además, se encontró que los clasificadores SVM con núcleo gaussiano, también obtuvieron una alta precisión del 92,3\%. Estos hallazgos respaldan la decisión de considerar estos modelos en este estudio, ya que se ha demostrado que ofrecen un rendimiento destacado en comparación con otros clasificadores.
+
+Por otro lado, hay otros artículos que sugieren la utilización de los modelos XGBoost y Stacking en proyectos de aprendizaje automático. El artículo titulado <<Getting Started with XGBoost in scikit-learn>>~\cite{Wade2020} destaca que XGBoost es un algoritmo de aprendizaje automático que ha ganado popularidad debido a su desempeño sobresaliente en competiciones de Kaggle y en la predicción de datos tabulares. XGBoost es un modelo de \textit{ensemble} que combina varios modelos de aprendizaje en uno solo, ofreciendo resultados superiores a los modelos individuales. Además, se destaca su capacidad de regularización y velocidad de procesamiento, lo que lo convierte en una opción atractiva para aplicaciones prácticas.
+
+Por su parte, el artículo <<Stacked generalization: an introduction to super learning>>~\cite{naimi2018} presenta el método de \textit{Stacked Generalization}, también conocido como \textit{Super Learner}. Este enfoque permite combinar varios algoritmos de predicción en un único modelo. Utilizando la validación cruzada, se busca obtener una combinación óptima de las predicciones de una biblioteca de algoritmos candidatos. La optimización se realiza mediante una función objetivo especificada por el usuario, como minimizar el error cuadrático medio o maximizar el área bajo la curva característica de operación del receptor. Aunque la implementación de \textit{Super Learner} puede tener ciertas complejidades conceptuales y técnicas, su uso ha demostrado ser beneficioso en diversas aplicaciones y puede ofrecer mejoras significativas en la precisión de las predicciones.
+
+En nuestro caso, tanto XGBoost como Stacking han demostrado ser enfoques efectivos en la predicción del JCR, y su inclusión se justifica por su rendimiento sobresaliente y su potencial para mejorar la precisión de las predicciones en este proyecto.
+
+
 
 \subsubsection{Conjunto de datos}
 Para el conjunto inicial de datos, se ha realizado una selección cuidadosa de entre toda la información extraída, eligiendo los siguientes atributos: el número de citas, el factor de impacto JCR y la diferencia entre los datos extraídos y los valores reales. Estos atributos han sido tomados exclusivamente de los años comprendidos entre el 2018 y el 2020. Además, se ha incluido el número de citas correspondiente al año 2021. La elección de estos años se basa en la observación de que presentan menor error en los datos extraídos, lo cual contribuye a mejorar la calidad de los atributos seleccionados. Finalmente, se realizará la predicción del Factor de Impacto JCR para el año 2021.
 
-\imagen{pipeline}{Conjunto inicial de los datos}{1}
+\imagen{pipeline}{Representación esquemática de los datos de entrenamiento (X,y)}{1}
 
-Por otro lado, cuando se trata de valores nulos o vacíos (i.e.,\textit{missing values}), se ha utilizado la moda como método de tratamiento de los datos.
+Por otro lado, cuando se trata de valores nulos o vacíos (i.e.,\textit{missing values}), se ha utilizado la mediana como método imputación de valores.
 
 \subsubsection{Entrenamiento de los modelos}
-Para el entrenamiento, se ha llevado a cabo una técnica de validación cruzada anidada (\textit{nested cross-validation}) para evaluar y seleccionar el mejor modelo posible para predecir el Índice de Impacto de las revistas científicas. Esta técnica implica el uso de dos niveles de validación cruzada: en el nivel externo se evalúa el desempeño general del modelo, mientras que en el nivel interno se ajustan los parámetros del modelo mediante una búsqueda en rejilla (\texttt{grid search}) para encontrar la mejor combinación de hiperparámetros. La ventaja de esta técnica es que permite evaluar la capacidad de generalización del modelo de manera más realista, evitando la selección de modelos sobreajustados (\textit{overfitting}). En comparación con una validación cruzada al uso, la técnica de validación cruzada anidada puede resultar más costosa en términos de cómputo, pero proporciona resultados más precisos y fiables.
+Para el entrenamiento, se ha llevado a cabo una técnica de validación cruzada anidada (\textit{nested cross-validation}) con el fin de evaluar y seleccionar el mejor modelo posible para predecir el Índice de Impacto de las revistas científicas. Esta técnica implica el uso de dos niveles de validación cruzada: en el nivel externo se evalúa el desempeño general del modelo, mientras que en el nivel interno se ajustan los parámetros del modelo mediante una búsqueda en rejilla (\texttt{grid search}) para encontrar la mejor combinación de hiperparámetros. La ventaja de esta técnica es que permite evaluar la capacidad de generalización del modelo de manera más realista, evitando la selección de modelos sobreajustados (\textit{overfitting}). En comparación con una validación cruzada al uso, la técnica de validación cruzada anidada puede resultar más costosa en términos de cómputo, pero proporciona resultados más precisos y fiables.
 
 \imagen{cv}{Esquema de la validación cruzada anidada}{1}
 
 \subsubsection{Evaluación de los modelos}
 Finalmente, tras la evaluación de todos los modelos, se seleccionan aquellos que han obtenido mejores resultados. Como se puede observar en los siguientes gráficos, los modelos con mayor precisión son AdaBoost Regressor, Random Forest Regressor y XGB Regressor.
 
-\imagen{mse}{Estimación del RMSE de los modelos entrenados}{0.7}
-\imagen{desviacion.png}{Desviación de las estimaciones}{0.8}
+\imagen{mse}{Estimación del RMSE de los modelos evaluados en la experimentación}{0.6}
+\imagen{desviacion.png}{Desviación de las estimaciones}{0.6}
 
-Los motivos por los cuáles se han obtenido estos resultados pueden ser diversos. Por un lado, podemos ver que los modelos de \textit{ensemble} como AdaBoost, Random Forest y XGBoost obtienen, en general, mejores resultados. Esto puede deberse a su capacidad para capturar relaciones no lineales en los datos. Así, pueden modelar relaciones complejas entre las variables de entrada y la variable de salida, lo cual es especialmente útil cuando existen patrones no lineales en los datos. 
+Los motivos por los cuales se han obtenido estos resultados pueden ser diversos. Por un lado, podemos ver que los modelos de \textit{ensemble} como AdaBoost, Random Forest y XGBoost obtienen, en general, mejores resultados. Esto puede deberse a su capacidad para capturar relaciones no lineales en los datos. Así, pueden modelar relaciones complejas entre las variables de entrada y la variable de salida, lo cual es especialmente útil cuando existen patrones no lineales en los datos. 
 
 Por otro lado, los algoritmos de \textit{ensemble} tienden a reducir el sobreajuste en comparación con modelos individuales como MLP y SVM (los algoritmos de \textit{ensemble} combinan múltiples modelos más simples, lo que ayuda a mitigar el sesgo y la variabilidad inherente a un solo modelo).
 
@@ -185,35 +197,13 @@ En cambio, MLP y SVM a menudo requieren una cuidadosa normalización y escala de
 \subsubsection{Resultados}
 Tras analizar los resultados de esta etapa, para poder hacer uso de ellos más adelante, se guardan en los siguientes ficheros:
 \begin{itemize}
-    \item Fichero CSV con los resultados de la validación cruzada. Por cada iteración incluye: el modelo que se estima, el valor de los parámetros con mejores resultados y el RMSE.
+    \item Fichero CSV con los resultados de la validación cruzada. Por cada iteración incluye el modelo que se estima, el valor de los parámetros con mejores resultados y el RMSE.
     \item Ficheros binarios \textit{pickle}, donde se almacenan cada uno de los modelos entrenados. Posteriormente, se almacenarán en la base de datos para poder realizar predicciones desde la aplicación web.
 \end{itemize}
 
 
 \section{Creación de la aplicación web}
-
-\subsection{Interfaces}
-La aplicación estará conformada por cinco interfaces principales, que se detallan a continuación:
-
-\begin{enumerate}
-	\item Interfaz inicial con las funciones de <<log in>> y <<sign in>>. Se pedirá al usuario un nombre de usuario, una contraseña y una dirección de correo electrónico (durante el registro). Habrá también una opción de recuperación de la contraseña en caso de que haya sido olvidada. Habrá un mensaje de error si los datos introducidos no son correctos. En el momento del registro, se comprobará que el correo introducido tiene un formato adecuado y que, además, la contraseña cumple con los requisitos básicos para ser considerada segura (en caso contrario se mostrará un mensaje de error con dichos requisitos). Finalmente, será necesario contemplar una opción para mostrar y ocultar la contraseña.
-	\item La interfaz principal permitirá al usuario elegir una revista (de un desplegable con barra de búsqueda) y un año para el que se quiera predecir el JCR. Además, se incluirá un botón <<Calcular>> que redireccionará al usuario a la segunda interfaz. Si alguno de los campos no está cumplimentado, se lanzará un mensaje de error. Será necesario incluir un mensaje de confirmación en esta interfaz después de que el usuario presione el botón <<Calcular>> para asegurarse de que el usuario está seguro de que desea proceder. Se incluirá también la posibilidad de seleccionar el modelo de predicción a usar (pudiéndose seleccionar varios al mismo tiempo).
-	\item La segunda interfaz (a la que solo se puede acceder desde la anterior), se mostrará la predicción del cálculo del JCR de la revista seleccionada en la interfaz anterior para el año también elegido en la interfaz anterior. Se deberá mostrar también algún tipo de gráfico representativo así como el porcentaje de fiabilidad (\textit{accurancy}) de la predicción realizada. Al acceder a esta interfaz, se mostrará un indicador de carga para informar al usuario que se está realizando un proceso y que se está cargando la información. Es conveniente también que, en esta interfaz, se pueda exportar los resultados/informes en distintos formatos. Se proporcionará una opción de retroceso en esta interfaz para permitir al usuario volver a la pantalla anterior sin tener que hacer clic en el botón <<Atrás>> del navegador.
-	\item Habrá también una interfaz que mostrará la lista de revistas que se están disponibles en la aplicación. Tendrá una una barra de búsqueda para facilitar la búsqueda de revistas específicas. Se puede considerar agregar una funcionalidad para permitir al usuario guardar sus revistas favoritas o las que está siguiendo para que pueda acceder a ellas rápidamente desde su perfil.
-	\item Una sección adicional para gestión de la aplicación. Será solo accesible y visible para el administrador. Allí podrá gestionar, por un lado los usuarios y, por otro lado, las funcionalidades de la aplicación. De esta forma, el administrador podrá incluir un nuevo fichero CSV de revistas que se incluirán en la aplicación, lo que generará que se lance el proceso de extracción de datos sobre estas nuevas revistas y que luego se almacenan en la BBDD. También podrá actualizar la BBDD cuando considere (incluso programar que se actualice periódicamente). Todos estos procesos serán parametrizables.
-\end{enumerate}
-
-En cuanto a las características generales de las interfaces, deberán contar con las barras y menús adecuados.
-
-\begin{itemize}
-	\item Así pues, habrá un menú lateral izquierdo (desplegable) que te permitirá redireccionarte a las interfaces del punto 2 (<<Calcular JCR>>), la del punto 4 (<<Revistas disponibles>>) y la del punto 5 (<<Gestión>>: solo visible para el administrador).
-
-	\item Por otro lado, habrá una barra superior donde se añadirá el icono del perfil del usuario <<logueado>> y un símbolo de ayuda que redireccione a la documentación en linea y a preguntas frecuentes.	Si se pulsa sobre el icono de usuario, se pueden hacer dos cosas: cerrar la sesión o ir a una interfaz extra en la que se permitirá al usuario configurar su perfil personal. Allí podrá configurar notificaciones para recibir en su correo algún informe periódicamente. Además podrá configurar otras opciones como que el usuario pueda cambiar su contraseña, su correo o su nombre de usuario. Además habrá un símbolo de configuración general de la aplicación, que dirigirá a una nueva interfaz en la que se podrán establecer opciones como el tema (oscuro/claro) de la aplicación, el idioma (la aplicación debe incluir internacionalización), ajustar el tamaño de fuente o el espaciado entre líneas...
-
-	\item Finalmente, se proporcionará un enlace a la política de privacidad y términos de uso en el pie de página de la aplicación web.
-
-	\item La aplicación deberá ser \textit{responsive} y compatible con diferentes navegadores y sistemas operativos para asegurarse de que los usuarios puedan acceder a la aplicación desde cualquier dispositivo y lugar.
-\end{itemize}
+...
 
 
 
