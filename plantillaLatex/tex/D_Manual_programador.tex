@@ -48,13 +48,13 @@ Para la creación de la aplicación en Heroku, se deben seguir los siguientes pa
 Los comandos para crear la aplicación son los siguientes:
 
 \begin{enumerate}
-    \item Instalar el Dyno básico: \texttt{\$ pip install gunicorn}
+    \item Instalar el Dyno básico: \texttt{\$ pip install gunicorn}.
     
     \item Ejecutar \texttt{\$ heroku login}, que abrirá una pesataña en un navegador y solicitará las credenciales de la cuenta de Heroku creada.
     
     \item Para crear la aplicación, bastará con ejecutar \texttt{\$ heroku create nombre\_app --region=eu} \\
     Como respuesta, deberá obtener la dirección de la aplicación y del repositorio remoto de Heroku con el siguiente formato: \\
-    \texttt{\url{https://nombre\_app.herokuapp.com/}} | \texttt{\url{https://git.heroku.com/nombre\_app.git}}
+    \texttt{https://nombre\_app.herokuapp.com/} | \texttt{https://git.heroku.com/nombre\_app.git}
     
     \item Finalmente, ejecutar \texttt{\$ git push heroku main} $\to$ para subir el contenido de la rama \texttt{main} del repositorio GitHub al repositorio remoto de Heroku. Este comando se deberá ejecutar cada vez que hay cambios nuevos que se quieran desplegar.
     
@@ -67,7 +67,7 @@ Finalmente, se puede comprobar que la aplicación se ha creado correctamente en 
 En este caso, como nuestra aplicación hace uso de una base de datos Postgres, se hará uso del complemento Heroku Postgres (\url{https://devcenter.heroku.com/articles/getting-started-monitoring-postgres-database}). Para ello será preciso seguir los siguientes pasos:
 
 \begin{itemize}
-    \item Añadir (comando \texttt{\$ addon} o directamente desde la web) un nuevo complemento: \textit{Heroku Postgres}. Sin el \textit{Student Pack} mencionado anteriormente, será necesario realizar un pago.
+    \item Añadir (comando \texttt{\$ addon} o directamente desde la web) un nuevo complemento: Heroku Postgres. Sin el \textit{Student Pack} mencionado anteriormente, será necesario realizar un pago.
     
     \item Además será necesario configurar en tu código las credenciales de la base de datos (proporcionadas por Heroku) para poder establecer las conexiones. Es importante ejecutar de nuevo el comando \texttt{\$ git push heroku main} tras realizar estos cambios.
 
@@ -78,11 +78,11 @@ En este caso, como nuestra aplicación hace uso de una base de datos Postgres, s
 Algunos comandos útiles (\url{https://devcenter.heroku.com/articles/heroku-cli-commands}) para el mantenimiento y gestión de la aplicación son los siguientes:
 
 \begin{itemize}
-    \item Destruir la aplicación: \texttt{\$ heroku apps:destroy -a nombre\_app} (pide confirmación) \\
+    \item Destruir la aplicación: \texttt{\$ heroku apps:destroy -a nombre\_app} (pide confirmación).
     
-    \item Reiniciar todos los \textit{Dynos}: \texttt{\$ heroku restart} $\to$ 
+    \item Reiniciar todos los \textit{Dynos}: \texttt{\$ heroku restart}.
     
-    \item Registro:\texttt{\$ heroku logs} $\to$ (Añadir la opción \texttt{--tail}; si se quiere que el log se mantenga abierto).
+    \item Registro:\texttt{\$ heroku logs} (Añadir la opción \texttt{--tail} si se quiere que el log se mantenga abierto).
 \end{itemize}
 
 
@@ -200,7 +200,7 @@ En esta fase se han realizado acciones de refactorización. A saber:
     En lugar de especificar los parámetros de búsqueda utilizando una cadena de consulta, se puede usar un diccionario y pasarlos como argumentos de palabras clave al método \verb|requests.get()|. Esto puede hacer que el código sea más legible.
 
     \item Acceso a diccionarios II:
-    En lugar de crear un diccionario vacío "author" y luego verificar si existe una lista de autores, se puede usar el método \verb|get()| directamente en la lista de autores para obtener el primer elemento de la lista.
+    En lugar de crear un diccionario vacío \texttt{author} y luego verificar si existe una lista de autores, se puede usar el método \verb|get()| directamente en la lista de autores para obtener el primer elemento de la lista.
 
     \item Lista de comprensión:
     En lugar de crear un diccionario temporal publicacion para cada artículo, se puede usar una lista de comprensión para crear una lista de diccionarios de artículos. Esto puede hacer que el código sea más conciso.
