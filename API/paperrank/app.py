@@ -32,26 +32,16 @@ app = Flask(__name__)
 secret_key = secrets.token_hex(32)
 app.secret_key = secret_key
 
-# url_database = os.environ.get("DATABASE_URL")
-# def get_db():
-#     if 'db' not in g:
-#         g.db = psycopg2.connect( 
-#             url_database, 
-#             sslmode='require'
-#         )
-#     return g.db
-# Credenciales de la BBDD
-app.config['DATABASE'] = {
-    'host':"localhost",
-    'port':"5432",
-    'user':"postgres",
-    'password':"Hola=2910",
-    'dbname':"BBDD"
-}
+url_database = os.environ.get("DATABASE_URL")
 def get_db():
     if 'db' not in g:
-        g.db = psycopg2.connect(**app.config['DATABASE'])
+        g.db = psycopg2.connect( 
+            url_database, 
+            sslmode='require'
+        )
     return g.db
+
+
 
 def refresh():
     modelo = Modelo(get_db())
