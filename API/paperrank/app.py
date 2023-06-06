@@ -10,14 +10,14 @@ import json
 import os
 import secrets
 from functools import wraps
-
+    
 import psycopg2
 from flask import (Flask, g, jsonify, redirect, render_template, request,
                    session, url_for)
 from flask_babel import Babel, gettext
 
-from .backend.controlador import Controlador
-from .backend.modelo import Modelo
+from .backend.controlador.controlador import Controlador
+from .backend.modelo.modelo import Modelo
 
 # from flask_login import LoginManager
 
@@ -32,15 +32,26 @@ app = Flask(__name__)
 secret_key = secrets.token_hex(32)
 app.secret_key = secret_key
 
-url_database = os.environ.get("DATABASE_URL")
+# url_database = os.environ.get("DATABASE_URL")
+# def get_db():
+#     if 'db' not in g:
+#         g.db = psycopg2.connect( 
+#             url_database, 
+#             sslmode='require'
+#         )
+#     return g.db
+# Credenciales de la BBDD
+app.config['DATABASE'] = {
+    'host':"localhost",
+    'port':"5432",
+    'user':"postgres",
+    'password':"Hola=2910",
+    'dbname':"BBDD"
+}
 def get_db():
     if 'db' not in g:
-        g.db = psycopg2.connect( 
-            url_database, 
-            sslmode='require'
-        )
+        g.db = psycopg2.connect(**app.config['DATABASE'])
     return g.db
-
 
 def refresh():
     modelo = Modelo(get_db())
@@ -89,8 +100,8 @@ def before_request():
 def login_required(f):
     @wraps(f)
     def decorated_function(*args, **kwargs):
-        # if 'username' not in session:
-        #     return redirect(url_for('login'))
+        if 'username' not in session:
+            return redirect(url_for('login'))
         return f(*args, **kwargs)
     return decorated_function
 
@@ -295,6 +306,7 @@ def get_profile():
         new_email = request.form.get('correo')
         done = controlador.update_user(new_username, new_email, email)
         if done == True:
+            session['username'] = new_username
             return render_template('profile.html', email=new_email, username=new_username)
         else:
             return render_template('profile.html', email=email, username=username)

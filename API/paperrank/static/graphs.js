@@ -28,7 +28,6 @@ fetch(`/consultJSON/${encodeURIComponent(revista)}`)
           label: 'JCR',  // Etiqueta de la línea
           data: jcrValues,  // Valores en el eje Y (JCR)
           borderColor: '#7453c3',  // Color de la línea
-          fill: false  // Sin relleno debajo de la línea
         }]
       },
       options: {
@@ -38,6 +37,10 @@ fetch(`/consultJSON/${encodeURIComponent(revista)}`)
           y: {
             beginAtZero: true  // Comenzar el eje Y en cero
           }
+        },
+        onClick: (event, legendItem) => {
+          // Evitar la acción predeterminada (ocultar/mostrar línea)
+          event.stopPropagation();
         }
       }
     });

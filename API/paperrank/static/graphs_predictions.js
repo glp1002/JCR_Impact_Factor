@@ -23,7 +23,7 @@ fetch(`/predictionJSON/${encodeURIComponent(revista)}/${encodeURIComponent(model
     const allYears = [...years, ...nextYears];
 
     const datasets = [{
-      label: 'Consulta',
+      label: 'Histórico JCR',
       data: jcrValues,
       borderColor: '#7453c3',
       lineTension: 0.1, // Ajustar la tensión de la línea para hacerla recta
@@ -89,6 +89,6 @@ fetch(`/predictionJSON/${encodeURIComponent(revista)}/${encodeURIComponent(model
 
 // Función para obtener un color según el índice
 function getColorByIndex(index) {
-  const colors = ['#ff0000', '#00ff00', '#0000ff', '#ff00ff', '#00ffff'];
+  const colors = ['#98FB98','#87CEEB', '#FFB6C1', '#FFDAB9'];
   return colors[index % colors.length];
 }

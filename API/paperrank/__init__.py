@@ -1,4 +1,4 @@
-# Main package
-from .backend import controlador
-from .backend import modelo
+# Main packages
+from .backend.controlador import controlador
+from .backend.modelo import modelo
 from .backend import datasource
