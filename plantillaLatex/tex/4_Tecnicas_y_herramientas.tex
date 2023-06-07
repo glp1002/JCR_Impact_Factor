@@ -22,18 +22,18 @@ Por otro lado, la comunidad de programadores de Python es inmensa y su creciente
 
 Como valor añadido, Python es fácil de mantener cuando necesitamos adaptar nuestro código a las cambiantes estructuras de las páginas web. Además, sus reconocidas herramientas de análisis de datos nos permiten continuar en el mismo entorno, sin necesidad de buscar alternativas para afrontar tareas relacionadas con la \textit{data science}.
 
-\section{Bibliotecas}
+\section{Bibliotecas y \textit{Frameworks}}
 A lo largo del proyecto se ha recurrido a diversas bibliotecas de Python. A continuación, se presenta brevemente cada una de ellas.
 
 \subsection{Scholarly}
-Se trata de una biblioteca de Python que permite acceder a los datos de Google Scholar de manera fácil y rápida. La biblioteca proporciona una interfaz sencilla para buscar y recuperar información sobre artículos, autores y revistas en Google Scholar, incluyendo metadatos, citas y otra información relacionada.
+Scholarly~\cite{scholarly} se trata de una biblioteca de Python que permite acceder a los datos de Google Scholar de manera fácil y rápida. La biblioteca proporciona una interfaz sencilla para buscar y recuperar información sobre artículos, autores y revistas en Google Scholar, incluyendo metadatos, citas y otra información relacionada.
 
 Sin embargo, esta biblioteca ha terminado siendo descartada para este proyecto. A diferencia de otras técnicas de \textit{web-scraping}, Scholarly no está diseñada para extraer grandes cantidades de datos de Google Scholar. La biblioteca tiene una serie de limitaciones en cuanto a la cantidad de datos que se pueden recolectar, ya que está diseñada para ser utilizada en investigaciones científicas y no para la extracción masiva de datos. Además, Scholarly está diseñada para respetar los términos de servicio de Google Scholar y no violar la política de uso de la plataforma, por lo que no se recomienda su uso para recolectar grandes cantidades de datos.
 
-En resumen Scholarly es una herramienta útil para acceder a información científica y académica de manera rápida y sencilla, pero no esta diseñada para extraer grandes cantidades de datos.
+En conclusión, Scholarly es una herramienta útil para acceder a información científica y académica de manera rápida y sencilla, pero no esta diseñada para extraer grandes cantidades de datos.
 
 \subsection{Beautiful Soup}
-Beautiful Soup es una biblioteca de Python extremadamente útil para la extracción de datos de páginas HTML o XML. Actualmente se encuentra en su versión 4.8.1. En el siguiente \href{https://beautiful-soup-4.readthedocs.io/en/latest/}{enlace} se puede acceder a la documentación de su página oficial. 
+Beautiful Soup~\cite{bs4} es una biblioteca de Python extremadamente útil para la extracción de datos de páginas HTML o XML. Actualmente se encuentra en su versión 4.8.1.
 
 Esta biblioteca nos proporciona numerosos módulos para navegar a través de las páginas web y para extraer fácilmente su contenido. Puesto que gran parte del proyecto se basa en el uso de \textit{web-scraping}, se ha hecho uso intensivo de la misma para extraer los principales datos de los artículos científicos que posteriormente conformarán la BBDD del proyecto.
 
@@ -41,27 +41,44 @@ De Beautiful Soup hay que destacar su facilidad de uso y la amplia documentació
  
 
 \subsection{Habanero}
-Para poder hacer uso de la API de Crossref, se han explorado diversas alternativas. De entre todas las bibliotecas de Python se ha seleccionado Habanero, ya que es una biblioteca muy fácil de usar y está en constante actualización.
+Para poder hacer uso de la API de Crossref, se han explorado diversas alternativas. De entre todas las bibliotecas de Python se ha seleccionado Habanero~\cite{habanero}, ya que es una biblioteca muy fácil de usar y está en constante actualización.
 
 Esta biblioteca está diseñada para facilitar el acceso a las bases de datos de revistas científicas y a otras relacionadas con el ámbito académico. Ofrece una interfaz simple para recuperar información utilizando los protocolos y las API de diferentes bases de datos, incluyendo JSTOR, Unpaywall, Crossref, DataCite, etc. Además, Habanero es compatible con las normas de Open Access, lo que permite a los usuarios acceder a contenido científico gratuito y de libre acceso.
 
 \subsection{Selenium}
 
-Selenium es una biblioteca de Python de automatización de navegadores web que se utiliza para controlar el comportamiento de un navegador en tiempo real. Es una herramienta muy poderosa para realizar \textit{web scraping} de sitios web, especialmente en aquellos casos en que se necesita interactuar con la página web como si lo hiciera un usuario humano.
+Selenium~\cite{selenium} es una biblioteca de Python de automatización de navegadores web que se utiliza para controlar el comportamiento de un navegador en tiempo real. Es una herramienta muy poderosa para realizar \textit{web scraping} de sitios web, especialmente en aquellos casos en que se necesita interactuar con la página web como si lo hiciera un usuario humano.
 
 A diferencia de otras bibliotecas de \textit{web scraping}, Selenium permite simular la navegación humana en la web, permitiendo realizar búsquedas, hacer clic en botones, llenar formularios, entre otras acciones. Esto es muy útil cuando se trata de sitios web que tienen medidas de seguridad para evitar el \textit{web scraping} y requieren de interacción humana.
 
 \subsection{Scikit-learn}
 
-Scikit-learn es una biblioteca de aprendizaje automático en Python que ofrece una amplia variedad de algoritmos de clasificación, regresión y clustering, entre otros. Esta biblioteca destaca por su facilidad de uso y la implementación eficiente de los algoritmos, lo que permite su uso en grandes conjuntos de datos. Cuenta también con herramientas de preprocesamiento de datos y evaluación de modelos. Sus ventajas incluyen una documentación completa y una comunidad activa que ofrece soporte y mejora continuamente la biblioteca, así como la capacidad de integrarse fácilmente con otras bibliotecas y herramientas de Python para el análisis de datos.
+Scikit-learn~\cite{scikit} es una biblioteca de aprendizaje automático en Python que ofrece una amplia variedad de algoritmos de clasificación, regresión y clustering, entre otros. Esta biblioteca destaca por su facilidad de uso y la implementación eficiente de los algoritmos, lo que permite su uso en grandes conjuntos de datos. Cuenta también con herramientas de preprocesamiento de datos y evaluación de modelos. Sus ventajas incluyen una documentación completa y una comunidad activa que ofrece soporte y mejora continuamente la biblioteca, así como la capacidad de integrarse fácilmente con otras bibliotecas y herramientas de Python para el análisis de datos.
 
 \subsection{Unittest}
 
-Para los proyectos de pruebas, hemos utilizado la biblioteca de pruebas unitarias de Python llamada unittest. Una de las principales ventajas de unittest es que se integra fácilmente con el flujo de trabajo de Test Data Driven (metodología de pruebas empleada), permitiendo que las pruebas se ejecuten automáticamente y de manera aislada del código principal. Además, unittest proporciona una gran cantidad de funcionalidades y herramientas para facilitar la escritura y ejecución de pruebas, lo que nos ha permitido realizar pruebas complejas de manera eficiente y eficaz.
+Para los proyectos de pruebas, hemos utilizado la biblioteca de pruebas unitarias de Python llamada Unittest~\cite{unittest}. Una de las principales ventajas de unittest es que se integra fácilmente con el flujo de trabajo de Test Data Driven (metodología de pruebas empleada), permitiendo que las pruebas se ejecuten automáticamente y de manera aislada del código principal. Además, unittest proporciona una gran cantidad de funcionalidades y herramientas para facilitar la escritura y ejecución de pruebas, lo que nos ha permitido realizar pruebas complejas de manera eficiente y eficaz.
+
+\subsection{Psycopg2}
+ Psycopg2~\cite{psycopg2} es un adaptador de base de datos que permite a los desarrolladores interactuar de manera eficiente con PostgreSQL desde sus aplicaciones Python. Esta biblioteca es conocida por su robustez, rendimiento y amplia gama de funcionalidades. Psycopg2 proporciona una interfaz intuitiva y fácil de usar para realizar consultas, transacciones y manipulación de datos en PostgreSQL, lo que la convierte en una opción popular para aquellos que buscan una solución sólida y confiable en el desarrollo de aplicaciones Python basadas en bases de datos.
+
+\subsection{Flask}
+Flask~\cite{flask} es un popular \textit{framework} web de Python que ofrece una amplia gama de herramientas y funcionalidades para crear aplicaciones web de manera eficiente. Además, Flask tiene un sistema de enrutamiento flexible, plantillas Jinja2\footnote{Jinja2 es un motor de plantillas en Python ampliamente utilizado y altamente flexible. Proporciona a los desarrolladores una forma eficiente de generar contenido dinámico y estructurar la presentación de datos en aplicaciones web~\cite{jinja2}.} y una amplia variedad de extensiones para crear aplicaciones web personalizadas y escalables.
+
+Una de las principales ventajas de Flask es su simplicidad y facilidad de uso. Este \textit{framework} se centra en la simplicidad y en seguir el principio de <<hacer una cosa y hacerlo bien>>. Flask proporciona una estructura básica para crear aplicaciones web, pero también permite a los desarrolladores personalizar y ampliar sus funcionalidades según sus necesidades.
+
+Finalmente, se ha elegido trabajar con Flask ya que es una poderosa herramienta para el desarrollo de aplicaciones web en Python. Su simplicidad, flexibilidad y capacidad de integración lo convierten en una elección popular tanto para proyectos pequeños como para aplicaciones web más grandes y complejas.
+
+\subsection{Babel}
+Babel~\cite{babel} es una herramienta esencial en el desarrollo de aplicaciones web con Flask, especialmente cuando se trata de la internacionalización y localización de contenido. Babel proporciona una solución eficiente y sencilla para adaptar una aplicación Flask a diferentes idiomas y regiones, permitiendo así llegar a un público global.
+
+Con Babel, los desarrolladores pueden generar y gestionar archivos de traducción que contienen cadenas de texto en diferentes idiomas. Estos archivos de traducción se denominan catálogos de mensajes y se utilizan para proporcionar versiones localizadas de la interfaz de usuario y otros textos en la aplicación. Babel ofrece una variedad de herramientas y funciones para extraer, traducir y compilar estas cadenas de texto en diferentes idiomas.
+
+La integración de Babel en una aplicación Flask es sencilla, ya que Flask ofrece soporte nativo para esta herramienta a través de una extensión llamada Flask-Babel.
 
 \section{Bases de datos}
 
-Antes de su compra por Oracle Corporation (2010), MySQL era la aplicación de base de datos más popular de código abierto para la programación web. En el momento actual, el software libre nos ofrece dos soluciones ampliamente contrastadas en gestores de bases de datos relacionales: MariaDB y PostgreSQL. Necesitaremos una herramienta de este tipo para organizar los datos recolectados. La estructura tabular de la información nos permite aplicar sobre ella el lenguaje de interrogación SQL.
+Antes de su compra por Oracle Corporation (2010), MySQL era la aplicación de base de datos más popular de código abierto para la programación web. En el momento actual, el software libre nos ofrece dos soluciones ampliamente contrastadas en gestores de bases de datos relacionales: MariaDB y PostgreSQL (ver comparativa en Tabla \ref{tabla:comparativabbdd}). Necesitaremos una herramienta de este tipo para organizar los datos recolectados. La estructura tabular de la información nos permite aplicar sobre ella el lenguaje de interrogación SQL.
 
 En realidad, MariaDB es una bifurcación de MySQL nacida para garantizar la supervivencia del proyecto como código abierto. Hoy en día, MariaDB es altamente compatible con MySQL e incluso superior en sus últimas versiones (10.1.1), ya que la comunidad ha ido añadiendo nuevas características al proyecto original. Por otro lado, aunque no está tan extendido como MySQL, PostgreSQL es posiblemente el gestor de bases de datos de código abierto más sólido y potente a día de hoy.
 
@@ -75,7 +92,7 @@ Tamaño pequeño de base de datos & Tamaño grande de base de datos\\
 Sin soporte directo para JSON & Soporte directo de JSON\\
 No índices parciales & Índices parciales\\
 No soporte para web dinámica & Soporta sitios web dinámicos\\
-} 
+}
 
 
 \subsection{PostgreSQL}
@@ -85,15 +102,8 @@ Al igual que MariaDB, es un sistema de gestión de bases de datos relacional de 
 PostgreSQL utiliza y amplía el lenguaje SQL combinado con muchas características que almacenan y escalan de forma segura las cargas de trabajo de datos más complicadas~\cite{Postgresql.org}. 
 Su última versión y la usada para el proyecto es la versión 15.1 lanzada el 10 de noviembre de este año.
 
-\section{Aplicaión web}
-En el proyecto se ha utilizado Python, tal como se ha mencionado en apartados anteriores, como lenguaje principal de desarrollo. Para la creación de la aplicación web, se ha optado por utilizar Flask, un \textit{framework} ligero y flexible que facilita la construcción de aplicaciones web en Python. Además de Python y Flask, se han empleado otros lenguajes como HTML, CSS y JavaScript para desarrollar las interfaces de usuario y dotarlas de funcionalidades interactivas. 
-
-Asimismo, se ha utilizado la biblioteca psycopg2 de Python, la cual ha sido fundamental para establecer la comunicación con la base de datos tipo PostgreSQL. Esta biblioteca proporciona una interfaz eficiente y robusta para interactuar con la base de datos, permitiendo realizar operaciones de consulta, inserción, actualización y eliminación de datos de manera segura y eficiente.
-
-Para la internacionalización de la aplicación, se ha empleado Babel. Se trata de una herramienta de localización y traducción que permite adaptar la aplicación web a diferentes idiomas y culturas. De esta forma, se han implementado funcionalidades que facilitan la traducción de los elementos visuales y textuales de la aplicación, permitiendo que los usuarios puedan acceder y utilizar la aplicación en cualquiera de los siguientes idiomas: español, inglés o francés.
-
 \section{APIs externas}
-A lo largo del proyecto se ha recurrido a varias APIs diferentes para la fase de extracción de datos. A continuación, se enumeran aquellas de acceso gratuito con las que se ha podido trabajar.
+A lo largo del proyecto se ha recurrido a varias APIs diferentes para la fase de extracción de datos. A continuación, se enumeran aquellas de acceso gratuito con las que se ha podido trabajar (a lo largo de esta memoria se nombrarán también otras APIs pero que, finalmente, terminan siendo descartadas por ser de pago y con grandes limitaciones legales).
 
 \subsection{Google Scholar}
 Se trata de una de las principales herramientas que ofrece Google a los investigadores. \href{https://scholar.google.com/}{Google Scholar} es, fundamentalmente, un buscador de contenido y bibliografía científica que permite localizar artículos de revistas especializadas ordenados por relevancia en función de las palabras clave introducidas en el buscador. También se puede  filtrar la información en función de su fecha de publicación, idioma o número de citas.

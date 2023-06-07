@@ -1,29 +1,82 @@
 \apendice{Documentación de usuario}
 
 \section{Introducción}
+Esta sección se enfoca en proporcionar información detallada y clara sobre el funcionamiento de la aplicación web desarrollada con Flask. Tiene como objetivo principal ayudar a los usuarios a comprender cómo utilizar la aplicación de manera efectiva y aprovechar al máximo sus características y funcionalidades.
 
 \section{Requisitos de usuarios}
+En este apartado se enumerarán los requisitos que el usuario debe cumplir para poder interactuar con la aplicación satisfactoriamente.
+
+\begin{itemize}
+    \item Sistema Operativo: Indiferente, ya que se trata de una aplicación web (multiplataforma).
+    
+    \item Conocimientos básicos de navegación web: Los usuarios deben estar familiarizados con la navegación en sitios web y tener conocimientos básicos sobre cómo interactuar con formularios, botones y enlaces.
+    
+    \item Conexión a Internet: Para utilizar la aplicación web, los usuarios deben tener acceso a una conexión estable a Internet. Esto permitirá la comunicación con el servidor donde se encuentra alojada la aplicación y garantizará un funcionamiento adecuado de todas las funcionalidades en línea.
+
+    \item Navegador web: Se recomienda a los usuarios utilizar un navegador web actualizado, como Google Chrome, Mozilla Firefox, Safari o Microsoft Edge. Esto asegurará una mejor compatibilidad con las tecnologías utilizadas en la aplicación y ofrecerá una experiencia de usuario óptima.
+    
+    \item Dispositivo compatible: Los usuarios deben contar con un dispositivo compatible, como un ordenador de escritorio, un portátil, una tableta o un teléfono móvil, que les permita acceder y utilizar la aplicación web.
+    
+    \item Cuenta de usuario: En función del rol que quiera desempeñar el usuario, podrá crear una cuenta e iniciar sesión cada vez (no es obligatorio).
+
+\end{itemize}
+
 
 \section{Instalación}
+Dado que se trata de una aplicación web, el usuario no necesita instalar ningún \textit{software} en su dispositivo. Bastará con acceder (asegurándose siempre de tener conexión a Internet) a la dirección donde se aloja la aplicación: \url{https://paperrank.herokuapp.com/}.
 
 \section{Manual del usuario}
 
 
-\subsection{Entorno virtualizado}
+\subsection{Interfaz de inicio}
+La interfaz inicial de la aplicación web presenta las siguientes funciones:
 
-Se trata de un entorno aislado que te permite instalar y gestionar de forma independiente las bibliotecas y paquetes de Python que se necesitan para el proyecto, sin afectar a otros proyectos o al sistema operativo. Esto nos permite evitar  problemas de dependencias y compatibilidad entre diferentes versiones de bibliotecas, además de facilitar la gestión y el mantenimiento del proyectos.
- 
-Miniconda, por su parte, es una distribución de Python que incluye un gestor de paquetes llamado Conda, que te permite instalar y gestionar de forma sencilla bibliotecas y paquetes de Python.
+\begin{itemize}
+\item \textbf{Log In:} Permite a los usuarios iniciar sesión en la aplicación. Se solicita al usuario un nombre de usuario y una contraseña para acceder.
+\item \textbf{Sign In:} Permite a los nuevos usuarios registrarse en la aplicación. Durante el registro, se solicitará un nombre de usuario, una contraseña y una dirección de correo electrónico. Se verificará que el correo electrónico tenga un formato adecuado y que la contraseña cumpla con los requisitos básicos de seguridad. En caso contrario, se mostrará un mensaje de error con los requisitos.
+\item \textbf{Recuperación de Contraseña:} Si un usuario olvida su contraseña, puede utilizar esta opción para recuperarla. Se proporcionará un proceso para restablecer la contraseña y acceder nuevamente a la cuenta.
+\item \textbf{Mostrar/Ocultar Contraseña:} Se incluirá una opción para mostrar u ocultar la contraseña mientras se introduce, brindando al usuario mayor control y seguridad.
+\end{itemize}
 
-Así pues, se procede a crear un entorno virtualizado de Python utilizando Miniconda. El entorno en cuestión se encuentra empaquetado
-en la carpeta comprimida \texttt{environment.zip}. Para poder utilizar este entorno, bastará con realizar los siguientes pasos:
+En caso de que se introduzcan datos incorrectos en el inicio de sesión o registro, se mostrará un mensaje de error correspondiente.
 
+\subsection{Interfaz principal}
+La interfaz principal de la aplicación web permite al usuario realizar las siguientes acciones:
+
+\begin{itemize} 
+\item \textbf{Selección de catagoría y revista:} El usuario puede elegir una categoría y revista de una lista desplegable (o utilizar la barra de búsqueda para encontrar una revista específica) para la cual se desea predecir el JCR.
+\item \textbf{Modelo de Predicción:} El usuario puede seleccionar uno o varios modelos de predicción para calcular el JCR. Se proporcionará una lista de modelos disponibles para elegir.
+\item \textbf{Botones:} 
 \begin{enumerate}
-    \item Instalar MiniConda en el dispositivo en el que se quiera ejecutar el prototipo.
-    \item Crear el entorno usando el siguiente comando en la consola de MiniConda: \verb|conda env create -f environment.yml|. Es preciso estar en el mismo directorio que el fichero \texttt{environment.yml} o especificar la ruta completa.
-    \item A continuación, se debe activar el entorno con el siguiente comando: \verb|conda activate crossref_entorno|. 
-    \item Ejecutar el prototipo de Crossref.
-    \item Una vez finalizado, para desactivar el entorno, bastará con ejecutar el siguiente comando: \verb|conda deactivate|. 
+    \item Para visualizar el listado de revistas, el usuario deberá pulsar sobre el icono junto al título de selección de revistas.
+    \item Para visualizar una gráfica con los valores del JCR de los últimos años de una revista (que deberá seleccionar previamente), pulsar sobre el botón <<Histórico JCR>>.
+    \item Para visualizar las predicciones del JCR, el usuario deberá pulsar sobre el botón <<Predecir JCR>>.
 \end{enumerate}
+\end{itemize}
+
+Si alguno de los campos requeridos no está cumplimentado, los botónes no se activarán y aparecerá un \textit{tooltip}.
+
+\subsection{Interfaz del histórico}
+En esta interfaz, a la que solo se puede acceder desde la interfaz principal, se mostrarán los resultados del cálculo del JCR de la revista seleccionada en los últimos 5 años en un gráfico.  El usuario puede interactuar con el gráfico que mostrará un \textit{tooltip} con los valores donde se sitúe el cursor.
+
+\subsection{Interfaz de predicción}
+En esta interfaz (de nuevo solo se puede acceder desde la interfaz principal) se mostrará otro gráfico los resultados del cálculo del JCR de la revista seleccionada en los últimos 5 años, así como las predicciones de cada modelo. El usuario puede interactuar con el gráfico que mostrará un \textit{tooltip} con los valores donde se sitúe el cursor.
+
+\subsection{Interfaz de listado de revistas}
+Esta interfaz (de nuevo solamente accesible desde la interfaz principal) muestra una lista de revistas disponibles en la aplicación. Se incluye una barra de búsqueda para facilitar la búsqueda de revistas específicas. La paginación está por defecto en 10 revistas por página. Además, el usuario podrá ver información adicional de cada revista al pulsar sobre el nombre de las mismas.
+
+\subsection{Interfaz de perfil de usuario}
+El usuario podrá consultar y modificar (icono de lapicero) sus credenciales en cualquier momento.
+
+
+\subsection{Características Generales de las Interfaces}
+Las interfaces de la aplicación web contarán con las siguientes características generales:
+
+\begin{itemize} 
+\item \textbf{Barra Superior:} En la zona superior se muestra una barra que contiene el icono del perfil del usuario <<logueado>>, así como un enlace de ayuda que redirigirá a la documentación en línea. Al hacer clic en el icono del perfil del usuario, se abrirá una lista desplegable donde podrá, o bien cerrar la sesión o bien acceder a la interfaz de perfil de usuario. También se incluirá un símbolo de internacionalización, donde el usuario podrá seleccionar el idioma que desee entre los disponibles (español, inglés, italiano y francés).
+\item \textbf{Política de Privacidad y Términos de Uso:} En el pie de página de la aplicación web, se proporcionará un enlace a la política de privacidad y los términos de uso para que los usuarios puedan acceder a esta información importante. También aparecerá el logo de la Universidad de Burgos, a cuya página oficial pueden redireccionarse los usuarios al pulsar sobre él.
+\item \textbf{Navegación}: El usuario podrá retroceder fácilmente a interfaces anteriores a través de las \textit{breadcrums}.
+\item \textbf{Compatibilidad y Responsividad:} La aplicación web es compatible con diferentes navegadores y sistemas operativos para garantizar que los usuarios puedan acceder a ella desde cualquier dispositivo y ubicación. Además, se ha diseñado con un enfoque de <<responsividad>> para que se adapte adecuadamente a diferentes tamaños de pantalla y dispositivos.
+\end{itemize}
 
 

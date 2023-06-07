@@ -115,7 +115,7 @@ Para intentar resolver esta situación, se ha intentado superar el CAPTCHA emula
 
 \subsection{Web of Science y Scopus}
 
-Se consideraron también estas dos potentes fuentes bibliográficas. Sin embargo, para acceder a los datos a través de sus APIs correspondientes, se requiere una licencia que permita su uso. A pesar de haber solicitado dichas licencias, las limitaciones y restricciones de ambas APIs han impedido la realización de prototipos que cumplan con los objetivos requeridos para este proyecto. Finalmente se terminan descartando ambas opciones.
+Se consideraron también estas dos potentes fuentes bibliográficas. Sin embargo, para acceder a los datos a través de sus APIs correspondientes, se requiere una licencia que permita su uso. A pesar de haber solicitado dichas licencias, las limitaciones y restricciones de ambas APIs (tanto en el ámbito legal como en el económico) han impedido la realización de prototipos que cumplan con los objetivos requeridos para este proyecto. Finalmente, tras varios intentos, se terminan descartando ambas opciones.
 
 \subsection{Prototipos para Crossref}
 
@@ -203,7 +203,15 @@ Tras analizar los resultados de esta etapa, para poder hacer uso de ellos más a
 
 
 \section{Creación de la aplicación web}
-...
+
+Se pueden destacar algunos aspectos del proceso de creación de la aplicación web, especialmente los relacionados con la base de datos y el servidor de aplicaciones en la nube Heroku. 
+
+Uno de estos aspectos es la imposibilidad de realizar con Heroku Postgres\footnote{Heroku Postgres es una solución de alojamiento y gestión de bases de datos PostgreSQL proporcionada por Heroku.} operaciones para optimizar la base de datos (i.e.: sentencias como \texttt{ANALIZE}), probablemente por una cuestión de permisos de usuario.
+
+Otro aspecto relevante en cuanto a Heroku es el comportamiento inconstante en la carga de las variables de sesión. En este caso, se están considerando variables de sesión tanto el idioma como el nombre del usuario que ha iniciado sesión. En algunas ocasiones, estas variables se cargan correctamente, mientras que en otras ocasiones no se cargan como se espera. Esto es particularmente desconcertante, ya que se espera que el comportamiento de las variables de sesión sea determinista y consistente. Se sospecha que este problema está relacionado con la velocidad de respuesta de la aplicación alojada en Heroku. Es posible que, debido a la naturaleza distribuida de la plataforma y a las variaciones en la carga del servidor, la respuesta del sistema para cargar las variables de sesión no siempre sea uniforme. Esto puede dar lugar a una experiencia inconsistente para los usuarios, ya que las variables de sesión pueden o no estar disponibles en diferentes momentos.
+
+Por otro lado, en relación con la librería psycopg2 (que se ha usado para realizar la conexión a la base de datos), se ha descubierto (utilizando la función \texttt{copy\_from}) que no admite nombres de columnas en mayúsculas, lo cual es incompatible con la notación de PostgreSQL. En la documentación de psicopg2 se asegura que \texttt{copy\_from} funciona con la misma sintaxis de PostgreSQL, mientras que, en la documentación de PostgreSQL encontramos que <<\textit{Key words and unquoted identifiers are case insensitive}>>~\cite{bug}. Se ha notificado este error en la \textit{issue} \href{https://github.com/psycopg/psycopg2/issues/1581}{\#1581}.
+
 
 
 

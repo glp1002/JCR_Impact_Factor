@@ -1,27 +1,384 @@
 \apendice{Documentación técnica de programación}
 
 \section{Introducción}
-
-
+En este anexo se aportará la documentación necesaria sobre el diseño, implementación y funcionamiento de la aplicación y del resto de módulos de código. Esta documentación proporcionará a otros desarrolladores y programadores una guía completa y coherente para comprender, utilizar y mantener eficientemente este \textit{software}.
 
 \section{Estructura de directorios}
+El repositorio (disponible en \url{https://github.com/glp1002/JCR_Impact_Factor}) se organiza en un total de 5 directorios principales (ver Figura \ref{fig:diag_paquetes}) que, en orden alfabétco, serían los siguientes:
+
+\begin{itemize}
+    \item \textbf{web\_aplication}: contiene el código y los recursos de la aplicación web.
+    \begin{itemize}
+        \item \textbf{backend}: en esta carpeta se organiza la estructura de clases para gestionar los datos y la lógica de negocio de la aplicación.
+        \item \textbf{diagram\_models}: aquí se encuentran los datos binarios (\textit{pickle}) de los modelos de predicción que va a usar la aplicación.
+        \item \textbf{static}: contiene todos los ficheros CS, JavaScript y multimedia (imágenes, iconos y animaciones).
+        \item \textbf{templates}: contiene todos los ficheros HTML y plantillas Jinja de la aplicación.
+        \item \textbf{translations}: contiene todos ficheros <<.po>> y <<.mo>> para la internacionalización al inglés, francés, italiano y español.
+        
+    \end{itemize}
+        
+    \item \textbf{calculate\_jcr}: contiene los módulos necesarios para el cálculo del JCR.
+    \begin{itemize}
+        \item \textbf{listas\_jcr}: contiene los ficheros con los datos extraídos y que nos permitirán calcular el JCR.
+        \item \textbf{resultados}: contiene los resultados del cálculo en diferentes ficheros CSV.    
+    \end{itemize}
+    
+    \item \textbf{doc}: contiene la documentación del proyecto (memoria y anexos).
+        
+    \item \textbf{data\_extraction}: contiene los modelos desarrollados para la fase de extracción de datos.
+    \begin{itemize}
+        \item \textbf{listas\_jcr}: contiene los ficheros con los datos extraídos y que nos permitirán calcular el JCR.
+        \item \textbf{resultados}: contiene los resultados del cálculo en diferentes ficheros CSV.    
+    \end{itemize}
+
+    \item \textbf{prediction\_models}: contiene los modelos de aprendizaje automático de predicción del JCR.
+\end{itemize}
+
+\imagen{diag_paquetes}{Diagrama de paquetes del repositorio}{1}
 
 \section{Manual del programador}
 
-Esta sección está destinada a proporcionar información detallada sobre cómo utilizar el programa desarrollado en el proyecto. Aquí se describen las funciones y características clave de dicho software, así como los detalles sobre la configuración y la integración del programa con otros sistemas.
+Esta sección está destinada a proporcionar información detallada sobre cómo utilizar el programa desarrollado en el proyecto.
 
-\subsection{Base de datos}
-Para aquellos usuarios de sistemas operativos Windows, es importante tener en cuenta un detalle en el momento de obtener información de la base de datos en PostgresSQL. Cuando se recolectan los datos en formato CSV, es necesario cambiar la ruta de generación de estos archivos a la carpeta <<Public>> \footnote{Directorio que permite compartir archivos entre distintos usuarios en un mismo sistema Windows. Microsoft ha mantenido este directorio desde la versión de WindowsXP.}. Esto se debe a que el usuario por defecto que genera PostgresSQL (usuario <<postgres>>), no tiene los permisos suficientes para leer e importar datos de los CSV en cuestión ya que, para ello, se utiliza el comando \textit{copy} (que solo puede ser ejecutado por <<Superusers>>)\cite{Dominguez2020}. Sin embargo, la carpeta <<Public>> cuenta con los permisos necesarios para que el usuario que crea Postgres pueda acceder y leer los datos. Por lo tanto, es importante seguir este paso para garantizar que se pueda obtener correctamente la información recogida previamente.
+\subsection{Desarrollo local con Flask}
+Durante la etapa de desarrollo, generalmente, se lanza la aplicación de forma local haciendo uso del \textit{framework} de Flask. A continuación se detallan algunos aspectos relevantes a conocer por el programador.
+
+\subsubsection{\textbf{Instalación de dependencias}}
+
+\begin{enumerate}
+\item \textbf{Configuración del entorno virtual}
+
+\nota{Este paso es opcional pero muy recomendado, especialmente si se están manejando otras aplicaciones en el mismo dispositivo.}
+
+   Antes de comenzar, es una buena práctica configurar un entorno virtual, ya que permite aislar las dependencias del proyecto y evitar conflictos con otras aplicaciones. Para configurar un entorno virtual, sigue los siguientes pasos:
+
+   \begin{itemize}
+    \item Abrir un terminal y navegar hasta la carpeta raíz del proyecto.
+    \item Ejecutar el siguiente comando para crear un nuevo entorno virtual:
+      \begin{verbatim}
+      python3 -m venv nombre_entorno_virtual
+      \end{verbatim}
+      (Reemplazar \texttt{nombre\_entorno\_virtual} con el nombre que se desee para el entorno virtual).
+    \item Activar el entorno virtual ejecutando el siguiente comando:
+      \begin{itemize}
+        \item En Windows:
+          \begin{verbatim}
+          nombre_entorno_virtual\Scripts\activate
+          \end{verbatim}
+        \item En Linux:
+          \begin{verbatim}
+          source nombre_entorno_virtual/bin/activate
+          \end{verbatim}
+      \end{itemize}
+  \end{itemize}
+
+\item \textbf{Instalación de Flask y dependencias}    
+
+   Una vez configurado el entorno virtual (si se ha decidido utilizar uno), el siguiente paso es instalar Flask y las dependencias necesarias para la ejecución de la aplicación. Será preciso navegar hasta la carpeta raíz del proyecto. Después, se deberá seguir los siguientes pasos:
+
+   \begin{itemize}
+    \item Ejecutar el siguiente comando para instalar las dependencias especificadas en el archivo \texttt{requirements.txt}:
+      \begin{verbatim}
+      pip install -r requirements.txt
+      \end{verbatim}
+      Este comando buscará las dependencias requeridas en el archivo \texttt{requirements.txt} y las instalará automáticamente.
+    \item Si fuera necesario agregar dependencias adicionales a su proyecto, puedes hacerlo editando el archivo \texttt{requirements.txt}. Es preciso asegurarse de seguir el formato adecuado, donde cada dependencia está en una línea separada y puede incluir una versión específica si es necesario. Por ejemplo:
+      \begin{verbatim}
+      flask==2.0.1
+      sqlalchemy==1.4.20
+      \end{verbatim}
+  \end{itemize}
 
 
-%\subsection{Internacionalización de la aplicación}
+\item \textbf{Verificación de la instalación}
+   Una vez completada la instalación de Flask y las dependencias, conviene verificar que todo se haya configurado correctamente ejecutando un comando de prueba. Por lo general, esto implica ejecutar un servidor de desarrollo local y abrir su aplicación web en un navegador. Aquí hay un ejemplo de cómo hacerlo:
+
+ \begin{itemize}
+    \item Ejecutar el siguiente comando para iniciar el servidor de desarrollo de Flask:
+      \begin{itemize}
+        \item En Windows:
+          \begin{verbatim}
+          .\win_start.cmd
+          \end{verbatim}
+        \item En Linux:
+          \begin{verbatim}
+          ./lin_start.sh
+          \end{verbatim}
+          Si no tuviera permisos de ejecución, bastaría con ejecutar previamente el siguiente comando:
+          \begin{verbatim}
+          chmod +x lin_start.sh
+          \end{verbatim}
+      \end{itemize}
+    \item Abrir un navegador web y dirigirse a la siguiente dirección URL: \url{http://localhost:5000}
+  \end{itemize}
+
+   Si todo ha sido configurado correctamente, se debería poder ver la aplicación Paperrank en funcionamiento en el navegador.
+
+\end{enumerate}
 
 
+\subsubsection{Lanzamiento de la aplicación}
+
+Para lanzar la aplicación, bastará con replicar el apartado 3 del apartado anterior <<Verificación de la instalación>>. Es preciso repetir este proceso cada vez que se realiza un cambio en el código.
+
+Por otro lado, se puede lanzar Flask en modo \textit{debug}. Para ello se debe establecer la variable de entorno \texttt{FLASK\_ENV} antes de ejecutar el comando para iniciar el servidor Flask. La forma exacta de hacerlo puede variar ligeramente según el sistema operativo.
+\begin{itemize}
+    \item En Windows:
+    
+        Abrir un terminal (por ejemplo, PowerShell o CMD) y navegar hasta el directorio donde se encuentra la aplicación Flask.
+    
+        Establecer la variable de entorno \texttt{FLASK\_ENV} a <<\textit{development}>> utilizando el siguiente comando:
+    
+        \begin{verbatim}
+        set FLASK_ENV=development
+        \end{verbatim}
+        
+    \item En Linux:
+    
+        Abrir un terminal y navegar hasta el directorio donde se encuentra la aplicación Flask.
+        Establecer la variable de entorno \texttt{FLASK\_ENV} a <<\textit{development}>> utilizando el siguiente comando:
+    
+        \begin{verbatim}
+        export FLASK_ENV=development
+        \end{verbatim}
+\end{itemize}
+
+\subsubsection{Configuración de la base de datos local}
+Para poder ejecutar la aplicación en local, será necesario crear una base de datos Postgres y conectarla al código de la aplicación.
+
+\begin{enumerate}
+  \item \textbf{Instalación de PostgreSQL}
+
+  \begin{itemize}
+    \item Descargar e instalar PostgreSQL desde el sitio web oficial: \url{https://www.postgresql.org/download/}.
+    \item Seguir las instrucciones de instalación para susistema operativo específico.
+    \item Durante la instalación, será necesario asegurarse de recordar la contraseña del usuario <<postgres>>, ya que será necesaria más adelante.
+  \end{itemize}
+
+  \item \textbf{Creación de la BBDD a través de un terminal}
+
+  \begin{itemize}
+    \item Abrir un terminal y comprobar que el servidor PostgreSQL esté en funcionamiento.
+    \item Ejecutar el siguiente comando para acceder a la interfaz de línea de comandos de PostgreSQL:
+      \begin{verbatim}
+      psql -U postgres
+      \end{verbatim}
+    \item Se solicitará la contraseña del usuario <<postgres>>.
+    \item Una vez en la interfaz de PostgreSQL, ejecutar el siguiente comando para crear una nueva base de datos:
+      \begin{verbatim}
+      CREATE DATABASE nombre_basedatos;
+      \end{verbatim}
+      (Reemplazar \texttt{nombre\_basedatos} con el nombre que desee para su base de datos.)
+    \item Se puede verificar que la base de datos se haya creado correctamente ejecutando el comando \texttt{\textbackslash l}, que mostrará una lista de todas las bases de datos disponibles.
+  \end{itemize}
+
+  \item \textbf{Creación de la BBDD utilizando PgAdmin}
+
+  \begin{itemize}
+    \item Abrir PgAdmin, la interfaz gráfica de administración de PostgreSQL.
+    \item En la ventana de conexión, introducir los detalles de conexión necesarios, como el nombre del servidor, el puerto, el nombre de usuario y la contraseña.
+    \item Hacer clic con el botón derecho en <<Servers>> y seleccionar <<Create>> y <<Server>>.
+    \item Completar la información requerida, como el nombre del servidor y la dirección IP.
+    \item En la pestaña <<Connection>>, introducir el nombre de usuario y la contraseña del usuario <<postgres>>.
+    \item Hacer clic en <<Save>> para guardar la configuración del servidor.
+    \item En el panel izquierdo de PgAdmin, expandir el servidor recién creado y hacer clic con el botón derecho en <<Databases>>.
+    \item Seleccionar <<Create>> y <<Database>>.
+    \item Ingresar el nombre deseado para la base de datos y hacer clic en <<Save>> para crearla.
+  \end{itemize}
+
+\end{enumerate}
+
+\nota{Para aquellos usuarios de sistemas operativos Windows, es importante tener en cuenta un detalle en el momento de obtener información de la base de datos en PostgresSQL. Cuando se recolectan los datos en formato CSV, es necesario cambiar la ruta de generación de estos archivos a la carpeta <<Public>> \footnote{Directorio que permite compartir archivos entre distintos usuarios en un mismo sistema Windows. Microsoft ha mantenido este directorio desde la versión de WindowsXP.}. Esto se debe a que el usuario por defecto que genera PostgresSQL (usuario <<postgres>>), no tiene los permisos suficientes para leer e importar datos de los CSV en cuestión ya que, para ello, se utiliza el comando \textit{copy} (que solo puede ser ejecutado por <<Superusers>>)\cite{Dominguez2020}. Sin embargo, la carpeta <<Public>> cuenta con los permisos necesarios para que el usuario que crea Postgres pueda acceder y leer los datos. Por lo tanto, es importante seguir este paso para garantizar que se pueda obtener correctamente la información recogida previamente.
+}
+
+\subsubsection{Interacción con la base de datos en Flask}
+Para poder establecer una conexión con la base de datos que se ha creado, para posteriormente ejecutar sentencias SQL.
+
+\begin{enumerate}
+
+  \item \textbf{Configuración de la conexión a la BBDD}
+
+  \begin{itemize}
+    \item Abrir el archivo de configuración de la aplicación Flask <<app.py>>.
+    \item Se puede observar el módulo psycopg2 importado:
+      \begin{verbatim}
+      import psycopg2
+      \end{verbatim}
+    \item Configurar los parámetros de conexión (con las credenciales de la base de datos que se ha creado en el apartado anterior):
+      \begin{verbatim}
+      app.config['DATABASE'] = {
+          'host': 'localhost',
+          'port': '5432',
+          'database': 'nombre_basedatos',
+          'user': 'nombre_usuario',
+          'password': 'contraseña_usuario'
+      }
+      \end{verbatim}
+    Realizar la conexión a la base de datos:
+      \begin{verbatim}
+      def get_db():
+        if 'db' not in g:
+            g.db = psycopg2.connect(**app.config['DATABASE'])
+        return g.db
+      \end{verbatim}
+  \end{itemize}
+
+  \item \textbf{Ejecución de consultas en la base de datos}
+
+  \begin{itemize}
+
+    \item Crear una función en el paquete <<modelo>> que ejecute consultas en la base de datos. A continuación se presenta un ejemplo práctico de cómo ejecutar una consulta \texttt{SELECT}:
+      \begin{verbatim}
+      def obtener_datos(self):
+          cursor = self.conn.cursor()
+          cursor.execute("SELECT * FROM tabla")
+          datos = cursor.fetchall()
+          cursor.close()
+          conn.close()
+          return datos
+      \end{verbatim}
+      En este ejemplo, se establece una conexión a la base de datos, se ejecuta una consulta \texttt{SELECT} en una tabla y se obtienen los resultados. Luego, se cierran tanto el cursor como la conexión a la base de datos (sin necesidad de incluirlo directamente en el método).
+
+  \end{itemize}
+\end{enumerate}
+
+
+\subsubsection{Uso de plantillas en Flask}
+
+Las plantillas en Flask te permiten separar la lógica de presentación de la aplicación web del código Python. Esto mejora la legibilidad y mantenibilidad del código, así como la reutilización de componentes de interfaz de usuario. Flask utiliza el motor de plantillas Jinja2, que proporciona una sintaxis sencilla y poderosa. A continuación, se detallan los pasos para utilizar plantillas en Flask:
+
+\begin{enumerate}
+  \item \textbf{Creación de una carpeta para las plantillas}
+    Las plantillas de la página web se encuentran en la carpeta <<templates>> (llamada así por convención). Ahí deberán ubicarse todos los ficheros HTML.
+
+  \begin{verbatim}
+  /paperrank
+  |-- app.py
+  |-- /templates
+      |-- plantilla.html
+  \end{verbatim}
+
+  \item \textbf{Creación de una plantilla}
+
+  \begin{itemize}
+    \item Crear un archivo HTML dentro de la carpeta <<templates>>. Por ejemplo, <<plantilla.html>>.
+    \item Abrir el archivo <<plantilla.html>> y escribir el código HTML deseado, incluyendo las partes que se desee que sean dinámicas utilizando las etiquetas y sintaxis de Jinja2. Por ejemplo:
+  
+
+  \begin{verbatim}
+  <!DOCTYPE html>
+  <html>
+  <head>
+      <title>{{ titulo }}</title>
+  </head>
+  <body>
+      <h1>Bienvenido a mi aplicación Flask</h1>
+      <p>{{ mensaje }}</p>
+  </body>
+  </html>
+  \end{verbatim}
+\end{itemize} 
+
+  \item \textbf{Ejecución de la aplicación}
+
+  \begin{itemize}
+    \item Guardar los cambios y ejecutar la aplicación Flask.
+    \item Abrir un navegador web y accede a la URL correspondiente a la ruta definida en la aplicación Flask.
+    \item Se debería ver la plantilla renderizada con los valores dinámicos insertados en los lugares correspondientes.
+  \end{itemize}
+\end{enumerate}
+
+
+\subsubsection{Internacionalización con Babel en Flask}
+
+La internacionalización es un aspecto muy importante al desarrollar una aplicación web, y Flask ofrece soporte para la internacionalización utilizando la extensión Flask-Babel. A continuación, se detallan los pasos necesarios para internacionalizar la aplicación Flask y cómo implementar la traducción en las plantillas HTML.
+
+\begin{enumerate}
+
+  \item \textbf{Configuración de Babel en la aplicación Flask}
+
+  En el archivo principal de la aplicación <<app.py>> deberán realizarse los siguientes pasos:
+
+  \begin{itemize}
+    \item Se puede observar que la clase Babel está importada al inicio:
+      \begin{verbatim}
+      from flask_babel import Babel
+      \end{verbatim}
+
+    \item También se puede observar la presencia de una función para determinar el idioma a utilizar:
+      \begin{verbatim}
+# Variables globales de internacionalización con Babel
+app.config['BABEL_DEFAULT_LOCALE'] = 'en'
+app.config['LANGUAGES'] = {
+    'en': gettext('Inglés'),
+    'es': gettext('Español'),
+    'fr': gettext('Francés'),
+    'it': gettext('Italiano')
+}
+
+# Obtiene el idioma preferido del navegador, si no se toma el idioma por defecto de la aplicación
+def get_locale():
+    lang = session.get('LANGUAGES', None)
+    if lang == None:
+        browser_locale = request.accept_languages.best_match(app.config['LANGUAGES'].keys())
+        if browser_locale is not None:
+            return browser_locale
+        return app.config['BABEL_DEFAULT_LOCALE']
+    else:
+        app.config['BABEL_DEFAULT_LOCALE'] = lang
+        return app.config['BABEL_DEFAULT_LOCALE']
+      \end{verbatim}
+
+    \item Inicializar Babel, pasando la función \texttt{get\_locale} como parámetro \texttt{locale\_selector}:
+      \begin{verbatim}
+      Babel(app, locale_selector=get_locale)
+      \end{verbatim}
+  \end{itemize}
+
+  Además de estas configuraciones básicas (ya implamentadas), se puede añadir lógica adicional según las nuevas necesidades que aparezcan.
+
+  \item \textbf{Internacionalización de las plantillas HTML}
+
+  En las plantillas HTML, utilizar llaves dobles \{\{ \}\} para los textos que se deseen internacionalizar. Por ejemplo:
+  \begin{verbatim}
+  <p>{{ gettext("Ayuda") }}</p>
+  \end{verbatim}
+
+  El método \texttt{gettext} permite traducir el texto proporcionado en el idioma seleccionado.
+
+  \item \textbf{Generación de archivos de traducción}
+
+  \begin{itemize}
+    \item Abrir un terminal en el directorio raíz de la aplicación.
+    \item Ejecutar el siguiente comando para generar un archivo de configuración automáticamente:
+      \begin{verbatim}
+      pybabel extract -F babel.cfg -o messages.pot .
+      \end{verbatim}
+      Esto creará un archivo <<messages.pot>> que contiene los textos extraídos de las plantillas HTML.
+
+    \item Después, ejecutar el siguiente comando para inicializar los archivos de traducción para cada idioma que se desee:
+      \begin{verbatim}
+      pybabel init -i messages.pot -d translations -l es
+      \end{verbatim}
+      Será necesario reemplazar <<es>> con el código del idioma correspondiente. Este comando creará un archivo <<.po>> en la carpeta de traducciones para cada idioma, donde será necesario ingresar las traducciones para cada texto.
+  \end{itemize}
+
+  \item \textbf{Compilación de las traducciones}
+
+  Una vez que se hayan ingresado las traducciones en los archivos <<.po>>, se deberá ejecutar el siguiente comando para compilar las traducciones y generar los archivos binarios <<.mo>>:
+  \begin{verbatim}
+  pybabel compile -d translations
+  \end{verbatim}
+  Esto creará los archivos binarios <<.mo>> necesarios para cargar las traducciones en la aplicación Flask.
+\end{enumerate}
+
+\subsubsection{Consideraciones adicionales}
+Es necesario tener en cuenta que el nombre de los directorios está elegido a propósito para ser entendido por Flask. Por ejemplo, las carpetas <<templates>> y <<static>> son reconocidas por Flask como las carpetas donde se encuentran los ficheros HTML, CSS y JavaScript por defecto. Si se quisiera renombrar estas carpetas, se deberá especificar el nuevo nombre a la hora de crear la aplicación en el fichero <<app.py>>.
 
 \section{Compilación, instalación y ejecución del proyecto}
 
 \subsection{Despliegue en Heroku}
-A continuación se muestra la información en formato LaTeX:
+En esta sección, se describe el proceso de lanzamiento de la aplicación en Heroku.
 
 \nota{En el código de la aplicación web, al incluir \texttt{import} de clases propias, es preciso añadir al inicio de la ruta de paquetes el punto (por ejemplo, \texttt{import .miCarpeta.miClase}). Sin el punto inicial, Heroku no identificará los módulos por no estar en la raíz del repositorio.}
 
@@ -41,7 +398,7 @@ Para la creación de la aplicación en Heroku, se deben seguir los siguientes pa
 \begin{enumerate}
     \item Crear cuenta de Heroku (\url{https://www.heroku.com/what}), donde se solicitará elegir una forma de doble autentificación.
     \item Solicitar el \textit{Student Pack} (\url{https://www.heroku.com/github-students}) que ofrece GitHub Student para poder utilizar de forma gratuita (con limitaciones) los servicios de Heroku. Será necesario esperar algunos días antes de recibir una confirmación.
-    \item Descargar el \textit{software} Heroku CLI (\url{https://devcenter.heroku.com/articles/heroku-cli}) adecuado para tu sistema operativo.
+    \item Descargar el \textit{software} Heroku CLI (\url{https://devcenter.heroku.com/articles/heroku-cli}) adecuado para su sistema operativo.
     \item Crear aplicación. En este caso, se recomienda hacerlo desde un terminal en la raíz del repositorio de GitHub.
 \end{enumerate}
 
@@ -54,7 +411,7 @@ Los comandos para crear la aplicación son los siguientes:
     
     \item Para crear la aplicación, bastará con ejecutar \texttt{\$ heroku create nombre\_app --region=eu} \\
     Como respuesta, deberá obtener la dirección de la aplicación y del repositorio remoto de Heroku con el siguiente formato: \\
-    \texttt{https://nombre\_app.herokuapp.com/} | \texttt{https://git.heroku.com/nombre\_app.git}
+    \texttt{https://nombre\_app.herokuapp.com/} | \\\texttt{https://git.heroku.com/nombre\_app.git}
     
     \item Finalmente, ejecutar \texttt{\$ git push heroku main} $\to$ para subir el contenido de la rama \texttt{main} del repositorio GitHub al repositorio remoto de Heroku. Este comando se deberá ejecutar cada vez que hay cambios nuevos que se quieran desplegar.
     
@@ -69,7 +426,7 @@ En este caso, como nuestra aplicación hace uso de una base de datos Postgres, s
 \begin{itemize}
     \item Añadir (comando \texttt{\$ addon} o directamente desde la web) un nuevo complemento: Heroku Postgres. Sin el \textit{Student Pack} mencionado anteriormente, será necesario realizar un pago.
     
-    \item Además será necesario configurar en tu código las credenciales de la base de datos (proporcionadas por Heroku) para poder establecer las conexiones. Es importante ejecutar de nuevo el comando \texttt{\$ git push heroku main} tras realizar estos cambios.
+    \item Además será necesario configurar en el código las credenciales de la base de datos (proporcionadas por Heroku) para poder establecer las conexiones. Es importante ejecutar de nuevo el comando \texttt{\$ git push heroku main} tras realizar estos cambios.
 
     \item Volver a ejecutar \texttt{\$ heroku open} y la aplicación ya estará en funcionamiento.
 \end{itemize}
@@ -85,8 +442,25 @@ Algunos comandos útiles (\url{https://devcenter.heroku.com/articles/heroku-cli-
     \item Registro:\texttt{\$ heroku logs} (Añadir la opción \texttt{--tail} si se quiere que el log se mantenga abierto).
 \end{itemize}
 
+Por otro lado, Heroku y Heroku Postgres presentan ciertas limitaciones que es importante tener en cuenta. En primer lugar, una de las restricciones notables es la incapacidad de manejar peticiones largas a las bases de datos. Esto implica que las consultas o transacciones que requieran un tiempo prolongado de ejecución pueden verse interrumpidas o finalizadas prematuramente. Esto puede ser problemático en casos donde se necesite procesar grandes volúmenes de datos o realizar operaciones complejas.
+
+Además, otra limitación significativa está relacionada con las restricciones de versiones en la plataforma Python de Heroku. En particular, la plataforma exige que todas las aplicaciones sean compatibles con Python 3.11, que es una versión muy reciente. Esta rigidez en las versiones puede resultar restrictiva, ya que puede requerir ajustes y actualizaciones significativas en el código existente para asegurar la compatibilidad. Esta falta de flexibilidad puede ser un desafío para aquellos proyectos que dependen de bibliotecas o \textit{frameworks} que aún no son totalmente compatibles con Python 3.11.
+
+\section{Otros módulos del proyecto}
+Además de la aplicación, es importante mencionar que para poder ejecutar fácilmente el módulo de extracción de datos de Crossref que se encuentra en el repositorio, se ha creado un entorno virtualizado.
+
+Se trata de un entorno aislado que te permite instalar y gestionar de forma independiente las bibliotecas y paquetes de Python que se necesitan para el proyecto, sin afectar a otros proyectos o al sistema operativo. Esto nos permite evitar  problemas de dependencias y compatibilidad entre diferentes versiones de bibliotecas, además de facilitar la gestión y el mantenimiento del proyectos. Miniconda, por su parte, es una distribución de Python que incluye un gestor de paquetes llamado Conda, que te permite instalar y gestionar de forma sencilla bibliotecas y paquetes de Python. Así pues, se procede a crear un entorno virtualizado de Python utilizando Miniconda. El entorno en cuestión se encuentra empaquetado en la carpeta comprimida \texttt{environment.zip}. Para poder utilizar este entorno, bastará con realizar los siguientes pasos:
+
+\begin{enumerate}
+    \item Instalar MiniConda en el dispositivo en el que se quiera ejecutar el prototipo.
+    \item Crear el entorno usando el siguiente comando en la consola de MiniConda: \verb|conda env create -f environment.yml|. Es preciso estar en el mismo directorio que el fichero \texttt{environment.yml} o especificar la ruta completa.
+    \item A continuación, se debe activar el entorno con el siguiente comando: \verb|conda activate crossref_entorno|. 
+    \item Ejecutar el prototipo de Crossref.
+    \item Una vez finalizado, para desactivar el entorno, bastará con ejecutar el siguiente comando: \verb|conda deactivate|. 
+\end{enumerate}
 
 
+\newpage
 \section{Pruebas del sistema}
 
 En el desarrollo de \textit{software}, es esencial contar con una metodología adecuada para garantizar la calidad del producto final. En este sentido, el Test Driven Development (TDD) se ha convertido en una de las metodologías más populares en la actualidad. TDD consiste en escribir las pruebas antes de comenzar a desarrollar el código, lo que permite detectar errores de manera temprana y asegurar que el \textit{software} cumpla con los requisitos establecidos. En este apartado, presentaremos los proyectos de pruebas que hemos llevado a cabo utilizando TDD como metodología principal.
@@ -111,7 +485,7 @@ Puesto que el \textit{software} a probar está compuesto de un solo \textit{scri
 \subsubsection{Fase Roja}
 A lo largo de esta fase se definen las pruebas necesarias para crear un código que extraiga correctamente los datos de Crossref. Los casos de prueba diseñados son los siguientes:
 
-	
+\newpage
 \tablatres{Casos de prueba para el prototipo de Crossref}{llll}{4}{casosdepruebacrossref}{\textbf{ID} & \textbf{Nombre} & \textbf{Descipción} & \parbox{55}{\textbf{Salida esperada}}\\}{
 
 C01 & \parbox{60}{Revista existente} & 

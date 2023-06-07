@@ -2,14 +2,80 @@
 
 \section{Introducción}
 
-\section{Diseño de datos}
+El objetivo principal de esta especificación de diseño es brindar una guía clara y completa para el desarrollo de la aplicación web, proporcionando una base sólida sobre la cual los desarrolladores puedan implementar el sistema de manera efectiva. Asimismo, este informe servirá como referencia y documentación para futuras etapas del proyecto y posibles mejoras o expansiones.
+
+Así pues, en esta sección se describirán y analizarán en detalle los diferentes aspectos del diseño de la aplicación web, abarcando desde la estructura y organización de los datos hasta los procedimientos y algoritmos que permiten su funcionamiento adecuado. Además, se profundizará en el diseño arquitectónico, que define la distribución de los componentes y la interacción entre ellos.
+
+\section{Diseño de los datos}
+
+Comenzaremos detallando el diseño de los datos de la aplicación. En este caso, para el almacenamiento de la información, se ha utilizado una base de datos PostgreSQL, la cual es accedida a través de la aplicación haciendo uso de la librería de Python psycopg2. 
+
+\subsection{Diccionario de datos}
+A continuación, se describirán las tablas que componen la base de datos y se explicará la estructura y los atributos de cada una de ellas.
+
+\subsubsection{Tabla <<Users>>}
+
+Esta tabla almacena la información de los usuarios registrados en la aplicación. Los atributos de la tabla son los siguientes:
+\begin{itemize}
+    \item \texttt{username}: campo de tipo \texttt{VARCHAR(255)} que guarda el nombre de usuario.
+    \item \texttt{password}: campo de tipo \texttt{VARCHAR(255)} que almacena la contraseña del usuario.
+    \item \texttt{email}: campo de tipo \texttt{VARCHAR(255)} que sirve como clave primaria y guarda la dirección de correo electrónico del usuario.
+    \item \texttt{admin}: campo de tipo \texttt{BOOLEAN} que indica si el usuario tiene privilegios de administrador.
+\end{itemize}
+
+\subsubsection{Tabla <<Modelos>>}
+
+En esta tabla se registran los modelos utilizados en la aplicación. Los atributos de la tabla son los siguientes:
+\begin{itemize}
+    \item \texttt{id}: campo de tipo \texttt{SERIAL}  que actúa como clave primaria y asigna un identificador único a cada modelo.
+    \item \texttt{nombre}: campo de tipo \texttt{TEXT} que almacena el nombre del modelo.
+    \item \texttt{rmse}: campo de tipo \texttt{FLOAT} que guarda el valor del error cuadrático medio asociado al modelo.
+\end{itemize}
+
+
+\subsubsection{Tabla <<Revista>>}
+
+Esta tabla contiene la información de las revistas presentes en la aplicación. Los atributos de la tabla son los siguientes:
+\begin{itemize}
+    \item \texttt{nombre}: campo de tipo \texttt{VARCHAR(255)} que sirve como clave primaria y almacena el nombre de la revista.
+    \item \texttt{ISSN}: campo de tipo \texttt{VARCHAR(9)} que garantiza la unicidad y no nulidad del International Standard Serial Number de la revista.
+    \item \texttt{categoria}: campo de tipo \texttt{VARCHAR(255)} que guarda la categoría a la que pertenece la revista.
+\end{itemize}
+
+\subsubsection{Tabla <<Revista\_jcr>>}
+
+Esta tabla registra las métricas JCR (Journal Citation Reports) asociadas a las revistas. Los atributos de la tabla son los siguientes:
+
+\begin{itemize}
+    \item \texttt{nombre}: campo de tipo \texttt{VARCHAR(255)} que guarda el nombre de la revista.
+    \item \texttt{fecha}: campo de tipo \texttt{NUMERIC} que indica la fecha de la métrica JCR.
+    \item \texttt{jcr}: campo de tipo \texttt{FLOAT} que almacena el valor de la métrica JCR para la revista en la fecha correspondiente.
+    \item \texttt{citas}: campo de tipo \texttt{NUMERIC} que indica la cantidad de citas recibidas por la revista en la fecha dada.
+    \item \texttt{diff}: campo de tipo \texttt{FLOAT} que representa la diferencia en la métrica JCR real en comparación con el JCR calculado por el alumno (en la fecha dada).
+    \item \texttt{cuartil}: campo de tipo \texttt{VARCHAR(3)} que indica el cuartil al que ha pertenecido la revista en la fecha dada.
+\end{itemize}
+ 
+Estas tablas y sus respectivos atributos han sido diseñados de manera coherente para almacenar y organizar la información necesaria en la aplicación web de una forma sencilla.
+
+\subsection{Optimización de la base de datos}
+
+Para mejorar el rendimiento y la eficiencia de las consultas en la base de datos, se han aplicado diferentes técnicas de optimización. Una de estas técnicas es la creación de índices, que permiten acceder rápidamente a los registros de una tabla en función de los valores de una columna o conjunto de columnas. En el caso de la tabla <<Revista>>, se ha creado un índice llamado \texttt{nombre\_index} en la columna \texttt{nombre} mediante la instrucción \texttt{CREATE INDEX nombre\_index ON revista (nombre)}. Esto facilita la búsqueda y recuperación de registros en la tabla <<Revista>> basándose en el valor de la columna \texttt{nombre}.
+
+Además de crear índices, se ha utilizado el comando \texttt{ANALYZE} para actualizar las estadísticas de las tablas. Esto permite al sistema de gestión de bases de datos (SGBD) recopilar información actualizada sobre la distribución de los datos y la estructura de las tablas. En el caso de la tabla <<Revista>>, se ha aplicado el comando \texttt{ANALYZE revista} para asegurar que las estadísticas se encuentren actualizadas y que el SGBD pueda tomar decisiones más acertadas al ejecutar consultas sobre esta tabla. Del mismo modo, se ha realizado el análisis del resto de tablas de la base de datos.
+
+Estas técnicas permiten acelerar las consultas y mejorar la eficiencia en la recuperación de datos, lo que resulta en una aplicación web más rápida y con mejor respuesta para los usuarios.
+
+\subsection{Diagramas de datos}
+A continuación se mostrará un sencillo diagrama relacional (ver Figura \ref{fig:rel}).
+
+% Diagrama relacional
+\imagen{rel}{Diagrama Relacional}{1}
+
 
 \section{Diseño procedimental}
+TODO: diagramas de secuencia
 
 \section{Diseño arquitectónico}
-
-% usuarios de la aplicacion
-\section{Aplicación}
 
 Se pretende desarrollar una aplicación web sencilla que utilizará una arquitectura cliente-servidor de dos capas.
 
@@ -24,7 +90,7 @@ Por otro lado, para la autenticación, se han evaluado varias opciones que ofrec
 Finalmente, se ha elegido Flask-Login debido a su sencillez y facilidad de uso. Esta opción permite al usuario iniciar sesión con un nombre de usuario y una contraseña y almacena la información de la sesión en las \textit{cookies} del navegador. Este paquete incluye la protección de rutas con decoradores.
 
 
-\subsection{Interfaces}
+\section{Diseño de Interfaces}
 La aplicación estará conformada por seis interfaces principales, que se detallan a continuación:
 
 \begin{itemize}
@@ -34,5 +100,9 @@ La aplicación estará conformada por seis interfaces principales, que se detall
     \item Interfaz con una lista de las revistas disponibles con barra de búsqueda.
     \item Área de usuario donde modificar las credenciales.
 \end{itemize}
+
+% METER PROTOTIPOS 
+
+
 
 
