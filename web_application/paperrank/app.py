@@ -352,14 +352,14 @@ def create_user():
 def validate_email(email):
     controlador = refresh()
     result = controlador.validate_email(email)
-    return jsonify(result)
+    return jsonify(result) # Devuelve True si el email no existe, False si existe
 
 # Ruta para validar el usuario
 @app.route('/validateUser/<username>', methods=['GET'])
 def validate_username(username):
     controlador = refresh()
     result = controlador.validate_user(username)
-    return jsonify(result)
+    return jsonify(result) # Devuelve True si el usuario no existe, False si existe
 
 # Ruta para obtener la lista de usuarios por rol
 @app.route('/users/<role>', methods=['GET'])

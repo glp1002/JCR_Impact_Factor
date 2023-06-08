@@ -30,6 +30,7 @@
                     <div class="mb-3">
                         <label for="new-username" class="form-label">{% trans %}Nombre de usuario:{% endtrans %}</label>
                         <input type="text" class="form-control" id="new-username" name="new-username" required>
+                        <span id="username-error" class="error-message"></span> 
                     </div>
 
                     <div class="mb-3">
@@ -59,6 +60,7 @@
                         <label for="new-email" class="form-label">{% trans %}Correo electrónico:{% endtrans %}</label>
                         <input type="email" class="form-control" id="new-email" name="new-email" required>
                         <div id="email-requirements" class="error-message"></div>
+                        <span id="email-error" class="error-message"></span>
                     </div>
 
                     <button type="submit" id="register-button" class="btn">{% trans %}Registrarse{% endtrans %}</button>

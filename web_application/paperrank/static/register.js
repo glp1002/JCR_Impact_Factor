@@ -71,75 +71,109 @@ emailInput.addEventListener('input', function () {
         emailRequirements.innerText = '';
     }
 });
+  
 
-
-function comprobarCorreo() {
-    const emailInput = document.getElementById('new-email');
-    const email = emailInput.value;
-
-    return fetch('/validateEmail/' + email)
-        .then(function (response) {
-            return response.json();
-        })
-        .then(function (data) {
-            var result = data.result;
-            return result;
-        })
-        .catch(function (error) {
-            console.error('Error al obtener el email:', error);
-        });
-}
-
-function comprobarUsuario() {
-    const userInput = document.getElementById('new-username');
-    const username = userInput.value;
-
-    return fetch('/validateUser/' + username)
-        .then(function (response) {
-            return response.json();
-        })
-        .then(function (data) {
-            var result = data.result;
-            return result;
-        })
-        .catch(function (error) {
-            console.error('Error al obtener el usuario:', error);
-        });
-}
-
-
-
+// Control del submit
 document.addEventListener('DOMContentLoaded', function() {
     const form = document.querySelector('form');
+    const usernameInput = document.getElementById('new-username');
+    const emailInput = document.getElementById('new-email');
     const passwordInputs = document.querySelectorAll('#new-password');
-    const errorContainer = document.getElementById('password-error');
+    const usernameError = document.getElementById('username-error');
+    const emailError = document.getElementById('email-error');
+    const passwordError = document.getElementById('password-error');
   
-    form.addEventListener('submit', function(event) {
-      event.preventDefault(); // Evita el envío del formulario inicialmente
+    // Variables de confirmación
+    let isUsernameValid = true;
+    let isEmailValid = true;
+    let isPasswordValid = true;
   
-      const passwordMatch = passwordInputs[0].value === passwordInputs[1].value;
-      const usuarioValidoPromise = comprobarUsuario();
-      const correoValidoPromise = comprobarCorreo();
+    // Función para validar el nombre de usuario
+    const validateUsername = () => {
+      const username = usernameInput.value;
+      if (username) {
+        fetch(`/validateUser/${username}`)
+          .then(response => response.json())
+          .then(result => {
+            if (result) {
+                usernameError.textContent = '';
+                isUsernameValid = true;
+            } else {
+                // El nombre de usuario ya existe
+                usernameError.textContent = 'El nombre de usuario ya está en uso';
+                isUsernameValid = false;
+              
+            }
+          })
+          .catch(error => {
+            console.error('Error al validar el nombre de usuario:', error);
+            isUsernameValid = false;
+          });
+      } else {
+        usernameError.textContent = '';
+        isUsernameValid = false;
+      }
+    };
   
-      Promise.all([usuarioValidoPromise, correoValidoPromise])
-        .then(function([usuarioValido, correoValido]) {
-          if (!passwordMatch) {
-            errorContainer.innerText = 'Las contraseñas no coinciden';
-          } else if (usuarioValido === false) {
-            errorContainer.innerText = 'Ese nombre de usuario ya existe';
-          } else if (correoValido === false) {
-            errorContainer.innerText = 'Ese correo electrónico ya existe';
-          } else {
-            errorContainer.innerText = ''; // Elimina el mensaje de error
-            var confirmacion = confirm('Su registro se ha realizado correctamente');
-          }
+    // Función para validar el correo electrónico
+    const validateEmail = () => {
+      const email = emailInput.value;
+      if (email) {
+        fetch(`/validateEmail/${email}`)
+          .then(response => response.json())
+          .then(result => {
+            if (result) {
+                emailError.textContent = '';
+                isEmailValid = true;
+            } else {
+                // El correo electrónico ya existe
+                emailError.textContent = 'El correo electrónico ya está en uso';
+                isEmailValid = false;
+            }
+          })
+          .catch(error => {
+            console.error('Error al validar el correo electrónico:', error);
+            isEmailValid = false;
+          });
+      } else {
+        emailError.textContent = '';
+        isEmailValid = false;
+      }
+    };
   
-          if (confirmacion) {
-            form.submit(); // Envía el formulario si hay confirmación
-          }
-        })
-        .catch(function(error) {
-          console.error('Error:', error);
-        });
-    });
+    // Agregar eventos blur a los campos de nombre de usuario y correo electrónico
+    usernameInput.addEventListener('blur', validateUsername);
+    emailInput.addEventListener('blur', validateEmail);
+  
+    // Función para validar el formulario antes del envío
+    const validateForm = (event) => {
+      const usernameErrorText = usernameError.textContent;
+      const emailErrorText = emailError.textContent;
+  
+      if (usernameErrorText || emailErrorText) {
+        // Si hay mensajes de error, evita el envío del formulario
+        event.preventDefault();
+      }
+  
+      if (passwordInputs[0].value !== passwordInputs[1].value) {
+        event.preventDefault(); // Evita el envío del formulario
+        passwordError.textContent = 'Las contraseñas no coinciden';
+        isPasswordValid = false;
+      } else {
+        passwordError.textContent = ''; // Elimina el mensaje de error
+        isPasswordValid = true;
+      }
+  
+      // Comprobar todas las validaciones
+      if (isUsernameValid && isEmailValid && isPasswordValid) {
+        const confirmation = confirm("Su registro se ha realizado correctamente");
+        if (!confirmation) {
+          event.preventDefault(); // Evita el envío del formulario si se cancela la confirmación
+        }
+      }
+    };
+  
+    // Agrega el evento de envío al formulario
+    form.addEventListener('submit', validateForm);
   });
+  
