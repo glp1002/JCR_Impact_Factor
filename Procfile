@@ -1,2 +1,2 @@
-web: gunicorn API.paperrank.app:app
+web: gunicorn web_application.paperrank.app:app
 
