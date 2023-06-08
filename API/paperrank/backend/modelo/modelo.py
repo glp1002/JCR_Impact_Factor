@@ -5,13 +5,15 @@ Es compatible con la mayoría de las versiones de Python y es muy fácil de util
 de las bases de datos relacionales como MySQL, además proporciona una gran cantidad de funciones útiles para trabajar con 
 bases de datos.
 """
+import binascii
 import json
 import os
 import pickle
 
+import bcrypt
 import psycopg2
 
-from ..datasource import Citas, Revista, User
+from ..datasource import  Revista, User
 
 """
 La clase Modelo contiene métodos para interactuar con la base de datos y realizar operaciones específicas.
@@ -25,6 +27,7 @@ class Modelo:
     current_directory = os.path.dirname(os.path.abspath(__file__))
     # Ruta del directorio padre 
     parent_directory = os.path.abspath(os.path.join(current_directory, os.pardir))
+    backend_directory = os.path.abspath(os.path.join(parent_directory, os.pardir))
 
     """
     Para configurar la conexión a la base de datos se proporcionarán los detalles de la conexión
@@ -125,25 +128,15 @@ class Modelo:
         except psycopg2.Error as e:
             raise Exception("Error al obtener los años de los artículos: " + str(e))
 
-    def get_revistas_por_categoria(self, categoria):
-        try:
-            cur = self.conn.cursor()
-            cur.execute("SELECT nombre FROM revistas WHERE categoria = %s", categoria)
-
-            revistas = []
-            for elem in cur:
-                revistas.append(elem[0])
-            return revistas
-        
-        except psycopg2.Error as e:
-            raise Exception("Error al obtener las revistas de la categoría " + categoria + ": " + str(e))
-
     # Gestionar usuarios
     def create_user(self, username, password, email, admin=False):
         try:
+            password = password.encode('utf-8')
+            hashed_password = bcrypt.hashpw(password, bcrypt.gensalt(7))
+
             cur = self.conn.cursor()
             cur.execute("INSERT INTO users (username, password, email, admin) VALUES (%s, %s, %s, %s)",
-                        (username, password, email, admin))
+                        (username, hashed_password, email, admin))
             self.conn.commit()
             cur.close()
             return True
@@ -155,14 +148,16 @@ class Modelo:
     def authenticate_user(self, username, password):
         try:
             cur = self.conn.cursor()
-            cur.execute("SELECT * FROM users WHERE username = %s AND password = %s", (username, password))
-            user = cur.fetchone()[0]
+            query = "SELECT password FROM users WHERE username = %s"
+            cur.execute(query, (username,))
+            real_password = cur.fetchone()
             cur.close()
 
-            if user != None:
-                return True
-            else:
-                return False
+            if real_password is not None:
+                new_password = password.encode('utf-8')
+                if bcrypt.checkpw(new_password, binascii.unhexlify(real_password[0][2:])):
+                    return True
+            return False
             
         except psycopg2.Error as e:
             raise Exception("Error al crear el nuevo usuario: " + str(e))
@@ -236,7 +231,7 @@ class Modelo:
             cur = self.conn.cursor()
 
             # Cargar el archivo JSON 
-            file_path = os.path.join(self.parent_directory, 'prediction_models', 'resultados.json')
+            file_path = os.path.join(self.backend_directory, 'prediction_models', 'resultados.json')
             with open(file_path, "r") as archivo_json:
                 diccionario_modelos = json.load(archivo_json)
 
@@ -287,7 +282,7 @@ class Modelo:
             for nombre in nombres_modelos:
 
                 # Cargar el modelo desde el archivo pickle
-                path = os.path.join(self.parent_directory, 'prediction_models', 'modelo_'+ nombre + '.pickle')
+                path = os.path.join(self.backend_directory, 'prediction_models', 'modelo_'+ nombre + '.pickle')
                 with open(path, 'rb') as archivo:
                     resultados = pickle.load(archivo)
 

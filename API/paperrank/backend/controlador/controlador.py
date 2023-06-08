@@ -82,7 +82,11 @@ class Controlador:
     def get_revistas_por_categoria(self, categoria):
         try:
             journals = []
-            journals = self.modelo.get_revistas_por_categoria(categoria)
+            # journals = self.modelo.get_revistas_por_categoria(categoria)
+            for journal in self.modelo.get_journals():
+                if journal.categoria.rstrip() == categoria:
+
+                    journals.append(journal.nombre)
             return journals
         except Exception as e:
             return {"error": str(e)}

@@ -32,16 +32,26 @@ app = Flask(__name__)
 secret_key = secrets.token_hex(32)
 app.secret_key = secret_key
 
-url_database = os.environ.get("DATABASE_URL")
+# url_database = os.environ.get("DATABASE_URL")
+# def get_db():
+#     if 'db' not in g:
+#         g.db = psycopg2.connect( 
+#             url_database, 
+#             sslmode='require'
+#         )
+#     return g.db
+# Credenciales de la BBDD
+app.config['DATABASE'] = {
+    'host':"localhost",
+    'port':"5432",
+    'user':"postgres",
+    'password':"Hola=2910",
+    'dbname':"BBDD"
+}
 def get_db():
     if 'db' not in g:
-        g.db = psycopg2.connect( 
-            url_database, 
-            sslmode='require'
-        )
+        g.db = psycopg2.connect(**app.config['DATABASE'])
     return g.db
-
-
 
 def refresh():
     modelo = Modelo(get_db())
@@ -50,8 +60,8 @@ def refresh():
 
 # controlador.reinitialize_database() -> TODO: admin
 
-# app.config['SESSION_COOKIE_SECURE'] = True -> TODO: https
-# app.config['REMEMBER_COOKIE_SECURE'] = True
+app.config['SESSION_COOKIE_SECURE'] = True 
+app.config['REMEMBER_COOKIE_SECURE'] = True
 # CSP: Content Security Policy -> TODO: política de privacidad
 # @app.after_request
 # def add_security_headers(resp):
@@ -265,7 +275,7 @@ def formulario():
 
     else:
         categorias = controlador.get_categories()
-        revistas = controlador.get_journals_name()
+        #revistas = controlador.get_journals_name()
 
         # Verificar si los modelos están cargados en la base de datos
         modelos = controlador.get_model_names_and_errors()
@@ -273,8 +283,9 @@ def formulario():
             controlador.insert_models()       
             modelos = controlador.get_model_names_and_errors()
         
-        return render_template('selection.html', categorias=categorias, revistas=revistas, modelos=modelos, username=session.get('username'))
-
+        return render_template('selection.html', categorias=categorias, revistas=[], modelos=modelos, username=session.get('username'))
+    
+@app.route('/journal/<categoria>', methods=['GET'])
 @login_required
 def get_revistas_por_categoria(categoria):
     controlador = refresh()
