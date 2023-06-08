@@ -13,7 +13,7 @@ _Repositorio para el TFG sobre la estimación del factor de impacto de las publi
 En esta carpeta se almacena el código necesario para el cálculo del JCR.
 El contenido de esta sección es el siguiente:
 * __listas_jcr__: Contiene los listados normalizados de JCR extraidos de Clarivate.
-* __resultados__: Se trata de los resultados extraídos a través de Crossref.
+* __datos_extraidos__: Se trata de los resultados extraídos a través de Crossref.
 * __calcJCR.py__: En este programa de Python se calcula el JCR y los ficheros resultantes (que se almacenarán en el mismo directorio). A saber:
     * __diagrama_cajas.py__
     * __jcr_esperado.csv__: JCR de Clarivate

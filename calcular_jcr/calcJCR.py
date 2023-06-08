@@ -10,11 +10,12 @@ Autor: Gadea Lucas Pérez
 Año: 2023
 """
 
-import os
-import math
-import pandas as pd
 import csv
+import math
+import os
+
 import matplotlib.pyplot as plt
+import pandas as pd
 
 
 def getJCR(anio_i: int):
@@ -34,13 +35,13 @@ def getJCR(anio_i: int):
     jcr_por_revista = {}
 
     # Recorrer todos los ficheros en la carpeta "resultados"
-    for nombre_fichero in os.listdir("resultados"):
+    for nombre_fichero in os.listdir("datos_extraidos"):
         if nombre_fichero.startswith("resultados_") and nombre_fichero.endswith(".csv"):
             
             # Obtener el ISSN de la revista a partir del nombre del fichero
             issn = nombre_fichero.split("_")[1].split(".")[0]
             
-            with open(os.path.join("resultados", nombre_fichero), "r", encoding="utf-8") as f:
+            with open(os.path.join("datos_extraidos", nombre_fichero), "r", encoding="utf-8") as f:
                 next(f) # Omitir la primera línea si contiene los encabezados de las columnas
                 
                 citas_jcr = 0
@@ -91,10 +92,10 @@ def comparar(obtenido:dict, anio:int)-> tuple:
     num_exitos = 0
     media = 0
     resultado =  []
-    
-    # Se lee el ficehro xml de Clarivate        
-    esperado = pd.read_csv('./listas_jcr/JCR_AI_'+ str(anio) + '.csv', delimiter=',', quotechar='"',  header=0, index_col=False)
 
+    # Se lee el ficehro xml de Clarivate      
+    esperado = pd.read_excel('./listas_jcr/JCR_AI_'+ str(anio) + '.xlsx',  header=0, index_col=False)  
+  
     # Se extraen los issn de las revistas obtenidas por nosotros
     revistas_obtenidas = obtenido.keys()
     # Se extraen los issn de las revistas del fichero
@@ -102,7 +103,6 @@ def comparar(obtenido:dict, anio:int)-> tuple:
     eissn = esperado.iloc[:, 3].tolist()
     revistas_esperadas = issn.fillna(pd.Series(eissn)).tolist()
         
-
     # Si la revista aparece en ambas listas, se compara se JCR
     for revista in revistas_obtenidas:
         if revista in revistas_esperadas:
@@ -122,18 +122,19 @@ def comparar(obtenido:dict, anio:int)-> tuple:
             if jcr_esperado != jcr_obtenido:
                 num_errores = num_errores + 1
                 media = media + abs(jcr_esperado-jcr_obtenido)
-                #print(f"La revista {obtenido[revista][1]} tiene un error de {abs(jcr_esperado-jcr_obtenido)}.")
+                # DEBUG: print(f"La revista {obtenido[revista][1]} tiene un error de {abs(jcr_esperado-jcr_obtenido)}.")
             else:
                 num_exitos = num_exitos + 1
-                #print(f"La revista {obtenido[revista][1]} es un éxito.")
+                # DEBUG: print(f"La revista {obtenido[revista][1]} es un éxito.")
                 
             # Almacenamos los resultados
             resultado.append( (obtenido[revista][1], jcr_obtenido, jcr_esperado) )
 
         else:
             num_omitidos = num_omitidos + 1
-            print(f"La revista {obtenido[revista][1]} está omitida.")
+            # DEBUG: print(f"La revista {obtenido[revista][1]} está omitida.")
             
+    # DEBUG OPCIONAL:
     # print(f"Se han logrado {num_exitos} exitos.")
     # print(f"Se han cometido {num_errores} errores.")
     # print(f"Se han omitido {num_omitidos} cálculos.")
@@ -218,7 +219,7 @@ def genBoxGraph() -> None:
     df = pd.read_csv('diferencias.csv', delimiter=",", header=0)
     
     # Columnas a graficarz
-    data = df.iloc[:, 16:] # Últimos 4 años
+    data = df.iloc[:, 1:]
     data = data.fillna(0)
 
     # Crea el diagrama de cajas
@@ -274,7 +275,7 @@ def main(anio_i:int, anio_f:int):
         
     
 if __name__ == '__main__':
-    main(2004, 2022)
+    main(2017, 2021)
    
 
 

@@ -1,143 +1,142 @@
-Revista,JCR 2004,JCR 2005,JCR 2006,JCR 2007,JCR 2008,JCR 2009,JCR 2010,JCR 2011,JCR 2012,JCR 2013,JCR 2014,JCR 2015,JCR 2016,JCR 2017,JCR 2018,JCR 2019,JCR 2020,JCR 2021,JCR 2022
-Artificial Intelligence,17.0,27.0,31.0,30.0,25.0,23.0,34.0,30.0,27.0,38.0,21.0,27.0,41.0,46.0,54.0,50.0,41.0,51.0,61.0
-Pattern Recognition,13.0,10.0,10.0,18.0,15.0,10.0,13.0,15.0,15.0,19.0,15.0,17.0,19.0,18.0,13.0,10.0,14.0,20.0,16.0
-IEEE Transactions on Pattern Analysis and Machine Intelligence,2.0,5.0,2.0,2.0,1.0,2.0,3.0,2.0,1.0,2.0,1.0,1.0,2.0,2.0,1.0,1.0,3.0,4.0,4.0
-Pattern Recognition Letters,21.0,19.0,28.0,10.0,9.0,22.0,31.0,19.0,21.0,36.0,37.0,37.0,43.0,45.0,46.0,48.0,42.0,33.0,29.0
-Decision Support Systems,24.0,24.0,26.0,19.0,12.0,13.0,17.0,17.0,12.0,10.0,11.0,14.0,16.0,15.0,17.0,23.0,27.0,30.0,26.0
-Journal of Automated Reasoning,51.0,55.0,62.0,64.0,49.0,29.0,28.0,53.0,67.0,69.0,68.0,55.0,53.0,80.0,75.0,64.0,93.0,115.0,113.0
-Data &amp; Knowledge Engineering,45.0,45.0,45.0,45.0,45.0,34.0,38.0,48.0,54.0,56.0,58.0,71.0,84.0,82.0,76.0,78.0,90.0,108.0,96.0
-Chemometrics and Intelligent Laboratory Systems,25.0,36.0,24.0,21.0,41.0,42.0,44.0,41.0,34.0,31.0,38.0,53.0,44.0,36.0,53.0,55.0,56.0,62.0,62.0
-International Journal of Pattern Recognition and Artificial Intelligence,53.0,48.0,48.0,66.0,74.0,76.0,65.0,65.0,76.0,78.0,90.0,95.0,89.0,89.0,102.0,103.0,108.0,118.0,114.0
-International Journal of Software Engineering and Knowledge Engineering,57.0,60.0,67.0,71.0,73.0,78.0,84.0,86.0,89.0,92.0,96.0,106.0,110.0,108.0,107.0,114.0,111.0,121.0,127.0
-International Journal on Artificial Intelligence Tools,59.0,62.0,68.0,74.0,77.0,82.0,87.0,90.0,93.0,100.0,104.0,110.0,113.0,114.0,116.0,122.0,129.0,135.0,131.0
-Image and Vision Computing,12.0,13.0,19.0,26.0,30.0,37.0,24.0,14.0,17.0,29.0,35.0,32.0,32.0,53.0,39.0,40.0,52.0,56.0,53.0
-Expert Systems,47.0,47.0,63.0,70.0,71.0,69.0,79.0,77.0,86.0,96.0,92.0,94.0,83.0,71.0,82.0,94.0,78.0,93.0,94.0
-Artificial Intelligence Review,34.0,23.0,17.0,34.0,60.0,65.0,36.0,5.0,3.0,27.0,31.0,23.0,10.0,8.0,16.0,12.0,8.0,6.0,5.0
-The Knowledge Engineering Review,16.0,7.0,13.0,24.0,35.0,49.0,75.0,71.0,45.0,49.0,61.0,51.0,37.0,75.0,95.0,98.0,85.0,99.0,100.0
-AI Magazine,59.0,62.0,68.0,74.0,77.0,82.0,87.0,90.0,93.0,100.0,104.0,110.0,113.0,114.0,58.0,60.0,100.0,98.0,122.0
-Computational Intelligence,46.0,37.0,38.0,43.0,53.0,77.0,72.0,78.0,77.0,73.0,33.0,33.0,61.0,62.0,106.0,101.0,86.0,96.0,88.0
-Applied Artificial Intelligence,38.0,40.0,50.0,58.0,67.0,72.0,76.0,72.0,73.0,88.0,86.0,89.0,92.0,88.0,66.0,76.0,79.0,77.0,92.0
-International Journal of Intelligent Systems,31.0,41.0,52.0,51.0,63.0,60.0,51.0,38.0,41.0,51.0,60.0,48.0,31.0,32.0,32.0,24.0,20.0,25.0,23.0
-Computer Speech &amp; Language,26.0,52.0,55.0,38.0,27.0,,58.0,32.0,29.0,47.0,59.0,57.0,54.0,69.0,69.0,68.0,76.0,71.0,63.0
-Machine Learning,3.0,2.0,4.0,3.0,4.0,15.0,9.0,8.0,9.0,15.0,26.0,30.0,30.0,41.0,42.0,45.0,53.0,40.0,32.0
-International Journal of Approximate Reasoning,44.0,44.0,39.0,46.0,44.0,28.0,32.0,42.0,33.0,32.0,48.0,49.0,56.0,73.0,68.0,63.0,54.0,55.0,64.0
-AI EDAM,59.0,62.0,15.0,13.0,77.0,82.0,87.0,90.0,93.0,100.0,104.0,110.0,113.0,114.0,116.0,122.0,129.0,135.0,131.0
-Neural Networks,19.0,25.0,18.0,16.0,18.0,26.0,25.0,22.0,32.0,34.0,29.0,29.0,3.0,3.0,19.0,20.0,16.0,15.0,19.0
-Neural Computation,9.0,8.0,11.0,5.0,6.0,18.0,26.0,36.0,42.0,41.0,32.0,35.0,62.0,60.0,33.0,37.0,48.0,49.0,82.0
-International Journal of Computer Vision,4.0,1.0,1.0,1.0,3.0,1.0,2.0,3.0,2.0,6.0,3.0,2.0,1.0,1.0,7.0,5.0,7.0,7.0,3.0
-Journal of Intelligent &amp; Robotic Systems,50.0,53.0,49.0,57.0,57.0,55.0,53.0,44.0,39.0,46.0,42.0,38.0,45.0,43.0,51.0,59.0,65.0,63.0,72.0
-AI Communications,59.0,62.0,68.0,74.0,77.0,63.0,70.0,73.0,70.0,75.0,93.0,100.0,102.0,102.0,73.0,74.0,119.0,128.0,123.0
-Robotics and Autonomous Systems,20.0,21.0,40.0,37.0,29.0,21.0,18.0,27.0,37.0,35.0,24.0,26.0,24.0,21.0,29.0,39.0,40.0,46.0,52.0
-Minds and Machines,55.0,49.0,51.0,62.0,56.0,48.0,59.0,76.0,80.0,77.0,89.0,104.0,111.0,92.0,80.0,75.0,62.0,28.0,21.0
-Applied Intelligence,43.0,46.0,53.0,56.0,51.0,46.0,52.0,60.0,60.0,,,60.0,47.0,39.0,49.0,38.0,32.0,37.0,31.0
-Journal of Mathematical Imaging and Vision,35.0,11.0,9.0,28.0,26.0,39.0,47.0,50.0,20.0,22.0,63.0,67.0,58.0,58.0,81.0,91.0,101.0,105.0,99.0
-Neurocomputing,39.0,42.0,56.0,31.0,32.0,45.0,46.0,40.0,36.0,40.0,41.0,110.0,113.0,114.0,116.0,122.0,129.0,135.0,131.0
-Journal of Intelligent Information Systems,36.0,31.0,36.0,48.0,47.0,58.0,64.0,66.0,75.0,60.0,55.0,70.0,80.0,77.0,71.0,71.0,70.0,81.0,56.0
-Autonomous Robots,10.0,9.0,12.0,20.0,28.0,30.0,14.0,13.0,16.0,11.0,4.0,8.0,29.0,31.0,24.0,27.0,38.0,58.0,66.0
-Machine Vision and Applications,40.0,34.0,27.0,36.0,52.0,32.0,40.0,59.0,51.0,45.0,53.0,45.0,48.0,66.0,62.0,82.0,81.0,68.0,68.0
-Artificial Intelligence in Medicine,28.0,33.0,30.0,33.0,46.0,38.0,39.0,35.0,38.0,37.0,34.0,42.0,38.0,28.0,26.0,29.0,24.0,23.0,20.0
-Neural Computing and Applications,52.0,50.0,46.0,52.0,65.0,64.0,71.0,62.0,59.0,64.0,57.0,44.0,28.0,27.0,30.0,34.0,31.0,32.0,27.0
-Knowledge-Based Systems,54.0,57.0,54.0,59.0,55.0,33.0,33.0,23.0,19.0,17.0,12.0,13.0,11.0,11.0,12.0,16.0,19.0,21.0,18.0
-Engineering Applications of Artificial Intelligence,32.0,29.0,37.0,44.0,33.0,27.0,29.0,25.0,23.0,25.0,27.0,28.0,26.0,26.0,27.0,26.0,22.0,22.0,17.0
-Journal of Experimental &amp; Theoretical Artificial Intelligence,42.0,59.0,64.0,68.0,72.0,70.0,77.0,85.0,82.0,87.0,69.0,63.0,87.0,76.0,57.0,72.0,88.0,83.0,76.0
-Connection Science,41.0,43.0,57.0,54.0,64.0,67.0,73.0,80.0,87.0,80.0,71.0,78.0,86.0,95.0,97.0,96.0,91.0,80.0,59.0
-Network: Computation in Neural Systems,27.0,32.0,43.0,39.0,37.0,51.0,74.0,81.0,81.0,83.0,91.0,101.0,96.0,96.0,104.0,110.0,124.0,132.0,85.0
-Journal of Intelligent Manufacturing,30.0,39.0,44.0,35.0,31.0,31.0,41.0,56.0,49.0,44.0,44.0,36.0,33.0,29.0,28.0,30.0,26.0,13.0,8.0
-Expert Systems with Applications,22.0,26.0,20.0,17.0,14.0,14.0,16.0,20.0,22.0,24.0,23.0,18.0,12.0,14.0,15.0,15.0,18.0,14.0,14.0
-Annals of Mathematics and Artificial Intelligence,48.0,54.0,58.0,67.0,70.0,71.0,78.0,79.0,74.0,82.0,88.0,91.0,91.0,87.0,96.0,112.0,117.0,123.0,117.0
-IEEE Transactions on Knowledge and Data Engineering,15.0,15.0,7.0,6.0,17.0,20.0,19.0,7.0,11.0,28.0,22.0,11.0,13.0,20.0,14.0,17.0,25.0,31.0,38.0
-IEEE Transactions on Image Processing,7.0,4.0,3.0,8.0,8.0,8.0,15.0,12.0,6.0,8.0,8.0,16.0,17.0,16.0,11.0,11.0,13.0,12.0,10.0
-Evolutionary Computation,6.0,22.0,32.0,29.0,23.0,17.0,21.0,26.0,5.0,4.0,18.0,19.0,22.0,33.0,22.0,28.0,43.0,36.0,24.0
-IEEE Transactions on Fuzzy Systems,8.0,14.0,14.0,11.0,10.0,11.0,10.0,9.0,10.0,7.0,5.0,3.0,6.0,12.0,10.0,9.0,12.0,17.0,9.0
-Journal of Intelligent &amp; Fuzzy Systems,59.0,62.0,68.0,74.0,77.0,82.0,81.0,82.0,79.0,84.0,83.0,83.0,82.0,85.0,88.0,93.0,,106.0,111.0
-Journal of Computer and Systems Sciences International,59.0,62.0,68.0,72.0,75.0,79.0,85.0,87.0,90.0,93.0,99.0,105.0,100.0,107.0,113.0,118.0,122.0,129.0,128.0
-Artificial Life,23.0,30.0,34.0,50.0,69.0,74.0,55.0,43.0,52.0,61.0,81.0,86.0,88.0,93.0,83.0,88.0,115.0,104.0,89.0
-Integrated Computer-Aided Engineering,49.0,56.0,65.0,69.0,66.0,68.0,82.0,64.0,63.0,79.0,76.0,69.0,49.0,44.0,47.0,42.0,58.0,50.0,44.0
-Journal of Artificial Intelligence Research,59.0,62.0,68.0,74.0,77.0,82.0,87.0,90.0,93.0,100.0,104.0,110.0,113.0,114.0,116.0,4.0,5.0,79.0,65.0
-Computer Vision and Image Understanding,14.0,17.0,23.0,14.0,11.0,3.0,8.0,34.0,40.0,52.0,45.0,34.0,39.0,42.0,37.0,35.0,35.0,42.0,57.0
-Intelligent Automation &amp; Soft Computing,58.0,61.0,66.0,73.0,76.0,80.0,86.0,88.0,,97.0,101.0,107.0,104.0,104.0,109.0,116.0,126.0,127.0,108.0
-IEEE Transactions on Evolutionary Computation,1.0,3.0,6.0,4.0,2.0,4.0,4.0,6.0,4.0,5.0,9.0,6.0,5.0,4.0,6.0,8.0,6.0,8.0,12.0
-Computing and Informatics,59.0,62.0,68.0,74.0,77.0,82.0,87.0,90.0,93.0,100.0,104.0,110.0,113.0,114.0,114.0,119.0,116.0,135.0,131.0
-Medical Image Analysis,11.0,18.0,16.0,12.0,13.0,6.0,5.0,10.0,8.0,12.0,10.0,15.0,14.0,13.0,2.0,2.0,4.0,3.0,7.0
-Neural Processing Letters,37.0,38.0,59.0,63.0,61.0,50.0,60.0,67.0,68.0,58.0,51.0,66.0,64.0,63.0,65.0,69.0,72.0,78.0,71.0
-Journal of Heuristics,18.0,20.0,25.0,47.0,42.0,40.0,20.0,21.0,25.0,33.0,49.0,46.0,55.0,68.0,67.0,79.0,77.0,87.0,81.0
-Data Mining and Knowledge Discovery,5.0,6.0,5.0,7.0,5.0,7.0,22.0,18.0,13.0,9.0,16.0,22.0,18.0,19.0,21.0,36.0,29.0,24.0,41.0
-Autonomous Agents and Multi-Agent Systems,33.0,16.0,8.0,15.0,20.0,24.0,23.0,37.0,43.0,54.0,52.0,58.0,72.0,70.0,74.0,95.0,69.0,85.0,102.0
-Soft Computing,56.0,58.0,42.0,49.0,58.0,56.0,45.0,33.0,44.0,55.0,56.0,64.0,60.0,49.0,55.0,54.0,51.0,54.0,48.0
-Pattern Analysis and Applications,29.0,35.0,47.0,40.0,39.0,59.0,54.0,46.0,47.0,72.0,78.0,84.0,76.0,78.0,87.0,81.0,73.0,84.0,49.0
-Advanced Engineering Informatics,59.0,62.0,68.0,74.0,77.0,82.0,87.0,90.0,93.0,100.0,104.0,110.0,113.0,114.0,116.0,122.0,129.0,135.0,131.0
-Journal of Chemometrics,,12.0,29.0,25.0,36.0,54.0,48.0,54.0,46.0,59.0,82.0,79.0,69.0,83.0,99.0,102.0,105.0,111.0,109.0
-Constraints,,51.0,60.0,55.0,62.0,62.0,57.0,63.0,56.0,57.0,77.0,92.0,106.0,103.0,100.0,92.0,75.0,133.0,125.0
-IEEE Intelligent Systems,,28.0,35.0,41.0,34.0,36.0,50.0,57.0,53.0,62.0,43.0,41.0,74.0,47.0,43.0,65.0,92.0,86.0,74.0
-Knowledge and Information Systems,,,21.0,23.0,24.0,9.0,12.0,47.0,,39.0,40.0,39.0,36.0,38.0,45.0,43.0,60.0,72.0,80.0
-International Journal of Information Technology &amp; Decision Making,,,61.0,53.0,59.0,66.0,56.0,,,53.0,66.0,88.0,79.0,56.0,59.0,83.0,80.0,69.0,60.0
-Computational Linguistics,,,22.0,27.0,21.0,19.0,27.0,55.0,,13.0,50.0,40.0,34.0,54.0,72.0,80.0,99.0,73.0,79.0
-Adaptive Behavior,,,33.0,42.0,40.0,41.0,66.0,69.0,65.0,66.0,74.0,87.0,93.0,84.0,79.0,107.0,110.0,110.0,101.0
-Applied Soft Computing,,,41.0,32.0,19.0,12.0,11.0,16.0,18.0,20.0,20.0,20.0,20.0,17.0,18.0,22.0,21.0,19.0,13.0
-International Journal of Neural Systems,,,,60.0,54.0,43.0,42.0,29.0,26.0,26.0,25.0,24.0,21.0,23.0,20.0,25.0,33.0,35.0,30.0
-Intelligent Data Analysis,,,,65.0,50.0,47.0,80.0,83.0,85.0,90.0,95.0,97.0,98.0,101.0,108.0,113.0,114.0,122.0,120.0
-Neural Network World,,,,74.0,77.0,82.0,87.0,90.0,93.0,100.0,104.0,102.0,103.0,99.0,103.0,111.0,106.0,103.0,130.0
-Cognitive Systems Research,,,,61.0,68.0,75.0,43.0,39.0,61.0,81.0,80.0,85.0,97.0,86.0,,,,34.0,
-IEEE Computational Intelligence Magazine,,,,22.0,38.0,73.0,62.0,52.0,62.0,89.0,87.0,75.0,63.0,74.0,70.0,41.0,45.0,94.0,93.0
-Journal of Web Semantics,,,,9.0,7.0,5.0,7.0,11.0,24.0,21.0,19.0,54.0,59.0,40.0,41.0,77.0,96.0,102.0,103.0
-IET Computer Vision,,,,74.0,48.0,61.0,68.0,61.0,64.0,68.0,70.0,110.0,113.0,114.0,98.0,84.0,123.0,131.0,119.0
-International Journal on Document Analysis and Recognition (IJDAR),,,,,22.0,25.0,49.0,49.0,50.0,50.0,39.0,50.0,51.0,52.0,85.0,67.0,55.0,53.0,73.0
-International Journal on Semantic Web and Information Systems,,,,,43.0,57.0,6.0,4.0,84.0,48.0,54.0,72.0,73.0,100.0,84.0,99.0,118.0,100.0,84.0
-Information Fusion,,,,,16.0,16.0,35.0,51.0,30.0,23.0,13.0,9.0,9.0,5.0,3.0,3.0,1.0,1.0,1.0
-Traitement du Signal,,,,,,82.0,87.0,89.0,92.0,99.0,103.0,109.0,112.0,113.0,,120.0,107.0,114.0,115.0
-Genetic Programming and Evolvable Machines,,,,,,52.0,63.0,28.0,35.0,67.0,75.0,82.0,78.0,81.0,92.0,100.0,89.0,90.0,91.0
-Information Technology and Control,,,,,,82.0,87.0,90.0,91.0,98.0,102.0,108.0,109.0,111.0,115.0,121.0,127.0,125.0,121.0
-ACM Transactions on Autonomous and Adaptive Systems,,,,,,44.0,30.0,31.0,71.0,70.0,67.0,68.0,68.0,79.0,,,98.0,116.0,
-International Journal of Fuzzy Systems,,,,,,82.0,87.0,90.0,93.0,100.0,104.0,110.0,65.0,67.0,60.0,46.0,39.0,52.0,54.0
-Fuzzy Optimization and Decision Making,,,,,,35.0,37.0,24.0,28.0,43.0,28.0,25.0,40.0,51.0,35.0,31.0,46.0,47.0,36.0
-Advances in Electrical and Computer Engineering,,,,,,81.0,83.0,84.0,88.0,95.0,97.0,103.0,105.0,109.0,110.0,105.0,112.0,130.0,126.0
-International Journal of Applied Mathematics and Computer Science,,,,,,53.0,61.0,68.0,69.0,65.0,65.0,80.0,85.0,114.0,116.0,122.0,129.0,135.0,131.0
-Malaysian Journal of Computer Science,,,,,,,87.0,90.0,93.0,100.0,104.0,110.0,113.0,114.0,111.0,115.0,125.0,126.0,131.0
-Turkish Journal of Electrical Engineering and Computer Sciences,,,,,,,87.0,90.0,93.0,100.0,94.0,98.0,101.0,105.0,112.0,117.0,120.0,135.0,131.0
-The International Arab Journal of Information Technology,,,,,,,87.0,90.0,93.0,100.0,104.0,110.0,113.0,114.0,116.0,122.0,128.0,134.0,129.0
-Journal of Real-Time Image Processing,,,,,,,69.0,74.0,72.0,74.0,79.0,81.0,81.0,72.0,78.0,89.0,84.0,91.0,69.0
-Journal of Ambient Intelligence and Smart Environments,,,,,,,67.0,70.0,78.0,91.0,98.0,99.0,99.0,94.0,93.0,106.0,103.0,101.0,116.0
-SIAM Journal on Imaging Sciences,,,,,,,1.0,1.0,7.0,18.0,17.0,21.0,27.0,37.0,48.0,51.0,64.0,95.0,97.0
-Natural Language Engineering,,,,,,,,75.0,83.0,94.0,100.0,96.0,95.0,91.0,77.0,85.0,113.0,120.0,104.0
-Applied Ontology,,,,,,,,58.0,57.0,71.0,85.0,90.0,66.0,64.0,101.0,109.0,104.0,117.0,124.0
-Cognitive Computation,,,,,,,,45.0,58.0,63.0,73.0,65.0,35.0,25.0,31.0,,36.0,45.0,35.0
-Natural Computing,,,,,,,,,66.0,85.0,84.0,77.0,90.0,97.0,94.0,86.0,94.0,112.0,105.0
-International Journal of Bio-Inspired Computation,,,,,,,,,48.0,42.0,46.0,43.0,70.0,59.0,90.0,108.0,102.0,113.0,112.0
-Journal on Multimodal User Interfaces,,,,,,,,,55.0,76.0,72.0,74.0,77.0,48.0,44.0,73.0,83.0,82.0,67.0
-Swarm Intelligence,,,,,,,,,31.0,30.0,7.0,4.0,25.0,30.0,36.0,57.0,49.0,64.0,86.0
-Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery,,,,,,,,,14.0,16.0,30.0,59.0,52.0,50.0,56.0,19.0,15.0,27.0,33.0
-IEEE Transactions on Neural Networks and Learning Systems,,,,,,,,,93.0,14.0,14.0,12.0,8.0,9.0,5.0,7.0,9.0,9.0,11.0
-International Journal of Computational Intelligence Systems,,,,,,,,,,86.0,104.0,110.0,107.0,110.0,116.0,122.0,129.0,135.0,131.0
-IEEE Transactions on Affective Computing,,,,,,,,,,3.0,2.0,5.0,4.0,7.0,9.0,13.0,11.0,10.0,22.0
-ACM Transactions on Intelligent Systems and Technology,,,,,,,,,,1.0,36.0,31.0,23.0,34.0,50.0,52.0,23.0,16.0,51.0
-IEEE Transactions on Cybernetics,,,,,,,,,,100.0,6.0,7.0,7.0,6.0,4.0,6.0,10.0,5.0,6.0
-IEEE Transactions on Human-Machine Systems,,,,,,,,,,100.0,47.0,47.0,46.0,35.0,34.0,47.0,61.0,67.0,87.0
-Memetic Computing,,,,,,,,,,,64.0,56.0,50.0,55.0,61.0,33.0,30.0,65.0,55.0
-IET Biometrics,,,,,,,,,,,62.0,62.0,57.0,61.0,63.0,62.0,59.0,75.0,95.0
-Semantic Web,,,,,,,,,,,,61.0,67.0,24.0,25.0,56.0,68.0,74.0,77.0
-Frontiers in Neurorobotics,,,,,,,,,,,,52.0,42.0,22.0,23.0,44.0,50.0,59.0,90.0
-Journal of Ambient Intelligence and Humanized Computing,,,,,,,,,,,,76.0,71.0,65.0,64.0,61.0,47.0,44.0,46.0
-International Journal of Machine Learning and Cybernetics,,,,,,,,,,,,73.0,75.0,57.0,52.0,49.0,44.0,39.0,42.0
-Statistical Analysis and Data Mining,,,,,,,,,,,,93.0,94.0,98.0,91.0,97.0,121.0,124.0,118.0
-Swarm and Evolutionary Computation,,,,,,,,,,,,10.0,15.0,10.0,8.0,14.0,17.0,11.0,15.0
-IET Image Processing,,,,,,,,,,,,,113.0,112.0,89.0,87.0,95.0,107.0,106.0
-ACM Transactions on Asian and Low-Resource Language Information Processing,,,,,,,,,,,,,108.0,106.0,105.0,104.0,109.0,119.0,107.0
-IEEE Transactions on Cognitive and Developmental Systems,,,,,,,,,,,,,113.0,90.0,86.0,66.0,63.0,75.0,78.0
-Egyptian Informatics Journal,,,,,,,,,,,,,,,40.0,32.0,37.0,57.0,43.0
-Big Data Research,,,,,,,,,,,,,,,38.0,53.0,57.0,97.0,83.0
-IEEE Transactions on Games,,,,,,,,,,,,,,,116.0,90.0,97.0,109.0,110.0
-International Journal of Interactive Multimedia and Artificial Intelligence,,,,,,,,,,,,,,,,70.0,87.0,89.0,98.0
-ACM Transactions on Interactive Intelligent Systems,,,,,,,,,,,,,,,,58.0,67.0,92.0,70.0
-Complex &amp; Intelligent Systems,,,,,,,,,,,,,,,,21.0,28.0,26.0,34.0
-PeerJ Computer Science,,,,,,,,,,,,,,,,18.0,82.0,88.0,75.0
-Artificial Intelligence and Law,,,,,,,,,,,,,,,,,71.0,60.0,46.0
-Evolving Systems,,,,,,,,,,,,,,,,,74.0,66.0,58.0
-Journal of Artificial Intelligence and Soft Computing Research,,,,,,,,,,,,,,,,,66.0,41.0,28.0
-International Journal of Multimedia Information Retrieval,,,,,,,,,,,,,,,,,34.0,70.0,45.0
-Nature Machine Intelligence,,,,,,,,,,,,,,,,,2.0,2.0,2.0
-Transactions of the Association for Computational Linguistics,,,,,,,,,,,,,,,,,,18.0,25.0
-IEEE Transactions on Intelligent Vehicles,,,,,,,,,,,,,,,,,,48.0,40.0
-CAAI Transactions on Intelligence Technology,,,,,,,,,,,,,,,,,,29.0,
-IEEE Transactions on Emerging Topics in Computational Intelligence,,,,,,,,,,,,,,,,,,61.0,50.0
-Machine Learning: Science and Technology,,,,,,,,,,,,,,,,,,38.0,37.0
-Advanced Intelligent Systems,,,,,,,,,,,,,,,,,,43.0,39.0
+Revista,JCR 2017,JCR 2018,JCR 2019,JCR 2020,JCR 2021
+Artificial Intelligence,46.0,54.0,51.0,41.0,49.0
+Pattern Recognition,18.0,13.0,10.0,14.0,20.0
+Malaysian Journal of Computer Science,114.0,113.0,118.0,126.0,124.0
+International Journal of Neural Systems,23.0,20.0,25.0,33.0,33.0
+IEEE Transactions on Pattern Analysis and Machine Intelligence,2.0,1.0,1.0,3.0,4.0
+Pattern Recognition Letters,45.0,46.0,49.0,42.0,32.0
+Decision Support Systems,15.0,17.0,23.0,27.0,29.0
+Journal of Automated Reasoning,80.0,75.0,65.0,93.0,113.0
+Data &amp; Knowledge Engineering,82.0,76.0,80.0,90.0,106.0
+Chemometrics and Intelligent Laboratory Systems,36.0,53.0,56.0,56.0,60.0
+International Journal of Pattern Recognition and Artificial Intelligence,89.0,104.0,106.0,109.0,116.0
+International Journal of Software Engineering and Knowledge Engineering,108.0,109.0,117.0,112.0,119.0
+International Journal on Artificial Intelligence Tools,114.0,119.0,125.0,130.0,133.0
+Knowledge and Information Systems,38.0,45.0,44.0,60.0,70.0
+International Journal of Information Technology &amp; Decision Making,56.0,59.0,86.0,80.0,67.0
+Image and Vision Computing,53.0,39.0,41.0,52.0,54.0
+Expert Systems,71.0,84.0,97.0,78.0,91.0
+Artificial Intelligence Review,8.0,16.0,12.0,8.0,6.0
+The Knowledge Engineering Review,75.0,97.0,101.0,85.0,97.0
+AI Magazine,114.0,58.0,61.0,101.0,96.0
+Traitement du Signal,113.0,118.0,123.0,108.0,112.0
+Computational Intelligence,62.0,108.0,104.0,86.0,94.0
+Applied Artificial Intelligence,88.0,66.0,78.0,79.0,75.0
+International Journal of Intelligent Systems,32.0,32.0,24.0,20.0,25.0
+Computer Speech &amp; Language,69.0,69.0,70.0,76.0,69.0
+Machine Learning,41.0,42.0,46.0,53.0,38.0
+Journal of Chemometrics,83.0,101.0,105.0,106.0,109.0
+International Journal of Approximate Reasoning,73.0,68.0,64.0,54.0,53.0
+AI EDAM,114.0,119.0,125.0,130.0,133.0
+Computational Linguistics,54.0,72.0,82.0,99.0,71.0
+Neural Networks,3.0,19.0,20.0,16.0,15.0
+Neural Computation,60.0,33.0,38.0,48.0,47.0
+International Journal of Computer Vision,1.0,7.0,5.0,7.0,7.0
+Journal of Intelligent &amp; Robotic Systems,43.0,51.0,60.0,65.0,61.0
+AI Communications,102.0,73.0,76.0,120.0,126.0
+Robotics and Autonomous Systems,21.0,29.0,40.0,40.0,44.0
+Minds and Machines,92.0,82.0,77.0,62.0,28.0
+Applied Intelligence,39.0,49.0,39.0,32.0,35.0
+Journal of Mathematical Imaging and Vision,58.0,83.0,94.0,102.0,103.0
+Neurocomputing,114.0,119.0,125.0,130.0,133.0
+Journal of Intelligent Information Systems,77.0,71.0,73.0,70.0,79.0
+Autonomous Robots,31.0,24.0,27.0,38.0,56.0
+Machine Vision and Applications,66.0,62.0,85.0,81.0,66.0
+Artificial Intelligence in Medicine,28.0,26.0,29.0,24.0,23.0
+Neural Computing and Applications,27.0,30.0,35.0,31.0,31.0
+Knowledge-Based Systems,11.0,12.0,16.0,19.0,21.0
+Engineering Applications of Artificial Intelligence,26.0,27.0,26.0,22.0,22.0
+Journal of Experimental &amp; Theoretical Artificial Intelligence,76.0,57.0,74.0,88.0,81.0
+Connection Science,95.0,99.0,99.0,91.0,78.0
+Network: Computation in Neural Systems,96.0,106.0,113.0,125.0,130.0
+Journal of Intelligent Manufacturing,29.0,28.0,30.0,26.0,13.0
+Expert Systems with Applications,14.0,15.0,15.0,18.0,14.0
+Annals of Mathematics and Artificial Intelligence,87.0,98.0,115.0,118.0,121.0
+IEEE Transactions on Knowledge and Data Engineering,20.0,14.0,17.0,25.0,30.0
+IEEE Transactions on Image Processing,16.0,11.0,11.0,13.0,12.0
+Adaptive Behavior,84.0,80.0,110.0,111.0,108.0
+Evolutionary Computation,33.0,22.0,28.0,43.0,34.0
+IEEE Transactions on Fuzzy Systems,12.0,10.0,9.0,12.0,17.0
+Journal of Intelligent &amp; Fuzzy Systems,85.0,90.0,96.0,100.0,104.0
+Journal of Computer and Systems Sciences International,107.0,115.0,121.0,123.0,127.0
+Artificial Life,93.0,85.0,91.0,116.0,102.0
+Integrated Computer-Aided Engineering,44.0,47.0,43.0,58.0,48.0
+Journal of Artificial Intelligence Research,114.0,119.0,4.0,5.0,77.0
+Computer Vision and Image Understanding,42.0,37.0,36.0,35.0,40.0
+Intelligent Automation &amp; Soft Computing,104.0,111.0,119.0,127.0,125.0
+Intelligent Data Analysis,101.0,110.0,116.0,115.0,120.0
+IEEE Transactions on Evolutionary Computation,4.0,6.0,8.0,6.0,8.0
+Neural Network World,99.0,105.0,114.0,107.0,101.0
+Turkish Journal of Electrical Engineering and Computer Sciences,105.0,114.0,120.0,121.0,133.0
+Computing and Informatics,114.0,116.0,122.0,117.0,133.0
+Natural Language Engineering,91.0,78.0,88.0,114.0,118.0
+Medical Image Analysis,13.0,2.0,2.0,4.0,3.0
+Neural Processing Letters,63.0,65.0,71.0,72.0,76.0
+Journal of Heuristics,68.0,67.0,81.0,77.0,85.0
+Constraints,103.0,102.0,95.0,75.0,131.0
+Data Mining and Knowledge Discovery,19.0,21.0,37.0,29.0,24.0
+Autonomous Agents and Multi-Agent Systems,70.0,74.0,98.0,69.0,83.0
+Cognitive Systems Research,86.0,77.0,66.0,,
+Genetic Programming and Evolvable Machines,81.0,94.0,103.0,89.0,88.0
+Information Technology and Control,111.0,117.0,124.0,128.0,123.0
+Soft Computing,49.0,55.0,55.0,51.0,52.0
+International Journal on Document Analysis and Recognition (IJDAR),52.0,87.0,69.0,55.0,51.0
+Pattern Analysis and Applications,78.0,89.0,83.0,73.0,82.0
+Advanced Engineering Informatics,114.0,119.0,125.0,130.0,133.0
+IEEE Intelligent Systems,47.0,43.0,67.0,92.0,84.0
+International Journal on Semantic Web and Information Systems,100.0,86.0,102.0,119.0,98.0
+ACM Transactions on Autonomous and Adaptive Systems,79.0,81.0,84.0,98.0,114.0
+IEEE Computational Intelligence Magazine,74.0,70.0,42.0,45.0,92.0
+International Journal of Fuzzy Systems,67.0,60.0,47.0,39.0,50.0
+Information Fusion,5.0,3.0,3.0,1.0,1.0
+Natural Computing,97.0,96.0,89.0,94.0,110.0
+Fuzzy Optimization and Decision Making,51.0,35.0,32.0,46.0,45.0
+Applied Soft Computing,17.0,18.0,22.0,21.0,19.0
+Semantic Web,24.0,25.0,57.0,68.0,72.0
+Applied Ontology,64.0,103.0,112.0,105.0,115.0
+Journal of Web Semantics,40.0,41.0,79.0,96.0,100.0
+Advances in Electrical and Computer Engineering,109.0,112.0,108.0,113.0,128.0
+International Journal of Applied Mathematics and Computer Science,114.0,119.0,125.0,130.0,133.0
+Frontiers in Neurorobotics,22.0,23.0,45.0,50.0,57.0
+The International Arab Journal of Information Technology,114.0,119.0,125.0,129.0,132.0
+IET Computer Vision,114.0,100.0,87.0,124.0,129.0
+IET Image Processing,112.0,91.0,90.0,95.0,105.0
+International Journal of Bio-Inspired Computation,59.0,92.0,111.0,103.0,111.0
+Journal on Multimodal User Interfaces,48.0,44.0,75.0,83.0,80.0
+Journal of Real-Time Image Processing,72.0,79.0,92.0,84.0,89.0
+Memetic Computing,55.0,61.0,34.0,30.0,63.0
+Cognitive Computation,25.0,31.0,31.0,36.0,43.0
+Journal of Ambient Intelligence and Humanized Computing,65.0,64.0,62.0,47.0,42.0
+International Journal of Machine Learning and Cybernetics,57.0,52.0,50.0,44.0,37.0
+International Journal of Computational Intelligence Systems,110.0,119.0,125.0,130.0,133.0
+Journal of Ambient Intelligence and Smart Environments,94.0,95.0,109.0,104.0,99.0
+Statistical Analysis and Data Mining,98.0,93.0,100.0,122.0,122.0
+Swarm Intelligence,30.0,36.0,58.0,49.0,62.0
+SIAM Journal on Imaging Sciences,37.0,48.0,52.0,64.0,93.0
+Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery,50.0,56.0,19.0,15.0,27.0
+IEEE Transactions on Affective Computing,7.0,9.0,13.0,11.0,10.0
+IET Biometrics,61.0,63.0,63.0,59.0,73.0
+ACM Transactions on Intelligent Systems and Technology,34.0,50.0,53.0,23.0,16.0
+IEEE Transactions on Neural Networks and Learning Systems,9.0,5.0,7.0,9.0,9.0
+IEEE Transactions on Cybernetics,6.0,4.0,6.0,10.0,5.0
+IEEE Transactions on Human-Machine Systems,35.0,34.0,48.0,61.0,65.0
+Swarm and Evolutionary Computation,10.0,8.0,14.0,17.0,11.0
+ACM Transactions on Asian and Low-Resource Language Information Processing,106.0,107.0,107.0,110.0,117.0
+IEEE Transactions on Cognitive and Developmental Systems,90.0,88.0,68.0,63.0,73.0
+Egyptian Informatics Journal,,40.0,33.0,37.0,55.0
+Big Data Research,,38.0,54.0,57.0,95.0
+IEEE Transactions on Games,,119.0,93.0,97.0,107.0
+International Journal of Interactive Multimedia and Artificial Intelligence,,,72.0,87.0,87.0
+ACM Transactions on Interactive Intelligent Systems,,,59.0,67.0,90.0
+Complex &amp; Intelligent Systems,,,21.0,28.0,26.0
+PeerJ Computer Science,,,18.0,82.0,86.0
+Artificial Intelligence and Law,,,,71.0,58.0
+Evolving Systems,,,,74.0,64.0
+Journal of Artificial Intelligence and Soft Computing Research,,,,66.0,39.0
+International Journal of Multimedia Information Retrieval,,,,34.0,68.0
+Nature Machine Intelligence,,,,2.0,2.0
+Transactions of the Association for Computational Linguistics,,,,,18.0
+IEEE Transactions on Intelligent Vehicles,,,,,46.0
+IEEE Transactions on Emerging Topics in Computational Intelligence,,,,,59.0
+Machine Learning: Science and Technology,,,,,36.0
+Advanced Intelligent Systems,,,,,41.0
