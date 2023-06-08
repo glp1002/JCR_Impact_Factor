@@ -347,6 +347,20 @@ def create_user():
     done = controlador.create_user(username, password, email, admin)
     return jsonify(done)
 
+# Ruta para validar el correo
+@app.route('/validateEmail/<email>', methods=['GET'])
+def validate_email(email):
+    controlador = refresh()
+    result = controlador.validate_email(email)
+    return jsonify(result)
+
+# Ruta para validar el usuario
+@app.route('/validateUser/<username>', methods=['GET'])
+def validate_username(username):
+    controlador = refresh()
+    result = controlador.validate_user(username)
+    return jsonify(result)
+
 # Ruta para obtener la lista de usuarios por rol
 @app.route('/users/<role>', methods=['GET'])
 def get_users_by_role(role):

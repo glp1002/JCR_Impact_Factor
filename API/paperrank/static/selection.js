@@ -39,7 +39,7 @@ document.getElementById('categoria').addEventListener('change', checkSelectionFo
 document.getElementById('revista').addEventListener('change', checkSelectionForConsultar);
 document.querySelectorAll('input[name="modelo[]"]').forEach((checkbox) => {
   checkbox.addEventListener('change', checkSelectionForPredecir);
-}); 
+});
 
 // Cambio del botón de acceso a la lista de revistas
 $(function () {
@@ -54,35 +54,35 @@ $(function () {
 });
 
 
-$(document).ready(function() {
+$(document).ready(function () {
   // Obtener referencia al elemento de selección de categoría
   var categoriaSelect = document.getElementById('categoria');
 
   // Agregar listener para el evento "change" (cambio de selección)
-  categoriaSelect.addEventListener('change', function() {
+  categoriaSelect.addEventListener('change', function () {
     // Obtener el valor seleccionado de la categoría
     var categoria = categoriaSelect.value;
 
     // Realizar la solicitud fetch para obtener la lista de revistas según la categoría seleccionada
     fetch('/journal/' + categoria)
-      .then(function(response) {
+      .then(function (response) {
         return response.json();
       })
-      .then(function(data) {
+      .then(function (data) {
         // Limpiar la lista de revistas actual
         var revistaSelect = document.getElementById('revista');
         revistaSelect.innerHTML = '';
 
         // Agregar las nuevas opciones de revistas según los datos obtenidos
         var revistas = data.revistas;
-        revistas.forEach(function(revista) {
+        revistas.forEach(function (revista) {
           var option = document.createElement('option');
           option.value = revista;
           option.text = revista;
           revistaSelect.appendChild(option);
         });
       })
-      .catch(function(error) {
+      .catch(function (error) {
         console.error('Error al obtener las revistas:', error);
       });
   });

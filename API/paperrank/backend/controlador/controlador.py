@@ -224,4 +224,19 @@ class Controlador:
             return email
         except Exception as e:
             return {"error": str(e)}
+        
+    def validate_email(self, email):
+        try:
+            resultado = self.modelo.validate_email(email)
+            return resultado
+        except Exception as e:
+            return {"error": str(e)}
+        
+    def validate_user(self, username):
+        try:
+            resultado = self.modelo.validate_user(username)
+            return resultado
+        except Exception as e:
+            return {"error": str(e)}
+
 

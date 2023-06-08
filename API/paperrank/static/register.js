@@ -70,24 +70,76 @@ emailInput.addEventListener('input', function () {
     } else {
         emailRequirements.innerText = '';
     }
-});	
-
-
-// Comprobar que ambas contraseñas son idénticas
-document.addEventListener('DOMContentLoaded', function () {
-    const form = document.querySelector('form');
-    // const passwordInputs = document.querySelectorAll('#new-password');
-    const errorContainer = document.getElementById('password-error');
-
-    form.addEventListener('submit', function (event) {
-        
-        if (passwordInputs[0].value !== passwordInputs[1].value) {
-            event.preventDefault(); // Evita el envío del formulario
-            errorContainer.innerText = 'Las contraseñas no coinciden';
-        } 
-        else {
-            errorContainer.innerText = ''; // Elimina el mensaje de error
-            var confirmacion = confirm("Su registro se ha realizado correctamente");
-        }
-    });
 });
+
+
+function comprobarCorreo() {
+    const emailInput = document.getElementById('new-email');
+    const email = emailInput.value;
+
+    return fetch('/validateEmail/' + email)
+        .then(function (response) {
+            return response.json();
+        })
+        .then(function (data) {
+            var result = data.result;
+            return result;
+        })
+        .catch(function (error) {
+            console.error('Error al obtener el email:', error);
+        });
+}
+
+function comprobarUsuario() {
+    const userInput = document.getElementById('new-username');
+    const username = userInput.value;
+
+    return fetch('/validateUser/' + username)
+        .then(function (response) {
+            return response.json();
+        })
+        .then(function (data) {
+            var result = data.result;
+            return result;
+        })
+        .catch(function (error) {
+            console.error('Error al obtener el usuario:', error);
+        });
+}
+
+
+
+document.addEventListener('DOMContentLoaded', function() {
+    const form = document.querySelector('form');
+    const passwordInputs = document.querySelectorAll('#new-password');
+    const errorContainer = document.getElementById('password-error');
+  
+    form.addEventListener('submit', function(event) {
+      event.preventDefault(); // Evita el envío del formulario inicialmente
+  
+      const passwordMatch = passwordInputs[0].value === passwordInputs[1].value;
+      const usuarioValidoPromise = comprobarUsuario();
+      const correoValidoPromise = comprobarCorreo();
+  
+      Promise.all([usuarioValidoPromise, correoValidoPromise])
+        .then(function([usuarioValido, correoValido]) {
+          if (!passwordMatch) {
+            errorContainer.innerText = 'Las contraseñas no coinciden';
+          } else if (usuarioValido === false) {
+            errorContainer.innerText = 'Ese nombre de usuario ya existe';
+          } else if (correoValido === false) {
+            errorContainer.innerText = 'Ese correo electrónico ya existe';
+          } else {
+            errorContainer.innerText = ''; // Elimina el mensaje de error
+            var confirmacion = confirm('Su registro se ha realizado correctamente');
+          }
+  
+          if (confirmacion) {
+            form.submit(); // Envía el formulario si hay confirmación
+          }
+        })
+        .catch(function(error) {
+          console.error('Error:', error);
+        });
+    });
+  });

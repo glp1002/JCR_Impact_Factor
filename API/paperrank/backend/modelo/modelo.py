@@ -504,3 +504,40 @@ class Modelo:
 
         except psycopg2.Error as e:
             raise Exception("Error al inicializar las tablas de la base de datos: " + str(e))
+        
+
+    def validate_email(self, email):
+        try:
+            cur = self.conn.cursor()
+
+            # Eliminar tablas si ya existen
+            query = """SELECT email FROM users"""
+            cur.execute(query)
+            emails = cur.fetchall()
+            if (email,) in emails:
+                resultado = False
+            else:
+                resultado = True
+            cur.close()
+            return resultado
+    
+        except psycopg2.Error as e:
+            cur.close()
+            raise Exception("Error eliminando las tablas: " + str(e))
+        
+    def validate_user(self, username):
+        try:
+            cur = self.conn.cursor()
+
+            # Eliminar tablas si ya existen
+            query = """SELECT username FROM users"""
+            cur.execute(query)
+            usernames = cur.fetchall()
+            if (username,) in usernames:
+                resultado = False
+            else:
+                resultado = True
+            cur.close()
+            return resultado
+        except Exception as e:
+            return {"error": str(e)}
