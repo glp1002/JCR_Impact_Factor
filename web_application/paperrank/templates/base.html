@@ -50,10 +50,10 @@
             </a>
             <!-- Dropdown -->
             <ul class="dropdown-menu dropdown-menu-dark dropdown-menu-end">
-              <li><a class="dropdown-item" href="{{ request.path }}?lang=en">Inglés</a></li>
-              <li><a class="dropdown-item"  href="{{ request.path }}?lang=es">Español</a></li>
-              <li><a class="dropdown-item"  href="{{ request.path }}?lang=fr">Francés</a></li>
-              <li><a class="dropdown-item"  href="{{ request.path }}?lang=it">Italiano</a></li>
+              <li><a class="dropdown-item" href="{{ request.path }}?lang=en">{% trans %}Inglés{% endtrans %}</a></li>
+              <li><a class="dropdown-item" href="{{ request.path }}?lang=es">{% trans %}Español{% endtrans %}</a></li>
+              <li><a class="dropdown-item" href="{{ request.path }}?lang=fr">{% trans %}Francés{% endtrans %}</a></li>
+              <li><a class="dropdown-item" href="{{ request.path }}?lang=it">{% trans %}Italiano{% endtrans %}</a></li>
             </ul>
           </li>
 
@@ -65,7 +65,7 @@
             <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">{{ username }}</a>
             <img id=myImg src="{{ url_for('static', filename='images/perfil.jpg') }}" alt="Profile" width="40"
               height="40" class="imgperf">
-              <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+            <!-- <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
               <script>
               $(document).ready(function() {
                 // Obtener el nombre de usuario del elemento de navegación
@@ -76,8 +76,8 @@
                   // Actualizar la fuente (src) de la imagen con la nueva URL obtenida
                   $("#myImg").attr("src", imageUrl);
                 });
-              });
-              </script>
+              }); 
+              </script>-->
             <!-- The Modal -->
             <div id="myModal" class="modal">
               <span class="close">&times;</span>

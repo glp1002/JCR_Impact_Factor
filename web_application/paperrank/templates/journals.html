@@ -24,6 +24,7 @@
             <th>{% trans %}ISSN{% endtrans %}</th>
             <th>{% trans %}Categoría{% endtrans %}</th>
             <th style="text-align: center;">{% trans %}JCR {% endtrans %} {{ journal_list[0][3][0] }}</th>
+            <th style="text-align: center;">{% trans %}Cuartil {% endtrans %} {{ journal_list[0][3][0] }}</th>
         </tr>
     </thead>
     <tbody id="journal-table-body">
@@ -38,6 +39,13 @@
             {% else %}
             <td style="text-align: center;"> - </td>
             {% endif %}
+
+            {% if journal[3][1] != 'None' %}
+            <td id="cuartil-cell" style="text-align: center;">{{ journal[4][1] }}</td>
+            {% else %}
+            <td style="text-align: center;"> - </td>
+            {% endif %}
+
         </tr>
         <tr class="collapse">
             <td colspan="4">
@@ -51,7 +59,6 @@
                     <div class="col-md-6">
                         <p><b>{% trans %}Cuartil al que ha pertenecido en los últimos 5 años:{% endtrans %}</b></p>
                         <ul class="lista-cuartil"></ul>
-                        POR HACER
                     </div>
                 </div>
             </td>

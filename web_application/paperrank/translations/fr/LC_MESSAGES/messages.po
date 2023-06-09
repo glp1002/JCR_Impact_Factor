@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-05-31 23:13+0200\n"
-"PO-Revision-Date: 2023-05-31 23:14+0200\n"
+"POT-Creation-Date: 2023-06-10 00:15+0200\n"
+"PO-Revision-Date: 2023-06-10 00:16+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: fr\n"
 "Language-Team: fr <LL@li.org>\n"
@@ -18,39 +18,43 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.12.1\n"
 
-#: app.py:48
+#: app.py:67 templates/base.html:53 templates/login.html:44
 msgid "Inglés"
 msgstr "Anglais"
 
-#: app.py:49
+#: app.py:68 templates/base.html:54 templates/login.html:45
 msgid "Español"
 msgstr "Espagnol"
 
-#: app.py:50
+#: app.py:69 templates/base.html:55 templates/login.html:46
 msgid "Francés"
 msgstr "Français"
 
-#: app.py:102
+#: app.py:70 templates/base.html:56 templates/login.html:47
+msgid "Italiano"
+msgstr "Italien"
+
+#: app.py:127
 msgid "Nombre de usuario o contraseña incorrectos"
 msgstr "Nom d'utilisateur ou mot de passe incorrect"
 
-#: templates/base.html:60
+#: templates/base.html:61
 msgid "Ayuda"
 msgstr "Aide"
 
-#: templates/base.html:75
+#: templates/base.html:89
 msgid "Editar perfil"
 msgstr "Modifier le profil"
 
-#: templates/base.html:76
+#: templates/base.html:90
 msgid "Cerrar sesión"
-msgstr "Déconnexion"
+msgstr "Se déconnecter"
 
-#: templates/base.html:95
+#: templates/base.html:109
 msgid "Política de privacidad"
 msgstr "Politique de confidentialité"
 
-#: templates/base.html:96
+#: templates/base.html:110
 msgid "Términos de uso"
 msgstr "Conditions d'utilisation"
 
@@ -65,8 +69,8 @@ msgid "Consulta"
 msgstr "Consultation"
 
 #: templates/consult.html:14
-msgid "CONULTA DEL ÍNDICE DE IMPACTO"
-msgstr "CONSULTATION DE L'INDICE D'IMPACT"
+msgid "HISTÓRICO DEL ÍNDICE DE IMPACTO"
+msgstr "HISTORIQUE DE L'INDICE D'IMPACT"
 
 #: templates/error404.html:26
 msgid "Lo sientimos, la página que estás buscando no se encuentra."
@@ -74,21 +78,19 @@ msgstr "Désolé, la page que vous recherchez est introuvable."
 
 #: templates/error404.html:27 templates/error500.html:29
 msgid "Volver a la página de inicio"
-msgstr "Retour à la page d'accueil"
+msgstr "Retourner à la page d'accueil"
 
 #: templates/error500.html:26
-msgid ""
-"Lo sentimos, se ha producido un error interno en el servidor. </br>\n"
+msgid "Lo sentimos, se ha producido un error interno en el servidor. </br>\n"
 "            Nuestro equipo está trabajando para solucionarlo lo antes "
 "posible. </br>\n"
 "            Por favor, intenta nuevamente más tarde."
-msgstr ""
-"Désolé, une erreur interne s'est produite sur le serveur. </br>\n"
+msgstr "Désolé, une erreur interne s'est produite sur le serveur. </br>\n"
 "            Notre équipe travaille à sa résolution dans les plus brefs "
 "délais. </br>\n"
 "            Veuillez réessayer ultérieurement."
 
-#: templates/journals.html:8 templates/profile.html:11
+#: templates/journals.html:8
 msgid "Revistas"
 msgstr "Revues"
 
@@ -118,47 +120,55 @@ msgstr "Catégorie"
 
 #: templates/journals.html:26
 msgid "JCR "
-msgstr "JCR"
+msgstr "JCR "
 
-#: templates/journals.html:46
+#: templates/journals.html:27
+msgid "Cuartil "
+msgstr "Quartile "
+
+#: templates/journals.html:54
 msgid "INFORMACIÓN ADICIONAL DE LA REVISTA"
-msgstr "INFORMATIONS ADDITIONNELLES SUR LA REVUE"
+msgstr "INFORMATIONS SUPPLÉMENTAIRES SUR LA REVUE"
 
-#: templates/journals.html:48
+#: templates/journals.html:56
 msgid "JCR de los últimos 5 años:"
 msgstr "JCR des 5 dernières années :"
 
-#: templates/journals.html:52
+#: templates/journals.html:60
 msgid "Cuartil al que ha pertenecido en los últimos 5 años:"
-msgstr "Quartile auquel elle a appartenu au cours des 5 dernières années :"
+msgstr "Quartile auquel il a appartenu au cours des 5 dernières années :"
 
 #: templates/login.html:7
 msgid "Login"
 msgstr "Connexion"
 
-#: templates/login.html:38 templates/login.html:53
+#: templates/login.html:41
+msgid "Idioma"
+msgstr "Langue"
+
+#: templates/login.html:54 templates/login.html:75
 msgid "Iniciar sesión"
 msgstr "Se connecter"
 
-#: templates/login.html:42
+#: templates/login.html:58
 msgid "Nombre de usuario"
 msgstr "Nom d'utilisateur"
 
-#: templates/login.html:47
+#: templates/login.html:63
 msgid "Contraseña"
 msgstr "Mot de passe"
 
-#: templates/login.html:59
+#: templates/login.html:79
 msgid "¿Ha olvidado tu contraseña?"
-msgstr "Vous avez oublié votre mot de passe? "
+msgstr "Avez-vous oublié votre mot de passe ?"
 
-#: templates/login.html:63
-msgid "¿Eres nuevo usuario?"
-msgstr "Nouvel utilisateur?"
+#: templates/login.html:83
+msgid "¿Eres nuevo usuario? "
+msgstr "Vous êtes un nouvel utilisateur ? "
 
-#: templates/login.html:63
-msgid "Regístrate aquí."
-msgstr "Inscrivez-vous ici."
+#: templates/login.html:84
+msgid "Regístrate aquí"
+msgstr "Inscrivez-vous ici"
 
 #: templates/prediction.html:11
 msgid "Predicción"
@@ -170,16 +180,76 @@ msgstr "INDICE D'IMPACT"
 
 #: templates/prediction.html:18
 #, python-format
-msgid ""
-"El índice de impacto de la revista es:\n"
-"                    %(prediction)s"
-msgstr ""
-"L'indice d'impact de la revue est :\n"
-"                    %(prediction)s"
+msgid "El índice de impacto predicho por el clasificador para la revista es: "
+msgstr "L'indice d'impact prédit par le classifieur pour la revue est : "
+
+#: templates/profile.html:11
+msgid "Perfil"
+msgstr "Profil"
 
 #: templates/profile.html:15
 msgid "ÁREA DE USUARIO"
 msgstr "ZONE UTILISATEUR"
+
+#: templates/profile.html:25
+msgid "Arrastra y suelta una imagen aquí"
+msgstr "Faites glisser et déposez une image ici"
+
+#: templates/profile.html:27
+msgid "Seleccionar imagen"
+msgstr "Sélectionner une image"
+
+#: templates/profile.html:31
+msgid "Información de usuario"
+msgstr "Informations de l'utilisateur"
+
+#: templates/profile.html:40
+msgid "Nombre: "
+msgstr "Nom : "
+
+#: templates/profile.html:41
+msgid "Correo electrónico: "
+msgstr "Adresse e-mail : "
+
+#: templates/profile.html:43
+msgid "Guardar cambios"
+msgstr "Enregistrer modifications"
+
+#: templates/register.html:7
+msgid "Register"
+msgstr "S'inscrire"
+
+#: templates/register.html:28
+msgid "REGISTRO"
+msgstr "INSCRIPTION"
+
+#: templates/register.html:31
+msgid "Nombre de usuario:"
+msgstr "Nom d'utilisateur :"
+
+#: templates/register.html:37
+msgid "Contraseña:"
+msgstr "Mot de passe :"
+
+#: templates/register.html:48
+msgid "Repita su contraseña:"
+msgstr "Répétez votre mot de passe :"
+
+#: templates/register.html:60
+msgid "Correo electrónico:"
+msgstr "Adresse e-mail :"
+
+#: templates/register.html:66
+msgid "Registrarse"
+msgstr "S'inscrire"
+
+#: templates/register.html:69
+msgid "¿Ya tienes cuenta?"
+msgstr "Vous avez déjà un compte ?"
+
+#: templates/register.html:70
+msgid "Inicia sesión aquí"
+msgstr "Connectez-vous ici"
 
 #: templates/selection.html:15
 msgid "SELECCIÓN DE REVISTAS"
@@ -206,13 +276,13 @@ msgid "Seleccione una revista y su categoría"
 msgstr "Sélectionnez une revue et sa catégorie"
 
 #: templates/selection.html:68
-msgid "Consultar"
-msgstr "Consulter"
+msgid "Histórico JCR"
+msgstr "Historique JCR"
 
 #: templates/selection.html:72
 msgid "Rellene todos los campos"
 msgstr "Remplissez tous les champs"
 
 #: templates/selection.html:73
-msgid "Predecir"
-msgstr "Prédire"
+msgid "Predecir JCR"
+msgstr "Prédire le JCR"

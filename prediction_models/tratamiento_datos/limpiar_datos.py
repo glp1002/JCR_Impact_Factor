@@ -5,8 +5,8 @@ separador_actual = ','
 nuevo_separador = '|'
 
 # Rutas de los archivos CSV (entrada y salida)
-archivo_entrada = './datos_combinados.csv'
-archivo_salida = './datos_combinados2.csv'
+archivo_entrada = './archivo_con_cuartil.csv'
+archivo_salida = './archivo_con_cuartil2.csv'
 
 # Abre el archivo de entrada y crea un archivo de salida con el nuevo separador
 with open(archivo_entrada, 'r', encoding='utf8') as f_in, open(archivo_salida, 'w', newline='') as f_out:

@@ -39,8 +39,8 @@
     <form method="POST" action="/profile">
       <p><b>{% trans %}Nombre: {% endtrans %}</b><span id="nombre">{{ username }}</span></p>
       <p><b>{% trans %}Correo electrónico: {% endtrans %}</b><span id="correo">{{ email }}</span></p>
-      <button class="btn btn-primary btn-save-changes" id="save-changes" type="submit" hidden>{% trans %}Guardar
-        cambios{%endtrans %}</button>
+      <button class="btn btn-primary btn-save-changes" id="save-changes" type="submit" hidden>
+        {% trans %}Guardar cambios{%endtrans %}</button>
     </form>
   </div>
 </div>

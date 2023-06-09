@@ -75,6 +75,29 @@ class Modelo:
             raise Exception("Error al obtener el último jcr: " + str(e))
         finally:
             cur.close()
+    
+    def get_last_cuartil(self, nombre_revista):
+        cur = self.conn.cursor()
+        try:
+            query_last_cuartil = """
+                SELECT fecha, cuartil
+                FROM revista_jcr
+                WHERE nombre = %s
+                AND fecha = (SELECT MAX(fecha) FROM revista_jcr WHERE nombre = %s)
+            """
+            cur.execute(query_last_cuartil, (nombre_revista, nombre_revista))
+            last_cuartil = cur.fetchone()
+
+            if last_cuartil is None:
+                last_cuartil = (0, '-')
+            else:
+                last_cuartil = (last_cuartil[0], last_cuartil[1])
+            return last_cuartil
+
+        except psycopg2.Error as e:
+            raise Exception("Error al obtener el último jcr: " + str(e))
+        finally:
+            cur.close()
 
     
     def get_jcr(self, nombre_revista, anio):
@@ -87,9 +110,11 @@ class Modelo:
                 AND fecha = %s
             """
             cur.execute(query_jcr, (nombre_revista, anio))
-            jcr = cur.fetchone()[0]
+            result = cur.fetchone()
 
-            if jcr is None:
+            if result is not None:
+                jcr = result[0]
+            else:
                 jcr = 0.0
 
             return jcr
@@ -100,28 +125,29 @@ class Modelo:
             cur.close()
 
         
-    # TODO
-    # def get_quartil(self, nombre_revista, anio):
-    #     try:
-    #         cur = self.conn.cursor()
+    def get_quartil(self, nombre_revista, anio):
+        cur = self.conn.cursor()
+        try:
+            query_cuartil = """
+                SELECT cuartil
+                FROM revista_jcr
+                WHERE nombre = %s
+                AND fecha = %s
+            """
+            cur.execute(query_cuartil, (nombre_revista, anio))
+            result = cur.fetchone()
 
-    #         query_quartil = """
-    #             SELECT quartil
-    #             FROM revista_jcr
-    #             WHERE nombre = %s
-    #             AND fecha = %s
-    #         """
-    #         cur.execute(query_quartil, (nombre_revista, anio))
-    #         quartil = cur.fetchone()[0]
+            if result is not None:
+                cuartil = result[0]
+            else:
+                cuartil = "-"
 
-    #         if quartil is None:
-    #             quartil = "-"
+            return cuartil
 
-    #         cur.close()
-    #         return quartil
-
-    #     except psycopg2.Error as e:
-    #         raise Exception("Error al obtener los cuartiles: " + str(e))
+        except psycopg2.Error as e:
+            raise Exception("Error al obtener los cuartiles: " + str(e))
+        finally:
+            cur.close()
         
     def get_year_range(self):
         cur = self.conn.cursor()
@@ -408,11 +434,12 @@ class Modelo:
                 );
                 
                 CREATE TABLE revista_jcr (
-                    nombre CHAR(255),
+                    nombre CHAR(255) NOT NULL,
                     fecha NUMERIC NOT NULL, 
-                    jcr FLOAT NOT NULL,
-                    citas NUMERIC NOT NULL,
-                    diff FLOAT NOT NULL
+                    jcr FLOAT,
+                    citas NUMERIC,
+                    diff FLOAT,
+                    cuartil CHAR(10)
                 );
                 
             """)
@@ -530,7 +557,7 @@ class Modelo:
 
             # Cargar datos iniciales en la BBDD
             self.load_data(os.path.join(self.parent_directory, 'data', 'lista_revistas.csv'), 'revista', ('nombre', 'issn', 'categoria'))
-            self.load_data(os.path.join(self.parent_directory, 'data', 'datos_combinados.csv'), 'revista_jcr', ('fecha', 'nombre', 'citas', 'jcr', 'diff'))
+            self.load_data(os.path.join(self.parent_directory, 'data', 'datos_combinados.csv'), 'revista_jcr', ('fecha', 'nombre', 'citas', 'jcr', 'diff', 'cuartil'))
             
             self.insert_users()
             self.insert_models()

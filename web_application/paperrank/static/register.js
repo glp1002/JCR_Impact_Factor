@@ -31,18 +31,18 @@ passwordInput.addEventListener('input', function () {
     // Verificar los requisitos mínimos de la contraseña
     let requirements = [];
     if (password.length < 8) {
-        requirements.push('al menos 8 caracteres');
+        requirements.push(gettext('al menos 8 caracteres'));
     }
     if (!/\d/.test(password)) {
-        requirements.push('al menos un número');
+        requirements.push(gettext('al menos un número'));
     }
     if (!/[A-Z]/.test(password)) {
-        requirements.push('al menos una letra mayúscula');
+        requirements.push(gettext('al menos una letra mayúscula'));
     }
 
     // Mostrar los requisitos si la contraseña no cumple con ellos
     if (requirements.length > 0) {
-        passwordRequirements.innerText = 'La contraseña debe contener: ' + requirements.join(', ');
+        passwordRequirements.innerText = gettext('La contraseña debe contener: ') + requirements.join(', ');
     } else {
         passwordRequirements.innerText = '';
     }
@@ -58,15 +58,15 @@ emailInput.addEventListener('input', function () {
     // Verificar los requisitos mínimos del correo electrónico
     let requirements = [];
     if (!/^\S+@\S+\.\S+$/.test(email)) {
-        requirements.push('una dirección válida');
+        requirements.push(gettext('una dirección válida'));
     }
     if (email.length > 100) {
-        requirements.push('menos de 100 caracteres');
+        requirements.push(gettext('menos de 100 caracteres'));
     }
 
     // Mostrar los requisitos si el correo electrónico no cumple con ellos
     if (requirements.length > 0) {
-        emailRequirements.innerText = 'El correo electrónico debe tener ' + requirements.join(', ');
+        emailRequirements.innerText = gettext('El correo electrónico debe tener ') + requirements.join(', ');
     } else {
         emailRequirements.innerText = '';
     }
@@ -100,7 +100,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 isUsernameValid = true;
             } else {
                 // El nombre de usuario ya existe
-                usernameError.textContent = 'El nombre de usuario ya está en uso';
+                usernameError.textContent = gettext('El nombre de usuario ya está en uso');
                 isUsernameValid = false;
               
             }
@@ -127,7 +127,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 isEmailValid = true;
             } else {
                 // El correo electrónico ya existe
-                emailError.textContent = 'El correo electrónico ya está en uso';
+                emailError.textContent = gettext('El correo electrónico ya está en uso');
                 isEmailValid = false;
             }
           })
@@ -157,7 +157,7 @@ document.addEventListener('DOMContentLoaded', function() {
   
       if (passwordInputs[0].value !== passwordInputs[1].value) {
         event.preventDefault(); // Evita el envío del formulario
-        passwordError.textContent = 'Las contraseñas no coinciden';
+        passwordError.textContent = gettext('Las contraseñas no coinciden');
         isPasswordValid = false;
       } else {
         passwordError.textContent = ''; // Elimina el mensaje de error
@@ -166,7 +166,7 @@ document.addEventListener('DOMContentLoaded', function() {
   
       // Comprobar todas las validaciones
       if (isUsernameValid && isEmailValid && isPasswordValid) {
-        const confirmation = confirm("Su registro se ha realizado correctamente");
+        const confirmation = confirm(gettext("Su registro se ha realizado correctamente"));
         if (!confirmation) {
           event.preventDefault(); // Evita el envío del formulario si se cancela la confirmación
         }

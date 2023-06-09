@@ -31,6 +31,10 @@ app = Flask(__name__)
 secret_key = secrets.token_hex(32)
 app.secret_key = secret_key
 
+# Cookies
+app.config['SESSION_COOKIE_SECURE'] = True 
+app.config['REMEMBER_COOKIE_SECURE'] = True
+
 url_database = os.environ.get("DATABASE_URL")
 def get_db():
     if 'db' not in g:
@@ -39,22 +43,24 @@ def get_db():
             sslmode='require'
         )
     return g.db
-
+# Credenciales de la BBDD
+# app.config['DATABASE'] = {
+#     'host':"localhost",
+#     'port':"5432",
+#     'user':"postgres",
+#     'password':"Hola=2910",
+#     'dbname':"BBDD"
+# }
+# def get_db():
+#     if 'db' not in g:
+#         g.db = psycopg2.connect(**app.config['DATABASE'])
+#     return g.db
 
 def refresh():
     modelo = Modelo(get_db())
     controlador = Controlador(modelo)
     return controlador
 
-# controlador.reinitialize_database() -> TODO: admin
-
-app.config['SESSION_COOKIE_SECURE'] = True 
-app.config['REMEMBER_COOKIE_SECURE'] = True
-# CSP: Content Security Policy -> TODO: política de privacidad
-# @app.after_request
-# def add_security_headers(resp):
-#     resp.headers['Content-Security-Policy'] = "default-src 'self'; img-src 'self' data: ;"
-#     return resp
 
 # Variables globales de internacionalización con Babel
 app.config['BABEL_DEFAULT_LOCALE'] = 'en'
@@ -122,6 +128,7 @@ def login():
             error = gettext('Nombre de usuario o contraseña incorrectos')
             return render_template('login.html', error=error)
     else:
+        #controlador.reinitialize_database()
         return render_template('login.html')
 
 @app.route('/register', methods=['GET', 'POST'])
@@ -168,18 +175,19 @@ def consultJSON(revista):
 
     return jsonify(jcrValues=jcrValues, years=years)
 
-# @app.route('/quartileJSON/<revista>', methods=['GET'])
-# @login_required
-# def quartileJSON(revista):
-#     controlador = refresh()
-#     # Cálculo de la consulta
-#     consulta = controlador.get_consulta_quartil(revista)
-#     # Desempaquetar las tuplas en dos listas
-#     years, quartil_list = zip(*consulta)
-#     years = list(years)
-#     quartil_list = list(quartil_list)
+@app.route('/quartileJSON/<revista>', methods=['GET'])
+@login_required
+def quartileJSON(revista):
+    controlador = refresh()
+    # Cálculo de la consulta
+    consulta = controlador.get_consulta_quartil(revista)
+    # Desempaquetar las tuplas en dos listas
+    years, quartil_list = zip(*consulta)
+    years = list(years)
+    quartil_list = list(quartil_list)
+    quartil_list = [elemento.strip() for elemento in quartil_list]
 
-#     return jsonify(quartil_list=quartil_list, years=years)
+    return jsonify(quartil_list=quartil_list, years=years)
 
 @app.route('/predictionJSON/<revista>/<modelos_deseados>', methods=['GET'])
 @login_required
@@ -243,7 +251,7 @@ def prediction():
     predictions2 = [round(numero[0],3) for numero in predictions2]
     predictions2 = list(zip(modelos_deseados, predictions2)) # [(modelo, valor), (moelo2, valor2)...]
     
-    return render_template('prediction.html', predictions=predictions, predictions2=predictions2, username=session.get('username'))
+    return render_template('prediction.html', predictions=predictions, predictions2=predictions2, username=session.get('username'), revista=revista)
 
 @app.route('/selection', methods=['GET', 'POST'])   
 @login_required

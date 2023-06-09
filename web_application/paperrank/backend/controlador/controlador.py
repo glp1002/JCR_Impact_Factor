@@ -41,7 +41,8 @@ class Controlador:
                 issn = journal[1]
                 categoria = journal[2]
                 last_jcr = self.modelo.get_last_jcr(nombre)
-                journal_tuple = (nombre, issn, categoria, last_jcr)
+                last_cuartil = self.modelo.get_last_cuartil(nombre)
+                journal_tuple = (nombre, issn, categoria, last_jcr, last_cuartil)
                 journal_data.append(journal_tuple)
 
             return journal_data
@@ -172,26 +173,26 @@ class Controlador:
         except Exception as e:
             return {"error": str(e)}
 
-    # TODO 
-    # def get_consulta_quartil(self, nombre_revista):
-    #     try:
-    #         last_year = datetime.datetime.now().year - 1
-    #         results = []
 
-    #         for anio in range(last_year, last_year-5, -1): # TODO: parametrizar
-    #             quartil = self.modelo.get_quartil(nombre_revista, anio)
-    #             tupla = (anio, quartil)
-    #             results.append(tupla)
-    #         return results
-    #     except Exception as e:
-    #         return {"error": str(e)}
+    def get_consulta_quartil(self, nombre_revista):
+        try:
+            last_year = datetime.datetime.now().year - 1
+            results = []
+
+            for anio in range(last_year, last_year-5, -1):
+                cuartil = self.modelo.get_quartil(nombre_revista, anio)
+                tupla = (anio, cuartil)
+                results.append(tupla)
+            return results
+        except Exception as e:
+            return {"error": str(e)}
 
     def get_consulta_jcr(self, nombre_revista):
         try:
             last_year = datetime.datetime.now().year - 1
             results = []
 
-            for anio in range(last_year, last_year-5, -1): # TODO: parametrizar
+            for anio in range(last_year, last_year-5, -1):
                 jcr = self.modelo.get_jcr(nombre_revista, anio)
                 tupla = (anio, jcr)
                 results.append(tupla)

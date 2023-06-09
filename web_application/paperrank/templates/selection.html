@@ -9,8 +9,8 @@
 </nav>
 
 <div class="row centrar">
-    <form method="POST" action="/selection">
-        <div class="col-md-6 justify-content-center align-items-center">
+    <div class="col-md-8 justify-content-center align-items-center">
+        <form method="POST" action="/selection">
 
             <h1 class="d-inline-block">{% trans %}SELECCIÓN DE REVISTAS{% endtrans %}</h1>
             <a href="/revistas" class="d-inline-block">
@@ -43,40 +43,40 @@
                     {% endfor %}
                 </select>
             </div>
-        </div>
 
-        <div class="col-md-6 mt-4 justify-content-center align-items-center">
-            <h1>{% trans %}MODELOS DE PREDICCIÓN{% endtrans %}</h1>
-            <div class="form-group">
+            <h1 class="mt-4">{% trans %}MODELOS DE PREDICCIÓN{% endtrans %}</h1>
+            <div class="form-group mb-4">
                 <label for="modelo">{% trans %}Seleccionar modelos{% endtrans %}:</label>
                 {% for modelo in modelos %}
                 <div class="form-check">
                     <input class="form-check-input" type="checkbox" id="modelo_{{ loop.index }}" name="modelo[]"
                         value="{{ modelo.nombre }}">
                     <label class="form-check-label" for="modelo_{{ loop.index }}">
-                        <strong>{{ modelo.nombre }}</strong> - RSME: {{ modelo.rmse }}
+                        <strong>{{ modelo.nombre }}</strong> - RMSE: {{ modelo.rmse }}
                     </label>
                 </div>
                 {% endfor %}
             </div>
-        </div>
 
-        <div class="mt-4 text-center">
-            <button type="submit" class="btn btn-primary btn-enviar" id="calcular-btn-consultar" name="action" 
-                value="consultar" disabled data-toggle="tooltip" data-placement="top"
-                title="{% trans %}Seleccione una revista y su categoría{% endtrans %}">
-                {% trans %}Histórico JCR{% endtrans %}
-            </button>
-            <button type="submit" class="btn btn-primary btn-enviar" id="calcular-btn-predecir" name="action"
-                value="predecir" disabled data-toggle="tooltip" data-placement="top"
-                title="{% trans %}Rellene todos los campos{% endtrans %}">
-                {% trans %}Predecir JCR{% endtrans %}
-            </button>
-        </div>
+            <div class="mt-4 text-center">
+                <button type="submit" class="btn btn-primary btn-enviar" id="calcular-btn-consultar" name="action" 
+                    value="consultar" disabled data-toggle="tooltip" data-placement="top"
+                    title="{% trans %}Seleccione una revista y su categoría{% endtrans %}">
+                    {% trans %}Histórico JCR{% endtrans %}
+                </button>
+                <button type="submit" class="btn btn-primary btn-enviar" id="calcular-btn-predecir" name="action"
+                    value="predecir" disabled data-toggle="tooltip" data-placement="top"
+                    title="{% trans %}Rellene todos los campos{% endtrans %}">
+                    {% trans %}Predecir JCR{% endtrans %}
+                </button>
+            </div>
 
+        </form>
+    </div>
 
-    </form>
-
+    <div class="col-md-4 d-flex justify-content-center align-items-center">
+        <img src="{{ url_for('static', filename='images/logo_bl.png') }}" alt="Logo" class="logo-derecha" style="margin-left: 100px;">
+    </div>
 </div>
 
 <!-- JQuery js -->

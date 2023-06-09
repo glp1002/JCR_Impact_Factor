@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-05-31 23:13+0200\n"
-"PO-Revision-Date: 2023-05-31 23:14+0200\n"
+"POT-Creation-Date: 2023-06-10 00:15+0200\n"
+"PO-Revision-Date: 2023-06-10 00:16+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
 "Language-Team: en <LL@li.org>\n"
@@ -18,41 +18,45 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.12.1\n"
 
-#: app.py:48
+#: app.py:67 templates/base.html:53 templates/login.html:44
 msgid "Inglés"
 msgstr "English"
 
-#: app.py:49
+#: app.py:68 templates/base.html:54 templates/login.html:45
 msgid "Español"
 msgstr "Spanish"
 
-#: app.py:50
+#: app.py:69 templates/base.html:55 templates/login.html:46
 msgid "Francés"
 msgstr "French"
 
-#: app.py:102
+#: app.py:70 templates/base.html:56 templates/login.html:47
+msgid "Italiano"
+msgstr "Italian"
+
+#: app.py:127
 msgid "Nombre de usuario o contraseña incorrectos"
 msgstr "Incorrect username or password"
 
-#: templates/base.html:60
+#: templates/base.html:61
 msgid "Ayuda"
 msgstr "Help"
 
-#: templates/base.html:75
+#: templates/base.html:89
 msgid "Editar perfil"
-msgstr "Edit Profile"
+msgstr "Edit profile"
 
-#: templates/base.html:76
+#: templates/base.html:90
 msgid "Cerrar sesión"
-msgstr "Log Out"
+msgstr "Logout"
 
-#: templates/base.html:95
+#: templates/base.html:109
 msgid "Política de privacidad"
 msgstr "Privacy Policy"
 
-#: templates/base.html:96
+#: templates/base.html:110
 msgid "Términos de uso"
-msgstr "Terms of Use"
+msgstr "Terms of Service"
 
 #: templates/consult.html:10 templates/journals.html:7
 #: templates/prediction.html:10 templates/profile.html:10
@@ -65,29 +69,27 @@ msgid "Consulta"
 msgstr "Consultation"
 
 #: templates/consult.html:14
-msgid "CONULTA DEL ÍNDICE DE IMPACTO"
-msgstr "IMPACT INDEX CONSULTATION"
+msgid "HISTÓRICO DEL ÍNDICE DE IMPACTO"
+msgstr "HISTORICAL IMPACT FACTOR"
 
 #: templates/error404.html:26
 msgid "Lo sientimos, la página que estás buscando no se encuentra."
-msgstr "Sorry, the page you're looking for cannot be found."
+msgstr "Sorry, the page you are looking for could not be found."
 
 #: templates/error404.html:27 templates/error500.html:29
 msgid "Volver a la página de inicio"
-msgstr "Return to Homepage"
+msgstr "Return to the home page"
 
 #: templates/error500.html:26
-msgid ""
-"Lo sentimos, se ha producido un error interno en el servidor. </br>\n"
-"            Nuestro equipo está trabajando para solucionarlo lo antes "
+msgid "Lo sentimos, se ha producido un error interno en el servidor. </br>\n"
+" Nuestro equipo está trabajando para solucionarlo lo antes "
 "posible. </br>\n"
-"            Por favor, intenta nuevamente más tarde."
-msgstr ""
-"Sorry, an internal server error has occurred. </br>\n"
-"            Our team is working to resolve it as soon as possible. </br>\n"
-"            Please try again later."
+" Por favor, intenta nuevamente más tarde."
+msgstr "Sorry, an internal server error has occurred. </br>\n"
+" Our team is working to fix it as soon as possible. </br>\n"
+" Please try again later."
 
-#: templates/journals.html:8 templates/profile.html:11
+#: templates/journals.html:8
 msgid "Revistas"
 msgstr "Journals"
 
@@ -97,7 +99,7 @@ msgstr "LIST OF JOURNALS"
 
 #: templates/journals.html:14
 msgid "Buscar revistas"
-msgstr "Search Journals"
+msgstr "Search journals"
 
 #: templates/journals.html:16
 msgid "Buscar"
@@ -117,17 +119,21 @@ msgstr "Category"
 
 #: templates/journals.html:26
 msgid "JCR "
-msgstr "JCR"
+msgstr "JCR "
 
-#: templates/journals.html:46
+#: templates/journals.html:27
+msgid "Cuartil "
+msgstr "Quartile "
+
+#: templates/journals.html:54
 msgid "INFORMACIÓN ADICIONAL DE LA REVISTA"
 msgstr "ADDITIONAL JOURNAL INFORMATION"
 
-#: templates/journals.html:48
+#: templates/journals.html:56
 msgid "JCR de los últimos 5 años:"
-msgstr "JCR of the last 5 years:"
+msgstr "JCR for the last 5 years:"
 
-#: templates/journals.html:52
+#: templates/journals.html:60
 msgid "Cuartil al que ha pertenecido en los últimos 5 años:"
 msgstr "Quartile it has belonged to in the last 5 years:"
 
@@ -135,29 +141,33 @@ msgstr "Quartile it has belonged to in the last 5 years:"
 msgid "Login"
 msgstr "Login"
 
-#: templates/login.html:38 templates/login.html:53
-msgid "Iniciar sesión"
-msgstr "Sign In"
+#: templates/login.html:41
+msgid "Idioma"
+msgstr "Language"
 
-#: templates/login.html:42
+#: templates/login.html:54 templates/login.html:75
+msgid "Iniciar sesión"
+msgstr "Log in"
+
+#: templates/login.html:58
 msgid "Nombre de usuario"
 msgstr "Username"
 
-#: templates/login.html:47
+#: templates/login.html:63
 msgid "Contraseña"
 msgstr "Password"
 
-#: templates/login.html:59
+#: templates/login.html:79
 msgid "¿Ha olvidado tu contraseña?"
-msgstr "Forgot your password? "
+msgstr "Forgot your password?"
 
-#: templates/login.html:63
-msgid "¿Eres nuevo usuario?"
-msgstr "Are you a new user?"
+#: templates/login.html:83
+msgid "¿Eres nuevo usuario? "
+msgstr "New user? "
 
-#: templates/login.html:63
-msgid "Regístrate aquí."
-msgstr "Sign up here."
+#: templates/login.html:84
+msgid "Regístrate aquí"
+msgstr "Sign up here"
 
 #: templates/prediction.html:11
 msgid "Predicción"
@@ -165,20 +175,80 @@ msgstr "Prediction"
 
 #: templates/prediction.html:14
 msgid "ÍNDICE DE IMPACTO"
-msgstr "IMPACT INDEX"
+msgstr "IMPACT FACTOR"
 
 #: templates/prediction.html:18
 #, python-format
-msgid ""
-"El índice de impacto de la revista es:\n"
-"                    %(prediction)s"
-msgstr ""
-"The impact index of the journal is:\n"
-"                    %(prediction)s"
+msgid "El índice de impacto predicho por el clasificador para la revista es: "
+msgstr "The impact factor predicted by the classifier for the journal is: "
+
+#: templates/profile.html:11
+msgid "Perfil"
+msgstr "Profile"
 
 #: templates/profile.html:15
 msgid "ÁREA DE USUARIO"
 msgstr "USER AREA"
+
+#: templates/profile.html:25
+msgid "Arrastra y suelta una imagen aquí"
+msgstr "Drag and drop an image here"
+
+#: templates/profile.html:27
+msgid "Seleccionar imagen"
+msgstr "Select image"
+
+#: templates/profile.html:31
+msgid "Información de usuario"
+msgstr "User information"
+
+#: templates/profile.html:40
+msgid "Nombre: "
+msgstr "Name: "
+
+#: templates/profile.html:41
+msgid "Correo electrónico: "
+msgstr "Email: "
+
+#: templates/profile.html:43
+msgid "Guardar cambios"
+msgstr "Save changes"
+
+#: templates/register.html:7
+msgid "Register"
+msgstr "Register"
+
+#: templates/register.html:28
+msgid "REGISTRO"
+msgstr "REGISTER"
+
+#: templates/register.html:31
+msgid "Nombre de usuario:"
+msgstr "Username:"
+
+#: templates/register.html:37
+msgid "Contraseña:"
+msgstr "Password:"
+
+#: templates/register.html:48
+msgid "Repita su contraseña:"
+msgstr "Repeat password:"
+
+#: templates/register.html:60
+msgid "Correo electrónico:"
+msgstr "Email:"
+
+#: templates/register.html:66
+msgid "Registrarse"
+msgstr "Register"
+
+#: templates/register.html:69
+msgid "¿Ya tienes cuenta?"
+msgstr "Already have an account?"
+
+#: templates/register.html:70
+msgid "Inicia sesión aquí"
+msgstr "Log in here"
 
 #: templates/selection.html:15
 msgid "SELECCIÓN DE REVISTAS"
@@ -205,13 +275,13 @@ msgid "Seleccione una revista y su categoría"
 msgstr "Select a journal and its category"
 
 #: templates/selection.html:68
-msgid "Consultar"
-msgstr "Consult"
+msgid "Histórico JCR"
+msgstr "JCR History"
 
 #: templates/selection.html:72
 msgid "Rellene todos los campos"
-msgstr "Fill in all the fields"
+msgstr "Fill in all fields"
 
 #: templates/selection.html:73
-msgid "Predecir"
-msgstr "Predict"
+msgid "Predecir JCR"
+msgstr "Predict JCR"

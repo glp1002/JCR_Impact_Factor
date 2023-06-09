@@ -24,6 +24,7 @@
   <!-- Body -->
   <div class="row d-flex align-items-center justify-content-end h-100">
 
+  
     <!-- Animation -->
     <div class="col-xg-6 col-lg-6 col-md-6 col-sm-12 video h-100">
       <video autoplay muted>
@@ -33,22 +34,37 @@
 
     <!--  Login form -->
     <div class="col-xg-6 col-lg-6 col-md-6 col-sm-12 login h-100">
+      <div class="language-dropdown">
+        <div class="dropdown" id="idioma">
+          <button class="btn" type="button" id="language-dropdown" data-bs-toggle="dropdown" aria-expanded="false">
+            <img src="{{ url_for('static', filename='images/lang_bl.png') }}" alt="Idioma" width="30" height="30" style="margin-top: 5px;" id="config-img">
+            {% trans %}Idioma{% endtrans %}
+          </button>
+          <ul class="dropdown-menu" aria-labelledby="language-dropdown">
+            <li><a class="dropdown-item" href="{{ request.path }}?lang=en">{% trans %}Inglés{% endtrans %}</a></li>
+            <li><a class="dropdown-item" href="{{ request.path }}?lang=es">{% trans %}Español{% endtrans %}</a></li>
+            <li><a class="dropdown-item" href="{{ request.path }}?lang=fr">{% trans %}Francés{% endtrans %}</a></li>
+            <li><a class="dropdown-item" href="{{ request.path }}?lang=it">{% trans %}Italiano{% endtrans %}</a></li>
+          </ul>
+        </div>
+      </div>
+      
       <form class="alinear" method="POST" action="/login">
         <div class="form-header">
           <h1>{% trans %}Iniciar sesión{% endtrans %}</h1>
         </div>
 
         <div class="form-group" id="login-form">
-          <label for="username" >{% trans %}Nombre de usuario{% endtrans %}</label>
+          <label for="username">{% trans %}Nombre de usuario{% endtrans %}</label>
           <input type="text" class="form-control" id="username" name="username" required>
         </div>
 
         <div class="form-group">
-          <label for="password" >{% trans %}Contraseña{% endtrans %}</label>
+          <label for="password">{% trans %}Contraseña{% endtrans %}</label>
           <div class="password-container">
             <input type="password" id="new-password" name="new-password" required>
             <img id="show-password" class="password-icon" style="display:inline-block"
-                      src="{{ url_for('static', filename='images/ojotachado.png') }}" alt="Mostrar contraseña">
+              src="{{ url_for('static', filename='images/ojotachado.png') }}" alt="Mostrar contraseña">
           </div>
         </div>
 
@@ -56,15 +72,16 @@
         <p style="color: rgb(183, 33, 33);">{{ error }}</p>
         {% endif %}
 
-        <button type="submit" id="login-button" class="btn" >{% trans %}Iniciar sesión{% endtrans %}</button>
-        
+        <button type="submit" id="login-button" class="btn">{% trans %}Iniciar sesión{% endtrans %}</button>
+
 
         <div class="form-group enlace text-center">
-          <a href="/recover" >{% trans %}¿Ha olvidado tu contraseña?{% endtrans %}</a>
+          <a href="/recover">{% trans %}¿Ha olvidado tu contraseña?{% endtrans %}</a>
         </div>
 
         <div class="register-link enlace">
-          <p >{% trans %}¿Eres nuevo usuario? {% endtrans %}<a href="/register" id="register-link">{% trans %}Regístrate aquí{% endtrans %}</a></p>
+          <p>{% trans %}¿Eres nuevo usuario? {% endtrans %}<a href="/register" id="register-link">
+            {% trans %}Regístrate aquí{% endtrans %}</a></p>
         </div>
       </form>
 
