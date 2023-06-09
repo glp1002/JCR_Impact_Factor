@@ -1,6 +1,8 @@
 var editTextImg = document.getElementById("edit-text");
 var editPhotoImg = document.getElementById("small-image");
 var newProfileImg = document.getElementById('profile-picture');
+var selectFileBtn = document.getElementById('select-file-btn');
+var fileInput = document.getElementById('file-input');
 document.addEventListener('DOMContentLoaded', function () {
     // Cambio del botón de edición de texto
     editTextImg.addEventListener('mouseover', function () {
@@ -18,24 +20,98 @@ document.addEventListener('DOMContentLoaded', function () {
         editPhotoImg.src = '/static/images/edit_photo_bl.png';
     });
 
-    // Escuchar el evento 'change' del input de imagen
-    editPhotoImg.addEventListener('click', function (event) {
-        if (event.target.files && event.target.files[0]) {
-            var file = event.target.files[0]; // Obtener el archivo seleccionado
-
-            // Crear un objeto FileReader
-            var reader = new FileReader();
-
-            // Definir la función de callback cuando se complete la lectura del archivo
-            reader.onload = function () {
-                // Actualizar la imagen actual con la nueva imagen seleccionada
-                newProfileImg.src = reader.result;
-            };
-
-            // Leer el archivo como una URL de datos (data URL)
-            reader.readAsDataURL(file);
+    const dropArea = document.getElementById('drop-area');
+    let dropAreaVisible = false; // Variable para controlar la visibilidad del drop area
+    // Escuchar el evento 'click' del input de imagen
+    editPhotoImg.addEventListener('click', () => {
+        if (dropAreaVisible) {
+            selectFileBtn.style.display = 'none';
+            dropArea.style.display = 'none'; // Ocultar el drop area si ya está visible
+            dropAreaVisible = false;
+        } else {
+            selectFileBtn.style.display = 'block';
+            dropArea.style.display = 'block'; // Mostrar el drop area si está oculto
+            dropAreaVisible = true;
         }
     });
+
+
+    // Evitar que el navegador abra la imagen al arrastrar y soltar
+    dropArea.addEventListener('dragover', (e) => {
+        e.preventDefault();
+    });
+
+
+    dropArea.addEventListener('drop', (e) => {
+        e.preventDefault();
+
+        const file = e.dataTransfer.files[0];
+        const fileReader = new FileReader();
+
+        fileReader.onload = () => {
+            const imgDataUrl = fileReader.result;
+
+            // Crear un objeto FormData para enviar la imagen al endpoint en Flask
+            const formData = new FormData();
+            formData.append('image', file);
+
+            // Realizar una solicitud POST al endpoint en Flask
+            fetch('/insert_profile_picture', {
+                method: 'POST',
+                body: formData
+            })
+                .then(response => {
+                    if (response.ok) {
+                        console.log('La imagen se ha guardado exitosamente');
+                    } else {
+                        console.error('Error al guardar la imagen');
+                    }
+                })
+                .catch(error => {
+                    console.error('Error en la solicitud:', error);
+                });
+        };
+
+        fileReader.readAsDataURL(file);
+    });
+
+    
+
+    selectFileBtn.addEventListener('click', function () {
+        fileInput.click(); // Simular un clic en el input de archivo
+    });
+
+    fileInput.addEventListener('change', function (e) {
+        const file = e.target.files[0];
+        const fileReader = new FileReader();
+
+        fileReader.onload = function () {
+            const imgDataUrl = fileReader.result;
+
+            // Crear un objeto FormData para enviar la imagen al endpoint en Flask
+            const formData = new FormData();
+            formData.append('image', file);
+
+            // Realizar una solicitud POST al endpoint en Flask
+            fetch('/insert_profile_picture', {
+                method: 'POST',
+                body: formData
+            })
+                .then(response => {
+                    if (response.ok) {
+                        console.log('La imagen se ha guardado exitosamente');
+                    } else {
+                        console.error('Error al guardar la imagen');
+                    }
+                })
+                .catch(error => {
+                    console.error('Error en la solicitud:', error);
+                });
+        };
+
+        fileReader.readAsDataURL(file);
+    });
+
 });
 
 // Habilitar edición

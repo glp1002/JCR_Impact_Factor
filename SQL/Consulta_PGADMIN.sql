@@ -12,7 +12,8 @@ CREATE TABLE users (
     username VARCHAR(255),
     password VARCHAR(255),
     email VARCHAR(255),
-    admin BOOLEAN
+    admin BOOLEAN,
+	image BYTEA
 );
 CREATE TABLE modelos (
     id SERIAL PRIMARY KEY,
@@ -62,7 +63,7 @@ FROM 'C:\Users\Public\datos_combinados.csv' DELIMITER ',' CSV HEADER;
 INSERT INTO users VALUES ('Pepe', 'password123', 'pepe@example.com', false);
 INSERT INTO users VALUES ('Admin', 'p@ssw0rd', 'admin@example.com', true);
 
-
+SELECT * FROM users
 
 
 

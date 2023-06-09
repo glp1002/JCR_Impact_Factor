@@ -29,8 +29,8 @@ h1 {
   position: absolute;
   top: -15px;
   left: -10px;
-  width: 22%; 
-  height: 22%; 
+  width: 30px; 
+  height: 30px; 
 }
 
 
@@ -66,6 +66,42 @@ h1 {
   /* bisque */
 }
 .btn-save-changes:hover{
+  background-color: #7453c3 !important;
+  color: #fff !important;
+}
+
+
+.image-upload {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#drop-area {
+  width: 170px;
+  height: 170px;
+  margin-right: 20px;
+  border: 2px dashed gray;
+  text-align: center;
+  padding: 10px;
+  cursor: pointer;
+  display: none; /* Ocultar el drop area inicialmente */
+}
+
+#select-file-btn{
+  margin-top: 10px;
+  margin-right: 20px;
+  width: 170px;
+  height: 30px;
+  border: none !important;
+  border-radius: 10px !important;
+  background-color: #333 !important;
+  color: #fff !important;
+  cursor: pointer !important;
+  display: none; /* Ocultar el drop area inicialmente */
+}
+
+#select-file-btn:hover{
   background-color: #7453c3 !important;
   color: #fff !important;
 }

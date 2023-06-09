@@ -240,3 +240,17 @@ class Controlador:
             return {"error": str(e)}
 
 
+    def insert_profile_picture(self, image, username):
+        try:
+            done = self.modelo.insert_profile_picture(image, username)
+            return done
+        except Exception as e:
+            return {"error": str(e)}
+        
+    def get_profile_picture(self, username):
+        try:
+            image = self.modelo.get_profile_picture(username)
+            return image
+        except Exception as e:
+            return {"error": str(e)}
+    

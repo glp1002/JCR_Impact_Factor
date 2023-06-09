@@ -65,6 +65,19 @@
             <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">{{ username }}</a>
             <img id=myImg src="{{ url_for('static', filename='images/perfil.jpg') }}" alt="Profile" width="40"
               height="40" class="imgperf">
+              <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+              <script>
+              $(document).ready(function() {
+                // Obtener el nombre de usuario del elemento de navegación
+                var username = $("#profile .nav-link").text().trim();
+
+                // Realizar una solicitud GET al endpoint para obtener la nueva imagen de perfil
+                $.get("/get_profile_picture/" + username, function(imageUrl) {
+                  // Actualizar la fuente (src) de la imagen con la nueva URL obtenida
+                  $("#myImg").attr("src", imageUrl);
+                });
+              });
+              </script>
             <!-- The Modal -->
             <div id="myModal" class="modal">
               <span class="close">&times;</span>

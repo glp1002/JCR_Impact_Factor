@@ -5,6 +5,7 @@ Es compatible con la mayoría de las versiones de Python y es muy fácil de util
 de las bases de datos relacionales como MySQL, además proporciona una gran cantidad de funciones útiles para trabajar con 
 bases de datos.
 """
+import base64
 import binascii
 import json
 import os
@@ -40,8 +41,8 @@ class Modelo:
             raise Exception("Error al conectarse a la base de datos: " + str(e))
         
     def get_journals(self):
+        cur = self.conn.cursor()
         try:
-            cur = self.conn.cursor()
             cur.execute("SELECT nombre, issn, categoria FROM revista")
             journals = []
             for nombre, issn, categoria in cur:
@@ -49,11 +50,12 @@ class Modelo:
             return journals
         except psycopg2.Error as e:
             raise Exception("Error al obtener las revistas: " + str(e))
+        finally:
+            cur.close()
         
     def get_last_jcr(self, nombre_revista):
+        cur = self.conn.cursor()
         try:
-            cur = self.conn.cursor()
-
             query_last_jcr = """
                 SELECT fecha, jcr
                 FROM revista_jcr
@@ -67,16 +69,17 @@ class Modelo:
                 last_jcr = (0, 0.0)
             else:
                 last_jcr = (last_jcr[0], last_jcr[1])
-            cur.close()
             return last_jcr
 
         except psycopg2.Error as e:
             raise Exception("Error al obtener el último jcr: " + str(e))
+        finally:
+            cur.close()
+
     
     def get_jcr(self, nombre_revista, anio):
+        cur = self.conn.cursor()
         try:
-            cur = self.conn.cursor()
-
             query_jcr = """
                 SELECT jcr
                 FROM revista_jcr
@@ -89,11 +92,13 @@ class Modelo:
             if jcr is None:
                 jcr = 0.0
 
-            cur.close()
             return jcr
 
         except psycopg2.Error as e:
             raise Exception("Error al obtener los jcr: " + str(e))
+        finally:
+            cur.close()
+
         
     # TODO
     # def get_quartil(self, nombre_revista, anio):
@@ -119,39 +124,48 @@ class Modelo:
     #         raise Exception("Error al obtener los cuartiles: " + str(e))
         
     def get_year_range(self):
+        cur = self.conn.cursor()
         try:
-            cur = self.conn.cursor()
             cur.execute("SELECT DISTINCT fecha FROM revista_jcr")
             years = [elem[0] for elem in cur]
-            cur.close()
             return years
         except psycopg2.Error as e:
             raise Exception("Error al obtener los años de los artículos: " + str(e))
+        finally:
+            cur.close()
+
 
     # Gestionar usuarios
     def create_user(self, username, password, email, admin=False):
+        cur = self.conn.cursor()
         try:
+            # Contraseña hasheada
             password = password.encode('utf-8')
             hashed_password = bcrypt.hashpw(password, bcrypt.gensalt(7))
 
-            cur = self.conn.cursor()
-            cur.execute("INSERT INTO users (username, password, email, admin) VALUES (%s, %s, %s, %s)",
-                        (username, hashed_password, email, admin))
+            # Imagen default
+            file_path = os.path.join(self.parent_directory, 'data', 'perfil.jpg')
+            with open(file_path, 'rb') as file:
+                image_data = file.read()
+
+            query = """INSERT INTO users (username, password, email, admin, image) VALUES (%s, %s, %s, %s, %s);"""
+            cur.execute(query, (username, hashed_password, email, admin, image_data))
             self.conn.commit()
-            cur.close()
+
             return True
         except psycopg2.Error as e:
             self.conn.rollback()
-            cur.close()
             raise Exception("Error al crear el nuevo usuario: " + str(e))
+        finally:
+            cur.close()
+
             
     def authenticate_user(self, username, password):
+        cur = self.conn.cursor()
         try:
-            cur = self.conn.cursor()
             query = "SELECT password FROM users WHERE username = %s"
             cur.execute(query, (username,))
             real_password = cur.fetchone()
-            cur.close()
 
             if real_password is not None:
                 new_password = password.encode('utf-8')
@@ -161,13 +175,15 @@ class Modelo:
             
         except psycopg2.Error as e:
             raise Exception("Error al crear el nuevo usuario: " + str(e))
+        finally:
+            cur.close()
+
         
     def get_user(self, user_id):
+        cur = self.conn.cursor()
         try:
-            cur = self.conn.cursor()
             cur.execute("SELECT id, username, email FROM users WHERE id = %s", (user_id,))
             user_data = cur.fetchone()
-            cur.close()
 
             if user_data:
                 user = User(user_data[0], user_data[1], "", user_data[2])
@@ -176,60 +192,67 @@ class Modelo:
                 return None
         except psycopg2.Error as e:
             raise Exception("Error al obtener los datos del usuario: " + str(e))
+        finally:
+            cur.close()
+
         
     def get_email(self, username):
+        cur = self.conn.cursor()
         try:
-            cur = self.conn.cursor()
             cur.execute("SELECT email FROM users WHERE username = %s", (username,))
             email = cur.fetchone()[0]
-            cur.close()
             return email
         except psycopg2.Error as e:
             raise Exception("Error al obtener los datos del usuario: " + str(e))
+        finally:
+            cur.close()
+
         
     def get_users_by_role(self, admin=False):
+        cur = self.conn.cursor()
         try:
-            cur = self.conn.cursor()
             cur.execute("SELECT id, username, password, email, admin FROM users WHERE admin = %s", (admin,))
             users = []
             for user_data in cur:
                 user = User(user_data[0], user_data[1], "", user_data[2], user_data[3])
                 users.append(user)
-            cur.close()
             return users
         except psycopg2.Error as e:
             raise Exception("Error al obtener los usuarios por rol: " + str(e))
+        finally:
+            cur.close()
+
     
     def update_user(self, new_username, new_email, old_email):
+        cur = self.conn.cursor()
         try:
-            cur = self.conn.cursor()
             cur.execute("UPDATE users SET username = %s, email = %s WHERE email = %s",
                         (new_username, new_email, old_email))
             self.conn.commit()
-            cur.close()
             return True
         except psycopg2.Error as e:
             self.conn.rollback()
-            cur.close()
             raise Exception("Error al actualizar los datos del usuario: " + str(e))
-        
+        finally:
+            cur.close()
+
     def delete_user(self, user_id):
+        cur = self.conn.cursor()
         try:
-            cur = self.conn.cursor()
             cur.execute("DELETE FROM users WHERE id = %s", (user_id,))
             self.conn.commit()
-            cur.close()
             return True
         except psycopg2.Error as e:
             self.conn.rollback()
-            cur.close()
             raise Exception("Error al eliminar el usuario: " + str(e))
+        finally:
+            cur.close()
+
         
     # Gestión de los modelos de predicción
     def insert_models(self):
+        cur = self.conn.cursor()
         try:
-            cur = self.conn.cursor()
-
             # Cargar el archivo JSON 
             file_path = os.path.join(self.backend_directory, 'prediction_models', 'resultados.json')
             with open(file_path, "r") as archivo_json:
@@ -244,18 +267,18 @@ class Modelo:
                 cur.execute(consulta, (nombre, rmse))
 
             self.conn.commit()
-            cur.close()
             return True
 
         except (psycopg2.Error, IOError) as e:
             self.conn.rollback()
-            cur.close()
             raise Exception("Error al insertar los modelos: " + str(e))
+        finally:
+            cur.close()
+
 
     def get_model_names_and_errors(self):
+        cur = self.conn.cursor()
         try:
-            cur = self.conn.cursor()
-
             consulta = """
             SELECT nombre, rmse FROM modelos;
             """
@@ -267,16 +290,16 @@ class Modelo:
                 modelo = {"nombre": nombre, "rmse": rmse}
                 lista_modelos.append(modelo)
 
-            cur.close()
             return lista_modelos
 
         except psycopg2.Error as e:
-            cur.close()
             raise Exception("Error al obtener los nombres de los modelos y sus errores: " + str(e))
+        finally:
+            cur.close()
+
 
     def get_model_binaries(self, nombres_modelos):
         try:
-
             diccionario_modelos = {}
 
             for nombre in nombres_modelos:
@@ -303,8 +326,8 @@ class Modelo:
             raise Exception("Error al obtener los binarios de los modelos: " + str(e))
 
     def get_ejemplo(self, nombre_revista, year):
+        cur = self.conn.cursor()
         try:
-            cur = self.conn.cursor()
             year = int(year)
 
             # Obtener número de citas de hace 3 años de la revista
@@ -343,7 +366,6 @@ class Modelo:
             cur.execute(query_citas_este_anio, (nombre_revista, year))
             citas_este_anio, jcr_este_anio, diff_este_anio = cur.fetchone() or (0, 0.0, 0.0)
 
-            cur.close()
             ejemplo = [
                 int(citas_3_anios), float(jcr_3_anios), float(diff_3_anios),
                 int(citas_2_anios), float(jcr_2_anios), float(diff_2_anios),
@@ -353,21 +375,24 @@ class Modelo:
             return ejemplo
 
         except psycopg2.Error as e:
-            cur.close()
             raise Exception("Error al obtener datos para la predicción: " + str(e))
+        finally:
+            cur.close()
+
 
     # Restablecer la BBDD
 
     # Módulo de creación de tablas
     def create_tables(self):
+        cur = self.conn.cursor()
         try:
-            cur = self.conn.cursor()
             cur.execute("""
                 CREATE TABLE users (
                     username VARCHAR(255),
                     password VARCHAR(255),
                     email VARCHAR(255) PRIMARY KEY,
-                    admin BOOLEAN
+                    admin BOOLEAN,
+                    image BYTEA
                 );
                 
                 CREATE TABLE modelos (
@@ -402,49 +427,57 @@ class Modelo:
             # cur.execute("ANALYZE revista_jcr;")
 
             self.conn.commit()
-            cur.close()
         except psycopg2.Error as e:
-            cur.close()
             raise Exception("Error al crear las tablas: " + str(e))
+        finally:
+            cur.close()
+
 
     # Módulo de carga de datos
     def load_data(self, csv_path, table_name, columns):
-        try:
-            cur = self.conn.cursor()
-            
+        cur = self.conn.cursor()
+        try:            
             with open(csv_path, 'r') as file:          
                 # Generar la sentencia COPY personalizada
                 copy_sql = f"COPY {table_name} ({', '.join(columns)}) FROM STDIN WITH (FORMAT CSV, HEADER TRUE, DELIMITER '|')"
                 cur.copy_expert(copy_sql, file)
 
             self.conn.commit()
-            cur.close()
         except psycopg2.Error as e:
-            cur.close()
             raise Exception("Error copiando los datos: " + str(e))
+        finally:
+            cur.close()
+
         
     # Módulo de inserción de usuarios inicial
     def insert_users(self):
+        cur = self.conn.cursor()
         try:
-            cur = self.conn.cursor()
-            cur.execute("""
-                INSERT INTO users (username, password, email, admin)
-                VALUES ('Pepe', 'password123', 'pepe@example.com', false),
-                    ('Admin', 'p@ssw0rd', 'admin@example.com', true);
-            """)
+            # Password hasheada
+            password = 'p@ssw0rd'
+            password = password.encode('utf-8')
+            hashed_password = bcrypt.hashpw(password, bcrypt.gensalt(7))
+
+            # Imagen default
+            file_path = os.path.join(self.parent_directory, 'data', 'perfil.jpg')
+            with open(file_path, 'rb') as file:
+                image_data = file.read()
+
+            query = """INSERT INTO users (username, password, email, admin, image) VALUES ('Admin', %s, 'admin@example.com', true, %s);"""
+            cur.execute(query, (hashed_password, image_data))
 
             # Confirmar los cambios en la base de datos
             self.conn.commit()
-            cur.close()
         except psycopg2.Error as e:
-            cur.close()
             raise Exception("Error al insertar los usuarios: " + str(e))
+        finally:
+            cur.close()
+
 
     # Módulo para eliminar la información de la BBDD
     def drop_tables(self):
+        cur = self.conn.cursor()
         try:
-            cur = self.conn.cursor()
-
             # Eliminar tablas si ya existen
             cur.execute("""
                 DROP TABLE IF EXISTS revista CASCADE;
@@ -456,17 +489,17 @@ class Modelo:
 
             # Confirmar los cambios en la base de datos
             self.conn.commit()
-            cur.close()
 
         except psycopg2.Error as e:
-            cur.close()
             raise Exception("Error eliminando las tablas: " + str(e))
+        finally:
+            cur.close()
+
         
     # Módulo para comprobar si existen las tablas
     def check_tables(self):
+        cur = self.conn.cursor()
         try:
-            cur = self.conn.cursor()
-
             # Eliminar tablas si ya existen
             cur.execute("""
                 SELECT EXISTS (
@@ -476,12 +509,13 @@ class Modelo:
                 );
             """)
             resultado = cur.fetchone()[0]
-            cur.close()
             return resultado
     
         except psycopg2.Error as e:
-            cur.close()
             raise Exception("Error eliminando las tablas: " + str(e))
+        finally:
+            cur.close()
+
 
 
     # Módulo principal de inicialización
@@ -495,21 +529,19 @@ class Modelo:
             self.create_tables()
 
             # Cargar datos iniciales en la BBDD
-            self.load_data(os.path.join(self.current_directory, 'data', 'lista_revistas.csv'), 'revista', ('nombre', 'issn', 'categoria'))
-            self.load_data(os.path.join(self.current_directory, 'data', 'datos_combinados.csv'), 'revista_jcr', ('fecha', 'nombre', 'citas', 'jcr', 'diff'))
+            self.load_data(os.path.join(self.parent_directory, 'data', 'lista_revistas.csv'), 'revista', ('nombre', 'issn', 'categoria'))
+            self.load_data(os.path.join(self.parent_directory, 'data', 'datos_combinados.csv'), 'revista_jcr', ('fecha', 'nombre', 'citas', 'jcr', 'diff'))
             
             self.insert_users()
             self.insert_models()
-
 
         except psycopg2.Error as e:
             raise Exception("Error al inicializar las tablas de la base de datos: " + str(e))
         
 
     def validate_email(self, email):
+        cur = self.conn.cursor()
         try:
-            cur = self.conn.cursor()
-
             # Eliminar tablas si ya existen
             query = """SELECT email FROM users"""
             cur.execute(query)
@@ -518,17 +550,17 @@ class Modelo:
                 resultado = False
             else:
                 resultado = True
-            cur.close()
             return resultado
     
         except psycopg2.Error as e:
-            cur.close()
             raise Exception("Error eliminando las tablas: " + str(e))
+        finally:
+            cur.close()
+
         
     def validate_user(self, username):
+        cur = self.conn.cursor()
         try:
-            cur = self.conn.cursor()
-
             # Eliminar tablas si ya existen
             query = """SELECT username FROM users"""
             cur.execute(query)
@@ -537,7 +569,40 @@ class Modelo:
                 resultado = False
             else:
                 resultado = True
-            cur.close()
             return resultado
         except Exception as e:
             return {"error": str(e)}
+        finally:
+            cur.close()
+
+        
+    def insert_profile_picture(self, image, username):
+        cur = self.conn.cursor()
+        try:
+            query = "UPDATE users SET image = %s WHERE username = %s"
+            cur.execute(query, (image.read(), username))
+            self.conn.commit()
+            return True
+        except (psycopg2.Error, Exception) as error:
+            self.conn.rollback()
+            return False
+        finally:
+            cur.close()
+
+    def get_profile_picture(self, username):
+        cur = self.conn.cursor()
+        try:
+            query = "SELECT image FROM users WHERE username = %s"
+            cur.execute(query, (username,))
+            result = cur.fetchone()
+            if result:
+                image_data = result[0]
+                image_base64 = base64.b64encode(image_data).decode('utf-8')  # Convertir a cadena Base64
+                return image_base64
+            else:
+                return None
+        except (psycopg2.Error, Exception) as error:
+            return f'Error al obtener la imagen: {str(error)}'
+        finally:
+            cur.close()
+

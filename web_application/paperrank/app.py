@@ -6,7 +6,6 @@ obtenerIndiceImpacto de la clase Controlador del frontend. Cada ruta se asocia c
 Flask que crea una instancia de la clase Modelo, llama al método correspondiente y devuelve la respuesta en 
 formato JSON.
 """
-import json
 import os
 import secrets
 from functools import wraps
@@ -32,26 +31,15 @@ app = Flask(__name__)
 secret_key = secrets.token_hex(32)
 app.secret_key = secret_key
 
-# url_database = os.environ.get("DATABASE_URL")
-# def get_db():
-#     if 'db' not in g:
-#         g.db = psycopg2.connect( 
-#             url_database, 
-#             sslmode='require'
-#         )
-#     return g.db
-# Credenciales de la BBDD
-app.config['DATABASE'] = {
-    'host':"localhost",
-    'port':"5432",
-    'user':"postgres",
-    'password':"Hola=2910",
-    'dbname':"BBDD"
-}
+url_database = os.environ.get("DATABASE_URL")
 def get_db():
     if 'db' not in g:
-        g.db = psycopg2.connect(**app.config['DATABASE'])
+        g.db = psycopg2.connect( 
+            url_database, 
+            sslmode='require'
+        )
     return g.db
+
 
 def refresh():
     modelo = Modelo(get_db())
@@ -311,6 +299,30 @@ def get_profile():
             return render_template('profile.html', email=new_email, username=new_username)
         else:
             return render_template('profile.html', email=email, username=username)
+
+
+@app.route('/insert_profile_picture', methods=['POST'])
+@login_required
+def guardar_imagen():
+    controlador = refresh()
+
+    # Obtener la imagen del cuerpo de la solicitud
+    image = request.files['image']
+    done = controlador.insert_profile_picture(image, session.get('username'))
+    
+    if done == True:
+        return jsonify({'message': 'La imagen se ha guardado exitosamente'})
+    else:
+        return jsonify({'error': 'La imagen no se ha guardado exitosamente'})
+
+@app.route('/get_profile_picture/<username>', methods=['GET'])
+@login_required
+def get_profile_picture(username):
+    controlador = refresh()
+    image = controlador.get_profile_picture(username)
+    return image
+
+
 
 # Recuperar contraseña
 @app.route('/recover', methods=['GET'])
