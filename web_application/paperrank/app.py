@@ -60,7 +60,7 @@ def create_session_table():
     conn.commit()
     cur.close()
     conn.close()
-    
+
 create_session_table()
 
 # Credenciales de la BBDD
@@ -151,7 +151,7 @@ def login():
             cur.execute("""
                 INSERT INTO sessions (session_id, data)
                 VALUES (%s, %s)
-            """, (session.sid, {'username': session['username']}))
+            """, (session['session_id'], {'username': session['username']}))
             conn.commit()
             cur.close()
             conn.close()
