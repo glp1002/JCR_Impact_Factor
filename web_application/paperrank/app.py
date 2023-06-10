@@ -60,10 +60,8 @@ def create_session_table():
     conn.commit()
     cur.close()
     conn.close()
-
-@app.before_first_request
-def setup():
-    create_session_table()
+    
+create_session_table()
 
 # Credenciales de la BBDD
 # app.config['DATABASE'] = {
