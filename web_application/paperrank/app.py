@@ -10,6 +10,7 @@ import base64
 import os
 import secrets
 from functools import wraps
+from io import BytesIO
 
 import psycopg2
 from flask import (Flask, g, jsonify, redirect, render_template, request,
@@ -33,18 +34,6 @@ app = Flask(__name__)
 secret_key = secrets.token_hex(32)
 app.secret_key = secret_key
 
-
-# Configuración de la BBDD
-url_database = os.environ.get("DATABASE_URL")
-def get_db():
-    if 'db' not in g:
-        g.db = psycopg2.connect( 
-            url_database, 
-            sslmode='require'
-        )
-    return g.db
-
-
 # Configuración de Flask-Session
 app.config['SESSION_TYPE'] = 'filesystem'
 app.config['SESSION_FILE_DIR'] = '/tmp/flask_session'
@@ -57,20 +46,16 @@ app.config['SECRET_KEY'] = os.urandom(24)
 # Inicialización de Flask-Session
 Session(app)
 
-# Almacenamiento de sesiones en la BBDD (Heroku) 
-# def create_session_table():
-#     conn = psycopg2.connect(url_database)
-#     cur = conn.cursor()
-#     cur.execute("""
-#         CREATE TABLE IF NOT EXISTS sessions (
-#             session_id VARCHAR(50) PRIMARY KEY,
-#             data JSONB NOT NULL
-#         )
-#     """)
-#     conn.commit()
-#     cur.close()
-#     conn.close()
-# create_session_table()
+
+# Configuración de la BBDD
+url_database = os.environ.get("DATABASE_URL")
+def get_db():
+    if 'db' not in g:
+        g.db = psycopg2.connect( 
+            url_database, 
+            sslmode='require'
+        )
+    return g.db
 
 # Credenciales de la BBDD
 # app.config['DATABASE'] = {
@@ -153,17 +138,6 @@ def login():
             # Almacena el nombre de usuario en una variable de sesión
             session['loggedin'] = True
             session['username'] = username
-
-            # Almacenamiento en BBDD de la sesión (Heroku)
-            # conn = psycopg2.connect(url_database)
-            # cur = conn.cursor()
-            # cur.execute("""
-            #     INSERT INTO sessions (session_id, data)
-            #     VALUES (%s, %s)
-            # """, (session.sid, {'username': session['username']}))
-            # conn.commit()
-            # cur.close()
-            # conn.close()
 
             return redirect('/selection')
         else:      
@@ -299,18 +273,6 @@ def prediction():
 @login_required
 def formulario():
 
-    # Recupera el nombre de usuario de la tabla de sesiones
-    # conn = psycopg2.connect(url_database)
-    # cur = conn.cursor()
-    # cur.execute("""
-    #     SELECT data->>'username' FROM sessions WHERE session_id = %s
-    # """, (session.sid,))
-    # result = cur.fetchone()
-    # cur.close()
-    # conn.close()
-    # if result is not None:
-    #     username = result[0]
-
     controlador = refresh()
 
     if request.method == 'POST':
@@ -379,6 +341,9 @@ def guardar_imagen():
         return jsonify({'error': 'La imagen no se ha guardado exitosamente'})
 
 
+
+
+
 @app.route('/get_profile_picture', methods=['GET'])
 @login_required
 def get_profile_picture():
@@ -386,18 +351,13 @@ def get_profile_picture():
     image_base64 = controlador.get_profile_picture(session.get('username'))
     
     if image_base64:
-        # Decodificar la imagen base64 y guardarla en el sistema de archivos
+        # Decodificar la imagen base64 (guardada en bytea en postgres) y convertirla en un objeto de BytesIO
         image_data = base64.b64decode(image_base64)
-        image_path = f"static/images/perfil_{session.get('username')}.png"  # Ruta donde deseas guardar la imagen
+        image_stream = BytesIO(image_data)
         
-        with open(image_path, "wb") as f:
-            f.write(image_data)
-        
-        if os.path.exists(image_path):
-            return send_file(image_path, mimetype='image/png')
+        return send_file(image_stream, mimetype='image/png')
     
-    # Si no se encuentra la nueva imagen o no se pudo guardar en el sistema de archivos,
-    # se devuelve la imagen original del HTML
+    # Si no se encuentra la nueva imagen, se devuelve la imagen original del HTML
     return send_file("static/images/perfil.jpg", mimetype='image/jpeg')
 
 # Recuperar contraseña
