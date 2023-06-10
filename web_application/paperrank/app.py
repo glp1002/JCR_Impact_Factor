@@ -33,9 +33,6 @@ app = Flask(__name__)
 secret_key = secrets.token_hex(32)
 app.secret_key = secret_key
 
-# Cookies
-app.config['SESSION_COOKIE_SECURE'] = True 
-app.config['REMEMBER_COOKIE_SECURE'] = True
 
 # Configuración de la BBDD
 url_database = os.environ.get("DATABASE_URL")
@@ -47,21 +44,33 @@ def get_db():
         )
     return g.db
 
-# Almacenamiento de sesiones en la BBDD (Heroku) 
-def create_session_table():
-    conn = psycopg2.connect(url_database)
-    cur = conn.cursor()
-    cur.execute("""
-        CREATE TABLE IF NOT EXISTS sessions (
-            session_id VARCHAR(50) PRIMARY KEY,
-            data JSONB NOT NULL
-        )
-    """)
-    conn.commit()
-    cur.close()
-    conn.close()
 
-create_session_table()
+# Configuración de Flask-Session
+app.config['SESSION_TYPE'] = 'filesystem'
+app.config['SESSION_FILE_DIR'] = '/tmp/flask_session'
+app.config['SESSION_COOKIE_SECURE'] = True
+app.config['REMEMBER_COOKIE_SECURE'] = True
+app.config['SESSION_COOKIE_HTTPONLY'] = True
+app.config['SESSION_COOKIE_SAMESITE'] = 'Strict'
+app.config['SESSION_COOKIE_NAME'] = 'your_session_name'
+app.config['SECRET_KEY'] = os.urandom(24)
+# Inicialización de Flask-Session
+Session(app)
+
+# Almacenamiento de sesiones en la BBDD (Heroku) 
+# def create_session_table():
+#     conn = psycopg2.connect(url_database)
+#     cur = conn.cursor()
+#     cur.execute("""
+#         CREATE TABLE IF NOT EXISTS sessions (
+#             session_id VARCHAR(50) PRIMARY KEY,
+#             data JSONB NOT NULL
+#         )
+#     """)
+#     conn.commit()
+#     cur.close()
+#     conn.close()
+# create_session_table()
 
 # Credenciales de la BBDD
 # app.config['DATABASE'] = {
@@ -146,15 +155,15 @@ def login():
             session['username'] = username
 
             # Almacenamiento en BBDD de la sesión (Heroku)
-            conn = psycopg2.connect(url_database)
-            cur = conn.cursor()
-            cur.execute("""
-                INSERT INTO sessions (session_id, data)
-                VALUES (%s, %s)
-            """, (session['session_id'], {'username': session['username']}))
-            conn.commit()
-            cur.close()
-            conn.close()
+            # conn = psycopg2.connect(url_database)
+            # cur = conn.cursor()
+            # cur.execute("""
+            #     INSERT INTO sessions (session_id, data)
+            #     VALUES (%s, %s)
+            # """, (session.sid, {'username': session['username']}))
+            # conn.commit()
+            # cur.close()
+            # conn.close()
 
             return redirect('/selection')
         else:      
@@ -291,16 +300,16 @@ def prediction():
 def formulario():
 
     # Recupera el nombre de usuario de la tabla de sesiones
-    conn = psycopg2.connect(url_database)
-    cur = conn.cursor()
-    cur.execute("""
-        SELECT data->>'username' FROM sessions WHERE session_id = %s
-    """, (session.sid,))
-    result = cur.fetchone()
-    cur.close()
-    conn.close()
-    if result is not None:
-        username = result[0]
+    # conn = psycopg2.connect(url_database)
+    # cur = conn.cursor()
+    # cur.execute("""
+    #     SELECT data->>'username' FROM sessions WHERE session_id = %s
+    # """, (session.sid,))
+    # result = cur.fetchone()
+    # cur.close()
+    # conn.close()
+    # if result is not None:
+    #     username = result[0]
 
     controlador = refresh()
 
@@ -325,7 +334,7 @@ def formulario():
             controlador.insert_models()       
             modelos = controlador.get_model_names_and_errors()
         
-        return render_template('selection.html', categorias=categorias, revistas=[], modelos=modelos, username=username)
+        return render_template('selection.html', categorias=categorias, revistas=[], modelos=modelos, username=session.get('username'))
     
 @app.route('/journal/<categoria>', methods=['GET'])
 @login_required
