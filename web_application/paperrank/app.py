@@ -44,6 +44,7 @@ def get_db():
             sslmode='require'
         )
     return g.db
+
 # Credenciales de la BBDD
 # app.config['DATABASE'] = {
 #     'host':"localhost",
@@ -129,7 +130,7 @@ def login():
             error = gettext('Nombre de usuario o contraseña incorrectos')
             return render_template('login.html', error=error)
     else:
-        controlador.reinitialize_database()
+        #controlador.reinitialize_database()
         return render_template('login.html')
 
 @app.route('/register', methods=['GET', 'POST'])
