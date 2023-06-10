@@ -6,12 +6,13 @@ obtenerIndiceImpacto de la clase Controlador del frontend. Cada ruta se asocia c
 Flask que crea una instancia de la clase Modelo, llama al método correspondiente y devuelve la respuesta en 
 formato JSON.
 """
+import base64
 import os
 import secrets
 from functools import wraps
     
 import psycopg2
-from flask import (Flask, g, jsonify, redirect, render_template, request,
+from flask import (Flask, g, jsonify, redirect, render_template, request, send_file,
                    session, url_for)
 from flask_babel import Babel, gettext
 
@@ -323,14 +324,27 @@ def guardar_imagen():
     else:
         return jsonify({'error': 'La imagen no se ha guardado exitosamente'})
 
-@app.route('/get_profile_picture/<username>', methods=['GET'])
+
+@app.route('/get_profile_picture', methods=['GET'])
 @login_required
-def get_profile_picture(username):
+def get_profile_picture():
     controlador = refresh()
-    image = controlador.get_profile_picture(username)
-    return image
-
-
+    image_base64 = controlador.get_profile_picture(session.get('username'))
+    
+    if image_base64:
+        # Decodificar la imagen base64 y guardarla en el sistema de archivos
+        image_data = base64.b64decode(image_base64)
+        image_path = f"static/images/perfil_{session.get('username')}.png"  # Ruta donde deseas guardar la imagen
+        
+        with open(image_path, "wb") as f:
+            f.write(image_data)
+        
+        if os.path.exists(image_path):
+            return send_file(image_path, mimetype='image/png')
+    
+    # Si no se encuentra la nueva imagen o no se pudo guardar en el sistema de archivos,
+    # se devuelve la imagen original del HTML
+    return send_file("static/images/perfil.jpg", mimetype='image/jpeg')
 
 # Recuperar contraseña
 @app.route('/recover', methods=['GET'])

@@ -19,6 +19,8 @@
   <!-- Bootstrap css-->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+  <!-- JQuery js -->
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 </head>
 
 <body>
@@ -65,19 +67,7 @@
             <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">{{ username }}</a>
             <img id=myImg src="{{ url_for('static', filename='images/perfil.jpg') }}" alt="Profile" width="40"
               height="40" class="imgperf">
-            <!-- <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-              <script>
-              $(document).ready(function() {
-                // Obtener el nombre de usuario del elemento de navegación
-                var username = $("#profile .nav-link").text().trim();
-
-                // Realizar una solicitud GET al endpoint para obtener la nueva imagen de perfil
-                $.get("/get_profile_picture/" + username, function(imageUrl) {
-                  // Actualizar la fuente (src) de la imagen con la nueva URL obtenida
-                  $("#myImg").attr("src", imageUrl);
-                });
-              }); 
-              </script>-->
+              
             <!-- The Modal -->
             <div id="myModal" class="modal">
               <span class="close">&times;</span>
@@ -97,7 +87,7 @@
   </nav>
 
   <!-- Body -->
-  <div class="container" style="margin-top: 70px; margin-bottom: 80px;">
+  <div class="container cuerpo">
     <!-- Contenido específico de cada página -->
     {% block content %}
     {% endblock %}
@@ -122,8 +112,7 @@
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
     crossorigin="anonymous"></script>
-  <!-- JQuery js -->
-  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
 
 </body>
 

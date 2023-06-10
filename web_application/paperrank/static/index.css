@@ -70,7 +70,7 @@ a:active {
   height: 40%;
   border: none !important;
   border-radius: 10px !important;
-  background-color: #333 !important;
+  background-color: #212529 !important;
   color: #fff !important;
   cursor: pointer !important;
 }
@@ -188,6 +188,9 @@ input[type="checkbox"]:checked {
   .modal-content {
     width: 100%;
   }
+
+
+
 }
 
 .centrar {
@@ -228,4 +231,21 @@ h1 {
 
 .container-adicional {
   color: #908f93;
+}
+
+
+
+.cuerpo{
+  margin-top: 70px; 
+  margin-bottom: 80px;
+}
+
+@media screen and (max-width: 767px) {
+  .cuerpo {
+    margin-bottom: 105px;
+  }
+
+  #logo3d img{
+    display: none !important;
+  }
 }

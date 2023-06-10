@@ -4,17 +4,17 @@
 {% block content %}
 <div class="form-container">
     <div class="form-header">
-        <h1>Recuperar contraseña</h1>
+        <h1>{% trans %}Recuperar contraseña{% trans %}</h1>
     </div>
     <div class="form-body">
         <form id="forgot-password-form" onsubmit="return validateForm()">
             <div class="form-group">
-                <label for="email">Correo electrónico</label>
+                <label for="email">{% trans %}Correo electrónico{% endtrans %}</label>
                 <input type="email" id="email" name="email" required />
             </div>
             <div class="form-group2">
-                <button type="button" class="btn btn-back" onclick="window.history.back()">Volver atrás</button>
-                <button type="submit" class="btn">Enviar</button>
+                <button type="button" class="btn button" onclick="window.history.back()">{% trans %}Volver atrás{% endtrans %}</button>
+                <button type="submit" class="btn button">{% trans %}Enviar{% endtrans %}</button>
             </div>
         </form>
     </div>

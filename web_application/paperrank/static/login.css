@@ -71,7 +71,7 @@ video {
 .form-group input[type="text"]:focus,
 .form-group input[type="password"]:focus {
   outline: none;
-  border-color: #333;
+  border-color: #212529;
   border-radius: 10px;
 }
 
@@ -98,7 +98,7 @@ video {
   padding: 5px;
   border: none;
   border-radius: 10px;
-  background-color: #333;
+  background-color: #212529;
   color: #fff;
   cursor: pointer;
 }
@@ -156,7 +156,7 @@ video {
   }
 
   .enlace a {
-    color: #333;
+    color: #212529;
   }
 
   .password-icon {
@@ -166,6 +166,18 @@ video {
     margin-left: 10px;
     margin-top: 4%;
 
+  }
+
+  #config-img {
+    content: url(./images/lang_wt.png);
+  }
+
+  #language-dropdown {
+    color: white !important;
+  }
+
+  #login-form {
+    color: white !important;
   }
 
 }

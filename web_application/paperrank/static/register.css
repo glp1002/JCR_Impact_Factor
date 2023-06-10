@@ -57,7 +57,7 @@ body{
     padding: 5px;
     border: none;
     border-radius: 10px;
-    background-color: #333;
+    background-color: #212529;
     color: #fff;
     cursor: pointer;
 }
@@ -99,7 +99,7 @@ body{
 .form-group input[type="password"]:focus,
 .form-group input[type="email"]:focus {
   outline: none;
-  border-color: #333;
+  border-color: #212529;
   border-radius: 10px;
 }
 

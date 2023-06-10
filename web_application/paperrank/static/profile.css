@@ -60,7 +60,7 @@ h1 {
 .btn-save-changes{
   border: none !important;
   border-radius: 10px !important;
-  background-color: #333 !important;
+  background-color: #212529 !important;
   color: #fff !important;
   cursor: pointer !important;
   /* bisque */
@@ -95,7 +95,7 @@ h1 {
   height: 30px;
   border: none !important;
   border-radius: 10px !important;
-  background-color: #333 !important;
+  background-color: #212529 !important;
   color: #fff !important;
   cursor: pointer !important;
   display: none; /* Ocultar el drop area inicialmente */

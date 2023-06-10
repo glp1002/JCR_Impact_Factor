@@ -142,3 +142,24 @@ function habilitarEdicion() {
     }
 }
 
+$(document).ready(function() {
+    var url = "/get_profile_picture";
+    
+    fetch(url)
+      .then(response => {
+        if (response.ok) {
+          return response.blob();
+        } else {
+          throw new Error("No se pudo obtener la imagen");
+        }
+      })
+      .then(blob => {
+        var imageUrl = URL.createObjectURL(blob);
+        $("#profile-picture").attr("src", imageUrl);
+      })
+      .catch(error => {
+        console.log("Error al obtener la imagen:", error);
+      });
+  });
+  
+  
