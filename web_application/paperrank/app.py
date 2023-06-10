@@ -15,7 +15,7 @@ import psycopg2
 from flask import (Flask, g, jsonify, redirect, render_template, request,
                    send_file, session, url_for)
 from flask_babel import Babel, gettext
-from redis import Redis
+from flask_session import Session
 
 from .backend.controlador.controlador import Controlador
 from .backend.modelo.modelo import Modelo
@@ -37,6 +37,7 @@ app.secret_key = secret_key
 app.config['SESSION_COOKIE_SECURE'] = True 
 app.config['REMEMBER_COOKIE_SECURE'] = True
 
+# Configuración de la BBDD
 url_database = os.environ.get("DATABASE_URL")
 def get_db():
     if 'db' not in g:
@@ -46,8 +47,23 @@ def get_db():
         )
     return g.db
 
-redis_url = os.getenv('REDIS_URL')
-redis = Redis.from_url(redis_url)
+# Almacenamiento de sesiones en la BBDD (Heroku) 
+def create_session_table():
+    conn = psycopg2.connect(url_database)
+    cur = conn.cursor()
+    cur.execute("""
+        CREATE TABLE IF NOT EXISTS sessions (
+            session_id VARCHAR(50) PRIMARY KEY,
+            data JSONB NOT NULL
+        )
+    """)
+    conn.commit()
+    cur.close()
+    conn.close()
+
+@app.before_first_request
+def setup():
+    create_session_table()
 
 # Credenciales de la BBDD
 # app.config['DATABASE'] = {
@@ -127,11 +143,21 @@ def login():
         password = request.form['new-password']
         user_exists = controlador.authenticate_user(username, password)
         if user_exists == True:
-            # Almacena el nombre de usuario en una variable de sessión (en local)
+            # Almacena el nombre de usuario en una variable de sesión
             session['loggedin'] = True
             session['username'] = username
-            # Almacena el nombre de usuario en Redis (almacenamiento caché: Heroku)
-            redis.set('username', username)
+
+            # Almacenamiento en BBDD de la sesión (Heroku)
+            conn = psycopg2.connect(url_database)
+            cur = conn.cursor()
+            cur.execute("""
+                INSERT INTO sessions (session_id, data)
+                VALUES (%s, %s)
+            """, (session.sid, {'username': session['username']}))
+            conn.commit()
+            cur.close()
+            conn.close()
+
             return redirect('/selection')
         else:      
             error = gettext('Nombre de usuario o contraseña incorrectos')
@@ -163,13 +189,13 @@ def logout():
 def get_journals():
     controlador = refresh()
     journal_list = controlador.get_journals_list()
-    return render_template('journals.html', journal_list=journal_list, username=redis.get('username'))#session.get('username')))
+    return render_template('journals.html', journal_list=journal_list, username=session.get('username'))
 
 @app.route('/consult', methods=['GET'])
 @login_required
 def consult():
     revista = request.args.get('revista')
-    return render_template('consult.html', revista=revista, username=redis.get('username'))#session.get('username')))
+    return render_template('consult.html', revista=revista, username=session.get('username'))
 
 @app.route('/consultJSON/<revista>', methods=['GET'])
 @login_required
@@ -260,11 +286,24 @@ def prediction():
     predictions2 = [round(numero[0],3) for numero in predictions2]
     predictions2 = list(zip(modelos_deseados, predictions2)) # [(modelo, valor), (moelo2, valor2)...]
     
-    return render_template('prediction.html', predictions=predictions, predictions2=predictions2, username=redis.get('username'), revista=revista)#session.get('username'))
+    return render_template('prediction.html', predictions=predictions, predictions2=predictions2, username=session.get('username'), revista=revista)
 
 @app.route('/selection', methods=['GET', 'POST'])   
 @login_required
 def formulario():
+
+    # Recupera el nombre de usuario de la tabla de sesiones
+    conn = psycopg2.connect(url_database)
+    cur = conn.cursor()
+    cur.execute("""
+        SELECT data->>'username' FROM sessions WHERE session_id = %s
+    """, (session.sid,))
+    result = cur.fetchone()
+    cur.close()
+    conn.close()
+    if result is not None:
+        username = result[0]
+
     controlador = refresh()
 
     if request.method == 'POST':
@@ -288,7 +327,7 @@ def formulario():
             controlador.insert_models()       
             modelos = controlador.get_model_names_and_errors()
         
-        return render_template('selection.html', categorias=categorias, revistas=[], modelos=modelos, username=redis.get('username'))#session.get('username')))
+        return render_template('selection.html', categorias=categorias, revistas=[], modelos=modelos, username=username)
     
 @app.route('/journal/<categoria>', methods=['GET'])
 @login_required
@@ -302,7 +341,7 @@ def get_revistas_por_categoria(categoria):
 @login_required
 def get_profile():
     controlador = refresh()
-    username = redis.get('username')#session.get('username'))
+    username = session.get('username')
     email = controlador.get_email(username)
     if request.method == 'GET':
         return render_template('profile.html', email=email, username=username)
@@ -325,7 +364,7 @@ def guardar_imagen():
 
     # Obtener la imagen del cuerpo de la solicitud
     image = request.files['image']
-    done = controlador.insert_profile_picture(image, redis.get('username'))#session.get('username')))
+    done = controlador.insert_profile_picture(image, session.get('username'))
     
     if done == True:
         return jsonify({'message': 'La imagen se ha guardado exitosamente'})
@@ -337,12 +376,12 @@ def guardar_imagen():
 @login_required
 def get_profile_picture():
     controlador = refresh()
-    image_base64 = controlador.get_profile_picture(redis.get('username'))#session.get('username'))
+    image_base64 = controlador.get_profile_picture(session.get('username'))
     
     if image_base64:
         # Decodificar la imagen base64 y guardarla en el sistema de archivos
         image_data = base64.b64decode(image_base64)
-        image_path = f"static/images/perfil_{redis.get('username')}.png"  # Ruta donde deseas guardar la imagen
+        image_path = f"static/images/perfil_{session.get('username')}.png"  # Ruta donde deseas guardar la imagen
         
         with open(image_path, "wb") as f:
             f.write(image_data)
@@ -363,19 +402,19 @@ def recover_password():
 @app.route('/help', methods=['GET'])
 @login_required
 def get_help():
-    return render_template('help.html', username=redis.get('username'))#session.get('username')))
+    return render_template('help.html', username=session.get('username'))
 
 # Términos de uso
 @app.route('/terms_of_use', methods=['GET'])
 @login_required
 def get_terms_of_use():
-    return render_template('termsofuse.html', username=redis.get('username'))#session.get('username')))
+    return render_template('termsofuse.html', username=session.get('username'))
 
 # Política de privacidad
 @app.route('/privacy_policy', methods=['GET'])
 @login_required
 def get_privacy_policy():
-    return render_template('privacypolicy.html', username=redis.get('username'))#session.get('username')))
+    return render_template('privacypolicy.html', username=session.get('username'))
 
 # Ruta para crear un nuevo usuario
 @app.route('/users', methods=['POST'])
