@@ -73,3 +73,10 @@ Después, bastará con descomentar en el fichero de configuración de la aplicac
 
 ## ⚖ Licencia:
 [The GNU General Public License](https://www.gnu.org/licenses/)
+
+---
+
+<div align="center">
+  <span align="center"> <img width="150" class="center" src="./doc/logo_ministerio.png" alt="Ministerio de Educación y Formación Profesional"></span>
+  <p align="center" style="font-size:0.8em">Proyecto financiado con a la Beca de Colaboración del Ministerio de Educación y Formación Profesional</p>
+</div>
