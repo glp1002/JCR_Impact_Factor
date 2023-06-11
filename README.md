@@ -28,6 +28,7 @@ Ficheros:
 * LICENSE: licencia _GNU General Public License_ en formato Markdown
 * Procfile: fichero de configuración de Heroku. Contiene los comandos iniciales para la ejecución de la aplicación
 * requirements.txt: fichero de requisitos (utilidades y librerías)
+* runtime.txt: fichero para indicar a Heroku la versión de Python que se está usando.
 * README.md: fichero actual
 
 ## 👨‍💻 Instrucciones para el lanzamiento en local:
