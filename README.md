@@ -45,6 +45,8 @@ Durante la etapa de desarrollo, se deberá lanzar la aplicación de forma local 
 Una vez configurado el entorno virtual (si se ha decidido utilizar uno), el siguiente paso es instalar Flask y las dependencias necesarias para la ejecución de la aplicación. Será preciso navegar hasta la carpeta raíz del proyecto. Después, se deberá seguir los siguientes pasos:
 * Ejecutar el siguiente comando para instalar las dependencias especificadas en el archivo requirements.txt (se recomienda usar la versión de Python 3.11 para asegurar la compatibilidad de veriones con los requerimentos):
 ```pip install -r requirements.txt```
+Si diese algún problema al instalar el paquete _psycopg2_ (driver Python para Postgres), se puede instalar directamente el binario con la instrucción:
+```pip install psycopg2-binary```
 * En la carpeta web_application/paperrank hay dos ficheros de procesamiento por lotes, uno para Windows y otro para Linux.
   - En Windows: ```win_start.cmd```
   - En Linux: ```./lin_start.sh```
