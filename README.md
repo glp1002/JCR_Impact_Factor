@@ -45,7 +45,7 @@ Durante la etapa de desarrollo, se deberá lanzar la aplicación de forma local 
 Para poder ejecutar la aplicación en local, será necesario crear una base de datos PostgreSQL y conectarla al código de la aplicación.
 * Descargar e instalar PostgreSQL desde el sitio web oficial: https://www.postgresql.org/download/.
 * Seguir las instrucciones de instalación para su sistema operativo específico.
-* Durante la instalación, será necesario asegurarse de recordar la contraseña del usuario «postgres», ya que será necesaria más adelante.
+* Durante la instalación, será preciso asegurarse de recordar la contraseña del usuario _postgres_ (usuario predeterminado), ya que será necesaria más adelante. Un detalle a tener en cuenta es que en Linux, el usuario _postgres_, no requiere una contraseña inicial. Sin embargo, en nuestro caso es preciso configurar una contraseña para poder establecer conexiones a través de Flask (para ello se puede usar, desde la consola psql, el comando ```ALTER USER postgres with password 'contraseña'```).
 * Abrir un terminal y comprobar que el servidor PostgreSQL esté en funcionamiento.
 * Ejecutar el siguiente comando para acceder a la interfaz de línea de comandos de PostgreSQL:
 ```psql -U postgres```
