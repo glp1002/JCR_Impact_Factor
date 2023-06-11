@@ -91,6 +91,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Función para validar el nombre de usuario
     const validateUsername = () => {
       const username = usernameInput.value;
+      
       if (username) {
         fetch(`/validateUser/${username}`)
           .then(response => response.json())
@@ -100,7 +101,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 isUsernameValid = true;
             } else {
                 // El nombre de usuario ya existe
-                var texto = gettext("El nombre de usuario ya está en uso");
+                var texto = "El nombre de usuario ya está en uso";
                 usernameError.textContent = texto;
                 isUsernameValid = false;
               
@@ -128,7 +129,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 isEmailValid = true;
             } else {
                 // El correo electrónico ya existe
-                emailError.textContent = gettext('El correo electrónico ya está en uso');
+                emailError.textContent = 'El correo electrónico ya está en uso';
                 isEmailValid = false;
             }
           })
@@ -158,7 +159,7 @@ document.addEventListener('DOMContentLoaded', function() {
   
       if (passwordInputs[0].value !== passwordInputs[1].value) {
         event.preventDefault(); // Evita el envío del formulario
-        passwordError.textContent = gettext('Las contraseñas no coinciden');
+        passwordError.textContent = 'Las contraseñas no coinciden';
         isPasswordValid = false;
       } else {
         passwordError.textContent = ''; // Elimina el mensaje de error
@@ -167,7 +168,7 @@ document.addEventListener('DOMContentLoaded', function() {
   
       // Comprobar todas las validaciones
       if (isUsernameValid && isEmailValid && isPasswordValid) {
-        const confirmation = confirm(gettext("Su registro se ha realizado correctamente"));
+        const confirmation = confirm("Su registro se ha realizado correctamente");
         if (!confirmation) {
           event.preventDefault(); // Evita el envío del formulario si se cancela la confirmación
         }

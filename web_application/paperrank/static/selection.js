@@ -32,6 +32,7 @@ function checkSelectionForPredecir() {
 // Inicializar el tooltip de Bootstrap
 $(function () {
   $('[data-toggle="tooltip"]').tooltip();
+  
 });
 
 // Escuchar los eventos de cambio en los elementos del formulario
@@ -53,6 +54,17 @@ $(function () {
   );
 });
 
+// Cambio del botón de información sobre el RMSE
+$(function () {
+  $('#rmse-info').hover(
+    function () {
+      $(this).attr('src', '/static/images/excl_lil.png');
+    },
+    function () {
+      $(this).attr('src', '/static/images/excl_bl.png');
+    }
+  );
+});
 
 $(document).ready(function () {
   // Obtener referencia al elemento de selección de categoría
@@ -86,4 +98,9 @@ $(document).ready(function () {
         console.error('Error al obtener las revistas:', error);
       });
   });
+
+
+  $("#rmse-info").click(function () {
+    $("#cuadro-informacion").toggle();
+});
 });

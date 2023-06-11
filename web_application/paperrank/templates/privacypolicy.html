@@ -1,44 +1,49 @@
 {% extends "base.html" %}
-{% block title %}Política de privacidad{% endblock %}
+{% block title %}{% trans %}Política de privacidad{% endtrans %}{% endblock %}
 
 {% block content %}
 
-<h1>POLÍTICA DE PRIVACIDAD</h1>
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item enlace-bc"><a href="/selection">{% trans %}Selección{% endtrans %}</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{% trans %}Política de privacidad{% endtrans %}</li>
+  </ol>
+</nav>
+<h1>{% trans %}POLÍTICA DE PRIVACIDAD DE PAPERRANK{% endtrans %}</h1>
+<p>{% trans %}En esta sección, describimos cómo se recopila, utiliza, almacena y protege la información personal de los usuarios de nuestra aplicación.{% endtrans %}</p>
+<h2>{% trans %}Información recopilada{% endtrans %}</h2>
+<p>{% trans %}Recopilamos y almacenamos la siguiente información personal de los usuarios que se registran en nuestra aplicación:{% endtrans %}</p>
+<ul>
+  <li>{% trans %}Nombre de usuario{% endtrans %}</li>
+  <li>{% trans %}Correo electrónico{% endtrans %}</li>
+  <li>{% trans %}Contraseña (almacenada de forma encriptada en nuestra base de datos){% endtrans %}</li>
+  <li>{% trans %}Imagen de perfil de usuario{% endtrans %}</li>
+</ul>
+<h2>{% trans %}Uso de la información{% endtrans %}</h2>
+<p>{% trans %}Utilizamos la información recopilada únicamente con el fin de permitir a los usuarios acceder y utilizar los servicios de nuestra aplicación.{% endtrans %}</p>
 
-  <p>En esta página se describe cómo se recopila, utiliza y comparte la información cuando se utiliza nuestra aplicación. Si tienes alguna pregunta adicional o requieres más información, no dudes en ponerte en contacto con nosotros.</p>
+<h2>{% trans %}Compartir información{% endtrans %}</h2>
+<p>{% trans %}No compartimos la información personal de nuestros usuarios con terceros, excepto en los siguientes casos:{% endtrans %}</p>
+<ul>
+  <li>{% trans %}Con el consentimiento expreso del usuario.{% endtrans %}</li>
+  <li>{% trans %}Para cumplir con las leyes y regulaciones aplicables, solicitudes legales o procesos legales.{% endtrans %}</li>
+</ul>
+<h2>{% trans %}Seguridad{% endtrans %}</h2>
+<p>{% trans %}Implementamos medidas de seguridad adecuadas para proteger la información personal de nuestros usuarios. Esto incluye el uso de encriptación, medidas de seguridad físicas y electrónicas, y restricciones de acceso a la información personal.{% endtrans %}</p>
+<h2>{% trans %}Cookies y tecnologías similares{% endtrans %}</h2>
+<p>{% trans %}Utilizamos cookies y tecnologías similares para mejorar la experiencia del usuario y recopilar información sobre el uso de nuestra aplicación. Estas cookies no contienen información personal identificable y los usuarios pueden optar por desactivarlas en la configuración de su navegador.{% endtrans %}</p>
+<h2>{% trans %}Enlaces externos{% endtrans %}</h2>
+<p>{% trans %}Nuestra aplicación puede contener enlaces a sitios web externos. Esta política de privacidad solo se aplica a nuestra aplicación, por lo que recomendamos a los usuarios leer las políticas de privacidad de esos sitios web externos antes de proporcionar cualquier información personal.{% endtrans %}</p>
+<h2>{% trans %}Actualizaciones de la política de privacidad{% endtrans %}</h2>
+<p>{% trans %}Nos reservamos el derecho de actualizar esta política de privacidad a medida que sea necesario. Notificaremos a los usuarios sobre cualquier cambio significativo mediante publicaciones en nuestra aplicación. Se recomienda a los usuarios revisar periódicamente esta política de privacidad para estar informados sobre cómo protegemos la información personal.{% endtrans %}</p>
+<p>{% trans %}Esta política de privacidad es aplicable a partir de: <em>12 - Julio - 2023</em>{% endtrans %}</p>
 
-  <h2>Información recopilada</h2>
-
-  <p>La información recopilada por nuestra API puede incluir, pero no se limita a:</p>
-  <ul>
-    <li>Nombre y apellidos</li>
-    <li>Dirección de correo electrónico</li>
-    <li>Historial de uso de la API</li>
-  </ul>
-
-  <h2>Uso de la información</h2>
-
-  <p>La información recopilada se utiliza para:</p>
-  <ul>
-    <li>Proporcionar y mantener la aplicación</li>
-    <li>Personalizar y mejorar la experiencia del usuario</li>
-    <li>Responder a consultas y brindar asistencia</li>
-    <li>Enviar comunicaciones relacionadas con el servicio</li>
-  </ul>
-
-  <h2>Compartir información</h2>
-
-  <p>No compartiremos tu información personal con terceros, a menos que se requiera por ley o para proporcionar y mejorar la funcionalidad de la aplicación. Podemos utilizar servicios de terceros para recopilar, monitorear y analizar datos.</p>
-
-  <h2>Seguridad</h2>
-
-  <p>Valoramos tu confianza al proporcionarnos tu información personal y nos esforzamos por utilizar medios comercialmente aceptables para protegerla. Sin embargo, ten en cuenta que ninguna transmisión por Internet o método de almacenamiento electrónico es 100% seguro y confiable, y no podemos garantizar su absoluta seguridad.</p>
-
-  <h2>Cambios a esta política de privacidad</h2>
-
-  <p>Nos reservamos el derecho de actualizar nuestra política de privacidad en cualquier momento. Te recomendamos que revises esta página periódicamente para estar al tanto de cualquier cambio. Los cambios serán efectivos al publicar la política de privacidad actualizada en esta página.</p>
-
-  <p>Fecha de entrada en vigencia: <em>12 - Julio - 2023</em></p>
-
-
+<!-- Logo UBU-->
+<a class="logo-ubu" href="https://www.ubu.es/">
+  <img src="{{ url_for('static', filename='images/icono-bl-ubu.png') }}" alt="Logo">
+</a>
+<!-- Logo Paperrank-->
+<a class="logo-ubu" href="/">
+  <img src="{{ url_for('static', filename='images/logo.png') }}" alt="Logo">
+</a>
 {% endblock %}

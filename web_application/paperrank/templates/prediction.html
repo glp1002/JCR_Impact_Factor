@@ -16,7 +16,7 @@
         {% for nombre, prediction in predictions %}
         <div class="card">
             <div class="card-body">
-                <p class="card-text"> <strong>{{ nombre }} - </strong>{% trans %}El índice de impacto predicho por el clasificador para la revista es:
+                <p class="card-text"> <strong>{{ nombre }} - </strong>{% trans %}El Índice de Impacto predicho por el clasificador para la revista en {{ year }} es:
                     {{ prediction }}{% endtrans %}</p>
             </div>
         </div>

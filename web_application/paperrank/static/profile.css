@@ -8,6 +8,10 @@ h1 {
   margin-bottom: 20px;
 }
 
+.row.centrar {
+  height: 100%;
+}
+
 .profile {
   display: flex;
 }

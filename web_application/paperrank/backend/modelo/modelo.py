@@ -52,6 +52,22 @@ class Modelo:
             raise Exception("Error al obtener las revistas: " + str(e))
         finally:
             cur.close()
+
+    def get_last_year(self):
+        cur = self.conn.cursor()
+        try:
+            query_last_jcr = """
+                SELECT MAX(fecha) FROM revista_jcr
+            """
+            cur.execute(query_last_jcr)
+            last_year = cur.fetchone()[0]
+
+            return last_year
+
+        except psycopg2.Error as e:
+            raise Exception("Error al obtener el último jcr: " + str(e))
+        finally:
+            cur.close()
         
     def get_last_jcr(self, nombre_revista):
         cur = self.conn.cursor()

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-06-10 00:15+0200\n"
+"POT-Creation-Date: 2023-06-11 16:36+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,57 +17,60 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.12.1\n"
 
-#: app.py:67 templates/base.html:53 templates/login.html:44
+#: app.py:77 templates/base.html:55 templates/login.html:44
 msgid "Inglés"
 msgstr ""
 
-#: app.py:68 templates/base.html:54 templates/login.html:45
+#: app.py:78 templates/base.html:56 templates/login.html:45
 msgid "Español"
 msgstr ""
 
-#: app.py:69 templates/base.html:55 templates/login.html:46
+#: app.py:79 templates/base.html:57 templates/login.html:46
 msgid "Francés"
 msgstr ""
 
-#: app.py:70 templates/base.html:56 templates/login.html:47
+#: app.py:80 templates/base.html:58 templates/login.html:47
 msgid "Italiano"
 msgstr ""
 
-#: app.py:127
+#: app.py:152
 msgid "Nombre de usuario o contraseña incorrectos"
 msgstr ""
 
-#: templates/base.html:61
+#: templates/base.html:63 templates/help.html:8
 msgid "Ayuda"
 msgstr ""
 
-#: templates/base.html:89
+#: templates/base.html:79
 msgid "Editar perfil"
 msgstr ""
 
-#: templates/base.html:90
+#: templates/base.html:80
 msgid "Cerrar sesión"
 msgstr ""
 
-#: templates/base.html:109
+#: templates/base.html:99 templates/privacypolicy.html:2
+#: templates/privacypolicy.html:9
 msgid "Política de privacidad"
 msgstr ""
 
-#: templates/base.html:110
+#: templates/base.html:100 templates/termsofuse.html:2
+#: templates/termsofuse.html:9
 msgid "Términos de uso"
 msgstr ""
 
-#: templates/consult.html:10 templates/journals.html:7
-#: templates/prediction.html:10 templates/profile.html:10
-#: templates/selection.html:7
+#: templates/consult.html:9 templates/help.html:7 templates/journals.html:7
+#: templates/prediction.html:8 templates/privacypolicy.html:8
+#: templates/profile.html:10 templates/selection.html:7
+#: templates/termsofuse.html:8
 msgid "Selección"
 msgstr ""
 
-#: templates/consult.html:11
+#: templates/consult.html:10
 msgid "Consulta"
 msgstr ""
 
-#: templates/consult.html:14
+#: templates/consult.html:13
 msgid "HISTÓRICO DEL ÍNDICE DE IMPACTO"
 msgstr ""
 
@@ -85,6 +88,169 @@ msgid ""
 "            Nuestro equipo está trabajando para solucionarlo lo antes "
 "posible. </br>\n"
 "            Por favor, intenta nuevamente más tarde."
+msgstr ""
+
+#: templates/help.html:11
+msgid "AYUDA"
+msgstr ""
+
+#: templates/help.html:13
+msgid ""
+"Bienvenido a la página de ayuda de Paperrank. A continuación, encontrará "
+"información útil para utilizar nuestros servicios de manera efectiva:"
+msgstr ""
+
+#: templates/help.html:14
+msgid "ÍNDICE"
+msgstr ""
+
+#: templates/help.html:16 templates/help.html:22
+msgid "Revistas disponibles"
+msgstr ""
+
+#: templates/help.html:17 templates/help.html:27
+msgid "Modelos de predicción"
+msgstr ""
+
+#: templates/help.html:18 templates/help.html:43
+msgid "Guía de inicio rápida"
+msgstr ""
+
+#: templates/help.html:19 templates/help.html:60
+msgid "Perfil de usuario"
+msgstr ""
+
+#: templates/help.html:23
+msgid ""
+"En nuestra aplicación, tendrá acceso a una selección de revistas "
+"académicas de alta calidad pertenecientes al JCR (Journal Citation "
+"Reports). Actualmente, nos enfocamos en ofrecer revistas de la categoría "
+"de Ciencias de la Computación, Artificial Intelligence. Estas revistas "
+"son reconocidas por su rigor académic y contribuciones significativas al "
+"avance del conocimiento en el ámbito de la informática."
+msgstr ""
+
+#: templates/help.html:24
+msgid ""
+"La lista completa de revistas disponibles, así como su información "
+"principal, puede consultarse en la <a href=\"/revistas\">interfaz de "
+"revistas</a>. También podrá acceder a esta interfaz desde la <a "
+"href=\"/selection\">interfaz principal</a> pulsando sobre este icono:"
+msgstr ""
+
+#: templates/help.html:28
+msgid ""
+"Para predecir el valor del Índice de Impacto de las revistas, nuestra "
+"aplicación utiliza tres modelos de predicción: AdaBoost, Random Forest y "
+"XGB Regressor."
+msgstr ""
+
+#: templates/help.html:29
+msgid ""
+"Estos modelos son técnicas de aprendizaje automático que se aplican en el"
+" campo de la ciencia de datos para realizar predicciones basadas en datos"
+" históricos y características relevantes de las revistas."
+msgstr ""
+
+#: templates/help.html:31
+msgid ""
+"El <b>AdaBoost</b> es un algoritmo que combina múltiples modelos de "
+"aprendizaje débiles para crear un modelo más robusto y preciso. Cada "
+"modelo débil se entrena secuencialmente, poniendo más énfasis en las "
+"instancias mal clasificadas en cada iteración. El resultado final es un "
+"modelo de predicción que mejora su capacidad de clasificación a medida "
+"que se agregan más modelos débiles."
+msgstr ""
+
+#: templates/help.html:32
+msgid ""
+"El <b>Random Forest</b> es un algoritmo que crea un \"bosque\" de árboles"
+" de decisión individuales. Cada árbol se entrena de forma independiente "
+"en una muestra aleatoria de las características y ejemplos de "
+"entrenamiento. Luego, para realizar una predicción, cada árbol emite una "
+"decisión y el resultado final se determina por votación o promedio de las"
+" predicciones de todos los árboles."
+msgstr ""
+
+#: templates/help.html:33
+msgid ""
+"El <b>XGB Regressor</b>, también conocido como Gradient Boosting, es un "
+"algoritmo de refuerzo que construye un modelo de regresión a partir de "
+"múltiples modelos de árbol de decisión. En cada iteración, el modelo se "
+"entrena para corregir los errores residuales del modelo anterior, lo que "
+"permite mejorar progresivamente la precisión de las predicciones."
+msgstr ""
+
+#: templates/help.html:36
+msgid ""
+"En cuanto a los valores de RMSE (Root Mean Square Error) obtenidos por "
+"cada modelo, se utiliza como métrica para evaluar la proximidad a las "
+"predicciones del Índice de Impacto real de las revistas. El RMSE mide la "
+"diferencia promedio entre las predicciones y los valores reales, "
+"indicando un valor más bajo una mayor precisión del modelo. En nuestro "
+"caso, los valores de RMSE para cada modelo son los siguientes: "
+msgstr ""
+
+#: templates/help.html:44
+msgid ""
+"En la <a href=\"/selection\">interfaz principal</a> podrá visualizar dos "
+"menús desplegables donde seleccionar la categoría y la revista que "
+"interese. Es preciso seleccionar <b>primero</b> la categoría, que hace un"
+" filtro inicial de las revistas."
+msgstr ""
+
+#: templates/help.html:45
+msgid ""
+"Llegado a este punto, se activará el botón \"Histórico JCR\", que le "
+"redireccionará a una nueva interfaz. Podrá visualizar los siguientes "
+"elementos:"
+msgstr ""
+
+#: templates/help.html:47
+msgid ""
+"Gráfica con la evolución del valor del Índice de Impacto de la revista "
+"durante los últimos 5 años disponibles en el JCR de Clarivate."
+msgstr ""
+
+#: templates/help.html:48
+msgid ""
+"Gráfico de barras con el cuartil al que ha pertenecido la revista durante"
+" los 5 últimos años disponibles en el JCR de Clarivate."
+msgstr ""
+
+#: templates/help.html:52
+msgid ""
+"Volviendo a la interfaz principal, bajo los menús desplegables, "
+"encontrará los distintos modelos disponibles para predecir el Índice de "
+"Impacto de la revista seleccionada. Se puede seleccionar más de uno "
+"simultáneamente."
+msgstr ""
+
+#: templates/help.html:53
+msgid ""
+"Tras seleccionar los modelos deseados, se activará el botón \"Predecir "
+"JCR\" que redireccionará a una nueva interfaz. Podrá visualizar los "
+"siguientes elementos:"
+msgstr ""
+
+#: templates/help.html:55
+msgid ""
+"Aclaración textual con el valor de la predicción para el siguiente año "
+"(respecto al último disponible en el JCR de Clarivate)."
+msgstr ""
+
+#: templates/help.html:56
+msgid ""
+"Gráfico con la evolución temporal del Índice de Impacto de la revista en "
+"los 5 últimos años disponibles en el JCR de Clarivate. Adicionalmente, se"
+" pueden visualizar las predicciones de cada modelo y su leyenda."
+msgstr ""
+
+#: templates/help.html:61
+msgid ""
+"En la sección de <a href=\"/profile\">perfil de usuario</a> podrá editar "
+"tanto el nombre de usuario y el correo electrónico como la imagen de "
+"perfil. Para ello, bastará con pulsar sobre los siguientes iconos:"
 msgstr ""
 
 #: templates/journals.html:8
@@ -128,11 +294,11 @@ msgid "INFORMACIÓN ADICIONAL DE LA REVISTA"
 msgstr ""
 
 #: templates/journals.html:56
-msgid "JCR de los últimos 5 años:"
+msgid "JCR y cuartil de los últimos 5 años:"
 msgstr ""
 
-#: templates/journals.html:60
-msgid "Cuartil al que ha pertenecido en los últimos 5 años:"
+#: templates/journals.html:57
+msgid "Año - JCR - Cuartil"
 msgstr ""
 
 #: templates/login.html:7
@@ -147,7 +313,7 @@ msgstr ""
 msgid "Iniciar sesión"
 msgstr ""
 
-#: templates/login.html:58
+#: templates/login.html:58 templates/privacypolicy.html:17
 msgid "Nombre de usuario"
 msgstr ""
 
@@ -156,101 +322,213 @@ msgid "Contraseña"
 msgstr ""
 
 #: templates/login.html:79
-msgid "¿Ha olvidado tu contraseña?"
-msgstr ""
-
-#: templates/login.html:83
 msgid "¿Eres nuevo usuario? "
 msgstr ""
 
-#: templates/login.html:83
-msgid ""
-"Regístrate\n"
-"              aquí"
+#: templates/login.html:80
+msgid "Regístrate aquí"
 msgstr ""
 
-#: templates/prediction.html:11
+#: templates/prediction.html:9
 msgid "Predicción"
 msgstr ""
 
-#: templates/prediction.html:14
-msgid "ÍNDICE DE IMPACTO"
+#: templates/prediction.html:12
+msgid "PREDICCIÓN DEL ÍNDICE DE IMPACTO"
 msgstr ""
 
-#: templates/prediction.html:18
+#: templates/prediction.html:19
 #, python-format
 msgid ""
-"El índice de impacto predicho por el clasificador para la revista es:\n"
+"El Índice de Impacto predicho por el clasificador para la revista en "
+"%(year)s es:\n"
 "                    %(prediction)s"
+msgstr ""
+
+#: templates/privacypolicy.html:12
+msgid "POLÍTICA DE PRIVACIDAD DE PAPERRANK"
+msgstr ""
+
+#: templates/privacypolicy.html:13
+msgid ""
+"En esta sección, describimos cómo se recopila, utiliza, almacena y "
+"protege la información personal de los usuarios de nuestra aplicación."
+msgstr ""
+
+#: templates/privacypolicy.html:14
+msgid "Información recopilada"
+msgstr ""
+
+#: templates/privacypolicy.html:15
+msgid ""
+"Recopilamos y almacenamos la siguiente información personal de los "
+"usuarios que se registran en nuestra aplicación:"
+msgstr ""
+
+#: templates/privacypolicy.html:18
+msgid "Correo electrónico"
+msgstr ""
+
+#: templates/privacypolicy.html:19
+msgid "Contraseña (almacenada de forma encriptada en nuestra base de datos)"
+msgstr ""
+
+#: templates/privacypolicy.html:20
+msgid "Imagen de perfil de usuario"
+msgstr ""
+
+#: templates/privacypolicy.html:22
+msgid "Uso de la información"
+msgstr ""
+
+#: templates/privacypolicy.html:23
+msgid ""
+"Utilizamos la información recopilada únicamente con el fin de permitir a "
+"los usuarios acceder y utilizar los servicios de nuestra aplicación."
+msgstr ""
+
+#: templates/privacypolicy.html:25
+msgid "Compartir información"
+msgstr ""
+
+#: templates/privacypolicy.html:26
+msgid ""
+"No compartimos la información personal de nuestros usuarios con terceros,"
+" excepto en los siguientes casos:"
+msgstr ""
+
+#: templates/privacypolicy.html:28
+msgid "Con el consentimiento expreso del usuario."
+msgstr ""
+
+#: templates/privacypolicy.html:29
+msgid ""
+"Para cumplir con las leyes y regulaciones aplicables, solicitudes legales"
+" o procesos legales."
+msgstr ""
+
+#: templates/privacypolicy.html:31
+msgid "Seguridad"
+msgstr ""
+
+#: templates/privacypolicy.html:32
+msgid ""
+"Implementamos medidas de seguridad adecuadas para proteger la información"
+" personal de nuestros usuarios. Esto incluye el uso de encriptación, "
+"medidas de seguridad físicas y electrónicas, y restricciones de acceso a "
+"la información personal."
+msgstr ""
+
+#: templates/privacypolicy.html:33
+msgid "Cookies y tecnologías similares"
+msgstr ""
+
+#: templates/privacypolicy.html:34
+msgid ""
+"Utilizamos cookies y tecnologías similares para mejorar la experiencia "
+"del usuario y recopilar información sobre el uso de nuestra aplicación. "
+"Estas cookies no contienen información personal identificable y los "
+"usuarios pueden optar por desactivarlas en la configuración de su "
+"navegador."
+msgstr ""
+
+#: templates/privacypolicy.html:35
+msgid "Enlaces externos"
+msgstr ""
+
+#: templates/privacypolicy.html:36
+msgid ""
+"Nuestra aplicación puede contener enlaces a sitios web externos. Esta "
+"política de privacidad solo se aplica a nuestra aplicación, por lo que "
+"recomendamos a los usuarios leer las políticas de privacidad de esos "
+"sitios web externos antes de proporcionar cualquier información personal."
+msgstr ""
+
+#: templates/privacypolicy.html:37
+msgid "Actualizaciones de la política de privacidad"
+msgstr ""
+
+#: templates/privacypolicy.html:38
+msgid ""
+"Nos reservamos el derecho de actualizar esta política de privacidad a "
+"medida que sea necesario. Notificaremos a los usuarios sobre cualquier "
+"cambio significativo mediante publicaciones en nuestra aplicación. Se "
+"recomienda a los usuarios revisar periódicamente esta política de "
+"privacidad para estar informados sobre cómo protegemos la información "
+"personal."
+msgstr ""
+
+#: templates/privacypolicy.html:39 templates/termsofuse.html:37
+msgid ""
+"Esta política de privacidad es aplicable a partir de: <em>12 - Julio - "
+"2023</em>"
 msgstr ""
 
 #: templates/profile.html:11
 msgid "Perfil"
 msgstr ""
 
-#: templates/profile.html:15
+#: templates/profile.html:17
 msgid "ÁREA DE USUARIO"
 msgstr ""
 
-#: templates/profile.html:25
+#: templates/profile.html:27
 msgid "Arrastra y suelta una imagen aquí"
 msgstr ""
 
-#: templates/profile.html:27
+#: templates/profile.html:29
 msgid "Seleccionar imagen"
 msgstr ""
 
-#: templates/profile.html:31
+#: templates/profile.html:33
 msgid "Información de usuario"
 msgstr ""
 
-#: templates/profile.html:40
+#: templates/profile.html:42
 msgid "Nombre: "
 msgstr ""
 
-#: templates/profile.html:41
+#: templates/profile.html:43
 msgid "Correo electrónico: "
 msgstr ""
 
-#: templates/profile.html:42
-msgid ""
-"Guardar\n"
-"        cambios"
+#: templates/profile.html:45
+msgid "Guardar cambios"
 msgstr ""
 
 #: templates/register.html:7
 msgid "Register"
 msgstr ""
 
-#: templates/register.html:28
+#: templates/register.html:30
 msgid "REGISTRO"
 msgstr ""
 
-#: templates/register.html:31
+#: templates/register.html:33
 msgid "Nombre de usuario:"
 msgstr ""
 
-#: templates/register.html:37
+#: templates/register.html:39
 msgid "Contraseña:"
 msgstr ""
 
-#: templates/register.html:48
+#: templates/register.html:50
 msgid "Repita su contraseña:"
 msgstr ""
 
-#: templates/register.html:60
+#: templates/register.html:62
 msgid "Correo electrónico:"
 msgstr ""
 
-#: templates/register.html:66
+#: templates/register.html:68
 msgid "Registrarse"
 msgstr ""
 
-#: templates/register.html:69
+#: templates/register.html:71
 msgid "¿Ya tienes cuenta?"
 msgstr ""
 
-#: templates/register.html:70
+#: templates/register.html:72
 msgid "Inicia sesión aquí"
 msgstr ""
 
@@ -258,7 +536,7 @@ msgstr ""
 msgid "SELECCIÓN DE REVISTAS"
 msgstr ""
 
-#: templates/selection.html:30 templates/selection.html:40
+#: templates/selection.html:30
 msgid "Selecciona una opción"
 msgstr ""
 
@@ -266,27 +544,176 @@ msgstr ""
 msgid "Revista"
 msgstr ""
 
+#: templates/selection.html:40
+msgid "Selecciona una categoría primero"
+msgstr ""
+
 #: templates/selection.html:49
 msgid "MODELOS DE PREDICCIÓN"
 msgstr ""
 
-#: templates/selection.html:51
+#: templates/selection.html:59
+msgid ""
+"Información sobre los\n"
+"                                modelos:"
+msgstr ""
+
+#: templates/selection.html:78
 msgid "Seleccionar modelos"
 msgstr ""
 
-#: templates/selection.html:67
+#: templates/selection.html:94
 msgid "Seleccione una revista y su categoría"
 msgstr ""
 
-#: templates/selection.html:68
+#: templates/selection.html:95
 msgid "Histórico JCR"
 msgstr ""
 
-#: templates/selection.html:72
+#: templates/selection.html:99
 msgid "Rellene todos los campos"
 msgstr ""
 
-#: templates/selection.html:73
+#: templates/selection.html:100
 msgid "Predecir JCR"
+msgstr ""
+
+#: templates/termsofuse.html:12
+msgid "TÉRMINOS DE USO DE PAPERRANK"
+msgstr ""
+
+#: templates/termsofuse.html:13
+msgid ""
+"Estos términos de uso establecen los derechos y obligaciones de los "
+"usuarios al utilizar nuestra aplicación. Al acceder y utilizar la "
+"aplicación, los usuarios aceptan cumplir con estos términos y "
+"condiciones. Si no están de acuerdo con estos términos, no deben utilizar"
+" la aplicación."
+msgstr ""
+
+#: templates/termsofuse.html:14
+msgid "Licencia de uso"
+msgstr ""
+
+#: templates/termsofuse.html:15
+msgid ""
+"La aplicación es de código abierto y está disponible bajo la licencia <a "
+"class=\"link-negro\" "
+"href=\"https://www.gnu.org/licenses/licenses.es.html#GPL\">Licencia "
+"Pública General de GNU</a>. Los usuarios tienen permiso para utilizar, "
+"modificar y distribuir la aplicación de acuerdo con los términos de esta "
+"licencia."
+msgstr ""
+
+#: templates/termsofuse.html:16
+msgid "Uso de la aplicación"
+msgstr ""
+
+#: templates/termsofuse.html:17
+msgid ""
+"Los usuarios pueden utilizar nuestra aplicación para acceder a los datos "
+"y predicciones del Journal Citation Reports (JCR) de las revistas de "
+"\"Computer Science, Artificial Intelligence\". La información "
+"proporcionada tiene fines puramente informativos y no debe considerarse "
+"como asesoramiento profesional o científico."
+msgstr ""
+
+#: templates/termsofuse.html:18
+msgid "Registro de usuarios"
+msgstr ""
+
+#: templates/termsofuse.html:19
+msgid ""
+"Para acceder a las funcionalidades de la aplicación, los usuarios deben "
+"registrarse proporcionando un nombre de usuario, una dirección de correo "
+"electrónico y una contraseña. Los usuarios son responsables de mantener "
+"la confidencialidad de su información de inicio de sesión y de cualquier "
+"actividad realizada en su cuenta."
+msgstr ""
+
+#: templates/termsofuse.html:20
+msgid "Propiedad intelectual"
+msgstr ""
+
+#: templates/termsofuse.html:21
+msgid ""
+"Todos los derechos de propiedad intelectual relacionados con la "
+"aplicación y su contenido, incluyendo pero no limitado a textos, "
+"gráficos, logotipos, imágenes y software, son propiedad de la Universidad"
+" de Burgos. Los usuarios no tienen derechos de propiedad sobre la "
+"aplicación ni su contenido, excepto los derechos limitados para utilizar "
+"la aplicación de acuerdo con estos términos."
+msgstr ""
+
+#: templates/termsofuse.html:22
+msgid "Restricciones de uso"
+msgstr ""
+
+#: templates/termsofuse.html:23
+msgid ""
+"Los usuarios se comprometen a utilizar la aplicación de manera "
+"responsable y cumplir con las leyes y regulaciones aplicables. Queda "
+"estrictamente prohibido:"
+msgstr ""
+
+#: templates/termsofuse.html:25
+msgid "Realizar actividades ilegales o que infrinjan los derechos de terceros."
+msgstr ""
+
+#: templates/termsofuse.html:26
+msgid ""
+"Acceder o intentar acceder a áreas restringidas de la aplicación sin "
+"autorización."
+msgstr ""
+
+#: templates/termsofuse.html:27
+msgid ""
+"Utilizar la aplicación de manera que pueda causar daño, interrupción o "
+"deterioro del rendimiento."
+msgstr ""
+
+#: templates/termsofuse.html:28
+msgid ""
+"Difamar, acosar, amenazar o violar los derechos de privacidad de otros "
+"usuarios."
+msgstr ""
+
+#: templates/termsofuse.html:30
+msgid ""
+"La Universidad de Burgos se reserva el derecho de suspender o cancelar la"
+" cuenta de cualquier usuario que viole estas restricciones."
+msgstr ""
+
+#: templates/termsofuse.html:31
+msgid "Limitación de responsabilidad"
+msgstr ""
+
+#: templates/termsofuse.html:32
+msgid ""
+"La Universidad de Burgos no se hace responsable de cualquier daño o "
+"pérdida resultante del uso o la imposibilidad de utilizar la aplicación. "
+"La aplicación se proporciona \"tal cual\" y sin garantías de ningún tipo."
+msgstr ""
+
+#: templates/termsofuse.html:33
+msgid "Modificaciones"
+msgstr ""
+
+#: templates/termsofuse.html:34
+msgid ""
+"La Universidad de Burgos se reserva el derecho de realizar cambios en la "
+"aplicación, incluyendo la adición o eliminación de funcionalidades, en "
+"cualquier momento y sin previo aviso."
+msgstr ""
+
+#: templates/termsofuse.html:35
+msgid "Legislación aplicable"
+msgstr ""
+
+#: templates/termsofuse.html:36
+msgid ""
+"Estos términos de uso se rigen por las leyes de España y cualquier "
+"disputa relacionada con estos términos será sometida a la jurisdicción "
+"exclusiva de los tribunales de España."
 msgstr ""
 

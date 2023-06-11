@@ -61,49 +61,56 @@ fetch(`/quartileJSON/${encodeURIComponent(revista)}`)
     return response.json();
   })
   .then(data => {
-    // Aquí puedes acceder a los datos de jcrValues y years y utilizarlos para crear la línea temporal con Chart.js
     const quartil_list = data.quartil_list.reverse();
     const years = data.years.reverse();
+    const cuartiles = ['Q1', 'Q2', 'Q3', 'Q4'];
 
-    // Asignar valores numéricos a los cuartiles
-    const quartilValues = {
-      'Q1': 25,
-      'Q2': 50,
-      'Q3': 75,
-      'Q4': 100,
-      '-': 0
-    };
+    const datasets = [{
+      label: 'Quartile',
+      data: quartil_list.map(cuartil => cuartiles.indexOf(cuartil) + 1),
+      backgroundColor: '#7453c3',
+    }];
 
-    // Mapear los cuartiles a sus valores numéricos correspondientes
-    const numericValues = quartil_list.map(cuartil => quartilValues[cuartil]);
-
-    // Código para crear la línea temporal con Chart.js utilizando los datos de jcrValues y years
-    // Crear un contexto para el gráfico
     var ctx = document.getElementById('barChart').getContext('2d');
 
-    // Configurar el gráfico
     let barChart = new Chart(ctx, {
-      type: 'line',
+      type: 'bar',
       data: {
-        labels: years,  // Etiquetas en el eje X (años)
-        datasets: [{
-          label: 'Cuartil',  // Etiqueta de la línea
-          data: numericValues,  // Valores en el eje Y (JCR)
-          borderColor: '#7453c3',  // Color de la línea
-        }]
+        labels: years,  // Etiquetas en el eje X
+        datasets: datasets,
       },
       options: {
-        responsive: true,  // Hacer el gráfico responsive
-        maintainAspectRatio: false,  // No mantener el aspect ratio
+        responsive: true,
+        maintainAspectRatio: false,
         scales: {
+          x: {
+            beginAtZero: true,  // Comenzar el eje X en cero
+          },
           y: {
-            beginAtZero: true  // Comenzar el eje Y en cero
-          }
-        }       
-      }
+            beginAtZero: true,  // Comenzar el eje Y en cero
+            ticks: {
+              callback: function (value, index, values) {
+                return cuartiles[value - 1];
+              },
+              stepSize: 1,
+              max: 4,
+              min: 1
+            },
+          },
+        },
+        plugins: {
+          tooltip: {
+            callbacks: {
+              label: function (context) {
+                return 'Q' + context.parsed.y + ': ' + cuartiles[context.parsed.y - 1];
+              },
+            },
+          },
+        },
+      },
     });
-
   })
   .catch(error => {
     console.error(error);
   });
+

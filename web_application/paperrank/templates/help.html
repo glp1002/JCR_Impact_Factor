@@ -2,32 +2,65 @@
 {% block title %}Ayuda{% endblock %}
 
 {% block content %}
-<h1>AYUDA</h1>
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item enlace-bc"><a href="/selection">{% trans %}Selección{% endtrans %}</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{% trans %}Ayuda{% endtrans %}</li>
+  </ol>
+</nav>
+<h1>{% trans %}AYUDA{% endtrans %}</h1>
 
-  <p>Bienvenido a la página de ayuda de nuestra API. A continuación, encontrarás información útil para utilizar nuestros servicios de manera efectiva:</p>
-
-  <h2>Documentación</h2>
-
-  <p>La documentación de la API proporciona información detallada sobre los endpoints, parámetros, respuestas y ejemplos de uso. Te recomendamos revisarla para comprender cómo interactuar con nuestra API.</p>
-
-  <p>Puedes acceder a la documentación en el siguiente enlace: <a href="#">Documentación de la API</a></p> <!--TODO-->
-
-  <!--
-  <h2>FAQs</h2>
-
-  <p>Aquí tienes algunas preguntas frecuentes que pueden ayudarte a resolver dudas comunes:</p>
-
-  <h3>3. ¿Cómo puedo reportar un problema o enviar comentarios?</h3>
-  <p>Si encuentras algún problema con nuestra aplicación o tienes sugerencias para mejorarla, te animamos a contactarnos a través de GitHub.</p>
-  -->
-
-  <h2>Soporte técnico</h2>
-
-  <p>Si necesitas asistencia adicional o tienes preguntas que no se responden en la documentación o en las FAQs, nuestro equipo de soporte técnico está aquí para ayudarte. Puedes comunicarte con nosotros a través de los siguientes canales:</p>
-
+  <p>{% trans %}Bienvenido a la página de ayuda de Paperrank. A continuación, encontrará información útil para utilizar nuestros servicios de manera efectiva:{% endtrans %}</p>
+  <h2>{% trans %}ÍNDICE{% endtrans %}</h2>
   <ul>
-    <li>TODO </li>
-    <li>TODO</li>
+    <li><a href="#seccion1">{% trans %}Revistas disponibles{% endtrans %}</a></li>
+    <li><a href="#seccion2">{% trans %}Modelos de predicción{% endtrans %}</a></li>
+    <li><a href="#seccion3">{% trans %}Guía de inicio rápida{% endtrans %}</a></li>
+    <li><a href="#seccion4">{% trans %}Perfil de usuario{% endtrans %}</a></li>
   </ul>
+  
+  <h2 id="seccion1">{% trans %}Revistas disponibles{% endtrans %}</h2>
+  <p>{% trans %}En nuestra aplicación, tendrá acceso a una selección de revistas académicas de alta calidad pertenecientes al JCR (Journal Citation Reports). Actualmente, nos enfocamos en ofrecer revistas de la categoría de Ciencias de la Computación, Artificial Intelligence. Estas revistas son reconocidas por su rigor académic y contribuciones significativas al avance del conocimiento en el ámbito de la informática.{% endtrans %}</p>
+  <p>{% trans %}La lista completa de revistas disponibles, así como su información principal, puede consultarse en la <a href="/revistas">interfaz de revistas</a>. También podrá acceder a esta interfaz desde la <a href="/selection">interfaz principal</a> pulsando sobre este icono:{% endtrans %}</p>
+  <img src="{{ url_for('static', filename='images/lista-rev-2.png') }}" style="height: 40px; width: 40px;"></img>
+
+  <h2 id="seccion2">{% trans %}Modelos de predicción{% endtrans %}</h2>
+  <p>{% trans %}Para predecir el valor del Índice de Impacto de las revistas, nuestra aplicación utiliza tres modelos de predicción: AdaBoost, Random Forest y XGB Regressor.{% endtrans %}
+    {% trans %}Estos modelos son técnicas de aprendizaje automático que se aplican en el campo de la ciencia de datos para realizar predicciones basadas en datos históricos y características relevantes de las revistas.{% endtrans %}
+    <ul>
+      <li>{% trans %}El <b>AdaBoost</b> es un algoritmo que combina múltiples modelos de aprendizaje débiles para crear un modelo más robusto y preciso. Cada modelo débil se entrena secuencialmente, poniendo más énfasis en las instancias mal clasificadas en cada iteración. El resultado final es un modelo de predicción que mejora su capacidad de clasificación a medida que se agregan más modelos débiles.{% endtrans %}</li>
+      <li>{% trans %}El <b>Random Forest</b> es un algoritmo que crea un "bosque" de árboles de decisión individuales. Cada árbol se entrena de forma independiente en una muestra aleatoria de las características y ejemplos de entrenamiento. Luego, para realizar una predicción, cada árbol emite una decisión y el resultado final se determina por votación o promedio de las predicciones de todos los árboles.{% endtrans %}</li>
+      <li>{% trans %}El <b>XGB Regressor</b>, también conocido como Gradient Boosting, es un algoritmo de refuerzo que construye un modelo de regresión a partir de múltiples modelos de árbol de decisión. En cada iteración, el modelo se entrena para corregir los errores residuales del modelo anterior, lo que permite mejorar progresivamente la precisión de las predicciones.{% endtrans %}</li>
+    </ul>
+  
+    {% trans %}En cuanto a los valores de RMSE (Root Mean Square Error) obtenidos por cada modelo, se utiliza como métrica para evaluar la proximidad a las predicciones del Índice de Impacto real de las revistas. El RMSE mide la diferencia promedio entre las predicciones y los valores reales, indicando un valor más bajo una mayor precisión del modelo. En nuestro caso, los valores de RMSE para cada modelo son los siguientes: {% endtrans %}
+    <ul>
+      <li><b>AdaBoost</b>: 5.56</li>
+      <li><b>Random Forest</b>: 4.85</li>
+      <li><b>XGB Regressor</b>: 4.58</li>
+    </ul>
+  
+  <h2 id="seccion3">{% trans %}Guía de inicio rápida{% endtrans %}</h2>
+  <p>{% trans %}En la <a href="/selection">interfaz principal</a> podrá visualizar dos menús desplegables donde seleccionar la categoría y la revista que interese. Es preciso seleccionar <b>primero</b> la categoría, que hace un filtro inicial de las revistas.{% endtrans %}</p>
+  <p>{% trans %}Llegado a este punto, se activará el botón "Histórico JCR", que le redireccionará a una nueva interfaz. Podrá visualizar los siguientes elementos:{% endtrans %}</p>
+  <ul>
+    <li>{% trans %}Gráfica con la evolución del valor del Índice de Impacto de la revista durante los últimos 5 años disponibles en el JCR de Clarivate.{% endtrans %}</li>
+    <li>{% trans %}Gráfico de barras con el cuartil al que ha pertenecido la revista durante los 5 últimos años disponibles en el JCR de Clarivate.{% endtrans %}</li>
+  </ul>
+  <img src="{{ url_for('static', filename='images/guia-1.png') }}" style="margin: 50px; height: 505; width: 50%;"></img>
+  
+  <p>{% trans %}Volviendo a la interfaz principal, bajo los menús desplegables, encontrará los distintos modelos disponibles para predecir el Índice de Impacto de la revista seleccionada. Se puede seleccionar más de uno simultáneamente.{% endtrans %}</p>
+  <p>{% trans %}Tras seleccionar los modelos deseados, se activará el botón "Predecir JCR" que redireccionará a una nueva interfaz. Podrá visualizar los siguientes elementos:{% endtrans %}</p>
+  <ul>
+    <li>{% trans %}Aclaración textual con el valor de la predicción para el siguiente año (respecto al último disponible en el JCR de Clarivate).{% endtrans %}</li>
+    <li>{% trans %}Gráfico con la evolución temporal del Índice de Impacto de la revista en los 5 últimos años disponibles en el JCR de Clarivate. Adicionalmente, se pueden visualizar las predicciones de cada modelo y su leyenda.{% endtrans %}</li>
+  </ul>
+  <img src="{{ url_for('static', filename='images/guia-2.png') }}" style="margin: 50px; height: 50%; width: 50%;"></img>
+
+  <h2 id="seccion4">{% trans %}Perfil de usuario{% endtrans %}</h2>
+  <p>{% trans %}En la sección de <a href="/profile">perfil de usuario</a> podrá editar tanto el nombre de usuario y el correo electrónico como la imagen de perfil. Para ello, bastará con pulsar sobre los siguientes iconos:{% endtrans %}</p>
+  <img src="{{ url_for('static', filename='images/edit_photo_bl.png') }}" style="height: 40px; width: 40px;"></img>
+  <img src="{{ url_for('static', filename='images/edit_text_bl.png') }}" style="height: 38px; width: 38;"></img>
+
 
 {% endblock %}

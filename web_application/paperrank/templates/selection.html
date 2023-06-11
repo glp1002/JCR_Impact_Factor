@@ -18,7 +18,7 @@
                     <div class="row">
                         <div class="col-xs-12">
                             <img src="{{ url_for('static', filename='images/lista-rev-2.png') }}" alt="Buscar revistas"
-                                class="icono-buscar" data-toggle="tooltip" title="Listado de revistas" id="lista-rev">
+                                class="icono-buscar" data-toggle="tooltip" title="{{ tooltip_title }}" id="lista-rev">
                         </div>
                     </div>
                 </div>
@@ -37,29 +37,59 @@
             <div class="form-group">
                 <label for="revista">{% trans %}Revista{% endtrans %}:</label>
                 <select class="form-control" id="revista" name="revista" required>
-                    <option value="" disabled selected>{% trans %}Selecciona una categoría primero{% endtrans %}</option>
+                    <option value="" disabled selected>{% trans %}Selecciona una categoría primero{% endtrans %}
+                    </option>
                     {% for revista in revistas %}
                     <option value="{{ revista }}">{{ revista }}</option>
                     {% endfor %}
                 </select>
             </div>
 
-            <h1 class="mt-4">{% trans %}MODELOS DE PREDICCIÓN{% endtrans %}</h1>
-            <div class="form-group mb-4">
-                <label for="modelo">{% trans %}Seleccionar modelos{% endtrans %}:</label>
-                {% for modelo in modelos %}
-                <div class="form-check">
-                    <input class="form-check-input" type="checkbox" id="modelo_{{ loop.index }}" name="modelo[]"
-                        value="{{ modelo.nombre }}">
-                    <label class="form-check-label" for="modelo_{{ loop.index }}">
-                        <strong>{{ modelo.nombre }}</strong> - RMSE: {{ modelo.rmse }}
-                    </label>
+            <h1 class="mt-4">
+                {% trans %}MODELOS DE PREDICCIÓN{% endtrans %}
+                <img src="{{ url_for('static', filename='images/excl_bl.png') }}" alt="Info" id="rmse-info"
+                    class="excl-img tooltip-img" data-bs-toggle="modal" data-bs-target="#staticBackdrop"
+                    title="Información sobre los modelos">
+            </h1>
+            <div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
+                aria-labelledby="staticBackdropLabel" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h1 class="modal-title fs-5" id="staticBackdropLabel">{% trans %}Información sobre los
+                                modelos:{% endtrans %}</h1>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                            <ul>
+                                {% for modelo in modelos %}
+                                <li><strong>{{ modelo.nombre }}</strong> - RMSE (Root Mean Square Error): {{ modelo.rmse }}</li>
+                                {% endfor %}
+                            </ul>
+                        </div>
+                    </div>
                 </div>
-                {% endfor %}
+            </div>
+
+
+
+            <div class="col-md-6">
+                <div class="form-group mb-4">
+                    <label for="modelo">{% trans %}Seleccionar modelos{% endtrans %}:</label>
+                    {% for modelo in modelos %}
+                    <div class="form-check">
+                        <input class="form-check-input" type="checkbox" id="modelo_{{ loop.index }}" name="modelo[]"
+                            value="{{ modelo.nombre }}">
+                        <label class="form-check-label" for="modelo_{{ loop.index }}">
+                            <strong>{{ modelo.nombre }}</strong>
+                        </label>
+                    </div>
+                    {% endfor %}
+                </div>
             </div>
 
             <div class="mt-4 text-center">
-                <button type="submit" class="btn btn-primary btn-enviar" id="calcular-btn-consultar" name="action" 
+                <button type="submit" class="btn btn-primary btn-enviar" id="calcular-btn-consultar" name="action"
                     value="consultar" disabled data-toggle="tooltip" data-placement="top"
                     title="{% trans %}Seleccione una revista y su categoría{% endtrans %}">
                     {% trans %}Histórico JCR{% endtrans %}
@@ -74,14 +104,17 @@
         </form>
     </div>
 
-    <div class="col-md-4 d-flex justify-content-center align-items-center" id="logo3d">
-        <img src="{{ url_for('static', filename='images/logo_bl.png') }}" alt="Logo" class="logo-derecha" style="margin-left: 100px;">
+    <div class="col-md-4 d-flex justify-content-center align-items-center" logo3d>
+        <img src="{{ url_for('static', filename='images/logo_bl.png') }}" alt="Logo" class="logo-derecha"
+            style="margin-left: 100px;">
     </div>
 </div>
 
 <!-- JQuery js -->
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<!-- Bootstrap js -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.9.2/umd/popper.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.5.0/js/bootstrap.min.js"></script>
 <!-- Own js -->
 <script src="{{ url_for('static', filename='selection.js') }}"></script>
-
 {% endblock %}

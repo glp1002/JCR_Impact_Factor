@@ -1,49 +1,47 @@
 {% extends "base.html" %}
-{% block title %}Términos de uso{% endblock %}
+{% block title %}{% trans %}Términos de uso{% endtrans %}{% endblock %}
 
 {% block content %}
 
-<h1>TÉRMINOS DE USO</h1>
-
-<p>Al utilizar nuestra aplicación, aceptas cumplir con los siguientes términos y condiciones:</p>
-
-<h2>Uso autorizado</h2>
-
-<p>Está permitido utilizar nuestra aplicación para:</p>
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item enlace-bc"><a href="/selection">{% trans %}Selección{% endtrans %}</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{% trans %}Términos de uso{% endtrans %}</li>
+  </ol>
+</nav>
+<h1>{% trans %}TÉRMINOS DE USO DE PAPERRANK{% endtrans %}</h1>
+<p>{% trans %}Estos términos de uso establecen los derechos y obligaciones de los usuarios al utilizar nuestra aplicación. Al acceder y utilizar la aplicación, los usuarios aceptan cumplir con estos términos y condiciones. Si no están de acuerdo con estos términos, no deben utilizar la aplicación.{% endtrans %}</p>
+<h2>{% trans %}Licencia de uso{% endtrans %}</h2>
+<p>{% trans %}La aplicación es de código abierto y está disponible bajo la licencia <a class="link-negro" href="https://www.gnu.org/licenses/licenses.es.html#GPL">Licencia Pública General de GNU</a>. Los usuarios tienen permiso para utilizar, modificar y distribuir la aplicación de acuerdo con los términos de esta licencia.{% endtrans %}</p>
+<h2>{% trans %}Uso de la aplicación{% endtrans %}</h2>
+<p>{% trans %}Los usuarios pueden utilizar nuestra aplicación para acceder a los datos y predicciones del Journal Citation Reports (JCR) de las revistas de "Computer Science, Artificial Intelligence". La información proporcionada tiene fines puramente informativos y no debe considerarse como asesoramiento profesional o científico.{% endtrans %}</p>
+<h2>{% trans %}Registro de usuarios{% endtrans %}</h2>
+<p>{% trans %}Para acceder a las funcionalidades de la aplicación, los usuarios deben registrarse proporcionando un nombre de usuario, una dirección de correo electrónico y una contraseña. Los usuarios son responsables de mantener la confidencialidad de su información de inicio de sesión y de cualquier actividad realizada en su cuenta.{% endtrans %}</p>
+<h2>{% trans %}Propiedad intelectual{% endtrans %}</h2>
+<p>{% trans %}Todos los derechos de propiedad intelectual relacionados con la aplicación y su contenido, incluyendo pero no limitado a textos, gráficos, logotipos, imágenes y software, son propiedad de la Universidad de Burgos. Los usuarios no tienen derechos de propiedad sobre la aplicación ni su contenido, excepto los derechos limitados para utilizar la aplicación de acuerdo con estos términos.{% endtrans %}</p>
+<h2>{% trans %}Restricciones de uso{% endtrans %}</h2>
+<p>{% trans %}Los usuarios se comprometen a utilizar la aplicación de manera responsable y cumplir con las leyes y regulaciones aplicables. Queda estrictamente prohibido:{% endtrans %}</p>
 <ul>
-  <li>Acceder y consumir los servicios proporcionados por la aplicación</li>
-  <li>Integrar la aplicación en su propias aplicaciones y servicios</li>
+  <li>{% trans %}Realizar actividades ilegales o que infrinjan los derechos de terceros.{% endtrans %}</li>
+  <li>{% trans %}Acceder o intentar acceder a áreas restringidas de la aplicación sin autorización.{% endtrans %}</li>
+  <li>{% trans %}Utilizar la aplicación de manera que pueda causar daño, interrupción o deterioro del rendimiento.{% endtrans %}</li>
+  <li>{% trans %}Difamar, acosar, amenazar o violar los derechos de privacidad de otros usuarios.{% endtrans %}</li>
 </ul>
+<p>{% trans %}La Universidad de Burgos se reserva el derecho de suspender o cancelar la cuenta de cualquier usuario que viole estas restricciones.{% endtrans %}</p>
+<h2>{% trans %}Limitación de responsabilidad{% endtrans %}</h2>
+<p>{% trans %}La Universidad de Burgos no se hace responsable de cualquier daño o pérdida resultante del uso o la imposibilidad de utilizar la aplicación. La aplicación se proporciona "tal cual" y sin garantías de ningún tipo.{% endtrans %}</p>
+<h2>{% trans %}Modificaciones{% endtrans %}</h2>
+<p>{% trans %}La Universidad de Burgos se reserva el derecho de realizar cambios en la aplicación, incluyendo la adición o eliminación de funcionalidades, en cualquier momento y sin previo aviso.{% endtrans %}</p>
+<h2>{% trans %}Legislación aplicable{% endtrans %}</h2>
+<p>{% trans %}Estos términos de uso se rigen por las leyes de España y cualquier disputa relacionada con estos términos será sometida a la jurisdicción exclusiva de los tribunales de España.{% endtrans %}</p>
+<p>{% trans %}Esta política de privacidad es aplicable a partir de: <em>12 - Julio - 2023</em>{% endtrans %}</p>
 
-<h2>Restricciones de uso</h2>
-
-<p>Queda estrictamente prohibido:</p>
-<ul>
-  <li>Acceder o intentar acceder a áreas no autorizadas de la aplicación</li>
-  <li>Utilizar la aplicación con fines ilegales o no autorizados</li>
-  <li>Realizar actividades que puedan interferir con el funcionamiento de la aplicación o afectar la seguridad de la misma</li>
-  <li>Distribuir, sublicenciar o revender la aplicación a terceros sin nuestro consentimiento previo por escrito</li>
-</ul>
-
-<h2>Propiedad intelectual</h2>
-
-<p>Todos los derechos de propiedad intelectual relacionados con la aplicación y sus contenidos (a menos que se indique lo contrario) son propiedad de la Universidad de Burgos. No se otorga ninguna licencia o derecho sobre la propiedad intelectual de la aplicación, excepto lo expresamente establecido en estos términos de uso.</p>
-
-<h2>Modificaciones</h2>
-
-<p>Nos reservamos el derecho de modificar, suspender o descontinuar la aplicación (o cualquier parte de ella) en cualquier momento sin previo aviso. También podemos actualizar estos términos de uso ocasionalmente. Es tu responsabilidad revisar estos términos periódicamente y aceptar cualquier cambio antes de continuar utilizando la aplicación.</p>
-
-<h2>Limitación de responsabilidad</h2>
-
-<p>En ningún caso seremos responsables por daños directos, indirectos, incidentales, especiales, consecuentes o ejemplares que puedan surgir del uso o la imposibilidad de utilizar la aplicación.</p>
-
-<h2>Terminación</h2>
-
-<p>Podemos terminar su acceso a la aplicación en cualquier momento si incumple estos términos de uso. Además, usted también puede dejar de utilizar la aplicación en cualquier momento.</p>
-
-<h2>Contacto</h2>
-
-<p>Si tiene alguna pregunta o inquietud sobre estos términos de uso, no dude en ponerse en contacto con nosotros.</p>
-
-
+<!-- Logo UBU-->
+<a class="logo-ubu" href="https://www.ubu.es/">
+  <img src="{{ url_for('static', filename='images/icono-bl-ubu.png') }}" alt="Logo">
+</a>
+<!-- Logo Paperrank-->
+<a class="logo-ubu" href="https://www.ubu.es/">
+  <img src="{{ url_for('static', filename='images/logo.png') }}" alt="Logo">
+</a>
 {% endblock %}

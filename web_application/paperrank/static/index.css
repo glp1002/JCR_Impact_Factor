@@ -21,8 +21,15 @@ html {
   z-index: 999 !important;
 }
 
-.enlace a,
-a:link {
+.link.negro{
+  color: black !important;
+}
+
+.link.negro:hover{
+  color: #7453c3 !important;
+}
+
+.enlace a {
   color: white !important;
 }
 
@@ -248,4 +255,10 @@ h1 {
   #logo3d img{
     display: none !important;
   }
+}
+
+.excl-img {
+  max-width: 28px;
+  width: 28px;
+  margin-left: 20px;
 }

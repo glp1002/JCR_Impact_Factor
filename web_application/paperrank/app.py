@@ -136,6 +136,7 @@ def home():
 
 @app.route('/login', methods=['GET', 'POST'])
 def login():
+    
     controlador = refresh()
     if request.method == 'POST':
         username = request.form['username']
@@ -273,9 +274,11 @@ def prediction():
     predictions2 = controlador.predict(ejemplo2, modelos)
     predictions2 = [round(numero[0],3) for numero in predictions2]
     predictions2 = list(zip(modelos_deseados, predictions2)) # [(modelo, valor), (moelo2, valor2)...]
+
+    year = controlador.get_last_year(revista) + 1 # Año para la predicción
     
     return render_template('prediction.html', predictions=predictions, predictions2=predictions2, 
-                           username=session.get('username'), revista=revista)
+                           username=session.get('username'), revista=revista, year=year)
 
 @app.route('/selection', methods=['GET', 'POST'])   
 @login_required
@@ -303,8 +306,9 @@ def formulario():
         if modelos is None or len(modelos) == 0:
             controlador.insert_models()       
             modelos = controlador.get_model_names_and_errors()
-        
-        return render_template('selection.html', categorias=categorias, revistas=[], modelos=modelos, 
+
+        tooltip_title = gettext("Listado de revistas")
+        return render_template('selection.html', categorias=categorias, revistas=[], modelos=modelos, tooltip_title=tooltip_title,
                                username=session.get('username'))
     
 @app.route('/journal/<categoria>', methods=['GET'])
