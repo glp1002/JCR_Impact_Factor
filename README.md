@@ -74,6 +74,9 @@ Después, bastará con descomentar en el fichero de configuración de la aplicac
 
 ## ⚖ Licencia:
 [The GNU General Public License](https://www.gnu.org/licenses/)
+
+</br>
+
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-purple.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ---
