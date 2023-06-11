@@ -5,25 +5,25 @@
 ![Logo de Paperrank](./web_application/paperrank/static/images/logo_bl.png)
 
 ## Índice
-1. [Descripción](#descripción-✍)
-2. [Participantes](#participantes-👨‍👩‍👧)
-3. [Contenido](#contenido-📦)
-4. [Instrucciones para el lanzamiento en local](#instrucciones-para-el-lanzamiento-en-local-👨‍💻)
-5. [Licencia](#licencia-⚖)
+1. ✍ [Descripción](#descripción)
+2. 👨‍👩‍👧 [Participantes](#participantes)
+3. 📦 [Contenido](#contenido)
+4. 👨‍💻 [Instrucciones para el lanzamiento en local](#instrucciones-para-el-lanzamiento-en-local)
+5. ⚖  [Licencia](#licencia)
 
-## Descripción ✍
+## Descripción 
 _El presente proyecto se centra en la extracción de datos bibliográficos con el fin de calcular y predecir el Factor de Impacto. Esta métrica se utiliza para evaluar la importancia de una revista en un campo científico determinado. Se mide a través de la frecuencia con la que los artículos de la misma han sido citados en un año específico. Se trata de un criterio importante en la evaluación de la calidad del trabajo científico y puede ser de gran ayuda en la selección de la revista adecuada para publicar un nuevo trabajo._
 
 _Se extraen los datos históricos disponibles en la web (tales como Google Scholar, Crossref, Web of Science, Scopus...) empleando técnicas de web scrapping sobre las distintas fuentes. Estos datos se utilizan como entradas para los algoritmos de aprendizaje automático, que serán supervisados y se utilizarán para estimar el valor del Índice de Impacto de las revistas indexadas en el JCR (Journal Citation Reports)._
 
 _El producto final es una aplicación web accesible y de fácil uso para la comunidad científica, que permita predecir la importancia de las revistas científicas en tiempo real._
 
-## Participantes 👨‍👩‍👧
+## Participantes 
 * Virginia Ahedo García (tutora)
 * Álvar Arnaiz González (co-tutor)
 * Gadea Lucas Pérez (alumna: glp1002@alu.ubu.es)
 
-## Contenido 📦
+## Contenido 
 Carpetas:
 * calculate_jcr: contiene los módulos necesarios para el cálculo del JCR
 * data_extraction: contiene los modelos desarrollados para la fase de extracción de datos
@@ -38,7 +38,7 @@ Ficheros:
 * runtime.txt: fichero para indicar a Heroku la versión de Python que se está usando.
 * README.md: fichero actual
 
-## Instrucciones para el lanzamiento en local 👨‍💻 
+## Instrucciones para el lanzamiento en local 
 Durante la etapa de desarrollo, se deberá lanzar la aplicación de forma local en el servidor de Flask. Para ello, en la carpeta web_application/paperrank hay dos ficheros de procesamiento por lotes, uno para Windows y otro para Linux.
 * En Windows: ```win_start.cmd```
 * En Linux: ```./lin_start.sh```
@@ -79,8 +79,8 @@ Después, bastará con descomentar en el fichero de configuración de la aplicac
 
 
 
-## Licencia ⚖ 
-[The GNU General Public License](https://www.gnu.org/licenses/)
+## Licencia
+⚖ [The GNU General Public License](https://www.gnu.org/licenses/)
 
 </br>
 
