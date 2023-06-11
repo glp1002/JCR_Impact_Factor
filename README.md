@@ -78,5 +78,5 @@ Después, bastará con descomentar en el fichero de configuración de la aplicac
 ---
 
 <div align="center">
-  <p align="center" style="font-size:0.8em">Proyecto financiado con la Beca de Colaboración del Ministerio de Educación y Formación Profesional</p>
+  <p align="center" style="font-size:0.8em">Proyecto financiado con una Beca de Colaboración del Ministerio de Educación y Formación Profesional</p>
 </div>
