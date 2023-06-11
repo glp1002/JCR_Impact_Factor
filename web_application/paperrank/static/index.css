@@ -249,7 +249,7 @@ h1 {
 
 @media screen and (max-width: 767px) {
   .cuerpo {
-    margin-bottom: 150px;
+    margin-bottom: 200px;
   }
 
   #logo3d img{
@@ -258,6 +258,12 @@ h1 {
 
   .logo-derecha{
     display: none !important;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .cuerpo {
+    margin-bottom: 300px;
   }
 }
 
