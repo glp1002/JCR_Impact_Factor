@@ -58,7 +58,7 @@ Una vez configurado el entorno virtual (si se ha decidido utilizar uno), el sigu
 ### Base de datos
 Para poder ejecutar la aplicación en local, será necesario crear una base de datos PostgreSQL y conectarla al código de la aplicación.
 * Descargar e instalar PostgreSQL desde el sitio web oficial: https://www.postgresql.org/download/.
-* Seguir las instrucciones de instalación para susistema operativo específico.
+* Seguir las instrucciones de instalación para su sistema operativo específico.
 * Durante la instalación, será necesario asegurarse de recordar la contraseña del usuario «postgres», ya que será necesaria más adelante.
 * Abrir un terminal y comprobar que el servidor PostgreSQL esté en funcionamiento.
 * Ejecutar el siguiente comando para acceder a la interfaz de línea de comandos de PostgreSQL:
