@@ -1,22 +1,30 @@
 # JCR_Impact_Factor
 
-https://paperrank.herokuapp.com/ 
+🔗**Página web**: https://paperrank.herokuapp.com/ -> Paperrank
 
-## Descripción:
+![Logo de Paperrank](./web_application/paperrank/static/images/logo_bl.png)
+
+## ✏ Descripción:
 _Repositorio para el TFG sobre la estimación del factor de impacto de las publicaciones científicas._
 
-## Participantes:
-* Virginia Ahedo García
-* Álvar Arnaiz González
-* Gadea Lucas Pérez
+## 👨‍💻 Participantes:
+* Virginia Ahedo García (tutora)
+* Álvar Arnaiz González (co-tutor)
+* Gadea Lucas Pérez (alumna)
 
 ## Contenido:
-* API: aplicación web donde se muestran los resultados del trabajo
-* JCR_clarivate: limpieza y tratamiento de los datos de Clarivate
-* SQL: contiene los _scripts_ temporales para probar la BBDD
-* calcular_jcr: módulos para el cálculo del JCR
-* extraccion_de_datos: contiene los modelos desarrollados para la fase de extracción de datos
-* Plantilla LaTeX para realizar la memoria del TFG
-* predicción: modelos de aprendizaje automático para predecir el JCR
-* Readme.md
+
+Carpetas:
+* calculate_jcr: contiene los módulos necesarios para el cálculo del JCR
+* data_extraction: contiene los modelos desarrollados para la fase de extracción de datos
+* doc: contiene la documentación del proyecto (memoria y anexos) en formato LaTex y PDF
+* prediction_models: contiene los modelos de aprendizaje automático de predicción del JCR
+* web_application/paperrank: contiene el código y los recursos de la aplicación web
+
+Ficheros:
+* Procfile: fichero de configuración de Heroku. Contiene los comandos iniciales para la ejecución de la aplicación.
+* requirements.txt: fichero de requisitos (utilidades y librerías).
+* Readme.md: fichero actual
+
+
 
