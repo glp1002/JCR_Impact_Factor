@@ -41,23 +41,6 @@ Ficheros:
 ## Instrucciones para el lanzamiento en local 
 Durante la etapa de desarrollo, se deberá lanzar la aplicación de forma local en el servidor de Flask. Los pasos a seguir son los siguientes:
 
-### Entorno virtual (opcional pero recomendado)
-Antes de comenzar, es una buena práctica configurar un entorno virtual, ya que permite aislar las dependencias del proyecto y evitar conflictos con otras aplicaciones. Para configurar un entorno virtual, sigue los siguientes pasos:
-* Abrir un terminal y navegar hasta la carpeta raíz del proyecto.
-* Instalar el paquete python3-venv con el siguiente comando:
-```
-sudo apt install python3-venv
-```
-* Ejecutar el siguiente comando para crear un nuevo entorno virtual:
-```
-python3 -m venv nombre_entorno_virtual
-```
-(Reemplazar nombre_entorno_virtual con el nombre que se desee para el entorno virtual).
-* Activar el entorno virtual ejecutando el siguiente comando:
-  - En Windows:
-  ``` nombre_entorno_virtual\Scripts\activate```
-  - En Linux:
-  ``` source nombre_entorno_virtual/bin/activate ```
 ### Instalación de Flask y dependencias
 Una vez configurado el entorno virtual (si se ha decidido utilizar uno), el siguiente paso es instalar Flask y las dependencias necesarias para la ejecución de la aplicación. Será preciso navegar hasta la carpeta raíz del proyecto. Después, se deberá seguir los siguientes pasos:
 * Ejecutar el siguiente comando para instalar las dependencias especificadas en el archivo requirements.txt:
