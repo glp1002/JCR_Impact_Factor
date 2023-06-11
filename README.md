@@ -5,11 +5,11 @@
 ![Logo de Paperrank](./web_application/paperrank/static/images/logo_bl.png)
 
 ## Índice
-1. ✍ [Descripción](#descripción)
-2. 👨‍👩‍👧 [Participantes](#participantes)
-3. 📦 [Contenido](#contenido)
-4. 👨‍💻 [Instrucciones para el lanzamiento en local](#instrucciones-para-el-lanzamiento-en-local)
-5. ⚖  [Licencia](#licencia)
+1. [Descripción](#descripción) ✍ 
+2. [Participantes](#participantes) 👨‍👩‍👧 
+3. [Contenido](#contenido) 📦 
+4. [Instrucciones para el lanzamiento en local](#instrucciones-para-el-lanzamiento-en-local) 👨‍💻
+5. [Licencia](#licencia) ⚖ 
 
 ## Descripción 
 _El presente proyecto se centra en la extracción de datos bibliográficos con el fin de calcular y predecir el Factor de Impacto. Esta métrica se utiliza para evaluar la importancia de una revista en un campo científico determinado. Se mide a través de la frecuencia con la que los artículos de la misma han sido citados en un año específico. Se trata de un criterio importante en la evaluación de la calidad del trabajo científico y puede ser de gran ayuda en la selección de la revista adecuada para publicar un nuevo trabajo._
