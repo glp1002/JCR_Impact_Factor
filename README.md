@@ -73,4 +73,3 @@ Después, bastará con descomentar en el fichero de configuración de la aplicac
 
 ## ⚖ Licencia:
 [The GNU General Public License](https://www.gnu.org/licenses/)
-![Licencia](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/GPLv3_Logo.svg/1920px-GPLv3_Logo.svg.png){:width="50%"}
