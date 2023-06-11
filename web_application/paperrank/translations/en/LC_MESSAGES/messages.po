@@ -285,3 +285,7 @@ msgstr "Fill in all fields"
 #: templates/selection.html:73
 msgid "Predecir JCR"
 msgstr "Predict JCR"
+
+#: static/register.js:103
+msgid "El nombre de usuario ya está en uso"
+msgstr "Username already exists"

@@ -100,7 +100,8 @@ document.addEventListener('DOMContentLoaded', function() {
                 isUsernameValid = true;
             } else {
                 // El nombre de usuario ya existe
-                usernameError.textContent = gettext('El nombre de usuario ya está en uso');
+                var texto = gettext("El nombre de usuario ya está en uso");
+                usernameError.textContent = texto;
                 isUsernameValid = false;
               
             }

@@ -37,7 +37,7 @@
             <div class="form-group">
                 <label for="revista">{% trans %}Revista{% endtrans %}:</label>
                 <select class="form-control" id="revista" name="revista" required>
-                    <option value="" disabled selected>{% trans %}Selecciona una opción{% endtrans %}</option>
+                    <option value="" disabled selected>{% trans %}Selecciona una categoría primero{% endtrans %}</option>
                     {% for revista in revistas %}
                     <option value="{{ revista }}">{{ revista }}</option>
                     {% endfor %}

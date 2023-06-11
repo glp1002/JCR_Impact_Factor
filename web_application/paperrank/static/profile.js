@@ -63,6 +63,8 @@ document.addEventListener('DOMContentLoaded', function () {
                 .then(response => {
                     if (response.ok) {
                         console.log('La imagen se ha guardado exitosamente');
+                        // Recargar la página sin usar la caché del navegador
+                        location.reload();
                     } else {
                         console.error('Error al guardar la imagen');
                     }
@@ -75,7 +77,7 @@ document.addEventListener('DOMContentLoaded', function () {
         fileReader.readAsDataURL(file);
     });
 
-    
+
 
     selectFileBtn.addEventListener('click', function () {
         fileInput.click(); // Simular un clic en el input de archivo
@@ -100,6 +102,9 @@ document.addEventListener('DOMContentLoaded', function () {
                 .then(response => {
                     if (response.ok) {
                         console.log('La imagen se ha guardado exitosamente');
+                        // Recargar la página sin usar la caché del navegador
+                        location.reload();
+
                     } else {
                         console.error('Error al guardar la imagen');
                     }
@@ -111,6 +116,25 @@ document.addEventListener('DOMContentLoaded', function () {
 
         fileReader.readAsDataURL(file);
     });
+
+
+    var url = "/get_profile_picture";
+
+    fetch(url)
+        .then(response => {
+            if (response.ok) {
+                return response.blob();
+            } else {
+                throw new Error("No se pudo obtener la imagen");
+            }
+        })
+        .then(blob => {
+            var imageUrl = URL.createObjectURL(blob);
+            $("#profile-picture").attr("src", imageUrl);
+        })
+        .catch(error => {
+            console.log("Error al obtener la imagen:", error);
+        });
 
 });
 
@@ -142,24 +166,23 @@ function habilitarEdicion() {
     }
 }
 
-$(document).ready(function() {
+$(document).ready(function () {
     var url = "/get_profile_picture";
-    
+
     fetch(url)
-      .then(response => {
-        if (response.ok) {
-          return response.blob();
-        } else {
-          throw new Error("No se pudo obtener la imagen");
-        }
-      })
-      .then(blob => {
-        var imageUrl = URL.createObjectURL(blob);
-        $("#profile-picture").attr("src", imageUrl);
-      })
-      .catch(error => {
-        console.log("Error al obtener la imagen:", error);
-      });
-  });
-  
-  
+        .then(response => {
+            if (response.ok) {
+                return response.blob();
+            } else {
+                throw new Error("No se pudo obtener la imagen");
+            }
+        })
+        .then(blob => {
+            var imageUrl = URL.createObjectURL(blob);
+            $("#profile-picture").attr("src", imageUrl);
+        })
+        .catch(error => {
+            console.log("Error al obtener la imagen:", error);
+        });
+});
+

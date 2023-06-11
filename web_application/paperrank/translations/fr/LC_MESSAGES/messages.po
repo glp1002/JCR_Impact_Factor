@@ -286,3 +286,7 @@ msgstr "Remplissez tous les champs"
 #: templates/selection.html:73
 msgid "Predecir JCR"
 msgstr "Prédire le JCR"
+
+#: static/register.js:103
+msgid "El nombre de usuario ya está en uso"
+msgstr "Le nom est en use"

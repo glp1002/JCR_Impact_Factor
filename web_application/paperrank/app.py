@@ -16,16 +16,17 @@ import psycopg2
 from flask import (Flask, g, jsonify, redirect, render_template, request,
                    send_file, session, url_for)
 from flask_babel import Babel, gettext
+# from flask_babel_js import BabelJS
 from flask_session import Session
 
 from .backend.controlador.controlador import Controlador
 from .backend.modelo.modelo import Modelo
 
-# from flask_login import LoginManager
-
 #from flask_wtf import CSRFProtect
 #from flask_cors import CORS # TODO
 # CSRFProtect(app)
+
+
 
 # Creación de la aplicación
 app = Flask(__name__)
@@ -37,17 +38,17 @@ app.secret_key = secret_key
 # Configuración de Flask-Session
 app.config['SESSION_TYPE'] = 'filesystem'
 app.config['SESSION_FILE_DIR'] = '/tmp/flask_session'
-app.config['SESSION_COOKIE_SECURE'] = True
-app.config['REMEMBER_COOKIE_SECURE'] = True
+app.config['SESSION_COOKIE_SECURE'] = False
+app.config['REMEMBER_COOKIE_SECURE'] = False
 app.config['SESSION_COOKIE_HTTPONLY'] = True
 app.config['SESSION_COOKIE_SAMESITE'] = 'Strict'
 app.config['SESSION_COOKIE_NAME'] = 'your_session_name'
-app.config['SECRET_KEY'] = os.urandom(24)
+# app.config['SECRET_KEY'] = os.urandom(24)
+
 # Inicialización de Flask-Session
 Session(app)
 
-
-# Configuración de la BBDD
+# Configuración de la BBDD (IMPORTANTE: DESCOMENTAR AL LANZAR EN HEROKU)
 url_database = os.environ.get("DATABASE_URL")
 def get_db():
     if 'db' not in g:
@@ -57,7 +58,7 @@ def get_db():
         )
     return g.db
 
-# Credenciales de la BBDD
+# Credenciales de la BBDD (IMPORTANTE: DESCOMENTAR AL LANZAR EN LOCAL)
 # app.config['DATABASE'] = {
 #     'host':"localhost",
 #     'port':"5432",
@@ -69,12 +70,6 @@ def get_db():
 #     if 'db' not in g:
 #         g.db = psycopg2.connect(**app.config['DATABASE'])
 #     return g.db
-
-def refresh():
-    modelo = Modelo(get_db())
-    controlador = Controlador(modelo)
-    return controlador
-
 
 # Variables globales de internacionalización con Babel
 app.config['BABEL_DEFAULT_LOCALE'] = 'en'
@@ -97,12 +92,17 @@ def get_locale():
         app.config['BABEL_DEFAULT_LOCALE'] = lang
         return app.config['BABEL_DEFAULT_LOCALE']
 
-Babel(app, locale_selector=get_locale)
+babel = Babel(app, locale_selector=get_locale)
+# babel_js = BabelJS(app, locale_selector=get_locale)
+# babel.init_app(app)
+# babel_js.init_app(app)
 
-@app.before_request
-def before_request():
-    if 'lang' in request.args:
-        session['LANGUAGES'] = request.args.get('lang')
+
+# Refrescar la conexión a la BBDD
+def refresh():
+    modelo = Modelo(get_db())
+    controlador = Controlador(modelo)
+    return controlador
 
 # Decorador para verificar la autenticación del usuario
 def login_required(f):
@@ -113,7 +113,13 @@ def login_required(f):
         return f(*args, **kwargs)
     return decorated_function
 
-# Endpoints
+# Se ejecuta antes de realizar cualquier request
+@app.before_request
+def before_request():
+    if 'lang' in request.args:
+        session['LANGUAGES'] = request.args.get('lang')
+
+# Endpoints ERRORES
 @app.errorhandler(404)
 def handle_other(err):
     return render_template('error404.html')
@@ -122,6 +128,7 @@ def handle_other(err):
 def handle_other(err):
     return render_template('error500.html')
 
+# Endpoints RUTAS
 @app.route('/')
 @login_required
 def home():
@@ -267,7 +274,8 @@ def prediction():
     predictions2 = [round(numero[0],3) for numero in predictions2]
     predictions2 = list(zip(modelos_deseados, predictions2)) # [(modelo, valor), (moelo2, valor2)...]
     
-    return render_template('prediction.html', predictions=predictions, predictions2=predictions2, username=session.get('username'), revista=revista)
+    return render_template('prediction.html', predictions=predictions, predictions2=predictions2, 
+                           username=session.get('username'), revista=revista)
 
 @app.route('/selection', methods=['GET', 'POST'])   
 @login_required
@@ -296,7 +304,8 @@ def formulario():
             controlador.insert_models()       
             modelos = controlador.get_model_names_and_errors()
         
-        return render_template('selection.html', categorias=categorias, revistas=[], modelos=modelos, username=session.get('username'))
+        return render_template('selection.html', categorias=categorias, revistas=[], modelos=modelos, 
+                               username=session.get('username'))
     
 @app.route('/journal/<categoria>', methods=['GET'])
 @login_required
@@ -316,7 +325,6 @@ def get_profile():
         return render_template('profile.html', email=email, username=username)
     else:
         new_username = request.form.get('nombre')
-        # new_password = request.json['password'] TODO
         new_email = request.form.get('correo')
         done = controlador.update_user(new_username, new_email, email)
         if done == True:
@@ -341,9 +349,6 @@ def guardar_imagen():
         return jsonify({'error': 'La imagen no se ha guardado exitosamente'})
 
 
-
-
-
 @app.route('/get_profile_picture', methods=['GET'])
 @login_required
 def get_profile_picture():
@@ -351,7 +356,8 @@ def get_profile_picture():
     image_base64 = controlador.get_profile_picture(session.get('username'))
     
     if image_base64:
-        # Decodificar la imagen base64 (guardada en bytea en postgres) y convertirla en un objeto de BytesIO
+        # Decodificar la imagen base64 (guardada en bytea en postgres) 
+        # y convertirla en un objeto de BytesIO
         image_data = base64.b64decode(image_base64)
         image_stream = BytesIO(image_data)
         
@@ -360,10 +366,6 @@ def get_profile_picture():
     # Si no se encuentra la nueva imagen, se devuelve la imagen original del HTML
     return send_file("static/images/perfil.jpg", mimetype='image/jpeg')
 
-# Recuperar contraseña
-@app.route('/recover', methods=['GET'])
-def recover_password():
-    return render_template('recover.html')
 
 # Ayuda
 @app.route('/help', methods=['GET'])
@@ -425,6 +427,7 @@ def delete_user(user_id):
     return jsonify(done)
 
 
+# Inicio de la aplicación
 if __name__ == '__main__':
     controlador = refresh()
     controlador.initialize_database()
