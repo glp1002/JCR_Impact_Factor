@@ -39,14 +39,15 @@ Ficheros:
 * README.md: fichero actual
 
 ## Instrucciones para el lanzamiento en local 
-Durante la etapa de desarrollo, se deberá lanzar la aplicación de forma local en el servidor de Flask. Para ello, en la carpeta web_application/paperrank hay dos ficheros de procesamiento por lotes, uno para Windows y otro para Linux.
-* En Windows: ```win_start.cmd```
-* En Linux: ```./lin_start.sh```
+Durante la etapa de desarrollo, se deberá lanzar la aplicación de forma local en el servidor de Flask. Los pasos a seguir son los siguientes:
 
-Algunos detalles a tener en cuenta son los siguientes:
 ### Entorno virtual (opcional pero recomendado)
 Antes de comenzar, es una buena práctica configurar un entorno virtual, ya que permite aislar las dependencias del proyecto y evitar conflictos con otras aplicaciones. Para configurar un entorno virtual, sigue los siguientes pasos:
 * Abrir un terminal y navegar hasta la carpeta raíz del proyecto.
+* Instalar el paquete python3-venv con el siguiente comando:
+```
+sudo apt install python3-venv
+```
 * Ejecutar el siguiente comando para crear un nuevo entorno virtual:
 ```
 python3 -m venv nombre_entorno_virtual
@@ -61,7 +62,11 @@ python3 -m venv nombre_entorno_virtual
 Una vez configurado el entorno virtual (si se ha decidido utilizar uno), el siguiente paso es instalar Flask y las dependencias necesarias para la ejecución de la aplicación. Será preciso navegar hasta la carpeta raíz del proyecto. Después, se deberá seguir los siguientes pasos:
 * Ejecutar el siguiente comando para instalar las dependencias especificadas en el archivo requirements.txt:
 ```pip install -r requirements.txt```
-* Ejecutar los _script_ mencionados al inicio. El servidor se abrirá en http://localhost:5000.
+* En la carpeta web_application/paperrank hay dos ficheros de procesamiento por lotes, uno para Windows y otro para Linux.
+  - En Windows: ```win_start.cmd```
+  - En Linux: ```./lin_start.sh```
+* El servidor se abrirá en http://localhost:5000.
+
 ### Base de datos
 Para poder ejecutar la aplicación en local, será necesario crear una base de datos PostgreSQL y conectarla al código de la aplicación.
 * Descargar e instalar PostgreSQL desde el sitio web oficial: https://www.postgresql.org/download/.
@@ -76,7 +81,6 @@ Para poder ejecutar la aplicación en local, será necesario crear una base de d
 * Se puede verificar que la base de datos se haya creado correctamente ejecutando el comando ```\l```, que mostrará una lista de todas las bases de datos disponibles.
 
 Después, bastará con descomentar en el fichero de configuración de la aplicación (app.py) la opción para conectar con la base de datos local e incluir ahí las credenciales de la base de datos nueva.
-
 
 
 ## Licencia
