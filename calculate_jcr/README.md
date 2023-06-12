@@ -2,12 +2,7 @@
 
 
 ## Descripción:
-_Repositorio para el TFG sobre la estimación del factor de impacto de las publicaciones científicas._
-
-## Participantes:
-* Virginia Ahedo García
-* Álvar Arnaiz González
-* Gadea Lucas Pérez
+_Módulos para el cálculo del JCR (Journal Impact Factor) en función de los datos extraídos de la web._
 
 ## Contenido:
 En esta carpeta se almacena el código necesario para el cálculo del JCR.
@@ -20,3 +15,4 @@ El contenido de esta sección es el siguiente:
     * __jcr_obtenido.csv__: JCR de Crossref
     * __diferencias.csv__: Diferencias entre los dos anteriores
     * __ranking.csv__: Ranking de revistas en función del JCR de Crossref 
+* __README.md__: fichero actual
