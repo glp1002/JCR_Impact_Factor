@@ -58,7 +58,7 @@ De igual forma se recogen los resultados en los CSVs (codificados en UTF-8) con 
 
 % Paginación
 
-Otra de las mejoras que se implementa en el prototipo en la capacidad de navegar a través de las distintas páginas de resultados de Google Scholar. Para ello, se incluye un nuevo campo en la consulta de búsqueda que irá aumentando de 10 en 10 por cada página de resultados nueva que se consulte.
+Otra de las mejoras que se implementa en el prototipo es la capacidad de navegar a través de las distintas páginas de resultados de Google Scholar. Para ello, se incluye un nuevo campo en la consulta de búsqueda que irá aumentando de 10 en 10 por cada página de resultados nueva que se consulte.
 Ahora ya se obtiene un número de resultados considerable (aproximadamente 100). Estos resultados se guardarán también en los CSVs (codificados en UTF-8) con los siguientes nombres: \texttt{BBDD3.csv} y \texttt{BBDD4.csv}.
 
 % CAPTCHA y proxies
@@ -71,7 +71,7 @@ El número de solicitudes exitosas es demasiado bajo para cumplir su función en
 
 Tras distintas pruebas, se encontró una forma de superar la barrera del \textit{captcha}. A saber: añadiendo a la \textit{url} una sección de texto extra que permite suprimir esta excepción durante un periodo concreto de tiempo. Así pues, logramos ejecutar con éxito el \textit{script} tantas veces como fuese necesario. Sin embargo, esta solución tampoco es válida a largo plazo. Si se intenta ejecutar de nuevo el programa, en otra sesión, la dirección vuelve a ser inválida. Además, es un remedio poco práctico, ya que se debe concatenar distintos parámetros y cadenas de texto que, dependiendo del momento y el contexto en que se ejecute, pueden no servir.
 
-Como la propuesta anterior no fue satisfactoria, se siguieron buscando opciones. La siguiente propuesta consistía en usar un agente de usuario distinto para cada solicitud\footnote{Un agente de usuario es cualquier software, que actúa en nombre de un usuario, que <<recupera, presenta y facilita la interacción del usuario final con el contenido web>>. Algunos ejemplos destacados de agentes de usuario son los navegadores web. La cadena User-Agent es uno de los criterios por los cuales los rastreadores web pueden ser excluidos del acceso a ciertas partes de un sitio web utilizando el Estándar de exclusión de robots (\texttt{archivo robots.txt}).}. De esta forma <<enmascaramos>> nuestra dirección IP. La biblioteca Request de Python ofrece métodos para lograrlo. Dicho esto, se implementó un método que extrae \textit{proxies} de listas públicas y gratuitas de Internet (e.g.: \href{https://www.proxyscrape.com/free-proxy-list}{proxyscrape.com}). Se prueba la ejecución del prototipo una vez más y, finalmente, funciona sin inconvenientes. Ahora ya se puede decir que el proyecto es \textbf{viable}.
+Como la propuesta anterior no fue satisfactoria, se siguieron buscando opciones. La siguiente propuesta consistía en usar un agente de usuario distinto para cada solicitud\footnote{Un agente de usuario es cualquier software, que actúa en nombre de un usuario, que <<recupera, presenta y facilita la interacción del usuario final con el contenido web>>. Algunos ejemplos destacados de agentes de usuario son los navegadores web. La cadena User-Agent es uno de los criterios por los cuales los rastreadores web pueden ser excluidos del acceso a ciertas partes de un sitio web utilizando el Estándar de exclusión de robots (\texttt{archivo robots.txt}).}. De esta forma <<enmascaramos>> nuestra dirección IP. La biblioteca Request de Python ofrece métodos para lograrlo. Dicho esto, se implementó un método que extrae \textit{proxies} de listas públicas y gratuitas de Internet (e.g., \href{https://www.proxyscrape.com/free-proxy-list}{proxyscrape.com}). Se prueba la ejecución del prototipo una vez más y, finalmente, funciona sin inconvenientes. Ahora ya se puede decir que el proyecto es \textbf{viable}.
 
 
 % DOI y Crossref
@@ -83,7 +83,7 @@ La siguiente meta de nuestro prototipo es la obtención del DOI, que es un campo
 	\item Acceder a la página del artículo en cuestión y extraerlo de dicha página.
          \item Introducir el nombre del artículo en la página de \href{https://www.crossref.org/}{Crossref} o similares, que te permiten obtener el DOI del artículo cuyo nombre pases como parámetro.
 \end{itemize}
-Como conclusión, se descarta la primera opción tras hacer una breve prueba, ya que falla en seguida. Se descarta también la segunda opción, ya que cada página sitúa el DOI en un sitio haciendo muy difícil la búsqueda del mismo a través de un algoritmo. Por lo tanto, la opción más adecuada en este caso es la tercera. Aunque supone una búsqueda extra en la complejidad algorítmica del prototipo, es la única forma segura de calcular el DOI sin equivocaciones. Por lo tanto, se incluye en el bucle del prototipo un nivel extra de profundidad de búsqueda.
+Como conclusión, se descarta la primera opción tras hacer una breve prueba, ya que falla enseguida. Se descarta también la segunda opción, ya que cada página sitúa el DOI en un sitio haciendo muy difícil la búsqueda del mismo a través de un algoritmo. Por lo tanto, la opción más adecuada en este caso es la tercera. Aunque supone una búsqueda extra en la complejidad algorítmica del prototipo, es la única forma segura de calcular el DOI sin equivocaciones. Por lo tanto, se incluye en el bucle del prototipo un nivel extra de profundidad de búsqueda.
 
 Para hacer la búsqueda en Crossref es necesario indicar tanto el título como el año de publicación, a fin de asegurarnos de que se obtiene exactamente el artículo que deseamos y no otros similares. Además, es preciso tener en cuenta que Crossref no permite a los programas hacer búsquedas desde la misma interfaz que los usuarios (para evitar que los programas bloqueen las búsquedas de los usuarios). Por lo tanto, se realizarán las búsquedas en la dirección donde se ubica la API creada por Crossref especialmente para la extracción de datos por parte de programas.
 
@@ -133,8 +133,6 @@ La segunda fase del proyecto consiste en predecir y estimar, a partir de los dat
 \subsection{Cálculo del JCR}
 Antes de comenzar a predecir el JCR, se ha desarrollado un algoritmo para calcular el Índice de Impacto de las revistas científicas a partir de los datos extraídos en la fase anterior. Para comprobar la exactitud de los resultados obtenidos, se ha generado un gráfico de cajas en el que se contrastan los valores obtenidos con los datos reales del JCR. 
 
-%\input{./img/cajas.pgf}
-
 \imagen{diagrama_cajas}{Dispersión entre las diferencias del JCR calculado y el real en función del año}{1}
 
 Al analizar el gráfico, se observa claramente que los años más antiguos presentan un margen de error mucho más elevado debido a la falta de datos de Crossref en esos años. De esta manera, se puede asegurar que el módulo desarrollado es preciso y confiable, aunque se debe tener en cuenta la limitación de la falta de datos para los años más antiguos.
@@ -171,20 +169,21 @@ En nuestro caso, tanto XGBoost como Stacking han demostrado ser enfoques efectiv
 \subsubsection{Conjunto de datos}
 Para el conjunto inicial de datos, se ha realizado una selección cuidadosa de entre toda la información extraída, eligiendo los siguientes atributos: el número de citas, el factor de impacto JCR y la diferencia entre los datos extraídos y los valores reales. Estos atributos han sido tomados exclusivamente de los años comprendidos entre el 2018 y el 2020. Además, se ha incluido el número de citas correspondiente al año 2021. La elección de estos años se basa en la observación de que presentan menor error en los datos extraídos, lo cual contribuye a mejorar la calidad de los atributos seleccionados. Finalmente, se realizará la predicción del Factor de Impacto JCR para el año 2021.
 
-\imagen{pipeline}{Representación esquemática de los datos de entrenamiento (X,y)}{1}
+\imagen{pipeline}{Representación esquemática de los datos de entrenamiento ($X$,$y$)}{1}
+
+En la Figura \ref{fig:pipeline}, $X$ representa las variables de entrada al conjunto de entrenamiento e $y$ la clase a predecir.
 
 Por otro lado, cuando se trata de valores nulos o vacíos (i.e.,\textit{missing values}), se ha utilizado la mediana como método imputación de valores.
 
 \subsubsection{Entrenamiento de los modelos}
 Para el entrenamiento, se ha llevado a cabo una técnica de validación cruzada anidada (\textit{nested cross-validation}) con el fin de evaluar y seleccionar el mejor modelo posible para predecir el Índice de Impacto de las revistas científicas. Esta técnica implica el uso de dos niveles de validación cruzada: en el nivel externo se evalúa el desempeño general del modelo, mientras que en el nivel interno se ajustan los parámetros del modelo mediante una búsqueda en rejilla (\texttt{grid search}) para encontrar la mejor combinación de hiperparámetros. La ventaja de esta técnica es que permite evaluar la capacidad de generalización del modelo de manera más realista, evitando la selección de modelos sobreajustados (\textit{overfitting}). En comparación con una validación cruzada al uso, la técnica de validación cruzada anidada puede resultar más costosa en términos de cómputo, pero proporciona resultados más precisos y fiables.
 
-\imagen{cv}{Esquema de la validación cruzada anidada}{1}
+\imagen{cv}{Esquema de la validación cruzada anidada (5 repeticiones, 2 grupos)}{1}
 
 \subsubsection{Evaluación de los modelos}
-Finalmente, tras la evaluación de todos los modelos, se seleccionan aquellos que han obtenido mejores resultados. Como se puede observar en los siguientes gráficos, los modelos con mayor precisión son AdaBoost Regressor, Random Forest Regressor y XGB Regressor.
+Finalmente, tras la evaluación de todos los modelos, se seleccionan aquellos que han obtenido mejores resultados. Como se puede observar en el siguiente gráfico (ver Figura \ref{fig:mse}), los modelos con mayor precisión son AdaBoost Regressor, Random Forest Regressor y XGB Regressor.
 
-\imagen{mse}{Estimación del RMSE de los modelos evaluados en la experimentación}{0.6}
-\imagen{desviacion.png}{Desviación de las estimaciones}{0.6}
+\imagen{mse}{Estimación del RMSE de los modelos evaluados en la experimentación}{0.7}
 
 Los motivos por los cuales se han obtenido estos resultados pueden ser diversos. Por un lado, podemos ver que los modelos de \textit{ensemble} como AdaBoost, Random Forest y XGBoost obtienen, en general, mejores resultados. Esto puede deberse a su capacidad para capturar relaciones no lineales en los datos. Así, pueden modelar relaciones complejas entre las variables de entrada y la variable de salida, lo cual es especialmente útil cuando existen patrones no lineales en los datos. 
 
@@ -210,7 +209,7 @@ Uno de estos aspectos es la imposibilidad de realizar con Heroku Postgres\footno
 
 Otro aspecto relevante en cuanto a Heroku es el comportamiento inconstante en la carga de las variables de sesión. En este caso, se están considerando variables de sesión tanto el idioma como el nombre del usuario que ha iniciado sesión. En algunas ocasiones, estas variables se cargan correctamente, mientras que en otras ocasiones no se cargan como se espera. Esto es particularmente desconcertante, ya que se espera que el comportamiento de las variables de sesión sea determinista y consistente. Se sospecha que este problema está relacionado con la velocidad de respuesta de la aplicación alojada en Heroku. Es posible que, debido a la naturaleza distribuida de la plataforma y a las variaciones en la carga del servidor, la respuesta del sistema para cargar las variables de sesión no siempre sea uniforme. Esto puede dar lugar a una experiencia inconsistente para los usuarios, ya que las variables de sesión pueden o no estar disponibles en diferentes momentos.
 
-Por otro lado, en relación con la librería psycopg2 (que se ha usado para realizar la conexión a la base de datos), se ha descubierto (utilizando la función \texttt{copy\_from}) que no admite nombres de columnas en mayúsculas, lo cual es incompatible con la notación de PostgreSQL. En la documentación de psicopg2 se asegura que \texttt{copy\_from} funciona con la misma sintaxis de PostgreSQL, mientras que, en la documentación de PostgreSQL encontramos que <<\textit{Key words and unquoted identifiers are case insensitive}>>~\cite{bug}. Se ha notificado este error en la \textit{issue} \href{https://github.com/psycopg/psycopg2/issues/1581}{\#1581}.
+Por otro lado, en relación con la librería \textit{psycopg2} (que se ha usado para realizar la conexión a la base de datos), se ha descubierto (utilizando la función \texttt{copy\_from}) que no admite nombres de columnas en mayúsculas, lo cual es incompatible con la notación de PostgreSQL. En la documentación de psicopg2 se asegura que \texttt{copy\_from} funciona con la misma sintaxis de PostgreSQL, mientras que, en la documentación de PostgreSQL encontramos que <<\textit{Key words and unquoted identifiers are case insensitive}>>~\cite{bug}. Se ha notificado este error en la \textit{issue} \href{https://github.com/psycopg/psycopg2/issues/1581}{\#1581}.
 
 
 

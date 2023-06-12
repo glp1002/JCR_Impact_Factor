@@ -8,7 +8,7 @@ Así pues, en esta sección se describirán y analizarán en detalle los diferen
 
 \section{Diseño de los datos}
 
-Comenzaremos detallando el diseño de los datos de la aplicación. En este caso, para el almacenamiento de la información, se ha utilizado una base de datos PostgreSQL, la cual es accedida a través de la aplicación haciendo uso de la librería de Python psycopg2. 
+Comenzaremos detallando el diseño de los datos de la aplicación. En este caso, para el almacenamiento de la información, se ha utilizado una base de datos PostgreSQL, la cual es accedida a través de la aplicación haciendo uso de la librería de Python \textit{psycopg2}. 
 
 \subsection{Diccionario de datos}
 A continuación, se describirán las tablas que componen la base de datos y se explicará la estructura y los atributos de cada una de ellas.
@@ -73,36 +73,59 @@ A continuación se mostrará un sencillo diagrama relacional (ver Figura \ref{fi
 
 
 \section{Diseño procedimental}
-TODO: diagramas de secuencia
+Todo el diseño procedimental se detalla en los siguientes diagramas de secuencia: \ref{fig:diag_sec_1}, \ref{fig:diag_sec_2}, \ref{fig:diag_sec_3}, \ref{fig:diag_sec_4} y \ref{fig:diag_sec_5}. 
 
+\imagen{diag_sec_1}{Diagrama de secuencia de inicio de sesión}{1}
+
+\imagen{diag_sec_2}{Diagrama de secuencia de registro}{1}
+
+\imagen{diag_sec_3}{Diagrama de secuencia de la consulta de revistas}{1}
+
+\imagen{diag_sec_4}{Diagrama de secuencia de la consulta del histórico del JCR de una revista}{1}
+
+\imagen{diag_sec_5}{Diagrama de secuencia de la predicción del JCR de una revista}{1}
 \section{Diseño arquitectónico}
 
-Se pretende desarrollar una aplicación web sencilla que utilizará una arquitectura cliente-servidor de dos capas.
+Se ha desarrollado una aplicación web sencilla que usa una arquitectura cliente-servidor de dos capas (ver Figura \ref{fig:arquitectura1}).
 
-La funcionalidad principal de la aplicación será predecir el índice de impacto de una lista de revistas elegida por el usuario. Además, se proporcionarán gráficos e información adicional para ayudar a los usuarios a entender mejor los resultados. Por otro lado, se podrán distinguir dos perfiles de usuario: el usuario normal y el administrador. El administrador tendrá permisos para ``reentrenar'' la red que predice los índices y gestionar al resto de usuarios.
+\imagen{arquitectura1}{Arquitectura Cliente-Servidor de dos capas}{0.8}
 
-El \textit{backend} se programará en Python y el \textit{frontend} con HTML, CSS y JavaScript. Para ello, se utilizará Flask, que se trata de un \textit{framework} de Python para el desarrollo de aplicaciones web.
+Una arquitectura Cliente-Servidor de dos capas para una aplicación web presenta varias ventajas significativas. En primer lugar, permite una clara separación de responsabilidades entre el cliente y el servidor, lo que facilita el mantenimiento y la escalabilidad del sistema. Además, esta arquitectura permite un rendimiento óptimo, ya que las tareas se distribuyen eficientemente entre el cliente y el servidor. 
 
-Para la conexión con la base de datos, se hará uso de \textit{psycopg2}, que es un módulo de Python que proporciona una interfaz para conectarse y interactuar con bases de datos PostgreSQL. 
-Es una de las librerías más populares y ampliamente utilizadas para trabajar con PostgreSQL en Python. Además, es compatible con la mayoría de las versiones de Python y es muy fácil de utilizar.
+Por otro lado, se ha programado el \textit{backend} en tres capas, usando una arquitectura Modelo-Vista-Controlador (MVC). Esta arquitectura promueve una clara separación de responsabilidades, lo que facilita la organización y mantenimiento del código. El modelo se encarga del acceso a datos, la vista se ocupa de la presentación de la interfaz de usuario, y el controlador de la lógica de negocio (además de coordinar las interacciones entre el modelo y la vista).
 
-Por otro lado, para la autenticación, se han evaluado varias opciones que ofrece Flask, a saber: Flask-Login, Flask-Security y Flask-JWT. 
-Finalmente, se ha elegido Flask-Login debido a su sencillez y facilidad de uso. Esta opción permite al usuario iniciar sesión con un nombre de usuario y una contraseña y almacena la información de la sesión en las \textit{cookies} del navegador. Este paquete incluye la protección de rutas con decoradores.
+Además, la arquitectura MVC favorece la reutilización de código, ya que los componentes son independientes y pueden ser modificados o reemplazados sin afectar a los demás. Esto aumenta la flexibilidad y permite un desarrollo más eficiente.
+
+\imagen{arquitectura2}{Arquitectura Modelo-Vista-Controlador de tres capas}{0.2}
 
 
 \section{Diseño de Interfaces}
 La aplicación estará conformada por seis interfaces principales, que se detallan a continuación:
 
 \begin{itemize}
-    \item Interfaces iniciales con funciones de inicio de sesión y registro, verificando la validez de los datos y permitiendo recuperar contraseñas.
-    \item Interfaz principal para seleccionar una revista y un año, con opción de calcular el JCR y elegir modelos de predicción.
+    \item Interfaces iniciales con funciones de inicio de sesión y registro, verificando la validez de los datos.
+    \item Interfaz principal para seleccionar una revista y los modelos de predicción.
     \item Interfaces con el histórico y la predicción del JCR, además de gráficos representativos.
     \item Interfaz con una lista de las revistas disponibles con barra de búsqueda.
     \item Área de usuario donde modificar las credenciales.
 \end{itemize}
 
-% METER PROTOTIPOS 
+En la etapa inicial del proyecto, se procedió al diseño de \textit{mockups} de las interfaces de la aplicación. Un \textit{mockups} se refiere a una representación visual estática de una interfaz de usuario, que muestra de manera aproximada la disposición de elementos, la estructura y la apariencia general de la aplicación. Los \textit{mockups} permiten visualizar y evaluar el diseño antes de implementarlo, lo que ayuda a identificar posibles mejoras y realizar ajustes necesarios de manera temprana.
 
+A continuación, adjunto los \textit{mockups} diseñados al inicio del proyecto. Es preciso recordar que son una representación preliminar de las interfaces y sirven como punto de partida para el desarrollo de la aplicación. Estos diseños han evolucionado y se han ido refinando a medida que ha avanzado el proyecto.
 
+\imagen{inicio_sesion}{\textit{Mockup} de inicio de sesión}{1}
+\imagen{registro}{\textit{Mockup} de registro}{1}
+\imagen{principal}{\textit{Mockup} de página principal}{1}
+\imagen{prediccion}{\textit{Mockup} de predicción}{1}
 
+Para contrastar con los \textit{mockups} iniciales, también se adjuntan las interfaces definitivas del proyecto. Estas interfaces representan la versión final del diseño de la aplicación y reflejan los cambios y mejoras implementados para lograr una experiencia de usuario óptima y satisfactoria. 
 
+El cambio más relevante a destacar se encuentra en la interfaz principal. Se puede apreciar que el menú de selección del año ha desaparecido. Esta decisión es lógica puesto que los datos de los que disponemos en la base de datos son limitados. 
+
+\imagen{inicio_sesion2}{Interfaz definitiva de inicio de sesión}{1}
+\imagen{registro2}{Interfaz definitiva de registro}{1}
+\imagen{principal2}{Interfaz definitiva de página principal}{1}
+\imagen{prediccion2}{Interfaz definitiva de predicción}{1}
+
+Finalmente, es importante destacar que el diseño de las interfaces con CSS ha sido creado desde cero, sin utilizar plantillas preexistentes. Esta decisión ha permitido una mayor flexibilidad y adaptación a las necesidades específicas del proyecto. Para asegurar la responsividad de la aplicación, se han empleado elementos de Bootstrap, garantizando así una experiencia de usuario consistente en diferentes dispositivos y tamaños de pantalla. Además, tanto el logo de la aplicación como la animación inicial han sido creados por la alumna utilizando Photoshop, lo que añade un toque personal y distintivo al aspecto visual de la aplicación.

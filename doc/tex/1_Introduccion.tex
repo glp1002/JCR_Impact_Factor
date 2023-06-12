@@ -7,7 +7,7 @@ Por su propia naturaleza, el Factor de Impacto se calcula con carácter retrospe
 
 Con esta problemática en mente, creemos que puede ser muy útil para la comunidad científica utilizar los datos bibliográficos que hay disponibles en la web como \textit{inputs} de modelos de aprendizaje automático para estimar el Índice de Impacto que tendrán las distintas revistas científicas en el año en curso (o en años futuros).
 
-A día de hoy la herramienta Google Scholar recoge información extremadamente actualizada sobre la publicación y citación de artículos científicos (podría decirse que se actualiza prácticamente en tiempo real). Por ello, al inicio del proyecto, consideramos Google Scholar como primera opción de donde extraer los datos. Sin embargo, debido a la gran cantidad de limitaciones de esta herramienta (que fueron descubriéndose a lo largo de la creación de prototipos), se terminó descartando esta opción. Posteriormente, se probaron otras fuentes como Scopus o WoS (Web of Science) pero, finalmente, nos terminamos decantando por Crossref. Esta elección se justificará de forma detallada más adelante.
+A día de hoy, la herramienta Google Scholar recoge información extremadamente actualizada sobre la publicación y citación de artículos científicos (podría decirse que se actualiza prácticamente en tiempo real). Por ello, al inicio del proyecto, consideramos Google Scholar como primera opción de donde extraer los datos. Sin embargo, debido a la gran cantidad de limitaciones de esta herramienta (que fueron descubriéndose a lo largo de la creación de prototipos), se terminó descartando esta opción. Posteriormente, se probaron otras fuentes como Scopus o WoS (Web of Science) pero, finalmente, nos terminamos decantando por Crossref. Esta elección se justificará de forma detallada más adelante.
 
 En resumen, el \textit{output} esperado del proyecto será una aplicación web de tipo open-access, la cual implementará algoritmos de aprendizaje supervisado que utilizarán los datos históricos extraídos para predecir el valor del Índice de Impacto de todas las revistas científicas indexadas en el JCR. Dicha aplicación se dejará en un repositorio público, para así garantizar que pueda ser utilizada por toda la comunidad científica. 
 
@@ -17,5 +17,7 @@ A continuación, se facilitan los hiperenlaces para acceder al resultado final d
 
 \begin{itemize}
     \item \textbf{Repositorio GitHub}: \url{https://github.com/glp1002/JCR_Impact_Factor}
-    \item \textbf{Aplicación web}: \url{https://paperrank.herokuapp.com/}
+    
+    \item \textbf{Aplicación web\footnote{Se ha comprobado que, en ocasiones, el servidor de Heroku provoca algunos fallos al cargar las variables de sesión, consistentes en la expulsión del usuario de su sesión activa. Por lo tanto, es recomendable probar la aplicación lanzándola en un entorno local para evitar este problema y garantizar una experiencia de uso fluida y sin interrupciones.}}: \url{https://paperrank.herokuapp.com/}
+    
 \end{itemize}

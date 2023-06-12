@@ -16,7 +16,6 @@ import psycopg2
 from flask import (Flask, g, jsonify, redirect, render_template, request,
                    send_file, session, url_for)
 from flask_babel import Babel, gettext
-# from flask_babel_js import BabelJS
 from flask_session import Session
 
 from .backend.controlador.controlador import Controlador
@@ -49,27 +48,27 @@ app.config['SESSION_COOKIE_NAME'] = 'your_session_name'
 Session(app)
 
 # Configuración de la BBDD (IMPORTANTE: DESCOMENTAR AL LANZAR EN HEROKU)
-url_database = os.environ.get("DATABASE_URL")
-def get_db():
-    if 'db' not in g:
-        g.db = psycopg2.connect( 
-            url_database, 
-            sslmode='require'
-        )
-    return g.db
-
-# Credenciales de la BBDD (IMPORTANTE: DESCOMENTAR AL LANZAR EN LOCAL)
-# app.config['DATABASE'] = {
-#     'host':"localhost",
-#     'port':"5432",
-#     'user':"postgres",
-#     'password':"Hola=2910",
-#     'dbname':"BBDD"
-# }
+# url_database = os.environ.get("DATABASE_URL")
 # def get_db():
 #     if 'db' not in g:
-#         g.db = psycopg2.connect(**app.config['DATABASE'])
+#         g.db = psycopg2.connect( 
+#             url_database, 
+#             sslmode='require'
+#         )
 #     return g.db
+
+# Credenciales de la BBDD (IMPORTANTE: DESCOMENTAR AL LANZAR EN LOCAL)
+app.config['DATABASE'] = {
+    'host':"localhost",
+    'port':"5432",
+    'user':"postgres",
+    'password':"Hola=2910",
+    'dbname':"BBDD"
+}
+def get_db():
+    if 'db' not in g:
+        g.db = psycopg2.connect(**app.config['DATABASE'])
+    return g.db
 
 # Variables globales de internacionalización con Babel
 app.config['BABEL_DEFAULT_LOCALE'] = 'en'

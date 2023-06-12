@@ -11,7 +11,7 @@ El repositorio (disponible en \url{https://github.com/glp1002/JCR_Impact_Factor}
     \begin{itemize}
         \item \textbf{backend}: en esta carpeta se organiza la estructura de clases para gestionar los datos y la lógica de negocio de la aplicación.
         \item \textbf{diagram\_models}: aquí se encuentran los datos binarios (\textit{pickle}) de los modelos de predicción que va a usar la aplicación.
-        \item \textbf{static}: contiene todos los ficheros CS, JavaScript y multimedia (imágenes, iconos y animaciones).
+        \item \textbf{static}: contiene todos los ficheros CSS, JavaScript y multimedia (imágenes, iconos y animaciones).
         \item \textbf{templates}: contiene todos los ficheros HTML y plantillas Jinja de la aplicación.
         \item \textbf{translations}: contiene todos ficheros <<.po>> y <<.mo>> para la internacionalización al inglés, francés, italiano y español.
         
@@ -43,108 +43,8 @@ Esta sección está destinada a proporcionar información detallada sobre cómo 
 \subsection{Desarrollo local con Flask}
 Durante la etapa de desarrollo, generalmente, se lanza la aplicación de forma local haciendo uso del \textit{framework} de Flask. A continuación se detallan algunos aspectos relevantes a conocer por el programador.
 
-\subsubsection{\textbf{Instalación de dependencias}}
-
-\begin{enumerate}
-\item \textbf{Configuración del entorno virtual}
-
-\nota{Este paso es opcional pero muy recomendado, especialmente si se están manejando otras aplicaciones en el mismo dispositivo.}
-
-   Antes de comenzar, es una buena práctica configurar un entorno virtual, ya que permite aislar las dependencias del proyecto y evitar conflictos con otras aplicaciones. Para configurar un entorno virtual, sigue los siguientes pasos:
-
-   \begin{itemize}
-    \item Abrir un terminal y navegar hasta la carpeta raíz del proyecto.
-    \item Ejecutar el siguiente comando para crear un nuevo entorno virtual:
-      \begin{verbatim}
-      python3 -m venv nombre_entorno_virtual
-      \end{verbatim}
-      (Reemplazar \texttt{nombre\_entorno\_virtual} con el nombre que se desee para el entorno virtual).
-    \item Activar el entorno virtual ejecutando el siguiente comando:
-      \begin{itemize}
-        \item En Windows:
-          \begin{verbatim}
-          nombre_entorno_virtual\Scripts\activate
-          \end{verbatim}
-        \item En Linux:
-          \begin{verbatim}
-          source nombre_entorno_virtual/bin/activate
-          \end{verbatim}
-      \end{itemize}
-  \end{itemize}
-
-\item \textbf{Instalación de Flask y dependencias}    
-
-   Una vez configurado el entorno virtual (si se ha decidido utilizar uno), el siguiente paso es instalar Flask y las dependencias necesarias para la ejecución de la aplicación. Será preciso navegar hasta la carpeta raíz del proyecto. Después, se deberá seguir los siguientes pasos:
-
-   \begin{itemize}
-    \item Ejecutar el siguiente comando para instalar las dependencias especificadas en el archivo \texttt{requirements.txt}:
-      \begin{verbatim}
-      pip install -r requirements.txt
-      \end{verbatim}
-      Este comando buscará las dependencias requeridas en el archivo \texttt{requirements.txt} y las instalará automáticamente.
-    \item Si fuera necesario agregar dependencias adicionales a su proyecto, puedes hacerlo editando el archivo \texttt{requirements.txt}. Es preciso asegurarse de seguir el formato adecuado, donde cada dependencia está en una línea separada y puede incluir una versión específica si es necesario. Por ejemplo:
-      \begin{verbatim}
-      flask==2.0.1
-      sqlalchemy==1.4.20
-      \end{verbatim}
-  \end{itemize}
-
-
-\item \textbf{Verificación de la instalación}
-   Una vez completada la instalación de Flask y las dependencias, conviene verificar que todo se haya configurado correctamente ejecutando un comando de prueba. Por lo general, esto implica ejecutar un servidor de desarrollo local y abrir su aplicación web en un navegador. Aquí hay un ejemplo de cómo hacerlo:
-
- \begin{itemize}
-    \item Ejecutar el siguiente comando para iniciar el servidor de desarrollo de Flask:
-      \begin{itemize}
-        \item En Windows:
-          \begin{verbatim}
-          .\win_start.cmd
-          \end{verbatim}
-        \item En Linux:
-          \begin{verbatim}
-          ./lin_start.sh
-          \end{verbatim}
-          Si no tuviera permisos de ejecución, bastaría con ejecutar previamente el siguiente comando:
-          \begin{verbatim}
-          chmod +x lin_start.sh
-          \end{verbatim}
-      \end{itemize}
-    \item Abrir un navegador web y dirigirse a la siguiente dirección URL: \url{http://localhost:5000}
-  \end{itemize}
-
-   Si todo ha sido configurado correctamente, se debería poder ver la aplicación Paperrank en funcionamiento en el navegador.
-
-\end{enumerate}
-
-
-\subsubsection{Lanzamiento de la aplicación}
-
-Para lanzar la aplicación, bastará con replicar el apartado 3 del apartado anterior <<Verificación de la instalación>>. Es preciso repetir este proceso cada vez que se realiza un cambio en el código.
-
-Por otro lado, se puede lanzar Flask en modo \textit{debug}. Para ello se debe establecer la variable de entorno \texttt{FLASK\_ENV} antes de ejecutar el comando para iniciar el servidor Flask. La forma exacta de hacerlo puede variar ligeramente según el sistema operativo.
-\begin{itemize}
-    \item En Windows:
-    
-        Abrir un terminal (por ejemplo, PowerShell o CMD) y navegar hasta el directorio donde se encuentra la aplicación Flask.
-    
-        Establecer la variable de entorno \texttt{FLASK\_ENV} a <<\textit{development}>> utilizando el siguiente comando:
-    
-        \begin{verbatim}
-        set FLASK_ENV=development
-        \end{verbatim}
-        
-    \item En Linux:
-    
-        Abrir un terminal y navegar hasta el directorio donde se encuentra la aplicación Flask.
-        Establecer la variable de entorno \texttt{FLASK\_ENV} a <<\textit{development}>> utilizando el siguiente comando:
-    
-        \begin{verbatim}
-        export FLASK_ENV=development
-        \end{verbatim}
-\end{itemize}
-
 \subsubsection{Configuración de la base de datos local}
-Para poder ejecutar la aplicación en local, será necesario crear una base de datos Postgres y conectarla al código de la aplicación.
+Para poder ejecutar la aplicación en local, será necesario crear una base de datos PostgreSQL y conectarla al código de la aplicación.
 
 \begin{enumerate}
   \item \textbf{Instalación de PostgreSQL}
@@ -152,7 +52,7 @@ Para poder ejecutar la aplicación en local, será necesario crear una base de d
   \begin{itemize}
     \item Descargar e instalar PostgreSQL desde el sitio web oficial: \url{https://www.postgresql.org/download/}.
     \item Seguir las instrucciones de instalación para susistema operativo específico.
-    \item Durante la instalación, será necesario asegurarse de recordar la contraseña del usuario <<postgres>>, ya que será necesaria más adelante.
+    \item Durante la instalación, será necesario asegurarse de recordar la contraseña del usuario <<postgres>> (usuario predeterminado), ya que será necesaria más adelante. Un detalle a tener en cuenta es que en Linux, el usuario <<postgres>>, no requiere una contraseña inicial. Sin embargo, en nuestro caso es preciso configurar una contraseña para poder establecer conexiones a través de Flask (para ello se puede usar, desde la consola psql, el comando \begin{verbatim}ALTER USER postgres with password 'contraseña'\end{verbatim}).
   \end{itemize}
 
   \item \textbf{Creación de la BBDD a través de un terminal}
@@ -187,9 +87,118 @@ Para poder ejecutar la aplicación en local, será necesario crear una base de d
   \end{itemize}
 
 \end{enumerate}
+Después, bastará con descomentar en el fichero de configuración de la aplicación (app.py) la opción para conectar con la base de datos local e incluir ahí las credenciales de la base de datos nueva (y comentar la opción para conectarse a la base de datos de Heroku). Más adelante, en la subsección <<Interacción con la base de datos>>, se dan más detalles al respecto.
 
-\nota{Para aquellos usuarios de sistemas operativos Windows, es importante tener en cuenta un detalle en el momento de obtener información de la base de datos en PostgresSQL. Cuando se recolectan los datos en formato CSV, es necesario cambiar la ruta de generación de estos archivos a la carpeta <<Public>> \footnote{Directorio que permite compartir archivos entre distintos usuarios en un mismo sistema Windows. Microsoft ha mantenido este directorio desde la versión de WindowsXP.}. Esto se debe a que el usuario por defecto que genera PostgresSQL (usuario <<postgres>>), no tiene los permisos suficientes para leer e importar datos de los CSV en cuestión ya que, para ello, se utiliza el comando \textit{copy} (que solo puede ser ejecutado por <<Superusers>>)\cite{Dominguez2020}. Sin embargo, la carpeta <<Public>> cuenta con los permisos necesarios para que el usuario que crea Postgres pueda acceder y leer los datos. Por lo tanto, es importante seguir este paso para garantizar que se pueda obtener correctamente la información recogida previamente.
+\nota{Para aquellos usuarios de sistemas operativos Windows, es importante tener en cuenta un detalle en el momento de obtener información de la base de datos en PostgresSQL. Cuando se recolectan los datos en formato CSV, es necesario cambiar la ruta de generación de estos archivos a la carpeta <<Public>>\footnote{Directorio que permite compartir archivos entre distintos usuarios en un mismo sistema Windows. Microsoft ha mantenido este directorio desde la versión de WindowsXP.}. Esto se debe a que el usuario por defecto que genera PostgresSQL (usuario <<postgres>>), no tiene los permisos suficientes para leer e importar datos de los CSV en cuestión ya que, para ello, se utiliza el comando \textit{copy} (que solo puede ser ejecutado por <<Superusers>>)\cite{Dominguez2020}. Sin embargo, la carpeta <<Public>> cuenta con los permisos necesarios para que el usuario que crea Postgres pueda acceder y leer los datos. Por lo tanto, es importante seguir este paso para garantizar que se pueda obtener correctamente la información recogida previamente.
 }
+
+\subsubsection{\textbf{Instalación de dependencias}}
+
+\begin{enumerate}
+\item \textbf{Configuración del entorno virtual}
+
+\nota{Este paso es opcional pero muy recomendado, especialmente si se están manejando otras aplicaciones en el mismo dispositivo.}
+
+   Antes de comenzar, es una buena práctica configurar un entorno virtual, ya que permite aislar las dependencias del proyecto y evitar conflictos con otras aplicaciones. Para configurar un entorno virtual, sigue los siguientes pasos:
+
+   \begin{itemize}
+    \item Abrir un terminal y navegar hasta la carpeta raíz del proyecto.
+    \item Instalar python3-venv.
+    \item Ejecutar el siguiente comando para crear un nuevo entorno virtual:
+      \begin{verbatim}
+      python3 -m venv nombre_entorno_virtual
+      \end{verbatim}
+      (Reemplazar \texttt{nombre\_entorno\_virtual} con el nombre que se desee para el entorno virtual).
+    \item Activar el entorno virtual ejecutando el siguiente comando:
+      \begin{itemize}
+        \item En Windows:
+          \begin{verbatim}
+          nombre_entorno_virtual\Scripts\activate
+          \end{verbatim}
+        \item En Linux:
+          \begin{verbatim}
+          source nombre_entorno_virtual/bin/activate
+          \end{verbatim}
+      \end{itemize}
+  \end{itemize}
+
+\item \textbf{Instalación de Flask y dependencias}    
+
+   Una vez configurado el entorno virtual (si se ha decidido utilizar uno), el siguiente paso es instalar Flask y las dependencias necesarias para la ejecución de la aplicación. Será preciso navegar hasta la carpeta raíz del proyecto. Después, se deberá seguir los siguientes pasos:
+
+   \begin{itemize}
+    \item Ejecutar el siguiente comando para instalar las dependencias especificadas en el archivo \texttt{requirements.txt} (se recomienda usar la versión de Python 3.11 para asegurar la compatibilidad de versiones con los requerimentos):
+      \begin{verbatim}
+      pip install -r requirements.txt
+      \end{verbatim}
+      Este comando buscará las dependencias requeridas en el archivo \texttt{requirements.txt} y las instalará automáticamente.  Si diese algún problema al instalar el paquete psycopg2 (driver Python para Postgres), se puede instalar directamente el binario con la instrucción: 
+      \begin{verbatim}
+      pip install psycopg2-binary
+      \end{verbatim}
+    \item Si fuera necesario agregar dependencias adicionales a su proyecto, puedes hacerlo editando el archivo \texttt{requirements.txt}. Es preciso asegurarse de seguir el formato adecuado, donde cada dependencia está en una línea separada y puede incluir una versión específica si es necesario. Por ejemplo:
+      \begin{verbatim}
+      flask==2.0.1
+      sqlalchemy==1.4.20
+      \end{verbatim}
+  \end{itemize}
+
+
+\item \textbf{Verificación de la instalación}
+\label{Verificación de la instalación}
+
+   Una vez completada la instalación de Flask y las dependencias, conviene verificar que todo se haya configurado correctamente ejecutando un comando de prueba. Por lo general, esto implica ejecutar un servidor de desarrollo local y abrir su aplicación web en un navegador. Aquí hay un ejemplo de cómo hacerlo:
+
+ \begin{itemize}
+    \item Ejecutar el siguiente comando para iniciar el servidor de desarrollo de Flask:
+      \begin{itemize}
+        \item En Windows:
+          \begin{verbatim}
+          win_start.cmd
+          \end{verbatim}
+        \item En Linux:
+          \begin{verbatim}
+          ./lin_start.sh
+          \end{verbatim}
+          Si no tuviera permisos de ejecución, bastaría con ejecutar previamente el siguiente comando:
+          \begin{verbatim}
+          chmod +x lin_start.sh
+          \end{verbatim}
+      \end{itemize}
+    \item Abrir un navegador web y dirigirse a la siguiente dirección URL: \url{http://localhost:5000}
+  \end{itemize}
+
+   Si todo ha sido configurado correctamente, se debería poder ver la aplicación Paperrank en funcionamiento en el navegador.
+
+\end{enumerate}
+
+
+\subsubsection{Lanzamiento de la aplicación}
+
+Para lanzar la aplicación, bastará con replicar el punto \ref{Verificación de la instalación} del apartado anterior <<Verificación de la instalación>>. Es preciso repetir este proceso cada vez que se realiza un cambio en el código.
+
+Por otro lado, se puede lanzar Flask en modo \textit{debug}. Para ello se debe establecer la variable de entorno \texttt{FLASK\_ENV} antes de ejecutar el comando para iniciar el servidor Flask. La forma exacta de hacerlo puede variar ligeramente según el sistema operativo.
+\begin{itemize}
+    \item En Windows:
+    
+        Abrir un terminal (por ejemplo, PowerShell o CMD) y navegar hasta el directorio donde se encuentra la aplicación Flask.
+    
+        Establecer la variable de entorno \texttt{FLASK\_ENV} a <<\textit{development}>> utilizando el siguiente comando:
+    
+        \begin{verbatim}
+        set FLASK_ENV=development
+        \end{verbatim}
+        
+    \item En Linux:
+    
+        Abrir un terminal y navegar hasta el directorio donde se encuentra la aplicación Flask.
+        Establecer la variable de entorno \texttt{FLASK\_ENV} a <<\textit{development}>> utilizando el siguiente comando:
+    
+        \begin{verbatim}
+        export FLASK_ENV=development
+        \end{verbatim}
+\end{itemize}
+
+
 
 \subsubsection{Interacción con la base de datos en Flask}
 Para poder establecer una conexión con la base de datos que se ha creado, para posteriormente ejecutar sentencias SQL.
@@ -316,11 +325,13 @@ app.config['LANGUAGES'] = {
     'it': gettext('Italiano')
 }
 
-# Obtiene el idioma preferido del navegador, si no se toma el idioma por defecto de la aplicación
+# Obtiene el idioma preferido del navegador, si no se 
+# toma el idioma por defecto de la aplicación
 def get_locale():
     lang = session.get('LANGUAGES', None)
     if lang == None:
-        browser_locale = request.accept_languages.best_match(app.config['LANGUAGES'].keys())
+        browser_locale = request.accept_languages.
+            best_match(app.config['LANGUAGES'].keys())
         if browser_locale is not None:
             return browser_locale
         return app.config['BABEL_DEFAULT_LOCALE']
@@ -378,7 +389,7 @@ Es necesario tener en cuenta que el nombre de los directorios está elegido a pr
 \section{Compilación, instalación y ejecución del proyecto}
 
 \subsection{Despliegue en Heroku}
-En esta sección, se describe el proceso de lanzamiento de la aplicación en Heroku.
+En esta sección, se describe el proceso de lanzamiento de la aplicación en Heroku (aprovechando el tiempo de despliegue gratuito que proporciona la cuentas GitHub Student).
 
 \nota{En el código de la aplicación web, al incluir \texttt{import} de clases propias, es preciso añadir al inicio de la ruta de paquetes el punto (por ejemplo, \texttt{import .miCarpeta.miClase}). Sin el punto inicial, Heroku no identificará los módulos por no estar en la raíz del repositorio.}
 
@@ -415,7 +426,7 @@ Los comandos para crear la aplicación son los siguientes:
     
     \item Finalmente, ejecutar \texttt{\$ git push heroku main} $\to$ para subir el contenido de la rama \texttt{main} del repositorio GitHub al repositorio remoto de Heroku. Este comando se deberá ejecutar cada vez que hay cambios nuevos que se quieran desplegar.
     
-    \item Para desplegar la aplicación bastará con ejecutar \texttt{\$ heroku open} $\to$.
+    \item Para desplegar la aplicación bastará con ejecutar \texttt{\$ heroku open}.
 \end{enumerate}
 
 Finalmente, se puede comprobar que la aplicación se ha creado correctamente en el \textit{dashboard} de Heroku (\url{https://dashboard.heroku.com/apps/}).
@@ -489,37 +500,37 @@ A lo largo de esta fase se definen las pruebas necesarias para crear un código 
 \tablatres{Casos de prueba para el prototipo de Crossref}{llll}{4}{casosdepruebacrossref}{\textbf{ID} & \textbf{Nombre} & \textbf{Descipción} & \parbox{55}{\textbf{Salida esperada}}\\}{
 
 C01 & \parbox{60}{Revista existente} & 
-\parbox{200}{\vspace{0.4cm}Método test\_journal\_exist. Se trata de extraer una revista que previamente se conoce que existe.\vspace{0.4cm}} & \parbox{55}{True}\\
+\parbox{200}{\vspace{0.4cm}Método \texttt{test\_journal\_exist}. Se trata de extraer una revista que previamente se conoce que existe.\vspace{0.4cm}} & \parbox{55}{True}\\
 
 C02 & \parbox{60}{Revista inexistente} & 
-\parbox{200}{\vspace{0.4cm} Método test\_journal\_exist. Se trata de extraer una revista que previamente se conoce que no existe.\vspace{0.4cm}} &\parbox{55}{False}\\
+\parbox{200}{\vspace{0.4cm} Método \texttt{test\_journal\_exist}. Se trata de extraer una revista que previamente se conoce que no existe.\vspace{0.4cm}} &\parbox{55}{False}\\
 
 C03 & \parbox{60}{Cargar datos de entrada} & 
-\parbox{200}{\vspace{0.4cm}Método test\_load\_data. Se comprueba que se cargan bien los datos del CSV de entrada.\vspace{0.4cm}}&\parbox{55}{Carga correcta}\\
+\parbox{200}{\vspace{0.4cm}Método \texttt{test\_load\_data}. Se comprueba que se cargan bien los datos del CSV de entrada.\vspace{0.4cm}}&\parbox{55}{Carga correcta}\\
 
 C04 & \parbox{60}{Formateado I} & 
-\parbox{200}{\vspace{0.4cm}Método test\_formatData. Se comprueba que se eliminan bien las etiquetas HTML y los espacios.\vspace{0.4cm}}&\parbox{55}{Cadena correcta}\\
+\parbox{200}{\vspace{0.4cm}Método \texttt{test\_formatData}. Se comprueba que se eliminan bien las etiquetas HTML y los espacios.\vspace{0.4cm}}&\parbox{55}{Cadena correcta}\\
 
 C05 & \parbox{60}{Formateado II} & 
-\parbox{200}{\vspace{0.4cm}Método test\_formatData. Se comprueba que se eliminan bien las etiquetas <<href>>.\vspace{0.4cm}}& \parbox{55}{Cadena correcta}\\
+\parbox{200}{\vspace{0.4cm}Método \texttt{test\_formatData}. Se comprueba que se eliminan bien las etiquetas <<href>>.\vspace{0.4cm}}& \parbox{55}{Cadena correcta}\\
 
 C06 & \parbox{60}{Formateado III} &
-\parbox{200}{\vspace{0.4cm}Método test\_formatData. Se comprueba que una cadena correcta no cambia.\vspace{0.4cm}} & \parbox{55}{Cadena sin modificaciones}\\
+\parbox{200}{\vspace{0.4cm}Método \texttt{test\_formatData}. Se comprueba que una cadena correcta no cambia.\vspace{0.4cm}} & \parbox{55}{Cadena sin modificaciones}\\
 
 C07 & \parbox{60}{Formateado IV} & 
-\parbox{200}{\vspace{0.4cm}Método test\_formatData. Se comprueba que no hay campos vacíos (rellenar con <<n.m.>>).\vspace{0.4cm}} & \parbox{55}{Cadena sin valores vacíos}\\
+\parbox{200}{\vspace{0.4cm}Método \texttt{test\_formatData}. Se comprueba que no hay campos vacíos (rellenar con <<n.m.>>).\vspace{0.4cm}} & \parbox{55}{Cadena sin valores vacíos}\\
 
 C08 & \parbox{60}{Formato de salida I} & 
-\parbox{200}{\vspace{0.4cm}Método test\_getArticles\_returns\_list\_
-of\_dicts. Se comprueba que se obtiene una lista de artículos.\vspace{0.4cm}} & \parbox{55}{Lista de diccionarios}\\
+\parbox{200}{\vspace{0.4cm}Método \texttt{test\_getArticles\_returns}
+\texttt{\_list\_of\_dicts}. Se comprueba que se obtiene una lista de artículos.\vspace{0.4cm}} & \parbox{55}{Lista de diccionarios}\\
 
 C09 & \parbox{60}{Formato de salida II} & 
-\parbox{200}{\vspace{0.4cm}Método test\_getArticles\_returns\_valid
-\_keys. Se comprueba que las claves del diccionario son correctas.\vspace{0.4cm}} & \parbox{55}{Claves correctas}\\
+\parbox{200}{\vspace{0.4cm}Método \texttt{test\_getArticles\_returns}
+\texttt{\_valid\_keys}. Se comprueba que las claves del diccionario son correctas.\vspace{0.4cm}} & \parbox{55}{Claves correctas}\\
 
 C10 & \parbox{60}{Número de resultados} & 
-\parbox{200}{\vspace{0.4cm}Método test\_getArticles\_correct\_
-article\_count. Se comprueba que se obtiene el número correcto de artículos que aparecen en Crossref.\vspace{0.4cm}} & \parbox{55}{Número correcto}\\
+\parbox{200}{\vspace{0.4cm}Método \texttt{test\_getArticles\_correct\_}
+\texttt{article\_count}. Se comprueba que se obtiene el número correcto de artículos que aparecen en Crossref.\vspace{0.4cm}} & \parbox{55}{Número correcto}\\
 }
 
 
@@ -527,32 +538,33 @@ article\_count. Se comprueba que se obtiene el número correcto de artículos qu
 \tabla{Casos de prueba para el prototipo de Crossref}{llll}{4}{casosdepruebacrossref}{\textbf{ID} & \textbf{Nombre} & \textbf{Descipción} & \parbox{55}{\textbf{Salida esperada}}\\}{
 
 C11 & \parbox{60}{Excepción de ISSN} & 
-\parbox{200}{\vspace{0.4cm}Método test\_getArticles\_invalid\_issn\_
-raises\_error. Se intenta buscar un ISSN incorrecto.\vspace{0.4cm}} & \parbox{55}{False}\\
+\parbox{200}{\vspace{0.4cm}Método \texttt{test\_getArticles\_invalid}
+\texttt{\_issn\_raises\_error}. Se intenta buscar un ISSN incorrecto.\vspace{0.4cm}} & \parbox{55}{False}\\
 
 C12 & \parbox{60}{Excepción de año I} & 
-\parbox{200}{\vspace{0.4cm}Método test\_getArticles\_invalid\_year. Se introducen los años de búsqueda en el orden incorrecto.\vspace{0.4cm}} &\parbox{55}{False}\\
+\parbox{200}{\vspace{0.4cm}Método \texttt{test\_getArticles\_invalid}
+\texttt{\_year}. Se introducen los años de búsqueda en el orden incorrecto.\vspace{0.4cm}} &\parbox{55}{False}\\
 
 C13 & \parbox{60}{Excepción de año II} & 
-\parbox{200}{\vspace{0.4cm}Método test\_getArticles\_invalid\_year. Se introducen años inválidos.\vspace{0.4cm}} &\parbox{55}{False}\\
+\parbox{200}{\vspace{0.4cm}Método \texttt{test\_getArticles\_invalid} \texttt{\_year}. Se introducen años inválidos.\vspace{0.4cm}} &\parbox{55}{False}\\
 
 C14 & \parbox{60}{Ejecución completa I} & 
-\parbox{200}{\vspace{0.4cm}Método test\_main. Pre-requisito: CSV de entrada de datos. Se comprueba que se genera una gráfica al finalizar el proceso. Post-requisito: Imagen con la gráfica generado.\vspace{0.4cm}} &\parbox{55}{True}\\
+\parbox{200}{\vspace{0.4cm}Método \texttt{test\_main}. Pre-requisito: CSV de entrada de datos. Se comprueba que se genera una gráfica al finalizar el proceso. Post-requisito: Imagen con la gráfica generado.\vspace{0.4cm}} &\parbox{55}{True}\\
 
 C15 & \parbox{60}{Ejecución completa II} & 
-\parbox{200}{\vspace{0.4cm}Método test\_main. Precondición: CSV de entrada de datos. Se comprueba que se generan los ficheros CSVs de resultados al finalizar el proceso. Post-requisito: Ficheros CSV generados.\vspace{0.4cm}}&\parbox{55}{True}\\
+\parbox{200}{\vspace{0.4cm}Método \texttt{test\_main}. Precondición: CSV de entrada de datos. Se comprueba que se generan los ficheros CSVs de resultados al finalizar el proceso. Post-requisito: Ficheros CSV generados.\vspace{0.4cm}}&\parbox{55}{True}\\
 
 C16 & \parbox{60}{Ejecución completa III} & 
-\parbox{200}{\vspace{0.4cm}Método test\_main. Precondición: CSV de entrada de datos. Se comprueba que se genera el fichero de log al finalizar el proceso. Postcondición: Ficheros de log generados.\vspace{0.4cm}}&\parbox{55}{True}\\
+\parbox{200}{\vspace{0.4cm}Método \texttt{test\_main}. Precondición: CSV de entrada de datos. Se comprueba que se genera el fichero de log al finalizar el proceso. Postcondición: Ficheros de log generados.\vspace{0.4cm}}&\parbox{55}{True}\\
 
 C17 & \parbox{60}{Ejecución completa IV} & 
-\parbox{200}{\vspace{0.4cm}Método test\_main. Precondición: CSV de entrada de datos y fichero de log generado correctamente. Se comprueba que la información de log es correcta.\vspace{0.4cm}}&\parbox{55}{True}\\
+\parbox{200}{\vspace{0.4cm}Método \texttt{test\_main}. Precondición: CSV de entrada de datos y fichero de log generado correctamente. Se comprueba que la información de log es correcta.\vspace{0.4cm}}&\parbox{55}{True}\\
 }
 
 \subsubsection{Fase Verde}
 Tras la creación del código, finalmente se consigue una versión que pasa todos los test programados en la fase anterior, como se puede observar en la siguiente ilustración:
 
-\imagen{pruebasPasadas}{Pruebas pasadas exitosamente}{0.7}
+\imagen{pruebasPasadas}{Pruebas ejecutadas exitosamente}{0.7}
 
 \subsubsection{Fase Morada}
 En esta fase se han realizado acciones de refactorización. A saber:

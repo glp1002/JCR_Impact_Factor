@@ -3,35 +3,37 @@
 %Todo proyecto debe incluir las conclusiones que se derivan de su desarrollo. Éstas pueden ser de diferente índole, dependiendo de la tipología del proyecto, pero normalmente van a estar presentes un conjunto de conclusiones relacionadas con los resultados del proyecto y un conjunto de conclusiones técnicas. 
 %Además, resulta muy útil realizar un informe crítico indicando cómo se puede mejorar el proyecto, o cómo se puede continuar trabajando en la línea del proyecto realizado. 
 
+\section{Conclusiones}
+
+A lo largo de este proyecto, se ha llevado a cabo el desarrollo de una aplicación web innovadora que muestra predicciones del Índice de Impacto (JCR) de las revistas científicas. Para lograr este objetivo, se ha enfrentado el desafío de extraer datos relevantes a través de técnicas de \textit{web scraping}, que se ha revelado como una de las partes más arduas y tediosas del proyecto. La exploración de diversas técnicas de \textit{web scraping}, la investigación de diferentes páginas y APIs de las cuales alimentar el modelo y el procesamiento de grandes volúmenes de datos han sido actividades fundamentales para el éxito de este proyecto.
+
+El principal logro obtenido ha sido alcanzar una estimación del JCR que valoramos muy positivamente.
+
+Por otro lado, se ha creado una aplicación web de acceso abierto, cuya funcionalidad se basa en algoritmos de aprendizaje supervisado. Estos algoritmos utilizan los datos históricos extraídos de la web para predecir el valor del Índice de Impacto de las revistas científicas de la categoría de <<Computer Science, Artificial Intelligence>> indexadas en el JCR. Esta aplicación representa una contribución significativa para la comunidad científica, ya que proporciona una herramienta accesible para estimar la relevancia y repercusión de las revistas académicas.
+
+Durante el desarrollo de este proyecto, se ha adquirido un profundo conocimiento sobre las complejidades y desafíos relacionados con el \textit{web scraping}. La tarea de extraer datos de manera automatizada desde diferentes fuentes web requiere un enfoque meticuloso, teniendo en cuenta las variaciones en la estructura y el formato de las páginas. Además, se han explorado diversas técnicas y bibliotecas, así como APIs específicas, para obtener los datos necesarios. Esta experiencia ha demostrado la importancia de contar con habilidades sólidas en el ámbito del \textit{web scraping} y la capacidad de adaptarse a diferentes entornos y requisitos.
+
+Otro aspecto destacable del proyecto ha sido la investigación de modelos de inteligencia artificial para predecir el Índice de Impacto. Mediante un análisis exhaustivo de distintos enfoques de aprendizaje supervisado, se ha buscado identificar los modelos más eficientes y precisos para esta tarea específica. Además, se ha obtenido información valiosa sobre las características y variables que influyen en el Índice de Impacto, lo cual puede ser de utilidad para futuras investigaciones en el campo de la bibliometría.
+
+La conclusión más relevante de este proyecto es que la combinación de \textit{web scraping} y modelos de inteligencia artificial puede ofrecer soluciones prometedoras para el análisis y la predicción de indicadores científicos. La aplicación desarrollada no solo ha demostrado la viabilidad de estas técnicas, sino que también ha puesto de manifiesto su potencial para facilitar la toma de decisiones informadas en el ámbito académico. 
+
+En resumen, este proyecto ha representado un desafío integral que ha involucrado desde la extracción de datos mediante \textit{web scraping} hasta la implementación de algoritmos de IA y la creación de una aplicación web funcional y de código abierto. A través de esta experiencia, se han aprendido valiosas lecciones sobre la importancia de la extracción y minería de los datos como parte fundamental de los proyectos, así como sobre el potencial de los modelos de inteligencia artificial para predecir indicadores científicos. Se espera que este trabajo pueda facilitar futuras investigaciones en el ámbito de la bibliometría.
+
+Finalmente, frente a las dificultades encontradas, hay que expresar agradecimiento por el respaldo y asesoramiento constante de los tutores que han dirigido este trabajo, así como el apoyo económico por parte del Ministerio por medio de la concesión de una beca de Colaboración con Departamentos. 
+
+
 
 \section{Líneas de trabajo futuras}
 En esta sección se proponen posibles direcciones para continuar avanzando en la comprensión del tema en cuestión y en su aplicación práctica.
 
 \subsection{Extracción de los datos}
-En un futuro, si se quiere aumentar el nivel de precisión en el cálculo del JCR, se recomienda mejorar la calidad de los datos extraídos. Para ello, se podría considerar el pago de una licencia para cualquiera de las APIs de pago propuestas a lo largo de la memoria (i.e.:  GS, WoS, Scopus, etc.). Siguiendo la línea de trabajos como Publish or Perish (ver sección \ref{sec:publish or perish}), se deberá advertir al usuario de las limitaciones en cuanto a número de \textit{requests} que se pueden realizar y el tiempo de espera que supondría obtener el número de resultados deseado. Además, sería necesario mantener los datos extraídos en privado de forma que no se violen las políticas de privacidad y términos de uso de las distintas APIs. 
+En un futuro, si se quiere aumentar el nivel de precisión en el cálculo del JCR, se recomienda mejorar la calidad de los datos extraídos. Para ello, se podría considerar el pago de una licencia para cualquiera de las APIs de pago propuestas a lo largo de la memoria (i.e.,  GS, WoS, Scopus, etc.). Siguiendo la línea de trabajos como Publish or Perish (ver sección \ref{sec:publish or perish}), se deberá advertir al usuario de las limitaciones en cuanto a número de \textit{requests} que se pueden realizar y el tiempo de espera que supondría obtener el número de resultados deseado. Además, sería necesario mantener los datos extraídos en privado de forma que no se violen las políticas de privacidad y términos de uso de las distintas APIs. 
 
 \subsection{Aplicación web}
 
 Por un lado, si en el futuro se desea utilizar la aplicación para calcular el Índice de Impacto en un campo distinto al de \textit{computer science}, se puede desarrollar el área del usuario administrador de forma que solo se requiera subministrar un CSV con la lista de revistas del nuevo campo deseado. La red se volverá a entrenar y se reiniciará todo el proceso, permitiendo así la adaptación de la aplicación a diferentes áreas de investigación. Con esta flexibilidad, la aplicación puede ser empleada para el cálculo del índice de impacto en una amplia variedad de campos, ampliando así su alcance y aplicabilidad.
 
 Otra funcionalidad interesante podría ser la ampliación de la sección de los usuarios de forma que se pueda visualizar un historial de búsquedas recientes o que se pueda acceder de forma más rápida a la información de las revistas que dicho usuario suele consultar habitualmente. Finalmente, se podría habilitar una opción para la descarga de los resultados obtenidos en distintos formatos (CSV, HTML, etc.).
-
-
-
-
-\section{Conclusiones}
-
-A lo largo de este proyecto, se ha llevado a cabo el desarrollo de una aplicación web innovadora que muestra predicciones del Índice de Impacto (JCR) de diversas revistas científicas. Para lograr este objetivo, se ha enfrentado el desafío de extraer datos relevantes a través de técnicas de \textit{web scraping}, que se ha revelado como una de las partes más arduas y tediosas del proyecto. La exploración de diversas técnicas de\textit{web scraping}, la investigación de diferentes páginas y APIs, y el procesamiento de grandes volúmenes de datos han sido actividades fundamentales para el éxito de este proyecto.
-
-El principal logro obtenido es la creación de una aplicación web de acceso abierto, cuya funcionalidad se basa en algoritmos de aprendizaje supervisado. Estos algoritmos utilizan los datos históricos extraídos para predecir el valor del Índice de Impacto de todas las revistas científicas indexadas en el JCR. Esta aplicación representa una contribución significativa para la comunidad científica, ya que proporciona una herramienta accesible para estimar la relevancia y repercusión de las revistas académicas.
-
-Durante el desarrollo de este proyecto, se ha adquirido un profundo conocimiento sobre las complejidades y desafíos asociados con el \textit{web scraping}. La tarea de extraer datos de manera automatizada desde diferentes fuentes web requiere un enfoque meticuloso, teniendo en cuenta las variaciones en la estructura y el formato de las páginas. Además, se han explorado diversas técnicas y bibliotecas, así como APIs específicas, para obtener los datos necesarios. Esta experiencia ha demostrado la importancia de contar con habilidades sólidas en el ámbito del \textit{web scraping} y la capacidad de adaptarse a diferentes entornos y requisitos.
-
-Otro aspecto destacable del proyecto ha sido la investigación de modelos de inteligencia artificial para predecir el Índice de Impacto. Mediante un análisis exhaustivo de distintos enfoques de aprendizaje supervisado, se ha buscado identificar los modelos más eficientes y precisos para esta tarea específica. Además, se ha obtenido información valiosa sobre las características y variables que influyen en el Índice de Impacto, lo cual puede ser de utilidad para futuras investigaciones en el campo de la bibliometría.
-
-La conclusión más relevante de este proyecto es que la combinación de \textit{web scraping} y modelos de inteligencia artificial puede ofrecer soluciones prometedoras para el análisis y la predicción de indicadores científicos. La aplicación desarrollada no solo ha demostrado la viabilidad de estas técnicas, sino que también ha puesto de manifiesto su potencial para facilitar la toma de decisiones informadas en el ámbito académico. 
-
-En resumen, este proyecto ha representado un desafío integral que ha involucrado desde la extracción de datos mediante \textit{web scraping} hasta la implementación de algoritmos de IA y la creación de una aplicación web funcional y de código abierto. A través de esta experiencia, se ha aprendido valiosas lecciones sobre la importancia de la extracción y minería de los datos como parte fundamental de los proyectos, así como sobre el potencial de los modelos de inteligencia artificial para predecir indicadores científicos. Se espera que este trabajo pueda facilitar futuras investigaciones en el ámbito de la bibliometría.
 
 
 
