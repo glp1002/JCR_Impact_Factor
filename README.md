@@ -65,7 +65,7 @@ Si diese algún problema al instalar el paquete _psycopg2_ (driver Python para P
 * En la carpeta web_application/paperrank hay dos ficheros de procesamiento por lotes, uno para Windows y otro para Linux.
   - En Windows: ```win_start.cmd```
   - En Linux: 
-    - Asignar permisos de ejeución con ```chmod u+x lin_start.sh```
+    - Asignar permisos de ejecución con ```chmod u+x lin_start.sh```
     - Ejecutarlo con ```./lin_start.sh```
 * El servidor se abrirá en http://localhost:5000.
 
