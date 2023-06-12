@@ -58,7 +58,7 @@ Después, bastará con descomentar en el fichero de configuración de la aplicac
 
 ### Instalación de Flask y dependencias
 Una vez configurado el entorno virtual (si se ha decidido utilizar uno), el siguiente paso es instalar Flask y las dependencias necesarias para la ejecución de la aplicación. Será preciso navegar hasta la carpeta raíz del proyecto. Después, se deberá seguir los siguientes pasos:
-* Ejecutar el siguiente comando para instalar las dependencias especificadas en el archivo requirements.txt (se recomienda usar la versión de Python 3.11 para asegurar la compatibilidad de veriones con los requerimentos):
+* Ejecutar el siguiente comando para instalar las dependencias especificadas en el archivo requirements.txt (se recomienda usar la versión de Python 3.11 para asegurar la compatibilidad de versiones con los requerimentos):
 ```pip install -r requirements.txt```
 Si diese algún problema al instalar el paquete _psycopg2_ (driver Python para Postgres), se puede instalar directamente el binario con la instrucción:
 ```pip install psycopg2-binary```
