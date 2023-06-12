@@ -70,8 +70,8 @@ Si diese algún problema al instalar el paquete _psycopg2_ (driver Python para P
 * El servidor se abrirá en http://localhost:5000.
 
 ### Credenciales del administrador
-Nombre de usuario: Admin
-Contraseña: p@ssw0rd
+- Nombre de usuario: Admin
+- Contraseña: p@ssw0rd
 
 ## Licencia
 ⚖ [The GNU General Public License](https://www.gnu.org/licenses/)
