@@ -1,5 +1,5 @@
 const preview = document.querySelector('.imgperf');
-
+// Dropdown de la imagen de perfil
 preview.addEventListener('click', function () {
   if (this.classList.contains('active')) {
     this.classList.toggle('active');
@@ -42,8 +42,7 @@ languageImg.addEventListener('mouseout', function () {
 });
 
 
-
-
+// Obtener imagen de perfil
 $(document).ready(function() {
   var url = "/get_profile_picture";
 

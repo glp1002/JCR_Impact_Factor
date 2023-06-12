@@ -22,11 +22,6 @@ class Revista:
     def __str__(self):
         return "Revista(name='%s')" % self.nombre
 
-class Citas:
-    def __init__(self, doi_citante, doi_citado):
-        self.doi_citante = doi_citante
-        self.doi_citado = doi_citado
-
 class RevistaJCR:
     def __init__(self, nombre, fecha, jcr, citas, diff):
         self.nombre = nombre

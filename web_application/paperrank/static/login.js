@@ -2,7 +2,7 @@
 document.addEventListener('DOMContentLoaded', function () {
     const passwordInput = document.getElementById('new-password');
     const showPasswordButton = document.getElementById('show-password');
-
+    // Ocultar o mostrar contraseña
     showPasswordButton.addEventListener('click', function () {
         if (passwordInput.type === 'password') {
             passwordInput.type = 'text';
@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const button = document.getElementById("idioma");
     var languageImg = document.getElementById("config-img");
     var languageText = document.getElementById("language-dropdown");
-
+    // Cambia a morado al pasar el ratón por encima
     button.addEventListener('mouseover', function () {
         languageText.style.color = "#7453c3";
         languageImg.src = '/static/images/lang-hover.png';

@@ -29,7 +29,7 @@ function showPage(page) {
     paginationButtons[page - 1].classList.add("active");
 }
 
-
+ // PAGINACIÓN:
 function previousPage() {
     var currentPage = contador;
     if (currentPage > 1) {
@@ -64,8 +64,8 @@ function lastPage() {
 showPage(1);
 
 
-
-// Cambio del botón de acceso a la lista de revistas
+// Cambio del botón de los botones de paginación 
+// (a morado al pasar el ratón por enicima)
 $(function () {
     $('#prev-pag').hover(
         function () {

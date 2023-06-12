@@ -1,10 +1,20 @@
 """
-El archivo "app.py" es el archivo principal de tu aplicación donde se configura y ejecuta el servidor de backend. 
-Este archivo crea una instancia de Flask y define dos rutas, /articulos/<revista> y 
-/indice_impacto/<revista> que corresponden a las rutas que utilizan los métodos obtenerArticulos y 
-obtenerIndiceImpacto de la clase Controlador del frontend. Cada ruta se asocia con un método de la aplicación
-Flask que crea una instancia de la clase Modelo, llama al método correspondiente y devuelve la respuesta en 
-formato JSON.
+
+El archivo "app.py" es el archivo principal de la aplicación donde se 
+configura y ejecuta el servidor de backend. 
+Este archivo crea una instancia de Flask y define rutas. Cada una de 
+ellas se asocia con un método de la aplicación Flask que crea una 
+instancia de la clase Controlador y de la clase Modelo, llama al método
+correspondiente y devuelve la respuesta.
+
+============================
+  Trabajo de Fin de Grado
+Universidad de Burgos (UBU)
+============================
+
+Autor: Gadea Lucas Pérez
+Año: 2023
+
 """
 import base64
 import os
@@ -21,12 +31,6 @@ from flask_session import Session
 from .backend.controlador.controlador import Controlador
 from .backend.modelo.modelo import Modelo
 
-#from flask_wtf import CSRFProtect
-#from flask_cors import CORS # TODO
-# CSRFProtect(app)
-
-
-
 # Creación de la aplicación
 app = Flask(__name__)
 
@@ -42,11 +46,12 @@ app.config['REMEMBER_COOKIE_SECURE'] = False
 app.config['SESSION_COOKIE_HTTPONLY'] = True
 app.config['SESSION_COOKIE_SAMESITE'] = 'Strict'
 app.config['SESSION_COOKIE_NAME'] = 'your_session_name'
-# app.config['SECRET_KEY'] = os.urandom(24)
 
 # Inicialización de Flask-Session
 Session(app)
 
+
+""" BASE DE DATOS """
 # Configuración de la BBDD (IMPORTANTE: DESCOMENTAR AL LANZAR EN HEROKU)
 # url_database = os.environ.get("DATABASE_URL")
 # def get_db():
@@ -70,6 +75,9 @@ def get_db():
         g.db = psycopg2.connect(**app.config['DATABASE'])
     return g.db
 
+""" BASE DE DATOS """
+
+
 # Variables globales de internacionalización con Babel
 app.config['BABEL_DEFAULT_LOCALE'] = 'en'
 app.config['LANGUAGES'] = {
@@ -92,10 +100,6 @@ def get_locale():
         return app.config['BABEL_DEFAULT_LOCALE']
 
 babel = Babel(app, locale_selector=get_locale)
-# babel_js = BabelJS(app, locale_selector=get_locale)
-# babel.init_app(app)
-# babel_js.init_app(app)
-
 
 # Refrescar la conexión a la BBDD
 def refresh():
@@ -133,11 +137,12 @@ def handle_other(err):
 def home():
     return redirect('/selection')
 
+# Ruta para el inicio de sesión del usuario
 @app.route('/login', methods=['GET', 'POST'])
 def login():
-    
     controlador = refresh()
     if request.method == 'POST':
+        # Se obtienen los parámetros de la "request"
         username = request.form['username']
         password = request.form['new-password']
         user_exists = controlador.authenticate_user(username, password)
@@ -151,13 +156,15 @@ def login():
             error = gettext('Nombre de usuario o contraseña incorrectos')
             return render_template('login.html', error=error)
     else:
-        #controlador.reinitialize_database()
+        # Si se quiere reiniciar la BBDD: controlador.reinitialize_database()
         return render_template('login.html')
 
+# Interfaz de registro
 @app.route('/register', methods=['GET', 'POST'])
 def register():
     controlador = refresh()
     if request.method == 'POST':
+        # Se obtienen los parámetros de la "request"
         username = request.form['new-username']
         password = request.form['new-password']
         email = request.form['new-email']
@@ -166,25 +173,32 @@ def register():
     else:
         return render_template('register.html')
 
+# Cerrar sesión
 @app.route('/logout')
 def logout():
+    # Eliminamos las variables de sesión del usuario
     session.pop('loggedin', None)
     session.pop('username', None)
     return redirect('/')
     
+# Interfaz de listado de revistas
 @app.route('/revistas', methods=['GET'])
 @login_required
 def get_journals():
     controlador = refresh()
+    # Obtención de la lista de revistas disponibles
     journal_list = controlador.get_journals_list()
     return render_template('journals.html', journal_list=journal_list, username=session.get('username'))
 
+# Redirección al histórico del JCR de una revista
 @app.route('/consult', methods=['GET'])
 @login_required
 def consult():
+    # Se obtienen los parámetros de la "request"
     revista = request.args.get('revista')
     return render_template('consult.html', revista=revista, username=session.get('username'))
 
+# Obtención de datos adicionales del JCR de una revista  en los últimos 5 años disponibles
 @app.route('/consultJSON/<revista>', methods=['GET'])
 @login_required
 def consultJSON(revista):
@@ -198,6 +212,7 @@ def consultJSON(revista):
 
     return jsonify(jcrValues=jcrValues, years=years)
 
+# Obtención de los cuartiles de una revista en los últimos 5 años disponibles
 @app.route('/quartileJSON/<revista>', methods=['GET'])
 @login_required
 def quartileJSON(revista):
@@ -208,20 +223,23 @@ def quartileJSON(revista):
     years, quartil_list = zip(*consulta)
     years = list(years)
     quartil_list = list(quartil_list)
+    # Eliminación de espacios extra (VARCHAR de la BBDD)
     quartil_list = [elemento.strip() for elemento in quartil_list]
 
     return jsonify(quartil_list=quartil_list, years=years)
 
+# Datos para la interfaz de predicciones
 @app.route('/predictionJSON/<revista>/<modelos_deseados>', methods=['GET'])
 @login_required
 def predictionJSON(revista, modelos_deseados):
     controlador = refresh()
+
     # Cálculo de predicciones
     modelos_deseados = modelos_deseados.split(',')
     modelos = controlador.get_model_binaries(modelos_deseados)
     ejemplo1, ejemplo2 = controlador.get_ejemplo(revista)
 
-    # Consulta como la del ejemplo anterior
+    # Consulta del histórico del JCR
     consulta = controlador.get_consulta_jcr(revista)  
     years, jcrValues = zip(*consulta)
     years = list(years)
@@ -246,11 +264,13 @@ def predictionJSON(revista, modelos_deseados):
 
     return jsonify(jcrValues=jcrValues, predictions=lista_combinada, years=years)
 
+# Interfaz de predicciones
 @app.route('/prediction', methods=['GET'])
 @login_required
 def prediction():
     controlador = refresh()
 
+    # Obtención de los modelos de la "requests"
     modelos_deseados = request.args.getlist('modelos')
     modelos_deseados = modelos_deseados[0].split(',')
     revista = request.args.get('revista')
@@ -279,12 +299,14 @@ def prediction():
     return render_template('prediction.html', predictions=predictions, predictions2=predictions2, 
                            username=session.get('username'), revista=revista, year=year)
 
+# Selección de revistas
 @app.route('/selection', methods=['GET', 'POST'])   
 @login_required
 def formulario():
 
     controlador = refresh()
 
+    # Redirección en función del botón pulsado
     if request.method == 'POST':
         action = request.form.get('action')
         revista = request.form.get('revista')
@@ -297,8 +319,8 @@ def formulario():
             return redirect(f'/prediction?revista={revista}&modelos={",".join(modelos_deseados)}')
 
     else:
+        # Obtención de las posibles categorías
         categorias = controlador.get_categories()
-        #revistas = controlador.get_journals_name()
 
         # Verificar si los modelos están cargados en la base de datos
         modelos = controlador.get_model_names_and_errors()
@@ -310,6 +332,7 @@ def formulario():
         return render_template('selection.html', categorias=categorias, revistas=[], modelos=modelos, tooltip_title=tooltip_title,
                                username=session.get('username'))
     
+# Obtención de la categoría de una revista en concreto
 @app.route('/journal/<categoria>', methods=['GET'])
 @login_required
 def get_revistas_por_categoria(categoria):
@@ -322,13 +345,17 @@ def get_revistas_por_categoria(categoria):
 @login_required
 def get_profile():
     controlador = refresh()
+
+    # Obtención de los datos de usuario de la sesión
     username = session.get('username')
     email = controlador.get_email(username)
+
     if request.method == 'GET':
         return render_template('profile.html', email=email, username=username)
     else:
         new_username = request.form.get('nombre')
         new_email = request.form.get('correo')
+        # Actualización de los datos de usuario
         done = controlador.update_user(new_username, new_email, email)
         if done == True:
             session['username'] = new_username
@@ -336,7 +363,7 @@ def get_profile():
         else:
             return render_template('profile.html', email=email, username=username)
 
-
+# Establecer una nueva imagen de usuario
 @app.route('/insert_profile_picture', methods=['POST'])
 @login_required
 def guardar_imagen():
@@ -351,7 +378,7 @@ def guardar_imagen():
     else:
         return jsonify({'error': 'La imagen no se ha guardado exitosamente'})
 
-
+# Obtener la imagen de un usuario específico
 @app.route('/get_profile_picture', methods=['GET'])
 @login_required
 def get_profile_picture():

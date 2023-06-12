@@ -3,7 +3,7 @@ const passwordInputs = document.querySelectorAll('#new-password');
 
 document.addEventListener('DOMContentLoaded', function () {
     const showPasswordButtons = document.querySelectorAll('#show-password');
-
+    // Cambiar la imagen de ojo tachado a no tachado (ocultar contraseña)
     showPasswordButtons.forEach(function (button, index) {
         button.addEventListener('click', function () {
             const passwordInput = passwordInputs[index];
@@ -31,18 +31,18 @@ passwordInput.addEventListener('input', function () {
     // Verificar los requisitos mínimos de la contraseña
     let requirements = [];
     if (password.length < 8) {
-        requirements.push(gettext('al menos 8 caracteres'));
+        requirements.push('al menos 8 caracteres');
     }
     if (!/\d/.test(password)) {
-        requirements.push(gettext('al menos un número'));
+        requirements.push('al menos un número');
     }
     if (!/[A-Z]/.test(password)) {
-        requirements.push(gettext('al menos una letra mayúscula'));
+        requirements.push('al menos una letra mayúscula');
     }
 
     // Mostrar los requisitos si la contraseña no cumple con ellos
     if (requirements.length > 0) {
-        passwordRequirements.innerText = gettext('La contraseña debe contener: ') + requirements.join(', ');
+        passwordRequirements.innerText = 'La contraseña debe contener: ' + requirements.join(', ');
     } else {
         passwordRequirements.innerText = '';
     }
@@ -58,15 +58,15 @@ emailInput.addEventListener('input', function () {
     // Verificar los requisitos mínimos del correo electrónico
     let requirements = [];
     if (!/^\S+@\S+\.\S+$/.test(email)) {
-        requirements.push(gettext('una dirección válida'));
+        requirements.push('una dirección válida');
     }
     if (email.length > 100) {
-        requirements.push(gettext('menos de 100 caracteres'));
+        requirements.push('menos de 100 caracteres');
     }
 
     // Mostrar los requisitos si el correo electrónico no cumple con ellos
     if (requirements.length > 0) {
-        emailRequirements.innerText = gettext('El correo electrónico debe tener ') + requirements.join(', ');
+        emailRequirements.innerText = 'El correo electrónico debe tener ' + requirements.join(', ');
     } else {
         emailRequirements.innerText = '';
     }

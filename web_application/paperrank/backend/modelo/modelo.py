@@ -1,10 +1,3 @@
-""" AÑADIR EN MEMORIA
-psycopg2 es un módulo de Python que proporciona una interfaz para conectarse y interactuar con bases de datos PostgreSQL. 
-Es una de las librerías más populares y ampliamente utilizadas para trabajar con PostgreSQL en Python.
-Es compatible con la mayoría de las versiones de Python y es muy fácil de utilizar, proporciona una interfaz similar a la
-de las bases de datos relacionales como MySQL, además proporciona una gran cantidad de funciones útiles para trabajar con 
-bases de datos.
-"""
 import base64
 import binascii
 import json
@@ -17,9 +10,26 @@ import psycopg2
 from ..datasource import  Revista, User
 
 """
-La clase Modelo contiene métodos para interactuar con la base de datos y realizar operaciones específicas.
-En este caso, tiene un método para obtener los artículos de una determinada revista y otro método para 
-obtener el índice de impacto de una revista en particular.
+La clase Modelo contiene métodos para interactuar con la base de 
+datos y realizar operaciones específicas.
+
+psycopg2 es un módulo de Python que proporciona una interfaz para
+ conectarse y interactuar con bases de datos PostgreSQL. 
+Es una de las librerías más populares y ampliamente utilizadas 
+para trabajar con PostgreSQL en Python. Es compatible con la 
+mayoría de las versiones de Python y es muy fácil de utilizar, 
+proporciona una interfaz similar a la de las bases de datos 
+relacionales como MySQL, además proporciona una gran cantidad 
+de funciones útiles para trabajar con bases de datos.
+
+============================
+  Trabajo de Fin de Grado
+Universidad de Burgos (UBU)
+============================
+
+Autor: Gadea Lucas Pérez
+Año: 2023
+
 """
  
 class Modelo:
@@ -31,8 +41,9 @@ class Modelo:
     backend_directory = os.path.abspath(os.path.join(parent_directory, os.pardir))
 
     """
-    Para configurar la conexión a la base de datos se proporcionarán los detalles de la conexión
-    (nombre de usuario, contraseña, nombre de la base de datos, etc...) mediante la biblioteca psycopg2.
+    Para configurar la conexión a la base de datos se proporcionarán los
+    detalles de la conexión (nombre de usuario, contraseña, nombre de la
+    base de datos, etc...) mediante la biblioteca psycopg2 (en app.py).
     """
     def __init__(self, db):
         try:
@@ -40,7 +51,17 @@ class Modelo:
         except psycopg2.Error as e:
             raise Exception("Error al conectarse a la base de datos: " + str(e))
         
+    
     def get_journals(self):
+        """
+        Obtiene la lista de revistas de la base de datos.
+
+        Returns:
+            list: Lista de objetos Revista con los datos de las revistas.
+            
+        Raises:
+            Exception: Si se produce un error al obtener las revistas.
+        """
         cur = self.conn.cursor()
         try:
             cur.execute("SELECT nombre, issn, categoria FROM revista")
@@ -54,6 +75,15 @@ class Modelo:
             cur.close()
 
     def get_last_year(self):
+        """
+        Obtiene el último año para el que hay datos del JCR reales disponibles.
+
+        Returns:
+            int: Último año de los datos JCR.
+            
+        Raises:
+            Exception: Si se produce un error al obtener el último año.
+        """
         cur = self.conn.cursor()
         try:
             query_last_jcr = """
@@ -70,6 +100,19 @@ class Modelo:
             cur.close()
         
     def get_last_jcr(self, nombre_revista):
+        """
+        Obtiene el último JCR registrado para una revista específica.
+
+        Args:
+            nombre_revista (str): Nombre de la revista.
+
+        Returns:
+            tuple: Tupla con el último JCR y la fecha correspondiente de una revista.
+            Si no se encuentra el JCR, se devuelve (0, 0.0).
+
+        Raises:
+            Exception: Si se produce un error al obtener el último JCR.
+        """
         cur = self.conn.cursor()
         try:
             query_last_jcr = """
@@ -93,6 +136,19 @@ class Modelo:
             cur.close()
     
     def get_last_cuartil(self, nombre_revista):
+        """
+        Obtiene el último cuartil registrado para una revista específica.
+
+        Args:
+            nombre_revista (str): Nombre de la revista.
+
+        Returns:
+            tuple: Tupla con el último cuartil y la fecha correspondiente de una revista.
+            Si no se encuentra el cuartil, se devuelve (0, '-').
+
+        Raises:
+            Exception: Si se produce un error al obtener el último cuartil.
+        """
         cur = self.conn.cursor()
         try:
             query_last_cuartil = """
@@ -117,6 +173,18 @@ class Modelo:
 
     
     def get_jcr(self, nombre_revista, anio):
+        """
+        Obtiene el factor de impacto de una revista para un año específico.
+
+            Parameters:
+                nombre_revista (str): Nombre de la revista.
+                anio (int): Año para el cual se quiere obtener el factor de impacto.
+
+            Returns:
+                float: El factor de impacto de la revista para el año dado. Si no se encuentra
+                    el factor de impacto, se devuelve 0.0.
+        """
+
         cur = self.conn.cursor()
         try:
             query_jcr = """
@@ -142,6 +210,17 @@ class Modelo:
 
         
     def get_quartil(self, nombre_revista, anio):
+        """
+        Obtiene el cuartil de una revista para un año específico.
+
+        Parameters:
+        - nombre_revista (str): Nombre de la revista.
+        - anio (int): Año para el cual se quiere obtener el cuartil.
+
+        Returns:
+        - str: El cuartil de la revista para el año dado. Si no se encuentra
+            el cuartil, se devuelve "-".
+        """
         cur = self.conn.cursor()
         try:
             query_cuartil = """
@@ -166,6 +245,15 @@ class Modelo:
             cur.close()
         
     def get_year_range(self):
+        """
+        Obtiene el rango total de años disponibles en la tabla 'revista_jcr'.
+        
+        Returns:
+            years (list): Lista de años distintos presentes en la tabla.
+        
+        Raises:
+            Exception: Si ocurre un error al obtener los años de los artículos.
+        """
         cur = self.conn.cursor()
         try:
             cur.execute("SELECT DISTINCT fecha FROM revista_jcr")
@@ -179,6 +267,22 @@ class Modelo:
 
     # Gestionar usuarios
     def create_user(self, username, password, email, admin=False):
+        """
+        Crea un nuevo usuario en la tabla 'users'.
+
+        Args:
+            username (str): Nombre de usuario del nuevo usuario.
+            password (str): Contraseña del nuevo usuario.
+            email (str): Dirección de correo electrónico del nuevo usuario.
+            admin (bool, optional): Indica si el nuevo usuario es un administrador.
+                 Por defecto es False.
+
+        Returns:
+            bool: True si se creó el usuario correctamente.
+
+        Raises:
+            Exception: Si ocurre un error al crear el nuevo usuario.
+        """
         cur = self.conn.cursor()
         try:
             # Contraseña hasheada
@@ -203,6 +307,20 @@ class Modelo:
 
             
     def authenticate_user(self, username, password):
+        """
+        Autentica un usuario en la tabla 'users' mediante el nombre de 
+        usuario y la contraseña proporcionados.
+
+        Args:
+            username (str): Nombre de usuario del usuario a autenticar.
+            password (str): Contraseña del usuario a autenticar.
+
+        Returns:
+            bool: True si el usuario se autentica correctamente, False en caso contrario.
+
+        Raises:
+            Exception: Si ocurre un error al autenticar al usuario.
+        """
         cur = self.conn.cursor()
         try:
             query = "SELECT password FROM users WHERE username = %s"
@@ -221,24 +339,20 @@ class Modelo:
             cur.close()
 
         
-    def get_user(self, user_id):
-        cur = self.conn.cursor()
-        try:
-            cur.execute("SELECT id, username, email FROM users WHERE id = %s", (user_id,))
-            user_data = cur.fetchone()
-
-            if user_data:
-                user = User(user_data[0], user_data[1], "", user_data[2])
-                return user
-            else:
-                return None
-        except psycopg2.Error as e:
-            raise Exception("Error al obtener los datos del usuario: " + str(e))
-        finally:
-            cur.close()
-
-        
     def get_email(self, username):
+        """
+        Obtiene la dirección de correo electrónico de un usuario de 
+        la tabla 'users' mediante su nombre de usuario.
+
+        Args:
+            username (str): Nombre de usuario del usuario del que se desea obtener el correo electrónico.
+
+        Returns:
+            str: Dirección de correo electrónico del usuario.
+
+        Raises:
+            Exception: Si ocurre un error al obtener los datos del usuario.
+        """
         cur = self.conn.cursor()
         try:
             cur.execute("SELECT email FROM users WHERE username = %s", (username,))
@@ -249,23 +363,23 @@ class Modelo:
         finally:
             cur.close()
 
-        
-    def get_users_by_role(self, admin=False):
-        cur = self.conn.cursor()
-        try:
-            cur.execute("SELECT id, username, password, email, admin FROM users WHERE admin = %s", (admin,))
-            users = []
-            for user_data in cur:
-                user = User(user_data[0], user_data[1], "", user_data[2], user_data[3])
-                users.append(user)
-            return users
-        except psycopg2.Error as e:
-            raise Exception("Error al obtener los usuarios por rol: " + str(e))
-        finally:
-            cur.close()
-
     
     def update_user(self, new_username, new_email, old_email):
+        """
+        Actualiza los datos de un usuario en la tabla 'users' con un nuevo 
+        nombre de usuario y correo electrónico.
+
+        Args:
+            new_username (str): Nuevo nombre de usuario a actualizar.
+            new_email (str): Nuevo correo electrónico a actualizar.
+            old_email (str): Correo electrónico actual del usuario que se desea actualizar.
+
+        Returns:
+            bool: True si se actualizan los datos del usuario correctamente.
+
+        Raises:
+            Exception: Si ocurre un error al actualizar los datos del usuario.
+        """
         cur = self.conn.cursor()
         try:
             cur.execute("UPDATE users SET username = %s, email = %s WHERE email = %s",
@@ -278,21 +392,18 @@ class Modelo:
         finally:
             cur.close()
 
-    def delete_user(self, user_id):
-        cur = self.conn.cursor()
-        try:
-            cur.execute("DELETE FROM users WHERE id = %s", (user_id,))
-            self.conn.commit()
-            return True
-        except psycopg2.Error as e:
-            self.conn.rollback()
-            raise Exception("Error al eliminar el usuario: " + str(e))
-        finally:
-            cur.close()
-
         
     # Gestión de los modelos de predicción
     def insert_models(self):
+        """
+        Inserta los modelos de predicción en la tabla 'modelos' de la base de datos.
+
+        Returns:
+            bool: True si se insertan los modelos correctamente.
+
+        Raises:
+            Exception: Si ocurre un error al insertar los modelos.
+        """
         cur = self.conn.cursor()
         try:
             # Cargar el archivo JSON 
@@ -319,6 +430,18 @@ class Modelo:
 
 
     def get_model_names_and_errors(self):
+        """
+        Obtiene los nombres de los modelos y sus errores (RMSE) de la tabla
+        'modelos' de la base de datos.
+
+        Returns:
+            list: Lista de diccionarios que contienen los nombres de los 
+            modelos y sus errores (RMSE).
+
+        Raises:
+            Exception: Si ocurre un error al obtener los nombres de los 
+            modelos y sus errores.
+        """
         cur = self.conn.cursor()
         try:
             consulta = """
@@ -341,6 +464,18 @@ class Modelo:
 
 
     def get_model_binaries(self, nombres_modelos):
+        """
+        Obtiene los binarios de los modelos de predicción a partir de una lista de nombres de modelos.
+
+        Args:
+            nombres_modelos (list): Lista de nombres de modelos de los cuales se desea obtener los binarios.
+
+        Returns:
+            dict: Diccionario donde las claves son los nombres de los modelos y los valores son los binarios de los modelos.
+
+        Raises:
+            Exception: Si ocurre un error al obtener los binarios de los modelos.
+        """
         try:
             diccionario_modelos = {}
 
@@ -367,7 +502,28 @@ class Modelo:
         except psycopg2.Error as e:
             raise Exception("Error al obtener los binarios de los modelos: " + str(e))
 
+
     def get_ejemplo(self, nombre_revista, year):
+        """
+        Obtiene un ejemplo de datos para la predicción a partir del nombre 
+        de una revista y un año específico. Estos datos se pasarán a los modelos 
+        de predicción.
+
+        Args:
+            nombre_revista (str): Nombre de la revista para la cual se desea
+              obtener el ejemplo de datos.
+            year (int): Año para el cual se desea obtener el ejemplo de datos.
+
+        Returns:
+            list: Lista que contiene el ejemplo de datos en el siguiente orden:
+                [citas_3_anios, jcr_3_anios, diff_3_anios,
+                citas_2_anios, jcr_2_anios, diff_2_anios,
+                citas_1_anios, jcr_1_anios, diff_1_anios,
+                citas_este_anio]
+
+        Raises:
+            Exception: Si ocurre un error al obtener los datos para la predicción.
+        """
         cur = self.conn.cursor()
         try:
             year = int(year)
@@ -426,6 +582,12 @@ class Modelo:
 
     # Módulo de creación de tablas
     def create_tables(self):
+        """
+        Crea las tablas necesarias en la base de datos.
+
+        Raises:
+            Exception: Si ocurre un error al crear las tablas.
+        """
         cur = self.conn.cursor()
         try:
             cur.execute("""
@@ -460,15 +622,6 @@ class Modelo:
                 
             """)
 
-            # Crear índice en la tabla revista de forma concurrente
-            # cur.execute("CREATE INDEX nombre_index ON revista (nombre);")
-
-            # Ejecutar el optimizador de consultas
-            # cur.execute("ANALYZE revista;")
-            # cur.execute("ANALYZE citas;")
-            # cur.execute("ANALYZE users;")
-            # cur.execute("ANALYZE revista_jcr;")
-
             self.conn.commit()
         except psycopg2.Error as e:
             raise Exception("Error al crear las tablas: " + str(e))
@@ -478,6 +631,17 @@ class Modelo:
 
     # Módulo de carga de datos
     def load_data(self, csv_path, table_name, columns):
+        """
+        Carga los datos desde un archivo CSV en una tabla específica de la base de datos.
+
+        Args:
+            csv_path (str): Ruta del archivo CSV que contiene los datos a cargar.
+            table_name (str): Nombre de la tabla en la que se cargarán los datos.
+            columns (list): Lista de nombres de columnas correspondientes a los datos a cargar.
+
+        Raises:
+            Exception: Si ocurre un error al copiar los datos.
+        """
         cur = self.conn.cursor()
         try:            
             with open(csv_path, 'r') as file:          
@@ -494,6 +658,15 @@ class Modelo:
         
     # Módulo de inserción de usuarios inicial
     def insert_users(self):
+        """
+        Inserta un usuario inicial en la base de datos.
+
+        El usuario inicial tiene el nombre de usuario "Admin", la contraseña "p@ssw0rd",
+        el correo electrónico "admin@example.com" y se le asigna el rol de administrador.
+
+        Raises:
+            Exception: Si ocurre un error al insertar el usuario.
+        """
         cur = self.conn.cursor()
         try:
             # Password hasheada
@@ -519,6 +692,15 @@ class Modelo:
 
     # Módulo para eliminar la información de la BBDD
     def drop_tables(self):
+        """
+        Elimina todas las tablas de la base de datos.
+
+        Esto borrará permanentemente toda la información almacenada en las tablas revista,
+        revista_jcr, citas, users y modelos.
+
+        Raises:
+            Exception: Si ocurre un error al eliminar las tablas.
+        """
         cur = self.conn.cursor()
         try:
             # Eliminar tablas si ya existen
@@ -541,6 +723,15 @@ class Modelo:
         
     # Módulo para comprobar si existen las tablas
     def check_tables(self):
+        """
+        Verifica si las tablas de la base de datos existen.
+
+        Returns:
+            bool: True si las tablas existen, False en caso contrario.
+            
+        Raises:
+            Exception: Si ocurre un error al comprobar las tablas.
+        """
         cur = self.conn.cursor()
         try:
             # Eliminar tablas si ya existen
@@ -563,6 +754,13 @@ class Modelo:
 
     # Módulo principal de inicialización
     def initialize_database(self):
+        """
+        Inicializa la base de datos eliminando las tablas existentes, creando
+        las tablas desde cero y cargando datos iniciales en la base de datos.
+
+        Raises:
+            Exception: Si ocurre un error al inicializar las tablas de la base de datos.
+        """
         try:
 
             # Eliminar las tablas si existen previamente
@@ -583,6 +781,20 @@ class Modelo:
         
 
     def validate_email(self, email):
+        """
+        Valida si un correo electrónico ya existe en la base de datos.
+        Si ya existiese, no se puede registrar otro igual.
+
+        Args:
+            email (str): Correo electrónico a validar.
+
+        Returns:
+            bool: True si el correo electrónico no existe en la base de datos,
+              False si ya existe.
+
+        Raises:
+            Exception: Si ocurre un error al realizar la validación.
+        """
         cur = self.conn.cursor()
         try:
             # Eliminar tablas si ya existen
@@ -602,6 +814,20 @@ class Modelo:
 
         
     def validate_user(self, username):
+        """
+        Valida si un nombre de usuario ya existe en la base de datos.
+        Si ya existiese, no se puede registrar otro igual.
+
+        Args:
+            username (str): Nombre de usuario a validar.
+
+        Returns:
+            bool: True si el nombre de usuario no existe en la base de datos,
+              False si ya existe.
+
+        Raises:
+            Exception: Si ocurre un error al realizar la validación.
+        """
         cur = self.conn.cursor()
         try:
             # Eliminar tablas si ya existen
@@ -620,6 +846,20 @@ class Modelo:
 
         
     def insert_profile_picture(self, image, username):
+        """
+        Inserta una imagen de perfil para un usuario en la base de datos.
+
+        Args:
+            image (file): Archivo de imagen de perfil.
+            username (str): Nombre de usuario al que se le asignará la imagen.
+
+        Returns:
+            bool: True si la imagen de perfil se inserta correctamente, 
+            False en caso contrario.
+
+        Raises:
+            Exception: Si ocurre un error al insertar la imagen de perfil.
+        """
         cur = self.conn.cursor()
         try:
             query = "UPDATE users SET image = %s WHERE username = %s"
@@ -633,6 +873,21 @@ class Modelo:
             cur.close()
 
     def get_profile_picture(self, username):
+        """
+        Obtiene la imagen de perfil de un usuario de la base de datos
+        para poder mostrarla.
+
+        Args:
+            username (str): Nombre de usuario del cual se desea obtener
+              la imagen de perfil.
+
+        Returns:
+            str or None: Cadena Base64 que representa la imagen de perfil
+              si se encuentra, None si no se encuentra o ocurre un error.
+
+        Raises:
+            Exception: Si ocurre un error al obtener la imagen de perfil.
+        """
         cur = self.conn.cursor()
         try:
             query = "SELECT image FROM users WHERE username = %s"

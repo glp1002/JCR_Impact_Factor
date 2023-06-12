@@ -119,7 +119,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
     var url = "/get_profile_picture";
-
+    // Obtener foto de perfil del usuario haciendo un GET
     fetch(url)
         .then(response => {
             if (response.ok) {
